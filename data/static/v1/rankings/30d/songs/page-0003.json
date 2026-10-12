@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 3,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1395,6 +1395,64 @@
     },
     {
       "rank": 125,
+      "id": "416d954c9cf76f9c",
+      "name": "セプテンバーさん",
+      "secondary": "RADWIMPS",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 54,
+      "videoCount": 54,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "FLHREFZliRQ",
+          "videoTitle": "【#弾き語り】1曲聴いていきませんか？ 久しぶりのギター弾き語り🎸singing stream - #ミナミイズミ #shorts",
+          "channelName": "ミナミイズミ / IZUMI MINAMI",
+          "publishedAt": "2026-10-04T15:06:39.790Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/FLHREFZliRQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB9GK0WroXgYAlVBEA-vYiImKyTQw",
+          "sourcePath": "sources/FL/FLHREFZliRQ.json",
+          "time": "2:20:47",
+          "seconds": 8447,
+          "songTitle": "セプテンバーさん",
+          "artist": "RADWIMPS"
+        },
+        {
+          "videoId": "pauzp4rVrlQ",
+          "videoTitle": "【 #歌枠 】久々にカラろ🎤🎶という日曜 【常勝無敗ぐぬぬ / ビバップ高校】",
+          "channelName": "常勝無敗ぐぬぬ - Makenashi Gununu -/ ビバップ高校",
+          "publishedAt": "2026-10-04T13:51:44.743Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pauzp4rVrlQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB05MpIPZ1LIe_awzTsixVCclZthw",
+          "sourcePath": "sources/pa/pauzp4rVrlQ.json",
+          "time": "0:51:21",
+          "seconds": 3081,
+          "songTitle": "セプテンバーさん",
+          "artist": "RADWIMPS"
+        },
+        {
+          "videoId": "cKsD7sCU-OA",
+          "videoTitle": "【#歌枠】揚げたじゃがいも美味しかった【#vtuber 】",
+          "channelName": "ぬもる / Numoru",
+          "publishedAt": "2026-10-04T09:22:07.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cKsD7sCU-OA/hqdefault.jpg",
+          "sourcePath": "sources/cK/cKsD7sCU-OA.json",
+          "time": "1:27:05",
+          "seconds": 5225,
+          "songTitle": "セプテンバーさん",
+          "artist": "RADWIMPS"
+        }
+      ],
+      "detailPath": "entities/songs/416d954c9cf76f9c.json"
+    },
+    {
+      "rank": 126,
       "id": "746458a81acc4385",
       "name": "#あくあ色ぱれっと",
       "secondary": "湊あくあ",
@@ -1449,64 +1507,6 @@
         }
       ],
       "detailPath": "entities/songs/746458a81acc4385.json"
-    },
-    {
-      "rank": 126,
-      "id": "416d954c9cf76f9c",
-      "name": "セプテンバーさん",
-      "secondary": "RADWIMPS",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 53,
-      "videoCount": 53,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "FLHREFZliRQ",
-          "videoTitle": "【#弾き語り】1曲聴いていきませんか？ 久しぶりのギター弾き語り🎸singing stream - #ミナミイズミ #shorts",
-          "channelName": "ミナミイズミ / IZUMI MINAMI",
-          "publishedAt": "2026-10-04T15:06:39.790Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FLHREFZliRQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB9GK0WroXgYAlVBEA-vYiImKyTQw",
-          "sourcePath": "sources/FL/FLHREFZliRQ.json",
-          "time": "2:20:47",
-          "seconds": 8447,
-          "songTitle": "セプテンバーさん",
-          "artist": "RADWIMPS"
-        },
-        {
-          "videoId": "cKsD7sCU-OA",
-          "videoTitle": "【#歌枠】揚げたじゃがいも美味しかった【#vtuber 】",
-          "channelName": "ぬもる / Numoru",
-          "publishedAt": "2026-10-04T09:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cKsD7sCU-OA/hqdefault.jpg",
-          "sourcePath": "sources/cK/cKsD7sCU-OA.json",
-          "time": "1:27:05",
-          "seconds": 5225,
-          "songTitle": "セプテンバーさん",
-          "artist": "RADWIMPS"
-        },
-        {
-          "videoId": "l6eJ74_nVJI",
-          "videoTitle": "【歌枠│#男性Vtuber】ギャップ萌えを狙ったVtuberの歌枠配信【白風アオ】",
-          "channelName": "白風アオ-shirokaze ao-",
-          "publishedAt": "2026-10-04T06:18:24.935Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/l6eJ74_nVJI/hqdefault.jpg",
-          "sourcePath": "sources/l6/l6eJ74_nVJI.json",
-          "time": "2:00:02",
-          "seconds": 7202,
-          "songTitle": "セプテンバーさん",
-          "artist": "RADWIMPS"
-        }
-      ],
-      "detailPath": "entities/songs/416d954c9cf76f9c.json"
     },
     {
       "rank": 127,
@@ -2084,6 +2084,64 @@
     },
     {
       "rank": 137,
+      "id": "06f329212ea19589",
+      "name": "ロキ",
+      "secondary": "みきとP",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 52,
+      "videoCount": 52,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "IQk0Gn2xHhA",
+          "videoTitle": "【3Dコラボ歌枠】#バビネロ やりたい放題SP #KMNZNERO #HTH",
+          "channelName": "KMNZ",
+          "publishedAt": "2026-10-07T12:38:31.019Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IQk0Gn2xHhA/hqdefault.jpg",
+          "sourcePath": "sources/IQ/IQk0Gn2xHhA.json",
+          "time": "0:07:35",
+          "seconds": 455,
+          "songTitle": "ロキ",
+          "artist": "みきとP"
+        },
+        {
+          "videoId": "AlOuVZYz9WI",
+          "videoTitle": "【 #歌枠 】ライブ2本も控えている？！2人で初コラボ✨化学反応聞いてって～！ with.XIDENちゃん #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
+          "channelName": "Azato Ch. 赤魔アザト",
+          "publishedAt": "2026-10-05T13:28:33.015Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AlOuVZYz9WI/hqdefault.jpg",
+          "sourcePath": "sources/Al/AlOuVZYz9WI.json",
+          "time": "0:26:14",
+          "seconds": 1574,
+          "songTitle": "ロキ",
+          "artist": "みきとP"
+        },
+        {
+          "videoId": "pauzp4rVrlQ",
+          "videoTitle": "【 #歌枠 】久々にカラろ🎤🎶という日曜 【常勝無敗ぐぬぬ / ビバップ高校】",
+          "channelName": "常勝無敗ぐぬぬ - Makenashi Gununu -/ ビバップ高校",
+          "publishedAt": "2026-10-04T13:51:44.743Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pauzp4rVrlQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB05MpIPZ1LIe_awzTsixVCclZthw",
+          "sourcePath": "sources/pa/pauzp4rVrlQ.json",
+          "time": "0:22:56",
+          "seconds": 1376,
+          "songTitle": "ロキ",
+          "artist": "みきとP"
+        }
+      ],
+      "detailPath": "entities/songs/06f329212ea19589.json"
+    },
+    {
+      "rank": 138,
       "id": "97a87976ea66a7a0",
       "name": "炎",
       "secondary": "LiSA",
@@ -2140,7 +2198,7 @@
       "detailPath": "entities/songs/97a87976ea66a7a0.json"
     },
     {
-      "rank": 138,
+      "rank": 139,
       "id": "864f80dd9b144eab",
       "name": "可愛くてごめん",
       "secondary": "HoneyWorks",
@@ -2198,7 +2256,7 @@
       "detailPath": "entities/songs/864f80dd9b144eab.json"
     },
     {
-      "rank": 139,
+      "rank": 140,
       "id": "3d4cc85a529085af",
       "name": "サマータイムレコード",
       "secondary": "じん",
@@ -2256,7 +2314,7 @@
       "detailPath": "entities/songs/3d4cc85a529085af.json"
     },
     {
-      "rank": 140,
+      "rank": 141,
       "id": "07a86c8d066cadfb",
       "name": "テルーの唄",
       "secondary": "手嶌葵",
@@ -2314,10 +2372,10 @@
       "detailPath": "entities/songs/07a86c8d066cadfb.json"
     },
     {
-      "rank": 141,
-      "id": "06f329212ea19589",
-      "name": "ロキ",
-      "secondary": "みきとP",
+      "rank": 142,
+      "id": "fa1547fa2ea51b63",
+      "name": "フォニイ",
+      "secondary": "ツミキ",
       "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
@@ -2333,46 +2391,46 @@
       "collectionId": "",
       "sourcesPreview": [
         {
-          "videoId": "IQk0Gn2xHhA",
-          "videoTitle": "【3Dコラボ歌枠】#バビネロ やりたい放題SP #KMNZNERO #HTH",
-          "channelName": "KMNZ",
-          "publishedAt": "2026-10-07T12:38:31.019Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/IQk0Gn2xHhA/hqdefault.jpg",
-          "sourcePath": "sources/IQ/IQk0Gn2xHhA.json",
-          "time": "0:07:35",
-          "seconds": 455,
-          "songTitle": "ロキ",
-          "artist": "みきとP"
+          "videoId": "Mj093iWBiAE",
+          "videoTitle": "【🎤歌枠🎀】初見さんも１曲聴いてって🌸ハンドマイクおひろめ.ᐟ【karaoke￤#μyustream 】",
+          "channelName": "Myu Ch. 花宮ミュウ",
+          "publishedAt": "2026-10-09T11:46:31.230Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Mj093iWBiAE/hqdefault.jpg",
+          "sourcePath": "sources/Mj/Mj093iWBiAE.json",
+          "time": "0:14:15",
+          "seconds": 855,
+          "songTitle": "フォニイ",
+          "artist": "ツミキ"
         },
         {
-          "videoId": "AlOuVZYz9WI",
-          "videoTitle": "【 #歌枠 】ライブ2本も控えている？！2人で初コラボ✨化学反応聞いてって～！ with.XIDENちゃん #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
-          "channelName": "Azato Ch. 赤魔アザト",
-          "publishedAt": "2026-10-05T13:28:33.015Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AlOuVZYz9WI/hqdefault.jpg",
-          "sourcePath": "sources/Al/AlOuVZYz9WI.json",
-          "time": "0:26:14",
-          "seconds": 1574,
-          "songTitle": "ロキ",
-          "artist": "みきとP"
+          "videoId": "2g30XvVlQHc",
+          "videoTitle": "【 歌枠 】 初見さんがコメントすると流れ星が流れる！初見さん２０人目標です！【葵井詩雫】 Vsinger | karaoke | animesong",
+          "channelName": "aoi sizuku ch. 葵井詩雫",
+          "publishedAt": "2026-10-09T04:09:04.654Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2g30XvVlQHc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZbBIsgYGLWT9abSxNGITjFXcLYw",
+          "sourcePath": "sources/2g/2g30XvVlQHc.json",
+          "time": "0:34:17",
+          "seconds": 2057,
+          "songTitle": "フォニイ",
+          "artist": "ツミキ"
         },
         {
-          "videoId": "MUqoxjlG5Y4",
-          "videoTitle": "638曲の中からリクエスト受付中！ゲリラ歌枠🎤 #歌枠 #live2d #個人勢vtuber",
-          "channelName": "ヴァンパイアップル",
-          "publishedAt": "2026-10-03T14:43:55.570Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MUqoxjlG5Y4/hqdefault.jpg",
-          "sourcePath": "sources/MU/MUqoxjlG5Y4.json",
-          "time": "2:05:52",
-          "seconds": 7552,
-          "songTitle": "ロキ",
-          "artist": "みきとP"
+          "videoId": "5Q7vi_bb8tc",
+          "videoTitle": "【#歌枠￤#KARAOKE 】一曲入魂。【#新人Vtuber #vsinger #夜は紺色】",
+          "channelName": "夜紺 火花 / Yakon Hibana",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5Q7vi_bb8tc/hqdefault.jpg",
+          "sourcePath": "sources/5Q/5Q7vi_bb8tc.json",
+          "time": "0:37:12",
+          "seconds": 2232,
+          "songTitle": "フォニイ",
+          "artist": "ツミキ"
         }
       ],
-      "detailPath": "entities/songs/06f329212ea19589.json"
+      "detailPath": "entities/songs/fa1547fa2ea51b63.json"
     },
     {
-      "rank": 142,
+      "rank": 143,
       "id": "372fced60d80d0e1",
       "name": "水平線",
       "secondary": "back number",
@@ -2430,7 +2488,7 @@
       "detailPath": "entities/songs/372fced60d80d0e1.json"
     },
     {
-      "rank": 143,
+      "rank": 144,
       "id": "474196394eb290b3",
       "name": "千本桜",
       "secondary": "黒うさP",
@@ -2487,7 +2545,7 @@
       "detailPath": "entities/songs/474196394eb290b3.json"
     },
     {
-      "rank": 144,
+      "rank": 145,
       "id": "bb1dae9e3cafd5a2",
       "name": "春泥棒",
       "secondary": "ヨルシカ",
@@ -2545,7 +2603,7 @@
       "detailPath": "entities/songs/bb1dae9e3cafd5a2.json"
     },
     {
-      "rank": 145,
+      "rank": 146,
       "id": "7bc51c5fbdd9145e",
       "name": "ハッピーシンセサイザ",
       "secondary": "",
@@ -2601,64 +2659,6 @@
         }
       ],
       "detailPath": "entities/songs/7bc51c5fbdd9145e.json"
-    },
-    {
-      "rank": 146,
-      "id": "fa1547fa2ea51b63",
-      "name": "フォニイ",
-      "secondary": "ツミキ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 50,
-      "videoCount": 50,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Mj093iWBiAE",
-          "videoTitle": "【🎤歌枠🎀】初見さんも１曲聴いてって🌸ハンドマイクおひろめ.ᐟ【karaoke￤#μyustream 】",
-          "channelName": "Myu Ch. 花宮ミュウ",
-          "publishedAt": "2026-10-09T11:46:31.230Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Mj093iWBiAE/hqdefault.jpg",
-          "sourcePath": "sources/Mj/Mj093iWBiAE.json",
-          "time": "0:14:15",
-          "seconds": 855,
-          "songTitle": "フォニイ",
-          "artist": "ツミキ"
-        },
-        {
-          "videoId": "2g30XvVlQHc",
-          "videoTitle": "【 歌枠 】 初見さんがコメントすると流れ星が流れる！初見さん２０人目標です！【葵井詩雫】 Vsinger | karaoke | animesong",
-          "channelName": "aoi sizuku ch. 葵井詩雫",
-          "publishedAt": "2026-10-09T04:09:04.654Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2g30XvVlQHc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZbBIsgYGLWT9abSxNGITjFXcLYw",
-          "sourcePath": "sources/2g/2g30XvVlQHc.json",
-          "time": "0:34:17",
-          "seconds": 2057,
-          "songTitle": "フォニイ",
-          "artist": "ツミキ"
-        },
-        {
-          "videoId": "5Q7vi_bb8tc",
-          "videoTitle": "【#歌枠￤#KARAOKE 】一曲入魂。【#新人Vtuber #vsinger #夜は紺色】",
-          "channelName": "夜紺 火花 / Yakon Hibana",
-          "publishedAt": "2026-10-07T15:06:49.511Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5Q7vi_bb8tc/hqdefault.jpg",
-          "sourcePath": "sources/5Q/5Q7vi_bb8tc.json",
-          "time": "0:37:12",
-          "seconds": 2232,
-          "songTitle": "フォニイ",
-          "artist": "ツミキ"
-        }
-      ],
-      "detailPath": "entities/songs/fa1547fa2ea51b63.json"
     },
     {
       "rank": 147,

@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 129,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6401,
+      "id": "5ffc10489bb6b862",
+      "name": "ふしぎデカルト",
+      "secondary": "相対性理論",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "7LO5Jbx1F54",
+          "videoTitle": "【 歌枠 】ま、ゆっくりしてってよ。🍵／定期歌枠 #91 【 惑世いと┆#vtuber 】",
+          "channelName": "惑世いと - wakuse ito-",
+          "publishedAt": "2026-10-02T12:51:11.612Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7LO5Jbx1F54/hqdefault.jpg",
+          "sourcePath": "sources/7L/7LO5Jbx1F54.json",
+          "time": "0:15:06",
+          "seconds": 906,
+          "songTitle": "ふしぎデカルト",
+          "artist": "相対性理論"
+        },
+        {
+          "videoId": "KAUb7tytZRE",
+          "videoTitle": "꒰ঌ #歌枠 ┆ 初見さん大歓迎！女性ボーカル縛り歌枠【 #江波キョウカ / パレプロ 】",
+          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
+          "publishedAt": "2026-09-22T09:30:37.501Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KAUb7tytZRE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADd1zjEOz8IOigeTYWlKjUUPu54w",
+          "sourcePath": "sources/KA/KAUb7tytZRE.json",
+          "time": "3:38:13",
+          "seconds": 13093,
+          "songTitle": "ふしぎデカルト",
+          "artist": "相対性理論"
+        },
+        {
+          "videoId": "25HGow7zOkk",
+          "videoTitle": "【 歌枠 】 のんびりできる歌枠探してませんか🌱【 惑世いと┆#vtuber 】",
+          "channelName": "惑世いと - wakuse ito-",
+          "publishedAt": "2026-09-15T10:23:49.947Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/25HGow7zOkk/hqdefault.jpg",
+          "sourcePath": "sources/25/25HGow7zOkk.json",
+          "time": "0:07:05",
+          "seconds": 425,
+          "songTitle": "ふしぎデカルト",
+          "artist": "相対性理論"
+        }
+      ],
+      "detailPath": "entities/songs/5ffc10489bb6b862.json"
+    },
+    {
+      "rank": 6402,
       "id": "0a860d33612bf165",
       "name": "ふたりごと [一生に一度のワープVer",
       "secondary": "RADWIMPS",
@@ -69,7 +126,7 @@
       "detailPath": "entities/songs/0a860d33612bf165.json"
     },
     {
-      "rank": 6402,
+      "rank": 6403,
       "id": "498a43293b9eeed3",
       "name": "ふたりの世界",
       "secondary": "あいみょん",
@@ -129,7 +186,7 @@
       "detailPath": "entities/songs/498a43293b9eeed3.json"
     },
     {
-      "rank": 6403,
+      "rank": 6404,
       "id": "6d592f1070ac0438",
       "name": "プライマル",
       "secondary": "ORIGINAL LOVE",
@@ -189,7 +246,7 @@
       "detailPath": "entities/songs/6d592f1070ac0438.json"
     },
     {
-      "rank": 6404,
+      "rank": 6405,
       "id": "a7aa9b36a3b7a64a",
       "name": "フラジール",
       "secondary": "",
@@ -246,7 +303,7 @@
       "detailPath": "entities/songs/a7aa9b36a3b7a64a.json"
     },
     {
-      "rank": 6405,
+      "rank": 6406,
       "id": "86eba92724579393",
       "name": "ブラック★ロックシューター",
       "secondary": "ryo(supercell) feat. 初音ミク",
@@ -305,7 +362,7 @@
       "detailPath": "entities/songs/86eba92724579393.json"
     },
     {
-      "rank": 6406,
+      "rank": 6407,
       "id": "32c4e4d88f33e7e6",
       "name": "フラッシュバッカー",
       "secondary": "結束バンド",
@@ -362,7 +419,7 @@
       "detailPath": "entities/songs/32c4e4d88f33e7e6.json"
     },
     {
-      "rank": 6407,
+      "rank": 6408,
       "id": "dee93c8b15573fee",
       "name": "プラネタリウムの真実",
       "secondary": "夏代孝明",
@@ -422,7 +479,7 @@
       "detailPath": "entities/songs/dee93c8b15573fee.json"
     },
     {
-      "rank": 6408,
+      "rank": 6409,
       "id": "631721bd6d614f43",
       "name": "プラネテス",
       "secondary": "",
@@ -479,7 +536,7 @@
       "detailPath": "entities/songs/631721bd6d614f43.json"
     },
     {
-      "rank": 6409,
+      "rank": 6410,
       "id": "0f4b71a036bb9a15",
       "name": "ふりぃ",
       "secondary": "阿部真央",
@@ -539,7 +596,7 @@
       "detailPath": "entities/songs/0f4b71a036bb9a15.json"
     },
     {
-      "rank": 6410,
+      "rank": 6411,
       "id": "4206a1513695ee69",
       "name": "フリィダム ロリィタ",
       "secondary": "ねじ式",
@@ -596,7 +653,7 @@
       "detailPath": "entities/songs/4206a1513695ee69.json"
     },
     {
-      "rank": 6411,
+      "rank": 6412,
       "id": "21ec2f16029688d4",
       "name": "ブリキノダンス",
       "secondary": "Ado",
@@ -653,7 +710,7 @@
       "detailPath": "entities/songs/21ec2f16029688d4.json"
     },
     {
-      "rank": 6412,
+      "rank": 6413,
       "id": "adbe90aba375b5b2",
       "name": "ブルー·ライト·ヨコハマ",
       "secondary": "いしだあゆみ",
@@ -712,7 +769,7 @@
       "detailPath": "entities/songs/adbe90aba375b5b2.json"
     },
     {
-      "rank": 6413,
+      "rank": 6414,
       "id": "b800b957e515aebf",
       "name": "ブルーバード",
       "secondary": "未記載",
@@ -769,7 +826,7 @@
       "detailPath": "entities/songs/b800b957e515aebf.json"
     },
     {
-      "rank": 6414,
+      "rank": 6415,
       "id": "cff62d85db313c99",
       "name": "ブルーバード",
       "secondary": "いきものがかり(水野良樹)",
@@ -828,7 +885,7 @@
       "detailPath": "entities/songs/cff62d85db313c99.json"
     },
     {
-      "rank": 6415,
+      "rank": 6416,
       "id": "38833ae75713c27f",
       "name": "ふれーふれーがんばれー!",
       "secondary": "シナモロール",
@@ -886,66 +943,6 @@
         }
       ],
       "detailPath": "entities/songs/38833ae75713c27f.json"
-    },
-    {
-      "rank": 6416,
-      "id": "7f72ba355974bc27",
-      "name": "プレゼント",
-      "secondary": "BUMP OF CHICKEN",
-      "channelId": "UCpNUOP0vGnYAF_XsFPTJLxQ",
-      "channelHandle": "@%E7%A2%91%E7%92%BB%E3%81%BF%E3%82%8A%E3%82%85%E3%81%86-HisuiMiryu",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 4,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "lcSI6mWWmZU",
-          "videoTitle": "【#歌枠】低音に自信アリな #始発歌枠 ￤J-POP / ボカロ / アニソン￤#sh1arch1ve【低音Vsinger￤sh1an】",
-          "channelName": "𝐬𝐡𝟏𝐚𝐧",
-          "publishedAt": "2026-08-30T03:16:39.133Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/lcSI6mWWmZU/hqdefault.jpg",
-          "sourcePath": "sources/lc/lcSI6mWWmZU.json",
-          "time": "1:06:45",
-          "seconds": 4005,
-          "songTitle": "プレゼント",
-          "artist": "BUMP OF CHICKEN"
-        },
-        {
-          "videoId": "1MjxiGI4Jps",
-          "videoTitle": "【#歌枠】8月も終盤なわけですが【やわらかVsinger】",
-          "channelName": "そた / sota",
-          "publishedAt": "2026-08-23T17:51:32.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1MjxiGI4Jps/hqdefault.jpg",
-          "sourcePath": "sources/1M/1MjxiGI4Jps.json",
-          "time": "2:25:18",
-          "seconds": 8718,
-          "songTitle": "プレゼント",
-          "artist": "BUMP OF CHICKEN"
-        },
-        {
-          "videoId": "qLCNzxPp1L8",
-          "videoTitle": "【#歌枠】BUMP OF CHICKEN歌枠！【JOYSOUND for STREAMER】",
-          "channelName": "里海やいち",
-          "publishedAt": "2026-08-23T15:51:32.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qLCNzxPp1L8/hqdefault.jpg",
-          "sourcePath": "sources/qL/qLCNzxPp1L8.json",
-          "time": "0:26:36",
-          "seconds": 1596,
-          "songTitle": "プレゼント",
-          "artist": "BUMP OF CHICKEN"
-        }
-      ],
-      "detailPath": "entities/songs/7f72ba355974bc27.json"
     },
     {
       "rank": 6417,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "items": [
     {
       "id": "ce40ae9ff803c85c",
@@ -2433,17 +2433,24 @@
       "type": "songs",
       "name": "世界の真ん中を歩く",
       "secondary": "夏代孝明",
-      "occurrenceCount": 3,
-      "videoCount": 3,
+      "occurrenceCount": 4,
+      "videoCount": 4,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/cbe7e93d3f340e32.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "世界の真ん中を歩く夏代孝明"
     },
     {
@@ -21865,8 +21872,8 @@
       "type": "songs",
       "name": "Luna say maybe",
       "secondary": "月村手毬",
-      "occurrenceCount": 6,
-      "videoCount": 6,
+      "occurrenceCount": 7,
+      "videoCount": 7,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -21879,8 +21886,8 @@
       "detailPath": "entities/songs/ce90bf51d680349b.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "lunasaymaybe月村手毬"

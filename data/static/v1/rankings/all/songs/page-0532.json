@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 532,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 26551,
+      "id": "bd952c9b7a6d2e8d",
+      "name": "RAIN",
+      "secondary": "SEKAI NO OWARI ※JOYSOUND",
+      "channelId": "UCfUKlhAU2WDspcmLKuio3DQ",
+      "channelHandle": "@YoiragiReyuri",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "GyvTMMBPNRU",
+          "videoTitle": "【 歌枠 】一週間がんばろう歌枠 ✦【 #新人vtuber / 宵月れゆり 】",
+          "channelName": "宵月れゆり / Yoiragi Reyuri",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/GyvTMMBPNRU/hqdefault.jpg",
+          "sourcePath": "sources/Gy/GyvTMMBPNRU.json",
+          "time": "0:17:19",
+          "seconds": 1039,
+          "songTitle": "RAIN",
+          "artist": "SEKAI NO OWARI ※JOYSOUND"
+        }
+      ],
+      "detailPath": "entities/songs/bd952c9b7a6d2e8d.json"
+    },
+    {
+      "rank": 26552,
+      "id": "fd115a07f1b6031a",
+      "name": "Rain （acoustic ver）",
+      "secondary": "秦基博",
+      "channelId": "UCRtUYzCBrzakJGZunxK9Rqg",
+      "channelHandle": "@nekome.",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "0FuTxHP1DxI",
+          "videoTitle": "10月もよろしく配信【歌枠】",
+          "channelName": "nekome.",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0FuTxHP1DxI/hqdefault.jpg",
+          "sourcePath": "sources/0F/0FuTxHP1DxI.json",
+          "time": "0:15:27",
+          "seconds": 927,
+          "songTitle": "Rain （acoustic ver）",
+          "artist": "秦基博"
+        }
+      ],
+      "detailPath": "entities/songs/fd115a07f1b6031a.json"
+    },
+    {
+      "rank": 26553,
       "id": "b0cc0e0b45c69d32",
       "name": "Rain On Me",
       "secondary": "Lady Gaga, Ariana Grande",
@@ -43,7 +103,7 @@
       "detailPath": "entities/songs/b0cc0e0b45c69d32.json"
     },
     {
-      "rank": 26552,
+      "rank": 26554,
       "id": "b94e1574b76e4310",
       "name": "rain stop,good-bye",
       "secondary": "におP",
@@ -76,7 +136,7 @@
       "detailPath": "entities/songs/b94e1574b76e4310.json"
     },
     {
-      "rank": 26553,
+      "rank": 26555,
       "id": "92234cde03c8163b",
       "name": "rain stops, good-bye",
       "secondary": "未記載",
@@ -110,7 +170,7 @@
       "detailPath": "entities/songs/92234cde03c8163b.json"
     },
     {
-      "rank": 26554,
+      "rank": 26556,
       "id": "3775c1dd02eaacef",
       "name": "rain stops, good-bye",
       "secondary": "初音ミク＆鏡音レン",
@@ -143,7 +203,7 @@
       "detailPath": "entities/songs/3775c1dd02eaacef.json"
     },
     {
-      "rank": 26555,
+      "rank": 26557,
       "id": "9e6723cfbf737718",
       "name": "rain stops, good-bye",
       "secondary": "におP feat. 初音ミク （練習）",
@@ -176,7 +236,7 @@
       "detailPath": "entities/songs/9e6723cfbf737718.json"
     },
     {
-      "rank": 26556,
+      "rank": 26558,
       "id": "faa3f63763d1790b",
       "name": "Rain stops, good-bye",
       "secondary": "Nio-P ft.Hatsune Miku",
@@ -209,7 +269,7 @@
       "detailPath": "entities/songs/faa3f63763d1790b.json"
     },
     {
-      "rank": 26557,
+      "rank": 26559,
       "id": "778a691576cba11d",
       "name": "rain stops, good-byeよき",
       "secondary": "",
@@ -242,7 +302,7 @@
       "detailPath": "entities/songs/778a691576cba11d.json"
     },
     {
-      "rank": 26558,
+      "rank": 26560,
       "id": "27fb1eab352b1ef1",
       "name": "rain stops,good-bye - におP",
       "secondary": "自作",
@@ -275,7 +335,7 @@
       "detailPath": "entities/songs/27fb1eab352b1ef1.json"
     },
     {
-      "rank": 26559,
+      "rank": 26561,
       "id": "aa671d097f12bfd1",
       "name": "rain stops. good-bye",
       "secondary": "におP (Nio P)",
@@ -308,7 +368,7 @@
       "detailPath": "entities/songs/aa671d097f12bfd1.json"
     },
     {
-      "rank": 26560,
+      "rank": 26562,
       "id": "54da8f06e9cf6a9c",
       "name": "rain stops.good-bye",
       "secondary": "初音ミク",
@@ -341,7 +401,7 @@
       "detailPath": "entities/songs/54da8f06e9cf6a9c.json"
     },
     {
-      "rank": 26561,
+      "rank": 26563,
       "id": "8ad820da7dfcd4e4",
       "name": "Rain『言の葉の庭』",
       "secondary": "秦基博",
@@ -375,7 +435,7 @@
       "detailPath": "entities/songs/8ad820da7dfcd4e4.json"
     },
     {
-      "rank": 26562,
+      "rank": 26564,
       "id": "b4300dcfc613884f",
       "name": "Rainbow",
       "secondary": "ROUND TABBLE",
@@ -408,7 +468,7 @@
       "detailPath": "entities/songs/b4300dcfc613884f.json"
     },
     {
-      "rank": 26563,
+      "rank": 26565,
       "id": "aa2a934052c8a781",
       "name": "Rainbow",
       "secondary": "",
@@ -441,7 +501,7 @@
       "detailPath": "entities/songs/aa2a934052c8a781.json"
     },
     {
-      "rank": 26564,
+      "rank": 26566,
       "id": "ed076c355045605d",
       "name": "RAINBOW\tLEGO BIG MORL",
       "secondary": "",
@@ -471,7 +531,7 @@
       "detailPath": "entities/songs/ed076c355045605d.json"
     },
     {
-      "rank": 26565,
+      "rank": 26567,
       "id": "745fe7ae913d84ae",
       "name": "Rainbow Flower",
       "secondary": "立花響(CV∶悠木碧)",
@@ -504,7 +564,7 @@
       "detailPath": "entities/songs/745fe7ae913d84ae.json"
     },
     {
-      "rank": 26566,
+      "rank": 26568,
       "id": "ef33b5a1ace033e3",
       "name": "Rainbow Flower",
       "secondary": "立花響",
@@ -537,7 +597,7 @@
       "detailPath": "entities/songs/ef33b5a1ace033e3.json"
     },
     {
-      "rank": 26567,
+      "rank": 26569,
       "id": "d630b7cc5c525171",
       "name": "RAINBOW GIRL",
       "secondary": "作詞41スレ673, 作曲43スレ437",
@@ -569,7 +629,7 @@
       "detailPath": "entities/songs/d630b7cc5c525171.json"
     },
     {
-      "rank": 26568,
+      "rank": 26570,
       "id": "52d4d6e82da3529e",
       "name": "RAINBOW GIRL",
       "secondary": "コロ助・いさかとなさ-2ちゃんねる ニュー速VIP「作曲できる奴ちょっとこい」スレ",
@@ -602,7 +662,7 @@
       "detailPath": "entities/songs/52d4d6e82da3529e.json"
     },
     {
-      "rank": 26569,
+      "rank": 26571,
       "id": "7a4e37fe9eff6f3b",
       "name": "RAINBOW GIRL",
       "secondary": "初音ミク",
@@ -635,7 +695,7 @@
       "detailPath": "entities/songs/7a4e37fe9eff6f3b.json"
     },
     {
-      "rank": 26570,
+      "rank": 26572,
       "id": "913294a01e4b4379",
       "name": "RAINBOW GIRL",
       "secondary": "となさ feat. 初音ミク",
@@ -668,7 +728,7 @@
       "detailPath": "entities/songs/913294a01e4b4379.json"
     },
     {
-      "rank": 26571,
+      "rank": 26573,
       "id": "b076d6ca9875076b",
       "name": "Rainbow Notes♪",
       "secondary": "神戸みゆき",
@@ -700,7 +760,7 @@
       "detailPath": "entities/songs/b076d6ca9875076b.json"
     },
     {
-      "rank": 26572,
+      "rank": 26574,
       "id": "60bfa275184aba68",
       "name": "RAINBOWS",
       "secondary": "アリス九號",
@@ -733,7 +793,7 @@
       "detailPath": "entities/songs/60bfa275184aba68.json"
     },
     {
-      "rank": 26573,
+      "rank": 26575,
       "id": "c8e898874b841a02",
       "name": "Rainy Blue",
       "secondary": "徳永英明",
@@ -766,7 +826,7 @@
       "detailPath": "entities/songs/c8e898874b841a02.json"
     },
     {
-      "rank": 26574,
+      "rank": 26576,
       "id": "7dbf06188d430b6b",
       "name": "Rainy Days and Mondays",
       "secondary": "",
@@ -796,7 +856,7 @@
       "detailPath": "entities/songs/7dbf06188d430b6b.json"
     },
     {
-      "rank": 26575,
+      "rank": 26577,
       "id": "541b51abff000125",
       "name": "rainy lady",
       "secondary": "しぐれうい",
@@ -829,7 +889,7 @@
       "detailPath": "entities/songs/541b51abff000125.json"
     },
     {
-      "rank": 26576,
+      "rank": 26578,
       "id": "7eefd1a7c8685f2b",
       "name": "Rainy proof",
       "secondary": "HACHI",
@@ -862,7 +922,7 @@
       "detailPath": "entities/songs/7eefd1a7c8685f2b.json"
     },
     {
-      "rank": 26577,
+      "rank": 26579,
       "id": "65b7b0bf616cc6ad",
       "name": "Rainy proof(Acoustic ver.)",
       "secondary": "",
@@ -895,7 +955,7 @@
       "detailPath": "entities/songs/65b7b0bf616cc6ad.json"
     },
     {
-      "rank": 26578,
+      "rank": 26580,
       "id": "9d2129259e7024be",
       "name": "Rainy veil",
       "secondary": "piano ver. / やなぎなぎ",
@@ -928,7 +988,7 @@
       "detailPath": "entities/songs/9d2129259e7024be.json"
     },
     {
-      "rank": 26579,
+      "rank": 26581,
       "id": "2c947387f6bc637d",
       "name": "RAISE INSIGHT",
       "secondary": "WANDS",
@@ -961,7 +1021,7 @@
       "detailPath": "entities/songs/2c947387f6bc637d.json"
     },
     {
-      "rank": 26580,
+      "rank": 26582,
       "id": "ae9577bae01c5709",
       "name": "RAISE MY SWORD",
       "secondary": "GALNERYUS",
@@ -994,7 +1054,7 @@
       "detailPath": "entities/songs/ae9577bae01c5709.json"
     },
     {
-      "rank": 26581,
+      "rank": 26583,
       "id": "5fc6f2a94668aa94",
       "name": "Raise your flag",
       "secondary": "",
@@ -1027,7 +1087,7 @@
       "detailPath": "entities/songs/5fc6f2a94668aa94.json"
     },
     {
-      "rank": 26582,
+      "rank": 26584,
       "id": "e8a6a38b3c830eff",
       "name": "Raise Your Glass",
       "secondary": "P!nk",
@@ -1060,7 +1120,7 @@
       "detailPath": "entities/songs/e8a6a38b3c830eff.json"
     },
     {
-      "rank": 26583,
+      "rank": 26585,
       "id": "72d38cad6bba104d",
       "name": "Ramune Bottle",
       "secondary": "awamizm",
@@ -1094,7 +1154,7 @@
       "detailPath": "entities/songs/72d38cad6bba104d.json"
     },
     {
-      "rank": 26584,
+      "rank": 26586,
       "id": "00f17547adedb5c8",
       "name": "Rapsodi",
       "secondary": "JKT48",
@@ -1127,7 +1187,7 @@
       "detailPath": "entities/songs/00f17547adedb5c8.json"
     },
     {
-      "rank": 26585,
+      "rank": 26587,
       "id": "50cf8fd59a46ae4f",
       "name": "RARE",
       "secondary": "フラガリアメモリーズ",
@@ -1160,7 +1220,7 @@
       "detailPath": "entities/songs/50cf8fd59a46ae4f.json"
     },
     {
-      "rank": 26586,
+      "rank": 26588,
       "id": "8fd31e95b37def32",
       "name": "RARE",
       "secondary": "FRAGARIAMEMORIES (RED BOUQUET)",
@@ -1193,7 +1253,7 @@
       "detailPath": "entities/songs/8fd31e95b37def32.json"
     },
     {
-      "rank": 26587,
+      "rank": 26589,
       "id": "f6394ba2febbd8cd",
       "name": "Rare Drop KOI KOI!",
       "secondary": "PSO2 Housoukyoku Member",
@@ -1226,7 +1286,7 @@
       "detailPath": "entities/songs/f6394ba2febbd8cd.json"
     },
     {
-      "rank": 26588,
+      "rank": 26590,
       "id": "5efa2e871dc33916",
       "name": "Rasen",
       "secondary": "Akeno Shiranui (CV: Eri Kitamura) / My Bride is a Mermaid character song",
@@ -1259,7 +1319,7 @@
       "detailPath": "entities/songs/5efa2e871dc33916.json"
     },
     {
-      "rank": 26589,
+      "rank": 26591,
       "id": "5bbc72bfb732dcd6",
       "name": "Rashisa (Being Yourself)",
       "secondary": "SUPER BEAVER",
@@ -1289,7 +1349,7 @@
       "detailPath": "entities/songs/5bbc72bfb732dcd6.json"
     },
     {
-      "rank": 26590,
+      "rank": 26592,
       "id": "f0771c8c15fe7c46",
       "name": "raspberry cube",
       "secondary": "未記載",
@@ -1323,7 +1383,7 @@
       "detailPath": "entities/songs/f0771c8c15fe7c46.json"
     },
     {
-      "rank": 26591,
+      "rank": 26593,
       "id": "393865ba11321a67",
       "name": "Rata Blanca",
       "secondary": "La leyenda del hada y el mago (1990)",
@@ -1356,7 +1416,7 @@
       "detailPath": "entities/songs/393865ba11321a67.json"
     },
     {
-      "rank": 26592,
+      "rank": 26594,
       "id": "96b4d5a4891d3135",
       "name": "Rave-up Tonight",
       "secondary": "Fear, and Loathing in Las Vegas",
@@ -1389,7 +1449,7 @@
       "detailPath": "entities/songs/96b4d5a4891d3135.json"
     },
     {
-      "rank": 26593,
+      "rank": 26595,
       "id": "43a08b07c2686d10",
       "name": "ray",
       "secondary": "BUMP OF CHICKEN ver ※超かぐや姫！扱い",
@@ -1421,7 +1481,7 @@
       "detailPath": "entities/songs/43a08b07c2686d10.json"
     },
     {
-      "rank": 26594,
+      "rank": 26596,
       "id": "48369ce3934b0b9b",
       "name": "ray",
       "secondary": "BUMP OF CHICKEN [多声類Ver.]",
@@ -1454,7 +1514,7 @@
       "detailPath": "entities/songs/48369ce3934b0b9b.json"
     },
     {
-      "rank": 26595,
+      "rank": 26597,
       "id": "2aa1d77abc379572",
       "name": "ray",
       "secondary": "BUMP OF CHICKENさま",
@@ -1487,7 +1547,7 @@
       "detailPath": "entities/songs/2aa1d77abc379572.json"
     },
     {
-      "rank": 26596,
+      "rank": 26598,
       "id": "849f626ea781ea9f",
       "name": "ray",
       "secondary": "BUMP OF CHICKE",
@@ -1521,7 +1581,7 @@
       "detailPath": "entities/songs/849f626ea781ea9f.json"
     },
     {
-      "rank": 26597,
+      "rank": 26599,
       "id": "3805671060e3d284",
       "name": "ray",
       "secondary": "BUNP OF CHICKEN",
@@ -1555,7 +1615,7 @@
       "detailPath": "entities/songs/3805671060e3d284.json"
     },
     {
-      "rank": 26598,
+      "rank": 26600,
       "id": "3e0587e10313605b",
       "name": "ray",
       "secondary": "BUMP OF CHICKEN ray / BUMP OF CHICKEN",
@@ -1586,66 +1646,6 @@
         }
       ],
       "detailPath": "entities/songs/3e0587e10313605b.json"
-    },
-    {
-      "rank": 26599,
-      "id": "4acf7d2f136019ef",
-      "name": "ray",
-      "secondary": "BUMP OF CHICKEN feat.初音ミク",
-      "channelId": "UCYZhSPp6mJdVaTgH1Au-D7w",
-      "channelHandle": "@yotsumemitsuki",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "YeiDXCcZeHI",
-          "videoTitle": "【歌枠】月一の歌枠ギリギリ開催です…！",
-          "channelName": "四ツ目水月 -yotsume mitsuki-",
-          "publishedAt": "2026-08-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YeiDXCcZeHI/hqdefault.jpg",
-          "sourcePath": "sources/Ye/YeiDXCcZeHI.json",
-          "time": "1:14:24",
-          "seconds": 4464,
-          "songTitle": "ray",
-          "artist": "BUMP OF CHICKEN feat.初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/4acf7d2f136019ef.json"
-    },
-    {
-      "rank": 26600,
-      "id": "bbd71b0785000c2b",
-      "name": "ray",
-      "secondary": "失敗！！！！！",
-      "channelId": "UCic9Ct_VqhCctfz2QbsZ7TQ",
-      "channelHandle": "@akiho_watanabe",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "dUN3y7hxiYc",
-          "videoTitle": "【#歌枠 / #VTuber 】久々の歌枠なのでご愛敬 【#karaoke / #singing / #なべあきCh】",
-          "channelName": "なべあきCh.",
-          "publishedAt": "2026-08-27T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/dUN3y7hxiYc/hqdefault.jpg",
-          "sourcePath": "sources/dU/dUN3y7hxiYc.json",
-          "time": "0:20:00",
-          "seconds": 1200,
-          "songTitle": "ray",
-          "artist": "失敗！！！！！"
-        }
-      ],
-      "detailPath": "entities/songs/bbd71b0785000c2b.json"
     }
   ]
 }

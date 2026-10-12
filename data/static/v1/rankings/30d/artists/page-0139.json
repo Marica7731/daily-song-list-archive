@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "artists",
   "page": 139,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10870,
+  "totalCount": 10871,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6901,
+      "id": "4ca9907b5e9224ca",
+      "name": "カントリー娘。に紺野と藤本 ( モーニング娘。 )",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "35zhr_8A6vA",
+          "videoTitle": "お歌練習したい！！#歌枠 #karaoke",
+          "channelName": "鶯きなこ",
+          "publishedAt": "2026-09-23T13:47:21.602Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/35zhr_8A6vA/hqdefault.jpg",
+          "sourcePath": "sources/35/35zhr_8A6vA.json",
+          "time": "1:23:00",
+          "seconds": 4980,
+          "songTitle": "浮気なハニーパイ",
+          "artist": "カントリー娘。に紺野と藤本 ( モーニング娘。 )"
+        }
+      ],
+      "detailPath": "entities/artists/4ca9907b5e9224ca.json"
+    },
+    {
+      "rank": 6902,
       "id": "d4af70c6f137579b",
       "name": "ガンバの冒険",
       "secondary": "",
@@ -40,7 +73,7 @@
       "detailPath": "entities/artists/d4af70c6f137579b.json"
     },
     {
-      "rank": 6902,
+      "rank": 6903,
       "id": "e2795133342f7b69",
       "name": "がんばれ！！とらふぃっくらいと！！",
       "secondary": "",
@@ -73,7 +106,7 @@
       "detailPath": "entities/artists/e2795133342f7b69.json"
     },
     {
-      "rank": 6903,
+      "rank": 6904,
       "id": "45eaeeb3b1327220",
       "name": "キー+3",
       "secondary": "",
@@ -106,7 +139,7 @@
       "detailPath": "entities/artists/45eaeeb3b1327220.json"
     },
     {
-      "rank": 6904,
+      "rank": 6905,
       "id": "0299d5d476e5ae04",
       "name": "キー調整あり",
       "secondary": "",
@@ -139,7 +172,7 @@
       "detailPath": "entities/artists/0299d5d476e5ae04.json"
     },
     {
-      "rank": 6905,
+      "rank": 6906,
       "id": "228f84bbde31ca5c",
       "name": "キー迷子",
       "secondary": "",
@@ -172,7 +205,7 @@
       "detailPath": "entities/artists/228f84bbde31ca5c.json"
     },
     {
-      "rank": 6906,
+      "rank": 6907,
       "id": "d71fd22c6da76409",
       "name": "ギガ",
       "secondary": "",
@@ -205,7 +238,7 @@
       "detailPath": "entities/artists/d71fd22c6da76409.json"
     },
     {
-      "rank": 6907,
+      "rank": 6908,
       "id": "695a164cfb545bd7",
       "name": "ギガP feat. GUMI",
       "secondary": "",
@@ -235,7 +268,7 @@
       "detailPath": "entities/artists/695a164cfb545bd7.json"
     },
     {
-      "rank": 6908,
+      "rank": 6909,
       "id": "92efc400ec8043e7",
       "name": "ギガP feat. GUMI＆ヲタみん",
       "secondary": "",
@@ -268,7 +301,7 @@
       "detailPath": "entities/artists/92efc400ec8043e7.json"
     },
     {
-      "rank": 6909,
+      "rank": 6910,
       "id": "2fbd8df3f22d3734",
       "name": "ギガP feat. 初音ミク",
       "secondary": "",
@@ -301,7 +334,7 @@
       "detailPath": "entities/artists/2fbd8df3f22d3734.json"
     },
     {
-      "rank": 6910,
+      "rank": 6911,
       "id": "892dc82cc2b149d5",
       "name": "ギガP,れをる feat. GUMI,鏡音リン",
       "secondary": "",
@@ -331,7 +364,7 @@
       "detailPath": "entities/artists/892dc82cc2b149d5.json"
     },
     {
-      "rank": 6911,
+      "rank": 6912,
       "id": "72dc29213c953b4c",
       "name": "きくお ※JOYSOUND",
       "secondary": "",
@@ -364,7 +397,7 @@
       "detailPath": "entities/artists/72dc29213c953b4c.json"
     },
     {
-      "rank": 6912,
+      "rank": 6913,
       "id": "8a7aadbf2f2def8e",
       "name": "きくお ft. 初音ミク",
       "secondary": "",
@@ -394,7 +427,7 @@
       "detailPath": "entities/artists/8a7aadbf2f2def8e.json"
     },
     {
-      "rank": 6913,
+      "rank": 6914,
       "id": "f9d7ac834045d2cb",
       "name": "キグルミ",
       "secondary": "",
@@ -424,7 +457,7 @@
       "detailPath": "entities/artists/f9d7ac834045d2cb.json"
     },
     {
-      "rank": 6914,
+      "rank": 6915,
       "id": "808688b6721326bb",
       "name": "ギター",
       "secondary": "",
@@ -454,7 +487,7 @@
       "detailPath": "entities/artists/808688b6721326bb.json"
     },
     {
-      "rank": 6915,
+      "rank": 6916,
       "id": "6e5c7c7dfdf37de7",
       "name": "ギターをつないで",
       "secondary": "",
@@ -487,7 +520,7 @@
       "detailPath": "entities/artists/6e5c7c7dfdf37de7.json"
     },
     {
-      "rank": 6916,
+      "rank": 6917,
       "id": "d89ff326e166694c",
       "name": "きただにひろし 「仮面ライダー龍騎」IN",
       "secondary": "",
@@ -517,7 +550,7 @@
       "detailPath": "entities/artists/d89ff326e166694c.json"
     },
     {
-      "rank": 6917,
+      "rank": 6918,
       "id": "1be98ea5a4860346",
       "name": "きただにひろし / ONEPIECE",
       "secondary": "",
@@ -550,7 +583,7 @@
       "detailPath": "entities/artists/1be98ea5a4860346.json"
     },
     {
-      "rank": 6918,
+      "rank": 6919,
       "id": "2430f690d5641f92",
       "name": "きただにひろし 様",
       "secondary": "",
@@ -580,7 +613,7 @@
       "detailPath": "entities/artists/2430f690d5641f92.json"
     },
     {
-      "rank": 6919,
+      "rank": 6920,
       "id": "c9006fc7a1a33ecd",
       "name": "きただにひろし（アニメ『ONE PIECE』OP）",
       "secondary": "",
@@ -613,7 +646,7 @@
       "detailPath": "entities/artists/c9006fc7a1a33ecd.json"
     },
     {
-      "rank": 6920,
+      "rank": 6921,
       "id": "fdaae34ff338c09d",
       "name": "キタニタツヤ (1番のみ)",
       "secondary": "",
@@ -646,7 +679,7 @@
       "detailPath": "entities/artists/fdaae34ff338c09d.json"
     },
     {
-      "rank": 6921,
+      "rank": 6922,
       "id": "108404823bcd42fe",
       "name": "キタニタツヤ ／ 呪術廻戦 懐玉・玉折(2023年)",
       "secondary": "",
@@ -676,7 +709,7 @@
       "detailPath": "entities/artists/108404823bcd42fe.json"
     },
     {
-      "rank": 6922,
+      "rank": 6923,
       "id": "1735b608500975b2",
       "name": "キタニタツヤ・・・点呼完了",
       "secondary": "",
@@ -709,7 +742,7 @@
       "detailPath": "entities/artists/1735b608500975b2.json"
     },
     {
-      "rank": 6923,
+      "rank": 6924,
       "id": "aa5b2ec34ea27787",
       "name": "キタニタツヤ（音量調整1番のみ）",
       "secondary": "",
@@ -742,7 +775,7 @@
       "detailPath": "entities/artists/aa5b2ec34ea27787.json"
     },
     {
-      "rank": 6924,
+      "rank": 6925,
       "id": "7125ac4d7d150434",
       "name": "きっかレン",
       "secondary": "",
@@ -775,7 +808,7 @@
       "detailPath": "entities/artists/7125ac4d7d150434.json"
     },
     {
-      "rank": 6925,
+      "rank": 6926,
       "id": "b58e45aec11baf4e",
       "name": "キノコにされちゃう！？",
       "secondary": "",
@@ -805,7 +838,7 @@
       "detailPath": "entities/artists/b58e45aec11baf4e.json"
     },
     {
-      "rank": 6926,
+      "rank": 6927,
       "id": "6168f5c9eb6f8bea",
       "name": "きのこ帝国 ※JOYSOUND",
       "secondary": "",
@@ -838,7 +871,7 @@
       "detailPath": "entities/artists/6168f5c9eb6f8bea.json"
     },
     {
-      "rank": 6927,
+      "rank": 6928,
       "id": "d82abf34d48148d8",
       "name": "きのこ帝国(1番だけ)",
       "secondary": "",
@@ -871,7 +904,7 @@
       "detailPath": "entities/artists/d82abf34d48148d8.json"
     },
     {
-      "rank": 6928,
+      "rank": 6929,
       "id": "475ff947dc3b7357",
       "name": "キマスイッチ",
       "secondary": "",
@@ -904,7 +937,7 @@
       "detailPath": "entities/artists/475ff947dc3b7357.json"
     },
     {
-      "rank": 6929,
+      "rank": 6930,
       "id": "a6bcf2a1c49958bb",
       "name": "ギミー!レボリューション",
       "secondary": "",
@@ -934,7 +967,7 @@
       "detailPath": "entities/artists/a6bcf2a1c49958bb.json"
     },
     {
-      "rank": 6930,
+      "rank": 6931,
       "id": "ddbb546cf768e92e",
       "name": "キミとアイドルプリキュア",
       "secondary": "",
@@ -967,7 +1000,7 @@
       "detailPath": "entities/artists/ddbb546cf768e92e.json"
     },
     {
-      "rank": 6931,
+      "rank": 6932,
       "id": "03c9d74b44487e51",
       "name": "きみに回帰線",
       "secondary": "",
@@ -997,7 +1030,7 @@
       "detailPath": "entities/artists/03c9d74b44487e51.json"
     },
     {
-      "rank": 6932,
+      "rank": 6933,
       "id": "65d517f4845bedb5",
       "name": "キャプテンストライダム",
       "secondary": "",
@@ -1030,7 +1063,7 @@
       "detailPath": "entities/artists/65d517f4845bedb5.json"
     },
     {
-      "rank": 6933,
+      "rank": 6934,
       "id": "6e5e80d315a04f3e",
       "name": "キャプテン翼",
       "secondary": "",
@@ -1060,7 +1093,7 @@
       "detailPath": "entities/artists/6e5e80d315a04f3e.json"
     },
     {
-      "rank": 6934,
+      "rank": 6935,
       "id": "3875ba77682174fe",
       "name": "きゃりーぱみゅぱみゅ (2011) 「バンタン」CMソング",
       "secondary": "",
@@ -1093,7 +1126,7 @@
       "detailPath": "entities/artists/3875ba77682174fe.json"
     },
     {
-      "rank": 6935,
+      "rank": 6936,
       "id": "94c4e6632be19bd3",
       "name": "きゃりーぱみゅぱみゅ ※JOYSOUND",
       "secondary": "",
@@ -1126,7 +1159,7 @@
       "detailPath": "entities/artists/94c4e6632be19bd3.json"
     },
     {
-      "rank": 6936,
+      "rank": 6937,
       "id": "8a4843fd499759db",
       "name": "きゃりーぱみゅぱみゅ 様",
       "secondary": "",
@@ -1156,7 +1189,7 @@
       "detailPath": "entities/artists/8a4843fd499759db.json"
     },
     {
-      "rank": 6937,
+      "rank": 6938,
       "id": "8bec116db5401fb1",
       "name": "ギャルすたむ",
       "secondary": "",
@@ -1189,7 +1222,7 @@
       "detailPath": "entities/artists/8bec116db5401fb1.json"
     },
     {
-      "rank": 6938,
+      "rank": 6939,
       "id": "b4b182c9fc1e7bca",
       "name": "キャロル・マールス・ディーンハイム",
       "secondary": "",
@@ -1219,7 +1252,7 @@
       "detailPath": "entities/artists/b4b182c9fc1e7bca.json"
     },
     {
-      "rank": 6939,
+      "rank": 6940,
       "id": "c357608050ac1055",
       "name": "キャンセル",
       "secondary": "",
@@ -1252,7 +1285,7 @@
       "detailPath": "entities/artists/c357608050ac1055.json"
     },
     {
-      "rank": 6940,
+      "rank": 6941,
       "id": "80c4f3058ee99de9",
       "name": "キャンディーズ（1975年）",
       "secondary": "",
@@ -1282,7 +1315,7 @@
       "detailPath": "entities/artists/80c4f3058ee99de9.json"
     },
     {
-      "rank": 6941,
+      "rank": 6942,
       "id": "c2a15255cb93e52b",
       "name": "キャンディーズ（1976年）",
       "secondary": "",
@@ -1312,7 +1345,7 @@
       "detailPath": "entities/artists/c2a15255cb93e52b.json"
     },
     {
-      "rank": 6942,
+      "rank": 6943,
       "id": "367043c851b27cac",
       "name": "キュアウインク ( CV : 髙橋 ミナミ )",
       "secondary": "",
@@ -1345,7 +1378,7 @@
       "detailPath": "entities/artists/367043c851b27cac.json"
     },
     {
-      "rank": 6943,
+      "rank": 6944,
       "id": "8eb43272785263d6",
       "name": "キュアウインク(CV:高橋ミナミ)",
       "secondary": "",
@@ -1375,7 +1408,7 @@
       "detailPath": "entities/artists/8eb43272785263d6.json"
     },
     {
-      "rank": 6944,
+      "rank": 6945,
       "id": "da5ff7a3f233a5ce",
       "name": "キュアミラクル(高橋李依),キュアマジカル(堀江由衣),キュアフェリーチェ(早見沙織) / 魔法つかいプリキュア!",
       "secondary": "",
@@ -1408,7 +1441,7 @@
       "detailPath": "entities/artists/da5ff7a3f233a5ce.json"
     },
     {
-      "rank": 6945,
+      "rank": 6946,
       "id": "df1009ebb65e824f",
       "name": "きゅうくらりん",
       "secondary": "",
@@ -1438,7 +1471,7 @@
       "detailPath": "entities/artists/df1009ebb65e824f.json"
     },
     {
-      "rank": 6946,
+      "rank": 6947,
       "id": "ff3a7f555a429455",
       "name": "キューティーハニー",
       "secondary": "",
@@ -1468,7 +1501,7 @@
       "detailPath": "entities/artists/ff3a7f555a429455.json"
     },
     {
-      "rank": 6947,
+      "rank": 6948,
       "id": "462ef36a08b4a6ab",
       "name": "ぎゅっと",
       "secondary": "",
@@ -1501,7 +1534,7 @@
       "detailPath": "entities/artists/462ef36a08b4a6ab.json"
     },
     {
-      "rank": 6948,
+      "rank": 6949,
       "id": "ac6463397d501f47",
       "name": "キヨ×レトルト",
       "secondary": "",
@@ -1534,7 +1567,7 @@
       "detailPath": "entities/artists/ac6463397d501f47.json"
     },
     {
-      "rank": 6949,
+      "rank": 6950,
       "id": "0d4dd311970ef530",
       "name": "キョン（杉田智和）",
       "secondary": "",
@@ -1562,39 +1595,6 @@
         }
       ],
       "detailPath": "entities/artists/0d4dd311970ef530.json"
-    },
-    {
-      "rank": 6950,
-      "id": "66234de875fc3570",
-      "name": "きらりん☆レボリューション",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "gT0ZRcSWCs8",
-          "videoTitle": "【 #歌枠 】歌うまVを目指すお姉さんの平成アニソン縛り！【 #たべるうみゃ / #vtuber 】#新人vtuber #初見さん大歓迎",
-          "channelName": "たべるうみゃ",
-          "publishedAt": "2026-09-23T11:12:59.656Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gT0ZRcSWCs8/hqdefault.jpg",
-          "sourcePath": "sources/gT/gT0ZRcSWCs8.json",
-          "time": "2:12:59",
-          "seconds": 7979,
-          "songTitle": "バラライカ",
-          "artist": "きらりん☆レボリューション"
-        }
-      ],
-      "detailPath": "entities/artists/66234de875fc3570.json"
     }
   ]
 }

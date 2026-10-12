@@ -1,16 +1,166 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 487,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 24301,
+      "id": "e9ee02e51278ae00",
+      "name": "心の瞳",
+      "secondary": "坂本九",
+      "channelId": "UC5ZEWtlwM3d4x4iLDOnzuww",
+      "channelHandle": "@oto0415",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "jrl0e7i3Z5w",
+          "videoTitle": "【 弾き語り / KARAOKE 】お昼にまったり聞ける歌枠【 #紗倉おと 】 #shorts",
+          "channelName": "紗倉おと-Sakura Oto-🎸",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jrl0e7i3Z5w/hqdefault.jpg",
+          "sourcePath": "sources/jr/jrl0e7i3Z5w.json",
+          "time": "1:07:45",
+          "seconds": 4065,
+          "songTitle": "心の瞳",
+          "artist": "坂本九"
+        }
+      ],
+      "detailPath": "entities/songs/e9ee02e51278ae00.json"
+    },
+    {
+      "rank": 24302,
+      "id": "fda19096507b7f0e",
+      "name": "心の瞳",
+      "secondary": "合唱曲（坂本九）",
+      "channelId": "UC66WaLABqbRRsbr0HZHoalA",
+      "channelHandle": "@felicie-priere",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "FGdoU1NzVYI",
+          "videoTitle": "【#歌枠 第70回】ソロイベチケット宣伝歌枠Day6🎤【フェリシエ・プリエール / VTuber】#karaoke",
+          "channelName": "Felicie Ch. フェリシエ・プリエール",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/FGdoU1NzVYI/hqdefault.jpg",
+          "sourcePath": "sources/FG/FGdoU1NzVYI.json",
+          "time": "1:04:42",
+          "seconds": 3882,
+          "songTitle": "心の瞳",
+          "artist": "合唱曲（坂本九）"
+        }
+      ],
+      "detailPath": "entities/songs/fda19096507b7f0e.json"
+    },
+    {
+      "rank": 24303,
+      "id": "680e7ab7737daecf",
+      "name": "心はジプシー",
+      "secondary": "超時空世紀オーガス",
+      "channelId": "UClB2lFAl1AX3Y9-3QzDl47g",
+      "channelHandle": "@murasakisongs",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "aObHWWnYLdg",
+          "videoTitle": "9/20 夜 リクエスト歌枠。＜70年代～90年代多め。アニソン特撮ソングレパートリー2200曲＞ #vtuver",
+          "channelName": "murasaki songs",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aObHWWnYLdg/hqdefault.jpg",
+          "sourcePath": "sources/aO/aObHWWnYLdg.json",
+          "time": "2:06:58",
+          "seconds": 7618,
+          "songTitle": "心はジプシー",
+          "artist": "超時空世紀オーガス"
+        }
+      ],
+      "detailPath": "entities/songs/680e7ab7737daecf.json"
+    },
+    {
+      "rank": 24304,
+      "id": "010ec78a6df15d3a",
+      "name": "心はタマゴ",
+      "secondary": "",
+      "channelId": "UCnMi8wCNpKPDxQb3YXT4ZwA",
+      "channelHandle": "@mayusora1215",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dNHwV27x42E",
+          "videoTitle": "【#歌枠】まゆ空がなんか歌う～",
+          "channelName": "まゆ空Vtuber",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dNHwV27x42E/hqdefault.jpg",
+          "sourcePath": "sources/dN/dNHwV27x42E.json",
+          "time": "0:51:20",
+          "seconds": 3080,
+          "songTitle": "心はタマゴ",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/010ec78a6df15d3a.json"
+    },
+    {
+      "rank": 24305,
+      "id": "85e163838f0df9cf",
+      "name": "心ひとつ",
+      "secondary": "MISIA",
+      "channelId": "UCqsS32C_llpT2ia5S1Oh44A",
+      "channelHandle": "@suzume_mikagura",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qIdcEUzLy3Q",
+          "videoTitle": "【歌枠┊KARAOKE】エモ黄昏、アニソン・J-POP 初見さんも大歓迎！【Vsinger Vtuber┊御神楽すずめ】",
+          "channelName": "御神楽すずめ / Mikagura Suzume",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qIdcEUzLy3Q/hqdefault.jpg",
+          "sourcePath": "sources/qI/qIdcEUzLy3Q.json",
+          "time": "1:55:15",
+          "seconds": 6915,
+          "songTitle": "心ひとつ",
+          "artist": "MISIA"
+        }
+      ],
+      "detailPath": "entities/songs/85e163838f0df9cf.json"
+    },
+    {
+      "rank": 24306,
       "id": "e88971d3bfaffc9f",
       "name": "心もよう",
       "secondary": "井上陽水",
@@ -43,7 +193,7 @@
       "detailPath": "entities/songs/e88971d3bfaffc9f.json"
     },
     {
-      "rank": 24302,
+      "rank": 24307,
       "id": "5aa307ee8eda9f19",
       "name": "心よ原始に戻れ",
       "secondary": "高橋洋子 (新世紀エヴァンゲリオン)",
@@ -76,7 +226,7 @@
       "detailPath": "entities/songs/5aa307ee8eda9f19.json"
     },
     {
-      "rank": 24303,
+      "rank": 24308,
       "id": "561bf2071acf39ee",
       "name": "心を刺す言葉だけ",
       "secondary": "MIMI",
@@ -106,7 +256,7 @@
       "detailPath": "entities/songs/561bf2071acf39ee.json"
     },
     {
-      "rank": 24304,
+      "rank": 24309,
       "id": "2c311ea6669459fa",
       "name": "心海",
       "secondary": "Eve",
@@ -139,7 +289,7 @@
       "detailPath": "entities/songs/2c311ea6669459fa.json"
     },
     {
-      "rank": 24305,
+      "rank": 24310,
       "id": "731d06807207e10c",
       "name": "心絵",
       "secondary": "ロードオブメジャー ／ メジャー(2004年)",
@@ -169,7 +319,7 @@
       "detailPath": "entities/songs/731d06807207e10c.json"
     },
     {
-      "rank": 24306,
+      "rank": 24311,
       "id": "cb899c17c4cc85a4",
       "name": "心絵",
       "secondary": "Kokoroe 🤍 (ロードオブメジャー)",
@@ -202,7 +352,7 @@
       "detailPath": "entities/songs/cb899c17c4cc85a4.json"
     },
     {
-      "rank": 24307,
+      "rank": 24312,
       "id": "acc9f353f79adf6d",
       "name": "心絵",
       "secondary": "ロードオブメジャー (メジャー)",
@@ -235,7 +385,7 @@
       "detailPath": "entities/songs/acc9f353f79adf6d.json"
     },
     {
-      "rank": 24308,
+      "rank": 24313,
       "id": "23f4d2908cf4175e",
       "name": "心絵／ロードオブメジャー • 【ガイドなし】心絵",
       "secondary": "ロードオブメジャー",
@@ -265,7 +415,7 @@
       "detailPath": "entities/songs/23f4d2908cf4175e.json"
     },
     {
-      "rank": 24309,
+      "rank": 24314,
       "id": "eda7ca71b9b09d57",
       "name": "心願便利貼",
       "secondary": "元若藍",
@@ -298,7 +448,7 @@
       "detailPath": "entities/songs/eda7ca71b9b09d57.json"
     },
     {
-      "rank": 24310,
+      "rank": 24315,
       "id": "bc863586f430c806",
       "name": "心月辭·何所往",
       "secondary": "蘇詩丁SU",
@@ -331,7 +481,7 @@
       "detailPath": "entities/songs/bc863586f430c806.json"
     },
     {
-      "rank": 24311,
+      "rank": 24316,
       "id": "cf7dae466590b898",
       "name": "心象カスケード",
       "secondary": "koyori",
@@ -364,7 +514,7 @@
       "detailPath": "entities/songs/cf7dae466590b898.json"
     },
     {
-      "rank": 24312,
+      "rank": 24317,
       "id": "e7a55629b7d0ad61",
       "name": "心象カスケード",
       "secondary": "koyori(電ポルP) ※JOYSOUND",
@@ -397,7 +547,7 @@
       "detailPath": "entities/songs/e7a55629b7d0ad61.json"
     },
     {
-      "rank": 24313,
+      "rank": 24318,
       "id": "105ebfaaa824c381",
       "name": "心像放映",
       "secondary": "",
@@ -430,7 +580,7 @@
       "detailPath": "entities/songs/105ebfaaa824c381.json"
     },
     {
-      "rank": 24314,
+      "rank": 24319,
       "id": "26294cebc3235e14",
       "name": "心像放映",
       "secondary": "米津玄師",
@@ -460,7 +610,7 @@
       "detailPath": "entities/songs/26294cebc3235e14.json"
     },
     {
-      "rank": 24315,
+      "rank": 24320,
       "id": "531f76ddf8a43ef9",
       "name": "心臓",
       "secondary": "",
@@ -493,7 +643,7 @@
       "detailPath": "entities/songs/531f76ddf8a43ef9.json"
     },
     {
-      "rank": 24316,
+      "rank": 24321,
       "id": "d2538688d5ae652b",
       "name": "心臓デモクラシー",
       "secondary": "mikitoP ft.Hatsune Miku",
@@ -526,7 +676,7 @@
       "detailPath": "entities/songs/d2538688d5ae652b.json"
     },
     {
-      "rank": 24317,
+      "rank": 24322,
       "id": "801920fe0c91fe10",
       "name": "心臓デモクラシー",
       "secondary": "そらる",
@@ -559,7 +709,7 @@
       "detailPath": "entities/songs/801920fe0c91fe10.json"
     },
     {
-      "rank": 24318,
+      "rank": 24323,
       "id": "e8dd0f96e653ce69",
       "name": "心淡",
       "secondary": "粵",
@@ -589,7 +739,7 @@
       "detailPath": "entities/songs/e8dd0f96e653ce69.json"
     },
     {
-      "rank": 24319,
+      "rank": 24324,
       "id": "ced9e56919cec624",
       "name": "心得",
       "secondary": "Uru",
@@ -622,7 +772,7 @@
       "detailPath": "entities/songs/ced9e56919cec624.json"
     },
     {
-      "rank": 24320,
+      "rank": 24325,
       "id": "73d6e0bfe9594302",
       "name": "心拍数 # 0822",
       "secondary": "蝶々P feat.初音ミクAppend (DARK) [マネ]",
@@ -655,7 +805,7 @@
       "detailPath": "entities/songs/73d6e0bfe9594302.json"
     },
     {
-      "rank": 24321,
+      "rank": 24326,
       "id": "b6e1a4bd08508729",
       "name": "心拍数# 0822／蝶々P",
       "secondary": "アカペラ、一番のみ",
@@ -685,7 +835,7 @@
       "detailPath": "entities/songs/b6e1a4bd08508729.json"
     },
     {
-      "rank": 24322,
+      "rank": 24327,
       "id": "de1e04b1c8bcb90f",
       "name": "心拍数#0822",
       "secondary": "初音ミク",
@@ -718,7 +868,7 @@
       "detailPath": "entities/songs/de1e04b1c8bcb90f.json"
     },
     {
-      "rank": 24323,
+      "rank": 24328,
       "id": "3b8e7d78f06fea2a",
       "name": "心拍数♯0822",
       "secondary": "papiyon(蝶々P) feat. 初音ミク",
@@ -751,7 +901,7 @@
       "detailPath": "entities/songs/3b8e7d78f06fea2a.json"
     },
     {
-      "rank": 24324,
+      "rank": 24329,
       "id": "e8f49db427239c3b",
       "name": "心拍数♯0822 〈Shinpakusuu〉",
       "secondary": "蝶々P",
@@ -781,7 +931,7 @@
       "detailPath": "entities/songs/e8f49db427239c3b.json"
     },
     {
-      "rank": 24325,
+      "rank": 24330,
       "id": "55771335bc9501ce",
       "name": "心予報",
       "secondary": "アカペラワンフレーズ",
@@ -811,7 +961,7 @@
       "detailPath": "entities/songs/55771335bc9501ce.json"
     },
     {
-      "rank": 24326,
+      "rank": 24331,
       "id": "2cf1d46295f295c2",
       "name": "心亂如麻",
       "secondary": "衞蘭",
@@ -841,7 +991,7 @@
       "detailPath": "entities/songs/2cf1d46295f295c2.json"
     },
     {
-      "rank": 24327,
+      "rank": 24332,
       "id": "3f717083b7a64443",
       "name": "心做し",
       "secondary": "GUMI",
@@ -874,7 +1024,7 @@
       "detailPath": "entities/songs/3f717083b7a64443.json"
     },
     {
-      "rank": 24328,
+      "rank": 24333,
       "id": "0c5f13d40aed08bd",
       "name": "心做し",
       "secondary": "papiyon(蝶々P) feat. GUMI",
@@ -907,7 +1057,7 @@
       "detailPath": "entities/songs/0c5f13d40aed08bd.json"
     },
     {
-      "rank": 24329,
+      "rank": 24334,
       "id": "d2026badfc2bea5b",
       "name": "心做し",
       "secondary": "蝶々P ／ GUMI(2014年)",
@@ -937,7 +1087,7 @@
       "detailPath": "entities/songs/d2026badfc2bea5b.json"
     },
     {
-      "rank": 24330,
+      "rank": 24335,
       "id": "0324c179843591bd",
       "name": "心做し",
       "secondary": "Kokoronashi 🤍 (蝶々P)",
@@ -970,7 +1120,7 @@
       "detailPath": "entities/songs/0324c179843591bd.json"
     },
     {
-      "rank": 24331,
+      "rank": 24336,
       "id": "d89f8a0c73f42cc0",
       "name": "心做し",
       "secondary": "蝶々P ft. GUMI / JS",
@@ -1003,7 +1153,7 @@
       "detailPath": "entities/songs/d89f8a0c73f42cc0.json"
     },
     {
-      "rank": 24332,
+      "rank": 24337,
       "id": "0b2fbe0d04cfded0",
       "name": "心做し-Piano Ver",
       "secondary": "蝶々P feat. GUMI",
@@ -1036,7 +1186,7 @@
       "detailPath": "entities/songs/0b2fbe0d04cfded0.json"
     },
     {
-      "rank": 24333,
+      "rank": 24338,
       "id": "cee4dd62c9ed2722",
       "name": "慎吾ママのおはロック",
       "secondary": "慎吾ママ",
@@ -1069,7 +1219,7 @@
       "detailPath": "entities/songs/cee4dd62c9ed2722.json"
     },
     {
-      "rank": 24334,
+      "rank": 24339,
       "id": "6e76ed37f0d4323c",
       "name": "振り向かない",
       "secondary": "山崎まさよし",
@@ -1102,7 +1252,7 @@
       "detailPath": "entities/songs/6e76ed37f0d4323c.json"
     },
     {
-      "rank": 24335,
+      "rank": 24340,
       "id": "8eb95b8b9c4cfa09",
       "name": "振り返り",
       "secondary": "",
@@ -1132,7 +1282,7 @@
       "detailPath": "entities/songs/8eb95b8b9c4cfa09.json"
     },
     {
-      "rank": 24336,
+      "rank": 24341,
       "id": "b8f1d3b0a361a26a",
       "name": "新・チョコレート事件",
       "secondary": "",
@@ -1165,7 +1315,7 @@
       "detailPath": "entities/songs/b8f1d3b0a361a26a.json"
     },
     {
-      "rank": 24337,
+      "rank": 24342,
       "id": "625771879adcf241",
       "name": "新しいラプソディー",
       "secondary": "井上陽水",
@@ -1195,7 +1345,7 @@
       "detailPath": "entities/songs/625771879adcf241.json"
     },
     {
-      "rank": 24338,
+      "rank": 24343,
       "id": "bd6e3e6076bd7031",
       "name": "新しい恋人たちに",
       "secondary": "back number",
@@ -1228,7 +1378,7 @@
       "detailPath": "entities/songs/bd6e3e6076bd7031.json"
     },
     {
-      "rank": 24339,
+      "rank": 24344,
       "id": "1f05ef36e6b00a6c",
       "name": "新たなる誓い",
       "secondary": "ポケットモンスタークリスタル ライコウ雷の伝説（2002） / 田村直美 🆕",
@@ -1258,7 +1408,7 @@
       "detailPath": "entities/songs/1f05ef36e6b00a6c.json"
     },
     {
-      "rank": 24340,
+      "rank": 24345,
       "id": "11c7626adba32669",
       "name": "新曲",
       "secondary": "デモ",
@@ -1288,7 +1438,7 @@
       "detailPath": "entities/songs/11c7626adba32669.json"
     },
     {
-      "rank": 24341,
+      "rank": 24346,
       "id": "734e683fbdee1886",
       "name": "新曲（タイトル未定曲）",
       "secondary": "鍛治島彩",
@@ -1318,7 +1468,7 @@
       "detailPath": "entities/songs/734e683fbdee1886.json"
     },
     {
-      "rank": 24342,
+      "rank": 24347,
       "id": "e6db379e2236d5d3",
       "name": "新曲「ただそばで」",
       "secondary": "まにこ",
@@ -1348,7 +1498,7 @@
       "detailPath": "entities/songs/e6db379e2236d5d3.json"
     },
     {
-      "rank": 24343,
+      "rank": 24348,
       "id": "63093564f579e94e",
       "name": "新月の子守歌",
       "secondary": "HOYO-Mix",
@@ -1381,7 +1531,7 @@
       "detailPath": "entities/songs/63093564f579e94e.json"
     },
     {
-      "rank": 24344,
+      "rank": 24349,
       "id": "53ebb89d4b49bb37",
       "name": "新時代",
       "secondary": "ウタ",
@@ -1414,7 +1564,7 @@
       "detailPath": "entities/songs/53ebb89d4b49bb37.json"
     },
     {
-      "rank": 24345,
+      "rank": 24350,
       "id": "e3eb6b90d50e2fbb",
       "name": "新時代",
       "secondary": "0点",
@@ -1445,168 +1595,6 @@
         }
       ],
       "detailPath": "entities/songs/e3eb6b90d50e2fbb.json"
-    },
-    {
-      "rank": 24346,
-      "id": "f2670e5b72231cb5",
-      "name": "新時代",
-      "secondary": "ONE PIECEより",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "SZ7nGscvxKg",
-          "videoTitle": "【#猫耳犬耳歌枠リレー】柴犬代表の座はいただく！！【#御子柴もも】",
-          "channelName": "Momo Ch.御子柴もも",
-          "publishedAt": "2026-09-23T09:40:10.447Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SZ7nGscvxKg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADFhLdFI9LS9V3vKDNvh5u1btyhA",
-          "sourcePath": "sources/SZ/SZ7nGscvxKg.json",
-          "time": "0:06:05",
-          "seconds": 365,
-          "songTitle": "新時代",
-          "artist": "ONE PIECEより"
-        }
-      ],
-      "detailPath": "entities/songs/f2670e5b72231cb5.json"
-    },
-    {
-      "rank": 24347,
-      "id": "a37dcff5b448f008",
-      "name": "新時代",
-      "secondary": "ウタ(歌唱:Ado)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vYYPEcw0pY8",
-          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
-          "channelName": "冬萌ここな",
-          "publishedAt": "2026-09-30T13:30:21.981Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vYYPEcw0pY8/hqdefault.jpg",
-          "sourcePath": "sources/vY/vYYPEcw0pY8.json",
-          "time": "1:37:56",
-          "seconds": 5876,
-          "songTitle": "新時代",
-          "artist": "ウタ(歌唱:Ado)"
-        }
-      ],
-      "detailPath": "entities/songs/a37dcff5b448f008.json"
-    },
-    {
-      "rank": 24348,
-      "id": "207c775af5c83859",
-      "name": "新宿",
-      "secondary": "オトナモード *",
-      "channelId": "UCBY1b_TPZx3rA0F1KJnXkNQ",
-      "channelHandle": "@muzuchannel",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "WK_SJCWUrpg",
-          "videoTitle": "【 #歌枠 】初見さん20人おむかえするまで終われないみたい【 #MUZU | PROJECT ALVIZIA 】",
-          "channelName": "MUZU‐むずちゃんねる‐【Vtuber】",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/WK_SJCWUrpg/hqdefault.jpg",
-          "sourcePath": "sources/WK/WK_SJCWUrpg.json",
-          "time": "4:30:06",
-          "seconds": 16206,
-          "songTitle": "新宿",
-          "artist": "オトナモード *"
-        }
-      ],
-      "detailPath": "entities/songs/207c775af5c83859.json"
-    },
-    {
-      "rank": 24349,
-      "id": "bdaa87bbf62ec163",
-      "name": "新世界",
-      "secondary": "九九",
-      "channelId": "UCOW-2NSrcfU6K9BEhbzR9Vw",
-      "channelHandle": "@ichijikuq",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "FDUuo8HcoeA",
-          "videoTitle": "【10000人耐久歌枠】ついに夢の1万人へ…！？ 歴史的瞬間を刮目せよ！【九九｜Ichijiku Q】",
-          "channelName": "九九 / ichijiku Q",
-          "publishedAt": "2026-10-05T18:10:33.875Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FDUuo8HcoeA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX8hcTHIipgZU9EAdnXdwA5W4vdw",
-          "sourcePath": "sources/FD/FDUuo8HcoeA.json",
-          "time": "4:12:59",
-          "seconds": 15179,
-          "songTitle": "新世界",
-          "artist": "九九"
-        }
-      ],
-      "detailPath": "entities/songs/bdaa87bbf62ec163.json"
-    },
-    {
-      "rank": 24350,
-      "id": "6faa812aed4850e0",
-      "name": "新聖歌209番 慈しみ深き(讃美歌第312番)",
-      "secondary": "讃美歌",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "U9Rbg1M7h7k",
-          "videoTitle": "【 #歌枠 】˗ˏˋ ゆるりと夜歌枠 ˎˊ˗ 【 ARAWAZA / 影沼あげは 】",
-          "channelName": "影沼あげは",
-          "publishedAt": "2026-09-12T16:52:31.987Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/U9Rbg1M7h7k/hqdefault.jpg",
-          "sourcePath": "sources/U9/U9Rbg1M7h7k.json",
-          "time": "1:11:46",
-          "seconds": 4306,
-          "songTitle": "新聖歌209番 慈しみ深き(讃美歌第312番)",
-          "artist": "讃美歌"
-        }
-      ],
-      "detailPath": "entities/songs/6faa812aed4850e0.json"
     }
   ]
 }

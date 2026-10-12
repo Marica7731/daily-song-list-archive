@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 64,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -776,6 +776,66 @@
     },
     {
       "rank": 3164,
+      "id": "dbc547ae7ce518e7",
+      "name": "HAPPY",
+      "secondary": "BUMP OF CHICKEN",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 8,
+      "videoCount": 8,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ICTixwDU0wc",
+          "videoTitle": "【#歌枠 |#karaoke 】とても久しい歌枠タイム【宙音りりぃ-Sorane Lily-】",
+          "channelName": "microcosmos / 宙音りりぃ Official Channel",
+          "publishedAt": "2026-10-04T13:58:50.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ICTixwDU0wc/hqdefault.jpg",
+          "sourcePath": "sources/IC/ICTixwDU0wc.json",
+          "time": "0:58:43",
+          "seconds": 3523,
+          "songTitle": "HAPPY",
+          "artist": "BUMP OF CHICKEN"
+        },
+        {
+          "videoId": "mZHX1kHF7pE",
+          "videoTitle": "【歌枠】すごく久しぶりに歌います。まったりと。【我部りえる/あおぎり高校】",
+          "channelName": "Rieru Ch. 我部りえる /あおぎり高校",
+          "publishedAt": "2026-10-03T16:17:36.542Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mZHX1kHF7pE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUABovOX_wMOCNSLhNYGGODqBCDgqAE=&rs=AOn4CLCN_WUS10eFOUkrXHn9t6vG9yReWA&usqp=CBU",
+          "sourcePath": "sources/mZ/mZHX1kHF7pE.json",
+          "time": "2:06:14",
+          "seconds": 7574,
+          "songTitle": "HAPPY",
+          "artist": "BUMP OF CHICKEN"
+        },
+        {
+          "videoId": "oRFWNlmlw8M",
+          "videoTitle": "【歌枠 】誕生日にカラオケし隊【ルチア・ラエティティア/ねくすとぴあ】",
+          "channelName": "ルチア・ラエティティア / Lucia Laetitia",
+          "publishedAt": "2026-09-20T11:31:30.869Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oRFWNlmlw8M/hqdefault.jpg",
+          "sourcePath": "sources/oR/oRFWNlmlw8M.json",
+          "time": "0:20:08",
+          "seconds": 1208,
+          "songTitle": "HAPPY",
+          "artist": "BUMP OF CHICKEN"
+        }
+      ],
+      "detailPath": "entities/songs/dbc547ae7ce518e7.json"
+    },
+    {
+      "rank": 3165,
       "id": "367e9d81477fef6a",
       "name": "HARUKAZE",
       "secondary": "SCANDAL",
@@ -835,7 +895,7 @@
       "detailPath": "entities/songs/367e9d81477fef6a.json"
     },
     {
-      "rank": 3165,
+      "rank": 3166,
       "id": "09e26cab9950d01c",
       "name": "home",
       "secondary": "木山裕策",
@@ -892,7 +952,7 @@
       "detailPath": "entities/songs/09e26cab9950d01c.json"
     },
     {
-      "rank": 3166,
+      "rank": 3167,
       "id": "37a41b785aac592b",
       "name": "I I I",
       "secondary": "宝鐘マリン&こぼ・かなえる 🆕",
@@ -951,7 +1011,7 @@
       "detailPath": "entities/songs/37a41b785aac592b.json"
     },
     {
-      "rank": 3167,
+      "rank": 3168,
       "id": "5b3e65a44c99a1ce",
       "name": "Jewelry tears",
       "secondary": "美郷あき",
@@ -1008,7 +1068,7 @@
       "detailPath": "entities/songs/5b3e65a44c99a1ce.json"
     },
     {
-      "rank": 3168,
+      "rank": 3169,
       "id": "b5b533ae9ad83bd9",
       "name": "LIFE",
       "secondary": "中島美嘉",
@@ -1068,7 +1128,7 @@
       "detailPath": "entities/songs/b5b533ae9ad83bd9.json"
     },
     {
-      "rank": 3169,
+      "rank": 3170,
       "id": "920f8e34b239e6e2",
       "name": "LIVE for LIFE ～狼たちの夜～",
       "secondary": "愛美",
@@ -1128,7 +1188,7 @@
       "detailPath": "entities/songs/920f8e34b239e6e2.json"
     },
     {
-      "rank": 3170,
+      "rank": 3171,
       "id": "1501f1527b9664a3",
       "name": "Luna say maybe",
       "secondary": "月村手毬(cv.小鹿なお)",
@@ -1188,7 +1248,7 @@
       "detailPath": "entities/songs/1501f1527b9664a3.json"
     },
     {
-      "rank": 3171,
+      "rank": 3172,
       "id": "adf8588980f734d8",
       "name": "Luna say maybe",
       "secondary": "月村手毬(小鹿なお)",
@@ -1248,7 +1308,7 @@
       "detailPath": "entities/songs/adf8588980f734d8.json"
     },
     {
-      "rank": 3172,
+      "rank": 3173,
       "id": "e1bb0fe35fd7e962",
       "name": "MajiでKoiする5秒前",
       "secondary": "広末涼子",
@@ -1308,7 +1368,7 @@
       "detailPath": "entities/songs/e1bb0fe35fd7e962.json"
     },
     {
-      "rank": 3173,
+      "rank": 3174,
       "id": "f4927c23fcc67eb9",
       "name": "MILABO",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1368,7 +1428,7 @@
       "detailPath": "entities/songs/f4927c23fcc67eb9.json"
     },
     {
-      "rank": 3174,
+      "rank": 3175,
       "id": "aa051b1ae7dfbc16",
       "name": "MINATO",
       "secondary": "@minato_v_kikakuya",
@@ -1422,7 +1482,7 @@
       "detailPath": "entities/songs/aa051b1ae7dfbc16.json"
     },
     {
-      "rank": 3175,
+      "rank": 3176,
       "id": "ecd421f5809d491b",
       "name": "MOON SIGNAL",
       "secondary": "スフィア",
@@ -1482,7 +1542,7 @@
       "detailPath": "entities/songs/ecd421f5809d491b.json"
     },
     {
-      "rank": 3176,
+      "rank": 3177,
       "id": "e6f7943a4909447c",
       "name": "MY BOY",
       "secondary": "Buono!",
@@ -1542,7 +1602,7 @@
       "detailPath": "entities/songs/e6f7943a4909447c.json"
     },
     {
-      "rank": 3177,
+      "rank": 3178,
       "id": "66ef0f47222b217a",
       "name": "My Song",
       "secondary": "Girls Dead Monster",
@@ -1603,7 +1663,7 @@
       "detailPath": "entities/songs/66ef0f47222b217a.json"
     },
     {
-      "rank": 3178,
+      "rank": 3179,
       "id": "2da602a2e83c76f8",
       "name": "never no astray",
       "secondary": "fripSide",
@@ -1660,7 +1720,7 @@
       "detailPath": "entities/songs/2da602a2e83c76f8.json"
     },
     {
-      "rank": 3179,
+      "rank": 3180,
       "id": "a60f72fe5e704e79",
       "name": "No brand girls",
       "secondary": "μ's",
@@ -1720,7 +1780,7 @@
       "detailPath": "entities/songs/a60f72fe5e704e79.json"
     },
     {
-      "rank": 3180,
+      "rank": 3181,
       "id": "30f3e1a093c9a01c",
       "name": "No Regret",
       "secondary": "倖田來未",
@@ -1779,7 +1839,7 @@
       "detailPath": "entities/songs/30f3e1a093c9a01c.json"
     },
     {
-      "rank": 3181,
+      "rank": 3182,
       "id": "a19324fe205648f2",
       "name": "ODDS&ENDS",
       "secondary": "Ryo",
@@ -1836,7 +1896,7 @@
       "detailPath": "entities/songs/a19324fe205648f2.json"
     },
     {
-      "rank": 3182,
+      "rank": 3183,
       "id": "6c7f9b564703c770",
       "name": "Only Human",
       "secondary": "K",
@@ -1897,7 +1957,7 @@
       "detailPath": "entities/songs/6c7f9b564703c770.json"
     },
     {
-      "rank": 3183,
+      "rank": 3184,
       "id": "912034d6dcd566ff",
       "name": "Orange Sapphire",
       "secondary": "城ヶ崎莉嘉(山本希望)諸星きらり(松嵜麗)城ヶ崎美嘉(佳村はるか)本田未央(原紗友里)赤城みりあ(黒沢ともよ)",
@@ -1954,7 +2014,7 @@
       "detailPath": "entities/songs/912034d6dcd566ff.json"
     },
     {
-      "rank": 3184,
+      "rank": 3185,
       "id": "09ea04a7bac1ce85",
       "name": "PAIN IS BEAUTY",
       "secondary": "ちゃんみな *",
@@ -2014,7 +2074,7 @@
       "detailPath": "entities/songs/09ea04a7bac1ce85.json"
     },
     {
-      "rank": 3185,
+      "rank": 3186,
       "id": "08965e7a2367960c",
       "name": "PAPERMOON",
       "secondary": "Tommy heavenly6",
@@ -2074,7 +2134,7 @@
       "detailPath": "entities/songs/08965e7a2367960c.json"
     },
     {
-      "rank": 3186,
+      "rank": 3187,
       "id": "540420c70a7e820f",
       "name": "past",
       "secondary": "駆空なぎ",
@@ -2134,7 +2194,7 @@
       "detailPath": "entities/songs/540420c70a7e820f.json"
     },
     {
-      "rank": 3187,
+      "rank": 3188,
       "id": "34d2341534f1faff",
       "name": "Planetes",
       "secondary": "EGOIST ※JOYSOUND",
@@ -2194,7 +2254,7 @@
       "detailPath": "entities/songs/34d2341534f1faff.json"
     },
     {
-      "rank": 3188,
+      "rank": 3189,
       "id": "d40a8cdf3089c344",
       "name": "PPPP",
       "secondary": "TAK feat. 初音ミク,重音テト",
@@ -2253,7 +2313,7 @@
       "detailPath": "entities/songs/d40a8cdf3089c344.json"
     },
     {
-      "rank": 3189,
+      "rank": 3190,
       "id": "bc07d95ced84032a",
       "name": "Pretender",
       "secondary": "",
@@ -2310,7 +2370,7 @@
       "detailPath": "entities/songs/bc07d95ced84032a.json"
     },
     {
-      "rank": 3190,
+      "rank": 3191,
       "id": "5ed4636fae687104",
       "name": "Prototype",
       "secondary": "石川智晶",
@@ -2370,7 +2430,7 @@
       "detailPath": "entities/songs/5ed4636fae687104.json"
     },
     {
-      "rank": 3191,
+      "rank": 3192,
       "id": "d4edbba548a552ac",
       "name": "Rainy veil",
       "secondary": "やなぎなぎ",
@@ -2432,7 +2492,7 @@
       "detailPath": "entities/songs/d4edbba548a552ac.json"
     },
     {
-      "rank": 3192,
+      "rank": 3193,
       "id": "b27629b196c5c318",
       "name": "raspberry cube",
       "secondary": "松下",
@@ -2489,7 +2549,7 @@
       "detailPath": "entities/songs/b27629b196c5c318.json"
     },
     {
-      "rank": 3193,
+      "rank": 3194,
       "id": "0a021826515adfbc",
       "name": "READY!!",
       "secondary": "765PRO ALLSTARS",
@@ -2549,7 +2609,7 @@
       "detailPath": "entities/songs/0a021826515adfbc.json"
     },
     {
-      "rank": 3194,
+      "rank": 3195,
       "id": "f1698d17402d00d8",
       "name": "REVIVER",
       "secondary": "MY FIRST STORY",
@@ -2609,7 +2669,7 @@
       "detailPath": "entities/songs/f1698d17402d00d8.json"
     },
     {
-      "rank": 3195,
+      "rank": 3196,
       "id": "18bbb81baf4ed00c",
       "name": "Runner",
       "secondary": "爆風スランプ",
@@ -2669,7 +2729,7 @@
       "detailPath": "entities/songs/18bbb81baf4ed00c.json"
     },
     {
-      "rank": 3196,
+      "rank": 3197,
       "id": "33b87aabf0428afe",
       "name": "Shadow Shadow",
       "secondary": "Azari",
@@ -2729,7 +2789,7 @@
       "detailPath": "entities/songs/33b87aabf0428afe.json"
     },
     {
-      "rank": 3197,
+      "rank": 3198,
       "id": "3ff62bf45af959ac",
       "name": "SHAKE",
       "secondary": "SMAP",
@@ -2789,7 +2849,7 @@
       "detailPath": "entities/songs/3ff62bf45af959ac.json"
     },
     {
-      "rank": 3198,
+      "rank": 3199,
       "id": "27bab3688feeaa42",
       "name": "Sleepwalk",
       "secondary": "なとり",
@@ -2846,7 +2906,7 @@
       "detailPath": "entities/songs/27bab3688feeaa42.json"
     },
     {
-      "rank": 3199,
+      "rank": 3200,
       "id": "bb95359023197e2d",
       "name": "Stand By You",
       "secondary": "Official髭男dism",
@@ -2904,66 +2964,6 @@
         }
       ],
       "detailPath": "entities/songs/bb95359023197e2d.json"
-    },
-    {
-      "rank": 3200,
-      "id": "ae7b87b551ffd717",
-      "name": "Star!!",
-      "secondary": "CINDERELLA PROJECT",
-      "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
-      "channelHandle": "@nazunakaga",
-      "channelUrl": "",
-      "occurrenceCount": 8,
-      "videoCount": 8,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "TQR8_GtwzE0",
-          "videoTitle": "〖 朝活 / 歌枠 〗ダンスレッスン前のあちあちお歌枠🩷.ᐟ .ᐟ 〖 #むいるらいぶ #Vtuber ベルプロ〗",
-          "channelName": "心恋音むいる / Kokone Muiru【ベルプロ】",
-          "publishedAt": "2026-10-08T23:08:57.033Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TQR8_GtwzE0/hqdefault.jpg",
-          "sourcePath": "sources/TQ/TQR8_GtwzE0.json",
-          "time": "1:14:26",
-          "seconds": 4466,
-          "songTitle": "Star!!",
-          "artist": "CINDERELLA PROJECT"
-        },
-        {
-          "videoId": "q72YEJ5DvIk",
-          "videoTitle": "【#歌枠】高音で可愛く癒し系で歌ったり低音でメロくボーイッシュに歌ったり￤KARAOKE Singing Stream【明堂しろね/ハコネクト】",
-          "channelName": "明堂しろね Shirone Ch.",
-          "publishedAt": "2026-10-03T05:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/q72YEJ5DvIk/hqdefault.jpg",
-          "sourcePath": "sources/q7/q72YEJ5DvIk.json",
-          "time": "0:44:53",
-          "seconds": 2693,
-          "songTitle": "Star!!",
-          "artist": "CINDERELLA PROJECT"
-        },
-        {
-          "videoId": "9u_rymuBYAY",
-          "videoTitle": "【歌枠/KARAOKE】初見さん大歓迎🌸明日は八王子でLIVEだ！気合い入れていくぞ～！アニソン・JPOP…etc【 #早乙女あずき】2026.10.2",
-          "channelName": "早乙女あずきAzuki Saotome",
-          "publishedAt": "2026-10-02T16:14:01.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9u_rymuBYAY/hqdefault.jpg",
-          "sourcePath": "sources/9u/9u_rymuBYAY.json",
-          "time": "0:44:08",
-          "seconds": 2648,
-          "songTitle": "Star!!",
-          "artist": "CINDERELLA PROJECT"
-        }
-      ],
-      "detailPath": "entities/songs/ae7b87b551ffd717.json"
     }
   ]
 }

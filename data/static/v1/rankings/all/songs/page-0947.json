@@ -1,16 +1,83 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 947,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 47301,
+      "id": "91e06053e25e90ef",
+      "name": "醒めない",
+      "secondary": "スピッツ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "sJB2G0arhyE",
+          "videoTitle": "【KARAOKE／歌枠】JOYSOUNDforSTREAMERに入ってるスピッツ曲を歌いまくる！！！！【#花村アイ／Vtuber】",
+          "channelName": "花村アイ",
+          "publishedAt": "2026-08-26T17:45:22.879Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sJB2G0arhyE/hqdefault.jpg",
+          "sourcePath": "sources/sJ/sJB2G0arhyE.json",
+          "time": "1:14:40",
+          "seconds": 4480,
+          "songTitle": "醒めない",
+          "artist": "スピッツ"
+        }
+      ],
+      "detailPath": "entities/songs/91e06053e25e90ef.json"
+    },
+    {
+      "rank": 47302,
+      "id": "ef3b15211b4cd12d",
+      "name": "青",
+      "secondary": "シド",
+      "channelId": "UCV5fHI5euR7ZC4ZqhYqlwYw",
+      "channelHandle": "@OHGARUKIch",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "1OTNVvZa_bU",
+          "videoTitle": "〖#歌枠〗 鬼が歌い狂う #耐久 #凰牙人類攻略",
+          "channelName": "RUKI Ch. 凰牙るき",
+          "publishedAt": "2026-07-21T18:53:48.552Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1OTNVvZa_bU/hqdefault.jpg",
+          "sourcePath": "sources/1O/1OTNVvZa_bU.json",
+          "time": "4:12:27",
+          "seconds": 15147,
+          "songTitle": "青",
+          "artist": "シド"
+        }
+      ],
+      "detailPath": "entities/songs/ef3b15211b4cd12d.json"
+    },
+    {
+      "rank": 47303,
       "id": "04c335286b6761ab",
       "name": "青",
       "secondary": "164 / JS",
@@ -43,7 +110,7 @@
       "detailPath": "entities/songs/04c335286b6761ab.json"
     },
     {
-      "rank": 47302,
+      "rank": 47304,
       "id": "87e0bb5ec9362aee",
       "name": "青い",
       "secondary": "ポルカドットスティングレイ",
@@ -76,7 +143,7 @@
       "detailPath": "entities/songs/87e0bb5ec9362aee.json"
     },
     {
-      "rank": 47303,
+      "rank": 47305,
       "id": "313bc0682abee98e",
       "name": "青い\"ナス\"畑",
       "secondary": "安全地帯",
@@ -106,7 +173,7 @@
       "detailPath": "entities/songs/313bc0682abee98e.json"
     },
     {
-      "rank": 47304,
+      "rank": 47306,
       "id": "d14edae68f33fd01",
       "name": "青いイナズマ",
       "secondary": "SMAP を歌唱",
@@ -139,7 +206,7 @@
       "detailPath": "entities/songs/d14edae68f33fd01.json"
     },
     {
-      "rank": 47305,
+      "rank": 47307,
       "id": "28b11bc91ab53aed",
       "name": "青いイナズマ",
       "secondary": "SMAP",
@@ -169,7 +236,7 @@
       "detailPath": "entities/songs/28b11bc91ab53aed.json"
     },
     {
-      "rank": 47306,
+      "rank": 47308,
       "id": "a9d68ba02d3352ce",
       "name": "青いうさぎ",
       "secondary": "酒井法子",
@@ -199,7 +266,7 @@
       "detailPath": "entities/songs/a9d68ba02d3352ce.json"
     },
     {
-      "rank": 47307,
+      "rank": 47309,
       "id": "ba07b6e99291ed09",
       "name": "青いサンゴ礁",
       "secondary": "",
@@ -232,7 +299,7 @@
       "detailPath": "entities/songs/ba07b6e99291ed09.json"
     },
     {
-      "rank": 47308,
+      "rank": 47310,
       "id": "65029134270b175c",
       "name": "青いスタスィオン",
       "secondary": "河合その子",
@@ -266,7 +333,7 @@
       "detailPath": "entities/songs/65029134270b175c.json"
     },
     {
-      "rank": 47309,
+      "rank": 47311,
       "id": "b8609eff49953323",
       "name": "青いベンチ",
       "secondary": "サスケさん",
@@ -299,7 +366,7 @@
       "detailPath": "entities/songs/b8609eff49953323.json"
     },
     {
-      "rank": 47310,
+      "rank": 47312,
       "id": "031d99b5a6802271",
       "name": "青いベンチ",
       "secondary": "サスケ（テゴマスver.）（1番を歌唱）",
@@ -332,7 +399,7 @@
       "detailPath": "entities/songs/031d99b5a6802271.json"
     },
     {
-      "rank": 47311,
+      "rank": 47313,
       "id": "81ecbe00c20c4bf7",
       "name": "青いベンチ",
       "secondary": "テゴマス",
@@ -365,7 +432,7 @@
       "detailPath": "entities/songs/81ecbe00c20c4bf7.json"
     },
     {
-      "rank": 47312,
+      "rank": 47314,
       "id": "afa30d2078bc401a",
       "name": "青いベンチ",
       "secondary": "サスケ 様",
@@ -398,7 +465,7 @@
       "detailPath": "entities/songs/afa30d2078bc401a.json"
     },
     {
-      "rank": 47313,
+      "rank": 47315,
       "id": "5b22f6d0b99b4b99",
       "name": "青いベンチ",
       "secondary": "Aoi Benchi サスケ / Sasuke",
@@ -431,7 +498,7 @@
       "detailPath": "entities/songs/5b22f6d0b99b4b99.json"
     },
     {
-      "rank": 47314,
+      "rank": 47316,
       "id": "5c7a7952e8808dde",
       "name": "青いベンチ",
       "secondary": "",
@@ -464,7 +531,7 @@
       "detailPath": "entities/songs/5c7a7952e8808dde.json"
     },
     {
-      "rank": 47315,
+      "rank": 47317,
       "id": "40aae367700c8fe0",
       "name": "青い果実",
       "secondary": "山口百恵（1973年）",
@@ -494,7 +561,7 @@
       "detailPath": "entities/songs/40aae367700c8fe0.json"
     },
     {
-      "rank": 47316,
+      "rank": 47318,
       "id": "a946f3591b0a9f1b",
       "name": "青い空",
       "secondary": "andymori",
@@ -524,7 +591,7 @@
       "detailPath": "entities/songs/a946f3591b0a9f1b.json"
     },
     {
-      "rank": 47317,
+      "rank": 47319,
       "id": "d0e79197f642efc6",
       "name": "青い空、白い雲",
       "secondary": "太陽族",
@@ -554,7 +621,7 @@
       "detailPath": "entities/songs/d0e79197f642efc6.json"
     },
     {
-      "rank": 47318,
+      "rank": 47320,
       "id": "05ea74b3db0f9932",
       "name": "青い空はポケットさ",
       "secondary": "大杉久美子(❇)",
@@ -587,7 +654,7 @@
       "detailPath": "entities/songs/05ea74b3db0f9932.json"
     },
     {
-      "rank": 47319,
+      "rank": 47321,
       "id": "977194edd670ab05",
       "name": "青い光",
       "secondary": "aiko",
@@ -620,7 +687,7 @@
       "detailPath": "entities/songs/977194edd670ab05.json"
     },
     {
-      "rank": 47320,
+      "rank": 47322,
       "id": "c1789cefe7f7ecdd",
       "name": "青い珊瑚礁",
       "secondary": "松田聖子 (1980) グリコ「ヨーデル」CMソング",
@@ -653,7 +720,7 @@
       "detailPath": "entities/songs/c1789cefe7f7ecdd.json"
     },
     {
-      "rank": 47321,
+      "rank": 47323,
       "id": "b0545655dadc7bd4",
       "name": "青い珊瑚礁",
       "secondary": "1980",
@@ -686,7 +753,7 @@
       "detailPath": "entities/songs/b0545655dadc7bd4.json"
     },
     {
-      "rank": 47322,
+      "rank": 47324,
       "id": "0c8136ec996437e5",
       "name": "青い珊瑚礁",
       "secondary": "松田聖子(1980) / CM アイス/ヨーレル",
@@ -719,7 +786,7 @@
       "detailPath": "entities/songs/0c8136ec996437e5.json"
     },
     {
-      "rank": 47323,
+      "rank": 47325,
       "id": "8d0b05f89fb9b316",
       "name": "青い珊瑚礁",
       "secondary": "松田聖子(うろ覚え)",
@@ -752,7 +819,7 @@
       "detailPath": "entities/songs/8d0b05f89fb9b316.json"
     },
     {
-      "rank": 47324,
+      "rank": 47326,
       "id": "e2539cc6a387937d",
       "name": "青い珊瑚礁",
       "secondary": "松田聖子（1980年）",
@@ -782,7 +849,7 @@
       "detailPath": "entities/songs/e2539cc6a387937d.json"
     },
     {
-      "rank": 47325,
+      "rank": 47327,
       "id": "7f65842447031225",
       "name": "青い珊瑚礁 ⑦",
       "secondary": "",
@@ -815,7 +882,7 @@
       "detailPath": "entities/songs/7f65842447031225.json"
     },
     {
-      "rank": 47326,
+      "rank": 47328,
       "id": "be3c2d9d223c2fe1",
       "name": "青い春",
       "secondary": "01:34:21",
@@ -848,7 +915,7 @@
       "detailPath": "entities/songs/be3c2d9d223c2fe1.json"
     },
     {
-      "rank": 47327,
+      "rank": 47329,
       "id": "0fc2828ee6f5e5c5",
       "name": "青い春",
       "secondary": "SUPER BEAVER / JS",
@@ -881,7 +948,7 @@
       "detailPath": "entities/songs/0fc2828ee6f5e5c5.json"
     },
     {
-      "rank": 47328,
+      "rank": 47330,
       "id": "40b0afeb3f0e7d80",
       "name": "青い青いこの地球に",
       "secondary": "未記載",
@@ -914,7 +981,7 @@
       "detailPath": "entities/songs/40b0afeb3f0e7d80.json"
     },
     {
-      "rank": 47329,
+      "rank": 47331,
       "id": "41d4fb323cdb3ddf",
       "name": "青い青いこの地球に",
       "secondary": "159",
@@ -947,7 +1014,7 @@
       "detailPath": "entities/songs/41d4fb323cdb3ddf.json"
     },
     {
-      "rank": 47330,
+      "rank": 47332,
       "id": "546d7e464fac74b6",
       "name": "青い地球",
       "secondary": "ささきいさお、杉並児童合唱団",
@@ -979,7 +1046,7 @@
       "detailPath": "entities/songs/546d7e464fac74b6.json"
     },
     {
-      "rank": 47331,
+      "rank": 47333,
       "id": "629262b15ffc74c0",
       "name": "青い蝶",
       "secondary": "秦基博",
@@ -1013,7 +1080,7 @@
       "detailPath": "entities/songs/629262b15ffc74c0.json"
     },
     {
-      "rank": 47332,
+      "rank": 47334,
       "id": "f18c32b8dcecfdad",
       "name": "青い鳥",
       "secondary": "花澤香菜",
@@ -1046,7 +1113,7 @@
       "detailPath": "entities/songs/f18c32b8dcecfdad.json"
     },
     {
-      "rank": 47333,
+      "rank": 47335,
       "id": "b3d1e3d72c5fefc8",
       "name": "青い未来",
       "secondary": "渡り廊下走り隊 (初見)",
@@ -1079,7 +1146,7 @@
       "detailPath": "entities/songs/b3d1e3d72c5fefc8.json"
     },
     {
-      "rank": 47334,
+      "rank": 47336,
       "id": "8c6f640a863e68ac",
       "name": "青い栞",
       "secondary": "Galileo Galilei/アニメ「あの日見た花の名前を僕達はまだ知らない。」OP/2011",
@@ -1112,7 +1179,7 @@
       "detailPath": "entities/songs/8c6f640a863e68ac.json"
     },
     {
-      "rank": 47335,
+      "rank": 47337,
       "id": "929113790d1762e6",
       "name": "青く駆けろ！",
       "secondary": "初音ミク,MEIKO,ミライアカリ,YuNi,富士葵,星乃一歌(まらしぃ)",
@@ -1145,7 +1212,7 @@
       "detailPath": "entities/songs/929113790d1762e6.json"
     },
     {
-      "rank": 47336,
+      "rank": 47338,
       "id": "ec84e7dc6e9e6e46",
       "name": "青く駆けろ！",
       "secondary": "",
@@ -1178,7 +1245,7 @@
       "detailPath": "entities/songs/ec84e7dc6e9e6e46.json"
     },
     {
-      "rank": 47337,
+      "rank": 47339,
       "id": "0d574c74b60ff37b",
       "name": "青く在れ",
       "secondary": "Penthouse",
@@ -1212,7 +1279,7 @@
       "detailPath": "entities/songs/0d574c74b60ff37b.json"
     },
     {
-      "rank": 47338,
+      "rank": 47340,
       "id": "978a7ea4e4629194",
       "name": "青と夏",
       "secondary": "Mrs. GREEN APPLE/映画「青夏 きみに恋した30日」主題歌/2018",
@@ -1244,7 +1311,7 @@
       "detailPath": "entities/songs/978a7ea4e4629194.json"
     },
     {
-      "rank": 47339,
+      "rank": 47341,
       "id": "9f475779648a180f",
       "name": "青と夏",
       "secondary": "Mrs. GREEN APPLE ✨初披露",
@@ -1276,7 +1343,7 @@
       "detailPath": "entities/songs/9f475779648a180f.json"
     },
     {
-      "rank": 47340,
+      "rank": 47342,
       "id": "b78b1009ffd1643c",
       "name": "青と夏",
       "secondary": "323（みすみ）＆いなまつりコラボデュエット",
@@ -1308,7 +1375,7 @@
       "detailPath": "entities/songs/b78b1009ffd1643c.json"
     },
     {
-      "rank": 47341,
+      "rank": 47343,
       "id": "780443832baec32a",
       "name": "青と夏",
       "secondary": "Mrs. GREEN APPLEの曲（2019年）",
@@ -1341,7 +1408,7 @@
       "detailPath": "entities/songs/780443832baec32a.json"
     },
     {
-      "rank": 47342,
+      "rank": 47344,
       "id": "f608062bedf797c0",
       "name": "青と夏",
       "secondary": "Mrs. GREEN APPLE [2018年]",
@@ -1375,7 +1442,7 @@
       "detailPath": "entities/songs/f608062bedf797c0.json"
     },
     {
-      "rank": 47343,
+      "rank": 47345,
       "id": "53c8aceac14edfc3",
       "name": "青と夏",
       "secondary": "ピアノver",
@@ -1409,7 +1476,7 @@
       "detailPath": "entities/songs/53c8aceac14edfc3.json"
     },
     {
-      "rank": 47344,
+      "rank": 47346,
       "id": "e9607f9ffa66cb5c",
       "name": "青と夏",
       "secondary": "Ao to Natsu Mrs. GREEN APPLE / Mrs. GREEN APPLE",
@@ -1442,7 +1509,7 @@
       "detailPath": "entities/songs/e9607f9ffa66cb5c.json"
     },
     {
-      "rank": 47345,
+      "rank": 47347,
       "id": "ad5900d6a4403f70",
       "name": "青と夏",
       "secondary": "Ms.green",
@@ -1475,7 +1542,7 @@
       "detailPath": "entities/songs/ad5900d6a4403f70.json"
     },
     {
-      "rank": 47346,
+      "rank": 47348,
       "id": "dc82bd254ef9ee2f",
       "name": "青と夏",
       "secondary": "Mrs.GREEN APPLE⭕🍚⚡語尾変更(きゃるん♡)",
@@ -1508,7 +1575,7 @@
       "detailPath": "entities/songs/dc82bd254ef9ee2f.json"
     },
     {
-      "rank": 47347,
+      "rank": 47349,
       "id": "3c7014aee7c6853f",
       "name": "青と夏",
       "secondary": "Mrs. GREEN APPLE @namakara",
@@ -1538,7 +1605,7 @@
       "detailPath": "entities/songs/3c7014aee7c6853f.json"
     },
     {
-      "rank": 47348,
+      "rank": 47350,
       "id": "35c388db69ae133d",
       "name": "青と夏",
       "secondary": "Mrs. GREEN APPLE ／ 青夏 きみに恋した30日(2018年)",
@@ -1569,72 +1636,6 @@
         }
       ],
       "detailPath": "entities/songs/35c388db69ae133d.json"
-    },
-    {
-      "rank": 47349,
-      "id": "9a4d40cdef525ff8",
-      "name": "青と夏",
-      "secondary": "Mrs. GREEN APPLE・・・点呼開始",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "l2orcS72Xgs",
-          "videoTitle": "【＃歌枠】深夜はチルく🌷🐾のんびりおはなし【花咲ことは/新人VTuber】",
-          "channelName": "花咲ことは@新人VTuber",
-          "publishedAt": "2026-09-21T16:46:16.140Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/l2orcS72Xgs/hqdefault.jpg",
-          "sourcePath": "sources/l2/l2orcS72Xgs.json",
-          "time": "2:10:15",
-          "seconds": 7815,
-          "songTitle": "青と夏",
-          "artist": "Mrs. GREEN APPLE・・・点呼開始"
-        }
-      ],
-      "detailPath": "entities/songs/9a4d40cdef525ff8.json"
-    },
-    {
-      "rank": 47350,
-      "id": "197251a93b29027d",
-      "name": "青と夏",
-      "secondary": "Mrs.GREEN APPLE(ﾘｸｴｽﾄ)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "bCJH-kcx5Qw",
-          "videoTitle": "【 歌枠/Karaoke 】雑談歌枠いろいろ歌うよ！【 男性VTuber 】",
-          "channelName": "御崎陽炎",
-          "publishedAt": "2026-09-24T14:09:07.516Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bCJH-kcx5Qw/hqdefault.jpg",
-          "sourcePath": "sources/bC/bCJH-kcx5Qw.json",
-          "time": "1:37:09",
-          "seconds": 5829,
-          "songTitle": "青と夏",
-          "artist": "Mrs.GREEN APPLE(ﾘｸｴｽﾄ)"
-        }
-      ],
-      "detailPath": "entities/songs/197251a93b29027d.json"
     }
   ]
 }

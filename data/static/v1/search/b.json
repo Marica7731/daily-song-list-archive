@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "items": [
     {
       "id": "b9c0b1d013fc22a1",
@@ -6714,8 +6714,8 @@
       "type": "songs",
       "name": "食虫植物",
       "secondary": "理芽",
-      "occurrenceCount": 62,
-      "videoCount": 62,
+      "occurrenceCount": 63,
+      "videoCount": 63,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -6741,8 +6741,8 @@
           "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 25,
-          "videoCount": 25
+          "occurrenceCount": 26,
+          "videoCount": 26
         }
       },
       "text": "食虫植物理芽"
@@ -63522,16 +63522,19 @@
       "type": "songs",
       "name": "arrows",
       "secondary": "BUMP OF CHICKEN",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "keywords": [],
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/b5c706c4cd98465b.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "arrowsbumpofchicken"
@@ -106449,20 +106452,22 @@
       "type": "vtubers",
       "name": "沫雪ゆうり Yuri_awayuki",
       "secondary": "",
-      "occurrenceCount": 175,
-      "videoCount": 9,
+      "occurrenceCount": 179,
+      "videoCount": 10,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/vtubers/b7434f11921cf91e.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 94,
-          "videoCount": 4
+          "occurrenceCount": 98,
+          "videoCount": 5
         }
       },
       "text": "沫雪ゆうりyuriawayuki"

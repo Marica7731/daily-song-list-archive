@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 346,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 17251,
+      "id": "d5440378b8e481f5",
+      "name": "～　じゃんがりあん",
+      "secondary": "",
+      "channelId": "UCX3FsxKniTUVrb5v0JCe2UQ",
+      "channelHandle": "@kanna_misora",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "v19uCJvF7xs",
+          "videoTitle": "【#うたたねサマー歌枠リレー】アチアチな夏、激熱に歌います！🎤【#御空かんな / 新人VTuber】",
+          "channelName": "御空かんな / Misora Kanna",
+          "publishedAt": "2026-09-05T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v19uCJvF7xs/hqdefault.jpg",
+          "sourcePath": "sources/v1/v19uCJvF7xs.json",
+          "time": "0:23:00",
+          "seconds": 1380,
+          "songTitle": "～　じゃんがりあん",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/d5440378b8e481f5.json"
+    },
+    {
+      "rank": 17252,
+      "id": "a84bd6cd39123224",
+      "name": "~ スタート",
+      "secondary": "ミュート芸？",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6-k_SuHWvys",
+          "videoTitle": "〖 告知アリ 〗何を歌うか視聴者次第！？歌枠&雑談〖 ふわねこるな / 中学生VTuber 〗",
+          "channelName": "ふわねこ るな",
+          "publishedAt": "2026-09-05T13:14:19.785Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6-k_SuHWvys/hqdefault.jpg",
+          "sourcePath": "sources/6-/6-k_SuHWvys.json",
+          "time": "0:03:02",
+          "seconds": 182,
+          "songTitle": "~ スタート",
+          "artist": "ミュート芸？"
+        }
+      ],
+      "detailPath": "entities/songs/a84bd6cd39123224.json"
+    },
+    {
+      "rank": 17253,
       "id": "33d4ddef4e0a9ed7",
       "name": "～ すべてが終わってしまう前に",
       "secondary": "arata",
@@ -40,7 +103,7 @@
       "detailPath": "entities/songs/33d4ddef4e0a9ed7.json"
     },
     {
-      "rank": 17252,
+      "rank": 17254,
       "id": "8addc5d7748d9081",
       "name": "～　せんのいのり",
       "secondary": "",
@@ -73,7 +136,7 @@
       "detailPath": "entities/songs/8addc5d7748d9081.json"
     },
     {
-      "rank": 17253,
+      "rank": 17255,
       "id": "bb2f2107e21cd16c",
       "name": "～ そばにいるよ",
       "secondary": "ELISA",
@@ -105,7 +168,7 @@
       "detailPath": "entities/songs/bb2f2107e21cd16c.json"
     },
     {
-      "rank": 17254,
+      "rank": 17256,
       "id": "bd2245f319f431de",
       "name": "～ ダイナマイト花子https",
       "secondary": "www.youtube.com/live/FDcukp8OffU",
@@ -135,7 +198,7 @@
       "detailPath": "entities/songs/bd2245f319f431de.json"
     },
     {
-      "rank": 17255,
+      "rank": 17257,
       "id": "67b100e7dc668d78",
       "name": "～ タイヨウのうた",
       "secondary": "雨音薫",
@@ -168,7 +231,7 @@
       "detailPath": "entities/songs/67b100e7dc668d78.json"
     },
     {
-      "rank": 17256,
+      "rank": 17258,
       "id": "17cb00927f41e0e3",
       "name": "~ ダンサー裕美ライブ配信",
       "secondary": "第222回",
@@ -201,7 +264,7 @@
       "detailPath": "entities/songs/17cb00927f41e0e3.json"
     },
     {
-      "rank": 17257,
+      "rank": 17259,
       "id": "345c2e8a48b5c378",
       "name": "～ ちゃんるあ🐥🎀☁ @chanlua",
       "secondary": "chanluuua",
@@ -231,7 +294,7 @@
       "detailPath": "entities/songs/345c2e8a48b5c378.json"
     },
     {
-      "rank": 17258,
+      "rank": 17260,
       "id": "50f6fedb535b1537",
       "name": "~ テトナ",
       "secondary": "@tetona_ch",
@@ -261,7 +324,7 @@
       "detailPath": "entities/songs/50f6fedb535b1537.json"
     },
     {
-      "rank": 17259,
+      "rank": 17261,
       "id": "0e5d0ff0f75ba0e4",
       "name": "～ とうめいのくに",
       "secondary": "",
@@ -291,7 +354,7 @@
       "detailPath": "entities/songs/0e5d0ff0f75ba0e4.json"
     },
     {
-      "rank": 17260,
+      "rank": 17262,
       "id": "67416d14f56eb2f9",
       "name": "～　ナナイロからす",
       "secondary": "",
@@ -321,7 +384,7 @@
       "detailPath": "entities/songs/67416d14f56eb2f9.json"
     },
     {
-      "rank": 17261,
+      "rank": 17263,
       "id": "76285c3404ef695f",
       "name": "～　ばに団長",
       "secondary": "",
@@ -351,7 +414,7 @@
       "detailPath": "entities/songs/76285c3404ef695f.json"
     },
     {
-      "rank": 17262,
+      "rank": 17264,
       "id": "1983f49d5f35cb3a",
       "name": "～ ハレ晴レユカイ",
       "secondary": "平野綾,茅原実里, 朝比奈みくる",
@@ -381,7 +444,7 @@
       "detailPath": "entities/songs/1983f49d5f35cb3a.json"
     },
     {
-      "rank": 17263,
+      "rank": 17265,
       "id": "66f583ef1383a243",
       "name": "~ ひとひらの未来",
       "secondary": "町田ちま",
@@ -415,7 +478,7 @@
       "detailPath": "entities/songs/66f583ef1383a243.json"
     },
     {
-      "rank": 17264,
+      "rank": 17266,
       "id": "588de575c68944d9",
       "name": "～ ひよりひよこ",
       "secondary": "",
@@ -445,7 +508,7 @@
       "detailPath": "entities/songs/588de575c68944d9.json"
     },
     {
-      "rank": 17265,
+      "rank": 17267,
       "id": "09802573f853ab3f",
       "name": "～　フェリシエ・プリエール",
       "secondary": "",
@@ -475,7 +538,7 @@
       "detailPath": "entities/songs/09802573f853ab3f.json"
     },
     {
-      "rank": 17266,
+      "rank": 17268,
       "id": "93b297d8185274e0",
       "name": "~ ペーパーノヴァ様",
       "secondary": "@papernova777",
@@ -505,7 +568,7 @@
       "detailPath": "entities/songs/93b297d8185274e0.json"
     },
     {
-      "rank": 17267,
+      "rank": 17269,
       "id": "ebaaf6fc63974132",
       "name": "～　まじめちゃん",
       "secondary": "",
@@ -535,7 +598,7 @@
       "detailPath": "entities/songs/ebaaf6fc63974132.json"
     },
     {
-      "rank": 17268,
+      "rank": 17270,
       "id": "4f0a24edc8be39d9",
       "name": "～ まちぶせ",
       "secondary": "",
@@ -568,7 +631,7 @@
       "detailPath": "entities/songs/4f0a24edc8be39d9.json"
     },
     {
-      "rank": 17269,
+      "rank": 17271,
       "id": "b468b9a7be6ea05c",
       "name": "～ まるかいて地球 イタリア",
       "secondary": "浪川大輔",
@@ -601,7 +664,7 @@
       "detailPath": "entities/songs/b468b9a7be6ea05c.json"
     },
     {
-      "rank": 17270,
+      "rank": 17272,
       "id": "1e82b53e20dbef96",
       "name": "～　みかんクマ",
       "secondary": "",
@@ -634,7 +697,7 @@
       "detailPath": "entities/songs/1e82b53e20dbef96.json"
     },
     {
-      "rank": 17271,
+      "rank": 17273,
       "id": "4ed4ae47e832ad1c",
       "name": "～ ミックスナッツ Official髭男dism",
       "secondary": "",
@@ -667,7 +730,7 @@
       "detailPath": "entities/songs/4ed4ae47e832ad1c.json"
     },
     {
-      "rank": 17272,
+      "rank": 17274,
       "id": "8328b8aa4cff5249",
       "name": "～　むなかた亮牙",
       "secondary": "",
@@ -697,7 +760,7 @@
       "detailPath": "entities/songs/8328b8aa4cff5249.json"
     },
     {
-      "rank": 17273,
+      "rank": 17275,
       "id": "eb6806e42a240f96",
       "name": "～ むらゆき🐈❄ @murayuki184",
       "secondary": "yuki_murasakii",
@@ -727,7 +790,7 @@
       "detailPath": "entities/songs/eb6806e42a240f96.json"
     },
     {
-      "rank": 17274,
+      "rank": 17276,
       "id": "e6a9cba93b51cad9",
       "name": "～　メイド服にお着替え",
       "secondary": "",
@@ -760,7 +823,7 @@
       "detailPath": "entities/songs/e6a9cba93b51cad9.json"
     },
     {
-      "rank": 17275,
+      "rank": 17277,
       "id": "5544cbc5988b269b",
       "name": "～　メーレさん",
       "secondary": "",
@@ -790,7 +853,7 @@
       "detailPath": "entities/songs/5544cbc5988b269b.json"
     },
     {
-      "rank": 17276,
+      "rank": 17278,
       "id": "7f976405cd43f0a6",
       "name": "～ メラ・アカルhttps",
       "secondary": "www.youtube.com/live/jPyP7Uq2NOk",
@@ -820,7 +883,7 @@
       "detailPath": "entities/songs/7f976405cd43f0a6.json"
     },
     {
-      "rank": 17277,
+      "rank": 17279,
       "id": "25ff2efe9ae28ead",
       "name": "~ ゆきや 様",
       "secondary": "@v.yukiya",
@@ -850,7 +913,7 @@
       "detailPath": "entities/songs/25ff2efe9ae28ead.json"
     },
     {
-      "rank": 17278,
+      "rank": 17280,
       "id": "5da90e5d643404dd",
       "name": "～　らー",
       "secondary": "",
@@ -880,7 +943,7 @@
       "detailPath": "entities/songs/5da90e5d643404dd.json"
     },
     {
-      "rank": 17279,
+      "rank": 17281,
       "id": "1df7a76aca8a64a9",
       "name": "~ わたけ 様",
       "secondary": "@watake_unst",
@@ -910,7 +973,7 @@
       "detailPath": "entities/songs/1df7a76aca8a64a9.json"
     },
     {
-      "rank": 17280,
+      "rank": 17282,
       "id": "e8af26d05cc94473",
       "name": "~ 一番の宝物 ~Yui final ver. ~",
       "secondary": "Angel Beats!",
@@ -943,7 +1006,7 @@
       "detailPath": "entities/songs/e8af26d05cc94473.json"
     },
     {
-      "rank": 17281,
+      "rank": 17283,
       "id": "7198b50d4de57c13",
       "name": "～　音沙汰あんな",
       "secondary": "",
@@ -973,7 +1036,7 @@
       "detailPath": "entities/songs/7198b50d4de57c13.json"
     },
     {
-      "rank": 17282,
+      "rank": 17284,
       "id": "dd17d989c3eca47b",
       "name": "～　花鞠ゆら",
       "secondary": "",
@@ -1003,7 +1066,7 @@
       "detailPath": "entities/songs/dd17d989c3eca47b.json"
     },
     {
-      "rank": 17283,
+      "rank": 17285,
       "id": "03ce4cf2f8cec2d8",
       "name": "~　皆谷尚美",
       "secondary": "遠いこの町で",
@@ -1037,7 +1100,7 @@
       "detailPath": "entities/songs/03ce4cf2f8cec2d8.json"
     },
     {
-      "rank": 17284,
+      "rank": 17286,
       "id": "29437c04bfe3d447",
       "name": "～　開会式",
       "secondary": "うたたねプロダクション",
@@ -1067,7 +1130,7 @@
       "detailPath": "entities/songs/29437c04bfe3d447.json"
     },
     {
-      "rank": 17285,
+      "rank": 17287,
       "id": "e1a85e4273cc8f11",
       "name": "～　開会式　狐島琉汰枠",
       "secondary": "",
@@ -1097,7 +1160,7 @@
       "detailPath": "entities/songs/e1a85e4273cc8f11.json"
     },
     {
-      "rank": 17286,
+      "rank": 17288,
       "id": "5fc854c2db87f556",
       "name": "～　叶響さん",
       "secondary": "",
@@ -1127,7 +1190,7 @@
       "detailPath": "entities/songs/5fc854c2db87f556.json"
     },
     {
-      "rank": 17287,
+      "rank": 17289,
       "id": "9c5ed7b40eb8786b",
       "name": "～ 甘従ひよhttps",
       "secondary": "www.youtube.com/live/y5hXNCv1I4s",
@@ -1157,7 +1220,7 @@
       "detailPath": "entities/songs/9c5ed7b40eb8786b.json"
     },
     {
-      "rank": 17288,
+      "rank": 17290,
       "id": "256aaa03048c1ed3",
       "name": "~ 宮本ウォルス 様",
       "secondary": "@wols_Miyamoto",
@@ -1187,7 +1250,7 @@
       "detailPath": "entities/songs/256aaa03048c1ed3.json"
     },
     {
-      "rank": 17289,
+      "rank": 17291,
       "id": "088b340233a7278d",
       "name": "~　橋本朝",
       "secondary": "ロマンティックあげるよ",
@@ -1221,7 +1284,7 @@
       "detailPath": "entities/songs/088b340233a7278d.json"
     },
     {
-      "rank": 17290,
+      "rank": 17292,
       "id": "d727da8c710a57be",
       "name": "～　琴月蕾愛 \\イマココ‼‼‼",
       "secondary": "",
@@ -1251,7 +1314,7 @@
       "detailPath": "entities/songs/d727da8c710a57be.json"
     },
     {
-      "rank": 17291,
+      "rank": 17293,
       "id": "ec1bfbfa886ded24",
       "name": "～ 月音",
       "secondary": "",
@@ -1281,7 +1344,7 @@
       "detailPath": "entities/songs/ec1bfbfa886ded24.json"
     },
     {
-      "rank": 17292,
+      "rank": 17294,
       "id": "1ccc1b45e219632e",
       "name": "～　呉廼",
       "secondary": "",
@@ -1314,7 +1377,7 @@
       "detailPath": "entities/songs/1ccc1b45e219632e.json"
     },
     {
-      "rank": 17293,
+      "rank": 17295,
       "id": "46be4173a72b16cf",
       "name": "～　語尾に「にゃん」をつけよう",
       "secondary": "",
@@ -1347,7 +1410,7 @@
       "detailPath": "entities/songs/46be4173a72b16cf.json"
     },
     {
-      "rank": 17294,
+      "rank": 17296,
       "id": "749edb99a5239615",
       "name": "～ 光の螺旋律 kukui",
       "secondary": "霜月はるか&myu",
@@ -1380,7 +1443,7 @@
       "detailPath": "entities/songs/749edb99a5239615.json"
     },
     {
-      "rank": 17295,
+      "rank": 17297,
       "id": "4cb49253eee5be82",
       "name": "～ 港町あおい",
       "secondary": "",
@@ -1410,7 +1473,7 @@
       "detailPath": "entities/songs/4cb49253eee5be82.json"
     },
     {
-      "rank": 17296,
+      "rank": 17298,
       "id": "93dbb99fa3b827d9",
       "name": "～　黒瀬ふたば",
       "secondary": "",
@@ -1443,7 +1506,7 @@
       "detailPath": "entities/songs/93dbb99fa3b827d9.json"
     },
     {
-      "rank": 17297,
+      "rank": 17299,
       "id": "85d111d9d0405f14",
       "name": "～ 魂魄重ねて 麻倉葉",
       "secondary": "佐藤ゆうこ",
@@ -1476,7 +1539,7 @@
       "detailPath": "entities/songs/85d111d9d0405f14.json"
     },
     {
-      "rank": 17298,
+      "rank": 17300,
       "id": "e5f1f9ec77435349",
       "name": "～ 沙耶の歌 いとうかなこ",
       "secondary": "",
@@ -1507,66 +1570,6 @@
         }
       ],
       "detailPath": "entities/songs/e5f1f9ec77435349.json"
-    },
-    {
-      "rank": 17299,
-      "id": "48d5ae1d89043c5a",
-      "name": "～ 咲坂つむぎ",
-      "secondary": "",
-      "channelId": "UC7BEg3LDaxkYEamZk9Kt1dA",
-      "channelHandle": "@hanasamelily",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "9k7JmIixe80",
-          "videoTitle": "【#まよなかノクターン】夜好性歌枠リレー🌙ずとまよ、ヨルシカ、YOASOBI🌙🎹【#花雨リリー】",
-          "channelName": "Lily Ch. 花雨リリー",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9k7JmIixe80/hqdefault.jpg",
-          "sourcePath": "sources/9k/9k7JmIixe80.json",
-          "time": "0:20:30",
-          "seconds": 1230,
-          "songTitle": "～ 咲坂つむぎ",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/48d5ae1d89043c5a.json"
-    },
-    {
-      "rank": 17300,
-      "id": "7f3e688541b926d5",
-      "name": "～ 桜キッス",
-      "secondary": "川辺千恵子",
-      "channelId": "UCaCzlHGIXUv1KvAsJ6Sizxw",
-      "channelHandle": "@%E3%81%AD%E3%82%80%E3%81%AE%E3%81%8D%E3%81%AD%E3%82%80",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XsAAWpn5EOU",
-          "videoTitle": "【#Vtuber】今日も楽しくお歌したい ＠ 26/09/10【#歌枠/#karaoke/#バ美肉/#ボイチェン/ JOYSOUND for STREAMER】",
-          "channelName": "合歓木ネム",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XsAAWpn5EOU/hqdefault.jpg",
-          "sourcePath": "sources/Xs/XsAAWpn5EOU.json",
-          "time": "1:24:46",
-          "seconds": 5086,
-          "songTitle": "～ 桜キッス",
-          "artist": "川辺千恵子"
-        }
-      ],
-      "detailPath": "entities/songs/7f3e688541b926d5.json"
     }
   ]
 }

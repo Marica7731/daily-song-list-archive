@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 920,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 45951,
+      "id": "42a8011429854ded",
+      "name": "初見さんの歌",
+      "secondary": "風車ひまり",
+      "channelId": "UCvEYutoYNTb1eQFSChskLfg",
+      "channelHandle": "@%E9%A2%A8%E8%BB%8A%E3%81%B2%E3%81%BE%E3%82%8A",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "_INAYrTgiFY",
+          "videoTitle": "【 #歌枠 】突然始まる夕方の弾き語り🌻 #風車ひまり",
+          "channelName": "風車ひまり",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_INAYrTgiFY/hqdefault.jpg",
+          "sourcePath": "sources/_I/_INAYrTgiFY.json",
+          "time": "0:22:48",
+          "seconds": 1368,
+          "songTitle": "初見さんの歌",
+          "artist": "風車ひまり"
+        }
+      ],
+      "detailPath": "entities/songs/42a8011429854ded.json"
+    },
+    {
+      "rank": 45952,
+      "id": "3aee59ae7d651349",
+      "name": "初見さんリクエスト曲🌙おやすみ泣き声、さよなら歌姫",
+      "secondary": "クリープハイプ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "kJ1YUfE8geM",
+          "videoTitle": "【木曜定期歌枠￤高評価60目標】週が終わる前に必要なのはエモのパワー【 #白噛ましゅー 】",
+          "channelName": "白噛ましゅー(村長)",
+          "publishedAt": "2026-09-10T17:25:27.356Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kJ1YUfE8geM/hqdefault.jpg",
+          "sourcePath": "sources/kJ/kJ1YUfE8geM.json",
+          "time": "1:27:54",
+          "seconds": 5274,
+          "songTitle": "初見さんリクエスト曲🌙おやすみ泣き声、さよなら歌姫",
+          "artist": "クリープハイプ"
+        }
+      ],
+      "detailPath": "entities/songs/3aee59ae7d651349.json"
+    },
+    {
+      "rank": 45953,
       "id": "26e38a7f786b5ac8",
       "name": "初見口上",
       "secondary": "本日二度目",
@@ -43,7 +106,7 @@
       "detailPath": "entities/songs/26e38a7f786b5ac8.json"
     },
     {
-      "rank": 45952,
+      "rank": 45954,
       "id": "f88322b76ddb02b7",
       "name": "初手ラマーズ法で草",
       "secondary": "",
@@ -76,7 +139,7 @@
       "detailPath": "entities/songs/f88322b76ddb02b7.json"
     },
     {
-      "rank": 45953,
+      "rank": 45955,
       "id": "8ba3f685950c6e88",
       "name": "初出しあり",
       "secondary": "",
@@ -109,7 +172,7 @@
       "detailPath": "entities/songs/8ba3f685950c6e88.json"
     },
     {
-      "rank": 45954,
+      "rank": 45956,
       "id": "3eb937409beb2e68",
       "name": "初出し曲･練習中]HIGHSCHOOL OF THE DEAD",
       "secondary": "岸田教団＆THE明星ロケッツ",
@@ -141,7 +204,7 @@
       "detailPath": "entities/songs/3eb937409beb2e68.json"
     },
     {
-      "rank": 45955,
+      "rank": 45957,
       "id": "c75044a5d6d8ce98",
       "name": "初出し曲]again",
       "secondary": "YUI",
@@ -174,7 +237,7 @@
       "detailPath": "entities/songs/c75044a5d6d8ce98.json"
     },
     {
-      "rank": 45956,
+      "rank": 45958,
       "id": "10e0877b04a285e7",
       "name": "初出し曲]INNOCENCE",
       "secondary": "藍井エイル",
@@ -207,7 +270,7 @@
       "detailPath": "entities/songs/10e0877b04a285e7.json"
     },
     {
-      "rank": 45957,
+      "rank": 45959,
       "id": "7154db114be9ea62",
       "name": "初出し曲]only my railgun",
       "secondary": "fripSide",
@@ -240,7 +303,7 @@
       "detailPath": "entities/songs/7154db114be9ea62.json"
     },
     {
-      "rank": 45958,
+      "rank": 45960,
       "id": "f1e41513c6475093",
       "name": "初出し曲]Starry Heavens",
       "secondary": "Day after tomorrow",
@@ -273,7 +336,7 @@
       "detailPath": "entities/songs/f1e41513c6475093.json"
     },
     {
-      "rank": 45959,
+      "rank": 45961,
       "id": "e0cb3c3518612231",
       "name": "初出し曲]You!Joy!Parade!",
       "secondary": "M!LK",
@@ -306,7 +369,7 @@
       "detailPath": "entities/songs/e0cb3c3518612231.json"
     },
     {
-      "rank": 45960,
+      "rank": 45962,
       "id": "415ed48fe8995f3b",
       "name": "初出し曲]アイドルパワー",
       "secondary": "M!LK",
@@ -339,7 +402,7 @@
       "detailPath": "entities/songs/415ed48fe8995f3b.json"
     },
     {
-      "rank": 45961,
+      "rank": 45963,
       "id": "869356c4a784d1ab",
       "name": "初出し曲]アナタMAGIC",
       "secondary": "モノブライト",
@@ -372,7 +435,7 @@
       "detailPath": "entities/songs/869356c4a784d1ab.json"
     },
     {
-      "rank": 45962,
+      "rank": 45964,
       "id": "fda94689f2f91738",
       "name": "初出し曲]君よ 気高くあれ",
       "secondary": "シユイ",
@@ -405,7 +468,7 @@
       "detailPath": "entities/songs/fda94689f2f91738.json"
     },
     {
-      "rank": 45963,
+      "rank": 45965,
       "id": "38a5e09ac0e2cab5",
       "name": "初出し曲]高嶺の花子さん",
       "secondary": "back number",
@@ -438,7 +501,7 @@
       "detailPath": "entities/songs/38a5e09ac0e2cab5.json"
     },
     {
-      "rank": 45964,
+      "rank": 45966,
       "id": "ca44a9edb713e93e",
       "name": "初出し曲]星を巡る",
       "secondary": "ロクデナシ",
@@ -471,7 +534,7 @@
       "detailPath": "entities/songs/ca44a9edb713e93e.json"
     },
     {
-      "rank": 45965,
+      "rank": 45967,
       "id": "120195d1df1d2ba8",
       "name": "初心LOVE",
       "secondary": "関ジャニ∞",
@@ -504,7 +567,7 @@
       "detailPath": "entities/songs/120195d1df1d2ba8.json"
     },
     {
-      "rank": 45966,
+      "rank": 45968,
       "id": "3813b16a115b0692",
       "name": "初披露",
       "secondary": "80",
@@ -538,7 +601,7 @@
       "detailPath": "entities/songs/3813b16a115b0692.json"
     },
     {
-      "rank": 45967,
+      "rank": 45969,
       "id": "fe9ee86dcec1189e",
       "name": "初披露",
       "secondary": "81",
@@ -572,7 +635,7 @@
       "detailPath": "entities/songs/fe9ee86dcec1189e.json"
     },
     {
-      "rank": 45968,
+      "rank": 45970,
       "id": "72c7d01c04420621",
       "name": "初披露",
       "secondary": "300",
@@ -606,7 +669,7 @@
       "detailPath": "entities/songs/72c7d01c04420621.json"
     },
     {
-      "rank": 45969,
+      "rank": 45971,
       "id": "ff90a479bed6211c",
       "name": "初披露",
       "secondary": "94",
@@ -639,7 +702,7 @@
       "detailPath": "entities/songs/ff90a479bed6211c.json"
     },
     {
-      "rank": 45970,
+      "rank": 45972,
       "id": "7a6fddb59012b235",
       "name": "初披露",
       "secondary": "97",
@@ -672,7 +735,7 @@
       "detailPath": "entities/songs/7a6fddb59012b235.json"
     },
     {
-      "rank": 45971,
+      "rank": 45973,
       "id": "569746aea5aee8fc",
       "name": "初恋",
       "secondary": "",
@@ -705,7 +768,7 @@
       "detailPath": "entities/songs/569746aea5aee8fc.json"
     },
     {
-      "rank": 45972,
+      "rank": 45974,
       "id": "74ea2a3345ca6f88",
       "name": "初恋",
       "secondary": "ふきのとう",
@@ -735,7 +798,7 @@
       "detailPath": "entities/songs/74ea2a3345ca6f88.json"
     },
     {
-      "rank": 45973,
+      "rank": 45975,
       "id": "f5fba09813628ea4",
       "name": "初恋",
       "secondary": "くわ。",
@@ -768,7 +831,7 @@
       "detailPath": "entities/songs/f5fba09813628ea4.json"
     },
     {
-      "rank": 45974,
+      "rank": 45976,
       "id": "2a6a8f05575bbea7",
       "name": "初恋",
       "secondary": "三田寛子",
@@ -801,7 +864,7 @@
       "detailPath": "entities/songs/2a6a8f05575bbea7.json"
     },
     {
-      "rank": 45975,
+      "rank": 45977,
       "id": "d1280f06a65d548d",
       "name": "初恋",
       "secondary": "aiko",
@@ -834,7 +897,7 @@
       "detailPath": "entities/songs/d1280f06a65d548d.json"
     },
     {
-      "rank": 45976,
+      "rank": 45978,
       "id": "a58370450d1b5146",
       "name": "初恋",
       "secondary": "tohko",
@@ -867,7 +930,7 @@
       "detailPath": "entities/songs/a58370450d1b5146.json"
     },
     {
-      "rank": 45977,
+      "rank": 45979,
       "id": "47dac5f020edd292",
       "name": "初恋キラー(24')",
       "secondary": "乃紫",
@@ -900,7 +963,7 @@
       "detailPath": "entities/songs/47dac5f020edd292.json"
     },
     {
-      "rank": 45978,
+      "rank": 45980,
       "id": "09d1353bf94068be",
       "name": "初恋サイダー",
       "secondary": "Hatsukoi Cider (Buono!)",
@@ -932,7 +995,7 @@
       "detailPath": "entities/songs/09d1353bf94068be.json"
     },
     {
-      "rank": 45979,
+      "rank": 45981,
       "id": "e5d50aebeba5464d",
       "name": "初恋サイダー",
       "secondary": "Buono!(歌唱・演奏)",
@@ -966,7 +1029,7 @@
       "detailPath": "entities/songs/e5d50aebeba5464d.json"
     },
     {
-      "rank": 45980,
+      "rank": 45982,
       "id": "898d18a4d1d7460b",
       "name": "初恋サイダー",
       "secondary": "アカペラ少しだけ",
@@ -999,7 +1062,7 @@
       "detailPath": "entities/songs/898d18a4d1d7460b.json"
     },
     {
-      "rank": 45981,
+      "rank": 45983,
       "id": "2e0b90f1d4e7ec53",
       "name": "初恋サイダー",
       "secondary": "鈴木愛理",
@@ -1029,7 +1092,7 @@
       "detailPath": "entities/songs/2e0b90f1d4e7ec53.json"
     },
     {
-      "rank": 45982,
+      "rank": 45984,
       "id": "ea71a1f4f38223ef",
       "name": "初恋サイダー",
       "secondary": "Buono！ (初見)",
@@ -1059,7 +1122,7 @@
       "detailPath": "entities/songs/ea71a1f4f38223ef.json"
     },
     {
-      "rank": 45983,
+      "rank": 45985,
       "id": "bdaf71d05f57b30b",
       "name": "初恋サイダー",
       "secondary": "Bouno!",
@@ -1092,7 +1155,7 @@
       "detailPath": "entities/songs/bdaf71d05f57b30b.json"
     },
     {
-      "rank": 45984,
+      "rank": 45986,
       "id": "330c1e15a9ba8a5c",
       "name": "初恋サイダー",
       "secondary": "Buono! ※JOYSOUND",
@@ -1125,7 +1188,7 @@
       "detailPath": "entities/songs/330c1e15a9ba8a5c.json"
     },
     {
-      "rank": 45985,
+      "rank": 45987,
       "id": "2a1ed5c4ae851728",
       "name": "初恋のにおい",
       "secondary": "藤原さくら",
@@ -1159,7 +1222,7 @@
       "detailPath": "entities/songs/2a1ed5c4ae851728.json"
     },
     {
-      "rank": 45986,
+      "rank": 45988,
       "id": "4c23596b57b1c3b6",
       "name": "初恋の絵本",
       "secondary": "合田美桜(豊崎愛生) ／ ずっと前から好きでした。(2014年)",
@@ -1192,7 +1255,7 @@
       "detailPath": "entities/songs/4c23596b57b1c3b6.json"
     },
     {
-      "rank": 45987,
+      "rank": 45989,
       "id": "1084eb5af76e33a5",
       "name": "初恋の頃",
       "secondary": "手嶌葵",
@@ -1224,7 +1287,7 @@
       "detailPath": "entities/songs/1084eb5af76e33a5.json"
     },
     {
-      "rank": 45988,
+      "rank": 45990,
       "id": "8424358fa77396c8",
       "name": "初恋パラシュート/橋本みゆき",
       "secondary": "琴音リナ",
@@ -1257,7 +1320,7 @@
       "detailPath": "entities/songs/8424358fa77396c8.json"
     },
     {
-      "rank": 45989,
+      "rank": 45991,
       "id": "dd007716d2a610df",
       "name": "初恋は負け確! -another story",
       "secondary": "芹沢怜桜",
@@ -1290,7 +1353,7 @@
       "detailPath": "entities/songs/dd007716d2a610df.json"
     },
     {
-      "rank": 45990,
+      "rank": 45992,
       "id": "0570bf9542b1119b",
       "name": "初恋は負け確！/ feat.有栖真凛愛（上田麗奈）",
       "secondary": "HoneyWorks",
@@ -1323,7 +1386,7 @@
       "detailPath": "entities/songs/0570bf9542b1119b.json"
     },
     {
-      "rank": 45991,
+      "rank": 45993,
       "id": "3cb4b3681f333732",
       "name": "初恋リバイバル",
       "secondary": "",
@@ -1356,7 +1419,7 @@
       "detailPath": "entities/songs/3cb4b3681f333732.json"
     },
     {
-      "rank": 45992,
+      "rank": 45994,
       "id": "b687c4e16655cb66",
       "name": "初恋リバイバル（アカペラサビのみ）",
       "secondary": "iLiFE!",
@@ -1389,7 +1452,7 @@
       "detailPath": "entities/songs/b687c4e16655cb66.json"
     },
     {
-      "rank": 45993,
+      "rank": 45995,
       "id": "98c727ac6db2c683",
       "name": "初恋喪",
       "secondary": "あまねもも",
@@ -1422,7 +1485,7 @@
       "detailPath": "entities/songs/98c727ac6db2c683.json"
     },
     {
-      "rank": 45994,
+      "rank": 45996,
       "id": "1a8968a14bd48dbd",
       "name": "初恋日記",
       "secondary": "未記載",
@@ -1456,7 +1519,7 @@
       "detailPath": "entities/songs/1a8968a14bd48dbd.json"
     },
     {
-      "rank": 45995,
+      "rank": 45997,
       "id": "52ccb425c1086626",
       "name": "初恋日記",
       "secondary": "香椎モイミ ※JOYSOUND",
@@ -1489,7 +1552,7 @@
       "detailPath": "entities/songs/52ccb425c1086626.json"
     },
     {
-      "rank": 45996,
+      "rank": 45998,
       "id": "3d45a7e78672ba13",
       "name": "初恋日記",
       "secondary": "香椎モイミ feat. 音街ウナ",
@@ -1522,7 +1585,7 @@
       "detailPath": "entities/songs/3d45a7e78672ba13.json"
     },
     {
-      "rank": 45997,
+      "rank": 45999,
       "id": "ac9f99c07975e55d",
       "name": "初戀",
       "secondary": "川島茉樹代",
@@ -1555,7 +1618,7 @@
       "detailPath": "entities/songs/ac9f99c07975e55d.json"
     },
     {
-      "rank": 45998,
+      "rank": 46000,
       "id": "c5148414ae103859",
       "name": "初戀は柘榴色",
       "secondary": "西王母桃(中原麻衣), 総角景(櫻井孝宏)",
@@ -1586,69 +1649,6 @@
         }
       ],
       "detailPath": "entities/songs/c5148414ae103859.json"
-    },
-    {
-      "rank": 45999,
-      "id": "266e6d691479f4d3",
-      "name": "所以我停下來",
-      "secondary": "未記載",
-      "channelId": "UCr7239VjpEoWOhaKgwsiPVQ",
-      "channelHandle": "@Himeno_neu",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "u1jAe9Wpqko",
-          "videoTitle": "【歌枠】颱風天來聽我唱歌!!!! | 姬乃 Himeno ｜Singing Stream #初見歓迎 #降落歡迎 #高評價",
-          "channelName": "姬乃 Himeno",
-          "publishedAt": "2026-07-11T08:33:03.734Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/u1jAe9Wpqko/hqdefault.jpg",
-          "sourcePath": "sources/u1/u1jAe9Wpqko.json",
-          "time": "1:37:42",
-          "seconds": 5862,
-          "songTitle": "所以我停下來",
-          "artist": "未記載"
-        }
-      ],
-      "detailPath": "entities/songs/266e6d691479f4d3.json"
-    },
-    {
-      "rank": 46000,
-      "id": "294bc10c2455c40e",
-      "name": "所念皆星河",
-      "secondary": "",
-      "channelId": "UCkyjyDvMaZp8vcLTCpUzIAw",
-      "channelHandle": "@Inez_6Z0",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "X5Gm2gng6Q8",
-          "videoTitle": "Singing Stream︱中秋節來點點歌一起慶祝吧🎤︱依涅斯Inez #初見さん大歓迎 #歌枠 #初見歓迎",
-          "channelName": "依涅斯 Inez Shiotsuki Ch.",
-          "publishedAt": "2026-09-24T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/X5Gm2gng6Q8/hqdefault.jpg",
-          "sourcePath": "sources/X5/X5Gm2gng6Q8.json",
-          "time": "1:41:50",
-          "seconds": 6110,
-          "songTitle": "所念皆星河",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/294bc10c2455c40e.json"
     }
   ]
 }

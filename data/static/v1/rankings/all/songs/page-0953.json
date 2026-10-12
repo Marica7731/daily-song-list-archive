@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 953,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 47601,
+      "id": "5db20d2ba2547aae",
+      "name": "絶対零度の世界から",
+      "secondary": "VEE",
+      "channelId": "UCnBOUGfsfcD6nUbpdDAwMfw",
+      "channelHandle": "@HiyoriChihiyo",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "trOacmFCupo",
+          "videoTitle": "【歌枠】VEE所属 日和ちひよでした【VEE/日和ちひよ】",
+          "channelName": "日和ちひよ / Hiyori Chihiyo",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/trOacmFCupo/hqdefault.jpg",
+          "sourcePath": "sources/tr/trOacmFCupo.json",
+          "time": "0:42:52",
+          "seconds": 2572,
+          "songTitle": "絶対零度の世界から",
+          "artist": "VEE"
+        }
+      ],
+      "detailPath": "entities/songs/5db20d2ba2547aae.json"
+    },
+    {
+      "rank": 47602,
+      "id": "4924a34baeb7d7da",
+      "name": "絶対零度θノヴァティック",
+      "secondary": "未記載",
+      "channelId": "UCjtNkDsKWsxnZ0-ssUCFp7A",
+      "channelHandle": "@Sasanone_wapo",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "C4_b2wDKNDw",
+          "videoTitle": "【歌雑】7月おわるまえにすべりこみ 弾き語り/雑談〖ドリプロV / 笹ノ音わぽ〗 #VTuber ＃わぽらいぶ",
+          "channelName": "笹ノ音わぽ / Sasanone Wapo",
+          "publishedAt": "2026-07-26T01:30:05.725Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/C4_b2wDKNDw/hqdefault.jpg",
+          "sourcePath": "sources/C4/C4_b2wDKNDw.json",
+          "time": "3:36:55",
+          "seconds": 13015,
+          "songTitle": "絶対零度θノヴァティック",
+          "artist": "未記載"
+        }
+      ],
+      "detailPath": "entities/songs/4924a34baeb7d7da.json"
+    },
+    {
+      "rank": 47603,
       "id": "9b8e793fa444edd2",
       "name": "絶対零度θノヴァティック",
       "secondary": "リクエスト曲",
@@ -40,7 +103,7 @@
       "detailPath": "entities/songs/9b8e793fa444edd2.json"
     },
     {
-      "rank": 47602,
+      "rank": 47604,
       "id": "7588a991a7d3766f",
       "name": "絶対零度θノヴァティック",
       "secondary": "",
@@ -70,7 +133,7 @@
       "detailPath": "entities/songs/7588a991a7d3766f.json"
     },
     {
-      "rank": 47603,
+      "rank": 47605,
       "id": "2b146b5b7d4b9a69",
       "name": "絶頂讃歌",
       "secondary": "未記載",
@@ -103,7 +166,7 @@
       "detailPath": "entities/songs/2b146b5b7d4b9a69.json"
     },
     {
-      "rank": 47604,
+      "rank": 47606,
       "id": "3212cd183550ccff",
       "name": "絶頂讃歌",
       "secondary": "和ぬか(中断)",
@@ -136,7 +199,7 @@
       "detailPath": "entities/songs/3212cd183550ccff.json"
     },
     {
-      "rank": 47605,
+      "rank": 47607,
       "id": "51a4a5b0c579d0ce",
       "name": "絶頂賛歌",
       "secondary": "",
@@ -169,7 +232,7 @@
       "detailPath": "entities/songs/51a4a5b0c579d0ce.json"
     },
     {
-      "rank": 47606,
+      "rank": 47608,
       "id": "555c430e9a90d980",
       "name": "絶刀・天羽々斬",
       "secondary": "風鳴翼（CV: 水樹奈々）",
@@ -202,7 +265,7 @@
       "detailPath": "entities/songs/555c430e9a90d980.json"
     },
     {
-      "rank": 47607,
+      "rank": 47609,
       "id": "1edf0a5701a30f4b",
       "name": "絶望年表",
       "secondary": "ReoNa",
@@ -235,7 +298,7 @@
       "detailPath": "entities/songs/1edf0a5701a30f4b.json"
     },
     {
-      "rank": 47608,
+      "rank": 47610,
       "id": "ff404f90f31b12d1",
       "name": "絶滅黒髪少女",
       "secondary": "NMB48 様",
@@ -268,7 +331,7 @@
       "detailPath": "entities/songs/ff404f90f31b12d1.json"
     },
     {
-      "rank": 47609,
+      "rank": 47611,
       "id": "ae9bc3aa4872bf0c",
       "name": "絶滅黒髪少女",
       "secondary": "NMB48",
@@ -301,7 +364,7 @@
       "detailPath": "entities/songs/ae9bc3aa4872bf0c.json"
     },
     {
-      "rank": 47610,
+      "rank": 47612,
       "id": "80613bfc19b6b883",
       "name": "蝉",
       "secondary": "長渕剛",
@@ -334,7 +397,7 @@
       "detailPath": "entities/songs/80613bfc19b6b883.json"
     },
     {
-      "rank": 47611,
+      "rank": 47613,
       "id": "5bbd4f0bc579970d",
       "name": "先だし情報",
       "secondary": "",
@@ -367,7 +430,7 @@
       "detailPath": "entities/songs/5bbd4f0bc579970d.json"
     },
     {
-      "rank": 47612,
+      "rank": 47614,
       "id": "36b3812597b8a8a8",
       "name": "先駆者",
       "secondary": "星街すいせい",
@@ -400,7 +463,7 @@
       "detailPath": "entities/songs/36b3812597b8a8a8.json"
     },
     {
-      "rank": 47613,
+      "rank": 47615,
       "id": "103c2bbabe17fbc0",
       "name": "先月からお祭り続きの あおぎり高校",
       "secondary": "",
@@ -433,7 +496,7 @@
       "detailPath": "entities/songs/103c2bbabe17fbc0.json"
     },
     {
-      "rank": 47614,
+      "rank": 47616,
       "id": "25e033789f08a9c2",
       "name": "先生あのね",
       "secondary": "西沢さんP feat. 花隈千冬",
@@ -466,7 +529,7 @@
       "detailPath": "entities/songs/25e033789f08a9c2.json"
     },
     {
-      "rank": 47615,
+      "rank": 47617,
       "id": "036d23de021583c1",
       "name": "先生のこと好きになっちゃう",
       "secondary": "式浦。",
@@ -499,7 +562,7 @@
       "detailPath": "entities/songs/036d23de021583c1.json"
     },
     {
-      "rank": 47616,
+      "rank": 47618,
       "id": "55fb699adde982dd",
       "name": "先雜談",
       "secondary": "",
@@ -532,7 +595,7 @@
       "detailPath": "entities/songs/55fb699adde982dd.json"
     },
     {
-      "rank": 47617,
+      "rank": 47619,
       "id": "7df8a8fbb2808af5",
       "name": "千の風になって(碧樂マリュver)",
       "secondary": "秋川雅史",
@@ -566,7 +629,7 @@
       "detailPath": "entities/songs/7df8a8fbb2808af5.json"
     },
     {
-      "rank": 47618,
+      "rank": 47620,
       "id": "9e88af911a49451f",
       "name": "千の夜をこえて",
       "secondary": "Aqua Timez（チャレンジ枠）",
@@ -598,7 +661,7 @@
       "detailPath": "entities/songs/9e88af911a49451f.json"
     },
     {
-      "rank": 47619,
+      "rank": 47621,
       "id": "9ef81cb5705249a3",
       "name": "千の夜をこえて",
       "secondary": "未記載",
@@ -632,7 +695,7 @@
       "detailPath": "entities/songs/9ef81cb5705249a3.json"
     },
     {
-      "rank": 47620,
+      "rank": 47622,
       "id": "0256013c157e1af0",
       "name": "千の夜をこえて",
       "secondary": "分かるところだけ",
@@ -662,7 +725,7 @@
       "detailPath": "entities/songs/0256013c157e1af0.json"
     },
     {
-      "rank": 47621,
+      "rank": 47623,
       "id": "c517e2e3e178751c",
       "name": "千の夜をこえて",
       "secondary": "",
@@ -692,7 +755,7 @@
       "detailPath": "entities/songs/c517e2e3e178751c.json"
     },
     {
-      "rank": 47622,
+      "rank": 47624,
       "id": "3ba5ed2dcc5a53e8",
       "name": "千の夜をこえて／Aqua Timez／2006/11",
       "secondary": "22",
@@ -722,7 +785,7 @@
       "detailPath": "entities/songs/3ba5ed2dcc5a53e8.json"
     },
     {
-      "rank": 47623,
+      "rank": 47625,
       "id": "94a395bc5430fb0e",
       "name": "千客万来キョンシーポップ",
       "secondary": "わお",
@@ -755,7 +818,7 @@
       "detailPath": "entities/songs/94a395bc5430fb0e.json"
     },
     {
-      "rank": 47624,
+      "rank": 47626,
       "id": "234111a400726074",
       "name": "千秋楽まで",
       "secondary": "schirm",
@@ -788,7 +851,7 @@
       "detailPath": "entities/songs/234111a400726074.json"
     },
     {
-      "rank": 47625,
+      "rank": 47627,
       "id": "35197eb4d72ed309",
       "name": "千鳥",
       "secondary": "未記載",
@@ -822,7 +885,7 @@
       "detailPath": "entities/songs/35197eb4d72ed309.json"
     },
     {
-      "rank": 47626,
+      "rank": 47628,
       "id": "e980c5311904b767",
       "name": "千鳥",
       "secondary": "",
@@ -855,7 +918,7 @@
       "detailPath": "entities/songs/e980c5311904b767.json"
     },
     {
-      "rank": 47627,
+      "rank": 47629,
       "id": "07e58ef563f00e98",
       "name": "千年の独奏歌",
       "secondary": "Yanagi",
@@ -888,7 +951,7 @@
       "detailPath": "entities/songs/07e58ef563f00e98.json"
     },
     {
-      "rank": 47628,
+      "rank": 47630,
       "id": "25ac661c2930a933",
       "name": "千年の独奏歌",
       "secondary": "yanagi feat. KAITO",
@@ -921,7 +984,7 @@
       "detailPath": "entities/songs/25ac661c2930a933.json"
     },
     {
-      "rank": 47629,
+      "rank": 47631,
       "id": "074a6c613e70bd9a",
       "name": "千年の独奏歌",
       "secondary": "KAITO",
@@ -954,7 +1017,7 @@
       "detailPath": "entities/songs/074a6c613e70bd9a.json"
     },
     {
-      "rank": 47630,
+      "rank": 47632,
       "id": "5890f1517e261c0e",
       "name": "千年鳥",
       "secondary": "おいしくるメロンパン",
@@ -988,7 +1051,7 @@
       "detailPath": "entities/songs/5890f1517e261c0e.json"
     },
     {
-      "rank": 47631,
+      "rank": 47633,
       "id": "e266eaf04032410a",
       "name": "千年之戀",
       "secondary": "信樂團",
@@ -1021,7 +1084,7 @@
       "detailPath": "entities/songs/e266eaf04032410a.json"
     },
     {
-      "rank": 47632,
+      "rank": 47634,
       "id": "5ac74f45986cdedc",
       "name": "千本桜",
       "secondary": "黒うさP feat 初音ミク（2011年）",
@@ -1053,7 +1116,7 @@
       "detailPath": "entities/songs/5ac74f45986cdedc.json"
     },
     {
-      "rank": 47633,
+      "rank": 47635,
       "id": "e489ba48e1986401",
       "name": "千本桜",
       "secondary": "小林幸子ver",
@@ -1086,7 +1149,7 @@
       "detailPath": "entities/songs/e489ba48e1986401.json"
     },
     {
-      "rank": 47634,
+      "rank": 47636,
       "id": "c338ebbc5b6678d2",
       "name": "千本桜",
       "secondary": "黒うさP〈2011〉",
@@ -1119,7 +1182,7 @@
       "detailPath": "entities/songs/c338ebbc5b6678d2.json"
     },
     {
-      "rank": 47635,
+      "rank": 47637,
       "id": "4b9eec301b03fae1",
       "name": "千本桜",
       "secondary": "黒うさ feat.初音ミク/2011",
@@ -1152,7 +1215,7 @@
       "detailPath": "entities/songs/4b9eec301b03fae1.json"
     },
     {
-      "rank": 47636,
+      "rank": 47638,
       "id": "e39eb37d95c7be3f",
       "name": "千本桜",
       "secondary": "Ado(Cover)",
@@ -1185,7 +1248,7 @@
       "detailPath": "entities/songs/e39eb37d95c7be3f.json"
     },
     {
-      "rank": 47637,
+      "rank": 47639,
       "id": "928d40c8dae070fe",
       "name": "千本桜",
       "secondary": "00:23:06",
@@ -1218,7 +1281,7 @@
       "detailPath": "entities/songs/928d40c8dae070fe.json"
     },
     {
-      "rank": 47638,
+      "rank": 47640,
       "id": "1a49288f09d8db0a",
       "name": "千本桜",
       "secondary": "黒ウサPfeat.初音ミク⭕",
@@ -1251,7 +1314,7 @@
       "detailPath": "entities/songs/1a49288f09d8db0a.json"
     },
     {
-      "rank": 47639,
+      "rank": 47641,
       "id": "b859fbfd3c0ad725",
       "name": "千本桜",
       "secondary": "黒うさP feat. 初音ミク @namakara",
@@ -1281,7 +1344,7 @@
       "detailPath": "entities/songs/b859fbfd3c0ad725.json"
     },
     {
-      "rank": 47640,
+      "rank": 47642,
       "id": "c185bff37de10243",
       "name": "千本桜",
       "secondary": "黒うさ様(小林幸子様Ver.)",
@@ -1311,7 +1374,7 @@
       "detailPath": "entities/songs/c185bff37de10243.json"
     },
     {
-      "rank": 47641,
+      "rank": 47643,
       "id": "b6dd3b3842f2031e",
       "name": "千本桜",
       "secondary": "WhiteFlame (黒うさP) feat.初音ミク",
@@ -1344,7 +1407,7 @@
       "detailPath": "entities/songs/b6dd3b3842f2031e.json"
     },
     {
-      "rank": 47642,
+      "rank": 47644,
       "id": "3dda067dca4f0e21",
       "name": "千本桜",
       "secondary": "WhiteFlame official",
@@ -1374,7 +1437,7 @@
       "detailPath": "entities/songs/3dda067dca4f0e21.json"
     },
     {
-      "rank": 47643,
+      "rank": 47645,
       "id": "f3c34d07bad3b3b2",
       "name": "千本桜",
       "secondary": "WhiteFlame feat.初音ミク (黒うさP)",
@@ -1407,7 +1470,7 @@
       "detailPath": "entities/songs/f3c34d07bad3b3b2.json"
     },
     {
-      "rank": 47644,
+      "rank": 47646,
       "id": "e86d7db62c2e5e0c",
       "name": "千本桜",
       "secondary": "Senbonzakura",
@@ -1440,7 +1503,7 @@
       "detailPath": "entities/songs/e86d7db62c2e5e0c.json"
     },
     {
-      "rank": 47645,
+      "rank": 47647,
       "id": "046d4f15b6d58647",
       "name": "千本桜",
       "secondary": "2回目",
@@ -1470,7 +1533,7 @@
       "detailPath": "entities/songs/046d4f15b6d58647.json"
     },
     {
-      "rank": 47646,
+      "rank": 47648,
       "id": "1e781444381c1b79",
       "name": "千本桜",
       "secondary": "和楽器バンド feat.初音ミク（2014年）",
@@ -1503,7 +1566,7 @@
       "detailPath": "entities/songs/1e781444381c1b79.json"
     },
     {
-      "rank": 47647,
+      "rank": 47649,
       "id": "bbb8635e06ae640d",
       "name": "千本桜",
       "secondary": "黒うさ(小林幸子バージョン)",
@@ -1533,7 +1596,7 @@
       "detailPath": "entities/songs/bbb8635e06ae640d.json"
     },
     {
-      "rank": 47648,
+      "rank": 47650,
       "id": "32d486479d1a27dc",
       "name": "千本桜",
       "secondary": "黒うさP feat. 初音ミク [かな]",
@@ -1564,72 +1627,6 @@
         }
       ],
       "detailPath": "entities/songs/32d486479d1a27dc.json"
-    },
-    {
-      "rank": 47649,
-      "id": "494448018379e315",
-      "name": "千本桜 初音ミク",
-      "secondary": "黒うさP",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "YUn6Ezu6PDQ",
-          "videoTitle": "歌枠 ボカロ縛り 【Vtuber】",
-          "channelName": "徳川ゆめの",
-          "publishedAt": "2026-09-17T16:09:15.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YUn6Ezu6PDQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAc8yvdykYyv06AqWJ9ZoVvzzbkXg",
-          "sourcePath": "sources/YU/YUn6Ezu6PDQ.json",
-          "time": "1:16:34",
-          "seconds": 4594,
-          "songTitle": "千本桜 初音ミク",
-          "artist": "黒うさP"
-        }
-      ],
-      "detailPath": "entities/songs/494448018379e315.json"
-    },
-    {
-      "rank": 47650,
-      "id": "68427ff8538b7cb8",
-      "name": "千本桜(-3)",
-      "secondary": "黒うさP feat.初音ミク",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7t7g8OxXzbU",
-          "videoTitle": "【 コラボ歌枠 】二人で奏でる和を、どうぞご堪能あれ🌸🪶【 稲守サクヤ×羽緒 】#さくはお #歌枠 #vtuber #vsinger #karaoke",
-          "channelName": "羽緒、稲守サクヤ / Sakuya Inamori",
-          "publishedAt": "2026-09-29T15:40:05.685Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7t7g8OxXzbU/hqdefault.jpg",
-          "sourcePath": "sources/7t/7t7g8OxXzbU.json",
-          "time": "1:07:13",
-          "seconds": 4033,
-          "songTitle": "千本桜(-3)",
-          "artist": "黒うさP feat.初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/68427ff8538b7cb8.json"
     }
   ]
 }

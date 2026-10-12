@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "artists",
   "page": 189,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10870,
+  "totalCount": 10871,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9401,
+      "id": "bb1602bd45091dad",
+      "name": "松本梨香さん",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dZBx9IIw-gY",
+          "videoTitle": "【歌枠】花の金曜日！おうたの金曜日！ #shorts 【#犬ゆうライブ / #Vtuber】",
+          "channelName": "犬居ゆう",
+          "publishedAt": "2026-09-18T14:46:48.956Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dZBx9IIw-gY/hqdefault.jpg",
+          "sourcePath": "sources/dZ/dZBx9IIw-gY.json",
+          "time": "0:37:52",
+          "seconds": 2272,
+          "songTitle": "～「タイプ:ワイルド」",
+          "artist": "松本梨香さん"
+        }
+      ],
+      "detailPath": "entities/artists/bb1602bd45091dad.json"
+    },
+    {
+      "rank": 9402,
       "id": "4e6d68ace82c3486",
       "name": "松葉みき",
       "secondary": "",
@@ -43,7 +76,7 @@
       "detailPath": "entities/artists/4e6d68ace82c3486.json"
     },
     {
-      "rank": 9402,
+      "rank": 9403,
       "id": "a57899145a6dc729",
       "name": "消失",
       "secondary": "",
@@ -76,7 +109,7 @@
       "detailPath": "entities/artists/a57899145a6dc729.json"
     },
     {
-      "rank": 9403,
+      "rank": 9404,
       "id": "2b1267e8666d166f",
       "name": "消灯",
       "secondary": "",
@@ -109,7 +142,7 @@
       "detailPath": "entities/artists/2b1267e8666d166f.json"
     },
     {
-      "rank": 9404,
+      "rank": 9405,
       "id": "6eb24980ca2acf49",
       "name": "湘南乃風 様 from",
       "secondary": "",
@@ -139,7 +172,7 @@
       "detailPath": "entities/artists/6eb24980ca2acf49.json"
     },
     {
-      "rank": 9405,
+      "rank": 9406,
       "id": "0663767749e1df0b",
       "name": "焦邁奇",
       "secondary": "",
@@ -172,7 +205,7 @@
       "detailPath": "entities/artists/0663767749e1df0b.json"
     },
     {
-      "rank": 9406,
+      "rank": 9407,
       "id": "93629265469edfa9",
       "name": "照1",
       "secondary": "",
@@ -205,7 +238,7 @@
       "detailPath": "entities/artists/93629265469edfa9.json"
     },
     {
-      "rank": 9407,
+      "rank": 9408,
       "id": "b581601a7b377080",
       "name": "照2",
       "secondary": "",
@@ -238,7 +271,7 @@
       "detailPath": "entities/artists/b581601a7b377080.json"
     },
     {
-      "rank": 9408,
+      "rank": 9409,
       "id": "771ccee7ffdc453f",
       "name": "照3",
       "secondary": "",
@@ -271,7 +304,7 @@
       "detailPath": "entities/artists/771ccee7ffdc453f.json"
     },
     {
-      "rank": 9409,
+      "rank": 9410,
       "id": "70ad47c4c8f1208f",
       "name": "照橋心美(茅野愛衣)",
       "secondary": "",
@@ -304,7 +337,7 @@
       "detailPath": "entities/artists/70ad47c4c8f1208f.json"
     },
     {
-      "rank": 9410,
+      "rank": 9411,
       "id": "2b19d3457be5b5a1",
       "name": "詳細は概要欄をチェック",
       "secondary": "",
@@ -337,7 +370,7 @@
       "detailPath": "entities/artists/2b19d3457be5b5a1.json"
     },
     {
-      "rank": 9411,
+      "rank": 9412,
       "id": "36db9d616ede328c",
       "name": "鍾鎮濤",
       "secondary": "",
@@ -370,7 +403,7 @@
       "detailPath": "entities/artists/36db9d616ede328c.json"
     },
     {
-      "rank": 9412,
+      "rank": 9413,
       "id": "da581b147fe6f76e",
       "name": "鞘師里保・小田さくら",
       "secondary": "",
@@ -400,7 +433,7 @@
       "detailPath": "entities/artists/da581b147fe6f76e.json"
     },
     {
-      "rank": 9413,
+      "rank": 9414,
       "id": "7829807d67df2b5a",
       "name": "鞘師里保・小田さくら（ハモリ）",
       "secondary": "",
@@ -430,7 +463,7 @@
       "detailPath": "entities/artists/7829807d67df2b5a.json"
     },
     {
-      "rank": 9414,
+      "rank": 9415,
       "id": "b212bcb764d08207",
       "name": "上々颱風",
       "secondary": "",
@@ -463,7 +496,7 @@
       "detailPath": "entities/artists/b212bcb764d08207.json"
     },
     {
-      "rank": 9415,
+      "rank": 9416,
       "id": "52cd8a58e7508efb",
       "name": "上顎に貼り付けるタイプののど飴",
       "secondary": "",
@@ -496,7 +529,7 @@
       "detailPath": "entities/artists/52cd8a58e7508efb.json"
     },
     {
-      "rank": 9416,
+      "rank": 9417,
       "id": "2b2f428620c5fb1a",
       "name": "上原あずみ",
       "secondary": "",
@@ -529,7 +562,7 @@
       "detailPath": "entities/artists/2b2f428620c5fb1a.json"
     },
     {
-      "rank": 9417,
+      "rank": 9418,
       "id": "343f30dc2406b1c3",
       "name": "上原多香子",
       "secondary": "",
@@ -562,7 +595,7 @@
       "detailPath": "entities/artists/343f30dc2406b1c3.json"
     },
     {
-      "rank": 9418,
+      "rank": 9419,
       "id": "cc0a4dc91a31be80",
       "name": "上水流宇宙",
       "secondary": "",
@@ -592,7 +625,7 @@
       "detailPath": "entities/artists/cc0a4dc91a31be80.json"
     },
     {
-      "rank": 9419,
+      "rank": 9420,
       "id": "f5c27207697cb78b",
       "name": "上谷麻紀",
       "secondary": "",
@@ -625,7 +658,7 @@
       "detailPath": "entities/artists/f5c27207697cb78b.json"
     },
     {
-      "rank": 9420,
+      "rank": 9421,
       "id": "eeb88cda9ab72249",
       "name": "上田正樹",
       "secondary": "",
@@ -658,7 +691,7 @@
       "detailPath": "entities/artists/eeb88cda9ab72249.json"
     },
     {
-      "rank": 9421,
+      "rank": 9422,
       "id": "62ca5f19f474d749",
       "name": "上田麗奈 ※JOYSOUND",
       "secondary": "",
@@ -691,7 +724,7 @@
       "detailPath": "entities/artists/62ca5f19f474d749.json"
     },
     {
-      "rank": 9422,
+      "rank": 9423,
       "id": "f558cb783c2058c9",
       "name": "上白石萌音 ( -1 )",
       "secondary": "",
@@ -724,7 +757,7 @@
       "detailPath": "entities/artists/f558cb783c2058c9.json"
     },
     {
-      "rank": 9423,
+      "rank": 9424,
       "id": "626d3554aafcac95",
       "name": "上裸",
       "secondary": "",
@@ -757,7 +790,7 @@
       "detailPath": "entities/artists/626d3554aafcac95.json"
     },
     {
-      "rank": 9424,
+      "rank": 9425,
       "id": "23a195d3edf695f6",
       "name": "嬢王蜂",
       "secondary": "",
@@ -787,7 +820,7 @@
       "detailPath": "entities/artists/23a195d3edf695f6.json"
     },
     {
-      "rank": 9425,
+      "rank": 9426,
       "id": "266b666c1ef6988d",
       "name": "情緒↑↓",
       "secondary": "",
@@ -817,7 +850,7 @@
       "detailPath": "entities/artists/266b666c1ef6988d.json"
     },
     {
-      "rank": 9426,
+      "rank": 9427,
       "id": "824a9f46c5eb73fb",
       "name": "情熱 -／中森明菜",
       "secondary": "",
@@ -850,7 +883,7 @@
       "detailPath": "entities/artists/824a9f46c5eb73fb.json"
     },
     {
-      "rank": 9427,
+      "rank": 9428,
       "id": "e109762bf9bda2f5",
       "name": "植松伸夫",
       "secondary": "",
@@ -884,7 +917,7 @@
       "detailPath": "entities/artists/e109762bf9bda2f5.json"
     },
     {
-      "rank": 9428,
+      "rank": 9429,
       "id": "9d877b03905e5c15",
       "name": "植木鉢まで",
       "secondary": "",
@@ -917,7 +950,7 @@
       "detailPath": "entities/artists/9d877b03905e5c15.json"
     },
     {
-      "rank": 9429,
+      "rank": 9430,
       "id": "2a859954db953cca",
       "name": "織田裕二 (事件は会議室で起きてるんじゃない！天音が起こしてるんだ！byドウマさん)www",
       "secondary": "",
@@ -950,7 +983,7 @@
       "detailPath": "entities/artists/2a859954db953cca.json"
     },
     {
-      "rank": 9430,
+      "rank": 9431,
       "id": "5c3d54f438686892",
       "name": "織田裕二withマキシ・プリースト",
       "secondary": "",
@@ -983,7 +1016,7 @@
       "detailPath": "entities/artists/5c3d54f438686892.json"
     },
     {
-      "rank": 9431,
+      "rank": 9432,
       "id": "88edd554242824c5",
       "name": "織田裕二ｻﾝ",
       "secondary": "",
@@ -1016,7 +1049,7 @@
       "detailPath": "entities/artists/88edd554242824c5.json"
     },
     {
-      "rank": 9432,
+      "rank": 9433,
       "id": "26430aa48be0d953",
       "name": "織夢りちぇ×VAL子P",
       "secondary": "",
@@ -1049,7 +1082,7 @@
       "detailPath": "entities/artists/26430aa48be0d953.json"
     },
     {
-      "rank": 9433,
+      "rank": 9434,
       "id": "2eede90424e81936",
       "name": "食べ放題",
       "secondary": "",
@@ -1082,7 +1115,7 @@
       "detailPath": "entities/artists/2eede90424e81936.json"
     },
     {
-      "rank": 9434,
+      "rank": 9435,
       "id": "723a8463e7b985cc",
       "name": "食材",
       "secondary": "",
@@ -1115,7 +1148,7 @@
       "detailPath": "entities/artists/723a8463e7b985cc.json"
     },
     {
-      "rank": 9435,
+      "rank": 9436,
       "id": "5572a192a473adc6",
       "name": "信樂團",
       "secondary": "",
@@ -1148,7 +1181,7 @@
       "detailPath": "entities/artists/5572a192a473adc6.json"
     },
     {
-      "rank": 9436,
+      "rank": 9437,
       "id": "ede8da5e14fd97c0",
       "name": "寝かしつけバージョン",
       "secondary": "",
@@ -1178,7 +1211,7 @@
       "detailPath": "entities/artists/ede8da5e14fd97c0.json"
     },
     {
-      "rank": 9437,
+      "rank": 9438,
       "id": "a17a3ad215bf90c2",
       "name": "審議～",
       "secondary": "",
@@ -1211,7 +1244,7 @@
       "detailPath": "entities/artists/a17a3ad215bf90c2.json"
     },
     {
-      "rank": 9438,
+      "rank": 9439,
       "id": "0b587ae80aec29d4",
       "name": "心という名の不可解",
       "secondary": "",
@@ -1244,7 +1277,7 @@
       "detailPath": "entities/artists/0b587ae80aec29d4.json"
     },
     {
-      "rank": 9439,
+      "rank": 9440,
       "id": "459139c42bb5ad6b",
       "name": "心祈エマ (M3楽曲)",
       "secondary": "",
@@ -1277,7 +1310,7 @@
       "detailPath": "entities/artists/459139c42bb5ad6b.json"
     },
     {
-      "rank": 9440,
+      "rank": 9441,
       "id": "4644052dccf85af5",
       "name": "心純作",
       "secondary": "",
@@ -1307,7 +1340,7 @@
       "detailPath": "entities/artists/4644052dccf85af5.json"
     },
     {
-      "rank": 9441,
+      "rank": 9442,
       "id": "b039eb4179627544",
       "name": "慎吾ママ",
       "secondary": "",
@@ -1340,7 +1373,7 @@
       "detailPath": "entities/artists/b039eb4179627544.json"
     },
     {
-      "rank": 9442,
+      "rank": 9443,
       "id": "8b084ba5f0494a21",
       "name": "新・豪血寺一族 煩悩解放",
       "secondary": "",
@@ -1373,7 +1406,7 @@
       "detailPath": "entities/artists/8b084ba5f0494a21.json"
     },
     {
-      "rank": 9443,
+      "rank": 9444,
       "id": "22a5537f50d92198",
       "name": "新しい学校のリーダー",
       "secondary": "",
@@ -1406,7 +1439,7 @@
       "detailPath": "entities/artists/22a5537f50d92198.json"
     },
     {
-      "rank": 9444,
+      "rank": 9445,
       "id": "48e84c0642279f76",
       "name": "新しい学校のリーダーズ(2020年)",
       "secondary": "",
@@ -1436,7 +1469,7 @@
       "detailPath": "entities/artists/48e84c0642279f76.json"
     },
     {
-      "rank": 9445,
+      "rank": 9446,
       "id": "8845a12532f3f7cc",
       "name": "新メイプルタウン物語〜パームタウン編〜",
       "secondary": "",
@@ -1469,7 +1502,7 @@
       "detailPath": "entities/artists/8845a12532f3f7cc.json"
     },
     {
-      "rank": 9446,
+      "rank": 9447,
       "id": "83df292c4143eb03",
       "name": "新井正人（アニメ『機動戦士Vガンダム』OP）",
       "secondary": "",
@@ -1502,7 +1535,7 @@
       "detailPath": "entities/artists/83df292c4143eb03.json"
     },
     {
-      "rank": 9447,
+      "rank": 9448,
       "id": "c3515b7e453f45cf",
       "name": "新曲 作曲者",
       "secondary": "",
@@ -1535,7 +1568,7 @@
       "detailPath": "entities/artists/c3515b7e453f45cf.json"
     },
     {
-      "rank": 9448,
+      "rank": 9449,
       "id": "816efd26ed2d2c9c",
       "name": "新口上",
       "secondary": "",
@@ -1568,7 +1601,7 @@
       "detailPath": "entities/artists/816efd26ed2d2c9c.json"
     },
     {
-      "rank": 9449,
+      "rank": 9450,
       "id": "4631710bb3f6f7b6",
       "name": "新菜まこ",
       "secondary": "",
@@ -1599,39 +1632,6 @@
         }
       ],
       "detailPath": "entities/artists/4631710bb3f6f7b6.json"
-    },
-    {
-      "rank": 9450,
-      "id": "d8cb0a78683b6762",
-      "name": "新城P",
-      "secondary": "",
-      "channelId": "UCyPGVE5M6d6nK5JA1wIc07g",
-      "channelHandle": "@-yotuyayae-9446",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XHb0_1sHRLE",
-          "videoTitle": "ガチぶいVO3 出るから 普段 歌ってる人の フリしないと【歌枠配信】",
-          "channelName": "四ッ谷やえ-Yotuya yae-",
-          "publishedAt": "2026-10-03T14:53:59.684Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XHb0_1sHRLE/hqdefault.jpg",
-          "sourcePath": "sources/XH/XHb0_1sHRLE.json",
-          "time": "0:30:03",
-          "seconds": 1803,
-          "songTitle": "Pane dhiria",
-          "artist": "新城P"
-        }
-      ],
-      "detailPath": "entities/artists/d8cb0a78683b6762.json"
     }
   ]
 }

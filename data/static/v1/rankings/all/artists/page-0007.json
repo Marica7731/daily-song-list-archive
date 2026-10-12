@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "artists",
   "page": 7,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20001,
+  "totalCount": 20002,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2454,6 +2454,67 @@
     },
     {
       "rank": 341,
+      "id": "500ab42a44d85477",
+      "name": "KEI",
+      "secondary": "",
+      "channelId": "UC4QTXCtC8veRQ3NXYREdgog",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 85,
+      "videoCount": 78,
+      "songCount": 12,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ncxWsUcL2yE",
+          "videoTitle": "【#弾き語り/노래뱅】夕暮れとアコギ❄君と私！【261006】",
+          "channelName": "氷晶もね",
+          "publishedAt": "2026-10-07T10:59:28.089Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ncxWsUcL2yE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcx3u9S3YAXZdRL_zMh0b3KhTVAg",
+          "sourcePath": "sources/nc/ncxWsUcL2yE.json",
+          "time": "0:54:51",
+          "seconds": 3291,
+          "songTitle": "Hello, Worker",
+          "artist": "KEI"
+        },
+        {
+          "videoId": "hz_drg2jDq8",
+          "videoTitle": "【#大好きキラリ歌枠リレー】最後まで私らしさ、たっぷりで✨🩵【Vtuber/沫雪ゆうり】#初見さん大歓迎",
+          "channelName": "沫雪ゆうり Yuri_awayuki",
+          "publishedAt": "2026-10-04T13:58:50.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hz_drg2jDq8/hqdefault.jpg",
+          "sourcePath": "sources/hz/hz_drg2jDq8.json",
+          "time": "0:19:39",
+          "seconds": 1179,
+          "songTitle": "Hello, Worker",
+          "artist": "KEI"
+        },
+        {
+          "videoId": "RhwbMyflh3k",
+          "videoTitle": "【歌枠】カタカナ曲名縛り！！10月最初の定期歌枠🎵 初見さん大歓迎✨【輪音乗】#shorts #vtuber",
+          "channelName": "輪音 乗 / Rinto Jyo",
+          "publishedAt": "2026-10-04T11:42:54.405Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RhwbMyflh3k/hqdefault.jpg",
+          "sourcePath": "sources/Rh/RhwbMyflh3k.json",
+          "time": "0:22:42",
+          "seconds": 1362,
+          "songTitle": "ピエロ",
+          "artist": "KEI"
+        }
+      ],
+      "detailPath": "entities/artists/500ab42a44d85477.json"
+    },
+    {
+      "rank": 342,
       "id": "2b7d9bc2839ef816",
       "name": "なるみや",
       "secondary": "",
@@ -2514,16 +2575,16 @@
       "detailPath": "entities/artists/2b7d9bc2839ef816.json"
     },
     {
-      "rank": 342,
-      "id": "500ab42a44d85477",
-      "name": "KEI",
+      "rank": 343,
+      "id": "57dd5387e46cd40b",
+      "name": "理芽",
       "secondary": "",
-      "channelId": "UC4QTXCtC8veRQ3NXYREdgog",
+      "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
-      "occurrenceCount": 84,
-      "videoCount": 77,
-      "songCount": 12,
+      "occurrenceCount": 83,
+      "videoCount": 80,
+      "songCount": 17,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2536,46 +2597,46 @@
       "collectionId": "",
       "sourcesPreview": [
         {
-          "videoId": "ncxWsUcL2yE",
-          "videoTitle": "【#弾き語り/노래뱅】夕暮れとアコギ❄君と私！【261006】",
-          "channelName": "氷晶もね",
-          "publishedAt": "2026-10-07T10:59:28.089Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ncxWsUcL2yE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcx3u9S3YAXZdRL_zMh0b3KhTVAg",
-          "sourcePath": "sources/nc/ncxWsUcL2yE.json",
-          "time": "0:54:51",
-          "seconds": 3291,
-          "songTitle": "Hello, Worker",
-          "artist": "KEI"
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "0:37:07",
+          "seconds": 2227,
+          "songTitle": "食虫植物",
+          "artist": "理芽"
         },
         {
-          "videoId": "RhwbMyflh3k",
-          "videoTitle": "【歌枠】カタカナ曲名縛り！！10月最初の定期歌枠🎵 初見さん大歓迎✨【輪音乗】#shorts #vtuber",
-          "channelName": "輪音 乗 / Rinto Jyo",
-          "publishedAt": "2026-10-04T11:42:54.405Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RhwbMyflh3k/hqdefault.jpg",
-          "sourcePath": "sources/Rh/RhwbMyflh3k.json",
-          "time": "0:22:42",
-          "seconds": 1362,
-          "songTitle": "ピエロ",
-          "artist": "KEI"
+          "videoId": "hyCNSRNPEnw",
+          "videoTitle": "【 弾き語り 】 夕方はここでしょ？ 【 歌枠 】 #菜鳥ひなた",
+          "channelName": "菜鳥ひなた / Hinata Natori",
+          "publishedAt": "2026-10-06T09:56:46.798Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hyCNSRNPEnw/hqdefault.jpg",
+          "sourcePath": "sources/hy/hyCNSRNPEnw.json",
+          "time": "1:18:41",
+          "seconds": 4721,
+          "songTitle": "食虫植物",
+          "artist": "理芽"
         },
         {
-          "videoId": "mnj0ZICkbaQ",
-          "videoTitle": "【歌枠】初見さん歓迎！深夜にバラード多めで歌います【氷乃渚 / ゆにれいど！】",
-          "channelName": "氷乃渚 / Hino Nagisa",
-          "publishedAt": "2026-10-03T15:55:36.542Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mnj0ZICkbaQ/hqdefault.jpg",
-          "sourcePath": "sources/mn/mnj0ZICkbaQ.json",
-          "time": "2:38:54",
-          "seconds": 9534,
-          "songTitle": "ピエロ",
-          "artist": "KEI"
+          "videoId": "AJQzN-Sp4_U",
+          "videoTitle": "【 #歌枠 】全力で貴方に届ける歌枠🌙🎵┊︎✦作業用BGM ✦ 【#日向ぽかり / #ぽかはむちゃん /Vsinger/Vtuber】",
+          "channelName": "日向ぽかり Pokari Hinata",
+          "publishedAt": "2026-10-05T15:35:46.109Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AJQzN-Sp4_U/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCWTExPlXZgKTn0AxM9jCfEaCrrsQ",
+          "sourcePath": "sources/AJ/AJQzN-Sp4_U.json",
+          "time": "1:32:55",
+          "seconds": 5575,
+          "songTitle": "食虫植物",
+          "artist": "理芽"
         }
       ],
-      "detailPath": "entities/artists/500ab42a44d85477.json"
+      "detailPath": "entities/artists/57dd5387e46cd40b.json"
     },
     {
-      "rank": 343,
+      "rank": 344,
       "id": "53c0b8935c43789d",
       "name": "杏里",
       "secondary": "",
@@ -2636,7 +2697,7 @@
       "detailPath": "entities/artists/53c0b8935c43789d.json"
     },
     {
-      "rank": 344,
+      "rank": 345,
       "id": "ec49446afbddd17e",
       "name": "すりぃ feat. 鏡音レン",
       "secondary": "",
@@ -2694,67 +2755,6 @@
         }
       ],
       "detailPath": "entities/artists/ec49446afbddd17e.json"
-    },
-    {
-      "rank": 345,
-      "id": "57dd5387e46cd40b",
-      "name": "理芽",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 82,
-      "videoCount": 79,
-      "songCount": 17,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iRuynqpvJL0",
-          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-12T09:45:02.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
-          "sourcePath": "sources/iR/iRuynqpvJL0.json",
-          "time": "0:37:07",
-          "seconds": 2227,
-          "songTitle": "食虫植物",
-          "artist": "理芽"
-        },
-        {
-          "videoId": "hyCNSRNPEnw",
-          "videoTitle": "【 弾き語り 】 夕方はここでしょ？ 【 歌枠 】 #菜鳥ひなた",
-          "channelName": "菜鳥ひなた / Hinata Natori",
-          "publishedAt": "2026-10-06T09:56:46.798Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/hyCNSRNPEnw/hqdefault.jpg",
-          "sourcePath": "sources/hy/hyCNSRNPEnw.json",
-          "time": "1:18:41",
-          "seconds": 4721,
-          "songTitle": "食虫植物",
-          "artist": "理芽"
-        },
-        {
-          "videoId": "AJQzN-Sp4_U",
-          "videoTitle": "【 #歌枠 】全力で貴方に届ける歌枠🌙🎵┊︎✦作業用BGM ✦ 【#日向ぽかり / #ぽかはむちゃん /Vsinger/Vtuber】",
-          "channelName": "日向ぽかり Pokari Hinata",
-          "publishedAt": "2026-10-05T15:35:46.109Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AJQzN-Sp4_U/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCWTExPlXZgKTn0AxM9jCfEaCrrsQ",
-          "sourcePath": "sources/AJ/AJQzN-Sp4_U.json",
-          "time": "1:32:55",
-          "seconds": 5575,
-          "songTitle": "食虫植物",
-          "artist": "理芽"
-        }
-      ],
-      "detailPath": "entities/artists/57dd5387e46cd40b.json"
     },
     {
       "rank": 346,

@@ -1,16 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 843,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 42101,
+      "id": "7110c1779751923e",
+      "name": "歌うたいのバラッド",
+      "secondary": "BENI",
+      "channelId": "UCYsZcucFXXwtAaWNvjIkZaA",
+      "channelHandle": "@neru_utano",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "gi0e5LuuDaQ",
+          "videoTitle": "【 歌枠 】お休み明け１曲どうですか？初見さんも大歓迎！ 【 Utano neru / Karaoke / #作業用bgm 】",
+          "channelName": "歌野ねる / Utano neru",
+          "publishedAt": "2026-08-17T08:09:51.935Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gi0e5LuuDaQ/hqdefault.jpg",
+          "sourcePath": "sources/gi/gi0e5LuuDaQ.json",
+          "time": "2:45:44",
+          "seconds": 9944,
+          "songTitle": "歌うたいのバラッド",
+          "artist": "BENI"
+        }
+      ],
+      "detailPath": "entities/songs/7110c1779751923e.json"
+    },
+    {
+      "rank": 42102,
       "id": "e277ffc3c53671a4",
       "name": "歌うたいのバラッド",
       "secondary": "",
@@ -40,7 +74,7 @@
       "detailPath": "entities/songs/e277ffc3c53671a4.json"
     },
     {
-      "rank": 42102,
+      "rank": 42103,
       "id": "22f585bd14e2d4b7",
       "name": "歌うたいのバラッド",
       "secondary": "斉藤和義 / COUNT DOWN TV",
@@ -73,7 +107,7 @@
       "detailPath": "entities/songs/22f585bd14e2d4b7.json"
     },
     {
-      "rank": 42103,
+      "rank": 42104,
       "id": "a03489de9f73eb57",
       "name": "歌うの忘れるミス",
       "secondary": "",
@@ -106,7 +140,7 @@
       "detailPath": "entities/songs/a03489de9f73eb57.json"
     },
     {
-      "rank": 42104,
+      "rank": 42105,
       "id": "3cf31b4d959841cd",
       "name": "歌う人",
       "secondary": "KOKIA",
@@ -139,7 +173,7 @@
       "detailPath": "entities/songs/3cf31b4d959841cd.json"
     },
     {
-      "rank": 42105,
+      "rank": 42106,
       "id": "64d7d7f928fe5f51",
       "name": "歌え！",
       "secondary": "九傷・仙道エイジ",
@@ -172,7 +206,7 @@
       "detailPath": "entities/songs/64d7d7f928fe5f51.json"
     },
     {
-      "rank": 42106,
+      "rank": 42107,
       "id": "a3f1cf559ced30d8",
       "name": "歌えてたもん😭",
       "secondary": "",
@@ -205,7 +239,7 @@
       "detailPath": "entities/songs/a3f1cf559ced30d8.json"
     },
     {
-      "rank": 42107,
+      "rank": 42108,
       "id": "dd904916ef2b974c",
       "name": "歌えばサンライズ(カズー)",
       "secondary": "酉居とさか",
@@ -235,7 +269,7 @@
       "detailPath": "entities/songs/dd904916ef2b974c.json"
     },
     {
-      "rank": 42108,
+      "rank": 42109,
       "id": "69268e913ed4be71",
       "name": "歌えば君がそこにいるから",
       "secondary": "鈴木このみ",
@@ -268,7 +302,7 @@
       "detailPath": "entities/songs/69268e913ed4be71.json"
     },
     {
-      "rank": 42109,
+      "rank": 42110,
       "id": "fc9a24bfe98429e8",
       "name": "歌スタート",
       "secondary": "",
@@ -298,7 +332,7 @@
       "detailPath": "entities/songs/fc9a24bfe98429e8.json"
     },
     {
-      "rank": 42110,
+      "rank": 42111,
       "id": "f75e33c6a3a3ab5a",
       "name": "歌スタート　1曲目　永遠ブルー",
       "secondary": "",
@@ -328,7 +362,7 @@
       "detailPath": "entities/songs/f75e33c6a3a3ab5a.json"
     },
     {
-      "rank": 42111,
+      "rank": 42112,
       "id": "85205e8fa0f13244",
       "name": "歌ったリストひとくちメモ",
       "secondary": "",
@@ -361,7 +395,7 @@
       "detailPath": "entities/songs/85205e8fa0f13244.json"
     },
     {
-      "rank": 42112,
+      "rank": 42113,
       "id": "0d43c72fb9f11c1b",
       "name": "歌った曲",
       "secondary": "",
@@ -394,7 +428,7 @@
       "detailPath": "entities/songs/0d43c72fb9f11c1b.json"
     },
     {
-      "rank": 42113,
+      "rank": 42114,
       "id": "52bbc97e77fdcafd",
       "name": "歌ってみた1万再生おめでとう！",
       "secondary": "",
@@ -427,7 +461,7 @@
       "detailPath": "entities/songs/52bbc97e77fdcafd.json"
     },
     {
-      "rank": 42114,
+      "rank": 42115,
       "id": "aaa5868bce00c7a0",
       "name": "歌ってみたうpの話",
       "secondary": "公開済み",
@@ -457,7 +491,7 @@
       "detailPath": "entities/songs/aaa5868bce00c7a0.json"
     },
     {
-      "rank": 42115,
+      "rank": 42116,
       "id": "1875565e7236c311",
       "name": "歌ってみた左右盲エピソード",
       "secondary": "",
@@ -490,7 +524,7 @@
       "detailPath": "entities/songs/1875565e7236c311.json"
     },
     {
-      "rank": 42116,
+      "rank": 42117,
       "id": "60eb06cfe36fe87c",
       "name": "歌ってみた同時視聴",
       "secondary": "未記載",
@@ -524,7 +558,7 @@
       "detailPath": "entities/songs/60eb06cfe36fe87c.json"
     },
     {
-      "rank": 42117,
+      "rank": 42118,
       "id": "70a2204903d2248e",
       "name": "歌に形はないけれど",
       "secondary": "doiko feat . 初音ミク",
@@ -557,7 +591,7 @@
       "detailPath": "entities/songs/70a2204903d2248e.json"
     },
     {
-      "rank": 42118,
+      "rank": 42119,
       "id": "07692a89d47c41c9",
       "name": "歌に形はないけれど",
       "secondary": "doriko ft. 初音ミク",
@@ -591,7 +625,7 @@
       "detailPath": "entities/songs/07692a89d47c41c9.json"
     },
     {
-      "rank": 42119,
+      "rank": 42120,
       "id": "239f40ef3baa9df9",
       "name": "歌に形は無いけれど",
       "secondary": "未記載",
@@ -624,7 +658,7 @@
       "detailPath": "entities/songs/239f40ef3baa9df9.json"
     },
     {
-      "rank": 42120,
+      "rank": 42121,
       "id": "d3e4c9ea2ec910d4",
       "name": "歌のお部屋にワープ！",
       "secondary": "未記載",
@@ -658,7 +692,7 @@
       "detailPath": "entities/songs/d3e4c9ea2ec910d4.json"
     },
     {
-      "rank": 42121,
+      "rank": 42122,
       "id": "eff2407918f3ce71",
       "name": "歌の呼吸／踊りの呼吸",
       "secondary": "次はペア",
@@ -692,7 +726,7 @@
       "detailPath": "entities/songs/eff2407918f3ce71.json"
     },
     {
-      "rank": 42122,
+      "rank": 42123,
       "id": "d98a7f7c46b400be",
       "name": "歌は世に連れ",
       "secondary": "NSP",
@@ -722,7 +756,7 @@
       "detailPath": "entities/songs/d98a7f7c46b400be.json"
     },
     {
-      "rank": 42123,
+      "rank": 42124,
       "id": "5fcf507becab1ed6",
       "name": "歌みたで聞いたやつだってなってる！",
       "secondary": "",
@@ -755,7 +789,7 @@
       "detailPath": "entities/songs/5fcf507becab1ed6.json"
     },
     {
-      "rank": 42124,
+      "rank": 42125,
       "id": "3245a70e3a06b432",
       "name": "歌よ",
       "secondary": "ほぼちゅきみ",
@@ -785,7 +819,7 @@
       "detailPath": "entities/songs/3245a70e3a06b432.json"
     },
     {
-      "rank": 42125,
+      "rank": 42126,
       "id": "cbd08afd6207d1a2",
       "name": "歌回表符大力刷起來~",
       "secondary": "",
@@ -818,7 +852,7 @@
       "detailPath": "entities/songs/cbd08afd6207d1a2.json"
     },
     {
-      "rank": 42126,
+      "rank": 42127,
       "id": "46ed75ab601a0338",
       "name": "歌開始",
       "secondary": "セトリはコメント欄",
@@ -848,7 +882,7 @@
       "detailPath": "entities/songs/46ed75ab601a0338.json"
     },
     {
-      "rank": 42127,
+      "rank": 42128,
       "id": "27789a25e895ec18",
       "name": "歌再開",
       "secondary": "",
@@ -881,7 +915,7 @@
       "detailPath": "entities/songs/27789a25e895ec18.json"
     },
     {
-      "rank": 42128,
+      "rank": 42129,
       "id": "e6d773cd68d00ffa",
       "name": "歌詞",
       "secondary": "",
@@ -914,7 +948,7 @@
       "detailPath": "entities/songs/e6d773cd68d00ffa.json"
     },
     {
-      "rank": 42129,
+      "rank": 42130,
       "id": "e8140b6530f8d586",
       "name": "歌詞がわからないターン長め",
       "secondary": "",
@@ -944,7 +978,7 @@
       "detailPath": "entities/songs/e8140b6530f8d586.json"
     },
     {
-      "rank": 42130,
+      "rank": 42131,
       "id": "b446f02e2659dfe6",
       "name": "歌詞が出てこないダーリン",
       "secondary": "",
@@ -977,7 +1011,7 @@
       "detailPath": "entities/songs/b446f02e2659dfe6.json"
     },
     {
-      "rank": 42131,
+      "rank": 42132,
       "id": "f10e20e7093e3cf7",
       "name": "歌詞割りの特権",
       "secondary": "未記載",
@@ -1009,7 +1043,7 @@
       "detailPath": "entities/songs/f10e20e7093e3cf7.json"
     },
     {
-      "rank": 42132,
+      "rank": 42133,
       "id": "fb412159126032b6",
       "name": "歌詞検索をしてみたら",
       "secondary": "",
@@ -1042,7 +1076,7 @@
       "detailPath": "entities/songs/fb412159126032b6.json"
     },
     {
-      "rank": 42133,
+      "rank": 42134,
       "id": "90be8716dca9bd10",
       "name": "歌詞全体",
       "secondary": "",
@@ -1075,7 +1109,7 @@
       "detailPath": "entities/songs/90be8716dca9bd10.json"
     },
     {
-      "rank": 42134,
+      "rank": 42135,
       "id": "cf3775ed648d1640",
       "name": "歌詞入り）",
       "secondary": "",
@@ -1108,7 +1142,7 @@
       "detailPath": "entities/songs/cf3775ed648d1640.json"
     },
     {
-      "rank": 42135,
+      "rank": 42136,
       "id": "0869338d538961e1",
       "name": "歌唱:again",
       "secondary": "",
@@ -1138,7 +1172,7 @@
       "detailPath": "entities/songs/0869338d538961e1.json"
     },
     {
-      "rank": 42136,
+      "rank": 42137,
       "id": "693e941e7bbb9867",
       "name": "歌唱:secret base 〜君がくれたもの〜",
       "secondary": "",
@@ -1168,7 +1202,7 @@
       "detailPath": "entities/songs/693e941e7bbb9867.json"
     },
     {
-      "rank": 42137,
+      "rank": 42138,
       "id": "7d2307610e3506ad",
       "name": "歌唱:紅一葉",
       "secondary": "黒うさP",
@@ -1198,7 +1232,7 @@
       "detailPath": "entities/songs/7d2307610e3506ad.json"
     },
     {
-      "rank": 42138,
+      "rank": 42139,
       "id": "f9e540d051e47149",
       "name": "歌唱:朝がまた来る",
       "secondary": "",
@@ -1228,7 +1262,7 @@
       "detailPath": "entities/songs/f9e540d051e47149.json"
     },
     {
-      "rank": 42139,
+      "rank": 42140,
       "id": "061f821f466d70c5",
       "name": "歌唱:陽のあたる坂道",
       "secondary": "",
@@ -1258,7 +1292,7 @@
       "detailPath": "entities/songs/061f821f466d70c5.json"
     },
     {
-      "rank": 42140,
+      "rank": 42141,
       "id": "698ab0221bfcc414",
       "name": "歌唱(ワンコーラス)",
       "secondary": "未記載",
@@ -1290,7 +1324,7 @@
       "detailPath": "entities/songs/698ab0221bfcc414.json"
     },
     {
-      "rank": 42141,
+      "rank": 42142,
       "id": "9544a352ddc6fa59",
       "name": "歌唱1: 『sweet timer』",
       "secondary": "",
@@ -1320,7 +1354,7 @@
       "detailPath": "entities/songs/9544a352ddc6fa59.json"
     },
     {
-      "rank": 42142,
+      "rank": 42143,
       "id": "906c06900434f35d",
       "name": "歌唱2: 『lull そして僕らは』",
       "secondary": "",
@@ -1350,7 +1384,7 @@
       "detailPath": "entities/songs/906c06900434f35d.json"
     },
     {
-      "rank": 42143,
+      "rank": 42144,
       "id": "8ffef74fa9ce6823",
       "name": "歌唱3: 『薔薇の下で』",
       "secondary": "",
@@ -1380,7 +1414,7 @@
       "detailPath": "entities/songs/8ffef74fa9ce6823.json"
     },
     {
-      "rank": 42144,
+      "rank": 42145,
       "id": "5503489fb053d0fc",
       "name": "歌唱4: 『方舟』",
       "secondary": "",
@@ -1410,7 +1444,7 @@
       "detailPath": "entities/songs/5503489fb053d0fc.json"
     },
     {
-      "rank": 42145,
+      "rank": 42146,
       "id": "34b384d12d8635db",
       "name": "歌唱5: 『perfect day』",
       "secondary": "",
@@ -1440,7 +1474,7 @@
       "detailPath": "entities/songs/34b384d12d8635db.json"
     },
     {
-      "rank": 42146,
+      "rank": 42147,
       "id": "ec22aa9ef5b03faa",
       "name": "歌唱6: 『私じゃなかったんだね』",
       "secondary": "",
@@ -1470,7 +1504,7 @@
       "detailPath": "entities/songs/ec22aa9ef5b03faa.json"
     },
     {
-      "rank": 42147,
+      "rank": 42148,
       "id": "380b4c43220edf7a",
       "name": "歌唱7（ラスト）: 『コネクト』",
       "secondary": "",
@@ -1500,7 +1534,7 @@
       "detailPath": "entities/songs/380b4c43220edf7a.json"
     },
     {
-      "rank": 42148,
+      "rank": 42149,
       "id": "1fa6aed1d64c64e7",
       "name": "歌唱中のトラブル",
       "secondary": "ペットボトルへの肘打ち事故",
@@ -1534,7 +1568,7 @@
       "detailPath": "entities/songs/1fa6aed1d64c64e7.json"
     },
     {
-      "rank": 42149,
+      "rank": 42150,
       "id": "d1cf431481f43629",
       "name": "歌鳥風月",
       "secondary": "Aimer",
@@ -1565,39 +1599,6 @@
         }
       ],
       "detailPath": "entities/songs/d1cf431481f43629.json"
-    },
-    {
-      "rank": 42150,
-      "id": "caa1b87df3a7ca65",
-      "name": "歌締め",
-      "secondary": "未記載",
-      "channelId": "UCLIpj4TmXviSTNE_U5WG_Ug",
-      "channelHandle": "/@KurageuRoa",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XPO7hsUR3Rs",
-          "videoTitle": "【歌枠】深夜のまったりチル歌雑なのだ。【海月雲ろあ/ #ろあるーむ】",
-          "channelName": "Roa Ch. 海月雲ろあ",
-          "publishedAt": "2026-07-13T18:01:42.302Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XPO7hsUR3Rs/hqdefault.jpg",
-          "sourcePath": "sources/XP/XPO7hsUR3Rs.json",
-          "time": "2:16:59",
-          "seconds": 8219,
-          "songTitle": "歌締め",
-          "artist": "未記載"
-        }
-      ],
-      "detailPath": "entities/songs/caa1b87df3a7ca65.json"
     }
   ]
 }

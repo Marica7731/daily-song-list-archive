@@ -1,16 +1,107 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 110,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5451,
+      "id": "29fa075d32da0524",
+      "name": "SWEET MEMORIES",
+      "secondary": "Seiko Matsuda",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "pE_B6pva-Wo",
+          "videoTitle": "【 #弾き語り 】初見さん15名様に出会いたい！深夜の弾き語り【 #323みすみ 】#Vtuber",
+          "channelName": "323(みすみ) -Misumi-",
+          "publishedAt": "2026-09-29T21:19:11.605Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pE_B6pva-Wo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlwsEFToYBL7kZIjppEnVDryiLng",
+          "sourcePath": "sources/pE/pE_B6pva-Wo.json",
+          "time": "5:10:02",
+          "seconds": 18602,
+          "songTitle": "SWEET MEMORIES",
+          "artist": "Seiko Matsuda"
+        },
+        {
+          "videoId": "fW3mHsLpmWE",
+          "videoTitle": "【 #歌枠 | SING 】ch登録194100人耐久目指す！懐メロ歌枠 singing stream - #323みすみ #shorts 【歌枠】",
+          "channelName": "323(みすみ) -Misumi-",
+          "publishedAt": "2026-09-20T20:04:11.204Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fW3mHsLpmWE/hqdefault.jpg",
+          "sourcePath": "sources/fW/fW3mHsLpmWE.json",
+          "time": "2:21:39",
+          "seconds": 8499,
+          "songTitle": "SWEET MEMORIES",
+          "artist": "Seiko Matsuda"
+        }
+      ],
+      "detailPath": "entities/songs/29fa075d32da0524.json"
+    },
+    {
+      "rank": 5452,
+      "id": "8ebb5334663b1906",
+      "name": "Sweet Surrender",
+      "secondary": "螢(大橋彩香)",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "EWnn40IgkZc",
+          "videoTitle": "【歌枠】ドパれ！🤩転調が気持ちイイ曲を歌います！！🎤Singing Stream【 #春歌みこと 】",
+          "channelName": "春歌みこと Mikoto Haruka【シアーミュージックV】",
+          "publishedAt": "2026-09-30T12:43:31.213Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/EWnn40IgkZc/hqdefault.jpg",
+          "sourcePath": "sources/EW/EWnn40IgkZc.json",
+          "time": "0:44:49",
+          "seconds": 2689,
+          "songTitle": "Sweet Surrender",
+          "artist": "螢(大橋彩香)"
+        },
+        {
+          "videoId": "WDh3GFMcsWQ",
+          "videoTitle": "【歌枠】アイドル作品ソング、たくさん歌うよ🎤💞✨※メンギフ禁止！【白玉餅ましろ/個人勢Vtuber】",
+          "channelName": "白玉餅 ましろ / shiratamamochi mashiro",
+          "publishedAt": "2026-09-26T18:22:39.593Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WDh3GFMcsWQ/hqdefault.jpg",
+          "sourcePath": "sources/WD/WDh3GFMcsWQ.json",
+          "time": "0:06:12",
+          "seconds": 372,
+          "songTitle": "Sweet Surrender",
+          "artist": "螢(大橋彩香)"
+        }
+      ],
+      "detailPath": "entities/songs/8ebb5334663b1906.json"
+    },
+    {
+      "rank": 5453,
       "id": "5259a4a3e7d63537",
       "name": "swim",
       "secondary": "04 Limited Sazabys",
@@ -55,7 +146,7 @@
       "detailPath": "entities/songs/5259a4a3e7d63537.json"
     },
     {
-      "rank": 5452,
+      "rank": 5454,
       "id": "e1e14ae37c5c6a8a",
       "name": "SWORD SUMMIT",
       "secondary": "T.M.Revolution",
@@ -100,7 +191,7 @@
       "detailPath": "entities/songs/e1e14ae37c5c6a8a.json"
     },
     {
-      "rank": 5453,
+      "rank": 5455,
       "id": "e3b2f830a626a9fe",
       "name": "Synchrogazer",
       "secondary": "水樹奈々 「戦姫絶唱シンフォギア」",
@@ -142,7 +233,7 @@
       "detailPath": "entities/songs/e3b2f830a626a9fe.json"
     },
     {
-      "rank": 5454,
+      "rank": 5456,
       "id": "5d47a29b0004f39e",
       "name": "Synchrogazer",
       "secondary": "",
@@ -187,7 +278,7 @@
       "detailPath": "entities/songs/5d47a29b0004f39e.json"
     },
     {
-      "rank": 5455,
+      "rank": 5457,
       "id": "a3e0d87019d42e05",
       "name": "synchronicity",
       "secondary": "牧野由依",
@@ -232,7 +323,7 @@
       "detailPath": "entities/songs/a3e0d87019d42e05.json"
     },
     {
-      "rank": 5456,
+      "rank": 5458,
       "id": "b48d6ef94ac80847",
       "name": "TAEYEON 태연",
       "secondary": "Fine",
@@ -277,7 +368,7 @@
       "detailPath": "entities/songs/b48d6ef94ac80847.json"
     },
     {
-      "rank": 5457,
+      "rank": 5459,
       "id": "f46db5104dc09677",
       "name": "TANGO NOIR",
       "secondary": "中森明菜",
@@ -322,7 +413,7 @@
       "detailPath": "entities/songs/f46db5104dc09677.json"
     },
     {
-      "rank": 5458,
+      "rank": 5460,
       "id": "6358e9b2be14a6ba",
       "name": "Taylor Swift",
       "secondary": "Opalite",
@@ -367,7 +458,7 @@
       "detailPath": "entities/songs/6358e9b2be14a6ba.json"
     },
     {
-      "rank": 5459,
+      "rank": 5461,
       "id": "2f70fd5968768710",
       "name": "Tears In Heaven",
       "secondary": "Eric Clapton",
@@ -412,7 +503,7 @@
       "detailPath": "entities/songs/2f70fd5968768710.json"
     },
     {
-      "rank": 5460,
+      "rank": 5462,
       "id": "e2c96e1b14d2ffe0",
       "name": "Tears' Night",
       "secondary": "水樹奈々",
@@ -457,7 +548,7 @@
       "detailPath": "entities/songs/e2c96e1b14d2ffe0.json"
     },
     {
-      "rank": 5461,
+      "rank": 5463,
       "id": "ad6cacd953db5f33",
       "name": "Tell Your World",
       "secondary": "kz（livetune）feat. 初音ミク",
@@ -502,7 +593,7 @@
       "detailPath": "entities/songs/ad6cacd953db5f33.json"
     },
     {
-      "rank": 5462,
+      "rank": 5464,
       "id": "9204422aba061d33",
       "name": "TERMINATED",
       "secondary": "茅原実里",
@@ -547,7 +638,7 @@
       "detailPath": "entities/songs/9204422aba061d33.json"
     },
     {
-      "rank": 5463,
+      "rank": 5465,
       "id": "c870c2199effd6bb",
       "name": "The 1",
       "secondary": "muque",
@@ -593,7 +684,7 @@
       "detailPath": "entities/songs/c870c2199effd6bb.json"
     },
     {
-      "rank": 5464,
+      "rank": 5466,
       "id": "80eba8142a9dc42d",
       "name": "The Biggest Dreamer",
       "secondary": "",
@@ -638,7 +729,7 @@
       "detailPath": "entities/songs/80eba8142a9dc42d.json"
     },
     {
-      "rank": 5465,
+      "rank": 5467,
       "id": "89d59d08db520329",
       "name": "The Biggest Dreamer",
       "secondary": "木村キョウ",
@@ -683,7 +774,7 @@
       "detailPath": "entities/songs/89d59d08db520329.json"
     },
     {
-      "rank": 5466,
+      "rank": 5468,
       "id": "378f220e546c7ad5",
       "name": "the end of my world",
       "secondary": "LiSA",
@@ -728,7 +819,7 @@
       "detailPath": "entities/songs/378f220e546c7ad5.json"
     },
     {
-      "rank": 5467,
+      "rank": 5469,
       "id": "3639b4c9194f7824",
       "name": "The Flare",
       "secondary": "the HIATUS",
@@ -773,7 +864,7 @@
       "detailPath": "entities/songs/3639b4c9194f7824.json"
     },
     {
-      "rank": 5468,
+      "rank": 5470,
       "id": "8370f2ede0577b67",
       "name": "The Phantom of the Opera",
       "secondary": "The Phantom of the Opera",
@@ -818,7 +909,7 @@
       "detailPath": "entities/songs/8370f2ede0577b67.json"
     },
     {
-      "rank": 5469,
+      "rank": 5471,
       "id": "6049a08f2f679dfa",
       "name": "The Phantom Of The Opera",
       "secondary": "オペラ座の怪人",
@@ -860,7 +951,7 @@
       "detailPath": "entities/songs/6049a08f2f679dfa.json"
     },
     {
-      "rank": 5470,
+      "rank": 5472,
       "id": "c5a72b1f682c4742",
       "name": "The Rolling Riceball",
       "secondary": "",
@@ -905,7 +996,7 @@
       "detailPath": "entities/songs/c5a72b1f682c4742.json"
     },
     {
-      "rank": 5471,
+      "rank": 5473,
       "id": "5b9946d5947d336f",
       "name": "The World",
       "secondary": "9mm Parabellum Bullet",
@@ -950,7 +1041,7 @@
       "detailPath": "entities/songs/5b9946d5947d336f.json"
     },
     {
-      "rank": 5472,
+      "rank": 5474,
       "id": "a072b21f718eef36",
       "name": "THERE IS A REASON",
       "secondary": "鈴木このみ",
@@ -995,7 +1086,7 @@
       "detailPath": "entities/songs/a072b21f718eef36.json"
     },
     {
-      "rank": 5473,
+      "rank": 5475,
       "id": "229c81906996b528",
       "name": "Think of Me",
       "secondary": "オペラ座の怪人",
@@ -1037,7 +1128,7 @@
       "detailPath": "entities/songs/229c81906996b528.json"
     },
     {
-      "rank": 5474,
+      "rank": 5476,
       "id": "3f3186fb83a37914",
       "name": "Thinking Out Loud",
       "secondary": "Ed Sheeran",
@@ -1083,7 +1174,7 @@
       "detailPath": "entities/songs/3f3186fb83a37914.json"
     },
     {
-      "rank": 5475,
+      "rank": 5477,
       "id": "98cdc3764e595fcd",
       "name": "This game",
       "secondary": "",
@@ -1128,7 +1219,7 @@
       "detailPath": "entities/songs/98cdc3764e595fcd.json"
     },
     {
-      "rank": 5476,
+      "rank": 5478,
       "id": "5a0b39eb1e6e172d",
       "name": "this is what autumn feels like",
       "secondary": "JVKE",
@@ -1173,7 +1264,7 @@
       "detailPath": "entities/songs/5a0b39eb1e6e172d.json"
     },
     {
-      "rank": 5477,
+      "rank": 5479,
       "id": "69b58b8bd7857ff9",
       "name": "Thrill, Risk, Heartless",
       "secondary": "LiSA",
@@ -1218,7 +1309,7 @@
       "detailPath": "entities/songs/69b58b8bd7857ff9.json"
     },
     {
-      "rank": 5478,
+      "rank": 5480,
       "id": "598ca98a35844a37",
       "name": "Ticket : ￥5000",
       "secondary": "1D代込",
@@ -1263,7 +1354,7 @@
       "detailPath": "entities/songs/598ca98a35844a37.json"
     },
     {
-      "rank": 5479,
+      "rank": 5481,
       "id": "72f1163255ef1eaf",
       "name": "Tiger",
       "secondary": "HANA",
@@ -1308,7 +1399,7 @@
       "detailPath": "entities/songs/72f1163255ef1eaf.json"
     },
     {
-      "rank": 5480,
+      "rank": 5482,
       "id": "ede88ccc726e0ff1",
       "name": "TIME",
       "secondary": "橋本みゆき",
@@ -1355,7 +1446,7 @@
       "detailPath": "entities/songs/ede88ccc726e0ff1.json"
     },
     {
-      "rank": 5481,
+      "rank": 5483,
       "id": "03c0d07c56e19432",
       "name": "Time after time～花舞う街で～",
       "secondary": "倉木麻衣 ／ 名探偵コナン 迷宮の十字路(2003年)",
@@ -1397,7 +1488,7 @@
       "detailPath": "entities/songs/03c0d07c56e19432.json"
     },
     {
-      "rank": 5482,
+      "rank": 5484,
       "id": "e69d3f203f4a72ec",
       "name": "to Mother",
       "secondary": "YUI",
@@ -1442,7 +1533,7 @@
       "detailPath": "entities/songs/e69d3f203f4a72ec.json"
     },
     {
-      "rank": 5483,
+      "rank": 5485,
       "id": "ff282d95a1bfd571",
       "name": "TOKYO",
       "secondary": "椎名林檎",
@@ -1487,7 +1578,7 @@
       "detailPath": "entities/songs/ff282d95a1bfd571.json"
     },
     {
-      "rank": 5484,
+      "rank": 5486,
       "id": "46b6dbbe3a6f1c00",
       "name": "TOKYO Midnight",
       "secondary": "milkyTrap",
@@ -1533,7 +1624,7 @@
       "detailPath": "entities/songs/46b6dbbe3a6f1c00.json"
     },
     {
-      "rank": 5485,
+      "rank": 5487,
       "id": "631ed5cab5fb7880",
       "name": "TOKYO WATASHI COLLECTION",
       "secondary": "TINGS",
@@ -1578,7 +1669,7 @@
       "detailPath": "entities/songs/631ed5cab5fb7880.json"
     },
     {
-      "rank": 5486,
+      "rank": 5488,
       "id": "ff868729585046f5",
       "name": "Top Of The World",
       "secondary": "Carpenters",
@@ -1623,7 +1714,7 @@
       "detailPath": "entities/songs/ff868729585046f5.json"
     },
     {
-      "rank": 5487,
+      "rank": 5489,
       "id": "4113bc738a86bd3d",
       "name": "Tot musica",
       "secondary": "",
@@ -1668,7 +1759,7 @@
       "detailPath": "entities/songs/4113bc738a86bd3d.json"
     },
     {
-      "rank": 5488,
+      "rank": 5490,
       "id": "6c087b0ead7ccd2d",
       "name": "TOUCH",
       "secondary": "岩崎 良美",
@@ -1713,7 +1804,7 @@
       "detailPath": "entities/songs/6c087b0ead7ccd2d.json"
     },
     {
-      "rank": 5489,
+      "rank": 5491,
       "id": "73e858770181f34b",
       "name": "TOUGH BOY",
       "secondary": "TOM★CAT",
@@ -1758,7 +1849,7 @@
       "detailPath": "entities/songs/73e858770181f34b.json"
     },
     {
-      "rank": 5490,
+      "rank": 5492,
       "id": "e5ab589bcf531e76",
       "name": "TOXY!",
       "secondary": "鯨木",
@@ -1803,7 +1894,7 @@
       "detailPath": "entities/songs/e5ab589bcf531e76.json"
     },
     {
-      "rank": 5491,
+      "rank": 5493,
       "id": "98b21ec942d02bb0",
       "name": "Trauma",
       "secondary": "浜崎あゆみ",
@@ -1848,7 +1939,7 @@
       "detailPath": "entities/songs/98b21ec942d02bb0.json"
     },
     {
-      "rank": 5492,
+      "rank": 5494,
       "id": "d54a1a5a1099da27",
       "name": "träumerei",
       "secondary": "LiSA",
@@ -1893,7 +1984,7 @@
       "detailPath": "entities/songs/d54a1a5a1099da27.json"
     },
     {
-      "rank": 5493,
+      "rank": 5495,
       "id": "c3111aa591e7bd35",
       "name": "Troublemaker",
       "secondary": "嵐",
@@ -1938,7 +2029,7 @@
       "detailPath": "entities/songs/c3111aa591e7bd35.json"
     },
     {
-      "rank": 5494,
+      "rank": 5496,
       "id": "b55a78cdc2702792",
       "name": "Troublemaker",
       "secondary": "",
@@ -1980,7 +2071,7 @@
       "detailPath": "entities/songs/b55a78cdc2702792.json"
     },
     {
-      "rank": 5495,
+      "rank": 5497,
       "id": "c21ac47e4a63cc05",
       "name": "Trust",
       "secondary": "",
@@ -2022,7 +2113,7 @@
       "detailPath": "entities/songs/c21ac47e4a63cc05.json"
     },
     {
-      "rank": 5496,
+      "rank": 5498,
       "id": "c3e9d31da590388d",
       "name": "Trust You Forever",
       "secondary": "鵜島仁文",
@@ -2067,7 +2158,7 @@
       "detailPath": "entities/songs/c3e9d31da590388d.json"
     },
     {
-      "rank": 5497,
+      "rank": 5499,
       "id": "bed55c9ad9305e93",
       "name": "TRY AGAIN",
       "secondary": "FIRE BOMBER",
@@ -2112,7 +2203,7 @@
       "detailPath": "entities/songs/bed55c9ad9305e93.json"
     },
     {
-      "rank": 5498,
+      "rank": 5500,
       "id": "ff09d9e901137869",
       "name": "Tsukiakari no Michishirube",
       "secondary": "STEREOPONY",
@@ -2155,96 +2246,6 @@
         }
       ],
       "detailPath": "entities/songs/ff09d9e901137869.json"
-    },
-    {
-      "rank": 5499,
-      "id": "a23b73602c955803",
-      "name": "Tsumi Bito",
-      "secondary": "LiSA",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "1ghpuNuVtLI",
-          "videoTitle": "【歌枠】新しい1歩。あなたの魂を揺らすVsinger―【VTuber/配信中】",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1ghpuNuVtLI/hqdefault.jpg",
-          "sourcePath": "sources/1g/1ghpuNuVtLI.json",
-          "time": "2:39:00",
-          "seconds": 9540,
-          "songTitle": "Tsumi Bito",
-          "artist": "LiSA"
-        },
-        {
-          "videoId": "Pw4Flqck6nM",
-          "videoTitle": "【歌枠】ロックな金曜日！あなたの魂を揺らすVsinger―【VTuber/配信中】",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-09-18T11:09:15.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Pw4Flqck6nM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_EjLVaHL2-31pQh_yJSipJXhctg",
-          "sourcePath": "sources/Pw/Pw4Flqck6nM.json",
-          "time": "2:30:13",
-          "seconds": 9013,
-          "songTitle": "Tsumi Bito",
-          "artist": "LiSA"
-        }
-      ],
-      "detailPath": "entities/songs/a23b73602c955803.json"
-    },
-    {
-      "rank": 5500,
-      "id": "44055ec19f0522ab",
-      "name": "U（竜とそばかすの姫）",
-      "secondary": "millennium parade × Belle",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "tP0BVFPPXMQ",
-          "videoTitle": "【歌枠／karaoke】SF楽曲縛り✧🎤SF・サイバー・ロボソン等♩【#さざなみセレナ Vtuber VSinger】",
-          "channelName": "さざなみセレナ Serena Sazanami",
-          "publishedAt": "2026-10-07T12:42:33.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tP0BVFPPXMQ/hqdefault.jpg",
-          "sourcePath": "sources/tP/tP0BVFPPXMQ.json",
-          "time": "2:32:50",
-          "seconds": 9170,
-          "songTitle": "U（竜とそばかすの姫）",
-          "artist": "millennium parade × Belle"
-        },
-        {
-          "videoId": "KxOnRiExkro",
-          "videoTitle": "【歌枠／karaoke】美3Dセルフアプデ＋αお披露目✧耐久🎤♩【#さざなみセレナ Vtuber VSinger】",
-          "channelName": "さざなみセレナ Serena Sazanami",
-          "publishedAt": "2026-09-30T14:17:27.551Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KxOnRiExkro/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQdDMGkL0MchnLsy9F_XMUgBba-A",
-          "sourcePath": "sources/Kx/KxOnRiExkro.json",
-          "time": "4:33:11",
-          "seconds": 16391,
-          "songTitle": "U（竜とそばかすの姫）",
-          "artist": "millennium parade × Belle"
-        }
-      ],
-      "detailPath": "entities/songs/44055ec19f0522ab.json"
     }
   ]
 }

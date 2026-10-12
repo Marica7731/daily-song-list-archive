@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 505,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 25201,
+      "id": "b9f0eb2bef0e7740",
+      "name": "Nagaki Hitomi no Sirius",
+      "secondary": "FRAGARIAMEMORIES (BLUE BOUQUET)",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "u7FTuO8coKI",
+          "videoTitle": "【歌枠】明日はユニットライブ！わくわくの歌枠【#VTuber メルシュ-Malstrøm-】",
+          "channelName": "メルシュ -Malstrøm- / mals ch.",
+          "publishedAt": "2026-09-10T16:34:31.718Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/u7FTuO8coKI/hqdefault.jpg",
+          "sourcePath": "sources/u7/u7FTuO8coKI.json",
+          "time": "2:37:26",
+          "seconds": 9446,
+          "songTitle": "Nagaki Hitomi no Sirius",
+          "artist": "FRAGARIAMEMORIES (BLUE BOUQUET)"
+        }
+      ],
+      "detailPath": "entities/songs/b9f0eb2bef0e7740.json"
+    },
+    {
+      "rank": 25202,
       "id": "f1f98994985bc152",
       "name": "Nagaku Mijikai Matsuri",
       "secondary": "Sheena Ringo",
@@ -43,7 +76,7 @@
       "detailPath": "entities/songs/f1f98994985bc152.json"
     },
     {
-      "rank": 25202,
+      "rank": 25203,
       "id": "28efb2e73afa87b6",
       "name": "NAGi",
       "secondary": "七星ナギ & 蕾雅・氷",
@@ -73,7 +106,7 @@
       "detailPath": "entities/songs/28efb2e73afa87b6.json"
     },
     {
-      "rank": 25203,
+      "rank": 25204,
       "id": "f6c0b0d4f67c0b58",
       "name": "NAGi ch. 七星ナギ",
       "secondary": "",
@@ -103,7 +136,7 @@
       "detailPath": "entities/songs/f6c0b0d4f67c0b58.json"
     },
     {
-      "rank": 25204,
+      "rank": 25205,
       "id": "d503638949d62bef",
       "name": "Nagisani Matsuwaru etc",
       "secondary": "PUFFY",
@@ -136,7 +169,7 @@
       "detailPath": "entities/songs/d503638949d62bef.json"
     },
     {
-      "rank": 25205,
+      "rank": 25206,
       "id": "845bc0a113803b41",
       "name": "Naimononedari",
       "secondary": "KANA-BOON",
@@ -169,7 +202,7 @@
       "detailPath": "entities/songs/845bc0a113803b41.json"
     },
     {
-      "rank": 25206,
+      "rank": 25207,
       "id": "d114807719c3ff5b",
       "name": "Naked Dive",
       "secondary": "SCREEN mode",
@@ -203,7 +236,7 @@
       "detailPath": "entities/songs/d114807719c3ff5b.json"
     },
     {
-      "rank": 25207,
+      "rank": 25208,
       "id": "12e5110c73a0909e",
       "name": "Nakijizou",
       "secondary": "Vaundy",
@@ -236,7 +269,7 @@
       "detailPath": "entities/songs/12e5110c73a0909e.json"
     },
     {
-      "rank": 25208,
+      "rank": 25209,
       "id": "2c34775ca6624b94",
       "name": "Nakimushi",
       "secondary": "pnmcmnj",
@@ -270,7 +303,7 @@
       "detailPath": "entities/songs/2c34775ca6624b94.json"
     },
     {
-      "rank": 25209,
+      "rank": 25210,
       "id": "f7c20d8ef0bbefde",
       "name": "Namae No Nai Uta",
       "secondary": "DATEKEN",
@@ -303,7 +336,7 @@
       "detailPath": "entities/songs/f7c20d8ef0bbefde.json"
     },
     {
-      "rank": 25210,
+      "rank": 25211,
       "id": "189b02c0408c01a5",
       "name": "Namae wa Kataomoi",
       "secondary": "indigo la End",
@@ -336,7 +369,7 @@
       "detailPath": "entities/songs/189b02c0408c01a5.json"
     },
     {
-      "rank": 25211,
+      "rank": 25212,
       "id": "2362741a373e9774",
       "name": "Nameless Heart",
       "secondary": "六花の勇者",
@@ -369,7 +402,7 @@
       "detailPath": "entities/songs/2362741a373e9774.json"
     },
     {
-      "rank": 25212,
+      "rank": 25213,
       "id": "9c0748eb2c5792ed",
       "name": "Nameless Story",
       "secondary": "寺島拓篤",
@@ -399,7 +432,7 @@
       "detailPath": "entities/songs/9c0748eb2c5792ed.json"
     },
     {
-      "rank": 25213,
+      "rank": 25214,
       "id": "bb0ca32c134e87b6",
       "name": "Namidairo",
       "secondary": "未記載",
@@ -432,7 +465,7 @@
       "detailPath": "entities/songs/bb0ca32c134e87b6.json"
     },
     {
-      "rank": 25214,
+      "rank": 25215,
       "id": "eb6a40379fe5ec63",
       "name": "Namidame Bakuhatsuon",
       "secondary": "Walküre",
@@ -465,7 +498,7 @@
       "detailPath": "entities/songs/eb6a40379fe5ec63.json"
     },
     {
-      "rank": 25215,
+      "rank": 25216,
       "id": "8011a4f100c66a67",
       "name": "Nan-Nan",
       "secondary": "Fujii Kaze",
@@ -498,7 +531,7 @@
       "detailPath": "entities/songs/8011a4f100c66a67.json"
     },
     {
-      "rank": 25216,
+      "rank": 25217,
       "id": "6b5defdc3b84b0dc",
       "name": "Nandemonaiyo",
       "secondary": "Macaroni Empitsu",
@@ -531,7 +564,7 @@
       "detailPath": "entities/songs/6b5defdc3b84b0dc.json"
     },
     {
-      "rank": 25217,
+      "rank": 25218,
       "id": "d30f054ee6d4c497",
       "name": "Nani ga Warui",
       "secondary": "Kessoku Band",
@@ -564,7 +597,7 @@
       "detailPath": "entities/songs/d30f054ee6d4c497.json"
     },
     {
-      "rank": 25218,
+      "rank": 25219,
       "id": "0bf44548ea33595a",
       "name": "NANIMONO (feat.米津玄師)",
       "secondary": "中田ヤスタカ",
@@ -597,7 +630,7 @@
       "detailPath": "entities/songs/0bf44548ea33595a.json"
     },
     {
-      "rank": 25219,
+      "rank": 25220,
       "id": "e5cd1efb8af0cef0",
       "name": "NANIWA'n WAY",
       "secondary": "なにわ男子",
@@ -630,7 +663,7 @@
       "detailPath": "entities/songs/e5cd1efb8af0cef0.json"
     },
     {
-      "rank": 25220,
+      "rank": 25221,
       "id": "85990a3d9673097c",
       "name": "Nanka Shiawase",
       "secondary": "the OYSTARS",
@@ -663,7 +696,7 @@
       "detailPath": "entities/songs/85990a3d9673097c.json"
     },
     {
-      "rank": 25221,
+      "rank": 25222,
       "id": "c8d594afc22c3a9f",
       "name": "Nanmonee",
       "secondary": "",
@@ -696,7 +729,7 @@
       "detailPath": "entities/songs/c8d594afc22c3a9f.json"
     },
     {
-      "rank": 25222,
+      "rank": 25223,
       "id": "792538f8f086ca39",
       "name": "Nannan w",
       "secondary": "Fujii Kaze",
@@ -730,7 +763,7 @@
       "detailPath": "entities/songs/792538f8f086ca39.json"
     },
     {
-      "rank": 25223,
+      "rank": 25224,
       "id": "62afe2993e21323f",
       "name": "Nanodesu☆",
       "secondary": "Hanyū",
@@ -760,7 +793,7 @@
       "detailPath": "entities/songs/62afe2993e21323f.json"
     },
     {
-      "rank": 25224,
+      "rank": 25225,
       "id": "d4cf841d203ba695",
       "name": "NAO",
       "secondary": "HY ※JOYSOUND",
@@ -793,7 +826,7 @@
       "detailPath": "entities/songs/d4cf841d203ba695.json"
     },
     {
-      "rank": 25225,
+      "rank": 25226,
       "id": "895a52131d3d5539",
       "name": "napoli",
       "secondary": "Vaundy",
@@ -823,7 +856,7 @@
       "detailPath": "entities/songs/895a52131d3d5539.json"
     },
     {
-      "rank": 25226,
+      "rank": 25227,
       "id": "2577dc6dd3e5178b",
       "name": "napori",
       "secondary": "Vaundy 様",
@@ -856,7 +889,7 @@
       "detailPath": "entities/songs/2577dc6dd3e5178b.json"
     },
     {
-      "rank": 25227,
+      "rank": 25228,
       "id": "135b10d08a45a44c",
       "name": "napori",
       "secondary": "Vaundy(ﾘｸｴｽﾄ)",
@@ -889,7 +922,7 @@
       "detailPath": "entities/songs/135b10d08a45a44c.json"
     },
     {
-      "rank": 25228,
+      "rank": 25229,
       "id": "073c731f1d636bb6",
       "name": "narrative",
       "secondary": "SawanoHiroyuki[nZk]",
@@ -923,7 +956,7 @@
       "detailPath": "entities/songs/073c731f1d636bb6.json"
     },
     {
-      "rank": 25229,
+      "rank": 25230,
       "id": "24d4ec66f9c52140",
       "name": "narrative",
       "secondary": "機動戦士ガンダムNT",
@@ -956,7 +989,7 @@
       "detailPath": "entities/songs/24d4ec66f9c52140.json"
     },
     {
-      "rank": 25230,
+      "rank": 25231,
       "id": "ae86b60d8eabbc1f",
       "name": "narrative/LiSA",
       "secondary": "機動戦士ガンダムNT",
@@ -989,7 +1022,7 @@
       "detailPath": "entities/songs/ae86b60d8eabbc1f.json"
     },
     {
-      "rank": 25231,
+      "rank": 25232,
       "id": "f18f59ce79eae2e2",
       "name": "Naru",
       "secondary": "ラックライフ",
@@ -1022,7 +1055,7 @@
       "detailPath": "entities/songs/f18f59ce79eae2e2.json"
     },
     {
-      "rank": 25232,
+      "rank": 25233,
       "id": "6937585e7433e0c9",
       "name": "natsu",
       "secondary": "Paranoid Doll",
@@ -1055,7 +1088,7 @@
       "detailPath": "entities/songs/6937585e7433e0c9.json"
     },
     {
-      "rank": 25233,
+      "rank": 25234,
       "id": "f387c04395a7dd84",
       "name": "Natsu Matsuri",
       "secondary": "JITTERIN’JINN",
@@ -1088,7 +1121,7 @@
       "detailPath": "entities/songs/f387c04395a7dd84.json"
     },
     {
-      "rank": 25234,
+      "rank": 25235,
       "id": "965c6a79516c8154",
       "name": "Natsu no Ringo",
       "secondary": "Kalafina",
@@ -1121,7 +1154,7 @@
       "detailPath": "entities/songs/965c6a79516c8154.json"
     },
     {
-      "rank": 25235,
+      "rank": 25236,
       "id": "942c9ff9f05e2486",
       "name": "Natsu Yuuzora",
       "secondary": "",
@@ -1154,7 +1187,7 @@
       "detailPath": "entities/songs/942c9ff9f05e2486.json"
     },
     {
-      "rank": 25236,
+      "rank": 25237,
       "id": "7093571893c54c6d",
       "name": "Natsu Yuzora",
       "secondary": "Kosuke Atari",
@@ -1187,7 +1220,7 @@
       "detailPath": "entities/songs/7093571893c54c6d.json"
     },
     {
-      "rank": 25237,
+      "rank": 25238,
       "id": "0ebb2b55779fe72d",
       "name": "NATSU☆しようぜ",
       "secondary": "IDOLiSH7（feat,TRIGGER）",
@@ -1220,7 +1253,7 @@
       "detailPath": "entities/songs/0ebb2b55779fe72d.json"
     },
     {
-      "rank": 25238,
+      "rank": 25239,
       "id": "2508bf41c9468c9b",
       "name": "NATSU☆しようぜ！",
       "secondary": "feat.テンアゲな奴ら",
@@ -1250,7 +1283,7 @@
       "detailPath": "entities/songs/2508bf41c9468c9b.json"
     },
     {
-      "rank": 25239,
+      "rank": 25240,
       "id": "9891b56d7f6a893b",
       "name": "Natsuiro Egao de 1,2,Jump!",
       "secondary": "μ’s (Love Live!)",
@@ -1283,7 +1316,7 @@
       "detailPath": "entities/songs/9891b56d7f6a893b.json"
     },
     {
-      "rank": 25240,
+      "rank": 25241,
       "id": "b2f70da661bd5531",
       "name": "NATSUKAGE - 夏陰",
       "secondary": "777☆SISTERS",
@@ -1317,7 +1350,7 @@
       "detailPath": "entities/songs/b2f70da661bd5531.json"
     },
     {
-      "rank": 25241,
+      "rank": 25242,
       "id": "1b4078ca24f9db64",
       "name": "Natsuki",
       "secondary": "pnmcmnj",
@@ -1351,7 +1384,7 @@
       "detailPath": "entities/songs/1b4078ca24f9db64.json"
     },
     {
-      "rank": 25242,
+      "rank": 25243,
       "id": "c90c45eb84d3d00e",
       "name": "Natsuyadori",
       "secondary": "夏宿り",
@@ -1383,7 +1416,7 @@
       "detailPath": "entities/songs/c90c45eb84d3d00e.json"
     },
     {
-      "rank": 25243,
+      "rank": 25244,
       "id": "0608291f50f92481",
       "name": "Natsuyo no Magic",
       "secondary": "indigo la End",
@@ -1416,7 +1449,7 @@
       "detailPath": "entities/songs/0608291f50f92481.json"
     },
     {
-      "rank": 25244,
+      "rank": 25245,
       "id": "7ac14c01c6e1e499",
       "name": "Natsuzora",
       "secondary": "Galileo Galilei",
@@ -1449,7 +1482,7 @@
       "detailPath": "entities/songs/7ac14c01c6e1e499.json"
     },
     {
-      "rank": 25245,
+      "rank": 25246,
       "id": "17ef3d240344fe1b",
       "name": "NAVY",
       "secondary": "上野大樹",
@@ -1479,7 +1512,7 @@
       "detailPath": "entities/songs/17ef3d240344fe1b.json"
     },
     {
-      "rank": 25246,
+      "rank": 25247,
       "id": "c7cddc9f310ed247",
       "name": "nclusion",
       "secondary": "CROSS +HOLIC",
@@ -1509,7 +1542,7 @@
       "detailPath": "entities/songs/c7cddc9f310ed247.json"
     },
     {
-      "rank": 25247,
+      "rank": 25248,
       "id": "cd1ce0fa5174b992",
       "name": "NE-TAXI",
       "secondary": "",
@@ -1542,7 +1575,7 @@
       "detailPath": "entities/songs/cd1ce0fa5174b992.json"
     },
     {
-      "rank": 25248,
+      "rank": 25249,
       "id": "4199e3c831083164",
       "name": "Necessary",
       "secondary": "",
@@ -1575,7 +1608,7 @@
       "detailPath": "entities/songs/4199e3c831083164.json"
     },
     {
-      "rank": 25249,
+      "rank": 25250,
       "id": "cab3b96082bd5990",
       "name": "Necro Fantasia",
       "secondary": "Misato",
@@ -1606,39 +1639,6 @@
         }
       ],
       "detailPath": "entities/songs/cab3b96082bd5990.json"
-    },
-    {
-      "rank": 25250,
-      "id": "6288ee4b374f52fe",
-      "name": "Nectar",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "KSmajb2c8AI",
-          "videoTitle": "【#Joinus0913】9月最初から歌枠リレーでぶっ飛ばそうぜ！【#織奏オロカ / Orocana Oroca 】",
-          "channelName": "織奏オロカ / Orocana Oroca",
-          "publishedAt": "2026-09-01T14:45:12.599Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KSmajb2c8AI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPbIdAPstvgoyyOvO9CPVDXEAWjQ",
-          "sourcePath": "sources/KS/KSmajb2c8AI.json",
-          "time": "0:12:36",
-          "seconds": 756,
-          "songTitle": "Nectar",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/6288ee4b374f52fe.json"
     }
   ]
 }

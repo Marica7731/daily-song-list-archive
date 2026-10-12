@@ -1,16 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 487,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 24301,
+      "id": "6de812ae1d09cb20",
+      "name": "Los! Los! Los!",
+      "secondary": "Tanya Degurechaff",
+      "channelId": "UC6SbFlqvhVWRbfKpHgTNLpQ",
+      "channelHandle": "@malstrom",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "hHdTxsSjhnQ",
+          "videoTitle": "【雑談(歌枠)】休暇前深夜の雑談。ちょっとだけ歌うかも。【#VTuber メルシュ-Malstrøm-】",
+          "channelName": "メルシュ -Malstrøm- / mals ch.",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hHdTxsSjhnQ/hqdefault.jpg",
+          "sourcePath": "sources/hH/hHdTxsSjhnQ.json",
+          "time": "1:48:58",
+          "seconds": 6538,
+          "songTitle": "Los! Los! Los!",
+          "artist": "Tanya Degurechaff"
+        }
+      ],
+      "detailPath": "entities/songs/6de812ae1d09cb20.json"
+    },
+    {
+      "rank": 24302,
       "id": "76a1d42017d20956",
       "name": "Los! Los! Los!／ターニャ・フォン・デグレチャフ(結城碧)／アニメ『幼女戦記』ED／2017/02",
       "secondary": "22",
@@ -40,7 +70,7 @@
       "detailPath": "entities/songs/76a1d42017d20956.json"
     },
     {
-      "rank": 24302,
+      "rank": 24303,
       "id": "e457d66ce6d83c00",
       "name": "LOSER",
       "secondary": "未記載",
@@ -74,7 +104,7 @@
       "detailPath": "entities/songs/e457d66ce6d83c00.json"
     },
     {
-      "rank": 24303,
+      "rank": 24304,
       "id": "8c129e41476174ae",
       "name": "LOSER",
       "secondary": "Kenshi Yonezu",
@@ -104,7 +134,7 @@
       "detailPath": "entities/songs/8c129e41476174ae.json"
     },
     {
-      "rank": 24304,
+      "rank": 24305,
       "id": "d6f16869f6b30d78",
       "name": "LOSER ～希望と未来に無縁のカタルシス～",
       "secondary": "未記載",
@@ -137,7 +167,7 @@
       "detailPath": "entities/songs/d6f16869f6b30d78.json"
     },
     {
-      "rank": 24305,
+      "rank": 24306,
       "id": "27d6a8710c029177",
       "name": "LOSER ～希望と未来に無縁のカタルシス～",
       "secondary": "LiSA",
@@ -170,7 +200,7 @@
       "detailPath": "entities/songs/27d6a8710c029177.json"
     },
     {
-      "rank": 24306,
+      "rank": 24307,
       "id": "e53a4112aad86825",
       "name": "Loser Baby",
       "secondary": "Hazbin Hotel",
@@ -203,7 +233,7 @@
       "detailPath": "entities/songs/e53a4112aad86825.json"
     },
     {
-      "rank": 24307,
+      "rank": 24308,
       "id": "5bb0e6dd13c70a28",
       "name": "LOSER～希望と未来に無縁のカタルシス～",
       "secondary": "耳コピ",
@@ -236,7 +266,7 @@
       "detailPath": "entities/songs/5bb0e6dd13c70a28.json"
     },
     {
-      "rank": 24308,
+      "rank": 24309,
       "id": "9acf77c2346035d2",
       "name": "Lost",
       "secondary": "yama",
@@ -269,7 +299,7 @@
       "detailPath": "entities/songs/9acf77c2346035d2.json"
     },
     {
-      "rank": 24309,
+      "rank": 24310,
       "id": "0950f977eb16952d",
       "name": "LOST CORNER",
       "secondary": "",
@@ -302,7 +332,7 @@
       "detailPath": "entities/songs/0950f977eb16952d.json"
     },
     {
-      "rank": 24310,
+      "rank": 24311,
       "id": "52f4f66f7dbfb1e0",
       "name": "LOST CORNER",
       "secondary": "米津玄師",
@@ -335,7 +365,7 @@
       "detailPath": "entities/songs/52f4f66f7dbfb1e0.json"
     },
     {
-      "rank": 24311,
+      "rank": 24312,
       "id": "bcde13d0fbc58a43",
       "name": "lost graduation",
       "secondary": "Raphael",
@@ -368,7 +398,7 @@
       "detailPath": "entities/songs/bcde13d0fbc58a43.json"
     },
     {
-      "rank": 24312,
+      "rank": 24313,
       "id": "c8e06d63203aeb8f",
       "name": "LOST HEAVEN",
       "secondary": "",
@@ -398,7 +428,7 @@
       "detailPath": "entities/songs/c8e06d63203aeb8f.json"
     },
     {
-      "rank": 24313,
+      "rank": 24314,
       "id": "9f8c9b34e9ab88fd",
       "name": "LOST HEAVEN",
       "secondary": "L'Arc〜en〜Ciel",
@@ -431,7 +461,7 @@
       "detailPath": "entities/songs/9f8c9b34e9ab88fd.json"
     },
     {
-      "rank": 24314,
+      "rank": 24315,
       "id": "ecea539f5a5c5259",
       "name": "Lost in Blue",
       "secondary": "ナイトメア",
@@ -464,7 +494,7 @@
       "detailPath": "entities/songs/ecea539f5a5c5259.json"
     },
     {
-      "rank": 24315,
+      "rank": 24316,
       "id": "1c8292e998061820",
       "name": "Lost in Paradise (Jujutsu Kaisen ED1)",
       "secondary": "YOEI’S REQUEST!!!",
@@ -498,7 +528,7 @@
       "detailPath": "entities/songs/1c8292e998061820.json"
     },
     {
-      "rank": 24316,
+      "rank": 24317,
       "id": "9ed167df894c560a",
       "name": "lost in you",
       "secondary": "林原めぐみ",
@@ -528,7 +558,7 @@
       "detailPath": "entities/songs/9ed167df894c560a.json"
     },
     {
-      "rank": 24317,
+      "rank": 24318,
       "id": "06d8367ece7454f6",
       "name": "Lost my music",
       "secondary": "未記載",
@@ -562,7 +592,7 @@
       "detailPath": "entities/songs/06d8367ece7454f6.json"
     },
     {
-      "rank": 24318,
+      "rank": 24319,
       "id": "3e5b8140c0093307",
       "name": "Lost my music",
       "secondary": "涼宮ハルヒ(平野綾) 𝟚𝟘𝟘𝟞",
@@ -595,7 +625,7 @@
       "detailPath": "entities/songs/3e5b8140c0093307.json"
     },
     {
-      "rank": 24319,
+      "rank": 24320,
       "id": "35b19dd3ade82219",
       "name": "Lost my music",
       "secondary": "涼宮ハルヒ(C.V.平原綾)",
@@ -628,7 +658,7 @@
       "detailPath": "entities/songs/35b19dd3ade82219.json"
     },
     {
-      "rank": 24320,
+      "rank": 24321,
       "id": "5edb1007be9c7b90",
       "name": "Lost Princess",
       "secondary": "ペコリーヌ、コッコロ、キャル",
@@ -661,7 +691,7 @@
       "detailPath": "entities/songs/5edb1007be9c7b90.json"
     },
     {
-      "rank": 24321,
+      "rank": 24322,
       "id": "897c8a3eeef368fe",
       "name": "Lost Princess",
       "secondary": "ペコリーヌ(M・A・O),コッコロ(伊藤美来),キャル(立花理香)",
@@ -694,7 +724,7 @@
       "detailPath": "entities/songs/897c8a3eeef368fe.json"
     },
     {
-      "rank": 24322,
+      "rank": 24323,
       "id": "bf8a92c47d18b356",
       "name": "Lost Stars",
       "secondary": "魔力紅",
@@ -728,7 +758,7 @@
       "detailPath": "entities/songs/bf8a92c47d18b356.json"
     },
     {
-      "rank": 24323,
+      "rank": 24324,
       "id": "6106d25287b388ec",
       "name": "Lost Time Memory",
       "secondary": "Jin",
@@ -762,7 +792,7 @@
       "detailPath": "entities/songs/6106d25287b388ec.json"
     },
     {
-      "rank": 24324,
+      "rank": 24325,
       "id": "0c7bd950dfd71ee9",
       "name": "Love",
       "secondary": "supercell",
@@ -795,7 +825,7 @@
       "detailPath": "entities/songs/0c7bd950dfd71ee9.json"
     },
     {
-      "rank": 24325,
+      "rank": 24326,
       "id": "6e44c8a07817fe9e",
       "name": "LOVE",
       "secondary": "Mr.Children",
@@ -829,7 +859,7 @@
       "detailPath": "entities/songs/6e44c8a07817fe9e.json"
     },
     {
-      "rank": 24326,
+      "rank": 24327,
       "id": "319f93f322da6af9",
       "name": "LOVE",
       "secondary": "See-Saw",
@@ -862,7 +892,7 @@
       "detailPath": "entities/songs/319f93f322da6af9.json"
     },
     {
-      "rank": 24327,
+      "rank": 24328,
       "id": "d76a364801a99e5c",
       "name": "LOVE & CHAIN",
       "secondary": "未記載",
@@ -895,7 +925,7 @@
       "detailPath": "entities/songs/d76a364801a99e5c.json"
     },
     {
-      "rank": 24328,
+      "rank": 24329,
       "id": "47ea3895694666b2",
       "name": "LOVE & JOY",
       "secondary": "",
@@ -928,7 +958,7 @@
       "detailPath": "entities/songs/47ea3895694666b2.json"
     },
     {
-      "rank": 24329,
+      "rank": 24330,
       "id": "2fa038bd81842f76",
       "name": "LOVE & ROLL",
       "secondary": "ryo (supercell)",
@@ -961,7 +991,7 @@
       "detailPath": "entities/songs/2fa038bd81842f76.json"
     },
     {
-      "rank": 24330,
+      "rank": 24331,
       "id": "3090d657141076fd",
       "name": "LOVE & TRUTH",
       "secondary": "",
@@ -991,7 +1021,7 @@
       "detailPath": "entities/songs/3090d657141076fd.json"
     },
     {
-      "rank": 24331,
+      "rank": 24332,
       "id": "ceb2d9b9a02284b8",
       "name": "LOVE AFFAIR～秘密のデート",
       "secondary": "サザン",
@@ -1021,7 +1051,7 @@
       "detailPath": "entities/songs/ceb2d9b9a02284b8.json"
     },
     {
-      "rank": 24332,
+      "rank": 24333,
       "id": "3b0700bb6abb8319",
       "name": "Love and Hate",
       "secondary": "七海うらら",
@@ -1054,7 +1084,7 @@
       "detailPath": "entities/songs/3b0700bb6abb8319.json"
     },
     {
-      "rank": 24333,
+      "rank": 24334,
       "id": "ceef6f153012271e",
       "name": "LOVE ANTHEM",
       "secondary": "Full Throttle4",
@@ -1087,7 +1117,7 @@
       "detailPath": "entities/songs/ceef6f153012271e.json"
     },
     {
-      "rank": 24334,
+      "rank": 24335,
       "id": "ed6a7e8c1bc8d4b3",
       "name": "LOVE BITE",
       "secondary": "Merm4id (my personal fav)",
@@ -1120,7 +1150,7 @@
       "detailPath": "entities/songs/ed6a7e8c1bc8d4b3.json"
     },
     {
-      "rank": 24335,
+      "rank": 24336,
       "id": "8ebfe52c9876b1b5",
       "name": "Love Cheat!",
       "secondary": "MOSAIC",
@@ -1150,7 +1180,7 @@
       "detailPath": "entities/songs/8ebfe52c9876b1b5.json"
     },
     {
-      "rank": 24336,
+      "rank": 24337,
       "id": "6e65a9b6f0c9d7cd",
       "name": "Love Chronicle",
       "secondary": "Changin' My Life // 満月をさがして",
@@ -1180,7 +1210,7 @@
       "detailPath": "entities/songs/6e65a9b6f0c9d7cd.json"
     },
     {
-      "rank": 24337,
+      "rank": 24338,
       "id": "61a540d46cff0a5b",
       "name": "Love Dive",
       "secondary": "",
@@ -1213,7 +1243,7 @@
       "detailPath": "entities/songs/61a540d46cff0a5b.json"
     },
     {
-      "rank": 24338,
+      "rank": 24339,
       "id": "d10fff69a0a208e9",
       "name": "LOVE DIVE",
       "secondary": "IVE",
@@ -1243,7 +1273,7 @@
       "detailPath": "entities/songs/d10fff69a0a208e9.json"
     },
     {
-      "rank": 24339,
+      "rank": 24340,
       "id": "90e552dc4942f7b0",
       "name": "LOVE DOLL",
       "secondary": "DECO*27",
@@ -1276,7 +1306,7 @@
       "detailPath": "entities/songs/90e552dc4942f7b0.json"
     },
     {
-      "rank": 24340,
+      "rank": 24341,
       "id": "36d8986612870b38",
       "name": "Love Dramatic",
       "secondary": "",
@@ -1309,7 +1339,7 @@
       "detailPath": "entities/songs/36d8986612870b38.json"
     },
     {
-      "rank": 24341,
+      "rank": 24342,
       "id": "0660566c139c0b07",
       "name": "Love Festival",
       "secondary": "テニプリオールスターズ",
@@ -1343,7 +1373,7 @@
       "detailPath": "entities/songs/0660566c139c0b07.json"
     },
     {
-      "rank": 24342,
+      "rank": 24343,
       "id": "79c46deb6095c883",
       "name": "Love flower",
       "secondary": "葉月",
@@ -1376,7 +1406,7 @@
       "detailPath": "entities/songs/79c46deb6095c883.json"
     },
     {
-      "rank": 24343,
+      "rank": 24344,
       "id": "a5f5bcb1076b38f5",
       "name": "LOVE FOOLISH",
       "secondary": "TWICE",
@@ -1409,7 +1439,7 @@
       "detailPath": "entities/songs/a5f5bcb1076b38f5.json"
     },
     {
-      "rank": 24344,
+      "rank": 24345,
       "id": "2ec09b8cdfd887b4",
       "name": "Love For Sale",
       "secondary": "",
@@ -1442,7 +1472,7 @@
       "detailPath": "entities/songs/2ec09b8cdfd887b4.json"
     },
     {
-      "rank": 24345,
+      "rank": 24346,
       "id": "c2c10fcefd163d67",
       "name": "Love in Paradise",
       "secondary": "Jorge Rivera-Herrans",
@@ -1475,7 +1505,7 @@
       "detailPath": "entities/songs/c2c10fcefd163d67.json"
     },
     {
-      "rank": 24346,
+      "rank": 24347,
       "id": "e454e86e990f586f",
       "name": "Love in the Ice",
       "secondary": "東方神起",
@@ -1509,7 +1539,7 @@
       "detailPath": "entities/songs/e454e86e990f586f.json"
     },
     {
-      "rank": 24347,
+      "rank": 24348,
       "id": "7642666ffd95a7cd",
       "name": "LOVE INFINITY",
       "secondary": "贄姫と獣の王",
@@ -1542,7 +1572,7 @@
       "detailPath": "entities/songs/7642666ffd95a7cd.json"
     },
     {
-      "rank": 24348,
+      "rank": 24349,
       "id": "2d6c8ad8b16f0769",
       "name": "Love is",
       "secondary": "mihimaru GT",
@@ -1574,7 +1604,7 @@
       "detailPath": "entities/songs/2d6c8ad8b16f0769.json"
     },
     {
-      "rank": 24349,
+      "rank": 24350,
       "id": "8523bce98ec0d346",
       "name": "Love is",
       "secondary": "河村隆一",
@@ -1606,39 +1636,6 @@
         }
       ],
       "detailPath": "entities/songs/8523bce98ec0d346.json"
-    },
-    {
-      "rank": 24350,
-      "id": "b55b90b32e86395d",
-      "name": "LOVE IS DEAD",
-      "secondary": "未記載",
-      "channelId": "UCoGvqk8hKO25BC7IHyBd64A",
-      "channelHandle": "/@ZenzaiAnko",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "_iQSnxRMFN0",
-          "videoTitle": "【#歌枠】🎙B'z歌枠🎙 ⚠スパチャメンギフ等禁止⚠【煎妻あんこ】#VTuber",
-          "channelName": "煎妻あんこ",
-          "publishedAt": "2026-07-11T08:27:33.698Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_iQSnxRMFN0/hqdefault.jpg",
-          "sourcePath": "sources/_i/_iQSnxRMFN0.json",
-          "time": "1:50:06",
-          "seconds": 6606,
-          "songTitle": "LOVE IS DEAD",
-          "artist": "未記載"
-        }
-      ],
-      "detailPath": "entities/songs/b55b90b32e86395d.json"
     }
   ]
 }

@@ -1,16 +1,83 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 536,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 26751,
+      "id": "40b3fd69bf60c61d",
+      "name": "Redire",
+      "secondary": "Keina Suda",
+      "channelId": "UCE4W22kKQQVdrA2KTiyZ_cA",
+      "channelHandle": "@MEMENTOVANITAS",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "aCFnjRLkBQQ",
+          "videoTitle": "【#歌枠 】やあ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+          "channelName": "メーメントヴァニタス / MEMENTOVANITAS",
+          "publishedAt": "2026-10-08T13:32:27.829Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aCFnjRLkBQQ/hqdefault.jpg",
+          "sourcePath": "sources/aC/aCFnjRLkBQQ.json",
+          "time": "0:33:22",
+          "seconds": 2002,
+          "songTitle": "Redire",
+          "artist": "Keina Suda"
+        }
+      ],
+      "detailPath": "entities/songs/40b3fd69bf60c61d.json"
+    },
+    {
+      "rank": 26752,
+      "id": "0f0ab81dfc04922c",
+      "name": "REDLINE",
+      "secondary": "Canna Akane",
+      "channelId": "UCkpqb53xiOvOgNYEbNpFSyw",
+      "channelHandle": "@Canna_Akane",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "UlBI_EthS8A",
+          "videoTitle": "【 歌枠 】さぁ～歌っていこうかね！お話もちょこっとはさんだりして！～sing stream～【茜音カンナ / ななしいんく】",
+          "channelName": "茜音カンナ / Canna Channel【ななしいんく】",
+          "publishedAt": "2026-08-12T15:23:12.799Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UlBI_EthS8A/hqdefault.jpg",
+          "sourcePath": "sources/Ul/UlBI_EthS8A.json",
+          "time": "2:04:52",
+          "seconds": 7492,
+          "songTitle": "REDLINE",
+          "artist": "Canna Akane"
+        }
+      ],
+      "detailPath": "entities/songs/0f0ab81dfc04922c.json"
+    },
+    {
+      "rank": 26753,
       "id": "72ae7dc87f60913a",
       "name": "REDLINE",
       "secondary": "茜音カンナ",
@@ -43,7 +110,7 @@
       "detailPath": "entities/songs/72ae7dc87f60913a.json"
     },
     {
-      "rank": 26752,
+      "rank": 26754,
       "id": "e23cffda76cb771b",
       "name": "Redo",
       "secondary": "鈴木このみ ←NEW!",
@@ -76,7 +143,7 @@
       "detailPath": "entities/songs/e23cffda76cb771b.json"
     },
     {
-      "rank": 26753,
+      "rank": 26755,
       "id": "59f2e20c4464d416",
       "name": "Redo",
       "secondary": "Re:ゼロから始める異世界生活 Re:ZERO Starting Life in Another World",
@@ -109,7 +176,7 @@
       "detailPath": "entities/songs/59f2e20c4464d416.json"
     },
     {
-      "rank": 26754,
+      "rank": 26756,
       "id": "63a363b18564c880",
       "name": "REDO",
       "secondary": "the GazettE",
@@ -142,7 +209,7 @@
       "detailPath": "entities/songs/63a363b18564c880.json"
     },
     {
-      "rank": 26755,
+      "rank": 26757,
       "id": "f58693d8e309e1c4",
       "name": "Ref",
       "secondary": "Aimer",
@@ -172,7 +239,7 @@
       "detailPath": "entities/songs/f58693d8e309e1c4.json"
     },
     {
-      "rank": 26756,
+      "rank": 26758,
       "id": "c5b539ba105978c7",
       "name": "Reflection",
       "secondary": "Christina Aguilera (克莉絲汀)/電影《花木蘭》插曲",
@@ -206,7 +273,7 @@
       "detailPath": "entities/songs/c5b539ba105978c7.json"
     },
     {
-      "rank": 26757,
+      "rank": 26759,
       "id": "fef0c0f1b65f4b55",
       "name": "Reflection",
       "secondary": "Lea Salonga (Mulan)",
@@ -239,7 +306,7 @@
       "detailPath": "entities/songs/fef0c0f1b65f4b55.json"
     },
     {
-      "rank": 26758,
+      "rank": 26760,
       "id": "1719edcd5f022e29",
       "name": "Reflection",
       "secondary": "Mulan",
@@ -272,7 +339,7 @@
       "detailPath": "entities/songs/1719edcd5f022e29.json"
     },
     {
-      "rank": 26759,
+      "rank": 26761,
       "id": "03388889615de69f",
       "name": "Reflection (Mulan)",
       "secondary": "未記載",
@@ -306,7 +373,7 @@
       "detailPath": "entities/songs/03388889615de69f.json"
     },
     {
-      "rank": 26760,
+      "rank": 26762,
       "id": "4189fbc93cd070e7",
       "name": "REFLECTOR",
       "secondary": "赤魔アザト",
@@ -339,7 +406,7 @@
       "detailPath": "entities/songs/4189fbc93cd070e7.json"
     },
     {
-      "rank": 26761,
+      "rank": 26763,
       "id": "70a9dae9d585f0a5",
       "name": "REFLECTOR",
       "secondary": "Team: BuckerS feat.赤魔アザト",
@@ -372,7 +439,7 @@
       "detailPath": "entities/songs/70a9dae9d585f0a5.json"
     },
     {
-      "rank": 26762,
+      "rank": 26764,
       "id": "ad5bb587cc7c6ca2",
       "name": "refrain",
       "secondary": "",
@@ -402,7 +469,7 @@
       "detailPath": "entities/songs/ad5bb587cc7c6ca2.json"
     },
     {
-      "rank": 26763,
+      "rank": 26765,
       "id": "bbc6de385ebf7dd9",
       "name": "Reimei",
       "secondary": "Sayuri × MY FIRST STORY",
@@ -435,7 +502,7 @@
       "detailPath": "entities/songs/bbc6de385ebf7dd9.json"
     },
     {
-      "rank": 26764,
+      "rank": 26766,
       "id": "f061625bf7281752",
       "name": "REINCARNATION",
       "secondary": "okui masami (Tekkaman Blade OP)",
@@ -468,7 +535,7 @@
       "detailPath": "entities/songs/f061625bf7281752.json"
     },
     {
-      "rank": 26765,
+      "rank": 26767,
       "id": "9eec60895b1f2ed3",
       "name": "Reincarnation Ascension",
       "secondary": "Kikuo",
@@ -498,7 +565,7 @@
       "detailPath": "entities/songs/9eec60895b1f2ed3.json"
     },
     {
-      "rank": 26766,
+      "rank": 26768,
       "id": "cdc88d328b6b160b",
       "name": "relations",
       "secondary": "星井美希・如月千早",
@@ -531,7 +598,7 @@
       "detailPath": "entities/songs/cdc88d328b6b160b.json"
     },
     {
-      "rank": 26767,
+      "rank": 26769,
       "id": "2f3ed8b36fbcc809",
       "name": "relations",
       "secondary": "星井美希（CV:長谷川明子）",
@@ -564,7 +631,7 @@
       "detailPath": "entities/songs/2f3ed8b36fbcc809.json"
     },
     {
-      "rank": 26768,
+      "rank": 26770,
       "id": "d4d5bc63b520b3c0",
       "name": "relations／星井美希（長谷川明子）",
       "secondary": "如月千早（今井麻美）",
@@ -597,7 +664,7 @@
       "detailPath": "entities/songs/d4d5bc63b520b3c0.json"
     },
     {
-      "rank": 26769,
+      "rank": 26771,
       "id": "dd87b8c30b96b061",
       "name": "Reload",
       "secondary": "Sebastian Ingrosso, Tommy Trash, John Martin",
@@ -631,7 +698,7 @@
       "detailPath": "entities/songs/dd87b8c30b96b061.json"
     },
     {
-      "rank": 26770,
+      "rank": 26772,
       "id": "4e61dc52fc0ee000",
       "name": "Reload",
       "secondary": "ゆかな",
@@ -661,7 +728,7 @@
       "detailPath": "entities/songs/4e61dc52fc0ee000.json"
     },
     {
-      "rank": 26771,
+      "rank": 26773,
       "id": "27e72de30ce67dc7",
       "name": "RELOAD",
       "secondary": "あめのむらくもP",
@@ -694,7 +761,7 @@
       "detailPath": "entities/songs/27e72de30ce67dc7.json"
     },
     {
-      "rank": 26772,
+      "rank": 26774,
       "id": "fdfb0896ae8f037b",
       "name": "Remedy",
       "secondary": "坂本真綾",
@@ -724,7 +791,7 @@
       "detailPath": "entities/songs/fdfb0896ae8f037b.json"
     },
     {
-      "rank": 26773,
+      "rank": 26775,
       "id": "516f8c210b5bc95d",
       "name": "Remember",
       "secondary": "Yuigot feat.月見ヤチヨ(cv.早見沙織)",
@@ -757,7 +824,7 @@
       "detailPath": "entities/songs/516f8c210b5bc95d.json"
     },
     {
-      "rank": 26774,
+      "rank": 26776,
       "id": "9ca155a26bb1409e",
       "name": "Remember",
       "secondary": "Yuigot 様",
@@ -787,7 +854,7 @@
       "detailPath": "entities/songs/9ca155a26bb1409e.json"
     },
     {
-      "rank": 26775,
+      "rank": 26777,
       "id": "743cf9cdb2dbfe83",
       "name": "Remember",
       "secondary": "",
@@ -817,7 +884,7 @@
       "detailPath": "entities/songs/743cf9cdb2dbfe83.json"
     },
     {
-      "rank": 26776,
+      "rank": 26778,
       "id": "02f78ea4a32668a4",
       "name": "REMEMBER 16",
       "secondary": "Fire Bomber",
@@ -847,7 +914,7 @@
       "detailPath": "entities/songs/02f78ea4a32668a4.json"
     },
     {
-      "rank": 26777,
+      "rank": 26779,
       "id": "26eede94aa96dd9c",
       "name": "Remember Me",
       "secondary": "MAN WITH A MISSION",
@@ -877,7 +944,7 @@
       "detailPath": "entities/songs/26eede94aa96dd9c.json"
     },
     {
-      "rank": 26778,
+      "rank": 26780,
       "id": "d3489723eb29a420",
       "name": "Remember Me",
       "secondary": "シシド・カフカ",
@@ -907,7 +974,7 @@
       "detailPath": "entities/songs/d3489723eb29a420.json"
     },
     {
-      "rank": 26779,
+      "rank": 26781,
       "id": "7f22ba8ef456dfda",
       "name": "REMEMBER YOU",
       "secondary": "",
@@ -940,7 +1007,7 @@
       "detailPath": "entities/songs/7f22ba8ef456dfda.json"
     },
     {
-      "rank": 26780,
+      "rank": 26782,
       "id": "d4d15efd49c56048",
       "name": "Ren'ai Saiban (Love Trial)",
       "secondary": "40mP",
@@ -973,7 +1040,7 @@
       "detailPath": "entities/songs/d4d15efd49c56048.json"
     },
     {
-      "rank": 26781,
+      "rank": 26783,
       "id": "51e907d3c2b7ceca",
       "name": "Renai Circulation",
       "secondary": "Kana Hanazawa 〔Bakemonogatari〕",
@@ -1007,7 +1074,7 @@
       "detailPath": "entities/songs/51e907d3c2b7ceca.json"
     },
     {
-      "rank": 26782,
+      "rank": 26784,
       "id": "5ee88b9f201b1556",
       "name": "Renai Circulation",
       "secondary": "Nadeko Sengoku",
@@ -1041,7 +1108,7 @@
       "detailPath": "entities/songs/5ee88b9f201b1556.json"
     },
     {
-      "rank": 26783,
+      "rank": 26785,
       "id": "b28179932c89e598",
       "name": "Renai Circulation",
       "secondary": "Nadeko Sengoku (CV:Kana Hanazawa)",
@@ -1074,7 +1141,7 @@
       "detailPath": "entities/songs/b28179932c89e598.json"
     },
     {
-      "rank": 26784,
+      "rank": 26786,
       "id": "7e0a234b03bd341a",
       "name": "Renai Circulation (Monogatari OP4)",
       "secondary": "未記載",
@@ -1108,7 +1175,7 @@
       "detailPath": "entities/songs/7e0a234b03bd341a.json"
     },
     {
-      "rank": 26785,
+      "rank": 26787,
       "id": "f4eb7c0e1f04d335",
       "name": "Renai Philosophia",
       "secondary": "Kurousa-P feat. Hatsune Miku",
@@ -1138,7 +1205,7 @@
       "detailPath": "entities/songs/f4eb7c0e1f04d335.json"
     },
     {
-      "rank": 26786,
+      "rank": 26788,
       "id": "bfd98616a8ecab2e",
       "name": "Renai Saiban",
       "secondary": "40mP feat. Hatsune Miku",
@@ -1171,7 +1238,7 @@
       "detailPath": "entities/songs/bfd98616a8ecab2e.json"
     },
     {
-      "rank": 26787,
+      "rank": 26789,
       "id": "1021a3cd1c4a43cb",
       "name": "rendez-vous",
       "secondary": "shytaupe",
@@ -1201,7 +1268,7 @@
       "detailPath": "entities/songs/1021a3cd1c4a43cb.json"
     },
     {
-      "rank": 26788,
+      "rank": 26790,
       "id": "1654ff96d04bf80d",
       "name": "Renegades",
       "secondary": "ONE OK ROCK",
@@ -1234,7 +1301,7 @@
       "detailPath": "entities/songs/1654ff96d04bf80d.json"
     },
     {
-      "rank": 26789,
+      "rank": 26791,
       "id": "482c3d65c2b12bf5",
       "name": "Replay",
       "secondary": "kz､かぐや",
@@ -1266,7 +1333,7 @@
       "detailPath": "entities/songs/482c3d65c2b12bf5.json"
     },
     {
-      "rank": 26790,
+      "rank": 26792,
       "id": "26e22c21e29a5f81",
       "name": "reply",
       "secondary": "超かぐや姫！の挿入歌",
@@ -1299,7 +1366,7 @@
       "detailPath": "entities/songs/26e22c21e29a5f81.json"
     },
     {
-      "rank": 26791,
+      "rank": 26793,
       "id": "08c97c81129dec27",
       "name": "Reply",
       "secondary": "kz(livetune) / かぐや (夏吉ゆうこ)",
@@ -1333,7 +1400,7 @@
       "detailPath": "entities/songs/08c97c81129dec27.json"
     },
     {
-      "rank": 26792,
+      "rank": 26794,
       "id": "9da30959230bce3c",
       "name": "Reply",
       "secondary": "かぐや(夏吉ゆうこ)from 超かぐや姫！",
@@ -1366,7 +1433,7 @@
       "detailPath": "entities/songs/9da30959230bce3c.json"
     },
     {
-      "rank": 26793,
+      "rank": 26795,
       "id": "a321c8307128a905",
       "name": "Reply",
       "secondary": "かぐや",
@@ -1399,7 +1466,7 @@
       "detailPath": "entities/songs/a321c8307128a905.json"
     },
     {
-      "rank": 26794,
+      "rank": 26796,
       "id": "bfeccc4d65da6d6b",
       "name": "Reply",
       "secondary": "Kz/livetune 2026年",
@@ -1429,7 +1496,7 @@
       "detailPath": "entities/songs/bfeccc4d65da6d6b.json"
     },
     {
-      "rank": 26795,
+      "rank": 26797,
       "id": "f1890354272c88b7",
       "name": "Reply",
       "secondary": "かぐや（夏吉ゆうこ）・kz",
@@ -1462,7 +1529,7 @@
       "detailPath": "entities/songs/f1890354272c88b7.json"
     },
     {
-      "rank": 26796,
+      "rank": 26798,
       "id": "2f89e112c4162f8c",
       "name": "Reply – kz(livetune)",
       "secondary": "かぐや(cv.夏吉ゆうこ)",
@@ -1496,7 +1563,7 @@
       "detailPath": "entities/songs/2f89e112c4162f8c.json"
     },
     {
-      "rank": 26797,
+      "rank": 26799,
       "id": "b92a44f6a626902e",
       "name": "Reply – kz(livetune)",
       "secondary": "かぐや(cv.夏吉ゆうこ) 95.136",
@@ -1526,7 +1593,7 @@
       "detailPath": "entities/songs/b92a44f6a626902e.json"
     },
     {
-      "rank": 26798,
+      "rank": 26800,
       "id": "834cb5e860a9d7ce",
       "name": "Reply – kz(livetune)",
       "secondary": "かぐや(cv.夏吉ゆうこ) from 超かぐや姫！",
@@ -1557,69 +1624,6 @@
         }
       ],
       "detailPath": "entities/songs/834cb5e860a9d7ce.json"
-    },
-    {
-      "rank": 26799,
-      "id": "e73ecf1dba12f12b",
-      "name": "Reply かぐや(夏吉ゆうこ)【超かぐや姫！】劇中歌",
-      "secondary": "",
-      "channelId": "UC5CH4FvzJO5pYmhty_vmePA",
-      "channelHandle": "@yotsubamelon_ch",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Ca4jp-PIYxs",
-          "videoTitle": "【歌枠｜#karaoke】２２時まで！🍈同接１００人達成で「歌ってみた」公開！✨【#四葉メロン/Vtuber】",
-          "channelName": "四葉メロンch",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Ca4jp-PIYxs/hqdefault.jpg",
-          "sourcePath": "sources/Ca/Ca4jp-PIYxs.json",
-          "time": "2:25:49",
-          "seconds": 8749,
-          "songTitle": "Reply かぐや(夏吉ゆうこ)【超かぐや姫！】劇中歌",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/e73ecf1dba12f12b.json"
-    },
-    {
-      "rank": 26800,
-      "id": "37317709dc396e38",
-      "name": "request:renai circulation",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "85BI6qEyh0M",
-          "videoTitle": "【新衣装公開歌枠】さらに可愛くなったぞ♡【甘苺みるく】",
-          "channelName": "甘苺みるく",
-          "publishedAt": "2026-08-27T15:50:13.758Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/85BI6qEyh0M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4mB4ReQ1jHDcJRSDDrgTx_mP7Hg",
-          "sourcePath": "sources/85/85BI6qEyh0M.json",
-          "time": "1:29:57",
-          "seconds": 5397,
-          "songTitle": "request:renai circulation",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/37317709dc396e38.json"
     }
   ]
 }

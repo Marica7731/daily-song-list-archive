@@ -1,16 +1,154 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 302,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 15051,
+      "id": "ee073259d482a360",
+      "name": "悲しい気持ち",
+      "secondary": "桑田佳祐",
+      "channelId": "UCO4blswUnk1SHD1VmFXzB0A",
+      "channelHandle": "@aroma_ongaku",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "JXpTeg11hPQ",
+          "videoTitle": "【 #歌枠 ⋮ 元メジャー歌手Vtuber 】Japanese Songs! 初見さん10人耐久！#初見さん大歓迎 ( English / 繁體中文 / Español / 한국어 Lyrics )",
+          "channelName": "Aromaの音楽",
+          "publishedAt": "2026-09-12T20:04:27.565Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JXpTeg11hPQ/hqdefault.jpg",
+          "sourcePath": "sources/JX/JXpTeg11hPQ.json",
+          "time": "0:14:38",
+          "seconds": 878,
+          "songTitle": "悲しい気持ち",
+          "artist": "桑田佳祐"
+        },
+        {
+          "videoId": "6z9QVvrUG2c",
+          "videoTitle": "【 #歌枠 ⋮ 元メジャー歌手Vtuber 】男性曲多め🥂✨ #初見さん大歓迎 ( English / 繁體中文 / Español / 한국어 Lyrics )",
+          "channelName": "Aromaの音楽",
+          "publishedAt": "2026-07-29T18:57:25.526Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6z9QVvrUG2c/hqdefault.jpg",
+          "sourcePath": "sources/6z/6z9QVvrUG2c.json",
+          "time": "2:17:58",
+          "seconds": 8278,
+          "songTitle": "悲しい気持ち",
+          "artist": "桑田佳祐"
+        }
+      ],
+      "detailPath": "entities/songs/ee073259d482a360.json"
+    },
+    {
+      "rank": 15052,
+      "id": "5dbd9671dc1216e3",
+      "name": "悲しみの果て",
+      "secondary": "エレファントカシマシ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "SwujufjHZtI",
+          "videoTitle": "【 歌枠 / Karaoke 】初見さん・ROM専さん大歓迎！常連も盛り上がる歌枠【 #黄ノ瀬オブリ 】",
+          "channelName": "黄ノ瀬 オブリ - Obbli Kinose -",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SwujufjHZtI/hqdefault.jpg",
+          "sourcePath": "sources/Sw/SwujufjHZtI.json",
+          "time": "1:27:33",
+          "seconds": 5253,
+          "songTitle": "悲しみの果て",
+          "artist": "エレファントカシマシ"
+        },
+        {
+          "videoId": "vbW1w95JbGM",
+          "videoTitle": "【縦型歌枠】憂鬱な雨の日に送るあげあげ歌枠🚙【 ナナホシナナ 】",
+          "channelName": "Nana CH. /ナナホシ ナナ",
+          "publishedAt": "2026-08-27T15:50:13.758Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vbW1w95JbGM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8DkKl7FcTUaotMPhSTFtpHZELDA",
+          "sourcePath": "sources/vb/vbW1w95JbGM.json",
+          "time": "0:36:00",
+          "seconds": 2160,
+          "songTitle": "悲しみの果て",
+          "artist": "エレファントカシマシ"
+        }
+      ],
+      "detailPath": "entities/songs/5dbd9671dc1216e3.json"
+    },
+    {
+      "rank": 15053,
+      "id": "d0e90c47f3ef8776",
+      "name": "悲しみをやさしさに／Little",
+      "secondary": "little",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "5KfLFUwB8GI",
+          "videoTitle": "【 #歌枠 】5周年おめでとう100耐久！アニソンで盛り上がるよ～！【 #旺閻サポ #初見歓迎 】",
+          "channelName": "旺閻サポ",
+          "publishedAt": "2026-10-03T17:23:13.123Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5KfLFUwB8GI/hqdefault.jpg",
+          "sourcePath": "sources/5K/5KfLFUwB8GI.json",
+          "time": "3:59:20",
+          "seconds": 14360,
+          "songTitle": "悲しみをやさしさに/Little",
+          "artist": "little"
+        },
+        {
+          "videoId": "efPioMMpTdM",
+          "videoTitle": "【歌枠】きみに「おかえり」言わせて♡ただいまのカツアゲ歌枠！",
+          "channelName": "星存なのか",
+          "publishedAt": "2026-08-27T13:45:22.879Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/efPioMMpTdM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTYWVuSji1jCtpvBBSZKFLQtk8ag",
+          "sourcePath": "sources/ef/efPioMMpTdM.json",
+          "time": "0:09:39",
+          "seconds": 579,
+          "songTitle": "悲しみをやさしさに／Little",
+          "artist": "little"
+        }
+      ],
+      "detailPath": "entities/songs/d0e90c47f3ef8776.json"
+    },
+    {
+      "rank": 15054,
       "id": "6cb89812353445dd",
       "name": "悲愴感",
       "secondary": "悲愴感",
@@ -56,7 +194,7 @@
       "detailPath": "entities/songs/6cb89812353445dd.json"
     },
     {
-      "rank": 15052,
+      "rank": 15055,
       "id": "17686dadcf3dce52",
       "name": "秘密の扉から会いにきて",
       "secondary": "田村ゆかり (2014)（のうりん OP）",
@@ -101,7 +239,7 @@
       "detailPath": "entities/songs/17686dadcf3dce52.json"
     },
     {
-      "rank": 15053,
+      "rank": 15056,
       "id": "9a41aa1bf4dd4af1",
       "name": "秘密警察",
       "secondary": "ぶりる",
@@ -149,7 +287,7 @@
       "detailPath": "entities/songs/9a41aa1bf4dd4af1.json"
     },
     {
-      "rank": 15054,
+      "rank": 15057,
       "id": "c4afe15eb4288732",
       "name": "秘蜜 〜黒の誓い〜",
       "secondary": "ひとしずくP",
@@ -191,7 +329,7 @@
       "detailPath": "entities/songs/c4afe15eb4288732.json"
     },
     {
-      "rank": 15055,
+      "rank": 15058,
       "id": "329a6e304bcd1479",
       "name": "被害妄想携帯女子（笑）",
       "secondary": "ギガP",
@@ -237,7 +375,7 @@
       "detailPath": "entities/songs/329a6e304bcd1479.json"
     },
     {
-      "rank": 15056,
+      "rank": 15059,
       "id": "09892e0756b15344",
       "name": "非公開日誌",
       "secondary": "みきとP",
@@ -283,7 +421,7 @@
       "detailPath": "entities/songs/09892e0756b15344.json"
     },
     {
-      "rank": 15057,
+      "rank": 15060,
       "id": "e0a097908f213056",
       "name": "非常口 逃げてみた",
       "secondary": "なとり",
@@ -328,7 +466,7 @@
       "detailPath": "entities/songs/e0a097908f213056.json"
     },
     {
-      "rank": 15058,
+      "rank": 15061,
       "id": "678da270464e82c2",
       "name": "飛べない鳥",
       "secondary": "ゆず",
@@ -373,7 +511,7 @@
       "detailPath": "entities/songs/678da270464e82c2.json"
     },
     {
-      "rank": 15059,
+      "rank": 15062,
       "id": "2fd9f509efa34097",
       "name": "飛ぼうよ",
       "secondary": "Vaundy / yama",
@@ -418,7 +556,7 @@
       "detailPath": "entities/songs/2fd9f509efa34097.json"
     },
     {
-      "rank": 15060,
+      "rank": 15063,
       "id": "56f25f72cb0c2c26",
       "name": "尾丸ポルカ",
       "secondary": "サイキョウチックポルカ",
@@ -466,7 +604,7 @@
       "detailPath": "entities/songs/56f25f72cb0c2c26.json"
     },
     {
-      "rank": 15061,
+      "rank": 15064,
       "id": "df5839ce3be3c6d4",
       "name": "微かなカオリ",
       "secondary": "Perfume",
@@ -511,7 +649,7 @@
       "detailPath": "entities/songs/df5839ce3be3c6d4.json"
     },
     {
-      "rank": 15062,
+      "rank": 15065,
       "id": "25ecea1f79978056",
       "name": "微熱からMystery",
       "secondary": "",
@@ -556,7 +694,7 @@
       "detailPath": "entities/songs/25ecea1f79978056.json"
     },
     {
-      "rank": 15063,
+      "rank": 15066,
       "id": "9919579803935866",
       "name": "微熱からMystery",
       "secondary": "lily white 園田海未(三森すずこ) 星空凛(飯田里穂) 東條希(楠田亜衣奈) from μ's ※JOYSOUND",
@@ -601,7 +739,7 @@
       "detailPath": "entities/songs/9919579803935866.json"
     },
     {
-      "rank": 15064,
+      "rank": 15067,
       "id": "fb3ba46520466354",
       "name": "美しい鰭",
       "secondary": "スピッツ ／ 名探偵コナン 黒鉄の魚影(2023年)",
@@ -646,7 +784,7 @@
       "detailPath": "entities/songs/fb3ba46520466354.json"
     },
     {
-      "rank": 15065,
+      "rank": 15068,
       "id": "915bc48bae10c388",
       "name": "美しい名前",
       "secondary": "THE BACK HORN",
@@ -694,7 +832,7 @@
       "detailPath": "entities/songs/915bc48bae10c388.json"
     },
     {
-      "rank": 15066,
+      "rank": 15069,
       "id": "55eab220d13cc615",
       "name": "美しい棘",
       "secondary": "GLIM SPANKY",
@@ -739,7 +877,7 @@
       "detailPath": "entities/songs/55eab220d13cc615.json"
     },
     {
-      "rank": 15067,
+      "rank": 15070,
       "id": "8491c22799c0b1b5",
       "name": "美しく燃える森",
       "secondary": "",
@@ -784,7 +922,7 @@
       "detailPath": "entities/songs/8491c22799c0b1b5.json"
     },
     {
-      "rank": 15068,
+      "rank": 15071,
       "id": "0e79609c5dec93d1",
       "name": "美少女無罪♡パイレーツ",
       "secondary": "未記載",
@@ -829,7 +967,7 @@
       "detailPath": "entities/songs/0e79609c5dec93d1.json"
     },
     {
-      "rank": 15069,
+      "rank": 15072,
       "id": "18f6482bf4456c50",
       "name": "畢生よ",
       "secondary": "花譜",
@@ -874,7 +1012,7 @@
       "detailPath": "entities/songs/18f6482bf4456c50.json"
     },
     {
-      "rank": 15070,
+      "rank": 15073,
       "id": "e20b2e5e5f72bad7",
       "name": "筆跡",
       "secondary": "炭酸水",
@@ -920,7 +1058,7 @@
       "detailPath": "entities/songs/e20b2e5e5f72bad7.json"
     },
     {
-      "rank": 15071,
+      "rank": 15074,
       "id": "905c39fce180b26f",
       "name": "百年夜行",
       "secondary": "PolyphonicBranch",
@@ -965,7 +1103,7 @@
       "detailPath": "entities/songs/905c39fce180b26f.json"
     },
     {
-      "rank": 15072,
+      "rank": 15075,
       "id": "0b2b45bbd3432ef3",
       "name": "氷に閉じこめて",
       "secondary": "Superfly",
@@ -1012,7 +1150,7 @@
       "detailPath": "entities/songs/0b2b45bbd3432ef3.json"
     },
     {
-      "rank": 15073,
+      "rank": 15076,
       "id": "81be24ab0c8e2e72",
       "name": "病ンデル彼女",
       "secondary": "R指定",
@@ -1056,7 +1194,7 @@
       "detailPath": "entities/songs/81be24ab0c8e2e72.json"
     },
     {
-      "rank": 15074,
+      "rank": 15077,
       "id": "7af672d5dc0035a7",
       "name": "病ンデル彼女",
       "secondary": "",
@@ -1101,7 +1239,7 @@
       "detailPath": "entities/songs/7af672d5dc0035a7.json"
     },
     {
-      "rank": 15075,
+      "rank": 15078,
       "id": "6732bda6241fc710",
       "name": "病棟305号室",
       "secondary": "ハチ",
@@ -1146,7 +1284,7 @@
       "detailPath": "entities/songs/6732bda6241fc710.json"
     },
     {
-      "rank": 15076,
+      "rank": 15079,
       "id": "12cf4978c9ae480e",
       "name": "病名恋ワズライ",
       "secondary": "HoneyWorks",
@@ -1191,7 +1329,7 @@
       "detailPath": "entities/songs/12cf4978c9ae480e.json"
     },
     {
-      "rank": 15077,
+      "rank": 15080,
       "id": "01e914fea4610703",
       "name": "秒針を噛む",
       "secondary": "未記載",
@@ -1237,7 +1375,7 @@
       "detailPath": "entities/songs/01e914fea4610703.json"
     },
     {
-      "rank": 15078,
+      "rank": 15081,
       "id": "350fb55172658c1f",
       "name": "秒針を噛む",
       "secondary": "ずっと真夜中でいいのに。 ※JOYSOUND",
@@ -1282,7 +1420,7 @@
       "detailPath": "entities/songs/350fb55172658c1f.json"
     },
     {
-      "rank": 15079,
+      "rank": 15082,
       "id": "c46323255f3c1195",
       "name": "秒針を嚙む",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1327,7 +1465,7 @@
       "detailPath": "entities/songs/c46323255f3c1195.json"
     },
     {
-      "rank": 15080,
+      "rank": 15083,
       "id": "53f4b13a73f44d39",
       "name": "不可幸力",
       "secondary": "未記載",
@@ -1373,7 +1511,7 @@
       "detailPath": "entities/songs/53f4b13a73f44d39.json"
     },
     {
-      "rank": 15081,
+      "rank": 15084,
       "id": "bbb51e7ccee3e1f0",
       "name": "不可抗力",
       "secondary": "Vaundy",
@@ -1421,7 +1559,7 @@
       "detailPath": "entities/songs/bbb51e7ccee3e1f0.json"
     },
     {
-      "rank": 15082,
+      "rank": 15085,
       "id": "1855fd6ca503cf8c",
       "name": "不言論",
       "secondary": "BAKｻﾝ",
@@ -1467,7 +1605,7 @@
       "detailPath": "entities/songs/1855fd6ca503cf8c.json"
     },
     {
-      "rank": 15083,
+      "rank": 15086,
       "id": "aa465ee9b4f1981e",
       "name": "不思議CALL ME",
       "secondary": "星銃士ビスマルク",
@@ -1515,7 +1653,7 @@
       "detailPath": "entities/songs/aa465ee9b4f1981e.json"
     },
     {
-      "rank": 15084,
+      "rank": 15087,
       "id": "b09b759182fdd5d8",
       "name": "不死身ごっこ",
       "secondary": "ピノキオピー",
@@ -1560,7 +1698,7 @@
       "detailPath": "entities/songs/b09b759182fdd5d8.json"
     },
     {
-      "rank": 15085,
+      "rank": 15088,
       "id": "aa5064ff688ed53d",
       "name": "不死鳥のフランメ",
       "secondary": "水樹奈々 x 日笠陽子",
@@ -1608,7 +1746,7 @@
       "detailPath": "entities/songs/aa5064ff688ed53d.json"
     },
     {
-      "rank": 15086,
+      "rank": 15089,
       "id": "27bd705213b5b7b7",
       "name": "布団の中から出たくない",
       "secondary": "打首獄門同好会",
@@ -1653,7 +1791,7 @@
       "detailPath": "entities/songs/27bd705213b5b7b7.json"
     },
     {
-      "rank": 15087,
+      "rank": 15090,
       "id": "fea2403ad85ba7e0",
       "name": "浮気したらあかへんで",
       "secondary": "コレサワ",
@@ -1698,7 +1836,7 @@
       "detailPath": "entities/songs/fea2403ad85ba7e0.json"
     },
     {
-      "rank": 15088,
+      "rank": 15091,
       "id": "2cd5cf0f5f1d3e08",
       "name": "浮世CROSSING",
       "secondary": "UVERworld",
@@ -1744,7 +1882,7 @@
       "detailPath": "entities/songs/2cd5cf0f5f1d3e08.json"
     },
     {
-      "rank": 15089,
+      "rank": 15092,
       "id": "572a7cc221312c81",
       "name": "浮世謳歌生命教",
       "secondary": "nui",
@@ -1789,7 +1927,7 @@
       "detailPath": "entities/songs/572a7cc221312c81.json"
     },
     {
-      "rank": 15090,
+      "rank": 15093,
       "id": "e2b6afb3c21433a3",
       "name": "部屋とワイシャツと私",
       "secondary": "平松愛理",
@@ -1835,7 +1973,7 @@
       "detailPath": "entities/songs/e2b6afb3c21433a3.json"
     },
     {
-      "rank": 15091,
+      "rank": 15094,
       "id": "8633e491084c2fe7",
       "name": "風",
       "secondary": "宮崎奈穂子(ｵﾘｼﾞﾅﾙ)",
@@ -1881,7 +2019,7 @@
       "detailPath": "entities/songs/8633e491084c2fe7.json"
     },
     {
-      "rank": 15092,
+      "rank": 15095,
       "id": "9cb77f6a4cef34a3",
       "name": "風が吹く街",
       "secondary": "ラックライフ",
@@ -1926,7 +2064,7 @@
       "detailPath": "entities/songs/9cb77f6a4cef34a3.json"
     },
     {
-      "rank": 15093,
+      "rank": 15096,
       "id": "81c438116fad34ff",
       "name": "風といっしょに",
       "secondary": "",
@@ -1971,7 +2109,7 @@
       "detailPath": "entities/songs/81c438116fad34ff.json"
     },
     {
-      "rank": 15094,
+      "rank": 15097,
       "id": "512b76820e1d7f7a",
       "name": "風と未来",
       "secondary": "いきものがかり",
@@ -2016,7 +2154,7 @@
       "detailPath": "entities/songs/512b76820e1d7f7a.json"
     },
     {
-      "rank": 15095,
+      "rank": 15098,
       "id": "c45c5dc36e990fac",
       "name": "風になる",
       "secondary": "猫の恩返し",
@@ -2061,7 +2199,7 @@
       "detailPath": "entities/songs/c45c5dc36e990fac.json"
     },
     {
-      "rank": 15096,
+      "rank": 15099,
       "id": "2053f05f49094458",
       "name": "風になる",
       "secondary": "つじあやの (2002)（猫の恩返し ED）",
@@ -2106,7 +2244,7 @@
       "detailPath": "entities/songs/2053f05f49094458.json"
     },
     {
-      "rank": 15097,
+      "rank": 15100,
       "id": "7cddb9287cf03df8",
       "name": "風になる/猫の恩返し",
       "secondary": "つじあやの",
@@ -2149,147 +2287,6 @@
         }
       ],
       "detailPath": "entities/songs/7cddb9287cf03df8.json"
-    },
-    {
-      "rank": 15098,
-      "id": "46e0a55d52715bc3",
-      "name": "風に薫る夏の記憶",
-      "secondary": "AAA",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mNH60YCs3kw",
-          "videoTitle": "【#夏納め歌枠リレー】ちょっぴり背伸びした特別な夏をお届け💌【#甘楽はのね】",
-          "channelName": "Hanone Ch. 甘楽はのね",
-          "publishedAt": "2026-08-31T11:33:35.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mNH60YCs3kw/hqdefault.jpg",
-          "sourcePath": "sources/mN/mNH60YCs3kw.json",
-          "time": "0:06:10",
-          "seconds": 370,
-          "songTitle": "風に薫る夏の記憶",
-          "artist": "AAA"
-        },
-        {
-          "videoId": "BW7VuzeeK6A",
-          "videoTitle": "【歌枠】夏の夜に聴きたい、切ない夏ソング🎆【作業用BGM】",
-          "channelName": "花野彩晴 / Hanano Iroha",
-          "publishedAt": "2026-07-15T23:51:33.039Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BW7VuzeeK6A/hqdefault.jpg",
-          "sourcePath": "sources/BW/BW7VuzeeK6A.json",
-          "time": "0:10:41",
-          "seconds": 641,
-          "songTitle": "風に薫る夏の記憶",
-          "artist": "AAA"
-        }
-      ],
-      "detailPath": "entities/songs/46e0a55d52715bc3.json"
-    },
-    {
-      "rank": 15099,
-      "id": "f402dad3c4d2ddd0",
-      "name": "風のとおり道",
-      "secondary": "Wakana",
-      "channelId": "UCeKkP16XdaalU0Xn6il_mhw",
-      "channelHandle": "@hajime_alc9",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "K8cAGXLibNE",
-          "videoTitle": "リハビリ歌枠！まずい！期限が切れちゃう！ #初見さん歓迎 (*´ω｀*)【#歌枠】 -Singing stream-JPVtuber #歌枠 #初見歓迎 #joysound",
-          "channelName": "みかみ茉姫 /Maki Mikami",
-          "publishedAt": "2026-09-02T14:41:39.439Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/K8cAGXLibNE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTIvH79jfGvh1sRQ0dIxQwUPL7kA",
-          "sourcePath": "sources/K8/K8cAGXLibNE.json",
-          "time": "0:36:35",
-          "seconds": 2195,
-          "songTitle": "風のとおり道",
-          "artist": "Wakana"
-        },
-        {
-          "videoId": "EVbQXOExHDA",
-          "videoTitle": "【歌枠/Karaoke 】今宵はまったり夜更かし歌。寝る前に一曲聞いてってくださいな🦊歌うの大好きVtuber #新人vtuber 【初見さん・作業用・寝落ち歓迎】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-07-11T18:33:03.734Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EVbQXOExHDA/hqdefault.jpg",
-          "sourcePath": "sources/EV/EVbQXOExHDA.json",
-          "time": "1:04:16",
-          "seconds": 3856,
-          "songTitle": "風のとおり道",
-          "artist": "Wakana"
-        }
-      ],
-      "detailPath": "entities/songs/f402dad3c4d2ddd0.json"
-    },
-    {
-      "rank": 15100,
-      "id": "5a01257d0b14f892",
-      "name": "風のとおり道",
-      "secondary": "杉並児童合唱団",
-      "channelId": "UCE6w5FzazXE9i3wwrVJPbhg",
-      "channelHandle": "@Gato_utane",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mE7olCGYMOc",
-          "videoTitle": "【 #歌枠 】初見曲にもチャレンジ！？ch登録者2800人達成目標！【 初見さん大歓迎 / #vtuber 】",
-          "channelName": "詠音ガト",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mE7olCGYMOc/hqdefault.jpg",
-          "sourcePath": "sources/mE/mE7olCGYMOc.json",
-          "time": "3:18:26",
-          "seconds": 11906,
-          "songTitle": "風のとおり道",
-          "artist": "杉並児童合唱団"
-        },
-        {
-          "videoId": "9ZY7PJqAieg",
-          "videoTitle": "【 #歌枠 】1時間だけ聴いてください！！【 初見さん大歓迎 / #vtuber 】",
-          "channelName": "詠音ガト",
-          "publishedAt": "2026-08-08T23:25:44.669Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9ZY7PJqAieg/hqdefault.jpg",
-          "sourcePath": "sources/9Z/9ZY7PJqAieg.json",
-          "time": "0:22:08",
-          "seconds": 1328,
-          "songTitle": "風のとおり道",
-          "artist": "杉並児童合唱団"
-        }
-      ],
-      "detailPath": "entities/songs/5a01257d0b14f892.json"
     }
   ]
 }

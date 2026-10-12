@@ -1,16 +1,106 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 123,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6101,
+      "id": "8c31b8ac219cbc71",
+      "name": "パイロキネシス",
+      "secondary": "saiB",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "alJrUevkhzg",
+          "videoTitle": "【歌枠】深夜・音・練習【#NUROJUNK】",
+          "channelName": "NUROJUNK",
+          "publishedAt": "2026-10-03T19:26:23.378Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/alJrUevkhzg/hqdefault.jpg",
+          "sourcePath": "sources/al/alJrUevkhzg.json",
+          "time": "1:55:45",
+          "seconds": 6945,
+          "songTitle": "パイロキネシス",
+          "artist": "saiB"
+        },
+        {
+          "videoId": "oxtDgfSxxZo",
+          "videoTitle": "【#歌枠】のんびりまったりしていってください！🎤✨【出穂おみ/re;BON】",
+          "channelName": "出穂おみ / Izuho omi",
+          "publishedAt": "2026-09-19T14:31:25.020Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oxtDgfSxxZo/hqdefault.jpg",
+          "sourcePath": "sources/ox/oxtDgfSxxZo.json",
+          "time": "1:14:13",
+          "seconds": 4453,
+          "songTitle": "パイロキネシス",
+          "artist": "saiB"
+        }
+      ],
+      "detailPath": "entities/songs/8c31b8ac219cbc71.json"
+    },
+    {
+      "rank": 6102,
+      "id": "e8afbc74ebb3c9b8",
+      "name": "バカ・ゴー・ホーム",
+      "secondary": "milktub",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "SX1LlzZg6Iw",
+          "videoTitle": "🏮 実写歌枠｜2010年代ベストアニソンを歌いまくるぜ!! #shorts #Vtuber ∞ 響架",
+          "channelName": "Kyoka Ch. -響架-",
+          "publishedAt": "2026-09-28T16:55:45.212Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SX1LlzZg6Iw/hqdefault.jpg",
+          "sourcePath": "sources/SX/SX1LlzZg6Iw.json",
+          "time": "0:28:12",
+          "seconds": 1692,
+          "songTitle": "バカ・ゴー・ホーム",
+          "artist": "milktub"
+        },
+        {
+          "videoId": "MrZREd-euV8",
+          "videoTitle": "【歌枠＆ギター練習267日目】メタル系の音作り＆LiSAさんの曲を耳コピ J-Rock・アニソン・J-POP etc...【弾き語り/エレキギター/ひで】",
+          "channelName": "ひでチャンネル",
+          "publishedAt": "2026-09-23T08:12:59.656Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MrZREd-euV8/hqdefault.jpg",
+          "sourcePath": "sources/Mr/MrZREd-euV8.json",
+          "time": "1:46:52",
+          "seconds": 6412,
+          "songTitle": "バカ・ゴー・ホーム",
+          "artist": "milktub"
+        }
+      ],
+      "detailPath": "entities/songs/e8afbc74ebb3c9b8.json"
+    },
+    {
+      "rank": 6103,
       "id": "c00f0fbf1ca8679d",
       "name": "ばかじゃないのに",
       "secondary": "ずっと真夜中でいいのに",
@@ -55,7 +145,7 @@
       "detailPath": "entities/songs/c00f0fbf1ca8679d.json"
     },
     {
-      "rank": 6102,
+      "rank": 6104,
       "id": "bbd34a76265850e6",
       "name": "はぐ",
       "secondary": "MIMI",
@@ -100,7 +190,7 @@
       "detailPath": "entities/songs/bbd34a76265850e6.json"
     },
     {
-      "rank": 6103,
+      "rank": 6105,
       "id": "2bad3886ce7283cf",
       "name": "バグ",
       "secondary": "かいりきベア feat.初音ミク",
@@ -145,7 +235,7 @@
       "detailPath": "entities/songs/2bad3886ce7283cf.json"
     },
     {
-      "rank": 6104,
+      "rank": 6106,
       "id": "e67350b93e0be019",
       "name": "ハグしちゃお",
       "secondary": "夏川りみ",
@@ -190,7 +280,7 @@
       "detailPath": "entities/songs/e67350b93e0be019.json"
     },
     {
-      "rank": 6105,
+      "rank": 6107,
       "id": "b5c98c8a13cd29bc",
       "name": "バクチ・ダンサー",
       "secondary": "",
@@ -232,7 +322,7 @@
       "detailPath": "entities/songs/b5c98c8a13cd29bc.json"
     },
     {
-      "rank": 6106,
+      "rank": 6108,
       "id": "5df5fb44568ec9d6",
       "name": "バケモノダンスフロア",
       "secondary": "日向電工",
@@ -274,7 +364,7 @@
       "detailPath": "entities/songs/5df5fb44568ec9d6.json"
     },
     {
-      "rank": 6107,
+      "rank": 6109,
       "id": "63f1ce4e263e37d6",
       "name": "はじまりのとき",
       "secondary": "絢香",
@@ -319,7 +409,7 @@
       "detailPath": "entities/songs/63f1ce4e263e37d6.json"
     },
     {
-      "rank": 6108,
+      "rank": 6110,
       "id": "e60df8b8c0452b07",
       "name": "はじまりはいつも雨",
       "secondary": "ASKA",
@@ -364,7 +454,7 @@
       "detailPath": "entities/songs/e60df8b8c0452b07.json"
     },
     {
-      "rank": 6109,
+      "rank": 6111,
       "id": "13e412be48a8efea",
       "name": "はじまる",
       "secondary": "",
@@ -406,7 +496,7 @@
       "detailPath": "entities/songs/13e412be48a8efea.json"
     },
     {
-      "rank": 6110,
+      "rank": 6112,
       "id": "0ce727f548af546a",
       "name": "パジャマパーティーズのうた",
       "secondary": "パジャマパーティーズ [みどり(CV:諸星すみれ)、ぴんく(CV:長縄まりあ)、しろ(CV:篠原侑)、むらさき(CV:内山茉莉)]",
@@ -451,7 +541,7 @@
       "detailPath": "entities/songs/0ce727f548af546a.json"
     },
     {
-      "rank": 6111,
+      "rank": 6113,
       "id": "809177aa93d60d40",
       "name": "パジャマパーティーズのうた\tパジャマパーティーズ",
       "secondary": "2024年2月",
@@ -496,7 +586,7 @@
       "detailPath": "entities/songs/809177aa93d60d40.json"
     },
     {
-      "rank": 6112,
+      "rank": 6114,
       "id": "e1d2f0e0d665cd1d",
       "name": "はたちの歌",
       "secondary": "琥珀ひなた",
@@ -541,7 +631,7 @@
       "detailPath": "entities/songs/e1d2f0e0d665cd1d.json"
     },
     {
-      "rank": 6113,
+      "rank": 6115,
       "id": "972b11a85d301aa0",
       "name": "ハチミツ",
       "secondary": "aiko",
@@ -586,7 +676,7 @@
       "detailPath": "entities/songs/972b11a85d301aa0.json"
     },
     {
-      "rank": 6114,
+      "rank": 6116,
       "id": "8171e25d896ecba9",
       "name": "ハッピー・ジャムジャム",
       "secondary": "M・S・J",
@@ -631,7 +721,7 @@
       "detailPath": "entities/songs/8171e25d896ecba9.json"
     },
     {
-      "rank": 6115,
+      "rank": 6117,
       "id": "d60aa7750db331de",
       "name": "ハッピーエンド",
       "secondary": "back numberｻﾝ",
@@ -677,7 +767,7 @@
       "detailPath": "entities/songs/d60aa7750db331de.json"
     },
     {
-      "rank": 6116,
+      "rank": 6118,
       "id": "ea48a52ebed35575",
       "name": "ハッピーシンセサイザー",
       "secondary": "EasyPop feat.巡音ルカ・GUMI",
@@ -722,7 +812,7 @@
       "detailPath": "entities/songs/ea48a52ebed35575.json"
     },
     {
-      "rank": 6117,
+      "rank": 6119,
       "id": "6aaefd98f81b0ad5",
       "name": "ハナノユメ",
       "secondary": "チャットモンチー",
@@ -767,7 +857,7 @@
       "detailPath": "entities/songs/6aaefd98f81b0ad5.json"
     },
     {
-      "rank": 6118,
+      "rank": 6120,
       "id": "6013ba833ec8651e",
       "name": "ハナマル☆センセイション",
       "secondary": "Little Non",
@@ -812,7 +902,7 @@
       "detailPath": "entities/songs/6013ba833ec8651e.json"
     },
     {
-      "rank": 6119,
+      "rank": 6121,
       "id": "c1b0434a7d392e7e",
       "name": "ハナミズキ",
       "secondary": "一靑 窈",
@@ -854,7 +944,7 @@
       "detailPath": "entities/songs/c1b0434a7d392e7e.json"
     },
     {
-      "rank": 6120,
+      "rank": 6122,
       "id": "0f388c00aa6c2bac",
       "name": "バニーガール",
       "secondary": "AKASAKI",
@@ -899,7 +989,7 @@
       "detailPath": "entities/songs/0f388c00aa6c2bac.json"
     },
     {
-      "rank": 6121,
+      "rank": 6123,
       "id": "87acdbb7f09ce5b6",
       "name": "バニラソルト",
       "secondary": "堀江由衣",
@@ -944,7 +1034,7 @@
       "detailPath": "entities/songs/87acdbb7f09ce5b6.json"
     },
     {
-      "rank": 6122,
+      "rank": 6124,
       "id": "4da35918dcb71d92",
       "name": "ババーンと推参！バーンブレイバーン",
       "secondary": "ブレイバーン (Cv. 鈴村健一) / JS",
@@ -989,7 +1079,7 @@
       "detailPath": "entities/songs/4da35918dcb71d92.json"
     },
     {
-      "rank": 6123,
+      "rank": 6125,
       "id": "b35db35037dd0f17",
       "name": "パピヨン～papillon～",
       "secondary": "島谷ひとみ",
@@ -1034,7 +1124,7 @@
       "detailPath": "entities/songs/b35db35037dd0f17.json"
     },
     {
-      "rank": 6124,
+      "rank": 6126,
       "id": "a3e3dbf3a98727c6",
       "name": "パプリカ",
       "secondary": "",
@@ -1079,7 +1169,7 @@
       "detailPath": "entities/songs/a3e3dbf3a98727c6.json"
     },
     {
-      "rank": 6125,
+      "rank": 6127,
       "id": "e4dd462e863c3360",
       "name": "はやく夜へ",
       "secondary": "水槽",
@@ -1124,7 +1214,7 @@
       "detailPath": "entities/songs/e4dd462e863c3360.json"
     },
     {
-      "rank": 6126,
+      "rank": 6128,
       "id": "e013cb2ed517d6c6",
       "name": "パラボラ",
       "secondary": "Official髭男dism",
@@ -1169,7 +1259,7 @@
       "detailPath": "entities/songs/e013cb2ed517d6c6.json"
     },
     {
-      "rank": 6127,
+      "rank": 6129,
       "id": "a5c850ac388cad50",
       "name": "バラライカ",
       "secondary": "月島きらり(久住小春)",
@@ -1214,7 +1304,7 @@
       "detailPath": "entities/songs/a5c850ac388cad50.json"
     },
     {
-      "rank": 6128,
+      "rank": 6130,
       "id": "da12bc0fa1cdc4be",
       "name": "ハルジオン",
       "secondary": "YOASOBI ／ むこうのくに(2020年)",
@@ -1256,7 +1346,7 @@
       "detailPath": "entities/songs/da12bc0fa1cdc4be.json"
     },
     {
-      "rank": 6129,
+      "rank": 6131,
       "id": "846cc49f43b0ab3a",
       "name": "バレンタイン・キッス",
       "secondary": "国生さゆりwithおニャン子クラブ",
@@ -1301,7 +1391,7 @@
       "detailPath": "entities/songs/846cc49f43b0ab3a.json"
     },
     {
-      "rank": 6130,
+      "rank": 6132,
       "id": "b04cf82dc5e26fd6",
       "name": "ハレ晴れユカイ",
       "secondary": "涼宮ハルヒ(CV.平野綾)、長門有希(CV.茅原実里)、朝比奈みくる(CV.後藤邑子)",
@@ -1346,7 +1436,7 @@
       "detailPath": "entities/songs/b04cf82dc5e26fd6.json"
     },
     {
-      "rank": 6131,
+      "rank": 6133,
       "id": "7174c8ef40df01be",
       "name": "ハロ",
       "secondary": "ハワユ / ナノウ",
@@ -1388,7 +1478,7 @@
       "detailPath": "entities/songs/7174c8ef40df01be.json"
     },
     {
-      "rank": 6132,
+      "rank": 6134,
       "id": "460e13e6ed2d91f8",
       "name": "ハロ ハワユ",
       "secondary": "",
@@ -1433,7 +1523,7 @@
       "detailPath": "entities/songs/460e13e6ed2d91f8.json"
     },
     {
-      "rank": 6133,
+      "rank": 6135,
       "id": "4249686f055f1551",
       "name": "ハローマリーナ",
       "secondary": "稲葉曇",
@@ -1478,7 +1568,7 @@
       "detailPath": "entities/songs/4249686f055f1551.json"
     },
     {
-      "rank": 6134,
+      "rank": 6136,
       "id": "ae687d72f313104e",
       "name": "パンこげこげになっちゃった",
       "secondary": "picdo feat.足立レイ",
@@ -1523,7 +1613,7 @@
       "detailPath": "entities/songs/ae687d72f313104e.json"
     },
     {
-      "rank": 6135,
+      "rank": 6137,
       "id": "60c62d94c638b87e",
       "name": "パンダヒーロー",
       "secondary": "ハチ(米津玄師)",
@@ -1568,7 +1658,7 @@
       "detailPath": "entities/songs/60c62d94c638b87e.json"
     },
     {
-      "rank": 6136,
+      "rank": 6138,
       "id": "fbab5074b46a7c0d",
       "name": "パンダヒーロー・Panda Hero",
       "secondary": "ハチ（米津玄師）",
@@ -1613,7 +1703,7 @@
       "detailPath": "entities/songs/fbab5074b46a7c0d.json"
     },
     {
-      "rank": 6137,
+      "rank": 6139,
       "id": "df5ecfd1d76d97ea",
       "name": "ピエロ",
       "secondary": "B'z",
@@ -1658,7 +1748,7 @@
       "detailPath": "entities/songs/df5ecfd1d76d97ea.json"
     },
     {
-      "rank": 6138,
+      "rank": 6140,
       "id": "ce7d307064b9513b",
       "name": "ピエロ",
       "secondary": "上木彩矢",
@@ -1700,7 +1790,7 @@
       "detailPath": "entities/songs/ce7d307064b9513b.json"
     },
     {
-      "rank": 6139,
+      "rank": 6141,
       "id": "a8383ec7d6d210e1",
       "name": "ピエロ",
       "secondary": "",
@@ -1745,7 +1835,7 @@
       "detailPath": "entities/songs/a8383ec7d6d210e1.json"
     },
     {
-      "rank": 6140,
+      "rank": 6142,
       "id": "bc8894ab50e2af58",
       "name": "ヒカリアレ",
       "secondary": "BURNOUT SYNDROMES",
@@ -1790,7 +1880,7 @@
       "detailPath": "entities/songs/bc8894ab50e2af58.json"
     },
     {
-      "rank": 6141,
+      "rank": 6143,
       "id": "6701ded108eee8b1",
       "name": "ヒカリヘ",
       "secondary": "ザ・ベイビースターズ",
@@ -1835,7 +1925,7 @@
       "detailPath": "entities/songs/6701ded108eee8b1.json"
     },
     {
-      "rank": 6142,
+      "rank": 6144,
       "id": "5f6b7aaf2deb34e8",
       "name": "ヒグチアイ",
       "secondary": "悪魔の子",
@@ -1880,7 +1970,7 @@
       "detailPath": "entities/songs/5f6b7aaf2deb34e8.json"
     },
     {
-      "rank": 6143,
+      "rank": 6145,
       "id": "9ccb19d5bbcfb545",
       "name": "ひこうき雲",
       "secondary": "",
@@ -1925,7 +2015,7 @@
       "detailPath": "entities/songs/9ccb19d5bbcfb545.json"
     },
     {
-      "rank": 6144,
+      "rank": 6146,
       "id": "73cedc49480f59e0",
       "name": "ヒステリックナイトガール",
       "secondary": "PSYQUI feat. Such",
@@ -1970,7 +2060,7 @@
       "detailPath": "entities/songs/73cedc49480f59e0.json"
     },
     {
-      "rank": 6145,
+      "rank": 6147,
       "id": "2fe9ba697d6a0e3b",
       "name": "ピストル",
       "secondary": "Acid Black Cherry",
@@ -2015,7 +2105,7 @@
       "detailPath": "entities/songs/2fe9ba697d6a0e3b.json"
     },
     {
-      "rank": 6146,
+      "rank": 6148,
       "id": "769f8b9f76ce4979",
       "name": "ひたむき",
       "secondary": "SUPER BEAVER",
@@ -2060,7 +2150,7 @@
       "detailPath": "entities/songs/769f8b9f76ce4979.json"
     },
     {
-      "rank": 6147,
+      "rank": 6149,
       "id": "5c148ee68935450a",
       "name": "ひたむきシンデレラ！",
       "secondary": "",
@@ -2105,7 +2195,7 @@
       "detailPath": "entities/songs/5c148ee68935450a.json"
     },
     {
-      "rank": 6148,
+      "rank": 6150,
       "id": "aeb1620a40652350",
       "name": "ヒトガタ",
       "secondary": "HIMEHINA",
@@ -2148,93 +2238,6 @@
         }
       ],
       "detailPath": "entities/songs/aeb1620a40652350.json"
-    },
-    {
-      "rank": 6149,
-      "id": "fff3235b66765260",
-      "name": "ひとりごつ",
-      "secondary": "ちいかわ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "AJj6iwBb_i0",
-          "videoTitle": "シルバーウィーク最後の日は！好きな曲を歌いまくる！🎧 | #初見さん大歓迎",
-          "channelName": "山羊々:Yagihitsuji",
-          "publishedAt": "2026-09-22T12:43:01.034Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AJj6iwBb_i0/hqdefault.jpg",
-          "sourcePath": "sources/AJ/AJj6iwBb_i0.json",
-          "time": "0:23:47",
-          "seconds": 1427,
-          "songTitle": "ひとりごつ",
-          "artist": "ちいかわ"
-        },
-        {
-          "videoId": "IHZkLrJvXWw",
-          "videoTitle": "9/14 夜 リクエスト歌枠。＜70年代～90年代多め。アニソン特撮ソングレパートリー2200曲＞ #vtuver",
-          "channelName": "murasaki songs",
-          "publishedAt": "2026-09-14T16:35:19.442Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/IHZkLrJvXWw/hqdefault.jpg",
-          "sourcePath": "sources/IH/IHZkLrJvXWw.json",
-          "time": "0:32:04",
-          "seconds": 1924,
-          "songTitle": "ひとりごつ",
-          "artist": "ちいかわ"
-        }
-      ],
-      "detailPath": "entities/songs/fff3235b66765260.json"
-    },
-    {
-      "rank": 6150,
-      "id": "f5439d8a9b8430f8",
-      "name": "ひとりごつ",
-      "secondary": "ハチワレ(田中誠人) ／ ちいかわ(2022年)",
-      "channelId": "UCCtRWnIUz1LRp-TI5gaw6gw",
-      "channelHandle": "@maria_amunea",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "TW_E-_BGRv4",
-          "videoTitle": "【歌枠/耐久】優しい皆さんオラに力をわけてくれ！ 戦闘力５３万目指す！！ 【初見さん歓迎/karaokestream /Vtuber /#karaoke 】",
-          "channelName": "マリア・アムネア.CH👼",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TW_E-_BGRv4/hqdefault.jpg",
-          "sourcePath": "sources/TW/TW_E-_BGRv4.json",
-          "time": "4:45:10",
-          "seconds": 17110,
-          "songTitle": "ひとりごつ",
-          "artist": "ハチワレ(田中誠人) ／ ちいかわ(2022年)"
-        },
-        {
-          "videoId": "KFXmYsw3IxA",
-          "videoTitle": "【歌枠/#歌枠配信】一曲だけでもきいてって！ きてくれた人数分くらいｳﾀｲﾀｲ！頭痛やだ！！ 【初見さん歓迎/karaokestream /Vtuber /#karaoke 】",
-          "channelName": "マリア・アムネア.CH👼",
-          "publishedAt": "2026-09-20T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KFXmYsw3IxA/hqdefault.jpg",
-          "sourcePath": "sources/KF/KFXmYsw3IxA.json",
-          "time": "0:06:29",
-          "seconds": 389,
-          "songTitle": "ひとりごつ",
-          "artist": "ハチワレ(田中誠人) ／ ちいかわ(2022年)"
-        }
-      ],
-      "detailPath": "entities/songs/f5439d8a9b8430f8.json"
     }
   ]
 }

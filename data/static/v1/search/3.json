@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "items": [
     {
       "id": "39a61459a594a675",
@@ -7492,8 +7492,8 @@
       "type": "songs",
       "name": "Blue Jeans",
       "secondary": "HANA",
-      "occurrenceCount": 31,
-      "videoCount": 31,
+      "occurrenceCount": 32,
+      "videoCount": 32,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -7510,8 +7510,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 8,
-          "videoCount": 8
+          "occurrenceCount": 9,
+          "videoCount": 9
         }
       },
       "text": "bluejeanshana"
@@ -16683,17 +16683,24 @@
       "type": "songs",
       "name": "(please)forgive",
       "secondary": "BUMP OF CHICKEN",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/3b4642355258690b.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "pleaseforgivebumpofchicken"
     },
     {
@@ -76445,8 +76452,8 @@
       "type": "artists",
       "name": "ヨルシカ",
       "secondary": "",
-      "occurrenceCount": 6366,
-      "videoCount": 3031,
+      "occurrenceCount": 6367,
+      "videoCount": 3032,
       "keywords": [
         "karaoke",
         "month",
@@ -76474,8 +76481,8 @@
           "videoCount": 74
         },
         "30d": {
-          "occurrenceCount": 2316,
-          "videoCount": 1119
+          "occurrenceCount": 2317,
+          "videoCount": 1120
         }
       },
       "text": "ヨルシカ"
@@ -77038,8 +77045,8 @@
       "type": "artists",
       "name": "AKINO",
       "secondary": "",
-      "occurrenceCount": 318,
-      "videoCount": 305,
+      "occurrenceCount": 319,
+      "videoCount": 306,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77065,8 +77072,8 @@
           "videoCount": 9
         },
         "30d": {
-          "occurrenceCount": 124,
-          "videoCount": 120
+          "occurrenceCount": 125,
+          "videoCount": 121
         }
       },
       "text": "akino"
@@ -79923,8 +79930,8 @@
       "type": "artists",
       "name": "案山子",
       "secondary": "",
-      "occurrenceCount": 15,
-      "videoCount": 15,
+      "occurrenceCount": 16,
+      "videoCount": 16,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -79938,8 +79945,8 @@
       "detailPath": "entities/artists/31e159c5d86e21da.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 7,
-          "videoCount": 7
+          "occurrenceCount": 8,
+          "videoCount": 8
         }
       },
       "text": "案山子"

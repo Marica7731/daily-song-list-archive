@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "artists",
   "page": 17,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10870,
+  "totalCount": 10871,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1477,6 +1477,63 @@
     },
     {
       "rank": 827,
+      "id": "fb437ba43e6c98c3",
+      "name": "ダズビー",
+      "secondary": "",
+      "channelId": "UC_eiXiNIBK-GzmM1jiY7OHA",
+      "channelHandle": "@CYBILL_ch",
+      "channelUrl": "",
+      "occurrenceCount": 10,
+      "videoCount": 10,
+      "songCount": 7,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "F6deKXIIW_k",
+          "videoTitle": "【#歌枠】ちょ～～っと豪華になった歌枠！【ナナハチキュウ】",
+          "channelName": "ナナハチキュウ / Nanahachi Ch.",
+          "publishedAt": "2026-10-06T15:04:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/F6deKXIIW_k/hqdefault.jpg",
+          "sourcePath": "sources/F6/F6deKXIIW_k.json",
+          "time": "2:14:35",
+          "seconds": 8075,
+          "songTitle": "蜜月アン・ドゥ・トロワ",
+          "artist": "ダズビー"
+        },
+        {
+          "videoId": "pauzp4rVrlQ",
+          "videoTitle": "【 #歌枠 】久々にカラろ🎤🎶という日曜 【常勝無敗ぐぬぬ / ビバップ高校】",
+          "channelName": "常勝無敗ぐぬぬ - Makenashi Gununu -/ ビバップ高校",
+          "publishedAt": "2026-10-04T13:51:44.743Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pauzp4rVrlQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB05MpIPZ1LIe_awzTsixVCclZthw",
+          "sourcePath": "sources/pa/pauzp4rVrlQ.json",
+          "time": "0:29:56",
+          "seconds": 1796,
+          "songTitle": "愛じゃない",
+          "artist": "ダズビー"
+        },
+        {
+          "videoId": "2knjrdKJKCY",
+          "videoTitle": "【歌枠 】深夜にまったり歌います🌙 初見・ROM・寝落ち歓迎✨【KAZUNE】",
+          "channelName": "KAZUNE ch.",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2knjrdKJKCY/hqdefault.jpg",
+          "sourcePath": "sources/2k/2knjrdKJKCY.json",
+          "time": "0:57:17",
+          "seconds": 3437,
+          "songTitle": "ふたたび巡り会う軌跡",
+          "artist": "ダズビー"
+        }
+      ],
+      "detailPath": "entities/artists/fb437ba43e6c98c3.json"
+    },
+    {
+      "rank": 828,
       "id": "fbdb08ee70c3dcb0",
       "name": "ナノウ feat. 初音ミク",
       "secondary": "",
@@ -1533,7 +1590,7 @@
       "detailPath": "entities/artists/fbdb08ee70c3dcb0.json"
     },
     {
-      "rank": 828,
+      "rank": 829,
       "id": "88e70d9b45317761",
       "name": "ハワユ",
       "secondary": "",
@@ -1591,7 +1648,7 @@
       "detailPath": "entities/artists/88e70d9b45317761.json"
     },
     {
-      "rank": 829,
+      "rank": 830,
       "id": "2e78a62384c5f537",
       "name": "ブレンド・A",
       "secondary": "",
@@ -1648,7 +1705,7 @@
       "detailPath": "entities/artists/2e78a62384c5f537.json"
     },
     {
-      "rank": 830,
+      "rank": 831,
       "id": "bcdbd64e4ed49bf0",
       "name": "ぼーかりおどP",
       "secondary": "",
@@ -1705,7 +1762,7 @@
       "detailPath": "entities/artists/bcdbd64e4ed49bf0.json"
     },
     {
-      "rank": 831,
+      "rank": 832,
       "id": "ccb06297534c8f32",
       "name": "亜咲花",
       "secondary": "",
@@ -1764,7 +1821,7 @@
       "detailPath": "entities/artists/ccb06297534c8f32.json"
     },
     {
-      "rank": 832,
+      "rank": 833,
       "id": "90a7cdc53e035e6c",
       "name": "歌組雪月花",
       "secondary": "",
@@ -1821,7 +1878,7 @@
       "detailPath": "entities/artists/90a7cdc53e035e6c.json"
     },
     {
-      "rank": 833,
+      "rank": 834,
       "id": "760b91712d7963cc",
       "name": "角田信朗＆いはたじゅり",
       "secondary": "",
@@ -1878,7 +1935,7 @@
       "detailPath": "entities/artists/760b91712d7963cc.json"
     },
     {
-      "rank": 834,
+      "rank": 835,
       "id": "b6ead279bd15042b",
       "name": "岩見拓馬",
       "secondary": "",
@@ -1936,7 +1993,7 @@
       "detailPath": "entities/artists/b6ead279bd15042b.json"
     },
     {
-      "rank": 835,
+      "rank": 836,
       "id": "0137263fd35c20f7",
       "name": "清浦夏実",
       "secondary": "",
@@ -1993,7 +2050,7 @@
       "detailPath": "entities/artists/0137263fd35c20f7.json"
     },
     {
-      "rank": 836,
+      "rank": 837,
       "id": "ea0ea1f4e28efde8",
       "name": "赤い鳥",
       "secondary": "",
@@ -2051,7 +2108,7 @@
       "detailPath": "entities/artists/ea0ea1f4e28efde8.json"
     },
     {
-      "rank": 837,
+      "rank": 838,
       "id": "1cdd11cf675d1904",
       "name": "千石撫子",
       "secondary": "",
@@ -2108,7 +2165,7 @@
       "detailPath": "entities/artists/1cdd11cf675d1904.json"
     },
     {
-      "rank": 838,
+      "rank": 839,
       "id": "95618d6c1490f924",
       "name": "千綿偉功",
       "secondary": "",
@@ -2166,7 +2223,7 @@
       "detailPath": "entities/artists/95618d6c1490f924.json"
     },
     {
-      "rank": 839,
+      "rank": 840,
       "id": "1fcd3e4313a93d35",
       "name": "大森靖子",
       "secondary": "",
@@ -2224,7 +2281,7 @@
       "detailPath": "entities/artists/1fcd3e4313a93d35.json"
     },
     {
-      "rank": 840,
+      "rank": 841,
       "id": "8c7f25883a0972fd",
       "name": "不破湊",
       "secondary": "",
@@ -2281,7 +2338,7 @@
       "detailPath": "entities/artists/8c7f25883a0972fd.json"
     },
     {
-      "rank": 841,
+      "rank": 842,
       "id": "939fe174c8816275",
       "name": "富永TOMMY弘明",
       "secondary": "",
@@ -2338,7 +2395,7 @@
       "detailPath": "entities/artists/939fe174c8816275.json"
     },
     {
-      "rank": 842,
+      "rank": 843,
       "id": "98df1176673d8320",
       "name": "冨田悠斗(とみー/T-POCKET)",
       "secondary": "",
@@ -2395,7 +2452,7 @@
       "detailPath": "entities/artists/98df1176673d8320.json"
     },
     {
-      "rank": 843,
+      "rank": 844,
       "id": "0b7702ae0728736d",
       "name": "平井大",
       "secondary": "",
@@ -2453,7 +2510,7 @@
       "detailPath": "entities/artists/0b7702ae0728736d.json"
     },
     {
-      "rank": 844,
+      "rank": 845,
       "id": "18f94966f9762e3f",
       "name": "Adele",
       "secondary": "",
@@ -2510,7 +2567,7 @@
       "detailPath": "entities/artists/18f94966f9762e3f.json"
     },
     {
-      "rank": 845,
+      "rank": 846,
       "id": "844f630f3975de3c",
       "name": "FUNKIST",
       "secondary": "",
@@ -2567,7 +2624,7 @@
       "detailPath": "entities/artists/844f630f3975de3c.json"
     },
     {
-      "rank": 846,
+      "rank": 847,
       "id": "a105800a1ab54a9c",
       "name": "keeno feat.初音ミク",
       "secondary": "",
@@ -2625,7 +2682,7 @@
       "detailPath": "entities/artists/a105800a1ab54a9c.json"
     },
     {
-      "rank": 847,
+      "rank": 848,
       "id": "231b97efb922216b",
       "name": "lily white",
       "secondary": "",
@@ -2682,7 +2739,7 @@
       "detailPath": "entities/artists/231b97efb922216b.json"
     },
     {
-      "rank": 848,
+      "rank": 849,
       "id": "2723177121c29809",
       "name": "Romantic Mode",
       "secondary": "",
@@ -2739,7 +2796,7 @@
       "detailPath": "entities/artists/2723177121c29809.json"
     },
     {
-      "rank": 849,
+      "rank": 850,
       "id": "18a2819130983f6c",
       "name": "Vivid BAD SQUAD",
       "secondary": "",
@@ -2794,63 +2851,6 @@
         }
       ],
       "detailPath": "entities/artists/18a2819130983f6c.json"
-    },
-    {
-      "rank": 850,
-      "id": "c123b906c798908f",
-      "name": "YOASOBI ※JOYSOUND",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 10,
-      "videoCount": 9,
-      "songCount": 6,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Ou-KeRce7yk",
-          "videoTitle": "【#歌枠】初見さん来ないと歌えない⁉【可否モカ/Vtuber】",
-          "channelName": "可否モカ / Kahi Mocha",
-          "publishedAt": "2026-10-03T10:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Ou-KeRce7yk/hqdefault.jpg",
-          "sourcePath": "sources/Ou/Ou-KeRce7yk.json",
-          "time": "3:49:14",
-          "seconds": 13754,
-          "songTitle": "アイドル",
-          "artist": "YOASOBI ※JOYSOUND"
-        },
-        {
-          "videoId": "N38zAAKfCAs",
-          "videoTitle": "【歌枠/Singing Stream】月曜日元気にいきましょ～！🌼✨初見歓迎 #karaoke 【#Ria_Live / #新人Vtuber】",
-          "channelName": "花栖リア",
-          "publishedAt": "2026-09-28T01:13:07.807Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/N38zAAKfCAs/hqdefault.jpg",
-          "sourcePath": "sources/N3/N38zAAKfCAs.json",
-          "time": "0:44:57",
-          "seconds": 2697,
-          "songTitle": "あの夢をなぞって",
-          "artist": "YOASOBI ※JOYSOUND"
-        },
-        {
-          "videoId": "E64FP_lJgMI",
-          "videoTitle": "【#歌枠 】💮24名で締めました💮初見さんが来ないと歌えない！？歌わせてください💦🪐👾【#新人vtuber 】#宇宙真央",
-          "channelName": "宇宙真央 / Uchu Mao",
-          "publishedAt": "2026-09-27T08:45:05.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/E64FP_lJgMI/hqdefault.jpg",
-          "sourcePath": "sources/E6/E64FP_lJgMI.json",
-          "time": "0:40:23",
-          "seconds": 2423,
-          "songTitle": "群青",
-          "artist": "YOASOBI ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/artists/c123b906c798908f.json"
     }
   ]
 }

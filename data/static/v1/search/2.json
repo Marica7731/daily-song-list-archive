@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "items": [
     {
       "id": "27dcb84e7dea1864",
@@ -19276,8 +19276,8 @@
       "type": "songs",
       "name": "友達の唄",
       "secondary": "BUMP OF CHICKEN",
-      "occurrenceCount": 6,
-      "videoCount": 6,
+      "occurrenceCount": 7,
+      "videoCount": 7,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -19294,8 +19294,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 4,
+          "videoCount": 4
         }
       },
       "text": "友達の唄bumpofchicken"
@@ -55149,8 +55149,8 @@
       "type": "songs",
       "name": "モーターサイクル",
       "secondary": "BUMP OF CHICKEN",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
         "弾き語り",
@@ -55161,8 +55161,8 @@
       "detailPath": "entities/songs/221506532b7a76e7.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "モーターサイクルbumpofchicken"
@@ -71175,6 +71175,31 @@
       "text": "05onegaidarlinnanahoshikangengakudanftone"
     },
     {
+      "id": "2b914786726b21c4",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "孤独の合唱",
+      "secondary": "BUMP OF CHICKEN",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/2b914786726b21c4.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "孤独の合唱bumpofchicken"
+    },
+    {
       "id": "22015997457b9ffb",
       "channelId": "",
       "channelHandle": "",
@@ -74944,8 +74969,8 @@
       "type": "artists",
       "name": "RADWIMPS",
       "secondary": "",
-      "occurrenceCount": 1442,
-      "videoCount": 911,
+      "occurrenceCount": 1443,
+      "videoCount": 912,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -74971,8 +74996,8 @@
           "videoCount": 30
         },
         "30d": {
-          "occurrenceCount": 523,
-          "videoCount": 346
+          "occurrenceCount": 524,
+          "videoCount": 347
         }
       },
       "text": "radwimps"

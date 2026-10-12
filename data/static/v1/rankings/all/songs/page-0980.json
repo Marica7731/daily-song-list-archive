@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 980,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 48951,
+      "id": "499935223b10ca16",
+      "name": "桃源郷エイリアン",
+      "secondary": "serial TV drama ※JOYSOUND",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "b6WoUsc-Qy4",
+          "videoTitle": "【歌枠】 チケット1枚買ってもらえるようにいっぱい歌う🎤 【#虎蝶奏】",
+          "channelName": "虎蝶 奏 / Kocho Kanade",
+          "publishedAt": "2026-09-17T13:16:13.549Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/b6WoUsc-Qy4/hqdefault.jpg",
+          "sourcePath": "sources/b6/b6WoUsc-Qy4.json",
+          "time": "0:40:46",
+          "seconds": 2446,
+          "songTitle": "桃源郷エイリアン",
+          "artist": "serial TV drama ※JOYSOUND"
+        }
+      ],
+      "detailPath": "entities/songs/499935223b10ca16.json"
+    },
+    {
+      "rank": 48952,
+      "id": "c4792795aebeb5d8",
+      "name": "桃源郷エイリアン",
+      "secondary": "serial TV drama ／ 銀魂'(2011年)",
+      "channelId": "UCCtRWnIUz1LRp-TI5gaw6gw",
+      "channelHandle": "@maria_amunea",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TW_E-_BGRv4",
+          "videoTitle": "【歌枠/耐久】優しい皆さんオラに力をわけてくれ！ 戦闘力５３万目指す！！ 【初見さん歓迎/karaokestream /Vtuber /#karaoke 】",
+          "channelName": "マリア・アムネア.CH👼",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TW_E-_BGRv4/hqdefault.jpg",
+          "sourcePath": "sources/TW/TW_E-_BGRv4.json",
+          "time": "3:27:55",
+          "seconds": 12475,
+          "songTitle": "桃源郷エイリアン",
+          "artist": "serial TV drama ／ 銀魂'(2011年)"
+        }
+      ],
+      "detailPath": "entities/songs/c4792795aebeb5d8.json"
+    },
+    {
+      "rank": 48953,
       "id": "c06fa1e526abb178",
       "name": "桃源郷とタクシー",
       "secondary": "Mega Shinnosuke",
@@ -44,7 +107,7 @@
       "detailPath": "entities/songs/c06fa1e526abb178.json"
     },
     {
-      "rank": 48952,
+      "rank": 48954,
       "id": "f1910b387c470c26",
       "name": "桃源恋歌",
       "secondary": "Tougen Renka",
@@ -78,7 +141,7 @@
       "detailPath": "entities/songs/f1910b387c470c26.json"
     },
     {
-      "rank": 48953,
+      "rank": 48955,
       "id": "7a59cffe9f522144",
       "name": "桃色スパークリング",
       "secondary": "℃-ute",
@@ -112,7 +175,7 @@
       "detailPath": "entities/songs/7a59cffe9f522144.json"
     },
     {
-      "rank": 48954,
+      "rank": 48956,
       "id": "e1ff231415e92b66",
       "name": "桃色の血潮",
       "secondary": "",
@@ -145,7 +208,7 @@
       "detailPath": "entities/songs/e1ff231415e92b66.json"
     },
     {
-      "rank": 48955,
+      "rank": 48957,
       "id": "623061e943d3e003",
       "name": "桃色の片想い",
       "secondary": "松浦亜弥",
@@ -178,7 +241,7 @@
       "detailPath": "entities/songs/623061e943d3e003.json"
     },
     {
-      "rank": 48956,
+      "rank": 48958,
       "id": "7cdc1de3c1a4a743",
       "name": "桃色ヒーリング(コール練習)",
       "secondary": "憩居ももあ",
@@ -211,7 +274,7 @@
       "detailPath": "entities/songs/7cdc1de3c1a4a743.json"
     },
     {
-      "rank": 48957,
+      "rank": 48959,
       "id": "ff60e68a17c7125e",
       "name": "桃色吐息",
       "secondary": "髙橋真梨子",
@@ -244,7 +307,7 @@
       "detailPath": "entities/songs/ff60e68a17c7125e.json"
     },
     {
-      "rank": 48958,
+      "rank": 48960,
       "id": "25e0acc4f9ae2c5a",
       "name": "桃色吐息 高橋真梨子",
       "secondary": "1984",
@@ -274,7 +337,7 @@
       "detailPath": "entities/songs/25e0acc4f9ae2c5a.json"
     },
     {
-      "rank": 48959,
+      "rank": 48961,
       "id": "9c8d670970dc4fcc",
       "name": "桃色片思い♡",
       "secondary": "",
@@ -307,7 +370,7 @@
       "detailPath": "entities/songs/9c8d670970dc4fcc.json"
     },
     {
-      "rank": 48960,
+      "rank": 48962,
       "id": "72b93bbefb77640c",
       "name": "桃色片想い♡",
       "secondary": "松浦亜弥（2002）※1回目失敗",
@@ -340,7 +403,7 @@
       "detailPath": "entities/songs/72b93bbefb77640c.json"
     },
     {
-      "rank": 48961,
+      "rank": 48963,
       "id": "50efc3fb958a270b",
       "name": "桃色片想い♡",
       "secondary": "松浦亜弥（2002）※2回目リベンジ",
@@ -373,7 +436,7 @@
       "detailPath": "entities/songs/50efc3fb958a270b.json"
     },
     {
-      "rank": 48962,
+      "rank": 48964,
       "id": "408196cb507f8dbb",
       "name": "桃色片想い♡",
       "secondary": "松浦亜弥 𝟚𝟘𝟘𝟚",
@@ -406,7 +469,7 @@
       "detailPath": "entities/songs/408196cb507f8dbb.json"
     },
     {
-      "rank": 48963,
+      "rank": 48965,
       "id": "f0d020330bcc375f",
       "name": "桃鈴ねね",
       "secondary": "ねねちのギラギラファンミーティング",
@@ -440,7 +503,7 @@
       "detailPath": "entities/songs/f0d020330bcc375f.json"
     },
     {
-      "rank": 48964,
+      "rank": 48966,
       "id": "c425a7c3851ce6f1",
       "name": "灯の旋律",
       "secondary": "未記載",
@@ -473,7 +536,7 @@
       "detailPath": "entities/songs/c425a7c3851ce6f1.json"
     },
     {
-      "rank": 48965,
+      "rank": 48967,
       "id": "7bbe68cca41bcbb1",
       "name": "灯り",
       "secondary": "宮崎奈穂子(ｵﾘｼﾞﾅﾙ)",
@@ -506,7 +569,7 @@
       "detailPath": "entities/songs/7bbe68cca41bcbb1.json"
     },
     {
-      "rank": 48966,
+      "rank": 48968,
       "id": "3fd3f41bee44fefa",
       "name": "灯影",
       "secondary": "Kalafina",
@@ -539,7 +602,7 @@
       "detailPath": "entities/songs/3fd3f41bee44fefa.json"
     },
     {
-      "rank": 48967,
+      "rank": 48969,
       "id": "9d40930b274194e3",
       "name": "灯火",
       "secondary": "Vaundy",
@@ -571,7 +634,7 @@
       "detailPath": "entities/songs/9d40930b274194e3.json"
     },
     {
-      "rank": 48968,
+      "rank": 48970,
       "id": "8bdc81f2bf78649e",
       "name": "灯火",
       "secondary": "DUSTCELL",
@@ -604,7 +667,7 @@
       "detailPath": "entities/songs/8bdc81f2bf78649e.json"
     },
     {
-      "rank": 48969,
+      "rank": 48971,
       "id": "f382e06f25087d18",
       "name": "灯火",
       "secondary": "Mrs. GREEN APPLE",
@@ -637,7 +700,7 @@
       "detailPath": "entities/songs/f382e06f25087d18.json"
     },
     {
-      "rank": 48970,
+      "rank": 48972,
       "id": "a14ddb05740e4c8f",
       "name": "灯火",
       "secondary": "",
@@ -670,7 +733,7 @@
       "detailPath": "entities/songs/a14ddb05740e4c8f.json"
     },
     {
-      "rank": 48971,
+      "rank": 48973,
       "id": "92f075922b9e3e28",
       "name": "灯火",
       "secondary": "nonoc",
@@ -703,7 +766,7 @@
       "detailPath": "entities/songs/92f075922b9e3e28.json"
     },
     {
-      "rank": 48972,
+      "rank": 48974,
       "id": "8654db4dce0e8253",
       "name": "灯火のまにまに",
       "secondary": "",
@@ -733,7 +796,7 @@
       "detailPath": "entities/songs/8654db4dce0e8253.json"
     },
     {
-      "rank": 48973,
+      "rank": 48975,
       "id": "79cd5817e53ca74c",
       "name": "灯台",
       "secondary": "黒木渚 (アカペラ)",
@@ -763,7 +826,7 @@
       "detailPath": "entities/songs/79cd5817e53ca74c.json"
     },
     {
-      "rank": 48974,
+      "rank": 48976,
       "id": "f71694fb08bdcd62",
       "name": "灯命",
       "secondary": "CIVILIAN",
@@ -796,7 +859,7 @@
       "detailPath": "entities/songs/f71694fb08bdcd62.json"
     },
     {
-      "rank": 48975,
+      "rank": 48977,
       "id": "38ae1dee9084449c",
       "name": "燈",
       "secondary": "崎山蒼志(アカペラ)",
@@ -828,7 +891,7 @@
       "detailPath": "entities/songs/38ae1dee9084449c.json"
     },
     {
-      "rank": 48976,
+      "rank": 48978,
       "id": "d601e7a2f9585332",
       "name": "燈色",
       "secondary": "",
@@ -861,7 +924,7 @@
       "detailPath": "entities/songs/d601e7a2f9585332.json"
     },
     {
-      "rank": 48977,
+      "rank": 48979,
       "id": "f1904a4816d4b8d4",
       "name": "燈璃ライト",
       "secondary": "Akali Laito",
@@ -891,7 +954,7 @@
       "detailPath": "entities/songs/f1904a4816d4b8d4.json"
     },
     {
-      "rank": 48978,
+      "rank": 48980,
       "id": "dca92a0cde01b41e",
       "name": "当事者 piano ver",
       "secondary": "練習",
@@ -921,7 +984,7 @@
       "detailPath": "entities/songs/dca92a0cde01b41e.json"
     },
     {
-      "rank": 48979,
+      "rank": 48981,
       "id": "080799f2012d4d2e",
       "name": "当時の髪色👱🏼♀",
       "secondary": "",
@@ -954,7 +1017,7 @@
       "detailPath": "entities/songs/080799f2012d4d2e.json"
     },
     {
-      "rank": 48980,
+      "rank": 48982,
       "id": "bc01f6068bb6ae61",
       "name": "当選発表:8",
       "secondary": "31(月)22:30",
@@ -984,7 +1047,7 @@
       "detailPath": "entities/songs/bc01f6068bb6ae61.json"
     },
     {
-      "rank": 48981,
+      "rank": 48983,
       "id": "9e27cd95fd832d38",
       "name": "当日の受け取りはお手紙のみ",
       "secondary": "",
@@ -1017,7 +1080,7 @@
       "detailPath": "entities/songs/9e27cd95fd832d38.json"
     },
     {
-      "rank": 48982,
+      "rank": 48984,
       "id": "d6ff164c91c41055",
       "name": "当日の色紙企画",
       "secondary": "",
@@ -1050,7 +1113,7 @@
       "detailPath": "entities/songs/d6ff164c91c41055.json"
     },
     {
-      "rank": 48983,
+      "rank": 48985,
       "id": "54519ea8767c34d7",
       "name": "等十三月",
       "secondary": "陳小滿",
@@ -1083,7 +1146,7 @@
       "detailPath": "entities/songs/54519ea8767c34d7.json"
     },
     {
-      "rank": 48984,
+      "rank": 48986,
       "id": "b305ff862f4218c4",
       "name": "等身大あんりみてっど",
       "secondary": "えれあ",
@@ -1116,7 +1179,7 @@
       "detailPath": "entities/songs/b305ff862f4218c4.json"
     },
     {
-      "rank": 48985,
+      "rank": 48987,
       "id": "c7600e0031f06426",
       "name": "答え合わせ",
       "secondary": "",
@@ -1146,7 +1209,7 @@
       "detailPath": "entities/songs/c7600e0031f06426.json"
     },
     {
-      "rank": 48986,
+      "rank": 48988,
       "id": "3b60e61c9d9d7871",
       "name": "到底發生過什麼事",
       "secondary": "Dear Jane",
@@ -1179,7 +1242,7 @@
       "detailPath": "entities/songs/3b60e61c9d9d7871.json"
     },
     {
-      "rank": 48987,
+      "rank": 48989,
       "id": "bab44425528d5159",
       "name": "到了可以當阿公的年紀(X",
       "secondary": "",
@@ -1212,7 +1275,7 @@
       "detailPath": "entities/songs/bab44425528d5159.json"
     },
     {
-      "rank": 48988,
+      "rank": 48990,
       "id": "165bc5fd3461882f",
       "name": "董小姐",
       "secondary": "宋冬野",
@@ -1245,7 +1308,7 @@
       "detailPath": "entities/songs/165bc5fd3461882f.json"
     },
     {
-      "rank": 48989,
+      "rank": 48991,
       "id": "cf2bad9378bd3b56",
       "name": "藤原肇",
       "secondary": "あらかねの器（EZ 點歌）",
@@ -1278,7 +1341,7 @@
       "detailPath": "entities/songs/cf2bad9378bd3b56.json"
     },
     {
-      "rank": 48990,
+      "rank": 48992,
       "id": "af13476d566ae396",
       "name": "豆知識",
       "secondary": "",
@@ -1311,7 +1374,7 @@
       "detailPath": "entities/songs/af13476d566ae396.json"
     },
     {
-      "rank": 48991,
+      "rank": 48993,
       "id": "c172c119c249b6ce",
       "name": "豆腐チョコ",
       "secondary": "未記載",
@@ -1343,7 +1406,7 @@
       "detailPath": "entities/songs/c172c119c249b6ce.json"
     },
     {
-      "rank": 48992,
+      "rank": 48994,
       "id": "8c81487c054d60f9",
       "name": "逃げ水",
       "secondary": "乃木坂46",
@@ -1376,7 +1439,7 @@
       "detailPath": "entities/songs/8c81487c054d60f9.json"
     },
     {
-      "rank": 48993,
+      "rank": 48995,
       "id": "776f6998ff8159c2",
       "name": "逃否考",
       "secondary": "月菜 (オリ曲)",
@@ -1409,7 +1472,7 @@
       "detailPath": "entities/songs/776f6998ff8159c2.json"
     },
     {
-      "rank": 48994,
+      "rank": 48996,
       "id": "5a54a87821ea8ca6",
       "name": "逃避行",
       "secondary": "未記載",
@@ -1442,7 +1505,7 @@
       "detailPath": "entities/songs/5a54a87821ea8ca6.json"
     },
     {
-      "rank": 48995,
+      "rank": 48997,
       "id": "c6daf6fe51808652",
       "name": "逃避你",
       "secondary": "容祖兒 (0識)",
@@ -1475,7 +1538,7 @@
       "detailPath": "entities/songs/c6daf6fe51808652.json"
     },
     {
-      "rank": 48996,
+      "rank": 48998,
       "id": "96e0f4eaa4642849",
       "name": "逃亡",
       "secondary": "未記載",
@@ -1507,7 +1570,7 @@
       "detailPath": "entities/songs/96e0f4eaa4642849.json"
     },
     {
-      "rank": 48997,
+      "rank": 48999,
       "id": "9a210d5d7e48cca4",
       "name": "逃亡",
       "secondary": "",
@@ -1537,7 +1600,7 @@
       "detailPath": "entities/songs/9a210d5d7e48cca4.json"
     },
     {
-      "rank": 48998,
+      "rank": 49000,
       "id": "72bebd5cf639fbae",
       "name": "逃亡",
       "secondary": "めっちゃズレててごめん",
@@ -1568,72 +1631,6 @@
         }
       ],
       "detailPath": "entities/songs/72bebd5cf639fbae.json"
-    },
-    {
-      "rank": 48999,
-      "id": "310fc0a396db1935",
-      "name": "透過夏",
-      "secondary": "Guiano",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "wZjeSHMBLEg",
-          "videoTitle": "〖 #歌枠 | #Karaoke 〗夏曲縛りで歌います🌻🍃〖 しほ / Shiho 〗",
-          "channelName": "しほ / shiho",
-          "publishedAt": "2026-08-27T15:50:13.758Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wZjeSHMBLEg/hqdefault.jpg",
-          "sourcePath": "sources/wZ/wZjeSHMBLEg.json",
-          "time": "0:13:44",
-          "seconds": 824,
-          "songTitle": "透過夏",
-          "artist": "Guiano"
-        }
-      ],
-      "detailPath": "entities/songs/310fc0a396db1935.json"
-    },
-    {
-      "rank": 49000,
-      "id": "f2142e7365b9b6ac",
-      "name": "透明アンサー",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "zenIg0gnMIQ",
-          "videoTitle": "歌枠🎤10日ほど遅れてカゲプロ縛り〖紺瀬のあ┊個人勢Vtuber〗",
-          "channelName": "紺瀬のあ / KonseNoah",
-          "publishedAt": "2026-08-26T15:45:22.879Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zenIg0gnMIQ/hqdefault.jpg",
-          "sourcePath": "sources/ze/zenIg0gnMIQ.json",
-          "time": "0:39:33",
-          "seconds": 2373,
-          "songTitle": "透明アンサー",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/f2142e7365b9b6ac.json"
     }
   ]
 }

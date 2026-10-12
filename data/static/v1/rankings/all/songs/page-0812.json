@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 812,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 40551,
+      "id": "0d2181c6e45bd0dd",
+      "name": "ろりこんでよかった~",
+      "secondary": "Takebo3",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "cuyhgATYqKo",
+          "videoTitle": "【 縦型 / 歌枠 】ボカロ曲.ᐟ.ᐟいっぱい歌おう.ᐟ.ᐟ【 #Vtuber / #森瀬つぐみ 】",
+          "channelName": "森瀬つぐみ",
+          "publishedAt": "2026-09-22T13:57:08.104Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cuyhgATYqKo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1cMPO93aN4gNdaSIEYCHxIdOBOQ",
+          "sourcePath": "sources/cu/cuyhgATYqKo.json",
+          "time": "1:33:34",
+          "seconds": 5614,
+          "songTitle": "ろりこんでよかった~",
+          "artist": "Takebo3"
+        }
+      ],
+      "detailPath": "entities/songs/0d2181c6e45bd0dd.json"
+    },
+    {
+      "rank": 40552,
       "id": "6a2585f04a315c39",
       "name": "ロリ雑魚",
       "secondary": "柊マグネタイト",
@@ -43,7 +76,7 @@
       "detailPath": "entities/songs/6a2585f04a315c39.json"
     },
     {
-      "rank": 40552,
+      "rank": 40553,
       "id": "7aff0c2b07a874e6",
       "name": "ロリ神替歌",
       "secondary": "",
@@ -76,7 +109,7 @@
       "detailPath": "entities/songs/7aff0c2b07a874e6.json"
     },
     {
-      "rank": 40553,
+      "rank": 40554,
       "id": "3634273d711b709b",
       "name": "ロング・グッド・バイ",
       "secondary": "幸村精市",
@@ -110,7 +143,7 @@
       "detailPath": "entities/songs/3634273d711b709b.json"
     },
     {
-      "rank": 40554,
+      "rank": 40555,
       "id": "f90e2d14b1837f27",
       "name": "ロングトーン綺麗！",
       "secondary": "未記載",
@@ -143,7 +176,7 @@
       "detailPath": "entities/songs/f90e2d14b1837f27.json"
     },
     {
-      "rank": 40555,
+      "rank": 40556,
       "id": "418bdd02ab9a9042",
       "name": "ロングヘアー",
       "secondary": "NARI",
@@ -176,7 +209,7 @@
       "detailPath": "entities/songs/418bdd02ab9a9042.json"
     },
     {
-      "rank": 40556,
+      "rank": 40557,
       "id": "37493357c24ed602",
       "name": "ロングホープ・フィリア",
       "secondary": "菅田将暉(僕のヒーローアカデミア)",
@@ -206,7 +239,7 @@
       "detailPath": "entities/songs/37493357c24ed602.json"
     },
     {
-      "rank": 40557,
+      "rank": 40558,
       "id": "7ea61be88fa660e6",
       "name": "ロンマス",
       "secondary": "岩崎宏美",
@@ -239,7 +272,7 @@
       "detailPath": "entities/songs/7ea61be88fa660e6.json"
     },
     {
-      "rank": 40558,
+      "rank": 40559,
       "id": "a6b2635f874c6b07",
       "name": "ロンリー",
       "secondary": "",
@@ -269,7 +302,7 @@
       "detailPath": "entities/songs/a6b2635f874c6b07.json"
     },
     {
-      "rank": 40559,
+      "rank": 40560,
       "id": "59e16ebbe636030b",
       "name": "ロンリー・チャップリン",
       "secondary": "鈴木聖美",
@@ -302,7 +335,7 @@
       "detailPath": "entities/songs/59e16ebbe636030b.json"
     },
     {
-      "rank": 40560,
+      "rank": 40561,
       "id": "ae4c709434cb6119",
       "name": "ロンリーユニバース",
       "secondary": "Aqu3ra feat. 初音ミク,v flower",
@@ -335,7 +368,7 @@
       "detailPath": "entities/songs/ae4c709434cb6119.json"
     },
     {
-      "rank": 40561,
+      "rank": 40562,
       "id": "c85ea9ed1a10b8ae",
       "name": "ロンリーユニバース",
       "secondary": "Aqu3ra ※JOYSOUND",
@@ -368,7 +401,7 @@
       "detailPath": "entities/songs/c85ea9ed1a10b8ae.json"
     },
     {
-      "rank": 40562,
+      "rank": 40563,
       "id": "5b8f82033c576f5d",
       "name": "ロンリーユニバース • ロンリーユニバース",
       "secondary": "Aqu3ra feat.flower & 初音ミク - Lo",
@@ -398,7 +431,7 @@
       "detailPath": "entities/songs/5b8f82033c576f5d.json"
     },
     {
-      "rank": 40563,
+      "rank": 40564,
       "id": "b3f1eb9eb43f018c",
       "name": "わ、わぁ〜",
       "secondary": "",
@@ -431,7 +464,7 @@
       "detailPath": "entities/songs/b3f1eb9eb43f018c.json"
     },
     {
-      "rank": 40564,
+      "rank": 40565,
       "id": "461ddc4f38d5fdb5",
       "name": "ワールズエンド・ダンスホール",
       "secondary": "wowoka feat.初音ミク",
@@ -464,7 +497,7 @@
       "detailPath": "entities/songs/461ddc4f38d5fdb5.json"
     },
     {
-      "rank": 40565,
+      "rank": 40566,
       "id": "cfd8a059a25e2041",
       "name": "ワールズエンド・ダンスホール",
       "secondary": "wowaka －4キー (後半撃沈)",
@@ -497,7 +530,7 @@
       "detailPath": "entities/songs/cfd8a059a25e2041.json"
     },
     {
-      "rank": 40566,
+      "rank": 40567,
       "id": "40eaf4af8fb896c0",
       "name": "ワールド・ランプシェード",
       "secondary": "ボカロＰ",
@@ -530,7 +563,7 @@
       "detailPath": "entities/songs/40eaf4af8fb896c0.json"
     },
     {
-      "rank": 40567,
+      "rank": 40568,
       "id": "a81d2b672e0d0a69",
       "name": "ワールド・ランプシェード",
       "secondary": "",
@@ -563,7 +596,7 @@
       "detailPath": "entities/songs/a81d2b672e0d0a69.json"
     },
     {
-      "rank": 40568,
+      "rank": 40569,
       "id": "84576e0d9846f582",
       "name": "ワールド・ランプシェード",
       "secondary": "buzzG ft.GUMI",
@@ -596,7 +629,7 @@
       "detailPath": "entities/songs/84576e0d9846f582.json"
     },
     {
-      "rank": 40569,
+      "rank": 40570,
       "id": "98269790043ad79c",
       "name": "ワールド・ランプシェード",
       "secondary": "buzzG feat.GUMI ※JOYSOUND",
@@ -629,7 +662,7 @@
       "detailPath": "entities/songs/98269790043ad79c.json"
     },
     {
-      "rank": 40570,
+      "rank": 40571,
       "id": "e02adb20cee15274",
       "name": "ワールド・ランプシェード（ﾋﾟｱﾉver）",
       "secondary": "buzzG",
@@ -662,7 +695,7 @@
       "detailPath": "entities/songs/e02adb20cee15274.json"
     },
     {
-      "rank": 40571,
+      "rank": 40572,
       "id": "b158b0e4dd9ceba9",
       "name": "ワールド・ランプシェード〈World・Lampshade〉",
       "secondary": "buzzG",
@@ -692,7 +725,7 @@
       "detailPath": "entities/songs/b158b0e4dd9ceba9.json"
     },
     {
-      "rank": 40572,
+      "rank": 40573,
       "id": "084dfbe3c7b9b233",
       "name": "ワールドアパート",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -725,7 +758,7 @@
       "detailPath": "entities/songs/084dfbe3c7b9b233.json"
     },
     {
-      "rank": 40573,
+      "rank": 40574,
       "id": "25ee9e4971c0e12c",
       "name": "ワールドイズマイン",
       "secondary": "ryo (supercell) feat. feat. 初音ミク",
@@ -757,7 +790,7 @@
       "detailPath": "entities/songs/25ee9e4971c0e12c.json"
     },
     {
-      "rank": 40574,
+      "rank": 40575,
       "id": "da85c6e29c28afd1",
       "name": "ワールドイズマイン",
       "secondary": "supercell(ryo) feat.初音ミク",
@@ -789,7 +822,7 @@
       "detailPath": "entities/songs/da85c6e29c28afd1.json"
     },
     {
-      "rank": 40575,
+      "rank": 40576,
       "id": "b31e887797e6d352",
       "name": "ワールドイズマイン",
       "secondary": "ryo ／ 初音ミク(2008年)",
@@ -821,7 +854,7 @@
       "detailPath": "entities/songs/b31e887797e6d352.json"
     },
     {
-      "rank": 40576,
+      "rank": 40577,
       "id": "0c353c5109280296",
       "name": "ワールドイズマイン",
       "secondary": "ぼろぼろ",
@@ -854,7 +887,7 @@
       "detailPath": "entities/songs/0c353c5109280296.json"
     },
     {
-      "rank": 40577,
+      "rank": 40578,
       "id": "5447c5bf8912825d",
       "name": "ワールドイズマイン",
       "secondary": "Supercellさん",
@@ -887,7 +920,7 @@
       "detailPath": "entities/songs/5447c5bf8912825d.json"
     },
     {
-      "rank": 40578,
+      "rank": 40579,
       "id": "0eeb3c03bffda8cb",
       "name": "ワールドイズマイン",
       "secondary": "supercell / 2位",
@@ -921,7 +954,7 @@
       "detailPath": "entities/songs/0eeb3c03bffda8cb.json"
     },
     {
-      "rank": 40579,
+      "rank": 40580,
       "id": "a845d55b3548b32f",
       "name": "ワールドイズマイン",
       "secondary": "supercell様",
@@ -951,7 +984,7 @@
       "detailPath": "entities/songs/a845d55b3548b32f.json"
     },
     {
-      "rank": 40580,
+      "rank": 40581,
       "id": "bc55aed3a82eaf94",
       "name": "ワールドイズマイン",
       "secondary": "supercell※みんなで歌ってね",
@@ -984,7 +1017,7 @@
       "detailPath": "entities/songs/bc55aed3a82eaf94.json"
     },
     {
-      "rank": 40581,
+      "rank": 40582,
       "id": "22c6e6d84ad26473",
       "name": "ワールドイズマイン",
       "secondary": "ryo (-1)",
@@ -1017,7 +1050,7 @@
       "detailPath": "entities/songs/22c6e6d84ad26473.json"
     },
     {
-      "rank": 40582,
+      "rank": 40583,
       "id": "b3eafa9f3ed2f88c",
       "name": "ワールドイズマイン",
       "secondary": "ryo(ｱｶﾍﾟﾗ)",
@@ -1050,7 +1083,7 @@
       "detailPath": "entities/songs/b3eafa9f3ed2f88c.json"
     },
     {
-      "rank": 40583,
+      "rank": 40584,
       "id": "a9c62df2a2ec8d5c",
       "name": "ワールドイズマイン",
       "secondary": "supercell feat.初音ミク 超かぐや姫！",
@@ -1083,7 +1116,7 @@
       "detailPath": "entities/songs/a9c62df2a2ec8d5c.json"
     },
     {
-      "rank": 40584,
+      "rank": 40585,
       "id": "f93a9e1df28fbc35",
       "name": "ワールドイズマイン",
       "secondary": "つなねむ",
@@ -1116,7 +1149,7 @@
       "detailPath": "entities/songs/f93a9e1df28fbc35.json"
     },
     {
-      "rank": 40585,
+      "rank": 40586,
       "id": "29474b390837d4f5",
       "name": "ワールドイズマイン",
       "secondary": "supercell (ryo) [リベンジ]",
@@ -1149,7 +1182,7 @@
       "detailPath": "entities/songs/29474b390837d4f5.json"
     },
     {
-      "rank": 40586,
+      "rank": 40587,
       "id": "4c613299a70928db",
       "name": "ワールドイズマイン - かぐや&月見ヤチヨ ver",
       "secondary": "CPK! Remix／かぐや(cv.夏吉ゆうこ), 月見ヤチヨ(cv.早見沙織)",
@@ -1182,7 +1215,7 @@
       "detailPath": "entities/songs/4c613299a70928db.json"
     },
     {
-      "rank": 40587,
+      "rank": 40588,
       "id": "199b38d45d5e6218",
       "name": "ワールドイズマイン 75曲目",
       "secondary": "未記載",
@@ -1215,7 +1248,7 @@
       "detailPath": "entities/songs/199b38d45d5e6218.json"
     },
     {
-      "rank": 40588,
+      "rank": 40589,
       "id": "5bdffa18881b99b3",
       "name": "ワールドイズマイン cpk remix",
       "secondary": "from 超かぐや姫!",
@@ -1248,7 +1281,7 @@
       "detailPath": "entities/songs/5bdffa18881b99b3.json"
     },
     {
-      "rank": 40589,
+      "rank": 40590,
       "id": "34ff50563950d2c9",
       "name": "ワールドイズマイン CPK! Remix",
       "secondary": "ryo feat. かぐや(夏吉ゆうこ), 月見ヤチヨ(早見沙織)",
@@ -1281,7 +1314,7 @@
       "detailPath": "entities/songs/34ff50563950d2c9.json"
     },
     {
-      "rank": 40590,
+      "rank": 40591,
       "id": "2ea10c6a09fda971",
       "name": "ワールドイズマイン CPK! Remix (かぐや & 月見ヤチヨ ver.)",
       "secondary": "ryo (supercell) from 超かぐや姫！",
@@ -1314,7 +1347,7 @@
       "detailPath": "entities/songs/2ea10c6a09fda971.json"
     },
     {
-      "rank": 40591,
+      "rank": 40592,
       "id": "1bec269426295658",
       "name": "ワールドイズマイン CPK! Remix (かぐや&月見ヤチヨ ver.) – ryo",
       "secondary": "from 超かぐや姫！",
@@ -1348,7 +1381,7 @@
       "detailPath": "entities/songs/1bec269426295658.json"
     },
     {
-      "rank": 40592,
+      "rank": 40593,
       "id": "e2afefd2e1be99af",
       "name": "ワールドイズマイン Piano Ver",
       "secondary": "",
@@ -1381,7 +1414,7 @@
       "detailPath": "entities/songs/e2afefd2e1be99af.json"
     },
     {
-      "rank": 40593,
+      "rank": 40594,
       "id": "0cb42db1f4127f8f",
       "name": "ワールドイズマイン 初音ミク",
       "secondary": "supercell",
@@ -1411,7 +1444,7 @@
       "detailPath": "entities/songs/0cb42db1f4127f8f.json"
     },
     {
-      "rank": 40594,
+      "rank": 40595,
       "id": "f5e79ccaa27f897d",
       "name": "ワールドイズマイン- supercell ※JOYSOUND",
       "secondary": "",
@@ -1444,7 +1477,7 @@
       "detailPath": "entities/songs/f5e79ccaa27f897d.json"
     },
     {
-      "rank": 40595,
+      "rank": 40596,
       "id": "ec52b6d54ba21e4d",
       "name": "ワールドイズマイン（1コーラス）",
       "secondary": "ryo",
@@ -1477,7 +1510,7 @@
       "detailPath": "entities/songs/ec52b6d54ba21e4d.json"
     },
     {
-      "rank": 40596,
+      "rank": 40597,
       "id": "1da8cc00125d4d8d",
       "name": "ワールドイズマイン（ピアノ）",
       "secondary": "ryo(supercell)",
@@ -1510,7 +1543,7 @@
       "detailPath": "entities/songs/1da8cc00125d4d8d.json"
     },
     {
-      "rank": 40597,
+      "rank": 40598,
       "id": "b9cf2499a37d4e2f",
       "name": "ワールドイズマイン（ピアノVer.）",
       "secondary": "ryo（supercell）",
@@ -1544,7 +1577,7 @@
       "detailPath": "entities/songs/b9cf2499a37d4e2f.json"
     },
     {
-      "rank": 40598,
+      "rank": 40599,
       "id": "b54c052e917b5acb",
       "name": "ワールドイズマイン(ﾋﾟｱﾉ伴奏)",
       "secondary": "ryo(supercell)",
@@ -1578,7 +1611,7 @@
       "detailPath": "entities/songs/b54c052e917b5acb.json"
     },
     {
-      "rank": 40599,
+      "rank": 40600,
       "id": "ce3b56efa4b36f8b",
       "name": "ワールドイズマイン【MV】",
       "secondary": "supercell",
@@ -1609,39 +1642,6 @@
         }
       ],
       "detailPath": "entities/songs/ce3b56efa4b36f8b.json"
-    },
-    {
-      "rank": 40600,
-      "id": "0ba06bfcb26be1b8",
-      "name": "ワールドイズマイン/ryo",
-      "secondary": "初音ミク",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ZeK_-m3JNuY",
-          "videoTitle": "【歌枠】お歌の時間だyo！【天音なる】",
-          "channelName": "天音なる Naru Amane Ch.",
-          "publishedAt": "2026-09-25T15:21:45.724Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZeK_-m3JNuY/hqdefault.jpg",
-          "sourcePath": "sources/Ze/ZeK_-m3JNuY.json",
-          "time": "0:25:45",
-          "seconds": 1545,
-          "songTitle": "ワールドイズマイン/ryo",
-          "artist": "初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/0ba06bfcb26be1b8.json"
     }
   ]
 }

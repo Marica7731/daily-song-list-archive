@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 101,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5001,
+      "id": "a277db132381f858",
+      "name": "Go－Round",
+      "secondary": "伊藤奈央 in FIX",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "cjMLjIUes2E",
+          "videoTitle": "【#karaoke 】相棒の設定を一新した！お試し歌枠🎤【うさぎのショタコンVTuber】 #みてみてみぃる",
+          "channelName": "歌伝みぃる / Utatte Miru ch.",
+          "publishedAt": "2026-09-13T13:06:34.776Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cjMLjIUes2E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWpzaCScKC-KndJdFIBtVTsDNOAA",
+          "sourcePath": "sources/cj/cjMLjIUes2E.json",
+          "time": "2:01:54",
+          "seconds": 7314,
+          "songTitle": "Go－Round",
+          "artist": "伊藤奈央 in FIX"
+        },
+        {
+          "videoId": "9ANhNXnS3bU",
+          "videoTitle": "【#歌枠 】2000年初期のアニソン中心歌枠とする！！【#冬至調査中 #vtuber #SingingStream】",
+          "channelName": "冬至ミキ / Toji Miki",
+          "publishedAt": "2026-09-13T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9ANhNXnS3bU/hqdefault.jpg",
+          "sourcePath": "sources/9A/9ANhNXnS3bU.json",
+          "time": "0:29:30",
+          "seconds": 1770,
+          "songTitle": "Go-Round",
+          "artist": "伊藤奈央 in FIX"
+        }
+      ],
+      "detailPath": "entities/songs/a277db132381f858.json"
+    },
+    {
+      "rank": 5002,
       "id": "e512b5a98e8afab9",
       "name": "God Bless You",
       "secondary": "ワルキューレ",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/e512b5a98e8afab9.json"
     },
     {
-      "rank": 5002,
+      "rank": 5003,
       "id": "57ebc8fd09d2c69f",
       "name": "GOLD",
       "secondary": "UVERworld",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/57ebc8fd09d2c69f.json"
     },
     {
-      "rank": 5003,
+      "rank": 5004,
       "id": "c5429d560c2907f1",
       "name": "Guren no Yumiya",
       "secondary": "Linked Horizon",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/c5429d560c2907f1.json"
     },
     {
-      "rank": 5004,
+      "rank": 5005,
       "id": "cb3af2b9a33efc90",
       "name": "GURU",
       "secondary": "じん",
@@ -190,7 +235,7 @@
       "detailPath": "entities/songs/cb3af2b9a33efc90.json"
     },
     {
-      "rank": 5005,
+      "rank": 5006,
       "id": "b5da618aa739186f",
       "name": "Hakuna Matata",
       "secondary": "The Lion King",
@@ -235,7 +280,7 @@
       "detailPath": "entities/songs/b5da618aa739186f.json"
     },
     {
-      "rank": 5006,
+      "rank": 5007,
       "id": "125e25f93a7a7823",
       "name": "HALLOWEEN PARTY",
       "secondary": "HALLOWEEN JUNKY ORCHESTRA",
@@ -280,7 +325,7 @@
       "detailPath": "entities/songs/125e25f93a7a7823.json"
     },
     {
-      "rank": 5007,
+      "rank": 5008,
       "id": "eb1dab705b610447",
       "name": "Hamtaro Tottoko Uta",
       "secondary": "Ritsuko Kawai",
@@ -325,7 +370,7 @@
       "detailPath": "entities/songs/eb1dab705b610447.json"
     },
     {
-      "rank": 5008,
+      "rank": 5009,
       "id": "e412d5c863d5a3a6",
       "name": "HANAJI",
       "secondary": "小林ゆう",
@@ -370,7 +415,7 @@
       "detailPath": "entities/songs/e412d5c863d5a3a6.json"
     },
     {
-      "rank": 5009,
+      "rank": 5010,
       "id": "6014007561402578",
       "name": "hands",
       "secondary": "倖田來未",
@@ -415,7 +460,7 @@
       "detailPath": "entities/songs/6014007561402578.json"
     },
     {
-      "rank": 5010,
+      "rank": 5011,
       "id": "90fb5db774e59caa",
       "name": "Happiness Umbrella",
       "secondary": "ロクデナシ",
@@ -460,7 +505,7 @@
       "detailPath": "entities/songs/90fb5db774e59caa.json"
     },
     {
-      "rank": 5011,
+      "rank": 5012,
       "id": "fd534b91f78c64be",
       "name": "HAPPY BIRTHDAY",
       "secondary": "",
@@ -505,7 +550,7 @@
       "detailPath": "entities/songs/fd534b91f78c64be.json"
     },
     {
-      "rank": 5012,
+      "rank": 5013,
       "id": "477044d8992ff6cd",
       "name": "Happy Birthday to You",
       "secondary": "",
@@ -550,7 +595,7 @@
       "detailPath": "entities/songs/477044d8992ff6cd.json"
     },
     {
-      "rank": 5013,
+      "rank": 5014,
       "id": "63ce38905849830c",
       "name": "Happy Girl",
       "secondary": "喜多村英梨",
@@ -595,7 +640,7 @@
       "detailPath": "entities/songs/63ce38905849830c.json"
     },
     {
-      "rank": 5014,
+      "rank": 5015,
       "id": "29541a7d3e3787c7",
       "name": "happy pooppin' party time",
       "secondary": "NAGi",
@@ -640,7 +685,7 @@
       "detailPath": "entities/songs/29541a7d3e3787c7.json"
     },
     {
-      "rank": 5015,
+      "rank": 5016,
       "id": "904edeb1ac94b47a",
       "name": "Happy Strawberry",
       "secondary": "小倉唯",
@@ -685,7 +730,7 @@
       "detailPath": "entities/songs/904edeb1ac94b47a.json"
     },
     {
-      "rank": 5016,
+      "rank": 5017,
       "id": "367e9d81477fef6a",
       "name": "HARUKAZE",
       "secondary": "SCANDAL",
@@ -730,7 +775,7 @@
       "detailPath": "entities/songs/367e9d81477fef6a.json"
     },
     {
-      "rank": 5017,
+      "rank": 5018,
       "id": "882dc75df44b98c7",
       "name": "HATENA",
       "secondary": "PENGUIN RESEARCH",
@@ -775,7 +820,7 @@
       "detailPath": "entities/songs/882dc75df44b98c7.json"
     },
     {
-      "rank": 5018,
+      "rank": 5019,
       "id": "abf3c201c0a7c571",
       "name": "Heartful Song",
       "secondary": "ほしな歌唄（CV: 水樹奈々）",
@@ -820,7 +865,7 @@
       "detailPath": "entities/songs/abf3c201c0a7c571.json"
     },
     {
-      "rank": 5019,
+      "rank": 5020,
       "id": "7d0c1bfd3a280108",
       "name": "HEARTの形状",
       "secondary": "B∀G",
@@ -865,7 +910,7 @@
       "detailPath": "entities/songs/7d0c1bfd3a280108.json"
     },
     {
-      "rank": 5020,
+      "rank": 5021,
       "id": "6485edc647f82525",
       "name": "HEAVEN",
       "secondary": "はりーP",
@@ -910,7 +955,7 @@
       "detailPath": "entities/songs/6485edc647f82525.json"
     },
     {
-      "rank": 5021,
+      "rank": 5022,
       "id": "e84985b0a241d005",
       "name": "Hello",
       "secondary": "Adele",
@@ -955,7 +1000,7 @@
       "detailPath": "entities/songs/e84985b0a241d005.json"
     },
     {
-      "rank": 5022,
+      "rank": 5023,
       "id": "e3876c51dda2279c",
       "name": "HELLO",
       "secondary": "",
@@ -1000,7 +1045,7 @@
       "detailPath": "entities/songs/e3876c51dda2279c.json"
     },
     {
-      "rank": 5023,
+      "rank": 5024,
       "id": "85ea4846a28474c2",
       "name": "Help me, ERINNNNNN!",
       "secondary": "",
@@ -1045,7 +1090,7 @@
       "detailPath": "entities/songs/85ea4846a28474c2.json"
     },
     {
-      "rank": 5024,
+      "rank": 5025,
       "id": "fc5a61ec27c7a209",
       "name": "HELP!!",
       "secondary": "こぼ・かなえる",
@@ -1090,7 +1135,7 @@
       "detailPath": "entities/songs/fc5a61ec27c7a209.json"
     },
     {
-      "rank": 5025,
+      "rank": 5026,
       "id": "8ebf0ccf08505264",
       "name": "Henceforth",
       "secondary": "Orangestar feat. IA",
@@ -1136,7 +1181,7 @@
       "detailPath": "entities/songs/8ebf0ccf08505264.json"
     },
     {
-      "rank": 5026,
+      "rank": 5027,
       "id": "37255aef82b86554",
       "name": "Hero",
       "secondary": "Mariah Carey",
@@ -1181,7 +1226,7 @@
       "detailPath": "entities/songs/37255aef82b86554.json"
     },
     {
-      "rank": 5027,
+      "rank": 5028,
       "id": "693c17f377d0c52a",
       "name": "HERO",
       "secondary": "Mr.Children",
@@ -1226,7 +1271,7 @@
       "detailPath": "entities/songs/693c17f377d0c52a.json"
     },
     {
-      "rank": 5028,
+      "rank": 5029,
       "id": "62826995de73334d",
       "name": "Hero too",
       "secondary": "KYOKA JIRO Starring Chrissy Costanza",
@@ -1271,7 +1316,7 @@
       "detailPath": "entities/songs/62826995de73334d.json"
     },
     {
-      "rank": 5029,
+      "rank": 5030,
       "id": "aaea289ed4b78b03",
       "name": "Hi FiVE!",
       "secondary": "LiSA",
@@ -1316,7 +1361,7 @@
       "detailPath": "entities/songs/aaea289ed4b78b03.json"
     },
     {
-      "rank": 5030,
+      "rank": 5031,
       "id": "20a410b39dbbd175",
       "name": "HiBiKi Au Uta♪",
       "secondary": "キュアアイドル（松岡美里）＆キュアウインク（髙橋ミナミ）＆キュアキュンキュン（高森奈津美）＆キュアズキューン（南條愛乃）＆キュアキッス（花井美春）",
@@ -1361,7 +1406,7 @@
       "detailPath": "entities/songs/20a410b39dbbd175.json"
     },
     {
-      "rank": 5031,
+      "rank": 5032,
       "id": "8a1533308b20da21",
       "name": "HIGHSCHOOL OF THE DEAD",
       "secondary": "岸田教団＆THE明星ロケッツ",
@@ -1406,7 +1451,7 @@
       "detailPath": "entities/songs/8a1533308b20da21.json"
     },
     {
-      "rank": 5032,
+      "rank": 5033,
       "id": "48be4f11b4876397",
       "name": "HiHiハイテンション！",
       "secondary": "夏色まつり",
@@ -1451,7 +1496,7 @@
       "detailPath": "entities/songs/48be4f11b4876397.json"
     },
     {
-      "rank": 5033,
+      "rank": 5034,
       "id": "c4f3f445dcbad405",
       "name": "Home Sweet Home feat. KMNZ LIZ",
       "secondary": "Neko Hacker",
@@ -1496,7 +1541,7 @@
       "detailPath": "entities/songs/c4f3f445dcbad405.json"
     },
     {
-      "rank": 5034,
+      "rank": 5035,
       "id": "aad331666ba6eadf",
       "name": "Honey",
       "secondary": "chihiro",
@@ -1538,7 +1583,7 @@
       "detailPath": "entities/songs/aad331666ba6eadf.json"
     },
     {
-      "rank": 5035,
+      "rank": 5036,
       "id": "50814157a7b25f6d",
       "name": "Hope",
       "secondary": "安室奈美恵",
@@ -1583,7 +1628,7 @@
       "detailPath": "entities/songs/50814157a7b25f6d.json"
     },
     {
-      "rank": 5036,
+      "rank": 5037,
       "id": "327e1aea130e57aa",
       "name": "Hoshikuzu Venus",
       "secondary": "Aimer",
@@ -1629,7 +1674,7 @@
       "detailPath": "entities/songs/327e1aea130e57aa.json"
     },
     {
-      "rank": 5037,
+      "rank": 5038,
       "id": "e2518036e7f98181",
       "name": "HOTEL PACIFIC",
       "secondary": "サザンオールスターズ",
@@ -1674,7 +1719,7 @@
       "detailPath": "entities/songs/e2518036e7f98181.json"
     },
     {
-      "rank": 5038,
+      "rank": 5039,
       "id": "6fd156a03d7007ad",
       "name": "How crazy",
       "secondary": "YUI",
@@ -1719,7 +1764,7 @@
       "detailPath": "entities/songs/6fd156a03d7007ad.json"
     },
     {
-      "rank": 5039,
+      "rank": 5040,
       "id": "f3051da8c08491de",
       "name": "How to go",
       "secondary": "School Food Punishment",
@@ -1765,7 +1810,7 @@
       "detailPath": "entities/songs/f3051da8c08491de.json"
     },
     {
-      "rank": 5040,
+      "rank": 5041,
       "id": "4c9395a4378365d6",
       "name": "Howling",
       "secondary": "大神ミオ",
@@ -1810,7 +1855,7 @@
       "detailPath": "entities/songs/4c9395a4378365d6.json"
     },
     {
-      "rank": 5041,
+      "rank": 5042,
       "id": "d5c97e84167582b8",
       "name": "https",
       "secondary": "youtube.com/live/cYthAVttDp8",
@@ -1852,7 +1897,7 @@
       "detailPath": "entities/songs/d5c97e84167582b8.json"
     },
     {
-      "rank": 5042,
+      "rank": 5043,
       "id": "cbd5a6a2746fb578",
       "name": "Hug",
       "secondary": "Mrs. GREEN APPLE",
@@ -1898,7 +1943,7 @@
       "detailPath": "entities/songs/cbd5a6a2746fb578.json"
     },
     {
-      "rank": 5043,
+      "rank": 5044,
       "id": "cb347ed3ec694c6a",
       "name": "Hug",
       "secondary": "MIMI",
@@ -1943,7 +1988,7 @@
       "detailPath": "entities/songs/cb347ed3ec694c6a.json"
     },
     {
-      "rank": 5044,
+      "rank": 5045,
       "id": "c4a09a7c3662820c",
       "name": "Hysteric Bullet",
       "secondary": "GARNiDELiA",
@@ -1988,7 +2033,7 @@
       "detailPath": "entities/songs/c4a09a7c3662820c.json"
     },
     {
-      "rank": 5045,
+      "rank": 5046,
       "id": "9f213aabc47c5dd4",
       "name": "I",
       "secondary": "",
@@ -2030,7 +2075,7 @@
       "detailPath": "entities/songs/9f213aabc47c5dd4.json"
     },
     {
-      "rank": 5046,
+      "rank": 5047,
       "id": "8ae021784791350a",
       "name": "I am",
       "secondary": "hitomi",
@@ -2075,7 +2120,7 @@
       "detailPath": "entities/songs/8ae021784791350a.json"
     },
     {
-      "rank": 5047,
+      "rank": 5048,
       "id": "243e3c08565031f8",
       "name": "I AM EP",
       "secondary": "Aimer",
@@ -2120,7 +2165,7 @@
       "detailPath": "entities/songs/243e3c08565031f8.json"
     },
     {
-      "rank": 5048,
+      "rank": 5049,
       "id": "4b16dcf29cb1b108",
       "name": "I for You",
       "secondary": "LUNA SEA",
@@ -2165,7 +2210,7 @@
       "detailPath": "entities/songs/4b16dcf29cb1b108.json"
     },
     {
-      "rank": 5049,
+      "rank": 5050,
       "id": "124adab7841c6900",
       "name": "I gotta go",
       "secondary": "milet",
@@ -2208,48 +2253,6 @@
         }
       ],
       "detailPath": "entities/songs/124adab7841c6900.json"
-    },
-    {
-      "rank": 5050,
-      "id": "1de3841bed72418d",
-      "name": "I'm here saying nothing",
-      "secondary": "矢井田瞳",
-      "channelId": "UClQ5Ea3ORZE2AxW9B8uynpA",
-      "channelHandle": "@yukinagi_hitomi",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "74nrDbTNr9w",
-          "videoTitle": "【#歌枠 】“高低差” 歌枠⚛️作業BGMにどうぞ🌐🌸花彩音_3kHz【#vtuber #ボイトレ 】",
-          "channelName": "花彩音_3kHz / かさね_さんきろへるつ",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/74nrDbTNr9w/hqdefault.jpg",
-          "sourcePath": "sources/74/74nrDbTNr9w.json",
-          "time": "0:18:05",
-          "seconds": 1085,
-          "songTitle": "I'm here saying nothing",
-          "artist": "矢井田瞳"
-        },
-        {
-          "videoId": "jsA_1dZzB-Y",
-          "videoTitle": "【少しだけ歌枠】時間帯的に1時間くらい…",
-          "channelName": "透凪瞳 / yukinagi hitomi 💠🪽",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jsA_1dZzB-Y/hqdefault.jpg",
-          "sourcePath": "sources/js/jsA_1dZzB-Y.json",
-          "time": "0:41:28",
-          "seconds": 2488,
-          "songTitle": "I'm here saying nothing",
-          "artist": "矢井田瞳"
-        }
-      ],
-      "detailPath": "entities/songs/1de3841bed72418d.json"
     }
   ]
 }

@@ -1,16 +1,181 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 350,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 17451,
+      "id": "2aa6f45fe5437b16",
+      "name": "さよならの記憶",
+      "secondary": "奥華子",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "glJkrBHAm7g",
+          "videoTitle": "【 #歌枠 】激レア曲縛り歌枠♬ここでしか聴けない曲ばかりかも？？【 #新人vtuber / #宵吸あけル 】#singing #karaoke",
+          "channelName": "宵吸あけル / Yokyu Akeru",
+          "publishedAt": "2026-09-17T17:16:13.549Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/glJkrBHAm7g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSeE_k57-R2NLdJ3HOSZzbwri41g",
+          "sourcePath": "sources/gl/glJkrBHAm7g.json",
+          "time": "1:19:26",
+          "seconds": 4766,
+          "songTitle": "さよならの記憶",
+          "artist": "奥華子"
+        }
+      ],
+      "detailPath": "entities/songs/2aa6f45fe5437b16.json"
+    },
+    {
+      "rank": 17452,
+      "id": "b1271fe19e20229a",
+      "name": "さよならの時くらい微笑んで",
+      "secondary": "angela",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "hcZW79hdOSc",
+          "videoTitle": "〖#歌枠〗初見さん！いちかばちかリクエストしてみて？〖 #真城ななる/ #Vtuber 〗",
+          "channelName": "Nanaru Mashiro Ch. 真城ななる 🏰🕊",
+          "publishedAt": "2026-09-27T16:54:51.348Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hcZW79hdOSc/hqdefault.jpg",
+          "sourcePath": "sources/hc/hcZW79hdOSc.json",
+          "time": "0:23:46",
+          "seconds": 1426,
+          "songTitle": "さよならの時くらい微笑んで",
+          "artist": "angela"
+        }
+      ],
+      "detailPath": "entities/songs/b1271fe19e20229a.json"
+    },
+    {
+      "rank": 17453,
+      "id": "ce105ca363ab6850",
+      "name": "サヨナラの前に",
+      "secondary": "MIHIRO ～マイロ～",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "QoQNx0EFCT8",
+          "videoTitle": "【#歌枠】まったり歌枠！ #うたうよしん #karaoke #vsinger",
+          "channelName": "shin",
+          "publishedAt": "2026-09-15T10:23:49.947Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QoQNx0EFCT8/hqdefault.jpg",
+          "sourcePath": "sources/Qo/QoQNx0EFCT8.json",
+          "time": "1:27:35",
+          "seconds": 5255,
+          "songTitle": "サヨナラの前に",
+          "artist": "MIHIRO ～マイロ～"
+        }
+      ],
+      "detailPath": "entities/songs/ce105ca363ab6850.json"
+    },
+    {
+      "rank": 17454,
+      "id": "05dbbbee0b4a1270",
+      "name": "さよならの前に",
+      "secondary": "AAA",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "3YEMEMyVU64",
+          "videoTitle": "【金曜日定期 / 歌枠】今晩は失恋ソング縛りで、しつれいしますね・・？Singing Stream【あまねもも / VTuber】",
+          "channelName": "あまねもも / Amane Momo",
+          "publishedAt": "2026-09-18T14:09:15.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3YEMEMyVU64/hqdefault.jpg",
+          "sourcePath": "sources/3Y/3YEMEMyVU64.json",
+          "time": "1:39:45",
+          "seconds": 5985,
+          "songTitle": "さよならの前に",
+          "artist": "AAA"
+        }
+      ],
+      "detailPath": "entities/songs/05dbbbee0b4a1270.json"
+    },
+    {
+      "rank": 17455,
+      "id": "2e89383ad5672be1",
+      "name": "さよならバイスタンダー",
+      "secondary": "YUKI",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "DuDt3A4pgTU",
+          "videoTitle": "【 #歌枠 】30分駆け抜ける【 #on_the_鯛r 】",
+          "channelName": "まゆり",
+          "publishedAt": "2026-09-15T19:32:13.305Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DuDt3A4pgTU/hqdefault.jpg",
+          "sourcePath": "sources/Du/DuDt3A4pgTU.json",
+          "time": "0:13:10",
+          "seconds": 790,
+          "songTitle": "さよならバイスタンダー",
+          "artist": "YUKI"
+        }
+      ],
+      "detailPath": "entities/songs/2e89383ad5672be1.json"
+    },
+    {
+      "rank": 17456,
       "id": "8efd10e5bd99e5a3",
       "name": "さよならはエモーション",
       "secondary": "サカナクション",
@@ -43,7 +208,7 @@
       "detailPath": "entities/songs/8efd10e5bd99e5a3.json"
     },
     {
-      "rank": 17452,
+      "rank": 17457,
       "id": "78c006254725519d",
       "name": "さよならはエモーション",
       "secondary": "サカナクション [かな]",
@@ -76,7 +241,7 @@
       "detailPath": "entities/songs/78c006254725519d.json"
     },
     {
-      "rank": 17453,
+      "rank": 17458,
       "id": "e931e2d0de516c68",
       "name": "さよならはきえない",
       "secondary": "みきとP feat. 初音ミク （練習）",
@@ -109,7 +274,7 @@
       "detailPath": "entities/songs/e931e2d0de516c68.json"
     },
     {
-      "rank": 17454,
+      "rank": 17459,
       "id": "bc294dfd5cfd6c4a",
       "name": "さよならはきえない",
       "secondary": "みきとP feat. 初音ミク",
@@ -142,7 +307,7 @@
       "detailPath": "entities/songs/bc294dfd5cfd6c4a.json"
     },
     {
-      "rank": 17455,
+      "rank": 17460,
       "id": "57361b4a8493f76b",
       "name": "さよならはさよなら",
       "secondary": "オトナモード *",
@@ -172,7 +337,7 @@
       "detailPath": "entities/songs/57361b4a8493f76b.json"
     },
     {
-      "rank": 17456,
+      "rank": 17461,
       "id": "db808b929bde1c5e",
       "name": "サヨナラバス",
       "secondary": "ゆず",
@@ -205,7 +370,7 @@
       "detailPath": "entities/songs/db808b929bde1c5e.json"
     },
     {
-      "rank": 17457,
+      "rank": 17462,
       "id": "62d7f7e38898ae94",
       "name": "サヨナラは言わないでさ",
       "secondary": "MIMI",
@@ -235,7 +400,7 @@
       "detailPath": "entities/songs/62d7f7e38898ae94.json"
     },
     {
-      "rank": 17458,
+      "rank": 17463,
       "id": "3d7bbc27d3f34d9e",
       "name": "さよならは始まりの言葉",
       "secondary": "",
@@ -268,7 +433,7 @@
       "detailPath": "entities/songs/3d7bbc27d3f34d9e.json"
     },
     {
-      "rank": 17459,
+      "rank": 17464,
       "id": "f0037d5cbabe9f48",
       "name": "さよならプリズナー",
       "secondary": "yonige",
@@ -301,7 +466,7 @@
       "detailPath": "entities/songs/f0037d5cbabe9f48.json"
     },
     {
-      "rank": 17460,
+      "rank": 17465,
       "id": "112e47241fd9683a",
       "name": "さよならプリンセス",
       "secondary": "Kai feat. 初音ミク",
@@ -334,7 +499,7 @@
       "detailPath": "entities/songs/112e47241fd9683a.json"
     },
     {
-      "rank": 17461,
+      "rank": 17466,
       "id": "48f602aa587fa03f",
       "name": "さよならフロンティア",
       "secondary": "Galileo Galilei",
@@ -367,7 +532,7 @@
       "detailPath": "entities/songs/48f602aa587fa03f.json"
     },
     {
-      "rank": 17462,
+      "rank": 17467,
       "id": "08a81c363a1ab2ce",
       "name": "さよならベイビー",
       "secondary": "サンボマスター",
@@ -400,7 +565,7 @@
       "detailPath": "entities/songs/08a81c363a1ab2ce.json"
     },
     {
-      "rank": 17463,
+      "rank": 17468,
       "id": "1110a06511ed0cc2",
       "name": "さよならミッドナイト",
       "secondary": "もじゃ",
@@ -433,7 +598,7 @@
       "detailPath": "entities/songs/1110a06511ed0cc2.json"
     },
     {
-      "rank": 17464,
+      "rank": 17469,
       "id": "de32d41f7df59a43",
       "name": "さよならミッドナイト（ﾋﾟｱﾉ）",
       "secondary": "大柴広己",
@@ -466,7 +631,7 @@
       "detailPath": "entities/songs/de32d41f7df59a43.json"
     },
     {
-      "rank": 17465,
+      "rank": 17470,
       "id": "dee4451bf0e845f0",
       "name": "さよならメモリー",
       "secondary": "7!! ※JOYSOUND",
@@ -499,7 +664,7 @@
       "detailPath": "entities/songs/dee4451bf0e845f0.json"
     },
     {
-      "rank": 17466,
+      "rank": 17471,
       "id": "4f255e08d9686956",
       "name": "さよならメモリーズ",
       "secondary": "",
@@ -532,7 +697,7 @@
       "detailPath": "entities/songs/4f255e08d9686956.json"
     },
     {
-      "rank": 17467,
+      "rank": 17472,
       "id": "278ebf85514367b3",
       "name": "さよならメモリーズズ",
       "secondary": "",
@@ -562,7 +727,7 @@
       "detailPath": "entities/songs/278ebf85514367b3.json"
     },
     {
-      "rank": 17468,
+      "rank": 17473,
       "id": "471a27977ddaa9c3",
       "name": "さよならモルテン",
       "secondary": "ヨルシカ",
@@ -592,7 +757,7 @@
       "detailPath": "entities/songs/471a27977ddaa9c3.json"
     },
     {
-      "rank": 17469,
+      "rank": 17474,
       "id": "1f557a68804058cf",
       "name": "さよならも言わないままで",
       "secondary": "MISIA",
@@ -625,7 +790,7 @@
       "detailPath": "entities/songs/1f557a68804058cf.json"
     },
     {
-      "rank": 17470,
+      "rank": 17475,
       "id": "58517e0c93fb748e",
       "name": "さよならをもう一度",
       "secondary": "尾崎紀世彦",
@@ -658,7 +823,7 @@
       "detailPath": "entities/songs/58517e0c93fb748e.json"
     },
     {
-      "rank": 17471,
+      "rank": 17476,
       "id": "8591dbd5547f7029",
       "name": "さよならを教えて ～comment te dire adieu～",
       "secondary": "MELL",
@@ -691,7 +856,7 @@
       "detailPath": "entities/songs/8591dbd5547f7029.json"
     },
     {
-      "rank": 17472,
+      "rank": 17477,
       "id": "c9a7919746c28a63",
       "name": "さよなら愛しき面影よ",
       "secondary": "Noz",
@@ -721,7 +886,7 @@
       "detailPath": "entities/songs/c9a7919746c28a63.json"
     },
     {
-      "rank": 17473,
+      "rank": 17478,
       "id": "95de9992215145a3",
       "name": "さよなら歌姫",
       "secondary": "クリープハイプ",
@@ -751,7 +916,7 @@
       "detailPath": "entities/songs/95de9992215145a3.json"
     },
     {
-      "rank": 17474,
+      "rank": 17479,
       "id": "b2c70944c3fef871",
       "name": "さよなら君の声",
       "secondary": "美郷あき",
@@ -781,7 +946,7 @@
       "detailPath": "entities/songs/b2c70944c3fef871.json"
     },
     {
-      "rank": 17475,
+      "rank": 17480,
       "id": "66bc10803879cc32",
       "name": "さよなら人類",
       "secondary": "たま",
@@ -811,7 +976,7 @@
       "detailPath": "entities/songs/66bc10803879cc32.json"
     },
     {
-      "rank": 17476,
+      "rank": 17481,
       "id": "173cdcdea470c8fb",
       "name": "さよなら冬美",
       "secondary": "ゴールデンボンバー",
@@ -844,7 +1009,7 @@
       "detailPath": "entities/songs/173cdcdea470c8fb.json"
     },
     {
-      "rank": 17477,
+      "rank": 17482,
       "id": "066228fa3ef4f242",
       "name": "さよなら僕のヒーロー",
       "secondary": "傘村トータ",
@@ -874,7 +1039,7 @@
       "detailPath": "entities/songs/066228fa3ef4f242.json"
     },
     {
-      "rank": 17478,
+      "rank": 17483,
       "id": "0fee457cb1f3a935",
       "name": "さよなら恋人",
       "secondary": "コレサワ",
@@ -907,7 +1072,7 @@
       "detailPath": "entities/songs/0fee457cb1f3a935.json"
     },
     {
-      "rank": 17479,
+      "rank": 17484,
       "id": "98701eb5e981ba99",
       "name": "サラウンド",
       "secondary": "",
@@ -940,7 +1105,7 @@
       "detailPath": "entities/songs/98701eb5e981ba99.json"
     },
     {
-      "rank": 17480,
+      "rank": 17485,
       "id": "fef3c70d9ff9b1b6",
       "name": "さらさら",
       "secondary": "yuha feat. AiSuu",
@@ -970,7 +1135,7 @@
       "detailPath": "entities/songs/fef3c70d9ff9b1b6.json"
     },
     {
-      "rank": 17481,
+      "rank": 17486,
       "id": "6fc81bf2bad35c4a",
       "name": "さらば",
       "secondary": "キンモクセイ",
@@ -1000,7 +1165,7 @@
       "detailPath": "entities/songs/6fc81bf2bad35c4a.json"
     },
     {
-      "rank": 17482,
+      "rank": 17487,
       "id": "cbb6144541583d5c",
       "name": "さらば",
       "secondary": "the GazettE",
@@ -1030,7 +1195,7 @@
       "detailPath": "entities/songs/cbb6144541583d5c.json"
     },
     {
-      "rank": 17483,
+      "rank": 17488,
       "id": "7a6dd1858889d320",
       "name": "サラバ、愛しき悲しみたちよ",
       "secondary": "",
@@ -1063,7 +1228,7 @@
       "detailPath": "entities/songs/7a6dd1858889d320.json"
     },
     {
-      "rank": 17484,
+      "rank": 17489,
       "id": "578ddac05661890b",
       "name": "さらば涙と言おう",
       "secondary": "森田健作",
@@ -1093,7 +1258,7 @@
       "detailPath": "entities/songs/578ddac05661890b.json"
     },
     {
-      "rank": 17485,
+      "rank": 17490,
       "id": "a8366f0609e86ca3",
       "name": "サラマンダー",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -1123,7 +1288,7 @@
       "detailPath": "entities/songs/a8366f0609e86ca3.json"
     },
     {
-      "rank": 17486,
+      "rank": 17491,
       "id": "fcd5eda4c3dcf51c",
       "name": "ざらめ",
       "secondary": "六等星",
@@ -1153,7 +1318,7 @@
       "detailPath": "entities/songs/fcd5eda4c3dcf51c.json"
     },
     {
-      "rank": 17487,
+      "rank": 17492,
       "id": "88dc7dfeabb36e2e",
       "name": "サラリーマンの唄",
       "secondary": "阿部真央",
@@ -1183,7 +1348,7 @@
       "detailPath": "entities/songs/88dc7dfeabb36e2e.json"
     },
     {
-      "rank": 17488,
+      "rank": 17493,
       "id": "c86bac45cd90567b",
       "name": "サリシノハラ",
       "secondary": "ミキト(みきとP) feat.初音ミク",
@@ -1216,7 +1381,7 @@
       "detailPath": "entities/songs/c86bac45cd90567b.json"
     },
     {
-      "rank": 17489,
+      "rank": 17494,
       "id": "7ab3730c820d045a",
       "name": "サリシノハラ",
       "secondary": "みきとP feat.初音ミク ※JOYSOUND",
@@ -1246,7 +1411,7 @@
       "detailPath": "entities/songs/7ab3730c820d045a.json"
     },
     {
-      "rank": 17490,
+      "rank": 17495,
       "id": "0452d36433e792c8",
       "name": "サリシノハラ",
       "secondary": "みきとP feat. 初音ミク（ピアノ伴奏Ver.）",
@@ -1279,7 +1444,7 @@
       "detailPath": "entities/songs/0452d36433e792c8.json"
     },
     {
-      "rank": 17491,
+      "rank": 17496,
       "id": "88550ea734819c50",
       "name": "サリシノハラ -Pf",
       "secondary": "みきとP",
@@ -1309,7 +1474,7 @@
       "detailPath": "entities/songs/88550ea734819c50.json"
     },
     {
-      "rank": 17492,
+      "rank": 17497,
       "id": "5a232edc7cac79b3",
       "name": "サリシノハラ Piano",
       "secondary": "みきとP",
@@ -1339,7 +1504,7 @@
       "detailPath": "entities/songs/5a232edc7cac79b3.json"
     },
     {
-      "rank": 17493,
+      "rank": 17498,
       "id": "b6971196f5c549e4",
       "name": "サリシノハラ/みきとP",
       "secondary": "ピアノver.",
@@ -1372,7 +1537,7 @@
       "detailPath": "entities/songs/b6971196f5c549e4.json"
     },
     {
-      "rank": 17494,
+      "rank": 17499,
       "id": "80b6e526efd8dad2",
       "name": "ザルバラ",
       "secondary": "Lanndo",
@@ -1405,7 +1570,7 @@
       "detailPath": "entities/songs/80b6e526efd8dad2.json"
     },
     {
-      "rank": 17495,
+      "rank": 17500,
       "id": "508f15e48f817bcc",
       "name": "サレンダー",
       "secondary": "ポルカドットスティングレイ",
@@ -1436,171 +1601,6 @@
         }
       ],
       "detailPath": "entities/songs/508f15e48f817bcc.json"
-    },
-    {
-      "rank": 17496,
-      "id": "c5742cb38017f871",
-      "name": "さわれない歌",
-      "secondary": "UNISON SQUARE GARDEN",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "sa7TDRZSMes",
-          "videoTitle": "【＃歌枠 / #karaoke 】ラジオも出るしファンミもあります！わかってるのかって！！【＃もんたりうむ /初見さんも大歓迎♪】",
-          "channelName": "木乃芽もん太🦭Konome Monta💭",
-          "publishedAt": "2026-09-28T13:55:45.212Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sa7TDRZSMes/hqdefault.jpg",
-          "sourcePath": "sources/sa/sa7TDRZSMes.json",
-          "time": "1:14:00",
-          "seconds": 4440,
-          "songTitle": "さわれない歌",
-          "artist": "UNISON SQUARE GARDEN"
-        }
-      ],
-      "detailPath": "entities/songs/c5742cb38017f871.json"
-    },
-    {
-      "rank": 17497,
-      "id": "ba6de727fea8c595",
-      "name": "サン・トワ・マミー",
-      "secondary": "越路吹雪",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "etF46pYqcXs",
-          "videoTitle": "【昭和縛り #歌枠配信 】同接80目標！🧡昨日ねちゃったしゅおが歌います！🧡【秋桜しゅお/登龍門BOX】#karaoke #vtuber #vsinger #昭和歌謡",
-          "channelName": "秋桜しゅお🧡昭和歌謡大好きVTuber",
-          "publishedAt": "2026-09-23T13:47:21.602Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/etF46pYqcXs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2MCEVShFMOrLzdZft6lq84GCChw",
-          "sourcePath": "sources/et/etF46pYqcXs.json",
-          "time": "0:53:35",
-          "seconds": 3215,
-          "songTitle": "サン・トワ・マミー",
-          "artist": "越路吹雪"
-        }
-      ],
-      "detailPath": "entities/songs/ba6de727fea8c595.json"
-    },
-    {
-      "rank": 17498,
-      "id": "49ad0d9a19784cf4",
-      "name": "サンキュー",
-      "secondary": "大原櫻子 ※JOYSOUND",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "BrQtO2d94JI",
-          "videoTitle": "【歌枠】歌練します【紅崎ねいこ】",
-          "channelName": "紅崎ねいこ",
-          "publishedAt": "2026-09-17T14:53:14.396Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BrQtO2d94JI/hqdefault.jpg",
-          "sourcePath": "sources/Br/BrQtO2d94JI.json",
-          "time": "1:35:51",
-          "seconds": 5751,
-          "songTitle": "サンキュー",
-          "artist": "大原櫻子 ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/songs/49ad0d9a19784cf4.json"
-    },
-    {
-      "rank": 17499,
-      "id": "08bb6d3ae17fc22c",
-      "name": "サンキュー！！",
-      "secondary": "HOME MADE 家族",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "9BIHvdLCAm4",
-          "videoTitle": "【 歌枠 】デッケェ～声で歌うぞ！【VTuber / 二茅ニナ / Twitchアーカイブ】",
-          "channelName": "二茅ニナ / Nigaya Nina",
-          "publishedAt": "2026-10-03T02:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9BIHvdLCAm4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCOaSZllGH81Bo7am7IWj3vpaZMLA",
-          "sourcePath": "sources/9B/9BIHvdLCAm4.json",
-          "time": "1:29:10",
-          "seconds": 5350,
-          "songTitle": "サンキュー！！",
-          "artist": "HOME MADE 家族"
-        }
-      ],
-      "detailPath": "entities/songs/08bb6d3ae17fc22c.json"
-    },
-    {
-      "rank": 17500,
-      "id": "e38795f8edd2e65a",
-      "name": "サンシャインロマンス",
-      "secondary": "ORIGINAL LOVE",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "MG_-m9lGC6w",
-          "videoTitle": "【歌枠】令和に ORIGINAL LOVE 限定！！！！！！【だるま屋】#166",
-          "channelName": "だるま屋 / Darumaya",
-          "publishedAt": "2026-09-12T23:06:34.776Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MG_-m9lGC6w/hqdefault.jpg",
-          "sourcePath": "sources/MG/MG_-m9lGC6w.json",
-          "time": "0:40:33",
-          "seconds": 2433,
-          "songTitle": "サンシャインロマンス",
-          "artist": "ORIGINAL LOVE"
-        }
-      ],
-      "detailPath": "entities/songs/e38795f8edd2e65a.json"
     }
   ]
 }

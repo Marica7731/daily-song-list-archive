@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 596,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 29751,
+      "id": "6d344be62dc8e6ba",
+      "name": "Your World and My World",
+      "secondary": "アルバート・ハモンド",
+      "channelId": "UCZKmYYlgo4mspRprTK1OP5w",
+      "channelHandle": "@masaya1957",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "4Rbr3BeEoAE",
+          "videoTitle": "【昭和フォーク】 土曜日 その他＆Free 毎晩弾き語り・30分ライブ＜Day203＞2026 9/19",
+          "channelName": "石垣島からフォークソング【まー先生】",
+          "publishedAt": "2026-09-19T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4Rbr3BeEoAE/hqdefault.jpg",
+          "sourcePath": "sources/4R/4Rbr3BeEoAE.json",
+          "time": "0:07:08",
+          "seconds": 428,
+          "songTitle": "Your World and My World",
+          "artist": "アルバート・ハモンド"
+        }
+      ],
+      "detailPath": "entities/songs/6d344be62dc8e6ba.json"
+    },
+    {
+      "rank": 29752,
+      "id": "464c7de75b334f0b",
+      "name": "yours",
+      "secondary": "keeno feat. 初音ミク",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "1JuE05j8brM",
+          "videoTitle": "【#弾き語り🎹】心を楽にする弾き語り、君と過ごす時間。#鶴乃のはたおり",
+          "channelName": "鶴乃つる - Tsuruno Tsuru -",
+          "publishedAt": "2026-09-24T18:09:23.834Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1JuE05j8brM/hqdefault.jpg",
+          "sourcePath": "sources/1J/1JuE05j8brM.json",
+          "time": "1:20:16",
+          "seconds": 4816,
+          "songTitle": "yours",
+          "artist": "keeno feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/464c7de75b334f0b.json"
+    },
+    {
+      "rank": 29753,
       "id": "928e2eeef509b7d5",
       "name": "Youth",
       "secondary": "The Cheserasera",
@@ -43,7 +106,7 @@
       "detailPath": "entities/songs/928e2eeef509b7d5.json"
     },
     {
-      "rank": 29752,
+      "rank": 29754,
       "id": "e8f20f4d41f40e79",
       "name": "YOUTHFUL",
       "secondary": "99RadioService",
@@ -73,7 +136,7 @@
       "detailPath": "entities/songs/e8f20f4d41f40e79.json"
     },
     {
-      "rank": 29753,
+      "rank": 29755,
       "id": "ff2924986f3502f6",
       "name": "youthful days",
       "secondary": "Mr.Children✨初歌唱",
@@ -106,7 +169,7 @@
       "detailPath": "entities/songs/ff2924986f3502f6.json"
     },
     {
-      "rank": 29754,
+      "rank": 29756,
       "id": "56389e65f5020c16",
       "name": "youthful days",
       "secondary": "",
@@ -139,7 +202,7 @@
       "detailPath": "entities/songs/56389e65f5020c16.json"
     },
     {
-      "rank": 29755,
+      "rank": 29757,
       "id": "78c5dd8cf9e3bd73",
       "name": "YOUtopia",
       "secondary": "Bring Me The Horizon",
@@ -172,7 +235,7 @@
       "detailPath": "entities/songs/78c5dd8cf9e3bd73.json"
     },
     {
-      "rank": 29756,
+      "rank": 29758,
       "id": "a25b7374b4e8e91a",
       "name": "youtube",
       "secondary": "@fuyumoekokona",
@@ -205,7 +268,7 @@
       "detailPath": "entities/songs/a25b7374b4e8e91a.json"
     },
     {
-      "rank": 29757,
+      "rank": 29759,
       "id": "315b78296e29f8db",
       "name": "youtube",
       "secondary": "@szno_xx",
@@ -238,7 +301,7 @@
       "detailPath": "entities/songs/315b78296e29f8db.json"
     },
     {
-      "rank": 29758,
+      "rank": 29760,
       "id": "2da05a1b25b060cb",
       "name": "youtube",
       "secondary": "@kotorisakurane",
@@ -271,7 +334,7 @@
       "detailPath": "entities/songs/2da05a1b25b060cb.json"
     },
     {
-      "rank": 29759,
+      "rank": 29761,
       "id": "08359b289514c3c3",
       "name": "youtube",
       "secondary": "@amagiririan",
@@ -304,7 +367,7 @@
       "detailPath": "entities/songs/08359b289514c3c3.json"
     },
     {
-      "rank": 29760,
+      "rank": 29762,
       "id": "7305b422e3b29816",
       "name": "youtube",
       "secondary": "@asaxmayo",
@@ -337,7 +400,7 @@
       "detailPath": "entities/songs/7305b422e3b29816.json"
     },
     {
-      "rank": 29761,
+      "rank": 29763,
       "id": "0654897f7d374866",
       "name": "youtube",
       "secondary": "@otokagimero",
@@ -370,7 +433,7 @@
       "detailPath": "entities/songs/0654897f7d374866.json"
     },
     {
-      "rank": 29762,
+      "rank": 29764,
       "id": "7050fd9f94679a21",
       "name": "youtube",
       "secondary": "@ratio_yuires",
@@ -403,7 +466,7 @@
       "detailPath": "entities/songs/7050fd9f94679a21.json"
     },
     {
-      "rank": 29763,
+      "rank": 29765,
       "id": "616ae77c44e74484",
       "name": "YouTube",
       "secondary": "@awanami_mer",
@@ -433,7 +496,7 @@
       "detailPath": "entities/songs/616ae77c44e74484.json"
     },
     {
-      "rank": 29764,
+      "rank": 29766,
       "id": "36dd2bb87b3f1a6f",
       "name": "YouTube",
       "secondary": "@yukino_nei",
@@ -463,7 +526,7 @@
       "detailPath": "entities/songs/36dd2bb87b3f1a6f.json"
     },
     {
-      "rank": 29765,
+      "rank": 29767,
       "id": "d2ae5e2e13ae2a36",
       "name": "YouTube",
       "secondary": "@羽鵐衣そあ_vt",
@@ -493,7 +556,7 @@
       "detailPath": "entities/songs/d2ae5e2e13ae2a36.json"
     },
     {
-      "rank": 29766,
+      "rank": 29768,
       "id": "cb763cde3d8da2a0",
       "name": "YouTube",
       "secondary": "@mecori",
@@ -523,7 +586,7 @@
       "detailPath": "entities/songs/cb763cde3d8da2a0.json"
     },
     {
-      "rank": 29767,
+      "rank": 29769,
       "id": "0e77fb8ad2084b97",
       "name": "YouTube",
       "secondary": "@suzuno_shinomiya",
@@ -553,7 +616,7 @@
       "detailPath": "entities/songs/0e77fb8ad2084b97.json"
     },
     {
-      "rank": 29768,
+      "rank": 29770,
       "id": "fba5723d88db597f",
       "name": "YouTube",
       "secondary": "@パルタクレイシスparuta",
@@ -583,7 +646,7 @@
       "detailPath": "entities/songs/fba5723d88db597f.json"
     },
     {
-      "rank": 29769,
+      "rank": 29771,
       "id": "c8700b469ace38f8",
       "name": "YouTube",
       "secondary": "@rururunautau",
@@ -613,7 +676,7 @@
       "detailPath": "entities/songs/c8700b469ace38f8.json"
     },
     {
-      "rank": 29770,
+      "rank": 29772,
       "id": "4601abbe0407ffb3",
       "name": "YouTube",
       "secondary": "@mui_hirune",
@@ -643,7 +706,7 @@
       "detailPath": "entities/songs/4601abbe0407ffb3.json"
     },
     {
-      "rank": 29771,
+      "rank": 29773,
       "id": "350402fa5ece059b",
       "name": "YouTube",
       "secondary": "@torimunemomo",
@@ -673,7 +736,7 @@
       "detailPath": "entities/songs/350402fa5ece059b.json"
     },
     {
-      "rank": 29772,
+      "rank": 29774,
       "id": "8b4e2806236befd3",
       "name": "YouTube",
       "secondary": "@みいろせあ",
@@ -703,7 +766,7 @@
       "detailPath": "entities/songs/8b4e2806236befd3.json"
     },
     {
-      "rank": 29773,
+      "rank": 29775,
       "id": "6ea39ee0f0d8cdee",
       "name": "YouTube",
       "secondary": "@比羽沢れいら",
@@ -733,7 +796,7 @@
       "detailPath": "entities/songs/6ea39ee0f0d8cdee.json"
     },
     {
-      "rank": 29774,
+      "rank": 29776,
       "id": "f97c869a4628748e",
       "name": "YouTubeくんの好感度",
       "secondary": "",
@@ -766,7 +829,7 @@
       "detailPath": "entities/songs/f97c869a4628748e.json"
     },
     {
-      "rank": 29775,
+      "rank": 29777,
       "id": "f0257b12d7cb38bf",
       "name": "YouTubeテーマソング",
       "secondary": "ヒカキン＆セイキン",
@@ -800,7 +863,7 @@
       "detailPath": "entities/songs/f0257b12d7cb38bf.json"
     },
     {
-      "rank": 29776,
+      "rank": 29778,
       "id": "f041ce9948eaeca7",
       "name": "YouTube君のバグ…",
       "secondary": "",
@@ -833,7 +896,7 @@
       "detailPath": "entities/songs/f041ce9948eaeca7.json"
     },
     {
-      "rank": 29777,
+      "rank": 29779,
       "id": "cb5b909f49c976a0",
       "name": "youtube新機能",
       "secondary": "ライブショーダウン",
@@ -863,7 +926,7 @@
       "detailPath": "entities/songs/cb5b909f49c976a0.json"
     },
     {
-      "rank": 29778,
+      "rank": 29780,
       "id": "7713103e4361eff6",
       "name": "youtuful beautiful",
       "secondary": "",
@@ -895,7 +958,7 @@
       "detailPath": "entities/songs/7713103e4361eff6.json"
     },
     {
-      "rank": 29779,
+      "rank": 29781,
       "id": "c5a9e89804ab900b",
       "name": "Yowamushi Mont Blanc",
       "secondary": "DECO*27 ft. GUMI",
@@ -928,7 +991,7 @@
       "detailPath": "entities/songs/c5a9e89804ab900b.json"
     },
     {
-      "rank": 29780,
+      "rank": 29782,
       "id": "8fe702769b1a0967",
       "name": "yowamusi no uta",
       "secondary": "",
@@ -961,7 +1024,7 @@
       "detailPath": "entities/songs/8fe702769b1a0967.json"
     },
     {
-      "rank": 29781,
+      "rank": 29783,
       "id": "8c5cd031b8709174",
       "name": "Yozakura Oshichi",
       "secondary": "未記載",
@@ -995,7 +1058,7 @@
       "detailPath": "entities/songs/8c5cd031b8709174.json"
     },
     {
-      "rank": 29782,
+      "rank": 29784,
       "id": "b9b3c4261ee48e04",
       "name": "YUBIKIRI-GENMAN",
       "secondary": "Mili 2014年",
@@ -1028,7 +1091,7 @@
       "detailPath": "entities/songs/b9b3c4261ee48e04.json"
     },
     {
-      "rank": 29783,
+      "rank": 29785,
       "id": "12121d55600c6834",
       "name": "Yudachi no Ribbon",
       "secondary": "みきとP",
@@ -1061,7 +1124,7 @@
       "detailPath": "entities/songs/12121d55600c6834.json"
     },
     {
-      "rank": 29784,
+      "rank": 29786,
       "id": "6d4d9e4cca91479f",
       "name": "YUI",
       "secondary": "again",
@@ -1094,7 +1157,7 @@
       "detailPath": "entities/songs/6d4d9e4cca91479f.json"
     },
     {
-      "rank": 29785,
+      "rank": 29787,
       "id": "3daa76f16c02d6b2",
       "name": "Yuigon",
       "secondary": "Centimillimental",
@@ -1127,7 +1190,7 @@
       "detailPath": "entities/songs/3daa76f16c02d6b2.json"
     },
     {
-      "rank": 29786,
+      "rank": 29788,
       "id": "266f43e9bb027fd5",
       "name": "Yukai na Kotori 【First Live Performance】",
       "secondary": "Awanone Poka",
@@ -1159,7 +1222,7 @@
       "detailPath": "entities/songs/266f43e9bb027fd5.json"
     },
     {
-      "rank": 29787,
+      "rank": 29789,
       "id": "03e5f951469f2195",
       "name": "yuki",
       "secondary": "グダグダな感じ（老高BGM）（聽歌）",
@@ -1192,7 +1255,7 @@
       "detailPath": "entities/songs/03e5f951469f2195.json"
     },
     {
-      "rank": 29788,
+      "rank": 29790,
       "id": "2f19cfb2bd2feee6",
       "name": "Yuki no Hana",
       "secondary": "Mika Nakashima",
@@ -1225,7 +1288,7 @@
       "detailPath": "entities/songs/2f19cfb2bd2feee6.json"
     },
     {
-      "rank": 29789,
+      "rank": 29791,
       "id": "614c3a454a5b85f3",
       "name": "YUME Biyori",
       "secondary": "Hitomi Shimatani",
@@ -1258,7 +1321,7 @@
       "detailPath": "entities/songs/614c3a454a5b85f3.json"
     },
     {
-      "rank": 29790,
+      "rank": 29792,
       "id": "2a8a2af98a9cfe20",
       "name": "Yume de Kiss me!",
       "secondary": "AKB48",
@@ -1291,7 +1354,7 @@
       "detailPath": "entities/songs/2a8a2af98a9cfe20.json"
     },
     {
-      "rank": 29791,
+      "rank": 29793,
       "id": "c9db27371e9a8312",
       "name": "Yume Miru Shoujo ja Irarenai",
       "secondary": "Nanase Aikawa",
@@ -1324,7 +1387,7 @@
       "detailPath": "entities/songs/c9db27371e9a8312.json"
     },
     {
-      "rank": 29792,
+      "rank": 29794,
       "id": "64788c6ae08c813b",
       "name": "Yume no Mata Yume",
       "secondary": "Mafumafu",
@@ -1354,7 +1417,7 @@
       "detailPath": "entities/songs/64788c6ae08c813b.json"
     },
     {
-      "rank": 29793,
+      "rank": 29795,
       "id": "bd305f2f8a5ed059",
       "name": "Yume no Tsubasa",
       "secondary": "Yui Makino",
@@ -1387,7 +1450,7 @@
       "detailPath": "entities/songs/bd305f2f8a5ed059.json"
     },
     {
-      "rank": 29794,
+      "rank": 29796,
       "id": "f6d801a03bedad11",
       "name": "Yume Sekai",
       "secondary": "Haruka Tomatsu",
@@ -1420,7 +1483,7 @@
       "detailPath": "entities/songs/f6d801a03bedad11.json"
     },
     {
-      "rank": 29795,
+      "rank": 29797,
       "id": "3ecf6848a0cca556",
       "name": "Yume wo Kanaete Doraemon",
       "secondary": "Katsuhiko Kurosu",
@@ -1453,7 +1516,7 @@
       "detailPath": "entities/songs/3ecf6848a0cca556.json"
     },
     {
-      "rank": 29796,
+      "rank": 29798,
       "id": "cf5eb8bc502cac81",
       "name": "Yumemiteta no Atashi",
       "secondary": "DAOKO",
@@ -1486,7 +1549,7 @@
       "detailPath": "entities/songs/cf5eb8bc502cac81.json"
     },
     {
-      "rank": 29797,
+      "rank": 29799,
       "id": "cb97203df770f2a8",
       "name": "Yumezora Fanfare untuk para penggemar",
       "secondary": "janji apa yang ia ucapkan?",
@@ -1519,7 +1582,7 @@
       "detailPath": "entities/songs/cb97203df770f2a8.json"
     },
     {
-      "rank": 29798,
+      "rank": 29800,
       "id": "7c5123ad44b3ce9b",
       "name": "Yumezora Fanfare, a song from the heart",
       "secondary": "what promise does she make?",
@@ -1550,71 +1613,6 @@
         }
       ],
       "detailPath": "entities/songs/7c5123ad44b3ce9b.json"
-    },
-    {
-      "rank": 29799,
-      "id": "849a32724516f206",
-      "name": "YUMEコレ9",
-      "secondary": "23までだよ〜",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "auycKkHfYRE",
-          "videoTitle": "歌枠｜ルーレットリクエスト♡ଓ初見さんも大歓迎。BGM勢◎ 【 白波瀬ソル / YUMENOS】 #shorts #karaoke",
-          "channelName": "白波瀬ソル / Sol Shirahase",
-          "publishedAt": "2026-09-12T15:07:05.434Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/auycKkHfYRE/hqdefault.jpg",
-          "sourcePath": "sources/au/auycKkHfYRE.json",
-          "time": "1:57:51",
-          "seconds": 7071,
-          "songTitle": "YUMEコレ9",
-          "artist": "23までだよ〜"
-        }
-      ],
-      "detailPath": "entities/songs/849a32724516f206.json"
-    },
-    {
-      "rank": 29800,
-      "id": "566df9f6848cbfeb",
-      "name": "YUME日和",
-      "secondary": "未記載",
-      "channelId": "UCyY6YeINiwQoA-FnmdQCkug",
-      "channelHandle": "@chiyomi0812",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8g4AG-j2iTw",
-          "videoTitle": "【歌枠/耐久】50音順にアニソンやJ-POP、ボカロ等歌って盛り上がっていくぞ～～！！🎤 #千代浦蝶美",
-          "channelName": "ちよみch. 千代浦蝶美 /あおぎり高校",
-          "publishedAt": "2026-07-02T21:13:05.244Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8g4AG-j2iTw/hqdefault.jpg",
-          "sourcePath": "sources/8g/8g4AG-j2iTw.json",
-          "time": "3:15:17",
-          "seconds": 11717,
-          "songTitle": "YUME日和",
-          "artist": "未記載"
-        }
-      ],
-      "detailPath": "entities/songs/566df9f6848cbfeb.json"
     }
   ]
 }

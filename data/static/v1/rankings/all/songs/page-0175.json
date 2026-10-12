@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 175,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 8701,
+      "id": "3bf18f0f2a264d85",
+      "name": "悪魔の踊り方",
+      "secondary": "こんにちは谷田さん feat. 鏡音リン",
+      "channelId": "UCp7RIfl5Vjc30bnBL4KohQw",
+      "channelHandle": "@Unifee_momochi",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "gcv7ULuFPl0",
+          "videoTitle": "【歌枠】お昼にしとらの歌声を。。あなたの魂を揺らすVsinger―【VTuber/配信中】",
+          "channelName": "Shitora ch. 涼風しとら",
+          "publishedAt": "2026-09-14T08:53:27.606Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gcv7ULuFPl0/hqdefault.jpg",
+          "sourcePath": "sources/gc/gcv7ULuFPl0.json",
+          "time": "1:28:56",
+          "seconds": 5336,
+          "songTitle": "悪魔の踊り方",
+          "artist": "こんにちは谷田さん feat. 鏡音リン"
+        },
+        {
+          "videoId": "PvPGrz4e9QA",
+          "videoTitle": "【歌枠】リハビリ生歌&お披露目 #karaoke【雨霧リアン】",
+          "channelName": "雨霧リアン / Amagiri Rian",
+          "publishedAt": "2026-07-18T17:06:49.004Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PvPGrz4e9QA/hqdefault.jpg",
+          "sourcePath": "sources/Pv/PvPGrz4e9QA.json",
+          "time": "0:18:01",
+          "seconds": 1081,
+          "songTitle": "悪魔の踊り方",
+          "artist": "こんにちは谷田さん feat. 鏡音リン"
+        },
+        {
+          "videoId": "pMc6PPPCeIw",
+          "videoTitle": "〖耐久歌枠〗チャンネル登録19000人まで歌う！！初見さん大歓迎の歌枠🎤✨ 〖 #百地波瑠 / ゆにふぃ！〗",
+          "channelName": "百地波瑠 / Momochi Haru",
+          "publishedAt": "2026-07-02T23:03:56.849Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pMc6PPPCeIw/hqdefault.jpg",
+          "sourcePath": "sources/pM/pMc6PPPCeIw.json",
+          "time": "1:27:32",
+          "seconds": 5252,
+          "songTitle": "悪魔の踊り方",
+          "artist": "こんにちは谷田さん feat. 鏡音リン"
+        }
+      ],
+      "detailPath": "entities/songs/3bf18f0f2a264d85.json"
+    },
+    {
+      "rank": 8702,
       "id": "8d4c3f13ade3d9cc",
       "name": "悪夢",
       "secondary": "キタニタツヤ",
@@ -70,7 +130,7 @@
       "detailPath": "entities/songs/8d4c3f13ade3d9cc.json"
     },
     {
-      "rank": 8702,
+      "rank": 8703,
       "id": "03a411267467a3cb",
       "name": "旭乃アクア",
       "secondary": "",
@@ -127,7 +187,7 @@
       "detailPath": "entities/songs/03a411267467a3cb.json"
     },
     {
-      "rank": 8703,
+      "rank": 8704,
       "id": "88abf5e56e0e8f48",
       "name": "圧倒的なアイラブユー",
       "secondary": "柿崎ユウタ",
@@ -181,7 +241,7 @@
       "detailPath": "entities/songs/88abf5e56e0e8f48.json"
     },
     {
-      "rank": 8704,
+      "rank": 8705,
       "id": "717d90c445c9b4db",
       "name": "或る街の群青",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -240,7 +300,7 @@
       "detailPath": "entities/songs/717d90c445c9b4db.json"
     },
     {
-      "rank": 8705,
+      "rank": 8706,
       "id": "e1ff03a35a0eec50",
       "name": "案山子",
       "secondary": "さだまさし",
@@ -298,7 +358,7 @@
       "detailPath": "entities/songs/e1ff03a35a0eec50.json"
     },
     {
-      "rank": 8706,
+      "rank": 8707,
       "id": "fbc8d8a8324b33c5",
       "name": "闇のBAROQUE - バロック",
       "secondary": "シェシェ (土屋実紀),ミミ (下屋則子)",
@@ -355,7 +415,7 @@
       "detailPath": "entities/songs/fbc8d8a8324b33c5.json"
     },
     {
-      "rank": 8707,
+      "rank": 8708,
       "id": "6ec2e3ec93c670b0",
       "name": "意識 ～戦後最大級ノ暴風雨圏内歌唱～",
       "secondary": "椎名林檎",
@@ -414,7 +474,7 @@
       "detailPath": "entities/songs/6ec2e3ec93c670b0.json"
     },
     {
-      "rank": 8708,
+      "rank": 8709,
       "id": "42535bdb0e17f210",
       "name": "異邦人",
       "secondary": "中森明菜",
@@ -471,7 +531,7 @@
       "detailPath": "entities/songs/42535bdb0e17f210.json"
     },
     {
-      "rank": 8709,
+      "rank": 8710,
       "id": "0118265cd3e28749",
       "name": "異邦人",
       "secondary": "",
@@ -529,7 +589,7 @@
       "detailPath": "entities/songs/0118265cd3e28749.json"
     },
     {
-      "rank": 8710,
+      "rank": 8711,
       "id": "1f302d50499cc501",
       "name": "一心不乱",
       "secondary": "梅とら",
@@ -586,7 +646,7 @@
       "detailPath": "entities/songs/1f302d50499cc501.json"
     },
     {
-      "rank": 8711,
+      "rank": 8712,
       "id": "dad9de7f092e71cd",
       "name": "一石二兆t",
       "secondary": "オリジナル曲",
@@ -640,7 +700,7 @@
       "detailPath": "entities/songs/dad9de7f092e71cd.json"
     },
     {
-      "rank": 8712,
+      "rank": 8713,
       "id": "3324a40097f92731",
       "name": "一体いつから",
       "secondary": "初星学園 月村手毬",
@@ -697,7 +757,7 @@
       "detailPath": "entities/songs/3324a40097f92731.json"
     },
     {
-      "rank": 8713,
+      "rank": 8714,
       "id": "ae2522ca159764ad",
       "name": "一度だけの恋なら",
       "secondary": "未記載",
@@ -754,7 +814,7 @@
       "detailPath": "entities/songs/ae2522ca159764ad.json"
     },
     {
-      "rank": 8714,
+      "rank": 8715,
       "id": "346fb17cfefffd9c",
       "name": "一度だけの恋なら",
       "secondary": "",
@@ -808,7 +868,7 @@
       "detailPath": "entities/songs/346fb17cfefffd9c.json"
     },
     {
-      "rank": 8715,
+      "rank": 8716,
       "id": "80f8babf6d483810",
       "name": "一日惚れ",
       "secondary": "澄花",
@@ -867,7 +927,7 @@
       "detailPath": "entities/songs/80f8babf6d483810.json"
     },
     {
-      "rank": 8716,
+      "rank": 8717,
       "id": "e41c50a3b21f9ac7",
       "name": "一番の宝物",
       "secondary": "ユイ",
@@ -927,7 +987,7 @@
       "detailPath": "entities/songs/e41c50a3b21f9ac7.json"
     },
     {
-      "rank": 8717,
+      "rank": 8718,
       "id": "6c5bf9a154b05863",
       "name": "一番の宝物",
       "secondary": "",
@@ -984,7 +1044,7 @@
       "detailPath": "entities/songs/6c5bf9a154b05863.json"
     },
     {
-      "rank": 8718,
+      "rank": 8719,
       "id": "145d21d526acbcf4",
       "name": "一歩前ノセカイ",
       "secondary": "TINGS",
@@ -1044,7 +1104,7 @@
       "detailPath": "entities/songs/145d21d526acbcf4.json"
     },
     {
-      "rank": 8719,
+      "rank": 8720,
       "id": "fbcf1d53718543de",
       "name": "飲みに来ないか",
       "secondary": "スキマスイッチ",
@@ -1102,7 +1162,7 @@
       "detailPath": "entities/songs/fbcf1d53718543de.json"
     },
     {
-      "rank": 8720,
+      "rank": 8721,
       "id": "a4eea3ea6c604992",
       "name": "右肩の蝶",
       "secondary": "のりP feat.鏡音リン",
@@ -1162,7 +1222,7 @@
       "detailPath": "entities/songs/a4eea3ea6c604992.json"
     },
     {
-      "rank": 8721,
+      "rank": 8722,
       "id": "eafc115c52db07d7",
       "name": "羽鳥あん",
       "secondary": "",
@@ -1216,7 +1276,7 @@
       "detailPath": "entities/songs/eafc115c52db07d7.json"
     },
     {
-      "rank": 8722,
+      "rank": 8723,
       "id": "67e968cd085433fa",
       "name": "雨とペトラ",
       "secondary": "バルーン(須田景凪)",
@@ -1276,7 +1336,7 @@
       "detailPath": "entities/songs/67e968cd085433fa.json"
     },
     {
-      "rank": 8723,
+      "rank": 8724,
       "id": "711d35aa143778cf",
       "name": "雨とペトラ",
       "secondary": "須田景凪",
@@ -1333,7 +1393,7 @@
       "detailPath": "entities/songs/711d35aa143778cf.json"
     },
     {
-      "rank": 8724,
+      "rank": 8725,
       "id": "725e0b4d2202f182",
       "name": "雨にキッスの花束を",
       "secondary": "今井美樹",
@@ -1390,7 +1450,7 @@
       "detailPath": "entities/songs/725e0b4d2202f182.json"
     },
     {
-      "rank": 8725,
+      "rank": 8726,
       "id": "fc26f3c7c06e8d33",
       "name": "雨のち晴レルヤ",
       "secondary": "ゆず",
@@ -1447,7 +1507,7 @@
       "detailPath": "entities/songs/fc26f3c7c06e8d33.json"
     },
     {
-      "rank": 8726,
+      "rank": 8727,
       "id": "e8ef5401f4b7f3dc",
       "name": "雨の街路に夜光蟲",
       "secondary": "米津玄師",
@@ -1507,7 +1567,7 @@
       "detailPath": "entities/songs/e8ef5401f4b7f3dc.json"
     },
     {
-      "rank": 8727,
+      "rank": 8728,
       "id": "7005eaf1652742da",
       "name": "雨愛",
       "secondary": "楊丞琳",
@@ -1564,7 +1624,7 @@
       "detailPath": "entities/songs/7005eaf1652742da.json"
     },
     {
-      "rank": 8728,
+      "rank": 8729,
       "id": "56b47173bad9f40e",
       "name": "雨上がりのアイリス",
       "secondary": "初星学園 Re;IRIS",
@@ -1621,7 +1681,7 @@
       "detailPath": "entities/songs/56b47173bad9f40e.json"
     },
     {
-      "rank": 8729,
+      "rank": 8730,
       "id": "8adb3c6be54137d4",
       "name": "嘘",
       "secondary": "シド（2009年）",
@@ -1679,7 +1739,7 @@
       "detailPath": "entities/songs/8adb3c6be54137d4.json"
     },
     {
-      "rank": 8730,
+      "rank": 8731,
       "id": "059c360efdc90e3a",
       "name": "嘘じゃない",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1739,7 +1799,7 @@
       "detailPath": "entities/songs/059c360efdc90e3a.json"
     },
     {
-      "rank": 8731,
+      "rank": 8732,
       "id": "f3839fde09581a77",
       "name": "嘘つき",
       "secondary": "あたらよ",
@@ -1799,7 +1859,7 @@
       "detailPath": "entities/songs/f3839fde09581a77.json"
     },
     {
-      "rank": 8732,
+      "rank": 8733,
       "id": "36eb03f4a019c164",
       "name": "運命の人",
       "secondary": "藤田麻衣子",
@@ -1858,7 +1918,7 @@
       "detailPath": "entities/songs/36eb03f4a019c164.json"
     },
     {
-      "rank": 8733,
+      "rank": 8734,
       "id": "b8bfb3f366599461",
       "name": "影踏みエトランゼ",
       "secondary": "Substreet",
@@ -1915,7 +1975,7 @@
       "detailPath": "entities/songs/b8bfb3f366599461.json"
     },
     {
-      "rank": 8734,
+      "rank": 8735,
       "id": "0d62c86a0c127830",
       "name": "永遠のあくる日〈Eien no Akuruhi〉",
       "secondary": "Ado",
@@ -1973,7 +2033,7 @@
       "detailPath": "entities/songs/0d62c86a0c127830.json"
     },
     {
-      "rank": 8735,
+      "rank": 8736,
       "id": "1bee5166559fe3fe",
       "name": "永遠のアセリア",
       "secondary": "川村ゆみ",
@@ -2030,7 +2090,7 @@
       "detailPath": "entities/songs/1bee5166559fe3fe.json"
     },
     {
-      "rank": 8736,
+      "rank": 8737,
       "id": "6ee1d6cd96ae609f",
       "name": "永遠の扉",
       "secondary": "米倉千尋",
@@ -2089,7 +2149,7 @@
       "detailPath": "entities/songs/6ee1d6cd96ae609f.json"
     },
     {
-      "rank": 8737,
+      "rank": 8738,
       "id": "bcf6015e617df125",
       "name": "永遠ブルー",
       "secondary": "MAKE-UP",
@@ -2146,7 +2206,7 @@
       "detailPath": "entities/songs/bcf6015e617df125.json"
     },
     {
-      "rank": 8738,
+      "rank": 8739,
       "id": "bc034929ccc034cf",
       "name": "英雄 運命の詩",
       "secondary": "",
@@ -2203,7 +2263,7 @@
       "detailPath": "entities/songs/bc034929ccc034cf.json"
     },
     {
-      "rank": 8739,
+      "rank": 8740,
       "id": "386a08fb42be6db9",
       "name": "詠人",
       "secondary": "北島三郎",
@@ -2261,7 +2321,7 @@
       "detailPath": "entities/songs/386a08fb42be6db9.json"
     },
     {
-      "rank": 8740,
+      "rank": 8741,
       "id": "d35a85bb77271728",
       "name": "炎(ほむら)",
       "secondary": "LiSA",
@@ -2319,7 +2379,7 @@
       "detailPath": "entities/songs/d35a85bb77271728.json"
     },
     {
-      "rank": 8741,
+      "rank": 8742,
       "id": "9c168058683e475f",
       "name": "焔の扉",
       "secondary": "機動戦士ガンダムSEED DESTINY",
@@ -2378,7 +2438,7 @@
       "detailPath": "entities/songs/9c168058683e475f.json"
     },
     {
-      "rank": 8742,
+      "rank": 8743,
       "id": "9c5174849e48ee14",
       "name": "遠い記憶",
       "secondary": "椎名恵",
@@ -2436,7 +2496,7 @@
       "detailPath": "entities/songs/9c5174849e48ee14.json"
     },
     {
-      "rank": 8743,
+      "rank": 8744,
       "id": "e43818c5c66752e9",
       "name": "黄砂に吹かれて",
       "secondary": "工藤静香",
@@ -2496,7 +2556,7 @@
       "detailPath": "entities/songs/e43818c5c66752e9.json"
     },
     {
-      "rank": 8744,
+      "rank": 8745,
       "id": "730111f168afe603",
       "name": "黄色",
       "secondary": "back number",
@@ -2556,7 +2616,7 @@
       "detailPath": "entities/songs/730111f168afe603.json"
     },
     {
-      "rank": 8745,
+      "rank": 8746,
       "id": "5c6eea91d0a7722b",
       "name": "俺たちのロカビリーナイト",
       "secondary": "チェッカーズ",
@@ -2615,7 +2675,7 @@
       "detailPath": "entities/songs/5c6eea91d0a7722b.json"
     },
     {
-      "rank": 8746,
+      "rank": 8747,
       "id": "30ffb89505c7429a",
       "name": "音の無い世界",
       "secondary": "LAST ALLIANCE",
@@ -2675,7 +2735,7 @@
       "detailPath": "entities/songs/30ffb89505c7429a.json"
     },
     {
-      "rank": 8747,
+      "rank": 8748,
       "id": "ce9fc7c98ba3b897",
       "name": "音を浮かべて",
       "secondary": "wouca",
@@ -2735,7 +2795,7 @@
       "detailPath": "entities/songs/ce9fc7c98ba3b897.json"
     },
     {
-      "rank": 8748,
+      "rank": 8749,
       "id": "516303642a0e6ed3",
       "name": "音楽のすゝめ",
       "secondary": "日食なつこ",
@@ -2795,7 +2855,7 @@
       "detailPath": "entities/songs/516303642a0e6ed3.json"
     },
     {
-      "rank": 8749,
+      "rank": 8750,
       "id": "e35ee03247a3aa1e",
       "name": "下雨天",
       "secondary": "南拳媽媽",
@@ -2850,64 +2910,6 @@
         }
       ],
       "detailPath": "entities/songs/e35ee03247a3aa1e.json"
-    },
-    {
-      "rank": 8750,
-      "id": "1405b873faf952db",
-      "name": "化けの花",
-      "secondary": "なきそ feat.初音ミク",
-      "channelId": "UC0fy0AQTnCUaKOvnOoyp-Pg",
-      "channelHandle": "@MatsuyoiSyamo",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "xmvKMuzTAXE",
-          "videoTitle": "【歌枠】深淵組は今日で解散！10月からは個人勢！気持ちを込めて歌います。あなたの魂を揺らすVsinger―【VTuber/配信中】",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xmvKMuzTAXE/hqdefault.jpg",
-          "sourcePath": "sources/xm/xmvKMuzTAXE.json",
-          "time": "1:15:26",
-          "seconds": 4526,
-          "songTitle": "化けの花",
-          "artist": "なきそ feat. 初音ミク"
-        },
-        {
-          "videoId": "7vXX4ZY2vUo",
-          "videoTitle": "【#歌枠】ちょこっとぎたーとうた✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
-          "channelName": "冬萌ここな",
-          "publishedAt": "2026-09-02T15:41:39.439Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7vXX4ZY2vUo/hqdefault.jpg",
-          "sourcePath": "sources/7v/7vXX4ZY2vUo.json",
-          "time": "1:54:34",
-          "seconds": 6874,
-          "songTitle": "化けの花",
-          "artist": "なきそ feat. 初音ミク"
-        },
-        {
-          "videoId": "pzdLI0ACOjw",
-          "videoTitle": "【歌枠┆karaoke】初見さんが来るまで歌えない🥺目標50人💪【#新人vtuber 】",
-          "channelName": "待宵しゃも🌔",
-          "publishedAt": "2026-07-02T09:59:48.358Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pzdLI0ACOjw/hqdefault.jpg",
-          "sourcePath": "sources/pz/pzdLI0ACOjw.json",
-          "time": "1:19:40",
-          "seconds": 4780,
-          "songTitle": "化けの花",
-          "artist": "なきそ feat.初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/1405b873faf952db.json"
     }
   ]
 }

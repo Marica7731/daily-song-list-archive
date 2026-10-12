@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "artists",
   "page": 191,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10870,
+  "totalCount": 10871,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9501,
+      "id": "3baf6f68ebf62b93",
+      "name": "神田沙也加 & 津田英佑",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "VQj0qD1cwgM",
+          "videoTitle": "【#歌枠】雑談 Chill 作業BGM🎈BGM ながやまめめのギター弾き語り！カラオケ✨ 【SINGING STREAM】#vtuber #karaoke #shorts #歌ってみた",
+          "channelName": "ながやまめめ / Nagayama Meme",
+          "publishedAt": "2026-09-18T18:29:52.748Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VQj0qD1cwgM/hqdefault.jpg",
+          "sourcePath": "sources/VQ/VQj0qD1cwgM.json",
+          "time": "1:55:24",
+          "seconds": 6924,
+          "songTitle": "とびら開けて",
+          "artist": "神田沙也加 & 津田英佑"
+        }
+      ],
+      "detailPath": "entities/artists/3baf6f68ebf62b93.json"
+    },
+    {
+      "rank": 9502,
       "id": "f4b791619810a7b4",
       "name": "神田沙也加、松たか子 ／ アナと雪の女王(2013年)",
       "secondary": "",
@@ -40,7 +73,7 @@
       "detailPath": "entities/artists/f4b791619810a7b4.json"
     },
     {
-      "rank": 9502,
+      "rank": 9503,
       "id": "96908c59e4da2f9b",
       "name": "神田沙也加、松たか子 From『アナと雪の女王』",
       "secondary": "",
@@ -73,7 +106,7 @@
       "detailPath": "entities/artists/96908c59e4da2f9b.json"
     },
     {
-      "rank": 9503,
+      "rank": 9504,
       "id": "928b7efa01b8b6f5",
       "name": "神田沙也加(Kanda Sayaka) & 松たか子",
       "secondary": "",
@@ -106,7 +139,7 @@
       "detailPath": "entities/artists/928b7efa01b8b6f5.json"
     },
     {
-      "rank": 9504,
+      "rank": 9505,
       "id": "7457e18b6ddf60e1",
       "name": "神様、僕は気づいてしまった ※キー探し冒険Ver",
       "secondary": "",
@@ -136,7 +169,7 @@
       "detailPath": "entities/artists/7457e18b6ddf60e1.json"
     },
     {
-      "rank": 9505,
+      "rank": 9506,
       "id": "255c3909485bcde5",
       "name": "神様、僕は気づいてしまった 様",
       "secondary": "",
@@ -166,7 +199,7 @@
       "detailPath": "entities/artists/255c3909485bcde5.json"
     },
     {
-      "rank": 9506,
+      "rank": 9507,
       "id": "0ccf89471462fa54",
       "name": "秦基博（STAND BY ME ドラえもん 主題歌）",
       "secondary": "",
@@ -196,7 +229,7 @@
       "detailPath": "entities/artists/0ccf89471462fa54.json"
     },
     {
-      "rank": 9507,
+      "rank": 9508,
       "id": "c52e1f27b50ed815",
       "name": "秦基博(四月は君の嘘 コラボソング)",
       "secondary": "",
@@ -226,7 +259,7 @@
       "detailPath": "entities/artists/c52e1f27b50ed815.json"
     },
     {
-      "rank": 9508,
+      "rank": 9509,
       "id": "1d3fe1bad55fe2a9",
       "name": "秦基博ｻﾝﾝ",
       "secondary": "",
@@ -259,7 +292,7 @@
       "detailPath": "entities/artists/1d3fe1bad55fe2a9.json"
     },
     {
-      "rank": 9509,
+      "rank": 9510,
       "id": "6b80f8601105f0a6",
       "name": "秦基博様",
       "secondary": "",
@@ -289,7 +322,7 @@
       "detailPath": "entities/artists/6b80f8601105f0a6.json"
     },
     {
-      "rank": 9510,
+      "rank": 9511,
       "id": "88cdee6b9b70f174",
       "name": "秦谷美鈴",
       "secondary": "",
@@ -322,7 +355,7 @@
       "detailPath": "entities/artists/88cdee6b9b70f174.json"
     },
     {
-      "rank": 9511,
+      "rank": 9512,
       "id": "48e7fc69db5835ad",
       "name": "秦谷美鈴（学園アイドルマスター）",
       "secondary": "",
@@ -352,7 +385,7 @@
       "detailPath": "entities/artists/48e7fc69db5835ad.json"
     },
     {
-      "rank": 9512,
+      "rank": 9513,
       "id": "32addbf225dacf9e",
       "name": "身バレ",
       "secondary": "",
@@ -382,7 +415,7 @@
       "detailPath": "entities/artists/32addbf225dacf9e.json"
     },
     {
-      "rank": 9513,
+      "rank": 9514,
       "id": "9ec7708f22559651",
       "name": "針原翼(はりーP)",
       "secondary": "",
@@ -415,7 +448,7 @@
       "detailPath": "entities/artists/9ec7708f22559651.json"
     },
     {
-      "rank": 9514,
+      "rank": 9515,
       "id": "f3625aee9022e936",
       "name": "仁井山征弘 feat.GREAT G and surprise",
       "secondary": "",
@@ -448,7 +481,7 @@
       "detailPath": "entities/artists/f3625aee9022e936.json"
     },
     {
-      "rank": 9515,
+      "rank": 9516,
       "id": "2a877821592de3e4",
       "name": "諏訪部順一 (東京ディズニーリゾート『シンドバッド・ストーリーブック・ヴォヤッジ』)",
       "secondary": "",
@@ -478,7 +511,7 @@
       "detailPath": "entities/artists/2a877821592de3e4.json"
     },
     {
-      "rank": 9516,
+      "rank": 9517,
       "id": "cf4814321a3fe18e",
       "name": "須賀響子",
       "secondary": "",
@@ -508,7 +541,7 @@
       "detailPath": "entities/artists/cf4814321a3fe18e.json"
     },
     {
-      "rank": 9517,
+      "rank": 9518,
       "id": "c77f9f590cf7a589",
       "name": "須田景凪 （練習）",
       "secondary": "",
@@ -541,7 +574,7 @@
       "detailPath": "entities/artists/c77f9f590cf7a589.json"
     },
     {
-      "rank": 9518,
+      "rank": 9519,
       "id": "2c7d14e0f56985b5",
       "name": "須田景凪 feat.flower",
       "secondary": "",
@@ -574,7 +607,7 @@
       "detailPath": "entities/artists/2c7d14e0f56985b5.json"
     },
     {
-      "rank": 9519,
+      "rank": 9520,
       "id": "7529fb57694695cb",
       "name": "須田景凪ｻﾝ",
       "secondary": "",
@@ -607,7 +640,7 @@
       "detailPath": "entities/artists/7529fb57694695cb.json"
     },
     {
-      "rank": 9520,
+      "rank": 9521,
       "id": "e8d46ff23363132f",
       "name": "須田景風",
       "secondary": "",
@@ -640,7 +673,7 @@
       "detailPath": "entities/artists/e8d46ff23363132f.json"
     },
     {
-      "rank": 9521,
+      "rank": 9522,
       "id": "2660ff02a6036249",
       "name": "吹雪(上坂すみれ)",
       "secondary": "",
@@ -673,7 +706,7 @@
       "detailPath": "entities/artists/2660ff02a6036249.json"
     },
     {
-      "rank": 9522,
+      "rank": 9523,
       "id": "9f17192cf21eed69",
       "name": "推しが歌っちゃっているのですが…",
       "secondary": "",
@@ -706,7 +739,7 @@
       "detailPath": "entities/artists/9f17192cf21eed69.json"
     },
     {
-      "rank": 9523,
+      "rank": 9524,
       "id": "40862efbece116e1",
       "name": "推しの子・2023年",
       "secondary": "",
@@ -739,7 +772,7 @@
       "detailPath": "entities/artists/40862efbece116e1.json"
     },
     {
-      "rank": 9524,
+      "rank": 9525,
       "id": "c508f97442da1111",
       "name": "推定少女",
       "secondary": "",
@@ -772,7 +805,7 @@
       "detailPath": "entities/artists/c508f97442da1111.json"
     },
     {
-      "rank": 9525,
+      "rank": 9526,
       "id": "d4f95af298d42a9f",
       "name": "水魚みぃむ x 曇音ルカ",
       "secondary": "",
@@ -805,7 +838,7 @@
       "detailPath": "entities/artists/d4f95af298d42a9f.json"
     },
     {
-      "rank": 9526,
+      "rank": 9527,
       "id": "76b852fd25e25d8e",
       "name": "水橋 舞",
       "secondary": "",
@@ -838,7 +871,7 @@
       "detailPath": "entities/artists/76b852fd25e25d8e.json"
     },
     {
-      "rank": 9527,
+      "rank": 9528,
       "id": "d3b7330371c025c0",
       "name": "水橋舞 ※JOYSOUND",
       "secondary": "",
@@ -871,7 +904,7 @@
       "detailPath": "entities/artists/d3b7330371c025c0.json"
     },
     {
-      "rank": 9528,
+      "rank": 9529,
       "id": "c68a4f3dd530b0db",
       "name": "水月やまと feat. 東北きりたん",
       "secondary": "",
@@ -904,7 +937,7 @@
       "detailPath": "entities/artists/c68a4f3dd530b0db.json"
     },
     {
-      "rank": 9529,
+      "rank": 9530,
       "id": "14169027103ad10b",
       "name": "水樹奈々 （J)（ラスト！）",
       "secondary": "",
@@ -937,7 +970,7 @@
       "detailPath": "entities/artists/14169027103ad10b.json"
     },
     {
-      "rank": 9530,
+      "rank": 9531,
       "id": "bfe97f4478409808",
       "name": "水樹奈々 (初見)",
       "secondary": "",
@@ -967,7 +1000,7 @@
       "detailPath": "entities/artists/bfe97f4478409808.json"
     },
     {
-      "rank": 9531,
+      "rank": 9532,
       "id": "13d18d0612f2ab46",
       "name": "水樹奈々 「BLOOD-C」",
       "secondary": "",
@@ -1000,7 +1033,7 @@
       "detailPath": "entities/artists/13d18d0612f2ab46.json"
     },
     {
-      "rank": 9532,
+      "rank": 9533,
       "id": "175049e94e0b87d5",
       "name": "水樹奈々 「DOG DAYS」",
       "secondary": "",
@@ -1033,7 +1066,7 @@
       "detailPath": "entities/artists/175049e94e0b87d5.json"
     },
     {
-      "rank": 9533,
+      "rank": 9534,
       "id": "37704b38d9f215c0",
       "name": "水樹奈々 「バジリスク〜甲賀忍法帖〜」",
       "secondary": "",
@@ -1066,7 +1099,7 @@
       "detailPath": "entities/artists/37704b38d9f215c0.json"
     },
     {
-      "rank": 9534,
+      "rank": 9535,
       "id": "1b41206d008b5f88",
       "name": "水樹奈々 「リリカルなのはStrikerS」(挿入歌)",
       "secondary": "",
@@ -1099,7 +1132,7 @@
       "detailPath": "entities/artists/1b41206d008b5f88.json"
     },
     {
-      "rank": 9535,
+      "rank": 9536,
       "id": "bc06c0a2af4847eb",
       "name": "水樹奈々 「ロザリオとバンパイア CAPU2」",
       "secondary": "",
@@ -1132,7 +1165,7 @@
       "detailPath": "entities/artists/bc06c0a2af4847eb.json"
     },
     {
-      "rank": 9536,
+      "rank": 9537,
       "id": "ac488fd5d1e0c64e",
       "name": "水樹奈々 「戦姫絶唱シンフォギアG」",
       "secondary": "",
@@ -1165,7 +1198,7 @@
       "detailPath": "entities/artists/ac488fd5d1e0c64e.json"
     },
     {
-      "rank": 9537,
+      "rank": 9538,
       "id": "048193c6c8d48713",
       "name": "水樹奈々 「魔法少女 リリカルなのは StrikerS」",
       "secondary": "",
@@ -1198,7 +1231,7 @@
       "detailPath": "entities/artists/048193c6c8d48713.json"
     },
     {
-      "rank": 9538,
+      "rank": 9539,
       "id": "61ec21f313f69b2e",
       "name": "水樹奈々 「魔法少女リリカルなのは The MOVIE 2nd A's 」(主題歌)",
       "secondary": "",
@@ -1231,7 +1264,7 @@
       "detailPath": "entities/artists/61ec21f313f69b2e.json"
     },
     {
-      "rank": 9539,
+      "rank": 9540,
       "id": "4fb4c080ccf7f32a",
       "name": "水樹奈々 ／ 魔法少女リリカルなのはA's(2005年)",
       "secondary": "",
@@ -1261,7 +1294,7 @@
       "detailPath": "entities/artists/4fb4c080ccf7f32a.json"
     },
     {
-      "rank": 9540,
+      "rank": 9541,
       "id": "b18f3ddf806ad101",
       "name": "水樹奈々 feat. 宮野真守",
       "secondary": "",
@@ -1294,7 +1327,7 @@
       "detailPath": "entities/artists/b18f3ddf806ad101.json"
     },
     {
-      "rank": 9541,
+      "rank": 9542,
       "id": "b28fa7b11d17b029",
       "name": "水樹奈々（途中音割れします💦）",
       "secondary": "",
@@ -1327,7 +1360,7 @@
       "detailPath": "entities/artists/b28fa7b11d17b029.json"
     },
     {
-      "rank": 9542,
+      "rank": 9543,
       "id": "fb3998fe80ac35c8",
       "name": "水樹奈々×T.M.Revolution （54分18秒あたりで飛びます）",
       "secondary": "",
@@ -1357,7 +1390,7 @@
       "detailPath": "entities/artists/fb3998fe80ac35c8.json"
     },
     {
-      "rank": 9543,
+      "rank": 9544,
       "id": "386f407aa7f54a58",
       "name": "水樹奈々×T.M.Revolution ※JOYSOUND",
       "secondary": "",
@@ -1390,7 +1423,7 @@
       "detailPath": "entities/artists/386f407aa7f54a58.json"
     },
     {
-      "rank": 9544,
+      "rank": 9545,
       "id": "a3ded58fbfbbff7e",
       "name": "水樹奈々を熱唱",
       "secondary": "",
@@ -1423,7 +1456,7 @@
       "detailPath": "entities/artists/a3ded58fbfbbff7e.json"
     },
     {
-      "rank": 9545,
+      "rank": 9546,
       "id": "017b14eaf4c7bc34",
       "name": "水森かおり",
       "secondary": "",
@@ -1456,7 +1489,7 @@
       "detailPath": "entities/artists/017b14eaf4c7bc34.json"
     },
     {
-      "rank": 9546,
+      "rank": 9547,
       "id": "a3ee307556095cd1",
       "name": "水森亜土・こおろぎ'73",
       "secondary": "",
@@ -1489,7 +1522,7 @@
       "detailPath": "entities/artists/a3ee307556095cd1.json"
     },
     {
-      "rank": 9547,
+      "rank": 9548,
       "id": "fbbaee66ba65ea45",
       "name": "水瀬いのり (2017)（徒然チルドレン OP）",
       "secondary": "",
@@ -1519,7 +1552,7 @@
       "detailPath": "entities/artists/fbbaee66ba65ea45.json"
     },
     {
-      "rank": 9548,
+      "rank": 9549,
       "id": "a7d195d6b6a406a8",
       "name": "水瀬いのり ※JOYSOUND",
       "secondary": "",
@@ -1552,7 +1585,7 @@
       "detailPath": "entities/artists/a7d195d6b6a406a8.json"
     },
     {
-      "rank": 9549,
+      "rank": 9550,
       "id": "d7f24318d892338b",
       "name": "水槽×Such",
       "secondary": "",
@@ -1583,39 +1616,6 @@
         }
       ],
       "detailPath": "entities/artists/d7f24318d892338b.json"
-    },
-    {
-      "rank": 9550,
-      "id": "5aa602eec8963760",
-      "name": "水沢オペラ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "-DEty6PZ_UI",
-          "videoTitle": "🔴【歌枠/Karaoke 】元気がでるお歌でお昼時間過ごしませんか【水沢オペラ】 #歌枠 #vtuber #新人vtuber #作業bgm",
-          "channelName": "水沢オペラ / Opera Ch.",
-          "publishedAt": "2026-09-14T09:53:27.606Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-DEty6PZ_UI/hqdefault.jpg",
-          "sourcePath": "sources/-D/-DEty6PZ_UI.json",
-          "time": "5:52:02",
-          "seconds": 21122,
-          "songTitle": "melancholic",
-          "artist": "水沢オペラ"
-        }
-      ],
-      "detailPath": "entities/artists/5aa602eec8963760.json"
     }
   ]
 }

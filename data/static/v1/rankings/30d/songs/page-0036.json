@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 36,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1751,
+      "id": "5bf17f7e3d36940e",
+      "name": "桜色舞うころ",
+      "secondary": "中島美嘉",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 7,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TbuTnYYHe6s",
+          "videoTitle": "【 #歌枠 】初見大歓迎💡デビュー1ヵ月！CH登録4000人✨初耐久歌枠！【 #新人Vtuber｜ #白叉ねむ 】",
+          "channelName": "白叉ねむ / Shiramata Nemu",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TbuTnYYHe6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIUGXJrMCjk2bz5ybJ0K-vncuilQ",
+          "sourcePath": "sources/Tb/TbuTnYYHe6s.json",
+          "time": "8:21:30",
+          "seconds": 30090,
+          "songTitle": "桜色舞うころ",
+          "artist": "中島美嘉"
+        },
+        {
+          "videoId": "B5oVyxW0OGg",
+          "videoTitle": "【#歌枠 】安眠を促すピアノ伴奏のみ睡眠導入歌枠🌃 初見さんも大歓迎✨【華白あらみ】#shorts #karaoke",
+          "channelName": "華白あらみ / Arami ch.",
+          "publishedAt": "2026-10-07T18:25:21.672Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/B5oVyxW0OGg/hqdefault.jpg",
+          "sourcePath": "sources/B5/B5oVyxW0OGg.json",
+          "time": "1:31:27",
+          "seconds": 5487,
+          "songTitle": "桜色舞うころ",
+          "artist": "中島美嘉"
+        },
+        {
+          "videoId": "4ARisXar4aU",
+          "videoTitle": "10/7 10:00【 歌枠 】中島美嘉さん縛りで歌い魔ス！【 レヴィ・アタン 】 #vtuber",
+          "channelName": "レヴィ・アタン",
+          "publishedAt": "2026-10-07T02:36:41.841Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4ARisXar4aU/hqdefault.jpg",
+          "sourcePath": "sources/4A/4ARisXar4aU.json",
+          "time": "0:36:59",
+          "seconds": 2219,
+          "songTitle": "桜色舞うころ",
+          "artist": "中島美嘉"
+        }
+      ],
+      "detailPath": "entities/songs/5bf17f7e3d36940e.json"
+    },
+    {
+      "rank": 1752,
       "id": "c8382740cbda7bff",
       "name": "私がオバさんになっても",
       "secondary": "森高千里",
@@ -67,7 +124,7 @@
       "detailPath": "entities/songs/c8382740cbda7bff.json"
     },
     {
-      "rank": 1752,
+      "rank": 1753,
       "id": "47561ad4376dd0e5",
       "name": "私は最強",
       "secondary": "Mrs. GREEN APPLE",
@@ -124,7 +181,7 @@
       "detailPath": "entities/songs/47561ad4376dd0e5.json"
     },
     {
-      "rank": 1753,
+      "rank": 1754,
       "id": "5947dcba6756609c",
       "name": "紫霞 ゆいな & あいな",
       "secondary": "Violet Haze [Shika Yuina & AIna / Violet Haze]",
@@ -178,7 +235,7 @@
       "detailPath": "entities/songs/5947dcba6756609c.json"
     },
     {
-      "rank": 1754,
+      "rank": 1755,
       "id": "f9c7ed66276d399f",
       "name": "紗痲",
       "secondary": "煮ル果実",
@@ -235,7 +292,7 @@
       "detailPath": "entities/songs/f9c7ed66276d399f.json"
     },
     {
-      "rank": 1755,
+      "rank": 1756,
       "id": "c73af487b7718de2",
       "name": "若者のすべて",
       "secondary": "",
@@ -293,7 +350,7 @@
       "detailPath": "entities/songs/c73af487b7718de2.json"
     },
     {
-      "rank": 1756,
+      "rank": 1757,
       "id": "84e9b9c9b3d83bbe",
       "name": "初めての恋が終わる時",
       "secondary": "supercell feat . 初音ミク",
@@ -350,7 +407,7 @@
       "detailPath": "entities/songs/84e9b9c9b3d83bbe.json"
     },
     {
-      "rank": 1757,
+      "rank": 1758,
       "id": "7df52e8ccff6f302",
       "name": "初恋",
       "secondary": "村下孝蔵",
@@ -407,7 +464,7 @@
       "detailPath": "entities/songs/7df52e8ccff6f302.json"
     },
     {
-      "rank": 1758,
+      "rank": 1759,
       "id": "4ebbc857cb031574",
       "name": "少年よ我に帰れ",
       "secondary": "やくしまるえつこ",
@@ -464,7 +521,7 @@
       "detailPath": "entities/songs/4ebbc857cb031574.json"
     },
     {
-      "rank": 1759,
+      "rank": 1760,
       "id": "50e7466a0daa6ad0",
       "name": "笑顔に会いたい",
       "secondary": "濱田理恵",
@@ -521,7 +578,7 @@
       "detailPath": "entities/songs/50e7466a0daa6ad0.json"
     },
     {
-      "rank": 1760,
+      "rank": 1761,
       "id": "7189b79c255ea95d",
       "name": "心よ原始に戻れ",
       "secondary": "高橋洋子",
@@ -579,7 +636,7 @@
       "detailPath": "entities/songs/7189b79c255ea95d.json"
     },
     {
-      "rank": 1761,
+      "rank": 1762,
       "id": "ee9f2f767fbb6696",
       "name": "新時代",
       "secondary": "",
@@ -636,7 +693,7 @@
       "detailPath": "entities/songs/ee9f2f767fbb6696.json"
     },
     {
-      "rank": 1762,
+      "rank": 1763,
       "id": "19d812bfc6287ee9",
       "name": "深海のリトルクライ",
       "secondary": "sasakure.UK feat. 土岐麻子",
@@ -693,7 +750,7 @@
       "detailPath": "entities/songs/19d812bfc6287ee9.json"
     },
     {
-      "rank": 1763,
+      "rank": 1764,
       "id": "67eab4f1239a6d41",
       "name": "深昏睡",
       "secondary": "春野",
@@ -750,7 +807,7 @@
       "detailPath": "entities/songs/67eab4f1239a6d41.json"
     },
     {
-      "rank": 1764,
+      "rank": 1765,
       "id": "a2cc9ff7c8565ca5",
       "name": "真っ赤な空を見ただろうか",
       "secondary": "BUMP OF CHICKEN",
@@ -808,7 +865,7 @@
       "detailPath": "entities/songs/a2cc9ff7c8565ca5.json"
     },
     {
-      "rank": 1765,
+      "rank": 1766,
       "id": "97684bf0b1ad7cd0",
       "name": "真夏の夜の夢",
       "secondary": "松任谷由実",
@@ -863,63 +920,6 @@
         }
       ],
       "detailPath": "entities/songs/97684bf0b1ad7cd0.json"
-    },
-    {
-      "rank": 1766,
-      "id": "ae23244c81a57d34",
-      "name": "真生活",
-      "secondary": "案山子",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 7,
-      "videoCount": 7,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "1ye2ZyTIKNM",
-          "videoTitle": "【挑戦歌枠￤#karaoke 】初見さんに出会いたい 中性的な歌声のシンガーです、貴方に刺さるかも【#ひーライブ 】",
-          "channelName": "ひーくん / hi-kun",
-          "publishedAt": "2026-09-25T10:34:34.985Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1ye2ZyTIKNM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYwRWmqq7WnrDu0D7QFQX3jLaqkw",
-          "sourcePath": "sources/1y/1ye2ZyTIKNM.json",
-          "time": "0:25:00",
-          "seconds": 1500,
-          "songTitle": "真生活",
-          "artist": "案山子"
-        },
-        {
-          "videoId": "ZHj2hDiBxUU",
-          "videoTitle": "【1周年です！（第2部）】初めての歌枠をします。【水隅かるあ】",
-          "channelName": "水隅かるあ",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZHj2hDiBxUU/hqdefault.jpg",
-          "sourcePath": "sources/ZH/ZHj2hDiBxUU.json",
-          "time": "0:31:07",
-          "seconds": 1867,
-          "songTitle": "真生活",
-          "artist": "案山子"
-        },
-        {
-          "videoId": "5v9FrfXUwaA",
-          "videoTitle": "【同接100人目標歌枠￤#karaoke 】 中性的な歌声、見つけて欲しいです【#ひーライブ 】",
-          "channelName": "ひーくん / hi-kun",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5v9FrfXUwaA/hqdefault.jpg",
-          "sourcePath": "sources/5v/5v9FrfXUwaA.json",
-          "time": "0:24:29",
-          "seconds": 1469,
-          "songTitle": "真生活",
-          "artist": "案山子"
-        }
-      ],
-      "detailPath": "entities/songs/ae23244c81a57d34.json"
     },
     {
       "rank": 1767,
@@ -2452,6 +2452,63 @@
     },
     {
       "rank": 1794,
+      "id": "64cf2a7034c7cb9d",
+      "name": "冒険彗星",
+      "secondary": "榎本くるみ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 7,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Fl7gRReLVds",
+          "videoTitle": "【 歌枠 / #karaoke 】金曜の夜、深夜に１曲いかがですか？🦉│#羽緒集魂中 144【 羽緒 / RK Music 】",
+          "channelName": "羽緒",
+          "publishedAt": "2026-10-09T17:11:32.864Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fl7gRReLVds/hqdefault.jpg",
+          "sourcePath": "sources/Fl/Fl7gRReLVds.json",
+          "time": "1:47:51",
+          "seconds": 6471,
+          "songTitle": "冒険彗星",
+          "artist": "榎本くるみ"
+        },
+        {
+          "videoId": "ICTixwDU0wc",
+          "videoTitle": "【#歌枠 |#karaoke 】とても久しい歌枠タイム【宙音りりぃ-Sorane Lily-】",
+          "channelName": "microcosmos / 宙音りりぃ Official Channel",
+          "publishedAt": "2026-10-04T13:58:50.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ICTixwDU0wc/hqdefault.jpg",
+          "sourcePath": "sources/IC/ICTixwDU0wc.json",
+          "time": "0:39:45",
+          "seconds": 2385,
+          "songTitle": "冒険彗星",
+          "artist": "榎本くるみ"
+        },
+        {
+          "videoId": "a-tbuONStAA",
+          "videoTitle": "【歌枠調整中】変だったらアーカイブ残しません。【灰匁 禊/Kei Haime 】",
+          "channelName": "灰匁 禊【Kei Haime】",
+          "publishedAt": "2026-09-23T17:12:59.656Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a-tbuONStAA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBgCDnQGg5Z02HwfSDuMIoO6euPvA",
+          "sourcePath": "sources/a-/a-tbuONStAA.json",
+          "time": "1:56:01",
+          "seconds": 6961,
+          "songTitle": "冒険彗星",
+          "artist": "榎本くるみ"
+        }
+      ],
+      "detailPath": "entities/songs/64cf2a7034c7cb9d.json"
+    },
+    {
+      "rank": 1795,
       "id": "520820812f8bf1bb",
       "name": "魔法",
       "secondary": "古川本舗",
@@ -2509,7 +2566,7 @@
       "detailPath": "entities/songs/520820812f8bf1bb.json"
     },
     {
-      "rank": 1795,
+      "rank": 1796,
       "id": "57d494368c2443cb",
       "name": "夢灯籠",
       "secondary": "RADWIMPS",
@@ -2567,7 +2624,7 @@
       "detailPath": "entities/songs/57d494368c2443cb.json"
     },
     {
-      "rank": 1796,
+      "rank": 1797,
       "id": "91a4d4f864b4dd84",
       "name": "名もなき詩",
       "secondary": "Mr.Children",
@@ -2624,7 +2681,7 @@
       "detailPath": "entities/songs/91a4d4f864b4dd84.json"
     },
     {
-      "rank": 1797,
+      "rank": 1798,
       "id": "8f9c99a1bcbc6c25",
       "name": "明日晴れるかな",
       "secondary": "桑田佳祐",
@@ -2682,7 +2739,7 @@
       "detailPath": "entities/songs/8f9c99a1bcbc6c25.json"
     },
     {
-      "rank": 1798,
+      "rank": 1799,
       "id": "07707bf1c76aedca",
       "name": "夜もすがら君想ふ",
       "secondary": "TOKOTOKO",
@@ -2739,7 +2796,7 @@
       "detailPath": "entities/songs/07707bf1c76aedca.json"
     },
     {
-      "rank": 1799,
+      "rank": 1800,
       "id": "33830efa98350a00",
       "name": "夜紛い",
       "secondary": "ヨルシカ",
@@ -2794,63 +2851,6 @@
         }
       ],
       "detailPath": "entities/songs/33830efa98350a00.json"
-    },
-    {
-      "rank": 1800,
-      "id": "9c8548f6461820b2",
-      "name": "約束の絆",
-      "secondary": "妖夢討伐隊",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 7,
-      "videoCount": 7,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8ErbJBwO5PU",
-          "videoTitle": "【歌枠▸日曜定期】ひきこもり天使の君を寝かせないSINGING📯〖CYBILL〗",
-          "channelName": "CYBILL",
-          "publishedAt": "2026-10-11T18:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8ErbJBwO5PU/hqdefault.jpg",
-          "sourcePath": "sources/8E/8ErbJBwO5PU.json",
-          "time": "3:43:25",
-          "seconds": 13405,
-          "songTitle": "約束の絆",
-          "artist": "妖夢討伐隊"
-        },
-        {
-          "videoId": "DJCqn8MBcgU",
-          "videoTitle": "【歌枠▸日曜定期】ひきこもり天使の君を寝かせない天界放送📯〖CYBILL〗#vsinger",
-          "channelName": "CYBILL",
-          "publishedAt": "2026-10-04T18:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/DJCqn8MBcgU/hqdefault.jpg",
-          "sourcePath": "sources/DJ/DJCqn8MBcgU.json",
-          "time": "4:06:13",
-          "seconds": 14773,
-          "songTitle": "約束の絆",
-          "artist": "妖夢討伐隊"
-        },
-        {
-          "videoId": "a6EaoPIvstE",
-          "videoTitle": "【歌枠▸定期】ひきこもり天使の君を寝かせない天界放送📯〖CYBILL〗",
-          "channelName": "CYBILL",
-          "publishedAt": "2026-09-28T16:55:45.212Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/a6EaoPIvstE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAS44l6x6d1oSwvIoJLw6NbnrmIdQ",
-          "sourcePath": "sources/a6/a6EaoPIvstE.json",
-          "time": "2:08:01",
-          "seconds": 7681,
-          "songTitle": "約束の絆",
-          "artist": "妖夢討伐隊"
-        }
-      ],
-      "detailPath": "entities/songs/9c8548f6461820b2.json"
     }
   ]
 }

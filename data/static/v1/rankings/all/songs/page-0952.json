@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 952,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 47551,
+      "id": "64ac5c72332b3728",
+      "name": "雪だるまつくろう",
+      "secondary": "アナと雪の女王",
+      "channelId": "UCE6w5FzazXE9i3wwrVJPbhg",
+      "channelHandle": "@Gato_utane",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "jh41x6OwdQk",
+          "videoTitle": "【 #歌枠 】心を込めて演じます！ミュージカルソング歌枠！【 #vtuber / 詠音ガト 】",
+          "channelName": "詠音ガト",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jh41x6OwdQk/hqdefault.jpg",
+          "sourcePath": "sources/jh/jh41x6OwdQk.json",
+          "time": "0:18:19",
+          "seconds": 1099,
+          "songTitle": "雪だるまつくろう",
+          "artist": "アナと雪の女王"
+        }
+      ],
+      "detailPath": "entities/songs/64ac5c72332b3728.json"
+    },
+    {
+      "rank": 47552,
+      "id": "f32a40f1a2ead45c",
+      "name": "雪だるまつくろう… アナ雪のアカペラ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "gNKIbkX6Hhk",
+          "videoTitle": "【#歌枠】帰り道のBGMに✨秋っぽい歌でもうたいましょうかね( ◜ω◝ )【#ちゆるの縁側 /KARAOKE/Vsinger】",
+          "channelName": "CHIYURU ch.三日月ちゆる",
+          "publishedAt": "2026-09-01T09:48:16.106Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/gNKIbkX6Hhk/hqdefault.jpg",
+          "sourcePath": "sources/gN/gNKIbkX6Hhk.json",
+          "time": "1:04:01",
+          "seconds": 3841,
+          "songTitle": "雪だるまつくろう… アナ雪のアカペラ",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/f32a40f1a2ead45c.json"
+    },
+    {
+      "rank": 47553,
       "id": "de21d044974bb306",
       "name": "雪に咲く花",
       "secondary": "秋月真理亜（CV:花澤香菜）",
@@ -43,7 +106,7 @@
       "detailPath": "entities/songs/de21d044974bb306.json"
     },
     {
-      "rank": 47552,
+      "rank": 47554,
       "id": "09373590a7819217",
       "name": "雪のかなた",
       "secondary": "松澤由美",
@@ -76,7 +139,7 @@
       "detailPath": "entities/songs/09373590a7819217.json"
     },
     {
-      "rank": 47553,
+      "rank": 47555,
       "id": "8a07ace9339ae9f1",
       "name": "雪の華",
       "secondary": "松本良喜",
@@ -108,7 +171,7 @@
       "detailPath": "entities/songs/8a07ace9339ae9f1.json"
     },
     {
-      "rank": 47554,
+      "rank": 47556,
       "id": "4f3152b0f471ad25",
       "name": "雪の華",
       "secondary": "未記載",
@@ -142,7 +205,7 @@
       "detailPath": "entities/songs/4f3152b0f471ad25.json"
     },
     {
-      "rank": 47555,
+      "rank": 47557,
       "id": "2e3fb15866892cc2",
       "name": "雪の華",
       "secondary": "中島美嘉（91.399点）",
@@ -176,7 +239,7 @@
       "detailPath": "entities/songs/2e3fb15866892cc2.json"
     },
     {
-      "rank": 47556,
+      "rank": 47558,
       "id": "74186a124dff152d",
       "name": "雪の華",
       "secondary": "中島みゆき",
@@ -210,7 +273,7 @@
       "detailPath": "entities/songs/74186a124dff152d.json"
     },
     {
-      "rank": 47557,
+      "rank": 47559,
       "id": "8694fbc17edc9afb",
       "name": "雪の華",
       "secondary": "中島美嘉 ／ 明治製菓「boda」「galbo」CMソング(2003年)",
@@ -240,7 +303,7 @@
       "detailPath": "entities/songs/8694fbc17edc9afb.json"
     },
     {
-      "rank": 47558,
+      "rank": 47560,
       "id": "d1ae2b548e9033ec",
       "name": "雪の華",
       "secondary": "中島美嘉 / JS",
@@ -273,7 +336,7 @@
       "detailPath": "entities/songs/d1ae2b548e9033ec.json"
     },
     {
-      "rank": 47559,
+      "rank": 47561,
       "id": "46ba6f605ecdc196",
       "name": "雪の華(中文)",
       "secondary": "韓雪",
@@ -307,7 +370,7 @@
       "detailPath": "entities/songs/46ba6f605ecdc196.json"
     },
     {
-      "rank": 47560,
+      "rank": 47562,
       "id": "ab00ad4b22725ba2",
       "name": "雪の華(練習中)",
       "secondary": "中島美嘉",
@@ -340,7 +403,7 @@
       "detailPath": "entities/songs/ab00ad4b22725ba2.json"
     },
     {
-      "rank": 47561,
+      "rank": 47563,
       "id": "4363f2ec56e22e4a",
       "name": "雪の降らない街",
       "secondary": "コブクロ ♪ Requested by noroguro",
@@ -370,7 +433,7 @@
       "detailPath": "entities/songs/4363f2ec56e22e4a.json"
     },
     {
-      "rank": 47562,
+      "rank": 47564,
       "id": "2abf0440719e953b",
       "name": "雪ノ寧依様",
       "secondary": "",
@@ -400,7 +463,7 @@
       "detailPath": "entities/songs/2abf0440719e953b.json"
     },
     {
-      "rank": 47563,
+      "rank": 47565,
       "id": "13ea6ba8624da6a6",
       "name": "雪花ラミィ",
       "secondary": "ラミィズバリバリワークアウト",
@@ -434,7 +497,7 @@
       "detailPath": "entities/songs/13ea6ba8624da6a6.json"
     },
     {
-      "rank": 47564,
+      "rank": 47566,
       "id": "ceea1f929c6e6552",
       "name": "雪解け",
       "secondary": "",
@@ -464,7 +527,7 @@
       "detailPath": "entities/songs/ceea1f929c6e6552.json"
     },
     {
-      "rank": 47565,
+      "rank": 47567,
       "id": "4b433876c2513d3d",
       "name": "雪解け",
       "secondary": "Islet feat.倚水",
@@ -494,7 +557,7 @@
       "detailPath": "entities/songs/4b433876c2513d3d.json"
     },
     {
-      "rank": 47566,
+      "rank": 47568,
       "id": "dd32eab87a9816ef",
       "name": "雪月花",
       "secondary": "",
@@ -527,7 +590,7 @@
       "detailPath": "entities/songs/dd32eab87a9816ef.json"
     },
     {
-      "rank": 47567,
+      "rank": 47569,
       "id": "0c29e671213a3e29",
       "name": "雪之華",
       "secondary": "中島美嘉",
@@ -560,7 +623,7 @@
       "detailPath": "entities/songs/0c29e671213a3e29.json"
     },
     {
-      "rank": 47568,
+      "rank": 47570,
       "id": "fe4cf22ae53ff17c",
       "name": "雪路の果て",
       "secondary": "Cocco",
@@ -593,7 +656,7 @@
       "detailPath": "entities/songs/fe4cf22ae53ff17c.json"
     },
     {
-      "rank": 47569,
+      "rank": 47571,
       "id": "544935678ee64794",
       "name": "絶え間くなく藍色",
       "secondary": "獅子志司",
@@ -626,7 +689,7 @@
       "detailPath": "entities/songs/544935678ee64794.json"
     },
     {
-      "rank": 47570,
+      "rank": 47572,
       "id": "73d050e3eb79635f",
       "name": "絶え間なく藍色",
       "secondary": "未記載",
@@ -658,7 +721,7 @@
       "detailPath": "entities/songs/73d050e3eb79635f.json"
     },
     {
-      "rank": 47571,
+      "rank": 47573,
       "id": "9b2aebefafd14105",
       "name": "絶え間なく藍色",
       "secondary": "Shishi Shishi feat. 初音ミク",
@@ -691,7 +754,7 @@
       "detailPath": "entities/songs/9b2aebefafd14105.json"
     },
     {
-      "rank": 47572,
+      "rank": 47574,
       "id": "40f5c48929870a35",
       "name": "絶え間なく藍色",
       "secondary": "獅子志子",
@@ -724,7 +787,7 @@
       "detailPath": "entities/songs/40f5c48929870a35.json"
     },
     {
-      "rank": 47573,
+      "rank": 47575,
       "id": "2e164e7cb565ab90",
       "name": "絶え間なく藍色",
       "secondary": "獅子志司 ※JOYSOUND",
@@ -757,7 +820,7 @@
       "detailPath": "entities/songs/2e164e7cb565ab90.json"
     },
     {
-      "rank": 47574,
+      "rank": 47576,
       "id": "540130281e84a468",
       "name": "絶やさぬスタートーチ",
       "secondary": "フリート・スノーフラッフ & スタートーチ学園卒業生",
@@ -790,7 +853,7 @@
       "detailPath": "entities/songs/540130281e84a468.json"
     },
     {
-      "rank": 47575,
+      "rank": 47577,
       "id": "0682b004ef642938",
       "name": "絶やさぬスタートーチ",
       "secondary": "鳴潮",
@@ -823,7 +886,7 @@
       "detailPath": "entities/songs/0682b004ef642938.json"
     },
     {
-      "rank": 47576,
+      "rank": 47578,
       "id": "3f71b24ee5e10ca9",
       "name": "絶やさぬスタートーチ",
       "secondary": "Fleet Snowfluff、 鳴潮、 Startorch Academy Graduates",
@@ -856,7 +919,7 @@
       "detailPath": "entities/songs/3f71b24ee5e10ca9.json"
     },
     {
-      "rank": 47577,
+      "rank": 47579,
       "id": "463dfbbcd971deb3",
       "name": "絶世美人",
       "secondary": "絶望少女達（風浦可符香、木津千里、木村カエレ、日塔奈美）",
@@ -889,7 +952,7 @@
       "detailPath": "entities/songs/463dfbbcd971deb3.json"
     },
     {
-      "rank": 47578,
+      "rank": 47580,
       "id": "d2af779c453fb687",
       "name": "絶世美人",
       "secondary": "絶望少女達",
@@ -922,7 +985,7 @@
       "detailPath": "entities/songs/d2af779c453fb687.json"
     },
     {
-      "rank": 47579,
+      "rank": 47581,
       "id": "b4504b8b920b1a79",
       "name": "絶体絶命",
       "secondary": "Cö shu Nie",
@@ -955,7 +1018,7 @@
       "detailPath": "entities/songs/b4504b8b920b1a79.json"
     },
     {
-      "rank": 47580,
+      "rank": 47582,
       "id": "7b6d36c7ca319355",
       "name": "絶体絶命",
       "secondary": "Cö shu Nie (ワンコーラス)",
@@ -985,7 +1048,7 @@
       "detailPath": "entities/songs/7b6d36c7ca319355.json"
     },
     {
-      "rank": 47581,
+      "rank": 47583,
       "id": "6e9f14d5b689faf4",
       "name": "絶体絶命",
       "secondary": "山口百恵",
@@ -1018,7 +1081,7 @@
       "detailPath": "entities/songs/6e9f14d5b689faf4.json"
     },
     {
-      "rank": 47582,
+      "rank": 47584,
       "id": "e21719f446e059e2",
       "name": "絶体絶命",
       "secondary": "EGOIST",
@@ -1051,7 +1114,7 @@
       "detailPath": "entities/songs/e21719f446e059e2.json"
     },
     {
-      "rank": 47583,
+      "rank": 47585,
       "id": "8ebb84c71bdd4e62",
       "name": "絶対アイドル辞めないで",
       "secondary": "＝LOVEさま",
@@ -1084,7 +1147,7 @@
       "detailPath": "entities/songs/8ebb84c71bdd4e62.json"
     },
     {
-      "rank": 47584,
+      "rank": 47586,
       "id": "762a1bd803eec2bb",
       "name": "絶対アイドル辞めないで",
       "secondary": "＝LOVEちゃん",
@@ -1118,7 +1181,7 @@
       "detailPath": "entities/songs/762a1bd803eec2bb.json"
     },
     {
-      "rank": 47585,
+      "rank": 47587,
       "id": "f98c02b7b176ca4f",
       "name": "絶対アイドル辞めないで",
       "secondary": "＝LOVE(指原莉乃,小池竜暉,菊池博人)",
@@ -1152,7 +1215,7 @@
       "detailPath": "entities/songs/f98c02b7b176ca4f.json"
     },
     {
-      "rank": 47586,
+      "rank": 47588,
       "id": "29dfe572a598448c",
       "name": "絶対アイドル辞めないで",
       "secondary": "=LOVE ※JOYSOUND",
@@ -1185,7 +1248,7 @@
       "detailPath": "entities/songs/29dfe572a598448c.json"
     },
     {
-      "rank": 47587,
+      "rank": 47589,
       "id": "87e23670be877ea5",
       "name": "絶対アイドル辞めないで",
       "secondary": "＝ LOVE ( 最初だけｱｶﾍﾟﾗ )",
@@ -1218,7 +1281,7 @@
       "detailPath": "entities/songs/87e23670be877ea5.json"
     },
     {
-      "rank": 47588,
+      "rank": 47590,
       "id": "9f192d2aaa305d5e",
       "name": "絶対アイドル辞めないで",
       "secondary": "=LOVE様",
@@ -1251,7 +1314,7 @@
       "detailPath": "entities/songs/9f192d2aaa305d5e.json"
     },
     {
-      "rank": 47589,
+      "rank": 47591,
       "id": "e043192498629391",
       "name": "絶対えんターテイナー",
       "secondary": "【Original】歌月えん",
@@ -1284,7 +1347,7 @@
       "detailPath": "entities/songs/e043192498629391.json"
     },
     {
-      "rank": 47590,
+      "rank": 47592,
       "id": "406d5c01ce4a6cb6",
       "name": "絶対運命黙示録",
       "secondary": "『少女革命ウテナ』J.A.シーザー、杉並児童合唱団",
@@ -1317,7 +1380,7 @@
       "detailPath": "entities/songs/406d5c01ce4a6cb6.json"
     },
     {
-      "rank": 47591,
+      "rank": 47593,
       "id": "375f2dd18f531407",
       "name": "絶対王者チョコレート",
       "secondary": "ゆらゆらシスターズ(シャインポスト)",
@@ -1350,7 +1413,7 @@
       "detailPath": "entities/songs/375f2dd18f531407.json"
     },
     {
-      "rank": 47592,
+      "rank": 47594,
       "id": "b1787e430f23522c",
       "name": "絶対絶命",
       "secondary": "山口百恵",
@@ -1383,7 +1446,7 @@
       "detailPath": "entities/songs/b1787e430f23522c.json"
     },
     {
-      "rank": 47593,
+      "rank": 47595,
       "id": "52bb1f009ff92066",
       "name": "絶対敵対メチャキライヤー",
       "secondary": "メドミア",
@@ -1416,7 +1479,7 @@
       "detailPath": "entities/songs/52bb1f009ff92066.json"
     },
     {
-      "rank": 47594,
+      "rank": 47596,
       "id": "b28e249923cac132",
       "name": "絶対的Performer",
       "secondary": "miraclesonic★expassion",
@@ -1450,7 +1513,7 @@
       "detailPath": "entities/songs/b28e249923cac132.json"
     },
     {
-      "rank": 47595,
+      "rank": 47597,
       "id": "59a818751dd995be",
       "name": "絶対的な関係",
       "secondary": "赤い公園",
@@ -1482,7 +1545,7 @@
       "detailPath": "entities/songs/59a818751dd995be.json"
     },
     {
-      "rank": 47596,
+      "rank": 47598,
       "id": "07a6242cb2594286",
       "name": "絶対特権主張しますっ！",
       "secondary": "ゼッケンズ",
@@ -1515,7 +1578,7 @@
       "detailPath": "entities/songs/07a6242cb2594286.json"
     },
     {
-      "rank": 47597,
+      "rank": 47599,
       "id": "1a2b1032b79de68e",
       "name": "絶対彼女",
       "secondary": "大森靖子",
@@ -1548,7 +1611,7 @@
       "detailPath": "entities/songs/1a2b1032b79de68e.json"
     },
     {
-      "rank": 47598,
+      "rank": 47600,
       "id": "b23898370a4e9082",
       "name": "絶対零度",
       "secondary": "なとり 様",
@@ -1576,69 +1639,6 @@
         }
       ],
       "detailPath": "entities/songs/b23898370a4e9082.json"
-    },
-    {
-      "rank": 47599,
-      "id": "5db20d2ba2547aae",
-      "name": "絶対零度の世界から",
-      "secondary": "VEE",
-      "channelId": "UCnBOUGfsfcD6nUbpdDAwMfw",
-      "channelHandle": "@HiyoriChihiyo",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "trOacmFCupo",
-          "videoTitle": "【歌枠】VEE所属 日和ちひよでした【VEE/日和ちひよ】",
-          "channelName": "日和ちひよ / Hiyori Chihiyo",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/trOacmFCupo/hqdefault.jpg",
-          "sourcePath": "sources/tr/trOacmFCupo.json",
-          "time": "0:42:52",
-          "seconds": 2572,
-          "songTitle": "絶対零度の世界から",
-          "artist": "VEE"
-        }
-      ],
-      "detailPath": "entities/songs/5db20d2ba2547aae.json"
-    },
-    {
-      "rank": 47600,
-      "id": "4924a34baeb7d7da",
-      "name": "絶対零度θノヴァティック",
-      "secondary": "未記載",
-      "channelId": "UCjtNkDsKWsxnZ0-ssUCFp7A",
-      "channelHandle": "@Sasanone_wapo",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "C4_b2wDKNDw",
-          "videoTitle": "【歌雑】7月おわるまえにすべりこみ 弾き語り/雑談〖ドリプロV / 笹ノ音わぽ〗 #VTuber ＃わぽらいぶ",
-          "channelName": "笹ノ音わぽ / Sasanone Wapo",
-          "publishedAt": "2026-07-26T01:30:05.725Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/C4_b2wDKNDw/hqdefault.jpg",
-          "sourcePath": "sources/C4/C4_b2wDKNDw.json",
-          "time": "3:36:55",
-          "seconds": 13015,
-          "songTitle": "絶対零度θノヴァティック",
-          "artist": "未記載"
-        }
-      ],
-      "detailPath": "entities/songs/4924a34baeb7d7da.json"
     }
   ]
 }

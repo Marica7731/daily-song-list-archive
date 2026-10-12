@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 95,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1177,6 +1177,51 @@
     },
     {
       "rank": 4727,
+      "id": "b5c706c4cd98465b",
+      "name": "arrows",
+      "secondary": "BUMP OF CHICKEN",
+      "channelId": "UC6or1dwrJM97AH8KHeQ3S2A",
+      "channelHandle": "@karasumorinate",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ICTixwDU0wc",
+          "videoTitle": "【#歌枠 |#karaoke 】とても久しい歌枠タイム【宙音りりぃ-Sorane Lily-】",
+          "channelName": "microcosmos / 宙音りりぃ Official Channel",
+          "publishedAt": "2026-10-04T13:58:50.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ICTixwDU0wc/hqdefault.jpg",
+          "sourcePath": "sources/IC/ICTixwDU0wc.json",
+          "time": "1:49:21",
+          "seconds": 6561,
+          "songTitle": "arrows",
+          "artist": "BUMP OF CHICKEN"
+        },
+        {
+          "videoId": "qIFOqQCWLzo",
+          "videoTitle": "【歌枠/Karaoke】歌って歌ってたいりょくつけよう【音楽家Vtuber/鴉森ネイト】",
+          "channelName": "Nate Ch. 鴉森ネイト",
+          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qIFOqQCWLzo/hqdefault.jpg",
+          "sourcePath": "sources/qI/qIFOqQCWLzo.json",
+          "time": "1:43:51",
+          "seconds": 6231,
+          "songTitle": "arrows",
+          "artist": "BUMP OF CHICKEN"
+        }
+      ],
+      "detailPath": "entities/songs/b5c706c4cd98465b.json"
+    },
+    {
+      "rank": 4728,
       "id": "6f771317682996ee",
       "name": "Artist",
       "secondary": "敬称略",
@@ -1221,7 +1266,7 @@
       "detailPath": "entities/songs/6f771317682996ee.json"
     },
     {
-      "rank": 4728,
+      "rank": 4729,
       "id": "26b5d04e1bee1d6c",
       "name": "Autumn Leaves",
       "secondary": "",
@@ -1266,7 +1311,7 @@
       "detailPath": "entities/songs/26b5d04e1bee1d6c.json"
     },
     {
-      "rank": 4729,
+      "rank": 4730,
       "id": "032136117623ff31",
       "name": "Avid",
       "secondary": "エイティシックス",
@@ -1311,7 +1356,7 @@
       "detailPath": "entities/songs/032136117623ff31.json"
     },
     {
-      "rank": 4730,
+      "rank": 4731,
       "id": "4d338ed90d0092a3",
       "name": "Avid",
       "secondary": "澤野弘之×mizuki",
@@ -1356,7 +1401,7 @@
       "detailPath": "entities/songs/4d338ed90d0092a3.json"
     },
     {
-      "rank": 4731,
+      "rank": 4732,
       "id": "655822e534ef0722",
       "name": "Avid",
       "secondary": "SawanoHiroyuki[nZk]",
@@ -1401,7 +1446,7 @@
       "detailPath": "entities/songs/655822e534ef0722.json"
     },
     {
-      "rank": 4732,
+      "rank": 4733,
       "id": "c9052b34fc0c14c8",
       "name": "Azalea",
       "secondary": "米津玄師",
@@ -1446,7 +1491,7 @@
       "detailPath": "entities/songs/c9052b34fc0c14c8.json"
     },
     {
-      "rank": 4733,
+      "rank": 4734,
       "id": "82c40203c8c1d73d",
       "name": "azure moon",
       "secondary": "Every Little Thing",
@@ -1491,7 +1536,7 @@
       "detailPath": "entities/songs/82c40203c8c1d73d.json"
     },
     {
-      "rank": 4734,
+      "rank": 4735,
       "id": "d8eaf5e1216ec006",
       "name": "BABY BABY",
       "secondary": "銀杏BOYZ",
@@ -1536,7 +1581,7 @@
       "detailPath": "entities/songs/d8eaf5e1216ec006.json"
     },
     {
-      "rank": 4735,
+      "rank": 4736,
       "id": "1841dea7bc54f326",
       "name": "BABY BABY",
       "secondary": "Going Steady",
@@ -1581,7 +1626,7 @@
       "detailPath": "entities/songs/1841dea7bc54f326.json"
     },
     {
-      "rank": 4736,
+      "rank": 4737,
       "id": "1c038dedb6c84507",
       "name": "baby maybe 恋のボタン",
       "secondary": "μ's",
@@ -1626,7 +1671,7 @@
       "detailPath": "entities/songs/1c038dedb6c84507.json"
     },
     {
-      "rank": 4737,
+      "rank": 4738,
       "id": "21040af1ced88e0e",
       "name": "Bad Apple",
       "secondary": "",
@@ -1671,7 +1716,7 @@
       "detailPath": "entities/songs/21040af1ced88e0e.json"
     },
     {
-      "rank": 4738,
+      "rank": 4739,
       "id": "eb456274432dd370",
       "name": "Bad Apple!!",
       "secondary": "Alstroemeria Records",
@@ -1716,7 +1761,7 @@
       "detailPath": "entities/songs/eb456274432dd370.json"
     },
     {
-      "rank": 4739,
+      "rank": 4740,
       "id": "d7d80ace1634143b",
       "name": "Bad Girl",
       "secondary": "HANA",
@@ -1761,7 +1806,7 @@
       "detailPath": "entities/songs/d7d80ace1634143b.json"
     },
     {
-      "rank": 4740,
+      "rank": 4741,
       "id": "cd6328a4bd3ec1ca",
       "name": "Bad∞End∞Night",
       "secondary": "ひとしずく×やま△",
@@ -1803,7 +1848,7 @@
       "detailPath": "entities/songs/cd6328a4bd3ec1ca.json"
     },
     {
-      "rank": 4741,
+      "rank": 4742,
       "id": "31e7f6fce091cca6",
       "name": "Baka Mitai",
       "secondary": "Kazuma Kiryu",
@@ -1848,7 +1893,7 @@
       "detailPath": "entities/songs/31e7f6fce091cca6.json"
     },
     {
-      "rank": 4742,
+      "rank": 4743,
       "id": "fe2adbcb7519fd04",
       "name": "Ballet Mécanique",
       "secondary": "坂本龍一 feat. バーナード・ファウラー",
@@ -1893,7 +1938,7 @@
       "detailPath": "entities/songs/fe2adbcb7519fd04.json"
     },
     {
-      "rank": 4743,
+      "rank": 4744,
       "id": "511bb7323038af36",
       "name": "be alive",
       "secondary": "小柳ゆき",
@@ -1938,7 +1983,7 @@
       "detailPath": "entities/songs/511bb7323038af36.json"
     },
     {
-      "rank": 4744,
+      "rank": 4745,
       "id": "9214e751034a42d5",
       "name": "BE MY BABY",
       "secondary": "COMPLEX",
@@ -1983,7 +2028,7 @@
       "detailPath": "entities/songs/9214e751034a42d5.json"
     },
     {
-      "rank": 4745,
+      "rank": 4746,
       "id": "4cfaecd3ca20c414",
       "name": "Be My Guest",
       "secondary": "Azari",
@@ -2028,7 +2073,7 @@
       "detailPath": "entities/songs/4cfaecd3ca20c414.json"
     },
     {
-      "rank": 4746,
+      "rank": 4747,
       "id": "d100a0bb3c75af37",
       "name": "Be The One",
       "secondary": "PANDORA feat.Beverly",
@@ -2073,7 +2118,7 @@
       "detailPath": "entities/songs/d100a0bb3c75af37.json"
     },
     {
-      "rank": 4747,
+      "rank": 4748,
       "id": "c3f10f90e057eeda",
       "name": "Beat Eater",
       "secondary": "ポリスピカデリー",
@@ -2118,7 +2163,7 @@
       "detailPath": "entities/songs/c3f10f90e057eeda.json"
     },
     {
-      "rank": 4748,
+      "rank": 4749,
       "id": "bb9f95a8e44600ba",
       "name": "Beautiful Amulet",
       "secondary": "田村ゆかり",
@@ -2160,7 +2205,7 @@
       "detailPath": "entities/songs/bb9f95a8e44600ba.json"
     },
     {
-      "rank": 4749,
+      "rank": 4750,
       "id": "182f15760369a9af",
       "name": "BEAUTIFUL DREAMER",
       "secondary": "GLAY",
@@ -2203,51 +2248,6 @@
         }
       ],
       "detailPath": "entities/songs/182f15760369a9af.json"
-    },
-    {
-      "rank": 4750,
-      "id": "41c0bd5b2a973ea0",
-      "name": "Beautiful Love",
-      "secondary": "美風藍(蒼井翔太)、聖川真斗(鈴村健一)、来栖翔(下野紘)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "OcWlDk9W4MA",
-          "videoTitle": "【#朝活 #歌枠 #カラオケ 】気分で色々歌うよ🎤💕梶浦由記さんの曲💗アニソン💗アイドル曲(連続798日配信中)【#vtuber /淡雪花奏】🎤JOYSOUND",
-          "channelName": "淡雪 花奏(かなで)",
-          "publishedAt": "2026-10-06T01:13:59.167Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/OcWlDk9W4MA/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAJcBzezgrMIAG6Hp68ePbUp9r8mg",
-          "sourcePath": "sources/Oc/OcWlDk9W4MA.json",
-          "time": "0:57:25",
-          "seconds": 3445,
-          "songTitle": "Beautiful Love",
-          "artist": "美風藍(蒼井翔太)、聖川真斗(鈴村健一)、来栖翔(下野紘)"
-        },
-        {
-          "videoId": "sE8VnIW2uD4",
-          "videoTitle": "【#shorts #朝活 #歌枠 #カラオケ 】おはようください🎤💕梶浦由記さんの曲💗アニソン💗アイドル曲(連続779日配信中)【#vtuber /淡雪花奏】🎤JOYSOUND",
-          "channelName": "淡雪 花奏(かなで)",
-          "publishedAt": "2026-09-17T01:34:32.625Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sE8VnIW2uD4/hqdefault.jpg",
-          "sourcePath": "sources/sE/sE8VnIW2uD4.json",
-          "time": "2:21:21",
-          "seconds": 8481,
-          "songTitle": "Beautiful Love",
-          "artist": "美風藍(蒼井翔太)、聖川真斗(鈴村健一)、来栖翔(下野紘)"
-        }
-      ],
-      "detailPath": "entities/songs/41c0bd5b2a973ea0.json"
     }
   ]
 }

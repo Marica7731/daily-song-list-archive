@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "items": [
     {
       "id": "9fdcfedcf7fab0c7",
@@ -354,8 +354,8 @@
       "type": "songs",
       "name": "ハレンチ",
       "secondary": "ちゃんみな",
-      "occurrenceCount": 129,
-      "videoCount": 121,
+      "occurrenceCount": 130,
+      "videoCount": 122,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -381,8 +381,8 @@
           "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 65,
-          "videoCount": 57
+          "occurrenceCount": 66,
+          "videoCount": 58
         }
       },
       "text": "ハレンチちゃんみな"
@@ -1464,8 +1464,8 @@
       "type": "songs",
       "name": "創聖のアクエリオン",
       "secondary": "AKINO",
-      "occurrenceCount": 271,
-      "videoCount": 268,
+      "occurrenceCount": 272,
+      "videoCount": 269,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -1491,8 +1491,8 @@
           "videoCount": 9
         },
         "30d": {
-          "occurrenceCount": 107,
-          "videoCount": 106
+          "occurrenceCount": 108,
+          "videoCount": 107
         }
       },
       "text": "創聖のアクエリオンakino"
@@ -74006,6 +74006,31 @@
       "text": "09shimanoutasiren"
     },
     {
+      "id": "9483d445e9270e0a",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "夢の飼い主",
+      "secondary": "BUMP OF CHICKEN",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/9483d445e9270e0a.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "夢の飼い主bumpofchicken"
+    },
+    {
       "id": "97857162ba68a1ca",
       "channelId": "",
       "channelHandle": "",
@@ -86669,8 +86694,8 @@
       "type": "artists",
       "name": "月村手毬",
       "secondary": "",
-      "occurrenceCount": 14,
-      "videoCount": 11,
+      "occurrenceCount": 15,
+      "videoCount": 12,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -86683,8 +86708,8 @@
       "detailPath": "entities/artists/9fc9be053913dd65.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 6,
-          "videoCount": 5
+          "occurrenceCount": 7,
+          "videoCount": 6
         }
       },
       "text": "月村手毬"

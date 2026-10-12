@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "30d",
   "type": "songs",
   "page": 26,
   "pageSize": 50,
   "pageCount": 555,
-  "totalCount": 27715,
+  "totalCount": 27721,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -354,6 +354,63 @@
     },
     {
       "rank": 1257,
+      "id": "34958fe26d93b2ee",
+      "name": "Blue Jeans",
+      "secondary": "HANA",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 9,
+      "videoCount": 9,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "2EoY4be5zmY",
+          "videoTitle": "【歌枠┊︎Karaoke】歌をうたいたいんだ🍂🤍【双葉いよ/Vtuber】",
+          "channelName": "双葉いよ - FutabaIyo -",
+          "publishedAt": "2026-10-09T14:07:04.054Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2EoY4be5zmY/hqdefault.jpg",
+          "sourcePath": "sources/2E/2EoY4be5zmY.json",
+          "time": "1:43:58",
+          "seconds": 6238,
+          "songTitle": "Blue Jeans",
+          "artist": "HANA"
+        },
+        {
+          "videoId": "pauzp4rVrlQ",
+          "videoTitle": "【 #歌枠 】久々にカラろ🎤🎶という日曜 【常勝無敗ぐぬぬ / ビバップ高校】",
+          "channelName": "常勝無敗ぐぬぬ - Makenashi Gununu -/ ビバップ高校",
+          "publishedAt": "2026-10-04T13:51:44.743Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pauzp4rVrlQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB05MpIPZ1LIe_awzTsixVCclZthw",
+          "sourcePath": "sources/pa/pauzp4rVrlQ.json",
+          "time": "1:12:50",
+          "seconds": 4370,
+          "songTitle": "Blue Jeans",
+          "artist": "HANA"
+        },
+        {
+          "videoId": "vA68ygY3gtg",
+          "videoTitle": "歌枠￤10月最初の歌枠！ #karaoke 〚 明智光月 / ゆにふぃ！〛",
+          "channelName": "明智光月 / akechi mitsuki",
+          "publishedAt": "2026-10-02T12:45:24.135Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vA68ygY3gtg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCv31Bm8m1nna1I03nxjZi0WcL-5A",
+          "sourcePath": "sources/vA/vA68ygY3gtg.json",
+          "time": "0:58:05",
+          "seconds": 3485,
+          "songTitle": "Blue Jeans",
+          "artist": "HANA"
+        }
+      ],
+      "detailPath": "entities/songs/34958fe26d93b2ee.json"
+    },
+    {
+      "rank": 1258,
       "id": "fcab15296cd4a401",
       "name": "Booo!",
       "secondary": "TOKOTOKO(西沢さんP) feat. 音街ウナ",
@@ -410,7 +467,7 @@
       "detailPath": "entities/songs/fcab15296cd4a401.json"
     },
     {
-      "rank": 1258,
+      "rank": 1259,
       "id": "95cb5937f993f325",
       "name": "Catch You Catch Me",
       "secondary": "日向めぐみ",
@@ -467,7 +524,7 @@
       "detailPath": "entities/songs/95cb5937f993f325.json"
     },
     {
-      "rank": 1259,
+      "rank": 1260,
       "id": "6f5906c3122f1785",
       "name": "DANZEN!ふたりはプリキュア",
       "secondary": "五條真由美",
@@ -524,7 +581,7 @@
       "detailPath": "entities/songs/6f5906c3122f1785.json"
     },
     {
-      "rank": 1260,
+      "rank": 1261,
       "id": "91e22658e74c9c70",
       "name": "Driver's High",
       "secondary": "L'Arc〜en〜Ciel",
@@ -581,7 +638,7 @@
       "detailPath": "entities/songs/91e22658e74c9c70.json"
     },
     {
-      "rank": 1261,
+      "rank": 1262,
       "id": "8bc8323bee966c0f",
       "name": "Family Song",
       "secondary": "星野源",
@@ -638,7 +695,7 @@
       "detailPath": "entities/songs/8bc8323bee966c0f.json"
     },
     {
-      "rank": 1262,
+      "rank": 1263,
       "id": "32bb60285bef05c0",
       "name": "FIND THE WAY",
       "secondary": "中島美嘉",
@@ -695,7 +752,7 @@
       "detailPath": "entities/songs/32bb60285bef05c0.json"
     },
     {
-      "rank": 1263,
+      "rank": 1264,
       "id": "becff8994c98ee02",
       "name": "from Y to Y",
       "secondary": "ジミーサムP feat. 初音ミク",
@@ -752,7 +809,7 @@
       "detailPath": "entities/songs/becff8994c98ee02.json"
     },
     {
-      "rank": 1264,
+      "rank": 1265,
       "id": "fc8ca5ff5274fd0c",
       "name": "GO! GO! MANIAC",
       "secondary": "放課後ティータイム",
@@ -809,7 +866,7 @@
       "detailPath": "entities/songs/fc8ca5ff5274fd0c.json"
     },
     {
-      "rank": 1265,
+      "rank": 1266,
       "id": "2ac8016c584f2c04",
       "name": "Good-bye days",
       "secondary": "YUI for 雨音薫",
@@ -866,7 +923,7 @@
       "detailPath": "entities/songs/2ac8016c584f2c04.json"
     },
     {
-      "rank": 1266,
+      "rank": 1267,
       "id": "a99a82148c423663",
       "name": "HAPPY BIRTHDAY",
       "secondary": "back number",
@@ -924,7 +981,7 @@
       "detailPath": "entities/songs/a99a82148c423663.json"
     },
     {
-      "rank": 1267,
+      "rank": 1268,
       "id": "a4de728f55defd3c",
       "name": "Happy Halloween",
       "secondary": "Junky feat. 鏡音リン",
@@ -981,7 +1038,7 @@
       "detailPath": "entities/songs/a4de728f55defd3c.json"
     },
     {
-      "rank": 1268,
+      "rank": 1269,
       "id": "09dcee90770692e3",
       "name": "HEART OF SWORD ～夜明け前～",
       "secondary": "T.M.Revolution",
@@ -1038,7 +1095,7 @@
       "detailPath": "entities/songs/09dcee90770692e3.json"
     },
     {
-      "rank": 1269,
+      "rank": 1270,
       "id": "8c5ba3edec53a6db",
       "name": "Hello,world!",
       "secondary": "BUMP OF CHICKEN",
@@ -1095,7 +1152,7 @@
       "detailPath": "entities/songs/8c5ba3edec53a6db.json"
     },
     {
-      "rank": 1270,
+      "rank": 1271,
       "id": "ab26b2fb6be9a039",
       "name": "HONEY",
       "secondary": "L'Arc～en～Ciel",
@@ -1152,7 +1209,7 @@
       "detailPath": "entities/songs/ab26b2fb6be9a039.json"
     },
     {
-      "rank": 1271,
+      "rank": 1272,
       "id": "a971533666209fe4",
       "name": "inside you",
       "secondary": "milet",
@@ -1209,7 +1266,7 @@
       "detailPath": "entities/songs/a971533666209fe4.json"
     },
     {
-      "rank": 1272,
+      "rank": 1273,
       "id": "39bd81741a94b05d",
       "name": "irony",
       "secondary": "ClariS",
@@ -1266,7 +1323,7 @@
       "detailPath": "entities/songs/39bd81741a94b05d.json"
     },
     {
-      "rank": 1273,
+      "rank": 1274,
       "id": "dd812101c82eebff",
       "name": "KICK BACK",
       "secondary": "",
@@ -1323,7 +1380,7 @@
       "detailPath": "entities/songs/dd812101c82eebff.json"
     },
     {
-      "rank": 1274,
+      "rank": 1275,
       "id": "0c45b805c7106563",
       "name": "LA・LA・LA LOVE SONG",
       "secondary": "久保田利伸",
@@ -1381,7 +1438,7 @@
       "detailPath": "entities/songs/0c45b805c7106563.json"
     },
     {
-      "rank": 1275,
+      "rank": 1276,
       "id": "9b909185459985c3",
       "name": "Lovers",
       "secondary": "sumika",
@@ -1438,7 +1495,7 @@
       "detailPath": "entities/songs/9b909185459985c3.json"
     },
     {
-      "rank": 1276,
+      "rank": 1277,
       "id": "5a75ae65499e29ce",
       "name": "Northern lights",
       "secondary": "林原めぐみ",
@@ -1495,7 +1552,7 @@
       "detailPath": "entities/songs/5a75ae65499e29ce.json"
     },
     {
-      "rank": 1277,
+      "rank": 1278,
       "id": "acba81eab8e2164f",
       "name": "nowhere",
       "secondary": "FictionJunction YUUKA",
@@ -1552,7 +1609,7 @@
       "detailPath": "entities/songs/acba81eab8e2164f.json"
     },
     {
-      "rank": 1278,
+      "rank": 1279,
       "id": "2a9b6a8ca3f5b466",
       "name": "oblivious",
       "secondary": "Kalafina",
@@ -1609,7 +1666,7 @@
       "detailPath": "entities/songs/2a9b6a8ca3f5b466.json"
     },
     {
-      "rank": 1279,
+      "rank": 1280,
       "id": "3c8f7b798db79e6f",
       "name": "real Emotion",
       "secondary": "倖田來未",
@@ -1666,7 +1723,7 @@
       "detailPath": "entities/songs/3c8f7b798db79e6f.json"
     },
     {
-      "rank": 1280,
+      "rank": 1281,
       "id": "467634d4b0c6612b",
       "name": "Redo",
       "secondary": "鈴木このみ",
@@ -1723,7 +1780,7 @@
       "detailPath": "entities/songs/467634d4b0c6612b.json"
     },
     {
-      "rank": 1281,
+      "rank": 1282,
       "id": "38cdc1ddd4663765",
       "name": "ROSE",
       "secondary": "HANA",
@@ -1780,7 +1837,7 @@
       "detailPath": "entities/songs/38cdc1ddd4663765.json"
     },
     {
-      "rank": 1282,
+      "rank": 1283,
       "id": "5d55bffb5257bbfe",
       "name": "THE DAY",
       "secondary": "ポルノグラフィティ",
@@ -1837,7 +1894,7 @@
       "detailPath": "entities/songs/5d55bffb5257bbfe.json"
     },
     {
-      "rank": 1283,
+      "rank": 1284,
       "id": "1ded61d767348177",
       "name": "TOMORROW NEVER KNOWS",
       "secondary": "Mr.Children",
@@ -1894,7 +1951,7 @@
       "detailPath": "entities/songs/1ded61d767348177.json"
     },
     {
-      "rank": 1284,
+      "rank": 1285,
       "id": "8408441dc1192e5f",
       "name": "UFO",
       "secondary": "ピンク・レディー",
@@ -1951,7 +2008,7 @@
       "detailPath": "entities/songs/8408441dc1192e5f.json"
     },
     {
-      "rank": 1285,
+      "rank": 1286,
       "id": "9186a706675ee3d8",
       "name": "WAVE",
       "secondary": "niki",
@@ -2008,7 +2065,7 @@
       "detailPath": "entities/songs/9186a706675ee3d8.json"
     },
     {
-      "rank": 1286,
+      "rank": 1287,
       "id": "0457e2bf2e7d31e6",
       "name": "White Love",
       "secondary": "",
@@ -2065,7 +2122,7 @@
       "detailPath": "entities/songs/0457e2bf2e7d31e6.json"
     },
     {
-      "rank": 1287,
+      "rank": 1288,
       "id": "c43a9fa40f2a9e15",
       "name": "アイドル",
       "secondary": "",
@@ -2122,7 +2179,7 @@
       "detailPath": "entities/songs/c43a9fa40f2a9e15.json"
     },
     {
-      "rank": 1288,
+      "rank": 1289,
       "id": "183cc893c77edd7d",
       "name": "アイロニ",
       "secondary": "すこっぷ feat.初音ミク",
@@ -2179,7 +2236,7 @@
       "detailPath": "entities/songs/183cc893c77edd7d.json"
     },
     {
-      "rank": 1289,
+      "rank": 1290,
       "id": "20e6e58498394aff",
       "name": "あのバンド",
       "secondary": "結束バンド",
@@ -2237,7 +2294,7 @@
       "detailPath": "entities/songs/20e6e58498394aff.json"
     },
     {
-      "rank": 1290,
+      "rank": 1291,
       "id": "04695428a35ccaeb",
       "name": "アルビレオ",
       "secondary": "ロクデナシ",
@@ -2295,7 +2352,7 @@
       "detailPath": "entities/songs/04695428a35ccaeb.json"
     },
     {
-      "rank": 1291,
+      "rank": 1292,
       "id": "fc776e5acbe39c8e",
       "name": "いきのこり●ぼくら",
       "secondary": "青葉市子",
@@ -2353,7 +2410,7 @@
       "detailPath": "entities/songs/fc776e5acbe39c8e.json"
     },
     {
-      "rank": 1292,
+      "rank": 1293,
       "id": "d99c5d748a0d19d0",
       "name": "いけないボーダーライン",
       "secondary": "",
@@ -2410,7 +2467,7 @@
       "detailPath": "entities/songs/d99c5d748a0d19d0.json"
     },
     {
-      "rank": 1293,
+      "rank": 1294,
       "id": "ee12c31467579090",
       "name": "ウイスキーが、お好きでしょ",
       "secondary": "石川さゆり",
@@ -2467,7 +2524,7 @@
       "detailPath": "entities/songs/ee12c31467579090.json"
     },
     {
-      "rank": 1294,
+      "rank": 1295,
       "id": "3118985a4d16d1d2",
       "name": "オールドファッション",
       "secondary": "back number",
@@ -2524,7 +2581,7 @@
       "detailPath": "entities/songs/3118985a4d16d1d2.json"
     },
     {
-      "rank": 1295,
+      "rank": 1296,
       "id": "4a1b402fe05ccc2a",
       "name": "おはよう",
       "secondary": "Keno",
@@ -2581,7 +2638,7 @@
       "detailPath": "entities/songs/4a1b402fe05ccc2a.json"
     },
     {
-      "rank": 1296,
+      "rank": 1297,
       "id": "8942787bfa74f68a",
       "name": "オルターエゴ",
       "secondary": "Misumi",
@@ -2638,7 +2695,7 @@
       "detailPath": "entities/songs/8942787bfa74f68a.json"
     },
     {
-      "rank": 1297,
+      "rank": 1298,
       "id": "1c126f119b8d83a5",
       "name": "お勉強しといてよ",
       "secondary": "ずっと真夜中でいいのに",
@@ -2695,7 +2752,7 @@
       "detailPath": "entities/songs/1c126f119b8d83a5.json"
     },
     {
-      "rank": 1298,
+      "rank": 1299,
       "id": "01fc0e35eb62829c",
       "name": "カゲロウデイズ",
       "secondary": "じん",
@@ -2752,7 +2809,7 @@
       "detailPath": "entities/songs/01fc0e35eb62829c.json"
     },
     {
-      "rank": 1299,
+      "rank": 1300,
       "id": "345b58bb1bacb588",
       "name": "カサブタ",
       "secondary": "千綿偉功",
@@ -2807,63 +2864,6 @@
         }
       ],
       "detailPath": "entities/songs/345b58bb1bacb588.json"
-    },
-    {
-      "rank": 1300,
-      "id": "189a8d5ae393fd2a",
-      "name": "かたちあるもの",
-      "secondary": "柴咲コウ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 9,
-      "videoCount": 9,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "SvLI0RiZG-s",
-          "videoTitle": "【#歌枠 】のんびり歌枠 #shorts #雑談 #新人Vtuber #JOYSOUNDforSteam #karaoke #配信中",
-          "channelName": "dosanco",
-          "publishedAt": "2026-10-07T13:21:22.431Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SvLI0RiZG-s/hqdefault.jpg",
-          "sourcePath": "sources/Sv/SvLI0RiZG-s.json",
-          "time": "0:51:56",
-          "seconds": 3116,
-          "songTitle": "かたちあるもの",
-          "artist": "柴咲コウ"
-        },
-        {
-          "videoId": "DHM6pP_q26o",
-          "videoTitle": "【縦型歌枠 /#karaoke 】脱力weekend【深影 / RK Music】#ghostreaming #歌枠",
-          "channelName": "深影",
-          "publishedAt": "2026-10-03T20:33:01.749Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/DHM6pP_q26o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBf-jhHWHOZrle3d4oXC3786Pl4pg",
-          "sourcePath": "sources/DH/DHM6pP_q26o.json",
-          "time": "0:19:46",
-          "seconds": 1186,
-          "songTitle": "かたちあるもの",
-          "artist": "柴咲コウ"
-        },
-        {
-          "videoId": "T5DxBOtEYmU",
-          "videoTitle": "【歌枠 / KARAOKE】2000年代J-POPの名曲、1曲どうですか？🍪【 #もかん #vtuber #vsinger】",
-          "channelName": "もかん ch / Mokan",
-          "publishedAt": "2026-09-29T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/T5DxBOtEYmU/hqdefault.jpg",
-          "sourcePath": "sources/T5/T5DxBOtEYmU.json",
-          "time": "1:23:15",
-          "seconds": 4995,
-          "songTitle": "かたちあるもの",
-          "artist": "柴咲コウ"
-        }
-      ],
-      "detailPath": "entities/songs/189a8d5ae393fd2a.json"
     }
   ]
 }

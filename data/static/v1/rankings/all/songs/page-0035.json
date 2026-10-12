@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:51:27.435Z",
+  "generatedAt": "2026-10-12T13:59:30.716Z",
   "range": "all",
   "type": "songs",
   "page": 35,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52824,
+  "totalCount": 52827,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2241,6 +2241,67 @@
     },
     {
       "rank": 1738,
+      "id": "ae23244c81a57d34",
+      "name": "真生活",
+      "secondary": "案山子",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 16,
+      "videoCount": 16,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ICTixwDU0wc",
+          "videoTitle": "【#歌枠 |#karaoke 】とても久しい歌枠タイム【宙音りりぃ-Sorane Lily-】",
+          "channelName": "microcosmos / 宙音りりぃ Official Channel",
+          "publishedAt": "2026-10-04T13:58:50.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ICTixwDU0wc/hqdefault.jpg",
+          "sourcePath": "sources/IC/ICTixwDU0wc.json",
+          "time": "1:58:15",
+          "seconds": 7095,
+          "songTitle": "真生活",
+          "artist": "案山子"
+        },
+        {
+          "videoId": "1ye2ZyTIKNM",
+          "videoTitle": "【挑戦歌枠￤#karaoke 】初見さんに出会いたい 中性的な歌声のシンガーです、貴方に刺さるかも【#ひーライブ 】",
+          "channelName": "ひーくん / hi-kun",
+          "publishedAt": "2026-09-25T10:34:34.985Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1ye2ZyTIKNM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYwRWmqq7WnrDu0D7QFQX3jLaqkw",
+          "sourcePath": "sources/1y/1ye2ZyTIKNM.json",
+          "time": "0:25:00",
+          "seconds": 1500,
+          "songTitle": "真生活",
+          "artist": "案山子"
+        },
+        {
+          "videoId": "ZHj2hDiBxUU",
+          "videoTitle": "【1周年です！（第2部）】初めての歌枠をします。【水隅かるあ】",
+          "channelName": "水隅かるあ",
+          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZHj2hDiBxUU/hqdefault.jpg",
+          "sourcePath": "sources/ZH/ZHj2hDiBxUU.json",
+          "time": "0:31:07",
+          "seconds": 1867,
+          "songTitle": "真生活",
+          "artist": "案山子"
+        }
+      ],
+      "detailPath": "entities/songs/ae23244c81a57d34.json"
+    },
+    {
+      "rank": 1739,
       "id": "d39fc195db34b24c",
       "name": "神っぽいな",
       "secondary": "",
@@ -2297,7 +2358,7 @@
       "detailPath": "entities/songs/d39fc195db34b24c.json"
     },
     {
-      "rank": 1739,
+      "rank": 1740,
       "id": "ea0f307d6953bf9e",
       "name": "世界でいちばん熱い夏",
       "secondary": "PRINCESS PRINCESS",
@@ -2358,7 +2419,7 @@
       "detailPath": "entities/songs/ea0f307d6953bf9e.json"
     },
     {
-      "rank": 1740,
+      "rank": 1741,
       "id": "53aa45f59c9c46b5",
       "name": "星降る海",
       "secondary": "Aqu3ra & 月見ヤチヨ(早見沙織)",
@@ -2419,7 +2480,7 @@
       "detailPath": "entities/songs/53aa45f59c9c46b5.json"
     },
     {
-      "rank": 1741,
+      "rank": 1742,
       "id": "69b9796f8360ab92",
       "name": "打上花火",
       "secondary": "",
@@ -2476,7 +2537,7 @@
       "detailPath": "entities/songs/69b9796f8360ab92.json"
     },
     {
-      "rank": 1742,
+      "rank": 1743,
       "id": "de13b0ec28191f1d",
       "name": "啄木鳥",
       "secondary": "ヨルシカ",
@@ -2537,7 +2598,7 @@
       "detailPath": "entities/songs/de13b0ec28191f1d.json"
     },
     {
-      "rank": 1743,
+      "rank": 1744,
       "id": "75bbb6be7cb176f7",
       "name": "朝ごはんの歌",
       "secondary": "手嶌 葵",
@@ -2598,7 +2659,7 @@
       "detailPath": "entities/songs/75bbb6be7cb176f7.json"
     },
     {
-      "rank": 1744,
+      "rank": 1745,
       "id": "fd4f2550e6b9a482",
       "name": "点描の唄",
       "secondary": "",
@@ -2655,7 +2716,7 @@
       "detailPath": "entities/songs/fd4f2550e6b9a482.json"
     },
     {
-      "rank": 1745,
+      "rank": 1746,
       "id": "8e550b2402307216",
       "name": "秘密の扉から会いにきて",
       "secondary": "田村ゆかり",
@@ -2715,7 +2776,7 @@
       "detailPath": "entities/songs/8e550b2402307216.json"
     },
     {
-      "rank": 1746,
+      "rank": 1747,
       "id": "cb19ee0c306fe09a",
       "name": "飛ぶ時",
       "secondary": "Vaundy",
@@ -2775,7 +2836,7 @@
       "detailPath": "entities/songs/cb19ee0c306fe09a.json"
     },
     {
-      "rank": 1747,
+      "rank": 1748,
       "id": "05ba06ca6a8f650a",
       "name": "本気ボンバー‼",
       "secondary": "Berryz工房",
@@ -2835,7 +2896,7 @@
       "detailPath": "entities/songs/05ba06ca6a8f650a.json"
     },
     {
-      "rank": 1748,
+      "rank": 1749,
       "id": "846673669dcbb854",
       "name": "幽霊東京",
       "secondary": "Ayase feat.初音ミク",
@@ -2895,7 +2956,7 @@
       "detailPath": "entities/songs/846673669dcbb854.json"
     },
     {
-      "rank": 1749,
+      "rank": 1750,
       "id": "f440deebeb0a0be2",
       "name": "落日",
       "secondary": "東京事変",
@@ -2954,67 +3015,6 @@
         }
       ],
       "detailPath": "entities/songs/f440deebeb0a0be2.json"
-    },
-    {
-      "rank": 1750,
-      "id": "5f9e4c9b43a1a36c",
-      "name": "裏切りの夕焼け",
-      "secondary": "THEATRE BROOK",
-      "channelId": "UCm7UljkFpl0cEYkjidFtqFQ",
-      "channelHandle": "@TakamiyaAki",
-      "channelUrl": "",
-      "occurrenceCount": 16,
-      "videoCount": 16,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "AG5Eq2Q_Y6k",
-          "videoTitle": "【#歌枠】昔なつかしソング歌うよ #3【#春原すずの/#新人vtuber】",
-          "channelName": "春原すずの",
-          "publishedAt": "2026-10-04T07:51:44.743Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AG5Eq2Q_Y6k/hqdefault.jpg",
-          "sourcePath": "sources/AG/AG5Eq2Q_Y6k.json",
-          "time": "0:33:14",
-          "seconds": 1994,
-          "songTitle": "裏切りの夕焼け",
-          "artist": "THEATRE BROOK"
-        },
-        {
-          "videoId": "a6EaoPIvstE",
-          "videoTitle": "【歌枠▸定期】ひきこもり天使の君を寝かせない天界放送📯〖CYBILL〗",
-          "channelName": "CYBILL",
-          "publishedAt": "2026-09-28T16:55:45.212Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/a6EaoPIvstE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAS44l6x6d1oSwvIoJLw6NbnrmIdQ",
-          "sourcePath": "sources/a6/a6EaoPIvstE.json",
-          "time": "0:48:08",
-          "seconds": 2888,
-          "songTitle": "裏切りの夕焼け",
-          "artist": "THEATRE BROOK"
-        },
-        {
-          "videoId": "SX1LlzZg6Iw",
-          "videoTitle": "🏮 実写歌枠｜2010年代ベストアニソンを歌いまくるぜ!! #shorts #Vtuber ∞ 響架",
-          "channelName": "Kyoka Ch. -響架-",
-          "publishedAt": "2026-09-28T16:55:45.212Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SX1LlzZg6Iw/hqdefault.jpg",
-          "sourcePath": "sources/SX/SX1LlzZg6Iw.json",
-          "time": "2:11:12",
-          "seconds": 7872,
-          "songTitle": "裏切りの夕焼け",
-          "artist": "Theatre Brook"
-        }
-      ],
-      "detailPath": "entities/songs/5f9e4c9b43a1a36c.json"
     }
   ]
 }
