@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 143,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7101,
+      "id": "c41bff60a99fac3a",
+      "name": "東京",
+      "secondary": "SUPER BEAVER",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "bZVaPGgu-AU",
+          "videoTitle": "〖#歌枠〗V系好き、低音女子好きに刺され♡ #凰牙人類攻略〖アニソン￤V系￤JPOP￤サンホラ〗",
+          "channelName": "RUKI Ch. 凰牙るき",
+          "publishedAt": "2026-10-09T20:51:58.336Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bZVaPGgu-AU/hqdefault.jpg",
+          "sourcePath": "sources/bZ/bZVaPGgu-AU.json",
+          "time": "5:42:30",
+          "seconds": 20550,
+          "songTitle": "東京",
+          "artist": "SUPER BEAVER"
+        },
+        {
+          "videoId": "_c24S1AKYMA",
+          "videoTitle": "【#歌枠 】日曜夜はココ🥂初見さん5人目標！低音女子のKARAOKE Barでおしゃれ歌枠【#メラメライブ 】",
+          "channelName": "メラ・アカル MelaakaruVtuber",
+          "publishedAt": "2026-09-27T16:22:39.593Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_c24S1AKYMA/hqdefault.jpg",
+          "sourcePath": "sources/_c/_c24S1AKYMA.json",
+          "time": "2:19:00",
+          "seconds": 8340,
+          "songTitle": "東京",
+          "artist": "SUPER BEAVER"
+        }
+      ],
+      "detailPath": "entities/songs/c41bff60a99fac3a.json"
+    },
+    {
+      "rank": 7102,
       "id": "c297c926230e8162",
       "name": "東京",
       "secondary": "きのこ帝国",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/c297c926230e8162.json"
     },
     {
-      "rank": 7102,
+      "rank": 7103,
       "id": "7655ef8c1c2825df",
       "name": "東京テディベア",
       "secondary": "Neru feat.鏡音リン（ピアノ伴奏Ver.）",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/7655ef8c1c2825df.json"
     },
     {
-      "rank": 7103,
+      "rank": 7104,
       "id": "98bd4ccc3ee19b36",
       "name": "東京テディベアfeat鏡音リン",
       "secondary": "Neru",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/98bd4ccc3ee19b36.json"
     },
     {
-      "rank": 7104,
+      "rank": 7105,
       "id": "60323a91313c3962",
       "name": "東京は夜",
       "secondary": "平田義久",
@@ -187,7 +232,7 @@
       "detailPath": "entities/songs/60323a91313c3962.json"
     },
     {
-      "rank": 7105,
+      "rank": 7106,
       "id": "26b61846bb5a261d",
       "name": "東京賛歌",
       "secondary": "BUMP OF CHICKEN",
@@ -232,7 +277,7 @@
       "detailPath": "entities/songs/26b61846bb5a261d.json"
     },
     {
-      "rank": 7106,
+      "rank": 7107,
       "id": "b9a5e57e1fcacb62",
       "name": "桃色片想い♡",
       "secondary": "",
@@ -277,7 +322,7 @@
       "detailPath": "entities/songs/b9a5e57e1fcacb62.json"
     },
     {
-      "rank": 7107,
+      "rank": 7108,
       "id": "deecdfd87cee1751",
       "name": "当事者",
       "secondary": "",
@@ -319,7 +364,7 @@
       "detailPath": "entities/songs/deecdfd87cee1751.json"
     },
     {
-      "rank": 7108,
+      "rank": 7109,
       "id": "9cba08c9e15426a8",
       "name": "透影",
       "secondary": "深影",
@@ -364,7 +409,7 @@
       "detailPath": "entities/songs/9cba08c9e15426a8.json"
     },
     {
-      "rank": 7109,
+      "rank": 7110,
       "id": "92bc90e0a47abdd8",
       "name": "透明エレジー",
       "secondary": "n-buna",
@@ -409,7 +454,7 @@
       "detailPath": "entities/songs/92bc90e0a47abdd8.json"
     },
     {
-      "rank": 7110,
+      "rank": 7111,
       "id": "d1f8a42ac98aa626",
       "name": "透明人間18号",
       "secondary": "RADWIMPS",
@@ -454,7 +499,7 @@
       "detailPath": "entities/songs/d1f8a42ac98aa626.json"
     },
     {
-      "rank": 7111,
+      "rank": 7112,
       "id": "40d082a76d631128",
       "name": "透明飛行船",
       "secondary": "BUMP OF CHICKEN",
@@ -499,7 +544,7 @@
       "detailPath": "entities/songs/40d082a76d631128.json"
     },
     {
-      "rank": 7112,
+      "rank": 7113,
       "id": "5ef6134de5e81695",
       "name": "同担☆拒否",
       "secondary": "",
@@ -544,7 +589,7 @@
       "detailPath": "entities/songs/5ef6134de5e81695.json"
     },
     {
-      "rank": 7113,
+      "rank": 7114,
       "id": "2cf6613ff42b1f23",
       "name": "同担☆拒否",
       "secondary": "HoneyWorks feat. かぴ",
@@ -586,7 +631,7 @@
       "detailPath": "entities/songs/2cf6613ff42b1f23.json"
     },
     {
-      "rank": 7114,
+      "rank": 7115,
       "id": "25880b511a063306",
       "name": "憧れとレモンサワー",
       "secondary": "なきごと",
@@ -631,7 +676,7 @@
       "detailPath": "entities/songs/25880b511a063306.json"
     },
     {
-      "rank": 7115,
+      "rank": 7116,
       "id": "fa29ea71565214a5",
       "name": "瞳に映らない",
       "secondary": "indigo la End",
@@ -677,7 +722,7 @@
       "detailPath": "entities/songs/fa29ea71565214a5.json"
     },
     {
-      "rank": 7116,
+      "rank": 7117,
       "id": "1f0a874d3f36854f",
       "name": "瞳はダイアモンド",
       "secondary": "松田聖子",
@@ -723,7 +768,7 @@
       "detailPath": "entities/songs/1f0a874d3f36854f.json"
     },
     {
-      "rank": 7117,
+      "rank": 7118,
       "id": "ec9f0d9ac45836e2",
       "name": "童話になったらいいのに",
       "secondary": "電ǂ鯨",
@@ -768,7 +813,7 @@
       "detailPath": "entities/songs/ec9f0d9ac45836e2.json"
     },
     {
-      "rank": 7118,
+      "rank": 7119,
       "id": "6f92fa36be44b522",
       "name": "道",
       "secondary": "宇多田ヒカル",
@@ -813,7 +858,7 @@
       "detailPath": "entities/songs/6f92fa36be44b522.json"
     },
     {
-      "rank": 7119,
+      "rank": 7120,
       "id": "1eb19cd390274cb9",
       "name": "特捜戦隊デカレンジャー",
       "secondary": "TVサイズ",
@@ -855,7 +900,7 @@
       "detailPath": "entities/songs/1eb19cd390274cb9.json"
     },
     {
-      "rank": 7120,
+      "rank": 7121,
       "id": "7d2c89255e64272d",
       "name": "特捜戦隊デカレンジャー",
       "secondary": "サイキックラバー",
@@ -900,7 +945,7 @@
       "detailPath": "entities/songs/7d2c89255e64272d.json"
     },
     {
-      "rank": 7121,
+      "rank": 7122,
       "id": "2bf6c055021058e7",
       "name": "毒占欲",
       "secondary": "DECO*27",
@@ -945,7 +990,7 @@
       "detailPath": "entities/songs/2bf6c055021058e7.json"
     },
     {
-      "rank": 7122,
+      "rank": 7123,
       "id": "1d3d8086ea232f12",
       "name": "独白",
       "secondary": "",
@@ -990,7 +1035,7 @@
       "detailPath": "entities/songs/1d3d8086ea232f12.json"
     },
     {
-      "rank": 7123,
+      "rank": 7124,
       "id": "49a549518620051e",
       "name": "突然",
       "secondary": "FIELD OF VIEW",
@@ -1035,7 +1080,7 @@
       "detailPath": "entities/songs/49a549518620051e.json"
     },
     {
-      "rank": 7124,
+      "rank": 7125,
       "id": "768900065b43b8bb",
       "name": "曇天",
       "secondary": "",
@@ -1077,7 +1122,7 @@
       "detailPath": "entities/songs/768900065b43b8bb.json"
     },
     {
-      "rank": 7125,
+      "rank": 7126,
       "id": "a49c4920bf1cddce",
       "name": "那些年",
       "secondary": "胡夏",
@@ -1122,7 +1167,7 @@
       "detailPath": "entities/songs/a49c4920bf1cddce.json"
     },
     {
-      "rank": 7126,
+      "rank": 7127,
       "id": "7bb1947bee315612",
       "name": "難破船",
       "secondary": "中森明菜",
@@ -1167,7 +1212,7 @@
       "detailPath": "entities/songs/7bb1947bee315612.json"
     },
     {
-      "rank": 7127,
+      "rank": 7128,
       "id": "d5c64f4d97001c2c",
       "name": "二つめの空",
       "secondary": "UR@N",
@@ -1214,7 +1259,7 @@
       "detailPath": "entities/songs/d5c64f4d97001c2c.json"
     },
     {
-      "rank": 7128,
+      "rank": 7129,
       "id": "2d14e348d5882ade",
       "name": "二時間だけのバカンス",
       "secondary": "宇多田ヒカル",
@@ -1259,7 +1304,7 @@
       "detailPath": "entities/songs/2d14e348d5882ade.json"
     },
     {
-      "rank": 7129,
+      "rank": 7130,
       "id": "115e4667907bc500",
       "name": "二時間だけのバカンス",
       "secondary": "宇多田ヒカル featuring 椎名林檎",
@@ -1304,7 +1349,7 @@
       "detailPath": "entities/songs/115e4667907bc500.json"
     },
     {
-      "rank": 7130,
+      "rank": 7131,
       "id": "226d1cb556024292",
       "name": "二十四時間四六時中",
       "secondary": "クマリデパート",
@@ -1349,7 +1394,7 @@
       "detailPath": "entities/songs/226d1cb556024292.json"
     },
     {
-      "rank": 7131,
+      "rank": 7132,
       "id": "1890e0bcd5e5dc84",
       "name": "二息歩行",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -1394,7 +1439,7 @@
       "detailPath": "entities/songs/1890e0bcd5e5dc84.json"
     },
     {
-      "rank": 7132,
+      "rank": 7133,
       "id": "db37b00f1d5f2a59",
       "name": "二息歩行",
       "secondary": "",
@@ -1439,7 +1484,7 @@
       "detailPath": "entities/songs/db37b00f1d5f2a59.json"
     },
     {
-      "rank": 7133,
+      "rank": 7134,
       "id": "83bca0e12e56c384",
       "name": "二足歩行",
       "secondary": "DECO*27",
@@ -1484,7 +1529,7 @@
       "detailPath": "entities/songs/83bca0e12e56c384.json"
     },
     {
-      "rank": 7134,
+      "rank": 7135,
       "id": "3ff73a916a3535e6",
       "name": "虹",
       "secondary": "ELLEGARDEN",
@@ -1529,7 +1574,7 @@
       "detailPath": "entities/songs/3ff73a916a3535e6.json"
     },
     {
-      "rank": 7135,
+      "rank": 7136,
       "id": "090a73a944fc1940",
       "name": "虹",
       "secondary": "Niji 菅田将暉 / Masaki Suda",
@@ -1574,7 +1619,7 @@
       "detailPath": "entities/songs/090a73a944fc1940.json"
     },
     {
-      "rank": 7136,
+      "rank": 7137,
       "id": "67d56ef53b046a55",
       "name": "虹",
       "secondary": "森山直太朗",
@@ -1619,7 +1664,7 @@
       "detailPath": "entities/songs/67d56ef53b046a55.json"
     },
     {
-      "rank": 7137,
+      "rank": 7138,
       "id": "318a30cd0f946e21",
       "name": "虹と太陽の丘",
       "secondary": "ぴよぴよ",
@@ -1664,7 +1709,7 @@
       "detailPath": "entities/songs/318a30cd0f946e21.json"
     },
     {
-      "rank": 7138,
+      "rank": 7139,
       "id": "e113522f337c4c1f",
       "name": "虹の音",
       "secondary": "藍井エイル",
@@ -1709,7 +1754,7 @@
       "detailPath": "entities/songs/e113522f337c4c1f.json"
     },
     {
-      "rank": 7139,
+      "rank": 7140,
       "id": "e5944a40301e2cd4",
       "name": "虹の彼方に",
       "secondary": "ReoNa",
@@ -1754,7 +1799,7 @@
       "detailPath": "entities/songs/e5944a40301e2cd4.json"
     },
     {
-      "rank": 7140,
+      "rank": 7141,
       "id": "a5a174339dfb59c2",
       "name": "日本酒サラ",
       "secondary": "",
@@ -1796,7 +1841,7 @@
       "detailPath": "entities/songs/a5a174339dfb59c2.json"
     },
     {
-      "rank": 7141,
+      "rank": 7142,
       "id": "757afefeb4077066",
       "name": "日本全国酒飲み音頭",
       "secondary": "バラクーダ",
@@ -1841,7 +1886,7 @@
       "detailPath": "entities/songs/757afefeb4077066.json"
     },
     {
-      "rank": 7142,
+      "rank": 7143,
       "id": "68bb321586f33cad",
       "name": "日曜日/浴室",
       "secondary": "People In The Box",
@@ -1883,7 +1928,7 @@
       "detailPath": "entities/songs/68bb321586f33cad.json"
     },
     {
-      "rank": 7143,
+      "rank": 7144,
       "id": "d8a6775208c674c3",
       "name": "如月アテンション",
       "secondary": "",
@@ -1928,7 +1973,7 @@
       "detailPath": "entities/songs/d8a6775208c674c3.json"
     },
     {
-      "rank": 7144,
+      "rank": 7145,
       "id": "2183bea8268fc393",
       "name": "猫とアレルギー",
       "secondary": "きのこ帝国",
@@ -1970,7 +2015,7 @@
       "detailPath": "entities/songs/2183bea8268fc393.json"
     },
     {
-      "rank": 7145,
+      "rank": 7146,
       "id": "3821f2e4f53c5bf9",
       "name": "猫リセット",
       "secondary": "ずっと真夜中でいいのに。",
@@ -2015,7 +2060,7 @@
       "detailPath": "entities/songs/3821f2e4f53c5bf9.json"
     },
     {
-      "rank": 7146,
+      "rank": 7147,
       "id": "dd94051ae39db3ac",
       "name": "熱異常",
       "secondary": "いよわ",
@@ -2060,7 +2105,7 @@
       "detailPath": "entities/songs/dd94051ae39db3ac.json"
     },
     {
-      "rank": 7147,
+      "rank": 7148,
       "id": "7ac2f168c549f105",
       "name": "熱帯夜",
       "secondary": "SHISHAMO",
@@ -2105,7 +2150,7 @@
       "detailPath": "entities/songs/7ac2f168c549f105.json"
     },
     {
-      "rank": 7148,
+      "rank": 7149,
       "id": "eddf9cdb5a56de38",
       "name": "熱風！疾風！サイバスター",
       "secondary": "水木一郎・影山ヒロノブ",
@@ -2147,7 +2192,7 @@
       "detailPath": "entities/songs/eddf9cdb5a56de38.json"
     },
     {
-      "rank": 7149,
+      "rank": 7150,
       "id": "b592e0ce6fd812cc",
       "name": "熱烈歓迎わんだーらんど",
       "secondary": "宮永咲(植田佳奈)・原村和(小清水亜美)・片岡優希(釘宮理恵)・染谷まこ(白石涼子)・竹井久(伊藤静)",
@@ -2190,51 +2235,6 @@
         }
       ],
       "detailPath": "entities/songs/b592e0ce6fd812cc.json"
-    },
-    {
-      "rank": 7150,
-      "id": "8c010313c4c1ff39",
-      "name": "年輪菓子",
-      "secondary": "",
-      "channelId": "UC4N4PikgcfKxARbY_GF_o0Q",
-      "channelHandle": "@itomachi",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "duVXmdHBFH4",
-          "videoTitle": "【#推し前／歌枠リレー】PONはしていないと信じて👀【 #糸街つむぎ 】",
-          "channelName": "糸街 / Itomachi",
-          "publishedAt": "2026-10-12T09:02:17.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/duVXmdHBFH4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDFv2USL0x4tHjNsx0yEsvIhTwwA",
-          "sourcePath": "sources/du/duVXmdHBFH4.json",
-          "time": "0:19:30",
-          "seconds": 1170,
-          "songTitle": "年輪菓子",
-          "artist": ""
-        },
-        {
-          "videoId": "8NTaymx1vSo",
-          "videoTitle": "【#推し前 / 推しと最前列で観る歌枠リレー vol.2】同時視聴で本人と盛り上がろう！【花ヶ崎穣枠】",
-          "channelName": "花ヶ崎穣 ch / Hanagasaki Minoru ch.",
-          "publishedAt": "2026-10-12T08:31:17.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8NTaymx1vSo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiQ6mV00RPsxEaI9QDuRAanFR8iQ",
-          "sourcePath": "sources/8N/8NTaymx1vSo.json",
-          "time": "0:19:30",
-          "seconds": 1170,
-          "songTitle": "年輪菓子",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/8c010313c4c1ff39.json"
     }
   ]
 }

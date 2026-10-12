@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "items": [
     {
       "id": "a6c9b5337d65d423",
@@ -186,8 +186,8 @@
       "type": "songs",
       "name": "ないものねだり",
       "secondary": "KANA-BOON",
-      "occurrenceCount": 96,
-      "videoCount": 96,
+      "occurrenceCount": 97,
+      "videoCount": 97,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -213,8 +213,8 @@
           "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 42,
-          "videoCount": 42
+          "occurrenceCount": 43,
+          "videoCount": 43
         }
       },
       "text": "ないものねだりkanaboon"
@@ -5990,8 +5990,8 @@
       "detailPath": "entities/songs/a8c416c459fb0e08.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 32,
@@ -6115,10 +6115,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/a40d3b03c949e52f.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 10,
           "videoCount": 10
@@ -73575,6 +73571,31 @@
       "text": "フライデーチャイナタウン泰葉初出し"
     },
     {
+      "id": "affde5c841cfcfd8",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "恋は渾沌の隷也",
+      "secondary": "後ろから這い寄り隊G",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/affde5c841cfcfd8.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "恋は渾沌の隷也後ろから這い寄り隊g"
+    },
+    {
       "id": "ab714e501790ec90",
       "channelId": "",
       "channelHandle": "",
@@ -76685,8 +76706,8 @@
       "type": "artists",
       "name": "Ado",
       "secondary": "",
-      "occurrenceCount": 1532,
-      "videoCount": 1042,
+      "occurrenceCount": 1533,
+      "videoCount": 1043,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76712,8 +76733,8 @@
           "videoCount": 36
         },
         "30d": {
-          "occurrenceCount": 585,
-          "videoCount": 428
+          "occurrenceCount": 586,
+          "videoCount": 429
         }
       },
       "text": "ado"

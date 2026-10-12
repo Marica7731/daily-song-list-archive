@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 130,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6451,
+      "id": "265a4c08e77f0755",
+      "name": "一体いつから",
+      "secondary": "初星学園 月村手毬(CV:小鹿なお)",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "xoH3H0Dw_FE",
+          "videoTitle": "【歌枠】 #学マス の曲を歌いまくる！！！🎶学園アイドルマスター Singing Stream【 #春歌みこと 】",
+          "channelName": "春歌みこと Mikoto Haruka【シアーミュージックV】",
+          "publishedAt": "2026-09-26T12:58:23.814Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xoH3H0Dw_FE/hqdefault.jpg",
+          "sourcePath": "sources/xo/xoH3H0Dw_FE.json",
+          "time": "0:48:35",
+          "seconds": 2915,
+          "songTitle": "一体いつから",
+          "artist": "初星学園 月村手毬(CV:小鹿なお)"
+        },
+        {
+          "videoId": "lab05C1eB2c",
+          "videoTitle": "1曲聴いていって！🎶元気が出る歌声の路上ライブ！歌枠【 #春歌みこと / #VTuber 】",
+          "channelName": "春歌みこと Mikoto Haruka【シアーミュージックV】",
+          "publishedAt": "2026-09-18T12:46:48.956Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/lab05C1eB2c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBEL6IaDz3rGkVibPyyYDkON6N7Lw",
+          "sourcePath": "sources/la/lab05C1eB2c.json",
+          "time": "0:55:53",
+          "seconds": 3353,
+          "songTitle": "一体いつから",
+          "artist": "初星学園 月村手毬(CV:小鹿なお)"
+        }
+      ],
+      "detailPath": "entities/songs/265a4c08e77f0755.json"
+    },
+    {
+      "rank": 6452,
       "id": "3324a40097f92731",
       "name": "一体いつから",
       "secondary": "初星学園・月村手毬",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/3324a40097f92731.json"
     },
     {
-      "rank": 6452,
+      "rank": 6453,
       "id": "c402ec1fa954da3d",
       "name": "一体いつから",
       "secondary": "月村手毬",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/c402ec1fa954da3d.json"
     },
     {
-      "rank": 6453,
+      "rank": 6454,
       "id": "9c20e41ca3e330f4",
       "name": "一体いつから",
       "secondary": "初星学園",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/9c20e41ca3e330f4.json"
     },
     {
-      "rank": 6454,
+      "rank": 6455,
       "id": "7151243bb882e337",
       "name": "一度だけの恋なら",
       "secondary": "マクロスΔ",
@@ -190,7 +235,7 @@
       "detailPath": "entities/songs/7151243bb882e337.json"
     },
     {
-      "rank": 6455,
+      "rank": 6456,
       "id": "edce9dd129380278",
       "name": "一難",
       "secondary": "Penthouse",
@@ -235,7 +280,7 @@
       "detailPath": "entities/songs/edce9dd129380278.json"
     },
     {
-      "rank": 6456,
+      "rank": 6457,
       "id": "b0ee923918367288",
       "name": "一般販売期間:10",
       "secondary": "1～10/24 23:59 一公演￥10,000",
@@ -280,7 +325,7 @@
       "detailPath": "entities/songs/b0ee923918367288.json"
     },
     {
-      "rank": 6457,
+      "rank": 6458,
       "id": "121e0c30902180db",
       "name": "一番の宝物(アカペラ歌唱練習)",
       "secondary": "ユイ(LiSA) ／ Angel Beats!(2010年)",
@@ -322,7 +367,7 @@
       "detailPath": "entities/songs/121e0c30902180db.json"
     },
     {
-      "rank": 6458,
+      "rank": 6459,
       "id": "d8fbc74913af7f3c",
       "name": "一番綺麗な私を",
       "secondary": "中島美嘉",
@@ -367,7 +412,7 @@
       "detailPath": "entities/songs/d8fbc74913af7f3c.json"
     },
     {
-      "rank": 6459,
+      "rank": 6460,
       "id": "f89cef86a377f65c",
       "name": "茨の海",
       "secondary": "鬼束ちひろ",
@@ -412,7 +457,7 @@
       "detailPath": "entities/songs/f89cef86a377f65c.json"
     },
     {
-      "rank": 6460,
+      "rank": 6461,
       "id": "fbcf1d53718543de",
       "name": "飲みに来ないか",
       "secondary": "スキマスイッチ",
@@ -457,7 +502,7 @@
       "detailPath": "entities/songs/fbcf1d53718543de.json"
     },
     {
-      "rank": 6461,
+      "rank": 6462,
       "id": "37b0609fa9201e08",
       "name": "烏",
       "secondary": "米津玄師ｻﾝ",
@@ -502,7 +547,7 @@
       "detailPath": "entities/songs/37b0609fa9201e08.json"
     },
     {
-      "rank": 6462,
+      "rank": 6463,
       "id": "b6543dba211f0b51",
       "name": "烏",
       "secondary": "米津玄師",
@@ -548,7 +593,7 @@
       "detailPath": "entities/songs/b6543dba211f0b51.json"
     },
     {
-      "rank": 6463,
+      "rank": 6464,
       "id": "7f61e42c9b5ced8f",
       "name": "雨、キミを連れて",
       "secondary": "EGOIST",
@@ -593,7 +638,7 @@
       "detailPath": "entities/songs/7f61e42c9b5ced8f.json"
     },
     {
-      "rank": 6464,
+      "rank": 6465,
       "id": "e20db69213b1b1b8",
       "name": "雨とペトラ",
       "secondary": "",
@@ -638,7 +683,7 @@
       "detailPath": "entities/songs/e20db69213b1b1b8.json"
     },
     {
-      "rank": 6465,
+      "rank": 6466,
       "id": "711d35aa143778cf",
       "name": "雨とペトラ",
       "secondary": "須田景凪",
@@ -683,7 +728,7 @@
       "detailPath": "entities/songs/711d35aa143778cf.json"
     },
     {
-      "rank": 6466,
+      "rank": 6467,
       "id": "725e0b4d2202f182",
       "name": "雨にキッスの花束を",
       "secondary": "今井美樹",
@@ -728,7 +773,7 @@
       "detailPath": "entities/songs/725e0b4d2202f182.json"
     },
     {
-      "rank": 6467,
+      "rank": 6468,
       "id": "2b93ac5af8630696",
       "name": "雨愛",
       "secondary": "",
@@ -773,7 +818,7 @@
       "detailPath": "entities/songs/2b93ac5af8630696.json"
     },
     {
-      "rank": 6468,
+      "rank": 6469,
       "id": "2be4fb0caf258596",
       "name": "雨音ノイズ",
       "secondary": "40mP",
@@ -818,7 +863,7 @@
       "detailPath": "entities/songs/2be4fb0caf258596.json"
     },
     {
-      "rank": 6469,
+      "rank": 6470,
       "id": "c7c1870dd5670852",
       "name": "雨景色",
       "secondary": "ロクデナシ",
@@ -860,7 +905,7 @@
       "detailPath": "entities/songs/c7c1870dd5670852.json"
     },
     {
-      "rank": 6470,
+      "rank": 6471,
       "id": "56b47173bad9f40e",
       "name": "雨上がりのアイリス",
       "secondary": "初星学園 Re;IRIS",
@@ -905,7 +950,7 @@
       "detailPath": "entities/songs/56b47173bad9f40e.json"
     },
     {
-      "rank": 6471,
+      "rank": 6472,
       "id": "ffe780727f5926f9",
       "name": "雨上がりのアイリス",
       "secondary": "Re;IRIS",
@@ -950,7 +995,7 @@
       "detailPath": "entities/songs/ffe780727f5926f9.json"
     },
     {
-      "rank": 6472,
+      "rank": 6473,
       "id": "5964901d14efe9a2",
       "name": "嘘",
       "secondary": "シド ※JOYSOUND",
@@ -995,7 +1040,7 @@
       "detailPath": "entities/songs/5964901d14efe9a2.json"
     },
     {
-      "rank": 6473,
+      "rank": 6474,
       "id": "ec48aed47608d2be",
       "name": "嘘",
       "secondary": "",
@@ -1040,7 +1085,7 @@
       "detailPath": "entities/songs/ec48aed47608d2be.json"
     },
     {
-      "rank": 6474,
+      "rank": 6475,
       "id": "3908ca3bc3f0b0a5",
       "name": "運命の人",
       "secondary": "藤田麻衣子 ※JOYSOUND",
@@ -1085,7 +1130,7 @@
       "detailPath": "entities/songs/3908ca3bc3f0b0a5.json"
     },
     {
-      "rank": 6475,
+      "rank": 6476,
       "id": "27a4855a0ef59f42",
       "name": "雲は白リンゴは赤",
       "secondary": "Aiko",
@@ -1130,7 +1175,7 @@
       "detailPath": "entities/songs/27a4855a0ef59f42.json"
     },
     {
-      "rank": 6476,
+      "rank": 6477,
       "id": "cb6feb017daa7a8a",
       "name": "栄光の架橋",
       "secondary": "",
@@ -1175,7 +1220,7 @@
       "detailPath": "entities/songs/cb6feb017daa7a8a.json"
     },
     {
-      "rank": 6477,
+      "rank": 6478,
       "id": "d2aeb86082945f3c",
       "name": "永遠",
       "secondary": "EGOIST",
@@ -1221,7 +1266,7 @@
       "detailPath": "entities/songs/d2aeb86082945f3c.json"
     },
     {
-      "rank": 6478,
+      "rank": 6479,
       "id": "bc034929ccc034cf",
       "name": "英雄　運命の詩",
       "secondary": "",
@@ -1266,7 +1311,7 @@
       "detailPath": "entities/songs/bc034929ccc034cf.json"
     },
     {
-      "rank": 6479,
+      "rank": 6480,
       "id": "7580266db8344258",
       "name": "延命治療",
       "secondary": "Neru",
@@ -1311,7 +1356,7 @@
       "detailPath": "entities/songs/7580266db8344258.json"
     },
     {
-      "rank": 6480,
+      "rank": 6481,
       "id": "90c5343e00a37e72",
       "name": "炎のたからもの",
       "secondary": "BOBBY",
@@ -1356,7 +1401,7 @@
       "detailPath": "entities/songs/90c5343e00a37e72.json"
     },
     {
-      "rank": 6481,
+      "rank": 6482,
       "id": "9c168058683e475f",
       "name": "焔の扉",
       "secondary": "機動戦士ガンダムSEED DESTINY",
@@ -1401,7 +1446,7 @@
       "detailPath": "entities/songs/9c168058683e475f.json"
     },
     {
-      "rank": 6482,
+      "rank": 6483,
       "id": "20eef9883a80c649",
       "name": "遠くまで行く君に",
       "secondary": "Absolute area",
@@ -1446,7 +1491,7 @@
       "detailPath": "entities/songs/20eef9883a80c649.json"
     },
     {
-      "rank": 6483,
+      "rank": 6484,
       "id": "9a4f291a7c29de5a",
       "name": "遠く遠く",
       "secondary": "槇原敬之",
@@ -1491,7 +1536,7 @@
       "detailPath": "entities/songs/9a4f291a7c29de5a.json"
     },
     {
-      "rank": 6484,
+      "rank": 6485,
       "id": "6334ec08687d028c",
       "name": "横顔",
       "secondary": "aiko",
@@ -1536,7 +1581,7 @@
       "detailPath": "entities/songs/6334ec08687d028c.json"
     },
     {
-      "rank": 6485,
+      "rank": 6486,
       "id": "c7bad5f9967752ea",
       "name": "黄昏ロマンス",
       "secondary": "ポルノグラフィティ",
@@ -1581,7 +1626,7 @@
       "detailPath": "entities/songs/c7bad5f9967752ea.json"
     },
     {
-      "rank": 6486,
+      "rank": 6487,
       "id": "8fbea9d3262b1b56",
       "name": "乙女のポリシー",
       "secondary": "石田燿子",
@@ -1626,7 +1671,7 @@
       "detailPath": "entities/songs/8fbea9d3262b1b56.json"
     },
     {
-      "rank": 6487,
+      "rank": 6488,
       "id": "611195457d7bab86",
       "name": "乙女のルートはひとつじゃない!",
       "secondary": "angela",
@@ -1671,7 +1716,7 @@
       "detailPath": "entities/songs/611195457d7bab86.json"
     },
     {
-      "rank": 6488,
+      "rank": 6489,
       "id": "b17fe290ffd47ed7",
       "name": "乙女はサイコパス",
       "secondary": "P丸様。",
@@ -1716,7 +1761,7 @@
       "detailPath": "entities/songs/b17fe290ffd47ed7.json"
     },
     {
-      "rank": 6489,
+      "rank": 6490,
       "id": "0d45d6d999d334dd",
       "name": "音偽バナシ",
       "secondary": "",
@@ -1761,7 +1806,7 @@
       "detailPath": "entities/songs/0d45d6d999d334dd.json"
     },
     {
-      "rank": 6490,
+      "rank": 6491,
       "id": "f057e4dbd1024cf7",
       "name": "化けの皮",
       "secondary": "MAISONdes",
@@ -1806,7 +1851,7 @@
       "detailPath": "entities/songs/f057e4dbd1024cf7.json"
     },
     {
-      "rank": 6491,
+      "rank": 6492,
       "id": "dbcbf30207d4fedd",
       "name": "仮契約のシンデレラ",
       "secondary": "私立恵比寿中学",
@@ -1851,7 +1896,7 @@
       "detailPath": "entities/songs/dbcbf30207d4fedd.json"
     },
     {
-      "rank": 6492,
+      "rank": 6493,
       "id": "b7e7d398ede59788",
       "name": "仮死化",
       "secondary": "",
@@ -1893,7 +1938,7 @@
       "detailPath": "entities/songs/b7e7d398ede59788.json"
     },
     {
-      "rank": 6493,
+      "rank": 6494,
       "id": "055915b9db76deb3",
       "name": "何なんw",
       "secondary": "藤井風",
@@ -1939,7 +1984,7 @@
       "detailPath": "entities/songs/055915b9db76deb3.json"
     },
     {
-      "rank": 6494,
+      "rank": 6495,
       "id": "cb3d5ae9c0df76c8",
       "name": "可愛いねって言われちゃった",
       "secondary": "HoneyWorks",
@@ -1984,7 +2029,7 @@
       "detailPath": "entities/songs/cb3d5ae9c0df76c8.json"
     },
     {
-      "rank": 6495,
+      "rank": 6496,
       "id": "56154a587dfc9848",
       "name": "可愛いﾐｰﾅ",
       "secondary": "桑田佳祐",
@@ -2029,7 +2074,7 @@
       "detailPath": "entities/songs/56154a587dfc9848.json"
     },
     {
-      "rank": 6496,
+      "rank": 6497,
       "id": "13ec5c6222ba912b",
       "name": "夏が来る",
       "secondary": "大黒摩季",
@@ -2074,7 +2119,7 @@
       "detailPath": "entities/songs/13ec5c6222ba912b.json"
     },
     {
-      "rank": 6497,
+      "rank": 6498,
       "id": "8883bb1dd0a903ff",
       "name": "夏に去りし君を想フ",
       "secondary": "baker",
@@ -2119,7 +2164,7 @@
       "detailPath": "entities/songs/8883bb1dd0a903ff.json"
     },
     {
-      "rank": 6498,
+      "rank": 6499,
       "id": "3f76173f5bdb389b",
       "name": "夏の黄金比",
       "secondary": "相対性理論",
@@ -2164,7 +2209,7 @@
       "detailPath": "entities/songs/3f76173f5bdb389b.json"
     },
     {
-      "rank": 6499,
+      "rank": 6500,
       "id": "14d793c5b0a110e1",
       "name": "夏の終りのハーモニー",
       "secondary": "井上陽水・安全地帯",
@@ -2204,51 +2249,6 @@
         }
       ],
       "detailPath": "entities/songs/14d793c5b0a110e1.json"
-    },
-    {
-      "rank": 6500,
-      "id": "13359cad8955c99a",
-      "name": "夏の半券",
-      "secondary": "みきとP feat.初音ミク ※JOYSOUND",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Ou-KeRce7yk",
-          "videoTitle": "【#歌枠】初見さん来ないと歌えない⁉【可否モカ/Vtuber】",
-          "channelName": "可否モカ / Kahi Mocha",
-          "publishedAt": "2026-10-03T10:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Ou-KeRce7yk/hqdefault.jpg",
-          "sourcePath": "sources/Ou/Ou-KeRce7yk.json",
-          "time": "2:51:36",
-          "seconds": 10296,
-          "songTitle": "夏の半券",
-          "artist": "みきとP feat.初音ミク ※JOYSOUND"
-        },
-        {
-          "videoId": "I-1hQTsUGTY",
-          "videoTitle": "【歌枠】疲れた人に送る泣ける曲縛り🌷初見さんROMさん歓迎",
-          "channelName": "可否モカ / Kahi Mocha",
-          "publishedAt": "2026-09-17T11:53:14.396Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/I-1hQTsUGTY/hqdefault.jpg",
-          "sourcePath": "sources/I-/I-1hQTsUGTY.json",
-          "time": "0:45:24",
-          "seconds": 2724,
-          "songTitle": "夏の半券",
-          "artist": "みきとP feat.初音ミク ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/songs/13359cad8955c99a.json"
     }
   ]
 }

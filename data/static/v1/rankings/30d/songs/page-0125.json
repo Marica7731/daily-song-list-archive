@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 125,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6201,
+      "id": "cdc0885000233c3b",
+      "name": "ポーカーフェイス",
+      "secondary": "ゆちゃP",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "L45RCv8Vsok",
+          "videoTitle": "【カラオケ】2010年ぐらいのボカロしか歌わん！ライブチケット買え下さい！！！【ばしぽ】#歌枠 #歌ってみた #男性Vtuber",
+          "channelName": "ばしぽちゃんねる",
+          "publishedAt": "2026-09-27T11:03:05.009Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/L45RCv8Vsok/hqdefault.jpg",
+          "sourcePath": "sources/L4/L45RCv8Vsok.json",
+          "time": "0:50:28",
+          "seconds": 3028,
+          "songTitle": "ポーカーフェイス",
+          "artist": "ゆちゃP"
+        },
+        {
+          "videoId": "vgUC6w89AN8",
+          "videoTitle": "歌枠 | 古き良きボカロなどを歌うシルバーウィーク歌枠🤺【 新人VTuber / 英凪フーカ 】",
+          "channelName": "英凪フーカ / Hanagi Fooka",
+          "publishedAt": "2026-09-22T06:43:01.034Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vgUC6w89AN8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAR6r5giG02aTNC73PVSa4vzOcNUg",
+          "sourcePath": "sources/vg/vgUC6w89AN8.json",
+          "time": "1:35:15",
+          "seconds": 5715,
+          "songTitle": "ポーカーフェイス",
+          "artist": "ゆちゃP"
+        }
+      ],
+      "detailPath": "entities/songs/cdc0885000233c3b.json"
+    },
+    {
+      "rank": 6202,
       "id": "177e39ef0ed06ef7",
       "name": "ホームワークが終わらない",
       "secondary": "馬渡松子",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/177e39ef0ed06ef7.json"
     },
     {
-      "rank": 6202,
+      "rank": 6203,
       "id": "3dc6af7c99fe2944",
       "name": "ホール・ニュー・ワールド",
       "secondary": "アラジン",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/3dc6af7c99fe2944.json"
     },
     {
-      "rank": 6203,
+      "rank": 6204,
       "id": "2e9b32eb21c0c663",
       "name": "ぼかろころしあむ",
       "secondary": "DIVELA",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/2e9b32eb21c0c663.json"
     },
     {
-      "rank": 6204,
+      "rank": 6205,
       "id": "2bcbcc5ace986053",
       "name": "ポケット",
       "secondary": "大塚愛",
@@ -190,7 +235,7 @@
       "detailPath": "entities/songs/2bcbcc5ace986053.json"
     },
     {
-      "rank": 6205,
+      "rank": 6206,
       "id": "aa2d1babc7c506fe",
       "name": "ホシアイ",
       "secondary": "レフティーモンスターP feat. GUMI",
@@ -235,7 +280,7 @@
       "detailPath": "entities/songs/aa2d1babc7c506fe.json"
     },
     {
-      "rank": 6206,
+      "rank": 6207,
       "id": "6e43a22803605ba7",
       "name": "ホタルノヒカリ",
       "secondary": "",
@@ -280,7 +325,7 @@
       "detailPath": "entities/songs/6e43a22803605ba7.json"
     },
     {
-      "rank": 6207,
+      "rank": 6208,
       "id": "3ced125e4dc07d45",
       "name": "ボトム",
       "secondary": "柊キライ",
@@ -325,7 +370,7 @@
       "detailPath": "entities/songs/3ced125e4dc07d45.json"
     },
     {
-      "rank": 6208,
+      "rank": 6209,
       "id": "46e123d0fe631eb9",
       "name": "ポラリス",
       "secondary": "BLUE ENCOUNT",
@@ -370,7 +415,7 @@
       "detailPath": "entities/songs/46e123d0fe631eb9.json"
     },
     {
-      "rank": 6209,
+      "rank": 6210,
       "id": "7cd27b4608a717a6",
       "name": "ポルカ・オ・ドルカ",
       "secondary": "ニャース(犬山イヌコ) & ノルソル合唱団",
@@ -415,7 +460,7 @@
       "detailPath": "entities/songs/7cd27b4608a717a6.json"
     },
     {
-      "rank": 6210,
+      "rank": 6211,
       "id": "e3a6d2752c21c4c0",
       "name": "ボルテッカー",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -460,7 +505,7 @@
       "detailPath": "entities/songs/e3a6d2752c21c4c0.json"
     },
     {
-      "rank": 6211,
+      "rank": 6212,
       "id": "9f0f6d6af8c94b7d",
       "name": "ポロメリア",
       "secondary": "Cocco",
@@ -505,7 +550,7 @@
       "detailPath": "entities/songs/9f0f6d6af8c94b7d.json"
     },
     {
-      "rank": 6212,
+      "rank": 6213,
       "id": "c4f1b7147387f091",
       "name": "ホワイトアウト",
       "secondary": "ReGretGirl",
@@ -550,7 +595,7 @@
       "detailPath": "entities/songs/c4f1b7147387f091.json"
     },
     {
-      "rank": 6213,
+      "rank": 6214,
       "id": "ec713a079f82fc99",
       "name": "ホワイトハッピー",
       "secondary": "",
@@ -592,7 +637,7 @@
       "detailPath": "entities/songs/ec713a079f82fc99.json"
     },
     {
-      "rank": 6214,
+      "rank": 6215,
       "id": "da56b5cd6dacd029",
       "name": "マーメイド",
       "secondary": "monaca:factory",
@@ -637,7 +682,7 @@
       "detailPath": "entities/songs/da56b5cd6dacd029.json"
     },
     {
-      "rank": 6215,
+      "rank": 6216,
       "id": "25f5c6dd01fa3885",
       "name": "マーメイドラプソディー",
       "secondary": "SEKAI NO OWARI",
@@ -682,7 +727,7 @@
       "detailPath": "entities/songs/25f5c6dd01fa3885.json"
     },
     {
-      "rank": 6216,
+      "rank": 6217,
       "id": "6c3fa2ece5449461",
       "name": "マイオンリー",
       "secondary": "SixTONES",
@@ -724,7 +769,7 @@
       "detailPath": "entities/songs/6c3fa2ece5449461.json"
     },
     {
-      "rank": 6217,
+      "rank": 6218,
       "id": "02c217be09ba88a2",
       "name": "マインドブランド",
       "secondary": "MARETU",
@@ -769,7 +814,7 @@
       "detailPath": "entities/songs/02c217be09ba88a2.json"
     },
     {
-      "rank": 6218,
+      "rank": 6219,
       "id": "35381880806e989b",
       "name": "マオ",
       "secondary": "かいりきベア・まふまふ",
@@ -814,7 +859,7 @@
       "detailPath": "entities/songs/35381880806e989b.json"
     },
     {
-      "rank": 6219,
+      "rank": 6220,
       "id": "44b1bd99af0d9546",
       "name": "マカロン",
       "secondary": "",
@@ -859,7 +904,7 @@
       "detailPath": "entities/songs/44b1bd99af0d9546.json"
     },
     {
-      "rank": 6220,
+      "rank": 6221,
       "id": "c0f6a445923bfdd6",
       "name": "マコトシヤカ",
       "secondary": "LiSA",
@@ -904,7 +949,7 @@
       "detailPath": "entities/songs/c0f6a445923bfdd6.json"
     },
     {
-      "rank": 6221,
+      "rank": 6222,
       "id": "0b92029ac4745d51",
       "name": "マジか！",
       "secondary": "梓川",
@@ -949,7 +994,7 @@
       "detailPath": "entities/songs/0b92029ac4745d51.json"
     },
     {
-      "rank": 6222,
+      "rank": 6223,
       "id": "3d4ec511b7251f17",
       "name": "マジックナンバー",
       "secondary": "坂本真綾",
@@ -994,7 +1039,7 @@
       "detailPath": "entities/songs/3d4ec511b7251f17.json"
     },
     {
-      "rank": 6223,
+      "rank": 6224,
       "id": "3902e2e6ee77e7f2",
       "name": "ﾏｼﾞﾝｶﾞｰZ",
       "secondary": "水木一郎",
@@ -1039,7 +1084,7 @@
       "detailPath": "entities/songs/3902e2e6ee77e7f2.json"
     },
     {
-      "rank": 6224,
+      "rank": 6225,
       "id": "0198aa82120a3c63",
       "name": "ます",
       "secondary": "RADWIMPS",
@@ -1084,7 +1129,7 @@
       "detailPath": "entities/songs/0198aa82120a3c63.json"
     },
     {
-      "rank": 6225,
+      "rank": 6226,
       "id": "b5f6f8732a75cec1",
       "name": "また あした",
       "secondary": "Every Little Thing",
@@ -1129,7 +1174,7 @@
       "detailPath": "entities/songs/b5f6f8732a75cec1.json"
     },
     {
-      "rank": 6226,
+      "rank": 6227,
       "id": "b09dbdde247cd026",
       "name": "マタアイマショウ",
       "secondary": "SEAMO",
@@ -1174,7 +1219,7 @@
       "detailPath": "entities/songs/b09dbdde247cd026.json"
     },
     {
-      "rank": 6227,
+      "rank": 6228,
       "id": "9deb36177a875122",
       "name": "またね",
       "secondary": "宮崎奈穂子(ｵﾘｼﾞﾅﾙ)",
@@ -1219,7 +1264,7 @@
       "detailPath": "entities/songs/9deb36177a875122.json"
     },
     {
-      "rank": 6228,
+      "rank": 6229,
       "id": "6b97a386f98ed958",
       "name": "またね",
       "secondary": "まにこ（オリジナル・フル）",
@@ -1261,7 +1306,7 @@
       "detailPath": "entities/songs/6b97a386f98ed958.json"
     },
     {
-      "rank": 6229,
+      "rank": 6230,
       "id": "3f4cd2b38aea3f97",
       "name": "また夏を追う",
       "secondary": "あたらよ",
@@ -1306,7 +1351,7 @@
       "detailPath": "entities/songs/3f4cd2b38aea3f97.json"
     },
     {
-      "rank": 6230,
+      "rank": 6231,
       "id": "3f82fb8bbff4271f",
       "name": "また来てね",
       "secondary": "",
@@ -1351,7 +1396,7 @@
       "detailPath": "entities/songs/3f82fb8bbff4271f.json"
     },
     {
-      "rank": 6231,
+      "rank": 6232,
       "id": "4637829d76082e9e",
       "name": "までの受注販売で",
       "secondary": "",
@@ -1396,7 +1441,7 @@
       "detailPath": "entities/songs/4637829d76082e9e.json"
     },
     {
-      "rank": 6232,
+      "rank": 6233,
       "id": "f332ca7fa0be6093",
       "name": "マトリョシカ",
       "secondary": "米津玄師",
@@ -1441,7 +1486,7 @@
       "detailPath": "entities/songs/f332ca7fa0be6093.json"
     },
     {
-      "rank": 6233,
+      "rank": 6234,
       "id": "3acac86a60f5220f",
       "name": "マメシバ",
       "secondary": "坂本真綾",
@@ -1486,7 +1531,7 @@
       "detailPath": "entities/songs/3acac86a60f5220f.json"
     },
     {
-      "rank": 6234,
+      "rank": 6235,
       "id": "712745927d9812ad",
       "name": "まもりたい ~White Wishes~",
       "secondary": "BoA",
@@ -1531,7 +1576,7 @@
       "detailPath": "entities/songs/712745927d9812ad.json"
     },
     {
-      "rank": 6235,
+      "rank": 6236,
       "id": "3b34743a5e7c8990",
       "name": "マリア・アムネア",
       "secondary": "",
@@ -1573,7 +1618,7 @@
       "detailPath": "entities/songs/3b34743a5e7c8990.json"
     },
     {
-      "rank": 6236,
+      "rank": 6237,
       "id": "adaa561795f0b826",
       "name": "マリーゴールド",
       "secondary": "あいみょん（2019年）",
@@ -1618,7 +1663,7 @@
       "detailPath": "entities/songs/adaa561795f0b826.json"
     },
     {
-      "rank": 6237,
+      "rank": 6238,
       "id": "b44340feb0e87dfe",
       "name": "マリオネット",
       "secondary": "クリーム市長",
@@ -1663,7 +1708,7 @@
       "detailPath": "entities/songs/b44340feb0e87dfe.json"
     },
     {
-      "rank": 6238,
+      "rank": 6239,
       "id": "12c8c059f019296c",
       "name": "マリオネットの心",
       "secondary": "星井美希(長谷川明子)",
@@ -1705,7 +1750,7 @@
       "detailPath": "entities/songs/12c8c059f019296c.json"
     },
     {
-      "rank": 6239,
+      "rank": 6240,
       "id": "729b1c820cd9c7eb",
       "name": "マンピーのG☆SPOT",
       "secondary": "サザンオールスターズ",
@@ -1747,7 +1792,7 @@
       "detailPath": "entities/songs/729b1c820cd9c7eb.json"
     },
     {
-      "rank": 6240,
+      "rank": 6241,
       "id": "b3746693a708edfe",
       "name": "ミーモ・ダンシング",
       "secondary": "Daito Music",
@@ -1792,7 +1837,7 @@
       "detailPath": "entities/songs/b3746693a708edfe.json"
     },
     {
-      "rank": 6241,
+      "rank": 6242,
       "id": "40ba4786e4c338a8",
       "name": "みえるだろうバイストン・ウェル",
       "secondary": "MIQ",
@@ -1834,7 +1879,7 @@
       "detailPath": "entities/songs/40ba4786e4c338a8.json"
     },
     {
-      "rank": 6242,
+      "rank": 6243,
       "id": "a431b682c6ad188a",
       "name": "ミカヅキ",
       "secondary": "サユリ",
@@ -1879,7 +1924,7 @@
       "detailPath": "entities/songs/a431b682c6ad188a.json"
     },
     {
-      "rank": 6243,
+      "rank": 6244,
       "id": "6c775765b8ac5535",
       "name": "みくみくにしてあげる♪【してやんよ】",
       "secondary": "ika feat.初音ミク",
@@ -1924,7 +1969,7 @@
       "detailPath": "entities/songs/6c775765b8ac5535.json"
     },
     {
-      "rank": 6244,
+      "rank": 6245,
       "id": "87add049cce39ae7",
       "name": "ミス・パラレルワールド",
       "secondary": "",
@@ -1969,7 +2014,7 @@
       "detailPath": "entities/songs/87add049cce39ae7.json"
     },
     {
-      "rank": 6245,
+      "rank": 6246,
       "id": "d6fe024e59e36344",
       "name": "ミスター",
       "secondary": "YOASOBI",
@@ -2014,7 +2059,7 @@
       "detailPath": "entities/songs/d6fe024e59e36344.json"
     },
     {
-      "rank": 6246,
+      "rank": 6247,
       "id": "fad9f38fe919dd96",
       "name": "ミスター・ブルースカイ",
       "secondary": "マカロニえんぴつ",
@@ -2060,7 +2105,7 @@
       "detailPath": "entities/songs/fad9f38fe919dd96.json"
     },
     {
-      "rank": 6247,
+      "rank": 6248,
       "id": "d986bc689fadaf7e",
       "name": "みちしるべ",
       "secondary": "茅原実里 ／ ヴァイオレット・エヴァーガーデン(2018年)",
@@ -2102,7 +2147,7 @@
       "detailPath": "entities/songs/d986bc689fadaf7e.json"
     },
     {
-      "rank": 6248,
+      "rank": 6249,
       "id": "aa790ad7a3527504",
       "name": "みちのくひとり旅",
       "secondary": "山本譲二",
@@ -2147,7 +2192,7 @@
       "detailPath": "entities/songs/aa790ad7a3527504.json"
     },
     {
-      "rank": 6249,
+      "rank": 6250,
       "id": "74bb9f49e81521ab",
       "name": "ミックスナッツ",
       "secondary": "Official髭男dism // SPY×FAMILY",
@@ -2190,51 +2235,6 @@
         }
       ],
       "detailPath": "entities/songs/74bb9f49e81521ab.json"
-    },
-    {
-      "rank": 6250,
-      "id": "a1aadf38434f347f",
-      "name": "ﾐｯﾄﾞﾅｲﾄ･ｼｬｯﾌﾙ",
-      "secondary": "近藤真彦",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "hK-9etLTXMA",
-          "videoTitle": "【練習歌枠】声出しの歌枠です【新人Vtuber】",
-          "channelName": "灯刃ケイル - Toujin Kael",
-          "publishedAt": "2026-09-28T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/hK-9etLTXMA/hqdefault.jpg",
-          "sourcePath": "sources/hK/hK-9etLTXMA.json",
-          "time": "1:06:19",
-          "seconds": 3979,
-          "songTitle": "ミッドナイトシャッフル",
-          "artist": "近藤真彦"
-        },
-        {
-          "videoId": "_hUpO-69ywQ",
-          "videoTitle": "7:45〜リクエスト即興弾き語り配信 #shorts #縦型配信",
-          "channelName": "宮崎奈穂子*745チャンネル*",
-          "publishedAt": "2026-09-14T13:06:45.685Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_hUpO-69ywQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_6u6MKhhB1alrNWu7YH6z2NPYkQ",
-          "sourcePath": "sources/_h/_hUpO-69ywQ.json",
-          "time": "1:23:13",
-          "seconds": 4993,
-          "songTitle": "ﾐｯﾄﾞﾅｲﾄ･ｼｬｯﾌﾙ",
-          "artist": "近藤真彦"
-        }
-      ],
-      "detailPath": "entities/songs/a1aadf38434f347f.json"
     }
   ]
 }

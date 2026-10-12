@@ -1,82 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "7d",
   "type": "vtubers",
   "page": 7,
   "pageSize": 50,
   "pageCount": 7,
-  "totalCount": 322,
+  "totalCount": 320,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 301,
-      "id": "6b9decc2f23d91bb",
-      "name": "Mirumame Ch.みるまめ",
-      "secondary": "",
-      "channelId": "UClDvuwcb4flxEuh3nMn1HPw",
-      "channelHandle": "@mirumame5485",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "4fGG4WSkygk",
-          "videoTitle": "【 #歌枠 ┊#karaoke 】久しぶりの高級歌枠👑 \\ 歌うぞおおお～🧡/ 作業用にも◎！┊#ライブ配信中┊#みるまめ ┊#vtuber",
-          "channelName": "Mirumame Ch.みるまめ",
-          "publishedAt": "2026-10-08T15:09:56.308Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4fGG4WSkygk/hqdefault.jpg",
-          "sourcePath": "sources/4f/4fGG4WSkygk.json",
-          "time": "0:07:30",
-          "seconds": 450,
-          "songTitle": "まで】",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/vtubers/6b9decc2f23d91bb.json"
-    },
-    {
-      "rank": 302,
-      "id": "1a29e82964cf0d7c",
-      "name": "otono",
-      "secondary": "",
-      "channelId": "UCoKZ3RqOtm9fdnk2WV2Dz4A",
-      "channelHandle": "@otonorepos",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "--E-VBcUD40",
-          "videoTitle": "「minamo遠足 」 otonoピアノ弾き語り生演奏ライブ♪ ありがとう3周年よ！month!（2026/10/9） #clusterイベント",
-          "channelName": "otono",
-          "publishedAt": "2026-10-10T08:47:48.089Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/--E-VBcUD40/hqdefault.jpg",
-          "sourcePath": "sources/--/--E-VBcUD40.json",
-          "time": "0:22:00",
-          "seconds": 1320,
-          "songTitle": "分 START22:15分",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/vtubers/1a29e82964cf0d7c.json"
-    },
-    {
-      "rank": 303,
       "id": "daef49e73bbc75e7",
       "name": "あんそにぃ٩( ᐛ )وDesigner / Streamer",
       "secondary": "",
@@ -109,7 +43,7 @@
       "detailPath": "entities/vtubers/daef49e73bbc75e7.json"
     },
     {
-      "rank": 304,
+      "rank": 302,
       "id": "44f9347832085b1f",
       "name": "エスモンチャンネル",
       "secondary": "",
@@ -142,7 +76,7 @@
       "detailPath": "entities/vtubers/44f9347832085b1f.json"
     },
     {
-      "rank": 305,
+      "rank": 303,
       "id": "97bceac243271dd1",
       "name": "グッチ1234",
       "secondary": "",
@@ -175,7 +109,7 @@
       "detailPath": "entities/vtubers/97bceac243271dd1.json"
     },
     {
-      "rank": 306,
+      "rank": 304,
       "id": "a457eee4c8fedfe2",
       "name": "ぐり🍀弾き語り🍀",
       "secondary": "",
@@ -208,7 +142,7 @@
       "detailPath": "entities/vtubers/a457eee4c8fedfe2.json"
     },
     {
-      "rank": 307,
+      "rank": 305,
       "id": "c23be9dd5f5d3c78",
       "name": "ハオ",
       "secondary": "",
@@ -241,7 +175,7 @@
       "detailPath": "entities/vtubers/c23be9dd5f5d3c78.json"
     },
     {
-      "rank": 308,
+      "rank": 306,
       "id": "795b0844c4969c22",
       "name": "叶星めーぷる / kanasemaple 【Vsinger】",
       "secondary": "",
@@ -274,7 +208,7 @@
       "detailPath": "entities/vtubers/795b0844c4969c22.json"
     },
     {
-      "rank": 309,
+      "rank": 307,
       "id": "a2ed91b4a21bd418",
       "name": "銀河 Galaxy",
       "secondary": "",
@@ -307,7 +241,7 @@
       "detailPath": "entities/vtubers/a2ed91b4a21bd418.json"
     },
     {
-      "rank": 310,
+      "rank": 308,
       "id": "24ccbca8777f3b70",
       "name": "時音ありす Tokine Alice Music ch.",
       "secondary": "",
@@ -340,7 +274,7 @@
       "detailPath": "entities/vtubers/24ccbca8777f3b70.json"
     },
     {
-      "rank": 311,
+      "rank": 309,
       "id": "afb4387a7f179910",
       "name": "酒依 ぺぱ",
       "secondary": "",
@@ -373,7 +307,7 @@
       "detailPath": "entities/vtubers/afb4387a7f179910.json"
     },
     {
-      "rank": 312,
+      "rank": 310,
       "id": "98ddfe695c7b6d4f",
       "name": "小鳥遊みるくちぃ┊もーもー牧場",
       "secondary": "",
@@ -406,7 +340,7 @@
       "detailPath": "entities/vtubers/98ddfe695c7b6d4f.json"
     },
     {
-      "rank": 313,
+      "rank": 311,
       "id": "628aab1c968ba442",
       "name": "真白ユキ*JPN Vtuber",
       "secondary": "",
@@ -439,7 +373,7 @@
       "detailPath": "entities/vtubers/628aab1c968ba442.json"
     },
     {
-      "rank": 314,
+      "rank": 312,
       "id": "2b0a4c46a18fa3c4",
       "name": "湯呑のむ🍵🍀-Yunomi Nomu-",
       "secondary": "",
@@ -472,7 +406,7 @@
       "detailPath": "entities/vtubers/2b0a4c46a18fa3c4.json"
     },
     {
-      "rank": 315,
+      "rank": 313,
       "id": "78e69bb652bcd58f",
       "name": "鴇羽 桃杏 / tokiha moa Channel.",
       "secondary": "",
@@ -505,7 +439,7 @@
       "detailPath": "entities/vtubers/78e69bb652bcd58f.json"
     },
     {
-      "rank": 316,
+      "rank": 314,
       "id": "be75c08f6fc85cbc",
       "name": "望月マコト",
       "secondary": "",
@@ -538,7 +472,7 @@
       "detailPath": "entities/vtubers/be75c08f6fc85cbc.json"
     },
     {
-      "rank": 317,
+      "rank": 315,
       "id": "52816d1f97a693cf",
       "name": "眠谷まどか",
       "secondary": "",
@@ -571,7 +505,7 @@
       "detailPath": "entities/vtubers/52816d1f97a693cf.json"
     },
     {
-      "rank": 318,
+      "rank": 316,
       "id": "0a2bbe7d7b916991",
       "name": "癒乃川こはる",
       "secondary": "",
@@ -604,7 +538,7 @@
       "detailPath": "entities/vtubers/0a2bbe7d7b916991.json"
     },
     {
-      "rank": 319,
+      "rank": 317,
       "id": "e313eb510d9fb9f8",
       "name": "葉巻彗_HamakiSui",
       "secondary": "",
@@ -637,7 +571,7 @@
       "detailPath": "entities/vtubers/e313eb510d9fb9f8.json"
     },
     {
-      "rank": 320,
+      "rank": 318,
       "id": "872741a4bd50de38",
       "name": "凛々咲 / Ririsya",
       "secondary": "",
@@ -670,7 +604,7 @@
       "detailPath": "entities/vtubers/872741a4bd50de38.json"
     },
     {
-      "rank": 321,
+      "rank": 319,
       "id": "621d333ddf66b767",
       "name": "櫻歌実恋 / Ouka Miko",
       "secondary": "",
@@ -703,7 +637,7 @@
       "detailPath": "entities/vtubers/621d333ddf66b767.json"
     },
     {
-      "rank": 322,
+      "rank": 320,
       "id": "2d2d1a648a73a4d5",
       "name": "絣華ミタマ-Henge Mitama-",
       "secondary": "",

@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 353,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 17601,
+      "id": "ffd76a7f1a9e25fb",
+      "name": "02_真夏の通り雨",
+      "secondary": "宇多田ヒカル",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "8ZsZR65Omso",
+          "videoTitle": "【歌枠/KARAOKE】1時間お歌の練習。《Vtuber/訛音屋インディー》 #vtuber #jpvtuber #歌枠 #低音女子",
+          "channelName": "訛音屋 / Kaonya",
+          "publishedAt": "2026-08-31T14:33:06.903Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8ZsZR65Omso/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDyvoNWRCQwPXpg1gKf9wy1VJfkIw",
+          "sourcePath": "sources/8Z/8ZsZR65Omso.json",
+          "time": "0:11:02",
+          "seconds": 662,
+          "songTitle": "02_真夏の通り雨",
+          "artist": "宇多田ヒカル"
+        }
+      ],
+      "detailPath": "entities/songs/ffd76a7f1a9e25fb.json"
+    },
+    {
+      "rank": 17602,
       "id": "f96e03f10c09df75",
       "name": "02_秒針を噛む",
       "secondary": "ずっと真夜中でいいのに。",
@@ -44,7 +77,7 @@
       "detailPath": "entities/songs/f96e03f10c09df75.json"
     },
     {
-      "rank": 17602,
+      "rank": 17603,
       "id": "2a6e3bc9d3be57a6",
       "name": "02_浮気されたけどまだ好きって曲",
       "secondary": "りりあ",
@@ -77,7 +110,7 @@
       "detailPath": "entities/songs/2a6e3bc9d3be57a6.json"
     },
     {
-      "rank": 17603,
+      "rank": 17604,
       "id": "58d514822ec2abc4",
       "name": "02_翡翠のまち",
       "secondary": "メル feat. 初音ミク",
@@ -110,7 +143,7 @@
       "detailPath": "entities/songs/58d514822ec2abc4.json"
     },
     {
-      "rank": 17604,
+      "rank": 17605,
       "id": "8de5345703a492fc",
       "name": "𝟎𝟐. HELLO 〜Paradise Kiss〜",
       "secondary": "YUI",
@@ -143,7 +176,7 @@
       "detailPath": "entities/songs/8de5345703a492fc.json"
     },
     {
-      "rank": 17605,
+      "rank": 17606,
       "id": "18e707c67f1472d6",
       "name": "𝟎𝟐. 🆕サリシノハラ",
       "secondary": "みきとP feat.初音ミク",
@@ -176,7 +209,7 @@
       "detailPath": "entities/songs/18e707c67f1472d6.json"
     },
     {
-      "rank": 17606,
+      "rank": 17607,
       "id": "bf728850612d5b4a",
       "name": "𝟎𝟐. 🆕夜撫でるメノウ",
       "secondary": "Ayase feat.初音ミク",
@@ -209,7 +242,7 @@
       "detailPath": "entities/songs/bf728850612d5b4a.json"
     },
     {
-      "rank": 17607,
+      "rank": 17608,
       "id": "300f5a55fb36beb9",
       "name": "𝟎𝟐. いつか",
       "secondary": "Saucy Dog",
@@ -242,7 +275,7 @@
       "detailPath": "entities/songs/300f5a55fb36beb9.json"
     },
     {
-      "rank": 17608,
+      "rank": 17609,
       "id": "732577a67a8c38ed",
       "name": "𝟎𝟐. おじゃま虫",
       "secondary": "DECO*27 feat.初音ミク",
@@ -272,7 +305,7 @@
       "detailPath": "entities/songs/732577a67a8c38ed.json"
     },
     {
-      "rank": 17609,
+      "rank": 17610,
       "id": "ba3e951fdfc897e1",
       "name": "𝟎𝟐. カタオモイ",
       "secondary": "Aimer",
@@ -302,7 +335,7 @@
       "detailPath": "entities/songs/ba3e951fdfc897e1.json"
     },
     {
-      "rank": 17610,
+      "rank": 17611,
       "id": "624ed86a3d45fc90",
       "name": "𝟎𝟐. ごはんはおかず",
       "secondary": "放課後ティータイム",
@@ -335,7 +368,7 @@
       "detailPath": "entities/songs/624ed86a3d45fc90.json"
     },
     {
-      "rank": 17611,
+      "rank": 17612,
       "id": "51c64fd72af12b5e",
       "name": "𝟎𝟐. そばかす",
       "secondary": "JUDY AND MARY",
@@ -368,7 +401,7 @@
       "detailPath": "entities/songs/51c64fd72af12b5e.json"
     },
     {
-      "rank": 17612,
+      "rank": 17613,
       "id": "e52f0ffb1912bdd2",
       "name": "𝟎𝟐. ノスタルジックレインフォール",
       "secondary": "CHiCO with HoneyWorks",
@@ -401,7 +434,7 @@
       "detailPath": "entities/songs/e52f0ffb1912bdd2.json"
     },
     {
-      "rank": 17613,
+      "rank": 17614,
       "id": "77749673aec89afe",
       "name": "𝟎𝟐. ふわふわ時間",
       "secondary": "放課後ティータイム",
@@ -434,7 +467,7 @@
       "detailPath": "entities/songs/77749673aec89afe.json"
     },
     {
-      "rank": 17614,
+      "rank": 17615,
       "id": "8493812bd5d7ea02",
       "name": "𝟎𝟐. ロックでキス",
       "secondary": "和ぬか feat.もっさ",
@@ -467,7 +500,7 @@
       "detailPath": "entities/songs/8493812bd5d7ea02.json"
     },
     {
-      "rank": 17615,
+      "rank": 17616,
       "id": "613541da4459a376",
       "name": "𝟎𝟐. 気まぐれロマンティック",
       "secondary": "いきものがかり",
@@ -500,7 +533,7 @@
       "detailPath": "entities/songs/613541da4459a376.json"
     },
     {
-      "rank": 17616,
+      "rank": 17617,
       "id": "2f9fad4cecb9e4ed",
       "name": "𝟎𝟐. 貴方の恋人になりたいのです",
       "secondary": "阿部真央",
@@ -530,7 +563,7 @@
       "detailPath": "entities/songs/2f9fad4cecb9e4ed.json"
     },
     {
-      "rank": 17617,
+      "rank": 17618,
       "id": "b712a19065c1851b",
       "name": "𝟎𝟐. 世界一可愛い私",
       "secondary": "初星学園(藤田ことね)",
@@ -563,7 +596,7 @@
       "detailPath": "entities/songs/b712a19065c1851b.json"
     },
     {
-      "rank": 17618,
+      "rank": 17619,
       "id": "99c9687a49a6a4f3",
       "name": "03 Ｕ",
       "secondary": "奏音69",
@@ -596,7 +629,7 @@
       "detailPath": "entities/songs/99c9687a49a6a4f3.json"
     },
     {
-      "rank": 17619,
+      "rank": 17620,
       "id": "a1aaa9fd7a2e7cf3",
       "name": "03_Arrietty's Song",
       "secondary": "Cécile Corbel",
@@ -630,7 +663,7 @@
       "detailPath": "entities/songs/a1aaa9fd7a2e7cf3.json"
     },
     {
-      "rank": 17620,
+      "rank": 17621,
       "id": "5857047b1c8ab097",
       "name": "03_PPAP",
       "secondary": "ピコ太郎",
@@ -663,7 +696,7 @@
       "detailPath": "entities/songs/5857047b1c8ab097.json"
     },
     {
-      "rank": 17621,
+      "rank": 17622,
       "id": "1fd01b29312a56d0",
       "name": "03_カタオモイ",
       "secondary": "Aimer",
@@ -696,7 +729,7 @@
       "detailPath": "entities/songs/1fd01b29312a56d0.json"
     },
     {
-      "rank": 17622,
+      "rank": 17623,
       "id": "b1d8313d1223075b",
       "name": "03_キセキ",
       "secondary": "GReeeeN",
@@ -729,7 +762,7 @@
       "detailPath": "entities/songs/b1d8313d1223075b.json"
     },
     {
-      "rank": 17623,
+      "rank": 17624,
       "id": "8de64081f0257671",
       "name": "03_シルエット",
       "secondary": "KANA-BOON",
@@ -762,7 +795,7 @@
       "detailPath": "entities/songs/8de64081f0257671.json"
     },
     {
-      "rank": 17624,
+      "rank": 17625,
       "id": "efc194f1143b9eaf",
       "name": "03_ポケットのモンスター",
       "secondary": "ピノキオピー",
@@ -795,7 +828,7 @@
       "detailPath": "entities/songs/efc194f1143b9eaf.json"
     },
     {
-      "rank": 17625,
+      "rank": 17626,
       "id": "4d9934e9b542deb2",
       "name": "03_君じゃなきゃダメみたい",
       "secondary": "オーイシマサヨシ",
@@ -828,7 +861,7 @@
       "detailPath": "entities/songs/4d9934e9b542deb2.json"
     },
     {
-      "rank": 17626,
+      "rank": 17627,
       "id": "876dc30de425f81c",
       "name": "03_初恋",
       "secondary": "宇多田ヒカル",
@@ -862,7 +895,7 @@
       "detailPath": "entities/songs/876dc30de425f81c.json"
     },
     {
-      "rank": 17627,
+      "rank": 17628,
       "id": "2ab90afe3b374942",
       "name": "03_世界は恋に落ちている",
       "secondary": "CHiCO with HoneyWorks",
@@ -895,7 +928,7 @@
       "detailPath": "entities/songs/2ab90afe3b374942.json"
     },
     {
-      "rank": 17628,
+      "rank": 17629,
       "id": "4cf975da28da764e",
       "name": "03_虹",
       "secondary": "菅田将輝",
@@ -928,7 +961,7 @@
       "detailPath": "entities/songs/4cf975da28da764e.json"
     },
     {
-      "rank": 17629,
+      "rank": 17630,
       "id": "b56a166c2468fc65",
       "name": "03_廃墟の国のアリス",
       "secondary": "Neru",
@@ -961,7 +994,7 @@
       "detailPath": "entities/songs/b56a166c2468fc65.json"
     },
     {
-      "rank": 17630,
+      "rank": 17631,
       "id": "bda923d99218b24d",
       "name": "03_夜明けと蛍",
       "secondary": "N-buna",
@@ -995,7 +1028,7 @@
       "detailPath": "entities/songs/bda923d99218b24d.json"
     },
     {
-      "rank": 17631,
+      "rank": 17632,
       "id": "2449fbc7d2ce1a8c",
       "name": "𝟎𝟑. Calc",
       "secondary": "ジミーサムP feat.初音ミク",
@@ -1028,7 +1061,7 @@
       "detailPath": "entities/songs/2449fbc7d2ce1a8c.json"
     },
     {
-      "rank": 17632,
+      "rank": 17633,
       "id": "43b03df783944d76",
       "name": "𝟎𝟑. Cutie Panther",
       "secondary": "BiBi",
@@ -1061,7 +1094,7 @@
       "detailPath": "entities/songs/43b03df783944d76.json"
     },
     {
-      "rank": 17633,
+      "rank": 17634,
       "id": "10e9ade048cd8537",
       "name": "𝟎𝟑. GO!GO!MANIAC",
       "secondary": "放課後ティータイム",
@@ -1094,7 +1127,7 @@
       "detailPath": "entities/songs/10e9ade048cd8537.json"
     },
     {
-      "rank": 17634,
+      "rank": 17635,
       "id": "d2576d6e52b06e89",
       "name": "𝟎𝟑. IRIS OUT",
       "secondary": "米津玄師",
@@ -1124,7 +1157,7 @@
       "detailPath": "entities/songs/d2576d6e52b06e89.json"
     },
     {
-      "rank": 17635,
+      "rank": 17636,
       "id": "85885d9ef3082f4a",
       "name": "𝟎𝟑. 🆕アイデンティティ",
       "secondary": "Kanaria feat.初音ミク",
@@ -1157,7 +1190,7 @@
       "detailPath": "entities/songs/85885d9ef3082f4a.json"
     },
     {
-      "rank": 17636,
+      "rank": 17637,
       "id": "024cdbd97893c445",
       "name": "𝟎𝟑. 🆕アイネクライネ",
       "secondary": "米津玄師",
@@ -1190,7 +1223,7 @@
       "detailPath": "entities/songs/024cdbd97893c445.json"
     },
     {
-      "rank": 17637,
+      "rank": 17638,
       "id": "f70df25e297d1249",
       "name": "𝟎𝟑. 🆕たばこ",
       "secondary": "コレサワ",
@@ -1223,7 +1256,7 @@
       "detailPath": "entities/songs/f70df25e297d1249.json"
     },
     {
-      "rank": 17638,
+      "rank": 17639,
       "id": "acdd7983057b4bed",
       "name": "𝟎𝟑. Over Drive",
       "secondary": "JUDY AND MARY",
@@ -1253,7 +1286,7 @@
       "detailPath": "entities/songs/acdd7983057b4bed.json"
     },
     {
-      "rank": 17639,
+      "rank": 17640,
       "id": "7eaadccb90244ad2",
       "name": "𝟎𝟑. きゅうくらりん",
       "secondary": "いよわ feat.可不",
@@ -1286,7 +1319,7 @@
       "detailPath": "entities/songs/7eaadccb90244ad2.json"
     },
     {
-      "rank": 17640,
+      "rank": 17641,
       "id": "e0708196bead2a9f",
       "name": "𝟎𝟑. ぎゅっと",
       "secondary": "もさを。",
@@ -1319,7 +1352,7 @@
       "detailPath": "entities/songs/e0708196bead2a9f.json"
     },
     {
-      "rank": 17641,
+      "rank": 17642,
       "id": "0cd089c0ff022d75",
       "name": "𝟎𝟑. セレナーデ",
       "secondary": "なとり",
@@ -1352,7 +1385,7 @@
       "detailPath": "entities/songs/0cd089c0ff022d75.json"
     },
     {
-      "rank": 17642,
+      "rank": 17643,
       "id": "b01530e7f08eb478",
       "name": "𝟎𝟑. タナタロ",
       "secondary": "HoneyWorks×sana",
@@ -1385,7 +1418,7 @@
       "detailPath": "entities/songs/b01530e7f08eb478.json"
     },
     {
-      "rank": 17643,
+      "rank": 17644,
       "id": "93a56ad1d4b1e4fd",
       "name": "𝟎𝟑. ノスタルジックレインフォール",
       "secondary": "CHiCO with HoneyWorks",
@@ -1415,7 +1448,7 @@
       "detailPath": "entities/songs/93a56ad1d4b1e4fd.json"
     },
     {
-      "rank": 17644,
+      "rank": 17645,
       "id": "6bb81dcaa3356446",
       "name": "𝟎𝟑. ハロ/ハワユ",
       "secondary": "ナノウ feat.初音ミク",
@@ -1448,7 +1481,7 @@
       "detailPath": "entities/songs/6bb81dcaa3356446.json"
     },
     {
-      "rank": 17645,
+      "rank": 17646,
       "id": "0df748416cd09359",
       "name": "𝟎𝟑. メロウ",
       "secondary": "須田景凪",
@@ -1481,7 +1514,7 @@
       "detailPath": "entities/songs/0df748416cd09359.json"
     },
     {
-      "rank": 17646,
+      "rank": 17647,
       "id": "097d62512f06a20e",
       "name": "𝟎𝟑. ロックでキス",
       "secondary": "和ぬか feat.もっさ",
@@ -1514,7 +1547,7 @@
       "detailPath": "entities/songs/097d62512f06a20e.json"
     },
     {
-      "rank": 17647,
+      "rank": 17648,
       "id": "4463937f83e7762d",
       "name": "𝟎𝟑. 怪獣の花唄",
       "secondary": "Vaundy",
@@ -1547,7 +1580,7 @@
       "detailPath": "entities/songs/4463937f83e7762d.json"
     },
     {
-      "rank": 17648,
+      "rank": 17649,
       "id": "9120692066bb900f",
       "name": "𝟎𝟑. 気になるあの娘",
       "secondary": "相対性理論",
@@ -1580,7 +1613,7 @@
       "detailPath": "entities/songs/9120692066bb900f.json"
     },
     {
-      "rank": 17649,
+      "rank": 17650,
       "id": "c3c4119a0f54d289",
       "name": "𝟎𝟑. 気まぐれロマンティック",
       "secondary": "いきものがかり",
@@ -1611,36 +1644,6 @@
         }
       ],
       "detailPath": "entities/songs/c3c4119a0f54d289.json"
-    },
-    {
-      "rank": 17650,
-      "id": "115718e6faf04a05",
-      "name": "03/10/26",
-      "secondary": "Live Ao vivo",
-      "channelId": "UCz4jzPSwYuPlt7hRMirMqTg",
-      "channelHandle": "@%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%A01030v",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "0aRZThjOve8",
-          "videoTitle": "【歌枠配信】今日はJ-POP(ざっくり)を歌います！",
-          "channelName": "オータム",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0aRZThjOve8/hqdefault.jpg",
-          "sourcePath": "sources/0a/0aRZThjOve8.json",
-          "time": "0:17:00",
-          "seconds": 1020,
-          "songTitle": "03/10/26",
-          "artist": "Live Ao vivo"
-        }
-      ],
-      "detailPath": "entities/songs/115718e6faf04a05.json"
     }
   ]
 }

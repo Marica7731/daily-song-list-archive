@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "artists",
   "page": 16,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20003,
+  "totalCount": 20007,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 751,
+      "id": "ab5e16af904a88d2",
+      "name": "KOH+",
+      "secondary": "",
+      "channelId": "UC6VUGCoz1E-SzVzJgZ0PLUQ",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 28,
+      "videoCount": 28,
+      "songCount": 4,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "yBSN5O5xhKE",
+          "videoTitle": "〖 歌枠 〗好きな曲を、好きなだけ。⌇J-POP⌇アニソン⌇ボカロ〖 Vtuber/深影ルカ 〗",
+          "channelName": "深影ルカ【よにんぐみ。】- Mikage Luca -",
+          "publishedAt": "2026-10-03T13:12:21.092Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yBSN5O5xhKE/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBQ2sUOKl9jLapwJqFsy1ZTHfsugQ",
+          "sourcePath": "sources/yB/yBSN5O5xhKE.json",
+          "time": "0:03:58",
+          "seconds": 238,
+          "songTitle": "KISSして",
+          "artist": "KOH+"
+        },
+        {
+          "videoId": "JsXtUMr8pGs",
+          "videoTitle": "【 #歌枠 】初見歓迎！ch3888目指す歌枠 #vtuber #vsinger #神童けむ",
+          "channelName": "神童けむ /shindo kemu",
+          "publishedAt": "2026-10-02T15:14:01.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JsXtUMr8pGs/hqdefault.jpg",
+          "sourcePath": "sources/Js/JsXtUMr8pGs.json",
+          "time": "1:29:08",
+          "seconds": 5348,
+          "songTitle": "KISSして",
+          "artist": "KOH+"
+        },
+        {
+          "videoId": "wzru7nxa3uA",
+          "videoTitle": "【 縦型歌枠 】夜ふかし歌枠🕊✨1曲聴いていってね！ singing stream 【 #しらせライブ / #無原唱レコード 】 #shorts #Vtuber #Vsinger",
+          "channelName": "白河しらせ / SHIRASE SHIRAKAWA",
+          "publishedAt": "2026-10-01T17:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wzru7nxa3uA/hqdefault.jpg",
+          "sourcePath": "sources/wz/wzru7nxa3uA.json",
+          "time": "1:54:04",
+          "seconds": 6844,
+          "songTitle": "ヒトツボシ",
+          "artist": "KOH+"
+        }
+      ],
+      "detailPath": "entities/artists/ab5e16af904a88d2.json"
+    },
+    {
+      "rank": 752,
       "id": "33329e6a8efc940f",
       "name": "ざらめ",
       "secondary": "",
@@ -71,7 +131,7 @@
       "detailPath": "entities/artists/33329e6a8efc940f.json"
     },
     {
-      "rank": 752,
+      "rank": 753,
       "id": "b9f17e0934b5c5c7",
       "name": "のりぴー",
       "secondary": "",
@@ -131,7 +191,7 @@
       "detailPath": "entities/artists/b9f17e0934b5c5c7.json"
     },
     {
-      "rank": 753,
+      "rank": 754,
       "id": "760b91712d7963cc",
       "name": "角田信朗＆いはたじゅり",
       "secondary": "",
@@ -191,7 +251,7 @@
       "detailPath": "entities/artists/760b91712d7963cc.json"
     },
     {
-      "rank": 754,
+      "rank": 755,
       "id": "95618d6c1490f924",
       "name": "千綿偉功",
       "secondary": "",
@@ -252,7 +312,7 @@
       "detailPath": "entities/artists/95618d6c1490f924.json"
     },
     {
-      "rank": 755,
+      "rank": 756,
       "id": "0c4aff2a32d15354",
       "name": "髏々宮カルタ/花澤香菜",
       "secondary": "",
@@ -312,7 +372,7 @@
       "detailPath": "entities/artists/0c4aff2a32d15354.json"
     },
     {
-      "rank": 756,
+      "rank": 757,
       "id": "ae4c209bbbe71b04",
       "name": "高橋美佳子",
       "secondary": "",
@@ -372,7 +432,7 @@
       "detailPath": "entities/artists/ae4c209bbbe71b04.json"
     },
     {
-      "rank": 757,
+      "rank": 758,
       "id": "e90970224433fbed",
       "name": "神聖かまってちゃん",
       "secondary": "",
@@ -433,7 +493,7 @@
       "detailPath": "entities/artists/e90970224433fbed.json"
     },
     {
-      "rank": 758,
+      "rank": 759,
       "id": "c515da6e44d62018",
       "name": "大槻マキ",
       "secondary": "",
@@ -494,7 +554,7 @@
       "detailPath": "entities/artists/c515da6e44d62018.json"
     },
     {
-      "rank": 759,
+      "rank": 760,
       "id": "f6d0b5ad1839ab63",
       "name": "ｳﾙﾌﾙｽﾞ",
       "secondary": "",
@@ -555,7 +615,7 @@
       "detailPath": "entities/artists/f6d0b5ad1839ab63.json"
     },
     {
-      "rank": 760,
+      "rank": 761,
       "id": "cf1911d96d1b8bc4",
       "name": "シグナルP",
       "secondary": "",
@@ -616,7 +676,7 @@
       "detailPath": "entities/artists/cf1911d96d1b8bc4.json"
     },
     {
-      "rank": 761,
+      "rank": 762,
       "id": "5f584b0ae5ed3912",
       "name": "青葉市子",
       "secondary": "",
@@ -677,7 +737,7 @@
       "detailPath": "entities/artists/5f584b0ae5ed3912.json"
     },
     {
-      "rank": 762,
+      "rank": 763,
       "id": "f1323822f5e23468",
       "name": "HALCALI",
       "secondary": "",
@@ -737,7 +797,7 @@
       "detailPath": "entities/artists/f1323822f5e23468.json"
     },
     {
-      "rank": 763,
+      "rank": 764,
       "id": "5d09c8ebbf52edb0",
       "name": "逢坂大河(釘宮理恵)、櫛枝実乃梨(堀江由衣)、川嶋亜美(喜多村英梨)",
       "secondary": "",
@@ -799,7 +859,7 @@
       "detailPath": "entities/artists/5d09c8ebbf52edb0.json"
     },
     {
-      "rank": 764,
+      "rank": 765,
       "id": "9928868e04c2d761",
       "name": "荒井由実(松任谷由実)",
       "secondary": "",
@@ -860,7 +920,7 @@
       "detailPath": "entities/artists/9928868e04c2d761.json"
     },
     {
-      "rank": 765,
+      "rank": 766,
       "id": "a57ec412b15ff599",
       "name": "ハチ feat.初音ミク",
       "secondary": "",
@@ -918,64 +978,6 @@
         }
       ],
       "detailPath": "entities/artists/a57ec412b15ff599.json"
-    },
-    {
-      "rank": 766,
-      "id": "8324b1e1be9dc6e0",
-      "name": "塩谷信廣",
-      "secondary": "",
-      "channelId": "UCK0OzXxJVvMjBnr9NeV1t1A",
-      "channelHandle": "@MihoshiYume",
-      "channelUrl": "",
-      "occurrenceCount": 28,
-      "videoCount": 24,
-      "songCount": 2,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "fq11ZemsyHE",
-          "videoTitle": "ゆったりお歌 #歌枠",
-          "channelName": "空ノsorano",
-          "publishedAt": "2026-10-09T16:38:08.715Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/fq11ZemsyHE/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAsqI96X84-SyhtnPhkUB8Lk5Jfaw",
-          "sourcePath": "sources/fq/fq11ZemsyHE.json",
-          "time": "3:41:31",
-          "seconds": 13291,
-          "songTitle": "伯方の塩",
-          "artist": "塩谷信廣"
-        },
-        {
-          "videoId": "J7vvHw6an4M",
-          "videoTitle": "【#歌枠】あなたのリクエスト歌いマス🍣✨ 名曲アニソン多め｜初見さん大歓迎！【Vsushinger / #かたことちゃん】",
-          "channelName": "片 琴姫 / Kata Kotohime",
-          "publishedAt": "2026-10-09T15:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/J7vvHw6an4M/hqdefault.jpg",
-          "sourcePath": "sources/J7/J7vvHw6an4M.json",
-          "time": "1:04:00",
-          "seconds": 3840,
-          "songTitle": "伯方の塩",
-          "artist": "塩谷信廣"
-        },
-        {
-          "videoId": "mawaS5UbE7M",
-          "videoTitle": "【#歌枠】昼からまったり歌枠！ #うたうよしん #karaoke #vsinger",
-          "channelName": "shin",
-          "publishedAt": "2026-10-06T09:07:06.252Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mawaS5UbE7M/hqdefault.jpg",
-          "sourcePath": "sources/ma/mawaS5UbE7M.json",
-          "time": "2:50:48",
-          "seconds": 10248,
-          "songTitle": "伯方の塩",
-          "artist": "塩谷信廣"
-        }
-      ],
-      "detailPath": "entities/artists/8324b1e1be9dc6e0.json"
     },
     {
       "rank": 767,

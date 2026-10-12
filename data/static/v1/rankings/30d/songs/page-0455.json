@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 455,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 22701,
+      "id": "503ce0f92da7f43e",
+      "name": "君に浸水",
+      "secondary": "喉仏ピーラー",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "0KgmvDyzJV4",
+          "videoTitle": "【 #桃源郷歌枠リレー 】音酒ヤニンちゃんのお気持ち歌枠【 #Vtuber / #音咲アリン 】",
+          "channelName": "音咲アリン / Otosaki Arin",
+          "publishedAt": "2026-09-13T09:03:11.179Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0KgmvDyzJV4/hqdefault.jpg",
+          "sourcePath": "sources/0K/0KgmvDyzJV4.json",
+          "time": "0:14:31",
+          "seconds": 871,
+          "songTitle": "君に浸水",
+          "artist": "喉仏ピーラー"
+        }
+      ],
+      "detailPath": "entities/songs/503ce0f92da7f43e.json"
+    },
+    {
+      "rank": 22702,
+      "id": "cf377daace748548",
+      "name": "君のいちばんに・・・",
+      "secondary": "LINDBERG",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "db6Gb3vgtJ4",
+          "videoTitle": "【#歌枠 】遂に！誕生日直前50曲耐久歌枠！ #狐橙明音成長中 #vtuber",
+          "channelName": "狐橙明音",
+          "publishedAt": "2026-09-27T09:45:05.016Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/db6Gb3vgtJ4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVb5mOvE7oWMN4PCjKaNI0hIkEwA&usqp=CBQ",
+          "sourcePath": "sources/db/db6Gb3vgtJ4.json",
+          "time": "0:25:57",
+          "seconds": 1557,
+          "songTitle": "君のいちばんに・・・",
+          "artist": "LINDBERG"
+        }
+      ],
+      "detailPath": "entities/songs/cf377daace748548.json"
+    },
+    {
+      "rank": 22703,
       "id": "83d487fb8370f793",
       "name": "君のいない初めての冬",
       "secondary": "メジャーデビュー曲",
@@ -40,7 +106,7 @@
       "detailPath": "entities/songs/83d487fb8370f793.json"
     },
     {
-      "rank": 22702,
+      "rank": 22704,
       "id": "ef6f469ceb6c2675",
       "name": "君のこころは輝いてるかい？",
       "secondary": "Aqours",
@@ -73,7 +139,7 @@
       "detailPath": "entities/songs/ef6f469ceb6c2675.json"
     },
     {
-      "rank": 22703,
+      "rank": 22705,
       "id": "4ef7ac49e932f367",
       "name": "君のココロをハッキング",
       "secondary": "ki-you feat. りむる",
@@ -103,7 +169,7 @@
       "detailPath": "entities/songs/4ef7ac49e932f367.json"
     },
     {
-      "rank": 22704,
+      "rank": 22706,
       "id": "4385c63f3f4cbccf",
       "name": "君のココロをハッキング",
       "secondary": "ki-you",
@@ -136,7 +202,7 @@
       "detailPath": "entities/songs/4385c63f3f4cbccf.json"
     },
     {
-      "rank": 22705,
+      "rank": 22707,
       "id": "c09e1be8bf3281e1",
       "name": "君のことが好きだから",
       "secondary": "アンダーガールズ",
@@ -169,7 +235,7 @@
       "detailPath": "entities/songs/c09e1be8bf3281e1.json"
     },
     {
-      "rank": 22706,
+      "rank": 22708,
       "id": "a0700fb32907e9c2",
       "name": "君のせい",
       "secondary": "the peggies",
@@ -202,7 +268,7 @@
       "detailPath": "entities/songs/a0700fb32907e9c2.json"
     },
     {
-      "rank": 22707,
+      "rank": 22709,
       "id": "fcffd8239481b9a3",
       "name": "君のそばで 〜ヒカリのテーマ〜",
       "secondary": "グリン (中村蕗子)",
@@ -232,7 +298,7 @@
       "detailPath": "entities/songs/fcffd8239481b9a3.json"
     },
     {
-      "rank": 22708,
+      "rank": 22710,
       "id": "729c8908e4a4e55c",
       "name": "君のそばで ～ヒカリのテーマ～",
       "secondary": "グリン ※JOYSOUND",
@@ -265,7 +331,7 @@
       "detailPath": "entities/songs/729c8908e4a4e55c.json"
     },
     {
-      "rank": 22709,
+      "rank": 22711,
       "id": "755a356857140d0e",
       "name": "君のそばで～ヒカリのテーマ～",
       "secondary": "グリン",
@@ -298,7 +364,7 @@
       "detailPath": "entities/songs/755a356857140d0e.json"
     },
     {
-      "rank": 22710,
+      "rank": 22712,
       "id": "d5e565fce3a729d1",
       "name": "君のために作った歌",
       "secondary": "松山千春",
@@ -328,7 +394,7 @@
       "detailPath": "entities/songs/d5e565fce3a729d1.json"
     },
     {
-      "rank": 22711,
+      "rank": 22713,
       "id": "e43b3609013b7591",
       "name": "君のち晴れ",
       "secondary": "猫月みお（あみゅどる）",
@@ -361,7 +427,7 @@
       "detailPath": "entities/songs/e43b3609013b7591.json"
     },
     {
-      "rank": 22712,
+      "rank": 22714,
       "id": "ae5a0dec0180076c",
       "name": "君のふるさと",
       "secondary": "グレープ",
@@ -391,7 +457,7 @@
       "detailPath": "entities/songs/ae5a0dec0180076c.json"
     },
     {
-      "rank": 22713,
+      "rank": 22715,
       "id": "3212945e1ef0f552",
       "name": "君の音だったんだ",
       "secondary": "≠ME",
@@ -424,7 +490,7 @@
       "detailPath": "entities/songs/3212945e1ef0f552.json"
     },
     {
-      "rank": 22714,
+      "rank": 22716,
       "id": "4b8a7d1025d4720b",
       "name": "君の花になる",
       "secondary": "8LOOM",
@@ -457,7 +523,7 @@
       "detailPath": "entities/songs/4b8a7d1025d4720b.json"
     },
     {
-      "rank": 22715,
+      "rank": 22717,
       "id": "050c9487ae5a789a",
       "name": "君の街まで",
       "secondary": "sawara様 • 【DTM/カラオケ】君の街まで / ASIAN KUNG-FU GENERATION...",
@@ -487,7 +553,7 @@
       "detailPath": "entities/songs/050c9487ae5a789a.json"
     },
     {
-      "rank": 22716,
+      "rank": 22718,
       "id": "b446ee316968bc7f",
       "name": "君の願いが世界を輝かす",
       "secondary": "MISIA (2022) 東京ディズニーシー「ビリーヴ！〜シー・オブ・ドリームス〜」テーマソング",
@@ -520,7 +586,7 @@
       "detailPath": "entities/songs/b446ee316968bc7f.json"
     },
     {
-      "rank": 22717,
+      "rank": 22719,
       "id": "b80016f00b600f00",
       "name": "君の銀の庭",
       "secondary": "",
@@ -550,7 +616,7 @@
       "detailPath": "entities/songs/b80016f00b600f00.json"
     },
     {
-      "rank": 22718,
+      "rank": 22720,
       "id": "51e008c8ef5e7776",
       "name": "君の好きなうた",
       "secondary": "UVERworld",
@@ -583,7 +649,7 @@
       "detailPath": "entities/songs/51e008c8ef5e7776.json"
     },
     {
-      "rank": 22719,
+      "rank": 22721,
       "id": "d00ff89ffc36ee5f",
       "name": "君の思い描いた夢 集メル HEAVEN",
       "secondary": "GARNET CROW",
@@ -616,7 +682,7 @@
       "detailPath": "entities/songs/d00ff89ffc36ee5f.json"
     },
     {
-      "rank": 22720,
+      "rank": 22722,
       "id": "8330b46d1460b364",
       "name": "君の思い描いた夢 集メル HEAVEN",
       "secondary": "GARNET CROW メルヘヴンより",
@@ -646,7 +712,7 @@
       "detailPath": "entities/songs/8330b46d1460b364.json"
     },
     {
-      "rank": 22721,
+      "rank": 22723,
       "id": "86164203c7239efb",
       "name": "君の思い描いた夢集めるHEAVEN",
       "secondary": "GARNET CROW",
@@ -679,7 +745,7 @@
       "detailPath": "entities/songs/86164203c7239efb.json"
     },
     {
-      "rank": 22722,
+      "rank": 22724,
       "id": "f73781e1fe050b64",
       "name": "君の手",
       "secondary": "ELT",
@@ -709,7 +775,7 @@
       "detailPath": "entities/songs/f73781e1fe050b64.json"
     },
     {
-      "rank": 22723,
+      "rank": 22725,
       "id": "d7a667db7633344b",
       "name": "君の住む街の天気が都合のいい空でありますように",
       "secondary": "コレサワ",
@@ -743,7 +809,7 @@
       "detailPath": "entities/songs/d7a667db7633344b.json"
     },
     {
-      "rank": 22724,
+      "rank": 22726,
       "id": "3848f752fa6708d9",
       "name": "君の神様になりたい",
       "secondary": "カンザキイオリ feat. 初音ミク",
@@ -773,7 +839,7 @@
       "detailPath": "entities/songs/3848f752fa6708d9.json"
     },
     {
-      "rank": 22725,
+      "rank": 22727,
       "id": "161651f59e8bb49a",
       "name": "君の神話 ～アクエリオン第二章",
       "secondary": "アクエリオンEVOL・2012年",
@@ -806,7 +872,7 @@
       "detailPath": "entities/songs/161651f59e8bb49a.json"
     },
     {
-      "rank": 22726,
+      "rank": 22728,
       "id": "0559a65dbc276c4d",
       "name": "君の神話 アクエリオン第二章",
       "secondary": "アクエリオンEVOL",
@@ -839,7 +905,7 @@
       "detailPath": "entities/songs/0559a65dbc276c4d.json"
     },
     {
-      "rank": 22727,
+      "rank": 22729,
       "id": "01c5e14ba03acc75",
       "name": "君の体温 • 君の体温",
       "secondary": "Kimi no Taion - クワガタP feat. 初音ミク",
@@ -869,7 +935,7 @@
       "detailPath": "entities/songs/01c5e14ba03acc75.json"
     },
     {
-      "rank": 22728,
+      "rank": 22730,
       "id": "f20ff0da871a3603",
       "name": "君の代わりは居やしない",
       "secondary": "モーニング娘。'14",
@@ -899,7 +965,7 @@
       "detailPath": "entities/songs/f20ff0da871a3603.json"
     },
     {
-      "rank": 22729,
+      "rank": 22731,
       "id": "a757df317913b522",
       "name": "君の知らない世界",
       "secondary": "supercell",
@@ -932,7 +998,7 @@
       "detailPath": "entities/songs/a757df317913b522.json"
     },
     {
-      "rank": 22730,
+      "rank": 22732,
       "id": "9bb125269ba373c5",
       "name": "君の知らない物語",
       "secondary": "supercell (-3ｷｰ)",
@@ -965,7 +1031,7 @@
       "detailPath": "entities/songs/9bb125269ba373c5.json"
     },
     {
-      "rank": 22731,
+      "rank": 22733,
       "id": "e83ef384fc6f86b1",
       "name": "君の知らない物語",
       "secondary": "supercell）※トラブルで音が停止",
@@ -998,7 +1064,7 @@
       "detailPath": "entities/songs/e83ef384fc6f86b1.json"
     },
     {
-      "rank": 22732,
+      "rank": 22734,
       "id": "cd037795ea605b1c",
       "name": "君の知らない物語",
       "secondary": "supercell (2009)（化物語 ED）",
@@ -1028,7 +1094,7 @@
       "detailPath": "entities/songs/cd037795ea605b1c.json"
     },
     {
-      "rank": 22733,
+      "rank": 22735,
       "id": "4e96013c131e32da",
       "name": "君の知らない物語",
       "secondary": "spercell",
@@ -1058,7 +1124,7 @@
       "detailPath": "entities/songs/4e96013c131e32da.json"
     },
     {
-      "rank": 22734,
+      "rank": 22736,
       "id": "ca9dce0347533689",
       "name": "君の知らない物語",
       "secondary": "supercell 様 走ってるし高い音切れてるあれ",
@@ -1088,7 +1154,7 @@
       "detailPath": "entities/songs/ca9dce0347533689.json"
     },
     {
-      "rank": 22735,
+      "rank": 22737,
       "id": "08916547d06026b0",
       "name": "君の知らない物語",
       "secondary": "supercell (Kimi no Shiranai Monogatari)",
@@ -1118,7 +1184,7 @@
       "detailPath": "entities/songs/08916547d06026b0.json"
     },
     {
-      "rank": 22736,
+      "rank": 22738,
       "id": "1b3be69067d3308e",
       "name": "君の知らない物語",
       "secondary": "super",
@@ -1151,7 +1217,7 @@
       "detailPath": "entities/songs/1b3be69067d3308e.json"
     },
     {
-      "rank": 22737,
+      "rank": 22739,
       "id": "84f85843a1a476d8",
       "name": "君の知らない物語",
       "secondary": "1コーラス",
@@ -1181,7 +1247,7 @@
       "detailPath": "entities/songs/84f85843a1a476d8.json"
     },
     {
-      "rank": 22738,
+      "rank": 22740,
       "id": "949b1ec3f77c5b76",
       "name": "君の知らない物語",
       "secondary": "supercell 「化物語」",
@@ -1211,7 +1277,7 @@
       "detailPath": "entities/songs/949b1ec3f77c5b76.json"
     },
     {
-      "rank": 22739,
+      "rank": 22741,
       "id": "78e58257b7ddaea9",
       "name": "君の知らない物語",
       "secondary": "ピアノ伴奏Ver.",
@@ -1244,7 +1310,7 @@
       "detailPath": "entities/songs/78e58257b7ddaea9.json"
     },
     {
-      "rank": 22740,
+      "rank": 22742,
       "id": "bd1fdcb63b383561",
       "name": "君の知らない物語",
       "secondary": "supercell (2009) アニメ「化物語」ED",
@@ -1277,7 +1343,7 @@
       "detailPath": "entities/songs/bd1fdcb63b383561.json"
     },
     {
-      "rank": 22741,
+      "rank": 22743,
       "id": "f4c68ff3872ab446",
       "name": "君の知らない物語",
       "secondary": "天月-あまつき",
@@ -1310,7 +1376,7 @@
       "detailPath": "entities/songs/f4c68ff3872ab446.json"
     },
     {
-      "rank": 22742,
+      "rank": 22744,
       "id": "245d503720ea50ff",
       "name": "君の知らない物語",
       "secondary": "supersell",
@@ -1340,7 +1406,7 @@
       "detailPath": "entities/songs/245d503720ea50ff.json"
     },
     {
-      "rank": 22743,
+      "rank": 22745,
       "id": "d57004509cd1c0a7",
       "name": "君の知らない物語",
       "secondary": "また音源流れてなくてアカペラに",
@@ -1373,7 +1439,7 @@
       "detailPath": "entities/songs/d57004509cd1c0a7.json"
     },
     {
-      "rank": 22744,
+      "rank": 22746,
       "id": "c01dd3cfe5476948",
       "name": "君の知らない物語",
       "secondary": "音源付き！",
@@ -1406,7 +1472,7 @@
       "detailPath": "entities/songs/c01dd3cfe5476948.json"
     },
     {
-      "rank": 22745,
+      "rank": 22747,
       "id": "594d9b7967d07a34",
       "name": "君の知らない物語 - supercell",
       "secondary": "",
@@ -1439,7 +1505,7 @@
       "detailPath": "entities/songs/594d9b7967d07a34.json"
     },
     {
-      "rank": 22746,
+      "rank": 22748,
       "id": "ccdc5321a4ff77c9",
       "name": "君の知らない物語 (化物語 ED) - supercell (Kimi no Shiranai Monogatari",
       "secondary": "supercell",
@@ -1469,7 +1535,7 @@
       "detailPath": "entities/songs/ccdc5321a4ff77c9.json"
     },
     {
-      "rank": 22747,
+      "rank": 22749,
       "id": "29702bc56b055f17",
       "name": "君の知らない物語〈Kimi no Shiranai Monogatari〉",
       "secondary": "Supercell",
@@ -1499,7 +1565,7 @@
       "detailPath": "entities/songs/29702bc56b055f17.json"
     },
     {
-      "rank": 22748,
+      "rank": 22750,
       "id": "3aa06354dbdef4f4",
       "name": "君の中の永遠",
       "secondary": "井上武英",
@@ -1527,72 +1593,6 @@
         }
       ],
       "detailPath": "entities/songs/3aa06354dbdef4f4.json"
-    },
-    {
-      "rank": 22749,
-      "id": "d656bb4ae12babe4",
-      "name": "君の中の英雄",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "AwrY7fqStlQ",
-          "videoTitle": "【 #歌枠 】アーカイブ未定、歯医者前20分くらい【 #カラオケ 】#新人VTuber,",
-          "channelName": "ぱんちき🥖🦃",
-          "publishedAt": "2026-09-14T01:17:39.280Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AwrY7fqStlQ/hqdefault.jpg",
-          "sourcePath": "sources/Aw/AwrY7fqStlQ.json",
-          "time": "0:00:57",
-          "seconds": 57,
-          "songTitle": "君の中の英雄",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/d656bb4ae12babe4.json"
-    },
-    {
-      "rank": 22750,
-      "id": "313f386f1a89d66c",
-      "name": "君の彼女",
-      "secondary": "西沢さんP",
-      "channelId": "UC4QTXCtC8veRQ3NXYREdgog",
-      "channelHandle": "@Tsukinowa_Noa",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "79_Hr7Sbo1I",
-          "videoTitle": "【6周年記念配信】いつも応援してくれてありがとう！お歌と告知があります◎【月ノ輪乃愛】Singing Stream 弾き語り 配信 LIVE 女性カバー 歌枠 KARAOKE",
-          "channelName": "月ノ輪乃愛",
-          "publishedAt": "2026-10-04T12:31:27.298Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/79_Hr7Sbo1I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqI8eCz8wouVTw_fEu7WdJ2RADhQ",
-          "sourcePath": "sources/79/79_Hr7Sbo1I.json",
-          "time": "1:49:27",
-          "seconds": 6567,
-          "songTitle": "君の彼女",
-          "artist": "西沢さんP"
-        }
-      ],
-      "detailPath": "entities/songs/313f386f1a89d66c.json"
     }
   ]
 }

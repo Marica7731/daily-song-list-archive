@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 655,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 32701,
+      "id": "f5783d19ce7c6f55",
+      "name": "キミガイナイ",
+      "secondary": "欅坂46",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "BEp2yoy2vYU",
+          "videoTitle": "【#歌枠 / singing stream】アイドルソング歌枠！初見さんも大歓迎です🌙【#まるのらいぶ / #新人VTuber 】",
+          "channelName": "まんまる manmaru ch.",
+          "publishedAt": "2026-09-02T14:27:36.718Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BEp2yoy2vYU/hqdefault.jpg",
+          "sourcePath": "sources/BE/BEp2yoy2vYU.json",
+          "time": "0:23:39",
+          "seconds": 1419,
+          "songTitle": "キミガイナイ",
+          "artist": "欅坂46"
+        }
+      ],
+      "detailPath": "entities/songs/f5783d19ce7c6f55.json"
+    },
+    {
+      "rank": 32702,
       "id": "d467eeb79e217457",
       "name": "キミがいる",
       "secondary": "いきものがかり（2010年）",
@@ -43,7 +76,7 @@
       "detailPath": "entities/songs/d467eeb79e217457.json"
     },
     {
-      "rank": 32702,
+      "rank": 32703,
       "id": "92db222e6d414e57",
       "name": "キミがいれば",
       "secondary": "5万人耐久達成",
@@ -75,7 +108,7 @@
       "detailPath": "entities/songs/92db222e6d414e57.json"
     },
     {
-      "rank": 32703,
+      "rank": 32704,
       "id": "762a4b94413ef3f1",
       "name": "キミがいれば",
       "secondary": "いおり",
@@ -109,7 +142,7 @@
       "detailPath": "entities/songs/762a4b94413ef3f1.json"
     },
     {
-      "rank": 32704,
+      "rank": 32705,
       "id": "07696a8e34c56ae3",
       "name": "キミがいれば",
       "secondary": "伊織 / 「名探偵コナン 時計じかけの摩天楼」挿入歌",
@@ -142,7 +175,7 @@
       "detailPath": "entities/songs/07696a8e34c56ae3.json"
     },
     {
-      "rank": 32705,
+      "rank": 32706,
       "id": "c161a49c6486c945",
       "name": "キミがいれば",
       "secondary": "伊織 *2",
@@ -175,7 +208,7 @@
       "detailPath": "entities/songs/c161a49c6486c945.json"
     },
     {
-      "rank": 32706,
+      "rank": 32707,
       "id": "78568989ea76a498",
       "name": "きみがきみであるために",
       "secondary": "鈴木雅之",
@@ -208,7 +241,7 @@
       "detailPath": "entities/songs/78568989ea76a498.json"
     },
     {
-      "rank": 32707,
+      "rank": 32708,
       "id": "9ea672a9b180dd07",
       "name": "キミがくれた翼",
       "secondary": "美郷あき",
@@ -238,7 +271,7 @@
       "detailPath": "entities/songs/9ea672a9b180dd07.json"
     },
     {
-      "rank": 32708,
+      "rank": 32709,
       "id": "88da2d8f70df2209",
       "name": "キミガタメ",
       "secondary": "転調で敗走",
@@ -272,7 +305,7 @@
       "detailPath": "entities/songs/88da2d8f70df2209.json"
     },
     {
-      "rank": 32709,
+      "rank": 32710,
       "id": "25bf7a2e3fc50573",
       "name": "キミガタメ",
       "secondary": "『うたわれるもの～散りゆく者への子守唄～』Suara",
@@ -305,7 +338,7 @@
       "detailPath": "entities/songs/25bf7a2e3fc50573.json"
     },
     {
-      "rank": 32710,
+      "rank": 32711,
       "id": "575ac4f2acd8a9d5",
       "name": "キミがため",
       "secondary": "Suara",
@@ -338,7 +371,7 @@
       "detailPath": "entities/songs/575ac4f2acd8a9d5.json"
     },
     {
-      "rank": 32711,
+      "rank": 32712,
       "id": "40890f08cbdbdca6",
       "name": "キミガタメ(初出)",
       "secondary": "Suara",
@@ -368,7 +401,7 @@
       "detailPath": "entities/songs/40890f08cbdbdca6.json"
     },
     {
-      "rank": 32712,
+      "rank": 32713,
       "id": "a19bea18ec9a241b",
       "name": "キミが光であるために",
       "secondary": "黒子テツヤ",
@@ -401,7 +434,7 @@
       "detailPath": "entities/songs/a19bea18ec9a241b.json"
     },
     {
-      "rank": 32713,
+      "rank": 32714,
       "id": "73a461effbdc1cab",
       "name": "キミが生まれてくる世界",
       "secondary": "Sound Horizon",
@@ -434,7 +467,7 @@
       "detailPath": "entities/songs/73a461effbdc1cab.json"
     },
     {
-      "rank": 32714,
+      "rank": 32715,
       "id": "868f54f8b2aceb81",
       "name": "キミコイ",
       "secondary": "VIVID",
@@ -464,7 +497,7 @@
       "detailPath": "entities/songs/868f54f8b2aceb81.json"
     },
     {
-      "rank": 32715,
+      "rank": 32716,
       "id": "ef1790f1bd809e59",
       "name": "キミシダイ列車",
       "secondary": "未記載",
@@ -497,7 +530,7 @@
       "detailPath": "entities/songs/ef1790f1bd809e59.json"
     },
     {
-      "rank": 32716,
+      "rank": 32717,
       "id": "1afcde8ac7a53522",
       "name": "キミシニタモウコトナカレ",
       "secondary": "May'n ※JOYSOUND",
@@ -530,7 +563,7 @@
       "detailPath": "entities/songs/1afcde8ac7a53522.json"
     },
     {
-      "rank": 32717,
+      "rank": 32718,
       "id": "d029bcb2611125c9",
       "name": "キミソラキセキ",
       "secondary": "未記載",
@@ -562,7 +595,7 @@
       "detailPath": "entities/songs/d029bcb2611125c9.json"
     },
     {
-      "rank": 32718,
+      "rank": 32719,
       "id": "4efcc7e5b9bd2223",
       "name": "キミソラキセキ",
       "secondary": "",
@@ -595,7 +628,7 @@
       "detailPath": "entities/songs/4efcc7e5b9bd2223.json"
     },
     {
-      "rank": 32719,
+      "rank": 32720,
       "id": "53d0da169b337b11",
       "name": "キミソラキセキ Piano Ver",
       "secondary": "EGOIST",
@@ -629,7 +662,7 @@
       "detailPath": "entities/songs/53d0da169b337b11.json"
     },
     {
-      "rank": 32720,
+      "rank": 32721,
       "id": "c124388b00c9768b",
       "name": "きみだけは",
       "secondary": "天月",
@@ -663,7 +696,7 @@
       "detailPath": "entities/songs/c124388b00c9768b.json"
     },
     {
-      "rank": 32721,
+      "rank": 32722,
       "id": "66d6e085f38d1209",
       "name": "きみだけは",
       "secondary": "天月-あまつき- ※JOYSOUND",
@@ -696,7 +729,7 @@
       "detailPath": "entities/songs/66d6e085f38d1209.json"
     },
     {
-      "rank": 32722,
+      "rank": 32723,
       "id": "68d72f584989b9e2",
       "name": "ギミック",
       "secondary": "*Luna",
@@ -726,7 +759,7 @@
       "detailPath": "entities/songs/68d72f584989b9e2.json"
     },
     {
-      "rank": 32723,
+      "rank": 32724,
       "id": "fc794af70de399b9",
       "name": "キミと××××したいだけ",
       "secondary": "",
@@ -759,7 +792,7 @@
       "detailPath": "entities/songs/fc794af70de399b9.json"
     },
     {
-      "rank": 32724,
+      "rank": 32725,
       "id": "d053ffcded019993",
       "name": "キミと××××したいだけ",
       "secondary": "きくお",
@@ -789,7 +822,7 @@
       "detailPath": "entities/songs/d053ffcded019993.json"
     },
     {
-      "rank": 32725,
+      "rank": 32726,
       "id": "da763dcd0400f4bf",
       "name": "キミとxxxxしたいだけ",
       "secondary": "ファントムシータ",
@@ -819,7 +852,7 @@
       "detailPath": "entities/songs/da763dcd0400f4bf.json"
     },
     {
-      "rank": 32726,
+      "rank": 32727,
       "id": "3df0f6c8323e4315",
       "name": "キミとアイドルプリキュア♪ Light Up!",
       "secondary": "キミとアイドルプリキュア",
@@ -852,7 +885,7 @@
       "detailPath": "entities/songs/3df0f6c8323e4315.json"
     },
     {
-      "rank": 32727,
+      "rank": 32728,
       "id": "304da5d621d866ad",
       "name": "キミとセミブルー",
       "secondary": "有村麻央・姫崎莉波・紫雲清夏(学園アイドルマスター)",
@@ -886,7 +919,7 @@
       "detailPath": "entities/songs/304da5d621d866ad.json"
     },
     {
-      "rank": 32728,
+      "rank": 32729,
       "id": "3f9e4054df3e9782",
       "name": "キミとセミブルー",
       "secondary": "Kimi to Semiblue",
@@ -920,7 +953,7 @@
       "detailPath": "entities/songs/3f9e4054df3e9782.json"
     },
     {
-      "rank": 32729,
+      "rank": 32730,
       "id": "89b8e2aac2da911c",
       "name": "キミとセミブルー",
       "secondary": "初星学園(有村麻央、紫雲清夏、姫崎莉波)",
@@ -954,7 +987,7 @@
       "detailPath": "entities/songs/89b8e2aac2da911c.json"
     },
     {
-      "rank": 32730,
+      "rank": 32731,
       "id": "bb79a50bfe6e5484",
       "name": "キミとセミブルー",
       "secondary": "有村麻央(七瀬つむぎ),紫雲清夏(湊みや),姫崎莉波(薄井友里)",
@@ -988,7 +1021,7 @@
       "detailPath": "entities/songs/bb79a50bfe6e5484.json"
     },
     {
-      "rank": 32731,
+      "rank": 32732,
       "id": "5afba8d2d82783ce",
       "name": "キミとセミブルー",
       "secondary": "初星学園[有村麻央(七瀬つむぎ),紫雲清夏(湊みや),姫崎莉波(薄井友里)]",
@@ -1021,7 +1054,7 @@
       "detailPath": "entities/songs/5afba8d2d82783ce.json"
     },
     {
-      "rank": 32732,
+      "rank": 32733,
       "id": "abf352431a7480f3",
       "name": "キミとセミブルー",
       "secondary": "",
@@ -1054,7 +1087,7 @@
       "detailPath": "entities/songs/abf352431a7480f3.json"
     },
     {
-      "rank": 32733,
+      "rank": 32734,
       "id": "a47a77eb5c256cdc",
       "name": "キミとセミブルー",
       "secondary": "紫雲清夏、姫崎莉波、有村麻央",
@@ -1087,7 +1120,7 @@
       "detailPath": "entities/songs/a47a77eb5c256cdc.json"
     },
     {
-      "rank": 32734,
+      "rank": 32735,
       "id": "6f7638e29bfacf3e",
       "name": "キミとセミブルー",
       "secondary": "初星学園（学園アイドルマスター）",
@@ -1117,7 +1150,7 @@
       "detailPath": "entities/songs/6f7638e29bfacf3e.json"
     },
     {
-      "rank": 32735,
+      "rank": 32736,
       "id": "f676436ec46dcd16",
       "name": "キミとセミブルー初星学園",
       "secondary": "",
@@ -1150,7 +1183,7 @@
       "detailPath": "entities/songs/f676436ec46dcd16.json"
     },
     {
-      "rank": 32736,
+      "rank": 32737,
       "id": "1e208e0238565c7c",
       "name": "きみとそらをとぶ",
       "secondary": "傘村トータ",
@@ -1183,7 +1216,7 @@
       "detailPath": "entities/songs/1e208e0238565c7c.json"
     },
     {
-      "rank": 32737,
+      "rank": 32738,
       "id": "074200b205a8b40c",
       "name": "キミとならノンフィクション！",
       "secondary": "エアリープロダクション",
@@ -1216,7 +1249,7 @@
       "detailPath": "entities/songs/074200b205a8b40c.json"
     },
     {
-      "rank": 32738,
+      "rank": 32739,
       "id": "46262ca370248e3e",
       "name": "きみとのsunrise!!",
       "secondary": "猫山みあ",
@@ -1249,7 +1282,7 @@
       "detailPath": "entities/songs/46262ca370248e3e.json"
     },
     {
-      "rank": 32739,
+      "rank": 32740,
       "id": "26f4ba60e92d5bc4",
       "name": "キミとボクのミライ～GRANBLUE FANTASY～",
       "secondary": "ジータ(CV.金元寿子)、ルリア(CV.東山奈央)、ヴィーラ(CV.今井麻美)、マリー(CV.長谷川明子)",
@@ -1281,7 +1314,7 @@
       "detailPath": "entities/songs/26f4ba60e92d5bc4.json"
     },
     {
-      "rank": 32740,
+      "rank": 32741,
       "id": "3f6c1e8e82e0b462",
       "name": "キミドリ",
       "secondary": "坂本真綾",
@@ -1314,7 +1347,7 @@
       "detailPath": "entities/songs/3f6c1e8e82e0b462.json"
     },
     {
-      "rank": 32741,
+      "rank": 32742,
       "id": "d57fb6fedb386170",
       "name": "キミと夜と涙",
       "secondary": "SCANDAL",
@@ -1348,7 +1381,7 @@
       "detailPath": "entities/songs/d57fb6fedb386170.json"
     },
     {
-      "rank": 32742,
+      "rank": 32743,
       "id": "5fe3d977fcd74ec8",
       "name": "きみと恋のままで終われない いつも夢のままじゃいられない",
       "secondary": "倉木麻衣",
@@ -1381,7 +1414,7 @@
       "detailPath": "entities/songs/5fe3d977fcd74ec8.json"
     },
     {
-      "rank": 32743,
+      "rank": 32744,
       "id": "1bbfb122da34115e",
       "name": "きみと話せないのは",
       "secondary": "SHISHAMO",
@@ -1414,7 +1447,7 @@
       "detailPath": "entities/songs/1bbfb122da34115e.json"
     },
     {
-      "rank": 32744,
+      "rank": 32745,
       "id": "df53620cccd5a100",
       "name": "キミに100パーセント』",
       "secondary": "きゃりーぱみゅぱみゅ 様",
@@ -1444,7 +1477,7 @@
       "detailPath": "entities/songs/df53620cccd5a100.json"
     },
     {
-      "rank": 32745,
+      "rank": 32746,
       "id": "d07b9d1c013b34e4",
       "name": "きみにごめんね",
       "secondary": "フェイP",
@@ -1477,7 +1510,7 @@
       "detailPath": "entities/songs/d07b9d1c013b34e4.json"
     },
     {
-      "rank": 32746,
+      "rank": 32747,
       "id": "59d3951f9f179347",
       "name": "きみにとどけ",
       "secondary": "谷澤智文,タニザワ トモフミ(谷澤智文,タニザワ トモフミ)",
@@ -1511,7 +1544,7 @@
       "detailPath": "entities/songs/59d3951f9f179347.json"
     },
     {
-      "rank": 32747,
+      "rank": 32748,
       "id": "d76e6d322cf7d555",
       "name": "キミにはくしゅ！",
       "secondary": "花田ゆういちろう・ながたまや・福尾誠・秋元杏月 (2023年)",
@@ -1544,7 +1577,7 @@
       "detailPath": "entities/songs/d76e6d322cf7d555.json"
     },
     {
-      "rank": 32748,
+      "rank": 32749,
       "id": "a3355c6d76376c33",
       "name": "きみの て",
       "secondary": "持田香織,HIKARI",
@@ -1577,7 +1610,7 @@
       "detailPath": "entities/songs/a3355c6d76376c33.json"
     },
     {
-      "rank": 32749,
+      "rank": 32750,
       "id": "bbc08efaf37c3d2c",
       "name": "きみの て",
       "secondary": "",
@@ -1608,39 +1641,6 @@
         }
       ],
       "detailPath": "entities/songs/bbc08efaf37c3d2c.json"
-    },
-    {
-      "rank": 32750,
-      "id": "d8768b9d78e7bae1",
-      "name": "キミのアシタ",
-      "secondary": "FLIP FLAP ※JOYSOUND",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RA2UkuYPfEg",
-          "videoTitle": "【 #歌枠 / KARAOKE 】🎀￤平成女児アニメ縛り歌枠！平成女児 集まれ～！【#ユメミアルル #vtuber 】",
-          "channelName": "ユメミア･ルル / Ruru Ch.",
-          "publishedAt": "2026-08-30T07:16:39.133Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RA2UkuYPfEg/hqdefault.jpg",
-          "sourcePath": "sources/RA/RA2UkuYPfEg.json",
-          "time": "2:14:33",
-          "seconds": 8073,
-          "songTitle": "キミのアシタ",
-          "artist": "FLIP FLAP ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/songs/d8768b9d78e7bae1.json"
     }
   ]
 }

@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 430,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 21451,
+      "id": "f57f991f59b8fc9f",
+      "name": "Driver's High",
+      "secondary": "L'Arc-en-Ciel (GTO(アニメ ED))",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "XUW4hQhHYkA",
+          "videoTitle": "【歌枠/karaoke】平成アニソン・ゲームソング(多め)一曲でいいから聴いてくれるといいなあ【長時間配信になったフリーダム配信】【日音野なちゅらる/新人VSinger】【初見歓迎】#なちゅらる放送局",
+          "channelName": "日音野なちゅらる🎻🌊Natural_Nineno",
+          "publishedAt": "2026-09-14T18:17:39.280Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XUW4hQhHYkA/hqdefault.jpg",
+          "sourcePath": "sources/XU/XUW4hQhHYkA.json",
+          "time": "0:38:36",
+          "seconds": 2316,
+          "songTitle": "Driver's High",
+          "artist": "L'Arc-en-Ciel (GTO(アニメ ED))"
+        }
+      ],
+      "detailPath": "entities/songs/f57f991f59b8fc9f.json"
+    },
+    {
+      "rank": 21452,
       "id": "dcfb7aeac2f25a77",
       "name": "Driver’s Hight",
       "secondary": "",
@@ -43,7 +76,7 @@
       "detailPath": "entities/songs/dcfb7aeac2f25a77.json"
     },
     {
-      "rank": 21452,
+      "rank": 21453,
       "id": "5088241d0d6e4543",
       "name": "drivers license",
       "secondary": "未記載",
@@ -75,7 +108,7 @@
       "detailPath": "entities/songs/5088241d0d6e4543.json"
     },
     {
-      "rank": 21453,
+      "rank": 21454,
       "id": "2f1267b2d7d03820",
       "name": "Drop",
       "secondary": "HANA(Drop)",
@@ -108,7 +141,7 @@
       "detailPath": "entities/songs/2f1267b2d7d03820.json"
     },
     {
-      "rank": 21454,
+      "rank": 21455,
       "id": "a0821afdc596b504",
       "name": "drop dead",
       "secondary": "Olivia Rodrigo",
@@ -141,7 +174,7 @@
       "detailPath": "entities/songs/a0821afdc596b504.json"
     },
     {
-      "rank": 21455,
+      "rank": 21456,
       "id": "4965ad57a5f900a2",
       "name": "DROP IN",
       "secondary": "KMNZ",
@@ -175,7 +208,7 @@
       "detailPath": "entities/songs/4965ad57a5f900a2.json"
     },
     {
-      "rank": 21456,
+      "rank": 21457,
       "id": "2148e94bad17aae7",
       "name": "drop pop candy",
       "secondary": "れをる,ギガP feat. 鏡音リン,巡音ルカ",
@@ -207,7 +240,7 @@
       "detailPath": "entities/songs/2148e94bad17aae7.json"
     },
     {
-      "rank": 21457,
+      "rank": 21458,
       "id": "33960df0370bf6fa",
       "name": "drop pop candy",
       "secondary": "ギガ",
@@ -239,7 +272,7 @@
       "detailPath": "entities/songs/33960df0370bf6fa.json"
     },
     {
-      "rank": 21458,
+      "rank": 21459,
       "id": "9886c6be6bf3dd3b",
       "name": "drop pop candy",
       "secondary": "Giga and れをる (Reol)",
@@ -273,7 +306,7 @@
       "detailPath": "entities/songs/9886c6be6bf3dd3b.json"
     },
     {
-      "rank": 21459,
+      "rank": 21460,
       "id": "30dddf1bd6da5bcd",
       "name": "drop pop candy",
       "secondary": "れをる feat.ギガ（2人）",
@@ -306,7 +339,7 @@
       "detailPath": "entities/songs/30dddf1bd6da5bcd.json"
     },
     {
-      "rank": 21460,
+      "rank": 21461,
       "id": "b5ddf0921df884a9",
       "name": "drop pop candy",
       "secondary": "Giga & Reol",
@@ -336,7 +369,7 @@
       "detailPath": "entities/songs/b5ddf0921df884a9.json"
     },
     {
-      "rank": 21461,
+      "rank": 21462,
       "id": "22d748da6e28ad8f",
       "name": "drop pop candy",
       "secondary": "Reol",
@@ -366,7 +399,7 @@
       "detailPath": "entities/songs/22d748da6e28ad8f.json"
     },
     {
-      "rank": 21462,
+      "rank": 21463,
       "id": "81b58340f35aad19",
       "name": "drop pop candy feat. ギガ",
       "secondary": "れをる ※JOYSOUND",
@@ -399,7 +432,7 @@
       "detailPath": "entities/songs/81b58340f35aad19.json"
     },
     {
-      "rank": 21463,
+      "rank": 21464,
       "id": "59d4361836c28769",
       "name": "drop pop candy feat.ギガ",
       "secondary": "れをる",
@@ -432,7 +465,7 @@
       "detailPath": "entities/songs/59d4361836c28769.json"
     },
     {
-      "rank": 21464,
+      "rank": 21465,
       "id": "b1440ac0fcba94ed",
       "name": "DROWNING",
       "secondary": "モモ",
@@ -465,7 +498,7 @@
       "detailPath": "entities/songs/b1440ac0fcba94ed.json"
     },
     {
-      "rank": 21465,
+      "rank": 21466,
       "id": "1f3636e92cfb5d24",
       "name": "Drowning in a Wave of Sadness",
       "secondary": "Neru",
@@ -499,7 +532,7 @@
       "detailPath": "entities/songs/1f3636e92cfb5d24.json"
     },
     {
-      "rank": 21466,
+      "rank": 21467,
       "id": "2084d1334d21d5f4",
       "name": "Drowse",
       "secondary": "",
@@ -532,7 +565,7 @@
       "detailPath": "entities/songs/2084d1334d21d5f4.json"
     },
     {
-      "rank": 21467,
+      "rank": 21468,
       "id": "d947404259bd0194",
       "name": "DRUG",
       "secondary": "SUSHIBOYS",
@@ -565,7 +598,7 @@
       "detailPath": "entities/songs/d947404259bd0194.json"
     },
     {
-      "rank": 21468,
+      "rank": 21469,
       "id": "6e38284feeeddcef",
       "name": "drunk",
       "secondary": "keshi",
@@ -598,7 +631,7 @@
       "detailPath": "entities/songs/6e38284feeeddcef.json"
     },
     {
-      "rank": 21469,
+      "rank": 21470,
       "id": "7c98ef7adfe36362",
       "name": "Drunk Text",
       "secondary": "哼歌",
@@ -631,7 +664,7 @@
       "detailPath": "entities/songs/7c98ef7adfe36362.json"
     },
     {
-      "rank": 21470,
+      "rank": 21471,
       "id": "4c845921ce2a3e53",
       "name": "Dry Flower",
       "secondary": "Yuri",
@@ -664,7 +697,7 @@
       "detailPath": "entities/songs/4c845921ce2a3e53.json"
     },
     {
-      "rank": 21471,
+      "rank": 21472,
       "id": "5eeebbcedda8610e",
       "name": "Dry?",
       "secondary": "Janne Da Arc",
@@ -697,7 +730,7 @@
       "detailPath": "entities/songs/5eeebbcedda8610e.json"
     },
     {
-      "rank": 21472,
+      "rank": 21473,
       "id": "0c2705b3374488e0",
       "name": "Dry?",
       "secondary": "じゃんぬだるく",
@@ -727,7 +760,7 @@
       "detailPath": "entities/songs/0c2705b3374488e0.json"
     },
     {
-      "rank": 21473,
+      "rank": 21474,
       "id": "ccdebbcfa28eb1b7",
       "name": "DT捨テル（2012）",
       "secondary": "イクシオンサーガDT Ixion Saga DT",
@@ -760,7 +793,7 @@
       "detailPath": "entities/songs/ccdebbcfa28eb1b7.json"
     },
     {
-      "rank": 21474,
+      "rank": 21475,
       "id": "87c7232e1864ae08",
       "name": "Du-Du-Wa DO IT!!",
       "secondary": "るか,もな,みき from AIKATSU☆STARS!",
@@ -793,7 +826,7 @@
       "detailPath": "entities/songs/87c7232e1864ae08.json"
     },
     {
-      "rank": 21475,
+      "rank": 21476,
       "id": "3d10b96838622038",
       "name": "Dubidubidu『猫ミーム』",
       "secondary": "Christell",
@@ -826,7 +859,7 @@
       "detailPath": "entities/songs/3d10b96838622038.json"
     },
     {
-      "rank": 21476,
+      "rank": 21477,
       "id": "e4d0498430859cb6",
       "name": "Duck's girlfriend",
       "secondary": "",
@@ -859,7 +892,7 @@
       "detailPath": "entities/songs/e4d0498430859cb6.json"
     },
     {
-      "rank": 21477,
+      "rank": 21478,
       "id": "65d6d6c2dc72ec44",
       "name": "Dunbine tobu",
       "secondary": "MIQ (Aura Battler Dunbine OP)",
@@ -892,7 +925,7 @@
       "detailPath": "entities/songs/65d6d6c2dc72ec44.json"
     },
     {
-      "rank": 21478,
+      "rank": 21479,
       "id": "a79d09504ca9b5fc",
       "name": "Duvet",
       "secondary": "Bõa",
@@ -925,7 +958,7 @@
       "detailPath": "entities/songs/a79d09504ca9b5fc.json"
     },
     {
-      "rank": 21479,
+      "rank": 21480,
       "id": "def24c10b036334d",
       "name": "DYNA MIND",
       "secondary": "9Lana",
@@ -958,7 +991,7 @@
       "detailPath": "entities/songs/def24c10b036334d.json"
     },
     {
-      "rank": 21480,
+      "rank": 21481,
       "id": "d2978faab954e2af",
       "name": "Dynamic Ryukyu",
       "secondary": "未記載",
@@ -992,7 +1025,7 @@
       "detailPath": "entities/songs/d2978faab954e2af.json"
     },
     {
-      "rank": 21481,
+      "rank": 21482,
       "id": "435fe21dc2d52765",
       "name": "Dynamite",
       "secondary": "未記載",
@@ -1026,7 +1059,7 @@
       "detailPath": "entities/songs/435fe21dc2d52765.json"
     },
     {
-      "rank": 21482,
+      "rank": 21483,
       "id": "21702da46ae11f20",
       "name": "DYNAMITE EXPLOSION",
       "secondary": "FIRE BOMBER",
@@ -1056,7 +1089,7 @@
       "detailPath": "entities/songs/21702da46ae11f20.json"
     },
     {
-      "rank": 21483,
+      "rank": 21484,
       "id": "0fa9c6a0260b30a5",
       "name": "Dynasty",
       "secondary": "MIIA",
@@ -1089,7 +1122,7 @@
       "detailPath": "entities/songs/0fa9c6a0260b30a5.json"
     },
     {
-      "rank": 21484,
+      "rank": 21485,
       "id": "14fe41a5ff2c56cf",
       "name": "Dynasty • Dynasty (Official Music Video)",
       "secondary": "MIIA",
@@ -1119,7 +1152,7 @@
       "detailPath": "entities/songs/14fe41a5ff2c56cf.json"
     },
     {
-      "rank": 21485,
+      "rank": 21486,
       "id": "5e92ff4e669d87d5",
       "name": "DŽANUM",
       "secondary": "TEYA DORA",
@@ -1152,7 +1185,7 @@
       "detailPath": "entities/songs/5e92ff4e669d87d5.json"
     },
     {
-      "rank": 21486,
+      "rank": 21487,
       "id": "125ebdf5b907ddba",
       "name": "dシュディスタb",
       "secondary": "シェリル•ノーム(May’n)",
@@ -1186,7 +1219,7 @@
       "detailPath": "entities/songs/125ebdf5b907ddba.json"
     },
     {
-      "rank": 21487,
+      "rank": 21488,
       "id": "47e56511bd3d6f62",
       "name": "ｄシュディスタｂ",
       "secondary": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
@@ -1219,7 +1252,7 @@
       "detailPath": "entities/songs/47e56511bd3d6f62.json"
     },
     {
-      "rank": 21488,
+      "rank": 21489,
       "id": "fc901304a78822d3",
       "name": "dシュディスタb",
       "secondary": "シェリル・ノーム（May'n）、ランカ・リー（中島愛）",
@@ -1252,7 +1285,7 @@
       "detailPath": "entities/songs/fc901304a78822d3.json"
     },
     {
-      "rank": 21489,
+      "rank": 21490,
       "id": "5cf70088ede48307",
       "name": "dシュディスタb",
       "secondary": "May'n、中島愛",
@@ -1285,7 +1318,7 @@
       "detailPath": "entities/songs/5cf70088ede48307.json"
     },
     {
-      "rank": 21490,
+      "rank": 21491,
       "id": "85de89d51f35b05a",
       "name": "Dのパワーアップ",
       "secondary": "狭き門",
@@ -1318,7 +1351,7 @@
       "detailPath": "entities/songs/85de89d51f35b05a.json"
     },
     {
-      "rank": 21491,
+      "rank": 21492,
       "id": "08cb42e88733d705",
       "name": "E",
       "secondary": "",
@@ -1348,7 +1381,7 @@
       "detailPath": "entities/songs/08cb42e88733d705.json"
     },
     {
-      "rank": 21492,
+      "rank": 21493,
       "id": "87dcbedd33ade9f0",
       "name": "E? Aa, Sou",
       "secondary": "Chouchou-P (papiyon)",
@@ -1381,7 +1414,7 @@
       "detailPath": "entities/songs/87dcbedd33ade9f0.json"
     },
     {
-      "rank": 21493,
+      "rank": 21494,
       "id": "97208223833725fc",
       "name": "𝐄𝟏. 青空のラプソディ",
       "secondary": "fhána",
@@ -1411,7 +1444,7 @@
       "detailPath": "entities/songs/97208223833725fc.json"
     },
     {
-      "rank": 21494,
+      "rank": 21495,
       "id": "0f491a564f0529c9",
       "name": "𝐄𝟐. テルミーアンサー",
       "secondary": "キノシタ feat.鏡音リン",
@@ -1441,7 +1474,7 @@
       "detailPath": "entities/songs/0f491a564f0529c9.json"
     },
     {
-      "rank": 21495,
+      "rank": 21496,
       "id": "7547772e73469ade",
       "name": "EARTH DAY",
       "secondary": "はりーP feat. 初音ミク",
@@ -1474,7 +1507,7 @@
       "detailPath": "entities/songs/7547772e73469ade.json"
     },
     {
-      "rank": 21496,
+      "rank": 21497,
       "id": "ad0c1d8b7b1eba53",
       "name": "EARTH DAY",
       "secondary": "HarryP",
@@ -1507,7 +1540,7 @@
       "detailPath": "entities/songs/ad0c1d8b7b1eba53.json"
     },
     {
-      "rank": 21497,
+      "rank": 21498,
       "id": "08ecba7776633fce",
       "name": "Earthship ～宇宙船地球号～",
       "secondary": "耳コピ",
@@ -1540,7 +1573,7 @@
       "detailPath": "entities/songs/08ecba7776633fce.json"
     },
     {
-      "rank": 21498,
+      "rank": 21499,
       "id": "694540930e51a841",
       "name": "Earthship ～宇宙船地球号～",
       "secondary": "SweetS",
@@ -1573,7 +1606,7 @@
       "detailPath": "entities/songs/694540930e51a841.json"
     },
     {
-      "rank": 21499,
+      "rank": 21500,
       "id": "ea2b54522a21cb24",
       "name": "Easter Bunny",
       "secondary": "LADYBABY",
@@ -1604,39 +1637,6 @@
         }
       ],
       "detailPath": "entities/songs/ea2b54522a21cb24.json"
-    },
-    {
-      "rank": 21500,
-      "id": "f8a53ed8a432569a",
-      "name": "EASY　GO",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "IchLA4DbWxk",
-          "videoTitle": "【歌枠/KARAOKE】初めましての挨拶させてください!!【柑凪しと/#初見さん大歓迎】",
-          "channelName": "しとのオモチャ箱",
-          "publishedAt": "2026-09-27T12:03:05.009Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/IchLA4DbWxk/hqdefault.jpg",
-          "sourcePath": "sources/Ic/IchLA4DbWxk.json",
-          "time": "4:29:56",
-          "seconds": 16196,
-          "songTitle": "EASY　GO",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/f8a53ed8a432569a.json"
     }
   ]
 }

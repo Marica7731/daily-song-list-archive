@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 594,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 29651,
+      "id": "b1ed233b58d8bdae",
+      "name": "YOKOHAMA blues",
+      "secondary": "SEKAI NO OWARI",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "1eWXAEeEi6w",
+          "videoTitle": "【#歌枠 / Singing Stream 】今日も今日とて1時間だけ歌う #short",
+          "channelName": "茉弥ノあめ",
+          "publishedAt": "2026-09-28T16:42:09.439Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1eWXAEeEi6w/hqdefault.jpg",
+          "sourcePath": "sources/1e/1eWXAEeEi6w.json",
+          "time": "0:52:20",
+          "seconds": 3140,
+          "songTitle": "YOKOHAMA blues",
+          "artist": "SEKAI NO OWARI"
+        }
+      ],
+      "detailPath": "entities/songs/b1ed233b58d8bdae.json"
+    },
+    {
+      "rank": 29652,
       "id": "0148af60bb246e79",
       "name": "Yokoso Japari Park e",
       "secondary": "Doubutsu Biscuits",
@@ -42,7 +75,7 @@
       "detailPath": "entities/songs/0148af60bb246e79.json"
     },
     {
-      "rank": 29652,
+      "rank": 29653,
       "id": "03f56fa5ffdc0b2a",
       "name": "yokubari",
       "secondary": "Ayase feat. hatsune miku",
@@ -74,7 +107,7 @@
       "detailPath": "entities/songs/03f56fa5ffdc0b2a.json"
     },
     {
-      "rank": 29653,
+      "rank": 29654,
       "id": "af0cc10eb92e9e7d",
       "name": "Yokubou ni Michita Seinendan",
       "secondary": "ONE OK ROCK",
@@ -104,7 +137,7 @@
       "detailPath": "entities/songs/af0cc10eb92e9e7d.json"
     },
     {
-      "rank": 29654,
+      "rank": 29655,
       "id": "5398d8a0556ea915",
       "name": "YOLO",
       "secondary": "BAND-MAID",
@@ -137,7 +170,7 @@
       "detailPath": "entities/songs/5398d8a0556ea915.json"
     },
     {
-      "rank": 29655,
+      "rank": 29656,
       "id": "f84eec1fba263c80",
       "name": "Yomosugara Kimi Omou",
       "secondary": "TOKOTOKO(NishizawasanP) feat.GUMI",
@@ -170,7 +203,7 @@
       "detailPath": "entities/songs/f84eec1fba263c80.json"
     },
     {
-      "rank": 29656,
+      "rank": 29657,
       "id": "678f90e7f3d6337a",
       "name": "Yomosugara Kimi Omou (All Night Thinking of You)",
       "secondary": "TOKOTOKO (Nishizawasan-P)",
@@ -203,7 +236,7 @@
       "detailPath": "entities/songs/678f90e7f3d6337a.json"
     },
     {
-      "rank": 29657,
+      "rank": 29658,
       "id": "ee14cde5b9e9d320",
       "name": "YONA YONA DANCE",
       "secondary": "",
@@ -233,7 +266,7 @@
       "detailPath": "entities/songs/ee14cde5b9e9d320.json"
     },
     {
-      "rank": 29658,
+      "rank": 29659,
       "id": "f18ee06715ce1ee8",
       "name": "YONAKI",
       "secondary": "みきとP",
@@ -266,7 +299,7 @@
       "detailPath": "entities/songs/f18ee06715ce1ee8.json"
     },
     {
-      "rank": 29659,
+      "rank": 29660,
       "id": "80d740a9fdefcbe9",
       "name": "YONAKI",
       "secondary": "",
@@ -296,7 +329,7 @@
       "detailPath": "entities/songs/80d740a9fdefcbe9.json"
     },
     {
-      "rank": 29660,
+      "rank": 29661,
       "id": "5f9e894de85a0fd4",
       "name": "Yonjuunana",
       "secondary": "Mikito-P feat. Hatsune Miku Append",
@@ -329,7 +362,7 @@
       "detailPath": "entities/songs/5f9e894de85a0fd4.json"
     },
     {
-      "rank": 29661,
+      "rank": 29662,
       "id": "8e3254de5980f0bf",
       "name": "Yorishiro",
       "secondary": "Miim MIO",
@@ -363,7 +396,7 @@
       "detailPath": "entities/songs/8e3254de5980f0bf.json"
     },
     {
-      "rank": 29662,
+      "rank": 29663,
       "id": "a14f673ea43433b5",
       "name": "Yoriyoi (Tipsy)",
       "secondary": "Wanuka",
@@ -396,7 +429,7 @@
       "detailPath": "entities/songs/a14f673ea43433b5.json"
     },
     {
-      "rank": 29663,
+      "rank": 29664,
       "id": "48c24aae50d2b748",
       "name": "Yoru Naderu Menou",
       "secondary": "Ayase",
@@ -430,7 +463,7 @@
       "detailPath": "entities/songs/48c24aae50d2b748.json"
     },
     {
-      "rank": 29664,
+      "rank": 29665,
       "id": "55204cd512c14fd3",
       "name": "Yoru ni Kakeru",
       "secondary": "夜に駆ける",
@@ -463,7 +496,7 @@
       "detailPath": "entities/songs/55204cd512c14fd3.json"
     },
     {
-      "rank": 29665,
+      "rank": 29666,
       "id": "8f3a31cfb93621d9",
       "name": "Yoru no Mukoue",
       "secondary": "Miim MIO",
@@ -497,7 +530,7 @@
       "detailPath": "entities/songs/8f3a31cfb93621d9.json"
     },
     {
-      "rank": 29666,
+      "rank": 29667,
       "id": "54814da40a8e6249",
       "name": "Yoru no Pierrot",
       "secondary": "Ado",
@@ -527,7 +560,7 @@
       "detailPath": "entities/songs/54814da40a8e6249.json"
     },
     {
-      "rank": 29667,
+      "rank": 29668,
       "id": "0a5e424dadca9e68",
       "name": "Yoru no Uta",
       "secondary": "Tomoyo Daidouji(CV.Junko Iwao)",
@@ -560,7 +593,7 @@
       "detailPath": "entities/songs/0a5e424dadca9e68.json"
     },
     {
-      "rank": 29668,
+      "rank": 29669,
       "id": "36a2e58708182b49",
       "name": "Yoshiwara Lament",
       "secondary": "Asa ft. Kasane Teto",
@@ -593,7 +626,7 @@
       "detailPath": "entities/songs/36a2e58708182b49.json"
     },
     {
-      "rank": 29669,
+      "rank": 29670,
       "id": "56ceee53cba25311",
       "name": "Yossha Otoko Uta",
       "secondary": "Nobuaki Kakuda",
@@ -626,7 +659,7 @@
       "detailPath": "entities/songs/56ceee53cba25311.json"
     },
     {
-      "rank": 29670,
+      "rank": 29671,
       "id": "b6933761fed24213",
       "name": "Yosshaa Otoko Uta",
       "secondary": "Kakuda Nobuaki",
@@ -659,7 +692,7 @@
       "detailPath": "entities/songs/b6933761fed24213.json"
     },
     {
-      "rank": 29671,
+      "rank": 29672,
       "id": "9b4569ced69336a2",
       "name": "you",
       "secondary": "癒月(初出しチャレンジ)",
@@ -692,7 +725,7 @@
       "detailPath": "entities/songs/9b4569ced69336a2.json"
     },
     {
-      "rank": 29672,
+      "rank": 29673,
       "id": "d4df7d9e7fb2363a",
       "name": "you",
       "secondary": "ひぐらしのなく頃に解 目明かし編",
@@ -726,7 +759,7 @@
       "detailPath": "entities/songs/d4df7d9e7fb2363a.json"
     },
     {
-      "rank": 29673,
+      "rank": 29674,
       "id": "d70df3c035227082",
       "name": "you",
       "secondary": "癒月(癒月,dai)",
@@ -759,7 +792,7 @@
       "detailPath": "entities/songs/d70df3c035227082.json"
     },
     {
-      "rank": 29674,
+      "rank": 29675,
       "id": "6f9a10e05b48fa55",
       "name": "you",
       "secondary": "未記載",
@@ -793,7 +826,7 @@
       "detailPath": "entities/songs/6f9a10e05b48fa55.json"
     },
     {
-      "rank": 29675,
+      "rank": 29676,
       "id": "0f4612bea22481df",
       "name": "you",
       "secondary": "雪野五月 @u_Karaoke",
@@ -823,7 +856,7 @@
       "detailPath": "entities/songs/0f4612bea22481df.json"
     },
     {
-      "rank": 29676,
+      "rank": 29677,
       "id": "5c73e966c54837c4",
       "name": "you",
       "secondary": "dai feat.癒月",
@@ -856,7 +889,7 @@
       "detailPath": "entities/songs/5c73e966c54837c4.json"
     },
     {
-      "rank": 29677,
+      "rank": 29678,
       "id": "6f577779130ade70",
       "name": "you",
       "secondary": "魅音ver",
@@ -889,7 +922,7 @@
       "detailPath": "entities/songs/6f577779130ade70.json"
     },
     {
-      "rank": 29678,
+      "rank": 29679,
       "id": "c6f5f31f3447d12e",
       "name": "you",
       "secondary": "BGMつけっぱごめんね",
@@ -922,7 +955,7 @@
       "detailPath": "entities/songs/c6f5f31f3447d12e.json"
     },
     {
-      "rank": 29679,
+      "rank": 29680,
       "id": "c83e4638fa4231d1",
       "name": "you",
       "secondary": "雪野五月(断念)",
@@ -952,7 +985,7 @@
       "detailPath": "entities/songs/c83e4638fa4231d1.json"
     },
     {
-      "rank": 29680,
+      "rank": 29681,
       "id": "e7fcc616cb17027b",
       "name": "You",
       "secondary": "『ひぐらしのなく頃に』雪野五月",
@@ -986,7 +1019,7 @@
       "detailPath": "entities/songs/e7fcc616cb17027b.json"
     },
     {
-      "rank": 29681,
+      "rank": 29682,
       "id": "e294324215ba76e4",
       "name": "You",
       "secondary": "ひぐらしのなく頃に",
@@ -1020,7 +1053,7 @@
       "detailPath": "entities/songs/e294324215ba76e4.json"
     },
     {
-      "rank": 29682,
+      "rank": 29683,
       "id": "d4797d190ee7ed43",
       "name": "You",
       "secondary": "癒月(ひぐらしのなく頃に)",
@@ -1053,7 +1086,7 @@
       "detailPath": "entities/songs/d4797d190ee7ed43.json"
     },
     {
-      "rank": 29683,
+      "rank": 29684,
       "id": "17b86b5644bfd956",
       "name": "You",
       "secondary": "ミュート",
@@ -1086,7 +1119,7 @@
       "detailPath": "entities/songs/17b86b5644bfd956.json"
     },
     {
-      "rank": 29684,
+      "rank": 29685,
       "id": "c075e9de367cc8de",
       "name": "YOU",
       "secondary": "『SHUFFLE!』YURIA",
@@ -1118,7 +1151,7 @@
       "detailPath": "entities/songs/c075e9de367cc8de.json"
     },
     {
-      "rank": 29685,
+      "rank": 29686,
       "id": "18c5cfddca9c9769",
       "name": "YOU",
       "secondary": "仲宗根泉／加藤ミリヤ",
@@ -1152,7 +1185,7 @@
       "detailPath": "entities/songs/18c5cfddca9c9769.json"
     },
     {
-      "rank": 29686,
+      "rank": 29687,
       "id": "dfdbd0240a3f91a5",
       "name": "YOU",
       "secondary": "日曜日のメゾンデ",
@@ -1182,7 +1215,7 @@
       "detailPath": "entities/songs/dfdbd0240a3f91a5.json"
     },
     {
-      "rank": 29687,
+      "rank": 29688,
       "id": "09031fd8ab58145b",
       "name": "YOU",
       "secondary": "結城めぐみ[美味しんぼ]",
@@ -1212,7 +1245,7 @@
       "detailPath": "entities/songs/09031fd8ab58145b.json"
     },
     {
-      "rank": 29688,
+      "rank": 29689,
       "id": "3e18f0f95d2c9898",
       "name": "you (アカペラ)",
       "secondary": "癒月",
@@ -1245,7 +1278,7 @@
       "detailPath": "entities/songs/3e18f0f95d2c9898.json"
     },
     {
-      "rank": 29689,
+      "rank": 29690,
       "id": "61291785b9ea6b60",
       "name": "You & Me",
       "secondary": "Yukari Tamura feat. motsu from m.o.v.e / “Card Gakuen” OP",
@@ -1278,7 +1311,7 @@
       "detailPath": "entities/songs/61291785b9ea6b60.json"
     },
     {
-      "rank": 29690,
+      "rank": 29691,
       "id": "2ba97af635263966",
       "name": "You & Me",
       "secondary": "紗希&Rie fu",
@@ -1312,7 +1345,7 @@
       "detailPath": "entities/songs/2ba97af635263966.json"
     },
     {
-      "rank": 29691,
+      "rank": 29692,
       "id": "a7940e638cc20346",
       "name": "You ＆Me feat.motsu from m.o.v.e",
       "secondary": "田村ゆかり",
@@ -1345,7 +1378,7 @@
       "detailPath": "entities/songs/a7940e638cc20346.json"
     },
     {
-      "rank": 29692,
+      "rank": 29693,
       "id": "000aff3c849a5b9e",
       "name": "You and beautiful world",
       "secondary": "ゆよゆっぺ",
@@ -1378,7 +1411,7 @@
       "detailPath": "entities/songs/000aff3c849a5b9e.json"
     },
     {
-      "rank": 29693,
+      "rank": 29694,
       "id": "7166a4ede900d113",
       "name": "You And Me",
       "secondary": "Lifehouse",
@@ -1411,7 +1444,7 @@
       "detailPath": "entities/songs/7166a4ede900d113.json"
     },
     {
-      "rank": 29694,
+      "rank": 29695,
       "id": "1ceafc7b8e14bd15",
       "name": "You and the Last",
       "secondary": "Narumiya",
@@ -1445,7 +1478,7 @@
       "detailPath": "entities/songs/1ceafc7b8e14bd15.json"
     },
     {
-      "rank": 29695,
+      "rank": 29696,
       "id": "52a88f2c92797b09",
       "name": "You are kin",
       "secondary": "",
@@ -1478,7 +1511,7 @@
       "detailPath": "entities/songs/52a88f2c92797b09.json"
     },
     {
-      "rank": 29696,
+      "rank": 29697,
       "id": "3bccc3b5f8fefa2e",
       "name": "You are my curse",
       "secondary": "nyamura(You are my curse)",
@@ -1511,7 +1544,7 @@
       "detailPath": "entities/songs/3bccc3b5f8fefa2e.json"
     },
     {
-      "rank": 29697,
+      "rank": 29698,
       "id": "45afed5baf69fb58",
       "name": "You Are My Love",
       "secondary": "Yui Makino",
@@ -1544,7 +1577,7 @@
       "detailPath": "entities/songs/45afed5baf69fb58.json"
     },
     {
-      "rank": 29698,
+      "rank": 29699,
       "id": "c40031e706bd6838",
       "name": "You Are My Sunshine",
       "secondary": "Johnny Cash",
@@ -1577,7 +1610,7 @@
       "detailPath": "entities/songs/c40031e706bd6838.json"
     },
     {
-      "rank": 29699,
+      "rank": 29700,
       "id": "43e1e2a777f7b0fe",
       "name": "You Are Not Alone",
       "secondary": "Michael Jackson",
@@ -1608,39 +1641,6 @@
         }
       ],
       "detailPath": "entities/songs/43e1e2a777f7b0fe.json"
-    },
-    {
-      "rank": 29700,
-      "id": "51a245ac5dc5cc19",
-      "name": "YOU BE ONE WINNER",
-      "secondary": "ナンバーワン戦隊ゴジュウジャー",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "xK1ujelYrbo",
-          "videoTitle": "【歌枠】誕生日記念！令和ニチアサ歌う！！【世界野へいわ】",
-          "channelName": "世界野へいわ",
-          "publishedAt": "2026-09-21T07:44:51.595Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xK1ujelYrbo/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAru2DrABQtqjCdZG7CgghIlC7vbg",
-          "sourcePath": "sources/xK/xK1ujelYrbo.json",
-          "time": "1:38:00",
-          "seconds": 5880,
-          "songTitle": "YOU BE ONE WINNER",
-          "artist": "ナンバーワン戦隊ゴジュウジャー"
-        }
-      ],
-      "detailPath": "entities/songs/51a245ac5dc5cc19.json"
     }
   ]
 }

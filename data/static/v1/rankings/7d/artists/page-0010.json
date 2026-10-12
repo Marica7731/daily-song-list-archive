@@ -1,62 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "7d",
   "type": "artists",
   "page": 10,
   "pageSize": 50,
   "pageCount": 36,
-  "totalCount": 1759,
+  "totalCount": 1755,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 451,
-      "id": "8c5ec75ecaea4734",
-      "name": "TOKOTOKO(西沢さんP) feat. GUMI",
-      "secondary": "",
-      "channelId": "UCV6V6YJLO0Zykeq1VD16txg",
-      "channelHandle": "@0hinarysan",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "v8zQDeXE28E",
-          "videoTitle": "【歌枠/Karaoke】おうたの時間だよ～.ᐟ.ᐟ 初見さん大歓迎っ.ᐟ.ᐟお歌が好きなそこのあなたっ.ᐟ.ᐟ1曲だけでも聴いていきませんか.ᐣ.ᐣ ⸜ ♡ ⸝【愛未ゆあ / 個人Vtuber】",
-          "channelName": "愛未ゆあ⑅ / Yua Ayumi",
-          "publishedAt": "2026-10-07T19:11:47.501Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/v8zQDeXE28E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgQDNNiCm8sJgzG1GNVT16fiaivQ",
-          "sourcePath": "sources/v8/v8zQDeXE28E.json",
-          "time": "0:07:15",
-          "seconds": 435,
-          "songTitle": "夜もすがら君想ふ",
-          "artist": "TOKOTOKO(西沢さんP) feat.GUMI"
-        },
-        {
-          "videoId": "y4sjmETSP3w",
-          "videoTitle": "【歌枠 / Singing Stream】夜のまったり弾き語り🌙リクエスト拾う！【INARI / 新人VTuber】#いなりお使い中",
-          "channelName": "INARI",
-          "publishedAt": "2026-10-06T14:10:35.976Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/y4sjmETSP3w/hqdefault.jpg",
-          "sourcePath": "sources/y4/y4sjmETSP3w.json",
-          "time": "1:04:00",
-          "seconds": 3840,
-          "songTitle": "夜もすがら君想ふ",
-          "artist": "TOKOTOKO(西沢さんP) feat. GUMI"
-        }
-      ],
-      "detailPath": "entities/artists/8c5ec75ecaea4734.json"
-    },
-    {
-      "rank": 452,
       "id": "e841cf1192452174",
       "name": "TWO-MIX",
       "secondary": "",
@@ -101,7 +55,7 @@
       "detailPath": "entities/artists/e841cf1192452174.json"
     },
     {
-      "rank": 453,
+      "rank": 452,
       "id": "e1a2e22f64810849",
       "name": "UVERworld",
       "secondary": "",
@@ -146,7 +100,7 @@
       "detailPath": "entities/artists/e1a2e22f64810849.json"
     },
     {
-      "rank": 454,
+      "rank": 453,
       "id": "7925390d18769adc",
       "name": "Vaundy （ワンコーラス）",
       "secondary": "",
@@ -189,6 +143,52 @@
         }
       ],
       "detailPath": "entities/artists/7925390d18769adc.json"
+    },
+    {
+      "rank": 454,
+      "id": "09e21e320eb1198d",
+      "name": "wacci",
+      "secondary": "",
+      "channelId": "UC7A7bGRVdIwo93nqnA3x-OQ",
+      "channelHandle": "@MaisakiBerry",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6a7KlxYZVN0",
+          "videoTitle": "【 弾き語り 】定期🎸風鈴とアコギのチルタイム🐑寝落ち・睡眠、作業のお供にもどうぞ、初見さんも大歓迎【 #singingstream】",
+          "channelName": "Shiyu Ch. しゆ。",
+          "publishedAt": "2026-10-08T14:29:45.486Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6a7KlxYZVN0/hqdefault.jpg",
+          "sourcePath": "sources/6a/6a7KlxYZVN0.json",
+          "time": "0:24:13",
+          "seconds": 1453,
+          "songTitle": "别の人の彼女になったよ",
+          "artist": "wacci"
+        },
+        {
+          "videoId": "r2sBBmSV4GI",
+          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
+          "channelName": "苺咲べりぃ / Maisaki Berry",
+          "publishedAt": "2026-10-07T16:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/r2sBBmSV4GI/hqdefault.jpg",
+          "sourcePath": "sources/r2/r2sBBmSV4GI.json",
+          "time": "2:00:32",
+          "seconds": 7232,
+          "songTitle": "別の人の彼女になったよ",
+          "artist": "wacci"
+        }
+      ],
+      "detailPath": "entities/artists/09e21e320eb1198d.json"
     },
     {
       "rank": 455,

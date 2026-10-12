@@ -1,16 +1,142 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 488,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 24351,
+      "id": "b99835ac499850ef",
+      "name": "真FAKE STYLE",
+      "secondary": "FAKE TYPE",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "2ZE38PItgoQ",
+          "videoTitle": "【 定期 #歌枠 】初見・ROM勢大歓迎✨今日もガツンと魂込めていくわよ。応援よろしくね。【百軒カナリ #Vtuber 】",
+          "channelName": "百軒カナリ. - Momonoki Kanari. -",
+          "publishedAt": "2026-09-16T13:53:50.175Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2ZE38PItgoQ/hqdefault.jpg",
+          "sourcePath": "sources/2Z/2ZE38PItgoQ.json",
+          "time": "1:35:35",
+          "seconds": 5735,
+          "songTitle": "真FAKE STYLE",
+          "artist": "FAKE TYPE"
+        }
+      ],
+      "detailPath": "entities/songs/b99835ac499850ef.json"
+    },
+    {
+      "rank": 24352,
+      "id": "fcff0ead65fe3d89",
+      "name": "真っ赤",
+      "secondary": "Liella!",
+      "channelId": "UC7tUwG7a4FG4mlBz8vQVXog",
+      "channelHandle": "@momosaki_miri",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "yknHG6GG3Ys",
+          "videoTitle": "【 🍑歌枠🫖 】デビュー半年記念✨癒し系ヒロインアイドルと一緒に歌お～！【 桃咲みり 】",
+          "channelName": "桃咲みり🍑🫖 Miri Momosaki Ch.",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yknHG6GG3Ys/hqdefault.jpg",
+          "sourcePath": "sources/yk/yknHG6GG3Ys.json",
+          "time": "0:45:03",
+          "seconds": 2703,
+          "songTitle": "真っ赤",
+          "artist": "Liella!"
+        }
+      ],
+      "detailPath": "entities/songs/fcff0ead65fe3d89.json"
+    },
+    {
+      "rank": 24353,
+      "id": "7ec1aebebe03b54a",
+      "name": "真っ赤な空をみただろうか",
+      "secondary": "BUMP OF CHICKEN",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "nakIofApMSY",
+          "videoTitle": "【 #秋が来た歌枠リレー 】初の歌枠リレー参加！猫叉が秋の訪れを歌います🍁【#白叉ねむ #vtuber】",
+          "channelName": "白叉ねむ / Shiramata Nemu",
+          "publishedAt": "2026-09-26T11:40:41.281Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/nakIofApMSY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbeYTS6IJQ8AkMYNczSJaej5YPZw",
+          "sourcePath": "sources/na/nakIofApMSY.json",
+          "time": "0:18:35",
+          "seconds": 1115,
+          "songTitle": "真っ赤な空をみただろうか",
+          "artist": "BUMP OF CHICKEN"
+        }
+      ],
+      "detailPath": "entities/songs/7ec1aebebe03b54a.json"
+    },
+    {
+      "rank": 24354,
+      "id": "fee143f48958961a",
+      "name": "真っ赤な空を見ただろうか",
+      "secondary": "",
+      "channelId": "UCd6XWlOEaRJ9DiWQIAUQlSg",
+      "channelHandle": "@amairoarus",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "wc_VI38u1RE",
+          "videoTitle": "【 歌枠┊︎Karaoke 】金曜日お疲れ様！癒しのお歌お届けします✨【vtuber /天彩あるす】",
+          "channelName": "天彩あるす -Amairo Arus-",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wc_VI38u1RE/hqdefault.jpg",
+          "sourcePath": "sources/wc/wc_VI38u1RE.json",
+          "time": "1:34:47",
+          "seconds": 5687,
+          "songTitle": "真っ赤な空を見ただろうか",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/fee143f48958961a.json"
+    },
+    {
+      "rank": 24355,
       "id": "1d39694b0bf14a19",
       "name": "真っ赤な太陽",
       "secondary": "美空ひばり",
@@ -43,7 +169,7 @@
       "detailPath": "entities/songs/1d39694b0bf14a19.json"
     },
     {
-      "rank": 24352,
+      "rank": 24356,
       "id": "876a044da004910f",
       "name": "真っ白",
       "secondary": "藤井風",
@@ -76,7 +202,7 @@
       "detailPath": "entities/songs/876a044da004910f.json"
     },
     {
-      "rank": 24353,
+      "rank": 24357,
       "id": "b72a5d7eab1989e9",
       "name": "真っ白",
       "secondary": "yama",
@@ -106,7 +232,7 @@
       "detailPath": "entities/songs/b72a5d7eab1989e9.json"
     },
     {
-      "rank": 24354,
+      "rank": 24358,
       "id": "cb13dff08744ef44",
       "name": "真夏のSounds good!",
       "secondary": "AKB48",
@@ -139,7 +265,7 @@
       "detailPath": "entities/songs/cb13dff08744ef44.json"
     },
     {
-      "rank": 24355,
+      "rank": 24359,
       "id": "2afc86cdc6022ee4",
       "name": "真夏のシューメイカー",
       "secondary": "Manatsu no Shoemaker THE PINBALLS / THE PINBALLS",
@@ -172,7 +298,7 @@
       "detailPath": "entities/songs/2afc86cdc6022ee4.json"
     },
     {
-      "rank": 24356,
+      "rank": 24360,
       "id": "55ebd50f5522b387",
       "name": "真夏の果実",
       "secondary": "サザンオールスターズ(絢香)",
@@ -202,7 +328,7 @@
       "detailPath": "entities/songs/55ebd50f5522b387.json"
     },
     {
-      "rank": 24357,
+      "rank": 24361,
       "id": "de5177704b40d473",
       "name": "真夏の果実",
       "secondary": "洵香",
@@ -232,7 +358,7 @@
       "detailPath": "entities/songs/de5177704b40d473.json"
     },
     {
-      "rank": 24358,
+      "rank": 24362,
       "id": "ba6afbea8d2a33fc",
       "name": "真夏の果実",
       "secondary": "サザンオールスターズ（フル）",
@@ -262,7 +388,7 @@
       "detailPath": "entities/songs/ba6afbea8d2a33fc.json"
     },
     {
-      "rank": 24359,
+      "rank": 24363,
       "id": "fe50fff389585ff9",
       "name": "真夏の夜の匂いがする",
       "secondary": "あいみょん",
@@ -295,7 +421,7 @@
       "detailPath": "entities/songs/fe50fff389585ff9.json"
     },
     {
-      "rank": 24360,
+      "rank": 24364,
       "id": "6dbf10e799a8653e",
       "name": "真夏の夜の夢／松任谷由実／ドラマ『誰にも言えない』主題歌／1993/07",
       "secondary": "26",
@@ -325,7 +451,7 @@
       "detailPath": "entities/songs/6dbf10e799a8653e.json"
     },
     {
-      "rank": 24361,
+      "rank": 24365,
       "id": "7479364767053c85",
       "name": "真紅の荊",
       "secondary": "赤の女王（CV: 水樹奈々） *a cappella",
@@ -358,7 +484,7 @@
       "detailPath": "entities/songs/7479364767053c85.json"
     },
     {
-      "rank": 24362,
+      "rank": 24366,
       "id": "e77c580df29bd41c",
       "name": "真実の詩",
       "secondary": "Do As Infinity",
@@ -388,7 +514,7 @@
       "detailPath": "entities/songs/e77c580df29bd41c.json"
     },
     {
-      "rank": 24363,
+      "rank": 24367,
       "id": "59780f812b90448d",
       "name": "真生活",
       "secondary": "",
@@ -421,7 +547,7 @@
       "detailPath": "entities/songs/59780f812b90448d.json"
     },
     {
-      "rank": 24364,
+      "rank": 24368,
       "id": "49cfa8616a233a61",
       "name": "真生活",
       "secondary": "案山子 feat. 初音ミク",
@@ -454,7 +580,7 @@
       "detailPath": "entities/songs/49cfa8616a233a61.json"
     },
     {
-      "rank": 24365,
+      "rank": 24369,
       "id": "425a62d0aaf48b4b",
       "name": "真赤な誓い",
       "secondary": "福山芳樹(武装錬金 OP1＆テーマソング)",
@@ -487,7 +613,7 @@
       "detailPath": "entities/songs/425a62d0aaf48b4b.json"
     },
     {
-      "rank": 24366,
+      "rank": 24370,
       "id": "a2eff80bb61d4cbc",
       "name": "真赤な誓い",
       "secondary": "福山芳樹（アニメ『武装錬金』OP）",
@@ -520,7 +646,7 @@
       "detailPath": "entities/songs/a2eff80bb61d4cbc.json"
     },
     {
-      "rank": 24367,
+      "rank": 24371,
       "id": "ec4837d707ab5470",
       "name": "真赤な誓い",
       "secondary": "福山芳樹 (途中で中断)",
@@ -553,7 +679,7 @@
       "detailPath": "entities/songs/ec4837d707ab5470.json"
     },
     {
-      "rank": 24368,
+      "rank": 24372,
       "id": "c9b3bb7ec20aa9f4",
       "name": "真赤な誓い",
       "secondary": "武装錬金",
@@ -586,7 +712,7 @@
       "detailPath": "entities/songs/c9b3bb7ec20aa9f4.json"
     },
     {
-      "rank": 24369,
+      "rank": 24373,
       "id": "510c2e231ba72a7b",
       "name": "真昼の月",
       "secondary": "いきものがかり",
@@ -619,7 +745,7 @@
       "detailPath": "entities/songs/510c2e231ba72a7b.json"
     },
     {
-      "rank": 24370,
+      "rank": 24374,
       "id": "edc321a67683e741",
       "name": "真面目だけ",
       "secondary": "青谷",
@@ -652,7 +778,7 @@
       "detailPath": "entities/songs/edc321a67683e741.json"
     },
     {
-      "rank": 24371,
+      "rank": 24375,
       "id": "bb7b6f35173f4385",
       "name": "真夜中のシャドーボーイ",
       "secondary": "Hey!Say!JUMP",
@@ -682,7 +808,7 @@
       "detailPath": "entities/songs/bb7b6f35173f4385.json"
     },
     {
-      "rank": 24372,
+      "rank": 24376,
       "id": "ba981279576d2b6f",
       "name": "真夜中のドア",
       "secondary": "ア・カペラ",
@@ -712,7 +838,7 @@
       "detailPath": "entities/songs/ba981279576d2b6f.json"
     },
     {
-      "rank": 24373,
+      "rank": 24377,
       "id": "cda2b527ec71275a",
       "name": "真夜中のドア",
       "secondary": "松葉みき",
@@ -745,7 +871,7 @@
       "detailPath": "entities/songs/cda2b527ec71275a.json"
     },
     {
-      "rank": 24374,
+      "rank": 24378,
       "id": "69889482441c941b",
       "name": "真夜中のドア ～ Stay With Me ～",
       "secondary": "松原 ゆき",
@@ -778,7 +904,7 @@
       "detailPath": "entities/songs/69889482441c941b.json"
     },
     {
-      "rank": 24375,
+      "rank": 24379,
       "id": "398ce09ebdce6e05",
       "name": "真夜中のドア～stay with me",
       "secondary": "中森明菜",
@@ -811,7 +937,7 @@
       "detailPath": "entities/songs/398ce09ebdce6e05.json"
     },
     {
-      "rank": 24376,
+      "rank": 24380,
       "id": "74e54de25766e678",
       "name": "真夜中のドア～Stay With Me",
       "secondary": "",
@@ -844,7 +970,7 @@
       "detailPath": "entities/songs/74e54de25766e678.json"
     },
     {
-      "rank": 24377,
+      "rank": 24381,
       "id": "48e625ecc6b4ebc5",
       "name": "真夜中のドア～Stay With Me～",
       "secondary": "松原みき真夜中のドア",
@@ -877,7 +1003,7 @@
       "detailPath": "entities/songs/48e625ecc6b4ebc5.json"
     },
     {
-      "rank": 24378,
+      "rank": 24382,
       "id": "9cd73b9a8d549adb",
       "name": "真夜中は純潔",
       "secondary": "椎名林檎(2001年)",
@@ -907,7 +1033,7 @@
       "detailPath": "entities/songs/9cd73b9a8d549adb.json"
     },
     {
-      "rank": 24379,
+      "rank": 24383,
       "id": "03ad3e8cee32a309",
       "name": "真夜中マーメイド",
       "secondary": "佐々木舞香",
@@ -940,7 +1066,7 @@
       "detailPath": "entities/songs/03ad3e8cee32a309.json"
     },
     {
-      "rank": 24380,
+      "rank": 24384,
       "id": "228d29c441045471",
       "name": "真夜中遊園地",
       "secondary": "Mayonaka Yūenchi チャットモンチー / Chatmonchy",
@@ -973,7 +1099,7 @@
       "detailPath": "entities/songs/228d29c441045471.json"
     },
     {
-      "rank": 24381,
+      "rank": 24385,
       "id": "10bfc4f2de3cd7f1",
       "name": "真夜中遊園地",
       "secondary": "夢限大みゅーたいぷ",
@@ -1006,7 +1132,7 @@
       "detailPath": "entities/songs/10bfc4f2de3cd7f1.json"
     },
     {
-      "rank": 24382,
+      "rank": 24386,
       "id": "1740c0396e6b7e6b",
       "name": "神SUMMER!!",
       "secondary": "765PRO ALLSTARS",
@@ -1036,7 +1162,7 @@
       "detailPath": "entities/songs/1740c0396e6b7e6b.json"
     },
     {
-      "rank": 24383,
+      "rank": 24387,
       "id": "2e723a574c6048fa",
       "name": "神っぽいな",
       "secondary": "ピノキオ P",
@@ -1066,7 +1192,7 @@
       "detailPath": "entities/songs/2e723a574c6048fa.json"
     },
     {
-      "rank": 24384,
+      "rank": 24388,
       "id": "4b7bc3ca98420065",
       "name": "神っぽいな",
       "secondary": "ピノキオピー(なんとかかんとかVer.)",
@@ -1099,7 +1225,7 @@
       "detailPath": "entities/songs/4b7bc3ca98420065.json"
     },
     {
-      "rank": 24385,
+      "rank": 24389,
       "id": "3083830393fa97ec",
       "name": "神っぽいな",
       "secondary": "God-ish",
@@ -1132,7 +1258,7 @@
       "detailPath": "entities/songs/3083830393fa97ec.json"
     },
     {
-      "rank": 24386,
+      "rank": 24390,
       "id": "394c1ef6a58c8388",
       "name": "神っぽいな",
       "secondary": "ピノキオピー feat. 初音ミク（ピアノ伴奏Ver.）",
@@ -1165,7 +1291,7 @@
       "detailPath": "entities/songs/394c1ef6a58c8388.json"
     },
     {
-      "rank": 24387,
+      "rank": 24391,
       "id": "4e53908ff5d6d6ab",
       "name": "神のまにまに",
       "secondary": "れるりり feat.初音ミク(グミ5つ)",
@@ -1198,7 +1324,7 @@
       "detailPath": "entities/songs/4e53908ff5d6d6ab.json"
     },
     {
-      "rank": 24388,
+      "rank": 24392,
       "id": "a7ac8c141de078e4",
       "name": "神のまにまに",
       "secondary": "れるりりP",
@@ -1231,7 +1357,7 @@
       "detailPath": "entities/songs/a7ac8c141de078e4.json"
     },
     {
-      "rank": 24389,
+      "rank": 24393,
       "id": "0c0d9faaa1460b8a",
       "name": "神のまにまに",
       "secondary": "れるりり feat. 初音ミク",
@@ -1264,7 +1390,7 @@
       "detailPath": "entities/songs/0c0d9faaa1460b8a.json"
     },
     {
-      "rank": 24390,
+      "rank": 24394,
       "id": "b38a5e6af2d6931a",
       "name": "神のまにまに/ れるりり feat. 初音ミク (かなうちゃん Cover: https",
       "secondary": "youtu.be/pVs0kGpquNY",
@@ -1294,7 +1420,7 @@
       "detailPath": "entities/songs/b38a5e6af2d6931a.json"
     },
     {
-      "rank": 24391,
+      "rank": 24395,
       "id": "da1ada8b86f99784",
       "name": "神の名前に堕ちる者",
       "secondary": "kaoling",
@@ -1327,7 +1453,7 @@
       "detailPath": "entities/songs/da1ada8b86f99784.json"
     },
     {
-      "rank": 24392,
+      "rank": 24396,
       "id": "6cb563fff0dda75b",
       "name": "神奇",
       "secondary": "孫燕姿",
@@ -1360,7 +1486,7 @@
       "detailPath": "entities/songs/6cb563fff0dda75b.json"
     },
     {
-      "rank": 24393,
+      "rank": 24397,
       "id": "ab7988761cbbd644",
       "name": "神戸で逢えたら",
       "secondary": "桜田淳子",
@@ -1393,7 +1519,7 @@
       "detailPath": "entities/songs/ab7988761cbbd644.json"
     },
     {
-      "rank": 24394,
+      "rank": 24398,
       "id": "440289e4f043c6ea",
       "name": "神聖かまってちゃん",
       "secondary": "犯罪者予備君",
@@ -1423,7 +1549,7 @@
       "detailPath": "entities/songs/440289e4f043c6ea.json"
     },
     {
-      "rank": 24395,
+      "rank": 24399,
       "id": "029cf9f558308353",
       "name": "神田川",
       "secondary": "かぐや姫を披露",
@@ -1456,7 +1582,7 @@
       "detailPath": "entities/songs/029cf9f558308353.json"
     },
     {
-      "rank": 24396,
+      "rank": 24400,
       "id": "7ce992f9f8168e89",
       "name": "神田川",
       "secondary": "かぐやひめ",
@@ -1487,132 +1613,6 @@
         }
       ],
       "detailPath": "entities/songs/7ce992f9f8168e89.json"
-    },
-    {
-      "rank": 24397,
-      "id": "16ae2b18ab53b3e9",
-      "name": "神田川",
-      "secondary": "南こうせつとかぐや姫 (かぐや姫)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "etF46pYqcXs",
-          "videoTitle": "【昭和縛り #歌枠配信 】同接80目標！🧡昨日ねちゃったしゅおが歌います！🧡【秋桜しゅお/登龍門BOX】#karaoke #vtuber #vsinger #昭和歌謡",
-          "channelName": "秋桜しゅお🧡昭和歌謡大好きVTuber",
-          "publishedAt": "2026-09-23T13:47:21.602Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/etF46pYqcXs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2MCEVShFMOrLzdZft6lq84GCChw",
-          "sourcePath": "sources/et/etF46pYqcXs.json",
-          "time": "1:45:20",
-          "seconds": 6320,
-          "songTitle": "神田川",
-          "artist": "南こうせつとかぐや姫 (かぐや姫)"
-        }
-      ],
-      "detailPath": "entities/songs/16ae2b18ab53b3e9.json"
-    },
-    {
-      "rank": 24398,
-      "id": "fd031a8e50d04f6c",
-      "name": "神田川",
-      "secondary": "南こうせつ",
-      "channelId": "UCGLrsPlc2DpavAxmj1QV1tw",
-      "channelHandle": "@hibanamomose",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XBDeFZjlErA",
-          "videoTitle": "【#歌枠 #Karaoke】今日の目標、ライブチケット5枚！ニチアサ歌枠【#百瀬ヒバナ #vsinger】",
-          "channelName": "百瀬ヒバナ- FLANICA",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XBDeFZjlErA/hqdefault.jpg",
-          "sourcePath": "sources/XB/XBDeFZjlErA.json",
-          "time": "0:05:05",
-          "seconds": 305,
-          "songTitle": "神田川",
-          "artist": "南こうせつ"
-        }
-      ],
-      "detailPath": "entities/songs/fd031a8e50d04f6c.json"
-    },
-    {
-      "rank": 24399,
-      "id": "811a4adeea926583",
-      "name": "神田川",
-      "secondary": "かぐや姫 ※JOYSOUND",
-      "channelId": "UCWveanMxFckBv5Ov5oGihxQ",
-      "channelHandle": "@sakisakatsumugi",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "GLwdG0o-lFo",
-          "videoTitle": "【歌枠】初見さん大歓迎！✨しっとりめのお歌うたいたい#karaoke 【#咲坂つむぎ /新人vtuber 】",
-          "channelName": "咲坂つむぎ",
-          "publishedAt": "2026-10-03T15:23:13.123Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/GLwdG0o-lFo/hqdefault.jpg",
-          "sourcePath": "sources/GL/GLwdG0o-lFo.json",
-          "time": "1:31:16",
-          "seconds": 5476,
-          "songTitle": "神田川",
-          "artist": "かぐや姫 ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/songs/811a4adeea926583.json"
-    },
-    {
-      "rank": 24400,
-      "id": "60d378f52b4a26c2",
-      "name": "神無月にかこまれて",
-      "secondary": "井上陽水",
-      "channelId": "UCZKmYYlgo4mspRprTK1OP5w",
-      "channelHandle": "@masaya1957",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "jApFHPgkYlI",
-          "videoTitle": "【昭和フォーク】 月曜日 拓郎＆陽水 毎晩弾き語り・30分ライブ＜Day198＞2026 9/14",
-          "channelName": "石垣島からフォークソング【まー先生】",
-          "publishedAt": "2026-09-14T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jApFHPgkYlI/hqdefault.jpg",
-          "sourcePath": "sources/jA/jApFHPgkYlI.json",
-          "time": "0:07:53",
-          "seconds": 473,
-          "songTitle": "神無月にかこまれて",
-          "artist": "井上陽水"
-        }
-      ],
-      "detailPath": "entities/songs/60d378f52b4a26c2.json"
     }
   ]
 }

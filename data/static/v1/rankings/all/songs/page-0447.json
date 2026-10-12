@@ -1,16 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 447,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 22301,
+      "id": "98023aac56abc1df",
+      "name": "GASSHOW",
+      "secondary": "野田洋次郎",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "HzD3YN9cUxE",
+          "videoTitle": "【歌枠/KARAOKE】歌いたいだけ歌う！リクエスト曲も歌います！【縁=EN/桜羽ほのあ】",
+          "channelName": "Sakuraba Honoa Ch. 桜羽ほのあ",
+          "publishedAt": "2026-07-16T18:51:33.039Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HzD3YN9cUxE/hqdefault.jpg",
+          "sourcePath": "sources/Hz/HzD3YN9cUxE.json",
+          "time": "3:57:41",
+          "seconds": 14261,
+          "songTitle": "GASSHOW",
+          "artist": "野田洋次郎"
+        }
+      ],
+      "detailPath": "entities/songs/98023aac56abc1df.json"
+    },
+    {
+      "rank": 22302,
       "id": "e467da8016b6791d",
       "name": "GASSHOW",
       "secondary": "ワンフレーズ",
@@ -43,7 +77,7 @@
       "detailPath": "entities/songs/e467da8016b6791d.json"
     },
     {
-      "rank": 22302,
+      "rank": 22303,
       "id": "5983d27dfa964620",
       "name": "GATE OF STEINER",
       "secondary": "『STEINS;GATE 0』佐々木恵梨",
@@ -77,7 +111,7 @@
       "detailPath": "entities/songs/5983d27dfa964620.json"
     },
     {
-      "rank": 22303,
+      "rank": 22304,
       "id": "ed9ad8f2e8554fef",
       "name": "Gather way",
       "secondary": "勇者エクスカイザー",
@@ -110,7 +144,7 @@
       "detailPath": "entities/songs/ed9ad8f2e8554fef.json"
     },
     {
-      "rank": 22304,
+      "rank": 22305,
       "id": "2ed443d31b858646",
       "name": "Gawr Gura",
       "secondary": "REFLECT",
@@ -144,7 +178,7 @@
       "detailPath": "entities/songs/2ed443d31b858646.json"
     },
     {
-      "rank": 22305,
+      "rank": 22306,
       "id": "fc994a0900269dd2",
       "name": "GEDO",
       "secondary": "daraku",
@@ -177,7 +211,7 @@
       "detailPath": "entities/songs/fc994a0900269dd2.json"
     },
     {
-      "rank": 22306,
+      "rank": 22307,
       "id": "5b01f85379f07bf0",
       "name": "Gee",
       "secondary": "",
@@ -207,7 +241,7 @@
       "detailPath": "entities/songs/5b01f85379f07bf0.json"
     },
     {
-      "rank": 22307,
+      "rank": 22308,
       "id": "19f39afae4befcd1",
       "name": "Gee",
       "secondary": "Girls' Generation 소녀시대",
@@ -240,7 +274,7 @@
       "detailPath": "entities/songs/19f39afae4befcd1.json"
     },
     {
-      "rank": 22308,
+      "rank": 22309,
       "id": "a8f15ac6dd4a369a",
       "name": "Gekihaku",
       "secondary": "Reol",
@@ -274,7 +308,7 @@
       "detailPath": "entities/songs/a8f15ac6dd4a369a.json"
     },
     {
-      "rank": 22309,
+      "rank": 22310,
       "id": "be42aa4f0ab2b8be",
       "name": "GEKKA",
       "secondary": "オゾン",
@@ -307,7 +341,7 @@
       "detailPath": "entities/songs/be42aa4f0ab2b8be.json"
     },
     {
-      "rank": 22310,
+      "rank": 22311,
       "id": "547d41f53d4054b2",
       "name": "gem: 透華レミちゃん",
       "secondary": "",
@@ -337,7 +371,7 @@
       "detailPath": "entities/songs/547d41f53d4054b2.json"
     },
     {
-      "rank": 22311,
+      "rank": 22312,
       "id": "3dd0db43009a72cc",
       "name": "Geminids",
       "secondary": "ChroNoiR",
@@ -370,7 +404,7 @@
       "detailPath": "entities/songs/3dd0db43009a72cc.json"
     },
     {
-      "rank": 22312,
+      "rank": 22313,
       "id": "b9650186e69900ff",
       "name": "GEMN",
       "secondary": "Fatal",
@@ -403,7 +437,7 @@
       "detailPath": "entities/songs/b9650186e69900ff.json"
     },
     {
-      "rank": 22313,
+      "rank": 22314,
       "id": "2af32a5298302d6b",
       "name": "Genesisu×Revolution",
       "secondary": "未記載",
@@ -436,7 +470,7 @@
       "detailPath": "entities/songs/2af32a5298302d6b.json"
     },
     {
-      "rank": 22314,
+      "rank": 22315,
       "id": "b520b4df6491b977",
       "name": "Genie",
       "secondary": "Girls' Generation",
@@ -469,7 +503,7 @@
       "detailPath": "entities/songs/b520b4df6491b977.json"
     },
     {
-      "rank": 22315,
+      "rank": 22316,
       "id": "4c268f66023eb2e0",
       "name": "GENIE",
       "secondary": "少女時代",
@@ -502,7 +536,7 @@
       "detailPath": "entities/songs/4c268f66023eb2e0.json"
     },
     {
-      "rank": 22316,
+      "rank": 22317,
       "id": "07f0b51a4e3ddc2a",
       "name": "Genie In a Bottle",
       "secondary": "Christina Aguilera",
@@ -536,7 +570,7 @@
       "detailPath": "entities/songs/07f0b51a4e3ddc2a.json"
     },
     {
-      "rank": 22317,
+      "rank": 22318,
       "id": "1d8ea5292952fe46",
       "name": "GENTLE LAND",
       "secondary": "Echoes",
@@ -569,7 +603,7 @@
       "detailPath": "entities/songs/1d8ea5292952fe46.json"
     },
     {
-      "rank": 22318,
+      "rank": 22319,
       "id": "3f55a2a55b110275",
       "name": "Gerbera",
       "secondary": "",
@@ -602,7 +636,7 @@
       "detailPath": "entities/songs/3f55a2a55b110275.json"
     },
     {
-      "rank": 22319,
+      "rank": 22320,
       "id": "c63a765655aafe05",
       "name": "Gero",
       "secondary": "うどん",
@@ -635,7 +669,7 @@
       "detailPath": "entities/songs/c63a765655aafe05.json"
     },
     {
-      "rank": 22320,
+      "rank": 22321,
       "id": "129423eeedc6d321",
       "name": "Get along",
       "secondary": "未記載",
@@ -668,7 +702,7 @@
       "detailPath": "entities/songs/129423eeedc6d321.json"
     },
     {
-      "rank": 22321,
+      "rank": 22322,
       "id": "7aee982410e65d55",
       "name": "Get along",
       "secondary": "スレイヤーズ",
@@ -702,7 +736,7 @@
       "detailPath": "entities/songs/7aee982410e65d55.json"
     },
     {
-      "rank": 22322,
+      "rank": 22323,
       "id": "7b1f28f88f9fae90",
       "name": "Get along",
       "secondary": "林原めぐみ・奥井雅美 95.206",
@@ -732,7 +766,7 @@
       "detailPath": "entities/songs/7b1f28f88f9fae90.json"
     },
     {
-      "rank": 22323,
+      "rank": 22324,
       "id": "9069a995f93f6585",
       "name": "GET BACK",
       "secondary": "",
@@ -765,7 +799,7 @@
       "detailPath": "entities/songs/9069a995f93f6585.json"
     },
     {
-      "rank": 22324,
+      "rank": 22325,
       "id": "660354a0c1d64710",
       "name": "GET BACK",
       "secondary": "水樹奈々",
@@ -798,7 +832,7 @@
       "detailPath": "entities/songs/660354a0c1d64710.json"
     },
     {
-      "rank": 22325,
+      "rank": 22326,
       "id": "b0ec2a7de86764a1",
       "name": "GET BACK IN LOVE",
       "secondary": "山下達郎",
@@ -831,7 +865,7 @@
       "detailPath": "entities/songs/b0ec2a7de86764a1.json"
     },
     {
-      "rank": 22326,
+      "rank": 22327,
       "id": "10781f1750048b0d",
       "name": "Get Happy",
       "secondary": "",
@@ -864,7 +898,7 @@
       "detailPath": "entities/songs/10781f1750048b0d.json"
     },
     {
-      "rank": 22327,
+      "rank": 22328,
       "id": "ee2311126729fa25",
       "name": "Get Into A Groove",
       "secondary": "Every Little Thing",
@@ -897,7 +931,7 @@
       "detailPath": "entities/songs/ee2311126729fa25.json"
     },
     {
-      "rank": 22328,
+      "rank": 22329,
       "id": "3442fd55711d5464",
       "name": "Get it on ～光速クライmax",
       "secondary": "シェリル•ノーム(May’n)",
@@ -931,7 +965,7 @@
       "detailPath": "entities/songs/3442fd55711d5464.json"
     },
     {
-      "rank": 22329,
+      "rank": 22330,
       "id": "841dfbefd6200188",
       "name": "Get it on〜光速クライmax",
       "secondary": "シェリル・ノーム starring May'n & ランカ・リー＝中島愛",
@@ -964,7 +998,7 @@
       "detailPath": "entities/songs/841dfbefd6200188.json"
     },
     {
-      "rank": 22330,
+      "rank": 22331,
       "id": "15d8aac2074b9c83",
       "name": "GET IT!",
       "secondary": "MIQ (Combat Mecha Xabungle ED)",
@@ -997,7 +1031,7 @@
       "detailPath": "entities/songs/15d8aac2074b9c83.json"
     },
     {
-      "rank": 22331,
+      "rank": 22332,
       "id": "629752be28228914",
       "name": "Get music!",
       "secondary": "蓮城寺べる cv. 戸松遥 ※JOYSOUND",
@@ -1030,7 +1064,7 @@
       "detailPath": "entities/songs/629752be28228914.json"
     },
     {
-      "rank": 22332,
+      "rank": 22333,
       "id": "ad3685b09714c247",
       "name": "Get music!",
       "secondary": "蓮城寺べる(戸松遥)",
@@ -1063,7 +1097,7 @@
       "detailPath": "entities/songs/ad3685b09714c247.json"
     },
     {
-      "rank": 22333,
+      "rank": 22334,
       "id": "edeac510f30faf08",
       "name": "Get over",
       "secondary": "",
@@ -1093,7 +1127,7 @@
       "detailPath": "entities/songs/edeac510f30faf08.json"
     },
     {
-      "rank": 22334,
+      "rank": 22335,
       "id": "8d9076b83e410803",
       "name": "Get Over",
       "secondary": "ヒカルの碁",
@@ -1126,7 +1160,7 @@
       "detailPath": "entities/songs/8d9076b83e410803.json"
     },
     {
-      "rank": 22335,
+      "rank": 22336,
       "id": "40180fbeed9f1bc9",
       "name": "Get Over",
       "secondary": "露絲",
@@ -1156,7 +1190,7 @@
       "detailPath": "entities/songs/40180fbeed9f1bc9.json"
     },
     {
-      "rank": 22336,
+      "rank": 22337,
       "id": "a8bce870e61181fe",
       "name": "Get Over",
       "secondary": "初見",
@@ -1186,7 +1220,7 @@
       "detailPath": "entities/songs/a8bce870e61181fe.json"
     },
     {
-      "rank": 22337,
+      "rank": 22338,
       "id": "2b9cc684a6556f70",
       "name": "get the regret over",
       "secondary": "未記載",
@@ -1220,7 +1254,7 @@
       "detailPath": "entities/songs/2b9cc684a6556f70.json"
     },
     {
-      "rank": 22338,
+      "rank": 22339,
       "id": "d0046dc60fbaf2f9",
       "name": "Get U're Dream",
       "secondary": "",
@@ -1250,7 +1284,7 @@
       "detailPath": "entities/songs/d0046dc60fbaf2f9.json"
     },
     {
-      "rank": 22339,
+      "rank": 22340,
       "id": "cb3075b3319d367c",
       "name": "Get Wild",
       "secondary": "未記載",
@@ -1282,7 +1316,7 @@
       "detailPath": "entities/songs/cb3075b3319d367c.json"
     },
     {
-      "rank": 22340,
+      "rank": 22341,
       "id": "6cd08b189a913ad7",
       "name": "Get Wild",
       "secondary": "TM NETWORK(TMN) ※JOYSOUND",
@@ -1315,7 +1349,7 @@
       "detailPath": "entities/songs/6cd08b189a913ad7.json"
     },
     {
-      "rank": 22341,
+      "rank": 22342,
       "id": "5cec7b4823925bbc",
       "name": "Get Wild",
       "secondary": "シティーハンター CITY HUNTER",
@@ -1348,7 +1382,7 @@
       "detailPath": "entities/songs/5cec7b4823925bbc.json"
     },
     {
-      "rank": 22342,
+      "rank": 22343,
       "id": "dd739eaf13c39aed",
       "name": "Get Wild",
       "secondary": "1987年",
@@ -1381,7 +1415,7 @@
       "detailPath": "entities/songs/dd739eaf13c39aed.json"
     },
     {
-      "rank": 22343,
+      "rank": 22344,
       "id": "da88981215582650",
       "name": "GET WILD",
       "secondary": "TMN",
@@ -1414,7 +1448,7 @@
       "detailPath": "entities/songs/da88981215582650.json"
     },
     {
-      "rank": 22344,
+      "rank": 22345,
       "id": "2af87b51bc4e3b7a",
       "name": "Get Wild (+3)",
       "secondary": "TM NETWORK",
@@ -1448,7 +1482,7 @@
       "detailPath": "entities/songs/2af87b51bc4e3b7a.json"
     },
     {
-      "rank": 22345,
+      "rank": 22346,
       "id": "3c1477005ef06c01",
       "name": "Get Wild ✻1サビまで",
       "secondary": "",
@@ -1481,7 +1515,7 @@
       "detailPath": "entities/songs/3c1477005ef06c01.json"
     },
     {
-      "rank": 22346,
+      "rank": 22347,
       "id": "52fd39a367908b44",
       "name": "GETCHA!",
       "secondary": "Giga & KIRA ft. Hatsune Miku & GUMI",
@@ -1514,7 +1548,7 @@
       "detailPath": "entities/songs/52fd39a367908b44.json"
     },
     {
-      "rank": 22347,
+      "rank": 22348,
       "id": "f68ede45485e3b92",
       "name": "GETCHA!",
       "secondary": "Giga & KIRA feat. 初音ミク",
@@ -1544,7 +1578,7 @@
       "detailPath": "entities/songs/f68ede45485e3b92.json"
     },
     {
-      "rank": 22348,
+      "rank": 22349,
       "id": "5925961ef956dd4b",
       "name": "Getter Robo Armageddon OP",
       "secondary": "Ima ga Sono Toki da",
@@ -1578,7 +1612,7 @@
       "detailPath": "entities/songs/5925961ef956dd4b.json"
     },
     {
-      "rank": 22349,
+      "rank": 22350,
       "id": "c52ed8953c4c5b94",
       "name": "Getチュー!",
       "secondary": "AAA",
@@ -1610,39 +1644,6 @@
         }
       ],
       "detailPath": "entities/songs/c52ed8953c4c5b94.json"
-    },
-    {
-      "rank": 22350,
-      "id": "cb89a781496ffc41",
-      "name": "ggrks-ググれカス",
-      "secondary": "あー民P feat. 巡音ルカ × 神威がくぽ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "e0ZIYN7WDEg",
-          "videoTitle": "【#歌枠 & 雑談】９月もよろしくね【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
-          "channelName": "ブランク・ウリカ - Blanc Ulica -",
-          "publishedAt": "2026-09-01T20:29:48.774Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/e0ZIYN7WDEg/hqdefault.jpg",
-          "sourcePath": "sources/e0/e0ZIYN7WDEg.json",
-          "time": "0:36:51",
-          "seconds": 2211,
-          "songTitle": "ggrks-ググれカス",
-          "artist": "あー民P feat. 巡音ルカ × 神威がくぽ"
-        }
-      ],
-      "detailPath": "entities/songs/cb89a781496ffc41.json"
     }
   ]
 }

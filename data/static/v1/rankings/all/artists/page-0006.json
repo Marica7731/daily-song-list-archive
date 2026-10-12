@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "artists",
   "page": 6,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20003,
+  "totalCount": 20007,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -991,6 +991,67 @@
     },
     {
       "rank": 267,
+      "id": "58fff61b773e636b",
+      "name": "童謡",
+      "secondary": "",
+      "channelId": "UCxOTQ01cBN86_QX3jbNnW7g",
+      "channelHandle": "@KomaiUme",
+      "channelUrl": "",
+      "occurrenceCount": 111,
+      "videoCount": 78,
+      "songCount": 52,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "1:42:36",
+          "seconds": 6156,
+          "songTitle": "手のひらを太陽に",
+          "artist": "童謡"
+        },
+        {
+          "videoId": "kf5dww87ouA",
+          "videoTitle": "【 #歌枠 / KARAOKE 】リベンジ！同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
+          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
+          "publishedAt": "2026-10-12T02:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kf5dww87ouA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3EvtAI3lYUDHH4BYnF4HRZnwRlg",
+          "sourcePath": "sources/kf/kf5dww87ouA.json",
+          "time": "1:09:58",
+          "seconds": 4198,
+          "songTitle": "むすんでひらいて",
+          "artist": "童謡"
+        },
+        {
+          "videoId": "zsoT-lQqmvk",
+          "videoTitle": "【 #歌枠 / KARAOKE 】4時間以内に同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
+          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
+          "publishedAt": "2026-10-10T01:21:46.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zsoT-lQqmvk/hqdefault.jpg",
+          "sourcePath": "sources/zs/zsoT-lQqmvk.json",
+          "time": "0:57:36",
+          "seconds": 3456,
+          "songTitle": "ジングルベル",
+          "artist": "童謡"
+        }
+      ],
+      "detailPath": "entities/artists/58fff61b773e636b.json"
+    },
+    {
+      "rank": 268,
       "id": "a991426ba17be32b",
       "name": "メル",
       "secondary": "",
@@ -1052,7 +1113,7 @@
       "detailPath": "entities/artists/a991426ba17be32b.json"
     },
     {
-      "rank": 268,
+      "rank": 269,
       "id": "0767e561ef9e0fd5",
       "name": "samfree",
       "secondary": "",
@@ -1113,7 +1174,7 @@
       "detailPath": "entities/artists/0767e561ef9e0fd5.json"
     },
     {
-      "rank": 269,
+      "rank": 270,
       "id": "8d63fa73a6d8c468",
       "name": "Girls Dead Monster",
       "secondary": "",
@@ -1173,67 +1234,6 @@
         }
       ],
       "detailPath": "entities/artists/8d63fa73a6d8c468.json"
-    },
-    {
-      "rank": 270,
-      "id": "58fff61b773e636b",
-      "name": "童謡",
-      "secondary": "",
-      "channelId": "UCxOTQ01cBN86_QX3jbNnW7g",
-      "channelHandle": "@KomaiUme",
-      "channelUrl": "",
-      "occurrenceCount": 110,
-      "videoCount": 77,
-      "songCount": 52,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iRuynqpvJL0",
-          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-12T09:45:02.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
-          "sourcePath": "sources/iR/iRuynqpvJL0.json",
-          "time": "1:42:36",
-          "seconds": 6156,
-          "songTitle": "手のひらを太陽に",
-          "artist": "童謡"
-        },
-        {
-          "videoId": "kf5dww87ouA",
-          "videoTitle": "【 #歌枠 / KARAOKE 】リベンジ！同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
-          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
-          "publishedAt": "2026-10-12T02:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kf5dww87ouA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3EvtAI3lYUDHH4BYnF4HRZnwRlg",
-          "sourcePath": "sources/kf/kf5dww87ouA.json",
-          "time": "1:09:58",
-          "seconds": 4198,
-          "songTitle": "むすんでひらいて",
-          "artist": "童謡"
-        },
-        {
-          "videoId": "zsoT-lQqmvk",
-          "videoTitle": "【 #歌枠 / KARAOKE 】4時間以内に同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
-          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
-          "publishedAt": "2026-10-10T01:21:46.516Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zsoT-lQqmvk/hqdefault.jpg",
-          "sourcePath": "sources/zs/zsoT-lQqmvk.json",
-          "time": "0:57:36",
-          "seconds": 3456,
-          "songTitle": "ジングルベル",
-          "artist": "童謡"
-        }
-      ],
-      "detailPath": "entities/artists/58fff61b773e636b.json"
     },
     {
       "rank": 271,
@@ -2832,6 +2832,66 @@
     },
     {
       "rank": 297,
+      "id": "1c55d5dc348d759d",
+      "name": "CV:夏川椎菜",
+      "secondary": "",
+      "channelId": "UCPUi4e7wnbhFdjsm3KqD3KA",
+      "channelHandle": "@kanade_awayuki",
+      "channelUrl": "",
+      "occurrenceCount": 98,
+      "videoCount": 97,
+      "songCount": 8,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iDGVdICW4xc",
+          "videoTitle": "【歌枠 / 縦型配信】酒飲みながら歌っても練習になる…よね？🎤スマホ視聴おすすめ！縦型歌枠🍺 #shorts【個人Vtuber / 初見さん大歓迎！】",
+          "channelName": "華鏡よさり・Kakyo Yosari CHANNEL",
+          "publishedAt": "2026-10-05T14:36:18.264Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iDGVdICW4xc/hqdefault.jpg",
+          "sourcePath": "sources/iD/iDGVdICW4xc.json",
+          "time": "1:02:54",
+          "seconds": 3774,
+          "songTitle": "ファンサ",
+          "artist": "cv:夏川椎菜"
+        },
+        {
+          "videoId": "iVoC8JZzWy0",
+          "videoTitle": "🔴【 #歌枠 / #karaoke 】歌うぞおおおおおおおお✨【#小花衣ひな/Vtuber】",
+          "channelName": "小花衣ひな / Kohanai Hina",
+          "publishedAt": "2026-10-04T14:18:24.935Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iVoC8JZzWy0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvYTqg_aG--EDfDEgfrzy55OKy0w",
+          "sourcePath": "sources/iV/iVoC8JZzWy0.json",
+          "time": "1:12:06",
+          "seconds": 4326,
+          "songTitle": "ファンサ",
+          "artist": "CV:夏川椎菜"
+        },
+        {
+          "videoId": "LF8AHhCKa1E",
+          "videoTitle": "【 #歌枠 #karaoke 】うたう～～【#Vtuber #家猫ミア】",
+          "channelName": "家猫ミア - ieneko mia -",
+          "publishedAt": "2026-10-04T08:36:05.391Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LF8AHhCKa1E/hqdefault.jpg",
+          "sourcePath": "sources/LF/LF8AHhCKa1E.json",
+          "time": "0:40:03",
+          "seconds": 2403,
+          "songTitle": "ファンサ",
+          "artist": "CV:夏川椎菜"
+        }
+      ],
+      "detailPath": "entities/artists/1c55d5dc348d759d.json"
+    },
+    {
+      "rank": 298,
       "id": "90634b543530b290",
       "name": "安全地帯",
       "secondary": "",
@@ -2890,66 +2950,6 @@
         }
       ],
       "detailPath": "entities/artists/90634b543530b290.json"
-    },
-    {
-      "rank": 298,
-      "id": "1c55d5dc348d759d",
-      "name": "CV:夏川椎菜",
-      "secondary": "",
-      "channelId": "UCPUi4e7wnbhFdjsm3KqD3KA",
-      "channelHandle": "@kanade_awayuki",
-      "channelUrl": "",
-      "occurrenceCount": 97,
-      "videoCount": 96,
-      "songCount": 8,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iDGVdICW4xc",
-          "videoTitle": "【歌枠 / 縦型配信】酒飲みながら歌っても練習になる…よね？🎤スマホ視聴おすすめ！縦型歌枠🍺 #shorts【個人Vtuber / 初見さん大歓迎！】",
-          "channelName": "華鏡よさり・Kakyo Yosari CHANNEL",
-          "publishedAt": "2026-10-05T14:36:18.264Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iDGVdICW4xc/hqdefault.jpg",
-          "sourcePath": "sources/iD/iDGVdICW4xc.json",
-          "time": "1:02:54",
-          "seconds": 3774,
-          "songTitle": "ファンサ",
-          "artist": "cv:夏川椎菜"
-        },
-        {
-          "videoId": "LF8AHhCKa1E",
-          "videoTitle": "【 #歌枠 #karaoke 】うたう～～【#Vtuber #家猫ミア】",
-          "channelName": "家猫ミア - ieneko mia -",
-          "publishedAt": "2026-10-04T08:36:05.391Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LF8AHhCKa1E/hqdefault.jpg",
-          "sourcePath": "sources/LF/LF8AHhCKa1E.json",
-          "time": "0:40:03",
-          "seconds": 2403,
-          "songTitle": "ファンサ",
-          "artist": "CV:夏川椎菜"
-        },
-        {
-          "videoId": "qRcC2E7BKGI",
-          "videoTitle": "【#歌枠 】ゲリラ歌雑枠だよ～〔#新人VTuber〕",
-          "channelName": "叶和みう🐾💙noir mew",
-          "publishedAt": "2026-10-04T04:11:03.733Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qRcC2E7BKGI/hqdefault.jpg",
-          "sourcePath": "sources/qR/qRcC2E7BKGI.json",
-          "time": "0:31:47",
-          "seconds": 1907,
-          "songTitle": "ファンサ",
-          "artist": "CV:夏川椎菜"
-        }
-      ],
-      "detailPath": "entities/artists/1c55d5dc348d759d.json"
     },
     {
       "rank": 299,

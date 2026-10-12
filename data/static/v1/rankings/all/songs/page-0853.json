@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 853,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 42601,
+      "id": "f4d3e01c8f14675a",
+      "name": "開演日時",
+      "secondary": "",
+      "channelId": "UCxldqmf9Sg1MnjaPXlrLVEw",
+      "channelHandle": "@aine_emi",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "eFDrwh_BP8o",
+          "videoTitle": "【#縦型歌枠/#karaoke】華金だああああああ 【愛音えみ/#VTuber 】#shorts",
+          "channelName": "愛音えみ / Aine Emi",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/eFDrwh_BP8o/hqdefault.jpg",
+          "sourcePath": "sources/eF/eFDrwh_BP8o.json",
+          "time": "0:12:00",
+          "seconds": 720,
+          "songTitle": "開演日時",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/f4d3e01c8f14675a.json"
+    },
+    {
+      "rank": 42602,
+      "id": "c688b37f741e895c",
+      "name": "開会式 TanZ枠",
+      "secondary": "",
+      "channelId": "UCYADafT8oPKTdD7E9SrsuwA",
+      "channelHandle": "@TanZ1001",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "SyCk8s-8eEg",
+          "videoTitle": "【#Joinus0913 】開会式！歌うまが集う歌枠リレーだ！【#TanZ 】",
+          "channelName": "TanZ",
+          "publishedAt": "2026-09-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SyCk8s-8eEg/hqdefault.jpg",
+          "sourcePath": "sources/Sy/SyCk8s-8eEg.json",
+          "time": "0:20:30",
+          "seconds": 1230,
+          "songTitle": "開会式 TanZ枠",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/c688b37f741e895c.json"
+    },
+    {
+      "rank": 42603,
       "id": "c58c922940b076aa",
       "name": "開会式＆オマル・ド・ボンヌ",
       "secondary": "",
@@ -40,7 +100,7 @@
       "detailPath": "entities/songs/c58c922940b076aa.json"
     },
     {
-      "rank": 42602,
+      "rank": 42604,
       "id": "882d4cf2b52b5aad",
       "name": "開会式の仮装裏話",
       "secondary": "化け猫＋アイドルという謎の組み合わせでみんなを混乱させたかったニコ太郎",
@@ -74,7 +134,7 @@
       "detailPath": "entities/songs/882d4cf2b52b5aad.json"
     },
     {
-      "rank": 42603,
+      "rank": 42605,
       "id": "95b6d8a4228c3bdb",
       "name": "開催日:2026/11",
       "secondary": "29 (日) 13:00 開演",
@@ -104,7 +164,7 @@
       "detailPath": "entities/songs/95b6d8a4228c3bdb.json"
     },
     {
-      "rank": 42604,
+      "rank": 42606,
       "id": "f667dc54545fa96f",
       "name": "開催日:2026/11",
       "secondary": "29 (日) 12:30 開演",
@@ -137,7 +197,7 @@
       "detailPath": "entities/songs/f667dc54545fa96f.json"
     },
     {
-      "rank": 42605,
+      "rank": 42607,
       "id": "71d6c2095e73f330",
       "name": "開始 0:6:55 ～Runner",
       "secondary": "爆風スランプ",
@@ -167,7 +227,7 @@
       "detailPath": "entities/songs/71d6c2095e73f330.json"
     },
     {
-      "rank": 42606,
+      "rank": 42608,
       "id": "53769754054c6012",
       "name": "開始懂了",
       "secondary": "孫燕姿",
@@ -200,7 +260,7 @@
       "detailPath": "entities/songs/53769754054c6012.json"
     },
     {
-      "rank": 42607,
+      "rank": 42609,
       "id": "1a57f7dbd4fb24c1",
       "name": "開場すぶたいき",
       "secondary": "",
@@ -233,7 +293,7 @@
       "detailPath": "entities/songs/1a57f7dbd4fb24c1.json"
     },
     {
-      "rank": 42608,
+      "rank": 42610,
       "id": "76560bfc9fa66cdc",
       "name": "開場日時",
       "secondary": "",
@@ -263,7 +323,7 @@
       "detailPath": "entities/songs/76560bfc9fa66cdc.json"
     },
     {
-      "rank": 42609,
+      "rank": 42611,
       "id": "6087a58e4ef7f627",
       "name": "開台",
       "secondary": "",
@@ -296,7 +356,7 @@
       "detailPath": "entities/songs/6087a58e4ef7f627.json"
     },
     {
-      "rank": 42610,
+      "rank": 42612,
       "id": "aaa32d9cf63fba5a",
       "name": "開到荼蘼",
       "secondary": "王菲(娜比)",
@@ -329,7 +389,7 @@
       "detailPath": "entities/songs/aaa32d9cf63fba5a.json"
     },
     {
-      "rank": 42611,
+      "rank": 42613,
       "id": "2a064accb9111cd9",
       "name": "開幕:NAGi",
       "secondary": "七星ナギ & 蕾雅・氷",
@@ -359,7 +419,7 @@
       "detailPath": "entities/songs/2a064accb9111cd9.json"
     },
     {
-      "rank": 42612,
+      "rank": 42614,
       "id": "67a8da7f87c09a71",
       "name": "開幕ひょっこりくゅ汰",
       "secondary": "",
@@ -392,7 +452,7 @@
       "detailPath": "entities/songs/67a8da7f87c09a71.json"
     },
     {
-      "rank": 42613,
+      "rank": 42615,
       "id": "65d516d74c8b7347",
       "name": "開門",
       "secondary": "",
@@ -422,7 +482,7 @@
       "detailPath": "entities/songs/65d516d74c8b7347.json"
     },
     {
-      "rank": 42614,
+      "rank": 42616,
       "id": "ce1ed493711fd3b8",
       "name": "外見と内面",
       "secondary": "すこっぷ feat. 初音ミク",
@@ -455,7 +515,7 @@
       "detailPath": "entities/songs/ce1ed493711fd3b8.json"
     },
     {
-      "rank": 42615,
+      "rank": 42617,
       "id": "48ca086dd22b98ad",
       "name": "外見と内面",
       "secondary": "すこっぷ",
@@ -488,7 +548,7 @@
       "detailPath": "entities/songs/48ca086dd22b98ad.json"
     },
     {
-      "rank": 42616,
+      "rank": 42618,
       "id": "5fea5d54f2619414",
       "name": "外道讃歌",
       "secondary": "FantasticYouth",
@@ -521,7 +581,7 @@
       "detailPath": "entities/songs/5fea5d54f2619414.json"
     },
     {
-      "rank": 42617,
+      "rank": 42619,
       "id": "d8ced9349b4a8298",
       "name": "外面的世界",
       "secondary": "莫文蔚",
@@ -554,7 +614,7 @@
       "detailPath": "entities/songs/d8ced9349b4a8298.json"
     },
     {
-      "rank": 42618,
+      "rank": 42620,
       "id": "05493700025d2bfc",
       "name": "崖の上のポニョ",
       "secondary": "未記載",
@@ -588,7 +648,7 @@
       "detailPath": "entities/songs/05493700025d2bfc.json"
     },
     {
-      "rank": 42619,
+      "rank": 42621,
       "id": "c3f20166ecec259b",
       "name": "崖の上のポニョ",
       "secondary": "藤岡藤巻と大橋のぞみ (2008年 / 平成20年)",
@@ -621,7 +681,7 @@
       "detailPath": "entities/songs/c3f20166ecec259b.json"
     },
     {
-      "rank": 42620,
+      "rank": 42622,
       "id": "387e9bd82e61e045",
       "name": "崖の上のポニョ",
       "secondary": "久石譲",
@@ -654,7 +714,7 @@
       "detailPath": "entities/songs/387e9bd82e61e045.json"
     },
     {
-      "rank": 42621,
+      "rank": 42623,
       "id": "4df84ae584d4df54",
       "name": "崖の上のポニョ/崖の上のポニョ",
       "secondary": "藤岡藤巻と大橋のぞみ",
@@ -684,7 +744,7 @@
       "detailPath": "entities/songs/4df84ae584d4df54.json"
     },
     {
-      "rank": 42622,
+      "rank": 42624,
       "id": "047e019983900707",
       "name": "概念ロリ",
       "secondary": "",
@@ -717,7 +777,7 @@
       "detailPath": "entities/songs/047e019983900707.json"
     },
     {
-      "rank": 42623,
+      "rank": 42625,
       "id": "68da37e04325ddd0",
       "name": "蓋開け",
       "secondary": "",
@@ -747,7 +807,7 @@
       "detailPath": "entities/songs/68da37e04325ddd0.json"
     },
     {
-      "rank": 42624,
+      "rank": 42626,
       "id": "13cd02b4d731ada3",
       "name": "街",
       "secondary": "",
@@ -780,7 +840,7 @@
       "detailPath": "entities/songs/13cd02b4d731ada3.json"
     },
     {
-      "rank": 42625,
+      "rank": 42627,
       "id": "dce20f986088ae43",
       "name": "街",
       "secondary": "SOPHIA",
@@ -813,7 +873,7 @@
       "detailPath": "entities/songs/dce20f986088ae43.json"
     },
     {
-      "rank": 42626,
+      "rank": 42628,
       "id": "0060992d87d451c3",
       "name": "街",
       "secondary": "jon-YAKITORY",
@@ -846,7 +906,7 @@
       "detailPath": "entities/songs/0060992d87d451c3.json"
     },
     {
-      "rank": 42627,
+      "rank": 42629,
       "id": "b25d1d7f016e33bc",
       "name": "街の風景",
       "secondary": "尾崎豊",
@@ -879,7 +939,7 @@
       "detailPath": "entities/songs/b25d1d7f016e33bc.json"
     },
     {
-      "rank": 42628,
+      "rank": 42630,
       "id": "de869ba9c5203bbd",
       "name": "街灯",
       "secondary": "sea-no feat. 初音ミク",
@@ -912,7 +972,7 @@
       "detailPath": "entities/songs/de869ba9c5203bbd.json"
     },
     {
-      "rank": 42629,
+      "rank": 42631,
       "id": "5201e3dab0027ae4",
       "name": "街灯",
       "secondary": "BE:FIRST",
@@ -945,7 +1005,7 @@
       "detailPath": "entities/songs/5201e3dab0027ae4.json"
     },
     {
-      "rank": 42630,
+      "rank": 42632,
       "id": "2cd804d83e07503d",
       "name": "骸Attack!!",
       "secondary": "鬱P",
@@ -978,7 +1038,7 @@
       "detailPath": "entities/songs/2cd804d83e07503d.json"
     },
     {
-      "rank": 42631,
+      "rank": 42633,
       "id": "31130a4b2c496769",
       "name": "骸リノア さん",
       "secondary": "",
@@ -1011,7 +1071,7 @@
       "detailPath": "entities/songs/31130a4b2c496769.json"
     },
     {
-      "rank": 42632,
+      "rank": 42634,
       "id": "29272171ebdcd820",
       "name": "骸骨楽団とリリア",
       "secondary": "",
@@ -1041,7 +1101,7 @@
       "detailPath": "entities/songs/29272171ebdcd820.json"
     },
     {
-      "rank": 42633,
+      "rank": 42635,
       "id": "a83cb6ede609f289",
       "name": "蛙-Kawazu",
       "secondary": "キズ",
@@ -1074,7 +1134,7 @@
       "detailPath": "entities/songs/a83cb6ede609f289.json"
     },
     {
-      "rank": 42634,
+      "rank": 42636,
       "id": "f6a203e2d4a10930",
       "name": "蛙化現象に悩んでる女の子の話",
       "secondary": "りりあ。",
@@ -1107,7 +1167,7 @@
       "detailPath": "entities/songs/f6a203e2d4a10930.json"
     },
     {
-      "rank": 42635,
+      "rank": 42637,
       "id": "2425cb37c3e2a967",
       "name": "各駅停車",
       "secondary": "末代雨季。",
@@ -1137,7 +1197,7 @@
       "detailPath": "entities/songs/2425cb37c3e2a967.json"
     },
     {
-      "rank": 42636,
+      "rank": 42638,
       "id": "f43ebd1d66be2177",
       "name": "各駅停車（オリジナル）",
       "secondary": "",
@@ -1167,7 +1227,7 @@
       "detailPath": "entities/songs/f43ebd1d66be2177.json"
     },
     {
-      "rank": 42637,
+      "rank": 42639,
       "id": "d64f85fb0361e4c4",
       "name": "格好悪いふられ方",
       "secondary": "大江千里",
@@ -1200,7 +1260,7 @@
       "detailPath": "entities/songs/d64f85fb0361e4c4.json"
     },
     {
-      "rank": 42638,
+      "rank": 42640,
       "id": "ecd701b8bc741921",
       "name": "格好悪い振られ方",
       "secondary": "大江千里",
@@ -1234,7 +1294,7 @@
       "detailPath": "entities/songs/ecd701b8bc741921.json"
     },
     {
-      "rank": 42639,
+      "rank": 42641,
       "id": "c22cc2bf31bd8b2b",
       "name": "格子の心臓(ワンコーラス)",
       "secondary": "",
@@ -1264,7 +1324,7 @@
       "detailPath": "entities/songs/c22cc2bf31bd8b2b.json"
     },
     {
-      "rank": 42640,
+      "rank": 42642,
       "id": "2fbd295a37e10f8f",
       "name": "確かめに行こう",
       "secondary": "the pillows",
@@ -1297,7 +1357,7 @@
       "detailPath": "entities/songs/2fbd295a37e10f8f.json"
     },
     {
-      "rank": 42641,
+      "rank": 42643,
       "id": "fcd32e3e84b5be40",
       "name": "確認用へかへかはんきゅ",
       "secondary": "未記載",
@@ -1331,7 +1391,7 @@
       "detailPath": "entities/songs/fcd32e3e84b5be40.json"
     },
     {
-      "rank": 42642,
+      "rank": 42644,
       "id": "623c26bf574f7c4a",
       "name": "確認用わあわあわあび",
       "secondary": "未記載",
@@ -1365,7 +1425,7 @@
       "detailPath": "entities/songs/623c26bf574f7c4a.json"
     },
     {
-      "rank": 42643,
+      "rank": 42645,
       "id": "f6f10abba708f53d",
       "name": "覚えてる、ずうっと",
       "secondary": "圧",
@@ -1399,7 +1459,7 @@
       "detailPath": "entities/songs/f6f10abba708f53d.json"
     },
     {
-      "rank": 42644,
+      "rank": 42646,
       "id": "3af48e7c7a6294a9",
       "name": "覚醒.exe",
       "secondary": "",
@@ -1432,7 +1492,7 @@
       "detailPath": "entities/songs/3af48e7c7a6294a9.json"
     },
     {
-      "rank": 42645,
+      "rank": 42647,
       "id": "d1222e56971850f8",
       "name": "覚醒.exe",
       "secondary": "アカペラで1番サビだけ",
@@ -1465,7 +1525,7 @@
       "detailPath": "entities/songs/d1222e56971850f8.json"
     },
     {
-      "rank": 42646,
+      "rank": 42648,
       "id": "4db115fc6b7c1819",
       "name": "覚醒ヒロイズム",
       "secondary": "アンティック-珈琲店",
@@ -1498,7 +1558,7 @@
       "detailPath": "entities/songs/4db115fc6b7c1819.json"
     },
     {
-      "rank": 42647,
+      "rank": 42649,
       "id": "7c8ca9450ea2beb1",
       "name": "覚醒ヒロイズム〜THE HERO WITHOUT A \"NAME\"〜",
       "secondary": "アンティック-珈琲店-（アニメ『DARKER THAN BLACK -黒の契約者-』OP）",
@@ -1531,7 +1591,7 @@
       "detailPath": "entities/songs/7c8ca9450ea2beb1.json"
     },
     {
-      "rank": 42648,
+      "rank": 42650,
       "id": "89bd3ba962ebcbef",
       "name": "覚醒都市",
       "secondary": "新居昭乃",
@@ -1562,70 +1622,6 @@
         }
       ],
       "detailPath": "entities/songs/89bd3ba962ebcbef.json"
-    },
-    {
-      "rank": 42649,
-      "id": "8ff3b4ed369716b4",
-      "name": "角巻わため",
-      "secondary": "My song",
-      "channelId": "UCx3FdASxZpgILDwDv7MQYRg",
-      "channelHandle": "@%E7%90%A5%E7%8F%80%E3%81%B2%E3%81%AA%E3%81%9F",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "_J0SGidATzY",
-          "videoTitle": "【歌枠】ホロライブさんの楽曲をたくさん歌うよ🔥目指せ同接＆登録１００人🔥 #琥珀ひなた #shorts",
-          "channelName": "琥珀ひなた",
-          "publishedAt": "2026-08-08T20:35:43.884Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_J0SGidATzY/hqdefault.jpg",
-          "sourcePath": "sources/_J/_J0SGidATzY.json",
-          "time": "3:39:28",
-          "seconds": 13168,
-          "songTitle": "角巻わため",
-          "artist": "My song"
-        }
-      ],
-      "detailPath": "entities/songs/8ff3b4ed369716b4.json"
-    },
-    {
-      "rank": 42650,
-      "id": "41bc6a60dfa852bc",
-      "name": "角川ザ・テレビジョンのロゴ",
-      "secondary": "茂木由多加",
-      "channelId": "UCTuQJgsFOC5-QuQ7fgdSO7w",
-      "channelHandle": "@%E9%88%B4%E7%8C%AB%E3%81%A4%E3%81%AA",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "tRMFS1VUUYI",
-          "videoTitle": "【#歌枠】金曜定期歌枠🐾｜作業用BGMに🎧｜聞き専OK・コメント自由◎縦横同時配信中🐾【#鈴猫つな】【#個人Vtuber】【カラオケJOYSOUND for STREAMER】",
-          "channelName": "[つなCh.]鈴猫 つな",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tRMFS1VUUYI/hqdefault.jpg",
-          "sourcePath": "sources/tR/tRMFS1VUUYI.json",
-          "time": "0:45:32",
-          "seconds": 2732,
-          "songTitle": "角川ザ・テレビジョンのロゴ",
-          "artist": "茂木由多加"
-        }
-      ],
-      "detailPath": "entities/songs/41bc6a60dfa852bc.json"
     }
   ]
 }

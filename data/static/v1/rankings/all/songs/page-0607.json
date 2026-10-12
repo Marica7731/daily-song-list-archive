@@ -1,16 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 607,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 30301,
+      "id": "ae464c1a591c1554",
+      "name": "あったかいんだからぁ♪（少し）",
+      "secondary": "クマムシ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "QMXZVzzR4kg",
+          "videoTitle": "【#歌枠 |弾き語り】夏休み最後に何をするか考えつつしっとり歌うよ～￤澄花 / ぷろぶる",
+          "channelName": "-sumica-澄花",
+          "publishedAt": "2026-09-03T15:27:51.351Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QMXZVzzR4kg/hqdefault.jpg",
+          "sourcePath": "sources/QM/QMXZVzzR4kg.json",
+          "time": "2:27:29",
+          "seconds": 8849,
+          "songTitle": "あったかいんだからぁ♪（少し）",
+          "artist": "クマムシ"
+        }
+      ],
+      "detailPath": "entities/songs/ae464c1a591c1554.json"
+    },
+    {
+      "rank": 30302,
       "id": "60b0a3930f6b9f45",
       "name": "あっちもこっちも",
       "secondary": "バーバパパ",
@@ -40,7 +74,7 @@
       "detailPath": "entities/songs/60b0a3930f6b9f45.json"
     },
     {
-      "rank": 30302,
+      "rank": 30303,
       "id": "99408919a639585d",
       "name": "アップデート",
       "secondary": "miwa🌟事前リク曲",
@@ -73,7 +107,7 @@
       "detailPath": "entities/songs/99408919a639585d.json"
     },
     {
-      "rank": 30303,
+      "rank": 30304,
       "id": "bebb8478a3234175",
       "name": "アップデート",
       "secondary": "Miwa",
@@ -106,7 +140,7 @@
       "detailPath": "entities/songs/bebb8478a3234175.json"
     },
     {
-      "rank": 30304,
+      "rank": 30305,
       "id": "ed041456d4cbf47f",
       "name": "アップルパイ・プリンセス",
       "secondary": "十時愛梨(原田ひとみ)",
@@ -139,7 +173,7 @@
       "detailPath": "entities/songs/ed041456d4cbf47f.json"
     },
     {
-      "rank": 30305,
+      "rank": 30306,
       "id": "3775af68fa825828",
       "name": "アップルパイ・プリンセス",
       "secondary": "十時愛梨(CV:原田ひとみ)",
@@ -172,7 +206,7 @@
       "detailPath": "entities/songs/3775af68fa825828.json"
     },
     {
-      "rank": 30306,
+      "rank": 30307,
       "id": "60415cb230a13c05",
       "name": "あつまれ！パーティピーポー",
       "secondary": "ヤバイTシャツ屋さん",
@@ -205,7 +239,7 @@
       "detailPath": "entities/songs/60415cb230a13c05.json"
     },
     {
-      "rank": 30307,
+      "rank": 30308,
       "id": "9308448aaee31248",
       "name": "アディショナルメモリー",
       "secondary": "未記載",
@@ -237,7 +271,7 @@
       "detailPath": "entities/songs/9308448aaee31248.json"
     },
     {
-      "rank": 30308,
+      "rank": 30309,
       "id": "2c1171fb9c00e5b6",
       "name": "アディショナルメモリー",
       "secondary": "じん,ぐっしー,魚 feat. 初音ミク",
@@ -271,7 +305,7 @@
       "detailPath": "entities/songs/2c1171fb9c00e5b6.json"
     },
     {
-      "rank": 30309,
+      "rank": 30310,
       "id": "11e63e494cdaf8da",
       "name": "アディショナルメモリー",
       "secondary": "じん（自然の敵P） feat. 初音ミク",
@@ -305,7 +339,7 @@
       "detailPath": "entities/songs/11e63e494cdaf8da.json"
     },
     {
-      "rank": 30310,
+      "rank": 30311,
       "id": "428761f50fb0bb44",
       "name": "アディショナルメモリー",
       "secondary": "",
@@ -338,7 +372,7 @@
       "detailPath": "entities/songs/428761f50fb0bb44.json"
     },
     {
-      "rank": 30311,
+      "rank": 30312,
       "id": "25d6de62a1da15cb",
       "name": "アディショナルメモリー 初音ミク",
       "secondary": "じん",
@@ -371,7 +405,7 @@
       "detailPath": "entities/songs/25d6de62a1da15cb.json"
     },
     {
-      "rank": 30312,
+      "rank": 30313,
       "id": "125fe365c49085ec",
       "name": "あと2曲ぐらい",
       "secondary": "",
@@ -401,7 +435,7 @@
       "detailPath": "entities/songs/125fe365c49085ec.json"
     },
     {
-      "rank": 30313,
+      "rank": 30314,
       "id": "2e85e48f800ab218",
       "name": "あとがき",
       "secondary": "遥紅いも",
@@ -434,7 +468,7 @@
       "detailPath": "entities/songs/2e85e48f800ab218.json"
     },
     {
-      "rank": 30314,
+      "rank": 30315,
       "id": "c85b8a2fad9e4a37",
       "name": "あとがきのようなもの",
       "secondary": "えすおーえす団",
@@ -467,7 +501,7 @@
       "detailPath": "entities/songs/c85b8a2fad9e4a37.json"
     },
     {
-      "rank": 30315,
+      "rank": 30316,
       "id": "663789b758986b70",
       "name": "あとのまつり",
       "secondary": "Ｐｅｇ",
@@ -500,7 +534,7 @@
       "detailPath": "entities/songs/663789b758986b70.json"
     },
     {
-      "rank": 30316,
+      "rank": 30317,
       "id": "cc67c6abbde3930c",
       "name": "アドバンス・アドベンチャー ～Advance Adventure～　(アニメ『ポケットモンスター アドバンスジェネレーション』OP1)",
       "secondary": "GARDEN",
@@ -530,7 +564,7 @@
       "detailPath": "entities/songs/cc67c6abbde3930c.json"
     },
     {
-      "rank": 30317,
+      "rank": 30318,
       "id": "5d58dfd4d3333aee",
       "name": "アドバンス・アドベンチャー～Advanced Adventure～",
       "secondary": "GARDEN",
@@ -563,7 +597,7 @@
       "detailPath": "entities/songs/5d58dfd4d3333aee.json"
     },
     {
-      "rank": 30318,
+      "rank": 30319,
       "id": "15950dd0d12751a3",
       "name": "あとひとつ",
       "secondary": "FANKY MONKEY BABYS",
@@ -596,7 +630,7 @@
       "detailPath": "entities/songs/15950dd0d12751a3.json"
     },
     {
-      "rank": 30319,
+      "rank": 30320,
       "id": "0d02e5f37b89e5bb",
       "name": "あとひとつ",
       "secondary": "FUNKY MONKEY BΛBY’S",
@@ -626,7 +660,7 @@
       "detailPath": "entities/songs/0d02e5f37b89e5bb.json"
     },
     {
-      "rank": 30320,
+      "rank": 30321,
       "id": "18a5e49a70390e23",
       "name": "アトラクトライト",
       "secondary": "未記載",
@@ -659,7 +693,7 @@
       "detailPath": "entities/songs/18a5e49a70390e23.json"
     },
     {
-      "rank": 30321,
+      "rank": 30322,
       "id": "c7ffc3cc3dba4a8b",
       "name": "アトラクトライト",
       "secondary": "*Luna様",
@@ -692,7 +726,7 @@
       "detailPath": "entities/songs/c7ffc3cc3dba4a8b.json"
     },
     {
-      "rank": 30322,
+      "rank": 30323,
       "id": "e62a9f5a00993def",
       "name": "アトラクトライト",
       "secondary": "",
@@ -722,7 +756,7 @@
       "detailPath": "entities/songs/e62a9f5a00993def.json"
     },
     {
-      "rank": 30323,
+      "rank": 30324,
       "id": "b889ab73902a4c09",
       "name": "アトリエ",
       "secondary": "水瀬奏咲",
@@ -755,7 +789,7 @@
       "detailPath": "entities/songs/b889ab73902a4c09.json"
     },
     {
-      "rank": 30324,
+      "rank": 30325,
       "id": "08e4ed6adec8dd44",
       "name": "アドリシュタ・パラ",
       "secondary": "終焉ラスト",
@@ -785,7 +819,7 @@
       "detailPath": "entities/songs/08e4ed6adec8dd44.json"
     },
     {
-      "rank": 30325,
+      "rank": 30326,
       "id": "d6af9529decca4d1",
       "name": "アドレナ",
       "secondary": "花ざかりの君たちへ",
@@ -818,7 +852,7 @@
       "detailPath": "entities/songs/d6af9529decca4d1.json"
     },
     {
-      "rank": 30326,
+      "rank": 30327,
       "id": "be864b0fa320e9e7",
       "name": "アナウンス完成",
       "secondary": "一部披露",
@@ -851,7 +885,7 @@
       "detailPath": "entities/songs/be864b0fa320e9e7.json"
     },
     {
-      "rank": 30327,
+      "rank": 30328,
       "id": "8e8eea3aabbfa91c",
       "name": "あなかクランケン",
       "secondary": "tamon",
@@ -885,7 +919,7 @@
       "detailPath": "entities/songs/8e8eea3aabbfa91c.json"
     },
     {
-      "rank": 30328,
+      "rank": 30329,
       "id": "430330c464b21bbf",
       "name": "アナザースカイ",
       "secondary": "ヴィーラ(今井麻美)",
@@ -918,7 +952,7 @@
       "detailPath": "entities/songs/430330c464b21bbf.json"
     },
     {
-      "rank": 30329,
+      "rank": 30330,
       "id": "358ed4b4d26583e5",
       "name": "アナザーネーム",
       "secondary": "神楽桃",
@@ -951,7 +985,7 @@
       "detailPath": "entities/songs/358ed4b4d26583e5.json"
     },
     {
-      "rank": 30330,
+      "rank": 30331,
       "id": "14350114dca0e5b6",
       "name": "あなた",
       "secondary": "HYさん",
@@ -984,7 +1018,7 @@
       "detailPath": "entities/songs/14350114dca0e5b6.json"
     },
     {
-      "rank": 30331,
+      "rank": 30332,
       "id": "36cbd6097d1aca21",
       "name": "あなた",
       "secondary": "00:37:59",
@@ -1017,7 +1051,7 @@
       "detailPath": "entities/songs/36cbd6097d1aca21.json"
     },
     {
-      "rank": 30332,
+      "rank": 30333,
       "id": "719397497c84059f",
       "name": "あなた",
       "secondary": "L'Arc～en～Ciel",
@@ -1050,7 +1084,7 @@
       "detailPath": "entities/songs/719397497c84059f.json"
     },
     {
-      "rank": 30333,
+      "rank": 30334,
       "id": "c52e7d4fad84c783",
       "name": "アナタMAGIC",
       "secondary": "モノブライト",
@@ -1083,7 +1117,7 @@
       "detailPath": "entities/songs/c52e7d4fad84c783.json"
     },
     {
-      "rank": 30334,
+      "rank": 30335,
       "id": "495b7348b8620673",
       "name": "あなたが・・・いない_栗林みな実",
       "secondary": "未記載",
@@ -1116,7 +1150,7 @@
       "detailPath": "entities/songs/495b7348b8620673.json"
     },
     {
-      "rank": 30335,
+      "rank": 30336,
       "id": "2638ce296f8cb1d8",
       "name": "あなたがいるから",
       "secondary": "中島美嘉",
@@ -1149,7 +1183,7 @@
       "detailPath": "entities/songs/2638ce296f8cb1d8.json"
     },
     {
-      "rank": 30336,
+      "rank": 30337,
       "id": "9c91ea083ad8b397",
       "name": "あなたがいることで",
       "secondary": "Uru (2020) ドラマ「テセウスの船」主題歌",
@@ -1182,7 +1216,7 @@
       "detailPath": "entities/songs/9c91ea083ad8b397.json"
     },
     {
-      "rank": 30337,
+      "rank": 30338,
       "id": "173491657bf37127",
       "name": "あなたがいればいいのに",
       "secondary": "LEGO BIG MORL",
@@ -1215,7 +1249,7 @@
       "detailPath": "entities/songs/173491657bf37127.json"
     },
     {
-      "rank": 30338,
+      "rank": 30339,
       "id": "95a56bb632cd39aa",
       "name": "あなたがここにいたら",
       "secondary": "ポルノグラフィティ",
@@ -1248,7 +1282,7 @@
       "detailPath": "entities/songs/95a56bb632cd39aa.json"
     },
     {
-      "rank": 30339,
+      "rank": 30340,
       "id": "8d4398ef4aa6eaa8",
       "name": "あなたがここにいる理由",
       "secondary": "Rie fu",
@@ -1281,7 +1315,7 @@
       "detailPath": "entities/songs/8d4398ef4aa6eaa8.json"
     },
     {
-      "rank": 30340,
+      "rank": 30341,
       "id": "318ca2078cddd1d9",
       "name": "あなたクランケン",
       "secondary": "tamon",
@@ -1311,7 +1345,7 @@
       "detailPath": "entities/songs/318ca2078cddd1d9.json"
     },
     {
-      "rank": 30341,
+      "rank": 30342,
       "id": "1b661f58ab4c1766",
       "name": "あなたクランケン",
       "secondary": "",
@@ -1344,7 +1378,7 @@
       "detailPath": "entities/songs/1b661f58ab4c1766.json"
     },
     {
-      "rank": 30342,
+      "rank": 30343,
       "id": "c80c486daaf4714b",
       "name": "あなたクランケン",
       "secondary": "酒音さん歌ってみた",
@@ -1374,7 +1408,7 @@
       "detailPath": "entities/songs/c80c486daaf4714b.json"
     },
     {
-      "rank": 30343,
+      "rank": 30344,
       "id": "b97e2f1ac3b8b703",
       "name": "アナタだけのAngel☆",
       "secondary": "詩月カオリ",
@@ -1407,7 +1441,7 @@
       "detailPath": "entities/songs/b97e2f1ac3b8b703.json"
     },
     {
-      "rank": 30344,
+      "rank": 30345,
       "id": "a40c3acab869b385",
       "name": "あなただけみつめてる/大黒摩季",
       "secondary": "スラムダンク",
@@ -1440,7 +1474,7 @@
       "detailPath": "entities/songs/a40c3acab869b385.json"
     },
     {
-      "rank": 30345,
+      "rank": 30346,
       "id": "87eb73292a896409",
       "name": "あなただけ見つめてる",
       "secondary": "大黒摩季（神咒Kajiri Ver）",
@@ -1473,7 +1507,7 @@
       "detailPath": "entities/songs/87eb73292a896409.json"
     },
     {
-      "rank": 30346,
+      "rank": 30347,
       "id": "1ed9087d30db96df",
       "name": "あなただけ見つめてる",
       "secondary": "大黒摩季（90.254点）",
@@ -1507,7 +1541,7 @@
       "detailPath": "entities/songs/1ed9087d30db96df.json"
     },
     {
-      "rank": 30347,
+      "rank": 30348,
       "id": "d3eb7cf166a6a93e",
       "name": "あなただけ見つめてる",
       "secondary": "大黒摩季(初見)",
@@ -1540,7 +1574,7 @@
       "detailPath": "entities/songs/d3eb7cf166a6a93e.json"
     },
     {
-      "rank": 30348,
+      "rank": 30349,
       "id": "707f8a8ca61fa324",
       "name": "あなただけ見つめてる",
       "secondary": "SLAM DUNK",
@@ -1573,7 +1607,7 @@
       "detailPath": "entities/songs/707f8a8ca61fa324.json"
     },
     {
-      "rank": 30349,
+      "rank": 30350,
       "id": "f4b15cec2b6ad935",
       "name": "あなただけ見つめてる 大黒摩季",
       "secondary": "1993",
@@ -1601,39 +1635,6 @@
         }
       ],
       "detailPath": "entities/songs/f4b15cec2b6ad935.json"
-    },
-    {
-      "rank": 30350,
-      "id": "705ac9cec98e0a0e",
-      "name": "あなたと",
-      "secondary": "絢香＆コブクロ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "PbAaMIF2L4c",
-          "videoTitle": "【#耐久 歌枠 】高評価300耐久達成で嬉しい告知あり！！！歌枠💐初見さんも大歓迎！！【華白あらみ】#vsinger",
-          "channelName": "華白あらみ / Arami ch.",
-          "publishedAt": "2026-09-12T12:31:53.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PbAaMIF2L4c/hqdefault.jpg",
-          "sourcePath": "sources/Pb/PbAaMIF2L4c.json",
-          "time": "4:20:15",
-          "seconds": 15615,
-          "songTitle": "あなたと",
-          "artist": "絢香＆コブクロ"
-        }
-      ],
-      "detailPath": "entities/songs/705ac9cec98e0a0e.json"
     }
   ]
 }

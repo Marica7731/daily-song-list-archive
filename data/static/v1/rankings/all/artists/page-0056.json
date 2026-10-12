@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "artists",
   "page": 56,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20003,
+  "totalCount": 20007,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2295,6 +2295,66 @@
     },
     {
       "rank": 2790,
+      "id": "1f55a192d83db767",
+      "name": "吉田山田",
+      "secondary": "",
+      "channelId": "UC_lfOFwTCIvZsuaSvJQpNXg",
+      "channelHandle": "@asuto_suiboshi",
+      "channelUrl": "",
+      "occurrenceCount": 5,
+      "videoCount": 5,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dizCL6FIrug",
+          "videoTitle": "【歌枠 / 弾き語り】眠れない人集合🍀まったりアコギと共に【翠星アスト/ゆにれいど！】",
+          "channelName": "翠星アスト / Asuto Suiboshi",
+          "publishedAt": "2026-10-04T14:18:27.298Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dizCL6FIrug/hqdefault.jpg",
+          "sourcePath": "sources/di/dizCL6FIrug.json",
+          "time": "0:07:38",
+          "seconds": 458,
+          "songTitle": "日々",
+          "artist": "吉田山田"
+        },
+        {
+          "videoId": "rGxZQ7ivkaU",
+          "videoTitle": "【歌枠 / 弾き語り】少し弾き語る【翠星アスト/ゆにれいど！】",
+          "channelName": "翠星アスト / Asuto Suiboshi",
+          "publishedAt": "2026-09-03T15:28:07.690Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rGxZQ7ivkaU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVBSiYe7pvNj_2anc660f39U8xFQ",
+          "sourcePath": "sources/rG/rGxZQ7ivkaU.json",
+          "time": "0:11:43",
+          "seconds": 703,
+          "songTitle": "日々",
+          "artist": "吉田山田"
+        },
+        {
+          "videoId": "N43al91d-GY",
+          "videoTitle": "【披露宴で歌った曲全部歌います！】弾き語り配信（2026/8/30アーカイブ）",
+          "channelName": "まにこ (manico)",
+          "publishedAt": "2026-08-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/N43al91d-GY/hqdefault.jpg",
+          "sourcePath": "sources/N4/N43al91d-GY.json",
+          "time": "0:07:06",
+          "seconds": 426,
+          "songTitle": "日々",
+          "artist": "吉田山田"
+        }
+      ],
+      "detailPath": "entities/artists/1f55a192d83db767.json"
+    },
+    {
+      "rank": 2791,
       "id": "8661e80057ba5e1d",
       "name": "宮永咲(植田佳奈)・原村和(小清水亜美)・片岡優希(釘宮理恵)・染谷まこ(白石涼子)・竹井久(伊藤静)",
       "secondary": "",
@@ -2351,7 +2411,7 @@
       "detailPath": "entities/artists/8661e80057ba5e1d.json"
     },
     {
-      "rank": 2791,
+      "rank": 2792,
       "id": "987d8dc6480c6265",
       "name": "空音",
       "secondary": "",
@@ -2410,7 +2470,7 @@
       "detailPath": "entities/artists/987d8dc6480c6265.json"
     },
     {
-      "rank": 2792,
+      "rank": 2793,
       "id": "892c47eb8df37439",
       "name": "月島きらり＝久住小春",
       "secondary": "",
@@ -2470,7 +2530,7 @@
       "detailPath": "entities/artists/892c47eb8df37439.json"
     },
     {
-      "rank": 2793,
+      "rank": 2794,
       "id": "9c96a59b1660bd78",
       "name": "五月天",
       "secondary": "",
@@ -2530,7 +2590,7 @@
       "detailPath": "entities/artists/9c96a59b1660bd78.json"
     },
     {
-      "rank": 2794,
+      "rank": 2795,
       "id": "ef71191ba6e123af",
       "name": "後ろから這いより隊G(ニャル子,クー子,珠緒)",
       "secondary": "",
@@ -2588,7 +2648,7 @@
       "detailPath": "entities/artists/ef71191ba6e123af.json"
     },
     {
-      "rank": 2795,
+      "rank": 2796,
       "id": "9cdbbee63caa3359",
       "name": "荒井由美",
       "secondary": "",
@@ -2645,7 +2705,7 @@
       "detailPath": "entities/artists/9cdbbee63caa3359.json"
     },
     {
-      "rank": 2796,
+      "rank": 2797,
       "id": "eb20cdafadccc560",
       "name": "高田みづえ",
       "secondary": "",
@@ -2705,7 +2765,7 @@
       "detailPath": "entities/artists/eb20cdafadccc560.json"
     },
     {
-      "rank": 2797,
+      "rank": 2798,
       "id": "67b499a8ed6c5673",
       "name": "昆夏美",
       "secondary": "",
@@ -2763,7 +2823,7 @@
       "detailPath": "entities/artists/67b499a8ed6c5673.json"
     },
     {
-      "rank": 2798,
+      "rank": 2799,
       "id": "a16ba1a35c5957f2",
       "name": "佐々露香",
       "secondary": "",
@@ -2820,7 +2880,7 @@
       "detailPath": "entities/artists/a16ba1a35c5957f2.json"
     },
     {
-      "rank": 2799,
+      "rank": 2800,
       "id": "6933e082f3597077",
       "name": "坂本真綾 ※JOYSOUND",
       "secondary": "",
@@ -2875,65 +2935,6 @@
         }
       ],
       "detailPath": "entities/artists/6933e082f3597077.json"
-    },
-    {
-      "rank": 2800,
-      "id": "1defec96c3bc415a",
-      "name": "三浦あずさ (CV:たかはし智秋)",
-      "secondary": "",
-      "channelId": "UC3zSmwgOOIjWUbus4cZIUPg",
-      "channelHandle": "@MUS1CA_vsinger",
-      "channelUrl": "",
-      "occurrenceCount": 5,
-      "videoCount": 5,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RQ_ZV3sF5_k",
-          "videoTitle": "【歌枠 | 新規さん大歓迎】咦！？秋天呢！？ #212 ❤️【HKVTuber/梨奈Rina】",
-          "channelName": "Rina Ch. 梨奈 - HKVTuber",
-          "publishedAt": "2026-10-04T06:17:48.167Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RQ_ZV3sF5_k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDUduaNr_fvO8lKfs1DpcHBXl3jPQ",
-          "sourcePath": "sources/RQ/RQ_ZV3sF5_k.json",
-          "time": "0:09:12",
-          "seconds": 552,
-          "songTitle": "隣に・・・",
-          "artist": "三浦あずさ（CV:たかはし智秋）"
-        },
-        {
-          "videoId": "DK7MBNSc4co",
-          "videoTitle": "〖 0923┊歌枠 〗秋めいてきたね🕊️まったり歌うよ〖#Ellise /vtuber〗",
-          "channelName": "Ellise Ch.",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/DK7MBNSc4co/hqdefault.jpg",
-          "sourcePath": "sources/DK/DK7MBNSc4co.json",
-          "time": "3:51:17",
-          "seconds": 13877,
-          "songTitle": "《隣に…》",
-          "artist": "三浦あずさ（CV. たかはし智秋）"
-        },
-        {
-          "videoId": "FjPlmRhtf6A",
-          "videoTitle": "【#歌枠】歌に浸る、心ほどける時間🌙┆Singing Stream【#MUS1CA/#Vsinger】",
-          "channelName": "MUS1CA",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FjPlmRhtf6A/hqdefault.jpg",
-          "sourcePath": "sources/Fj/FjPlmRhtf6A.json",
-          "time": "1:16:46",
-          "seconds": 4606,
-          "songTitle": "隣に…",
-          "artist": "三浦あずさ (CV:たかはし智秋)"
-        }
-      ],
-      "detailPath": "entities/artists/1defec96c3bc415a.json"
     }
   ]
 }

@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 265,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 13201,
+      "id": "e6d82688c5a224ee",
+      "name": "OVER THE TIMES ～時を越えて～",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "n1qwClDgfTw",
+          "videoTitle": "【縦型歌配信】ゲリラ歌枠🎤今日は長めにやりたい！",
+          "channelName": "みちまよチャンネル【一般成人オタクVTuber】",
+          "publishedAt": "2026-09-12T14:39:38.492Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/n1qwClDgfTw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_eU66RLm4YnRfoom3j332jFBzeA",
+          "sourcePath": "sources/n1/n1qwClDgfTw.json",
+          "time": "3:20:40",
+          "seconds": 12040,
+          "songTitle": "OVER THE TIMES ～時を越えて～",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/e6d82688c5a224ee.json"
+    },
+    {
+      "rank": 13202,
       "id": "62c2e8c188ad590c",
       "name": "OVER THE TROUBLE",
       "secondary": "織田裕二ｻﾝ",
@@ -43,7 +76,7 @@
       "detailPath": "entities/songs/62c2e8c188ad590c.json"
     },
     {
-      "rank": 13202,
+      "rank": 13203,
       "id": "423d7da37f663a2f",
       "name": "Overboard",
       "secondary": "Justin Bieber & Jessica Jarrell",
@@ -76,7 +109,7 @@
       "detailPath": "entities/songs/423d7da37f663a2f.json"
     },
     {
-      "rank": 13203,
+      "rank": 13204,
       "id": "e20299d6e4379280",
       "name": "OVERDOG",
       "secondary": "狼朗ハツキ - NIL",
@@ -106,7 +139,7 @@
       "detailPath": "entities/songs/e20299d6e4379280.json"
     },
     {
-      "rank": 13204,
+      "rank": 13205,
       "id": "d96261ecd8e1a379",
       "name": "Overdose (Piano ver)",
       "secondary": "なとり",
@@ -139,7 +172,7 @@
       "detailPath": "entities/songs/d96261ecd8e1a379.json"
     },
     {
-      "rank": 13205,
+      "rank": 13206,
       "id": "ae69b39df5f97b93",
       "name": "Overdose/なとり",
       "secondary": "202",
@@ -172,7 +205,7 @@
       "detailPath": "entities/songs/ae69b39df5f97b93.json"
     },
     {
-      "rank": 13206,
+      "rank": 13207,
       "id": "a960774c54423330",
       "name": "Overfly Piano Ver",
       "secondary": "春奈るな",
@@ -205,7 +238,7 @@
       "detailPath": "entities/songs/a960774c54423330.json"
     },
     {
-      "rank": 13207,
+      "rank": 13208,
       "id": "54aee00b07fc793a",
       "name": "Overfly／春奈るな／アニメ『ソードアート・オンライン フェアリィ・ダンス編』ED／2012/11",
       "secondary": "28",
@@ -235,7 +268,7 @@
       "detailPath": "entities/songs/54aee00b07fc793a.json"
     },
     {
-      "rank": 13208,
+      "rank": 13209,
       "id": "4276c2e8223dd464",
       "name": "OVERLAP",
       "secondary": "",
@@ -268,7 +301,7 @@
       "detailPath": "entities/songs/4276c2e8223dd464.json"
     },
     {
-      "rank": 13209,
+      "rank": 13210,
       "id": "ad9730e55c0c8952",
       "name": "OVERLAP",
       "secondary": "遊☆戯☆王デュエルモンスターズ・2004年",
@@ -301,7 +334,7 @@
       "detailPath": "entities/songs/ad9730e55c0c8952.json"
     },
     {
-      "rank": 13210,
+      "rank": 13211,
       "id": "40b93995c599c951",
       "name": "OVERLAPPERS",
       "secondary": "いのバト",
@@ -334,7 +367,7 @@
       "detailPath": "entities/songs/40b93995c599c951.json"
     },
     {
-      "rank": 13211,
+      "rank": 13212,
       "id": "5f5074ec903402af",
       "name": "Oyasumi Nakigoe, Sayonara Utahime",
       "secondary": "Creephyp",
@@ -367,7 +400,7 @@
       "detailPath": "entities/songs/5f5074ec903402af.json"
     },
     {
-      "rank": 13212,
+      "rank": 13213,
       "id": "7be583bcdc6b7165",
       "name": "Oyasumi Tokyo",
       "secondary": "なきごと",
@@ -400,7 +433,7 @@
       "detailPath": "entities/songs/7be583bcdc6b7165.json"
     },
     {
-      "rank": 13213,
+      "rank": 13214,
       "id": "200a0d4b51030ebf",
       "name": "OyasumiNakigoe、さよなら歌姫",
       "secondary": "クリープハイプ **",
@@ -433,7 +466,7 @@
       "detailPath": "entities/songs/200a0d4b51030ebf.json"
     },
     {
-      "rank": 13214,
+      "rank": 13215,
       "id": "cbfc004f67e69078",
       "name": "Oz. [Piano ver",
       "secondary": "yama",
@@ -466,7 +499,7 @@
       "detailPath": "entities/songs/cbfc004f67e69078.json"
     },
     {
-      "rank": 13215,
+      "rank": 13216,
       "id": "7fd88f0c9f8bff10",
       "name": "ØωØver!!",
       "secondary": "Asterisk(前川みく（高森奈津美）／多田李衣菜（青木瑠璃子）)",
@@ -499,7 +532,7 @@
       "detailPath": "entities/songs/7fd88f0c9f8bff10.json"
     },
     {
-      "rank": 13216,
+      "rank": 13217,
       "id": "0b93a0e4579d1507",
       "name": "P.S.我愛你",
       "secondary": "A-Lin",
@@ -532,7 +565,7 @@
       "detailPath": "entities/songs/0b93a0e4579d1507.json"
     },
     {
-      "rank": 13217,
+      "rank": 13218,
       "id": "fcffe2483195810e",
       "name": "P0WER-悪霊退散",
       "secondary": "DOES",
@@ -565,7 +598,7 @@
       "detailPath": "entities/songs/fcffe2483195810e.json"
     },
     {
-      "rank": 13218,
+      "rank": 13219,
       "id": "ae6753cb354786ee",
       "name": "PADDLE",
       "secondary": "Mr.Children",
@@ -595,7 +628,7 @@
       "detailPath": "entities/songs/ae6753cb354786ee.json"
     },
     {
-      "rank": 13219,
+      "rank": 13220,
       "id": "fc82e159d1c12d1e",
       "name": "Pajama Parties no Uta",
       "secondary": "Pajama Parties",
@@ -628,7 +661,7 @@
       "detailPath": "entities/songs/fc82e159d1c12d1e.json"
     },
     {
-      "rank": 13220,
+      "rank": 13221,
       "id": "64a514ecae2e4ef3",
       "name": "PAKU",
       "secondary": "asmi",
@@ -661,7 +694,7 @@
       "detailPath": "entities/songs/64a514ecae2e4ef3.json"
     },
     {
-      "rank": 13221,
+      "rank": 13222,
       "id": "297f7c82b7059be1",
       "name": "Pale",
       "secondary": "",
@@ -694,7 +727,7 @@
       "detailPath": "entities/songs/297f7c82b7059be1.json"
     },
     {
-      "rank": 13222,
+      "rank": 13223,
       "id": "e0a1f47e9008bef3",
       "name": "Pale Blue",
       "secondary": "",
@@ -727,7 +760,7 @@
       "detailPath": "entities/songs/e0a1f47e9008bef3.json"
     },
     {
-      "rank": 13223,
+      "rank": 13224,
       "id": "ed6e514002fd057f",
       "name": "Palette",
       "secondary": "島村卯月 (CV: 大橋彩香)、小日向美穂 (CV: 津田美波)、五十嵐響子 (CV: 種﨑敦美)",
@@ -760,7 +793,7 @@
       "detailPath": "entities/songs/ed6e514002fd057f.json"
     },
     {
-      "rank": 13224,
+      "rank": 13225,
       "id": "9bfe639d65783727",
       "name": "Pane dhiria",
       "secondary": "新城P",
@@ -793,7 +826,7 @@
       "detailPath": "entities/songs/9bfe639d65783727.json"
     },
     {
-      "rank": 13225,
+      "rank": 13226,
       "id": "bbeaa6a1a2e89df9",
       "name": "paparazzi",
       "secondary": "",
@@ -826,7 +859,7 @@
       "detailPath": "entities/songs/bbeaa6a1a2e89df9.json"
     },
     {
-      "rank": 13226,
+      "rank": 13227,
       "id": "1e8ef721b112b194",
       "name": "Paper Doll",
       "secondary": "山下達郎",
@@ -859,7 +892,7 @@
       "detailPath": "entities/songs/1e8ef721b112b194.json"
     },
     {
-      "rank": 13227,
+      "rank": 13228,
       "id": "78023258c84075a6",
       "name": "PAPERMOON",
       "secondary": "SOUL EATER",
@@ -892,7 +925,7 @@
       "detailPath": "entities/songs/78023258c84075a6.json"
     },
     {
-      "rank": 13228,
+      "rank": 13229,
       "id": "c41d257e7377af98",
       "name": "PAPPPAP",
       "secondary": "ピコ太郎",
@@ -925,7 +958,7 @@
       "detailPath": "entities/songs/c41d257e7377af98.json"
     },
     {
-      "rank": 13229,
+      "rank": 13230,
       "id": "c9765b3b470cebb8",
       "name": "Parade",
       "secondary": "YUI",
@@ -958,7 +991,7 @@
       "detailPath": "entities/songs/c9765b3b470cebb8.json"
     },
     {
-      "rank": 13230,
+      "rank": 13231,
       "id": "a27adcbe9553edc4",
       "name": "PARADE",
       "secondary": "Fire Bomber",
@@ -988,7 +1021,7 @@
       "detailPath": "entities/songs/a27adcbe9553edc4.json"
     },
     {
-      "rank": 13231,
+      "rank": 13232,
       "id": "a23c0d31fd17d153",
       "name": "Paradise",
       "secondary": "NiziU",
@@ -1021,7 +1054,7 @@
       "detailPath": "entities/songs/a23c0d31fd17d153.json"
     },
     {
-      "rank": 13232,
+      "rank": 13233,
       "id": "4a5e0a1b3e187522",
       "name": "Paradise Lost",
       "secondary": "",
@@ -1054,7 +1087,7 @@
       "detailPath": "entities/songs/4a5e0a1b3e187522.json"
     },
     {
-      "rank": 13233,
+      "rank": 13234,
       "id": "4fe7ec456e4eb06b",
       "name": "Paradise Lost",
       "secondary": "茅原実里 ※JOYSOUND",
@@ -1087,7 +1120,7 @@
       "detailPath": "entities/songs/4fe7ec456e4eb06b.json"
     },
     {
-      "rank": 13234,
+      "rank": 13235,
       "id": "9b659e88477f771b",
       "name": "paranoia",
       "secondary": "つなまる(めざめP)",
@@ -1120,7 +1153,7 @@
       "detailPath": "entities/songs/9b659e88477f771b.json"
     },
     {
-      "rank": 13235,
+      "rank": 13236,
       "id": "508eb504c883a2a9",
       "name": "Paris",
       "secondary": "The Chainsmokers",
@@ -1153,7 +1186,7 @@
       "detailPath": "entities/songs/508eb504c883a2a9.json"
     },
     {
-      "rank": 13236,
+      "rank": 13237,
       "id": "2dd8a1638a8adb57",
       "name": "Part of Me",
       "secondary": "Katy Perry",
@@ -1183,7 +1216,7 @@
       "detailPath": "entities/songs/2dd8a1638a8adb57.json"
     },
     {
-      "rank": 13237,
+      "rank": 13238,
       "id": "6e8fec6d42b12d9f",
       "name": "Part of your World",
       "secondary": "The Little Mermaid",
@@ -1216,7 +1249,7 @@
       "detailPath": "entities/songs/6e8fec6d42b12d9f.json"
     },
     {
-      "rank": 13238,
+      "rank": 13239,
       "id": "b96f68d739874036",
       "name": "Part of Your World",
       "secondary": "リトル・マーメイド",
@@ -1249,7 +1282,7 @@
       "detailPath": "entities/songs/b96f68d739874036.json"
     },
     {
-      "rank": 13239,
+      "rank": 13240,
       "id": "06593731ea47878f",
       "name": "Part of Your World",
       "secondary": "Jodi Benson（The Little Mermaid）",
@@ -1279,7 +1312,7 @@
       "detailPath": "entities/songs/06593731ea47878f.json"
     },
     {
-      "rank": 13240,
+      "rank": 13241,
       "id": "123e41cdb8f0b385",
       "name": "Part of Your World",
       "secondary": "Jodi Benson",
@@ -1312,7 +1345,7 @@
       "detailPath": "entities/songs/123e41cdb8f0b385.json"
     },
     {
-      "rank": 13241,
+      "rank": 13242,
       "id": "ad90d58c55e8fde1",
       "name": "Part of your world (Reprise)",
       "secondary": "Halle Bailey",
@@ -1345,7 +1378,7 @@
       "detailPath": "entities/songs/ad90d58c55e8fde1.json"
     },
     {
-      "rank": 13242,
+      "rank": 13243,
       "id": "266b1af03d5a957e",
       "name": "Party In The U.S.A",
       "secondary": "Miley Cyrus",
@@ -1378,7 +1411,7 @@
       "detailPath": "entities/songs/266b1af03d5a957e.json"
     },
     {
-      "rank": 13243,
+      "rank": 13244,
       "id": "250c1f751047ee80",
       "name": "Party Rock Anthem",
       "secondary": "LMFAO",
@@ -1411,7 +1444,7 @@
       "detailPath": "entities/songs/250c1f751047ee80.json"
     },
     {
-      "rank": 13244,
+      "rank": 13245,
       "id": "6bcf4ea5811b4395",
       "name": "Passion",
       "secondary": "宇多田ヒカル",
@@ -1444,7 +1477,7 @@
       "detailPath": "entities/songs/6bcf4ea5811b4395.json"
     },
     {
-      "rank": 13245,
+      "rank": 13246,
       "id": "6d01b632ca2620db",
       "name": "Pastoral",
       "secondary": "Aimer",
@@ -1477,7 +1510,7 @@
       "detailPath": "entities/songs/6d01b632ca2620db.json"
     },
     {
-      "rank": 13246,
+      "rank": 13247,
       "id": "2698b5175d49cd11",
       "name": "PC",
       "secondary": "再起動フリーズ？",
@@ -1507,7 +1540,7 @@
       "detailPath": "entities/songs/2698b5175d49cd11.json"
     },
     {
-      "rank": 13247,
+      "rank": 13248,
       "id": "8b091928b178f6d6",
       "name": "PCのメモリが届いた",
       "secondary": "",
@@ -1537,7 +1570,7 @@
       "detailPath": "entities/songs/8b091928b178f6d6.json"
     },
     {
-      "rank": 13248,
+      "rank": 13249,
       "id": "e583ecc3cdf71958",
       "name": "Peace Sign",
       "secondary": "Kenshi Yonezu",
@@ -1570,7 +1603,7 @@
       "detailPath": "entities/songs/e583ecc3cdf71958.json"
     },
     {
-      "rank": 13249,
+      "rank": 13250,
       "id": "f5781e354c6458f9",
       "name": "Peace Sign　ピースサイン",
       "secondary": "Kenshi Yonezu",
@@ -1601,39 +1634,6 @@
         }
       ],
       "detailPath": "entities/songs/f5781e354c6458f9.json"
-    },
-    {
-      "rank": 13250,
-      "id": "cc10b3980f004f6d",
-      "name": "Peace☆超パニック",
-      "secondary": "GANG PARADE",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "MrZREd-euV8",
-          "videoTitle": "【歌枠＆ギター練習267日目】メタル系の音作り＆LiSAさんの曲を耳コピ J-Rock・アニソン・J-POP etc...【弾き語り/エレキギター/ひで】",
-          "channelName": "ひでチャンネル",
-          "publishedAt": "2026-09-23T08:12:59.656Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MrZREd-euV8/hqdefault.jpg",
-          "sourcePath": "sources/Mr/MrZREd-euV8.json",
-          "time": "5:05:24",
-          "seconds": 18324,
-          "songTitle": "Peace☆超パニック",
-          "artist": "GANG PARADE"
-        }
-      ],
-      "detailPath": "entities/songs/cc10b3980f004f6d.json"
     }
   ]
 }

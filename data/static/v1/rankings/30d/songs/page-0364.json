@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 364,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 18151,
+      "id": "c58616f77f3a15ec",
+      "name": "タキシード・ミラージュ",
+      "secondary": "Peach Hips",
+      "channelId": "UCNtwkcCmjmPIqVYWkhnzjdw",
+      "channelHandle": "@CecilTsukishiro",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "YCjXrxRKors",
+          "videoTitle": "【 歌枠 】🌕プレミア公開直前！戦うヒロイン歌枠！【 #月城ティータイム 】",
+          "channelName": "Cecil Ch.月城セシル【セシんもーZ】",
+          "publishedAt": "2026-10-04T11:45:30.631Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YCjXrxRKors/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7nyTlWt-i4LT4MZsjO07GNNsUqQ",
+          "sourcePath": "sources/YC/YCjXrxRKors.json",
+          "time": "1:23:04",
+          "seconds": 4984,
+          "songTitle": "タキシード・ミラージュ",
+          "artist": "Peach Hips"
+        }
+      ],
+      "detailPath": "entities/songs/c58616f77f3a15ec.json"
+    },
+    {
+      "rank": 18152,
       "id": "445f81b6d7d10268",
       "name": "タキシード･ミラージュ",
       "secondary": "美少女戦士セーラームーンS",
@@ -40,7 +73,7 @@
       "detailPath": "entities/songs/445f81b6d7d10268.json"
     },
     {
-      "rank": 18152,
+      "rank": 18153,
       "id": "6c07e0a8d2ef0c71",
       "name": "だきしめるまで",
       "secondary": "feat.可不",
@@ -73,7 +106,7 @@
       "detailPath": "entities/songs/6c07e0a8d2ef0c71.json"
     },
     {
-      "rank": 18153,
+      "rank": 18154,
       "id": "9501fa138cc0a2e6",
       "name": "だきしめるまで",
       "secondary": "MIMI",
@@ -106,7 +139,7 @@
       "detailPath": "entities/songs/9501fa138cc0a2e6.json"
     },
     {
-      "rank": 18154,
+      "rank": 18155,
       "id": "0be894e6cb822eb0",
       "name": "だきしめるまで",
       "secondary": "MIMI feat. 可不",
@@ -139,7 +172,7 @@
       "detailPath": "entities/songs/0be894e6cb822eb0.json"
     },
     {
-      "rank": 18155,
+      "rank": 18156,
       "id": "a11ee1b463d34eee",
       "name": "だけどベイビー.ᐟ.ᐟ",
       "secondary": "チエ・カジウラ",
@@ -172,7 +205,7 @@
       "detailPath": "entities/songs/a11ee1b463d34eee.json"
     },
     {
-      "rank": 18156,
+      "rank": 18157,
       "id": "7053c6797eaef65c",
       "name": "たしかなこと",
       "secondary": "オリジナル:小田和正",
@@ -205,7 +238,7 @@
       "detailPath": "entities/songs/7053c6797eaef65c.json"
     },
     {
-      "rank": 18157,
+      "rank": 18158,
       "id": "bd0a73549b90c9f4",
       "name": "たしかなこと (ﾋﾟｱﾉ伴奏)",
       "secondary": "小田和正",
@@ -235,7 +268,7 @@
       "detailPath": "entities/songs/bd0a73549b90c9f4.json"
     },
     {
-      "rank": 18158,
+      "rank": 18159,
       "id": "4a84eb15b9238faa",
       "name": "たしかなこと　小田和正",
       "secondary": "",
@@ -268,7 +301,7 @@
       "detailPath": "entities/songs/4a84eb15b9238faa.json"
     },
     {
-      "rank": 18159,
+      "rank": 18160,
       "id": "38735e74308e983c",
       "name": "ダジャレを弄るののさん",
       "secondary": "笑",
@@ -301,7 +334,7 @@
       "detailPath": "entities/songs/38735e74308e983c.json"
     },
     {
-      "rank": 18160,
+      "rank": 18161,
       "id": "a99f2869205cf52b",
       "name": "ダスト",
       "secondary": "クワガタP",
@@ -331,7 +364,7 @@
       "detailPath": "entities/songs/a99f2869205cf52b.json"
     },
     {
-      "rank": 18161,
+      "rank": 18162,
       "id": "06880226eb3f2332",
       "name": "ただそばで",
       "secondary": "まにこ（オリジナル・フル）",
@@ -364,7 +397,7 @@
       "detailPath": "entities/songs/06880226eb3f2332.json"
     },
     {
-      "rank": 18162,
+      "rank": 18163,
       "id": "36a677c43596ea79",
       "name": "ダダダダ天使",
       "secondary": "ナナヲアカリ ♪ Requested by 清兵衛",
@@ -394,7 +427,7 @@
       "detailPath": "entities/songs/36a677c43596ea79.json"
     },
     {
-      "rank": 18163,
+      "rank": 18164,
       "id": "ca198eef68f54a58",
       "name": "ダダダダ天使",
       "secondary": "ナナヲアカリ(2018年)",
@@ -424,7 +457,7 @@
       "detailPath": "entities/songs/ca198eef68f54a58.json"
     },
     {
-      "rank": 18164,
+      "rank": 18165,
       "id": "095e01277b84325e",
       "name": "ただの通りすがりさん",
       "secondary": "",
@@ -457,7 +490,7 @@
       "detailPath": "entities/songs/095e01277b84325e.json"
     },
     {
-      "rank": 18165,
+      "rank": 18166,
       "id": "9e472f5de23ea1fe",
       "name": "タタラ",
       "secondary": "",
@@ -490,7 +523,7 @@
       "detailPath": "entities/songs/9e472f5de23ea1fe.json"
     },
     {
-      "rank": 18166,
+      "rank": 18167,
       "id": "88ce97f30e1a4671",
       "name": "ただ君に晴れ",
       "secondary": "だいぶﾓﾁｬ",
@@ -523,7 +556,7 @@
       "detailPath": "entities/songs/88ce97f30e1a4671.json"
     },
     {
-      "rank": 18167,
+      "rank": 18168,
       "id": "d5e1fb4d05884554",
       "name": "ただ声1つ",
       "secondary": "ロクデナシ",
@@ -556,7 +589,7 @@
       "detailPath": "entities/songs/d5e1fb4d05884554.json"
     },
     {
-      "rank": 18168,
+      "rank": 18169,
       "id": "9d33329b1c023579",
       "name": "ただ声ひとつ",
       "secondary": "ロクデナシ",
@@ -589,7 +622,7 @@
       "detailPath": "entities/songs/9d33329b1c023579.json"
     },
     {
-      "rank": 18169,
+      "rank": 18170,
       "id": "07b54650470090cd",
       "name": "ただ声一つ",
       "secondary": "サビのみ",
@@ -622,7 +655,7 @@
       "detailPath": "entities/songs/07b54650470090cd.json"
     },
     {
-      "rank": 18170,
+      "rank": 18171,
       "id": "9737addb6f16b23d",
       "name": "ただ声一つ",
       "secondary": "ロクデナシ 様",
@@ -652,7 +685,7 @@
       "detailPath": "entities/songs/9737addb6f16b23d.json"
     },
     {
-      "rank": 18171,
+      "rank": 18172,
       "id": "1df63ff23e82f530",
       "name": "ただ風を追いかけて",
       "secondary": "HOYO-Mix",
@@ -685,7 +718,7 @@
       "detailPath": "entities/songs/1df63ff23e82f530.json"
     },
     {
-      "rank": 18172,
+      "rank": 18173,
       "id": "ea685dc8269a93b0",
       "name": "タチアガール",
       "secondary": "スマイレージ(アンジュルム)",
@@ -715,7 +748,7 @@
       "detailPath": "entities/songs/ea685dc8269a93b0.json"
     },
     {
-      "rank": 18173,
+      "rank": 18174,
       "id": "629114c5a664aebc",
       "name": "タチアガール",
       "secondary": "スマイレージ",
@@ -745,7 +778,7 @@
       "detailPath": "entities/songs/629114c5a664aebc.json"
     },
     {
-      "rank": 18174,
+      "rank": 18175,
       "id": "d7e33eae8973f29b",
       "name": "タチアガレ！",
       "secondary": "Wake Up, Girls!",
@@ -775,7 +808,7 @@
       "detailPath": "entities/songs/d7e33eae8973f29b.json"
     },
     {
-      "rank": 18175,
+      "rank": 18176,
       "id": "6bded4031ebec741",
       "name": "ダチュラと林檎",
       "secondary": "ねじ式",
@@ -805,7 +838,7 @@
       "detailPath": "entities/songs/6bded4031ebec741.json"
     },
     {
-      "rank": 18176,
+      "rank": 18177,
       "id": "9713f52b77bc2bcf",
       "name": "たったひとつのずっとなかよし",
       "secondary": "アメリカ民謡研究会 feat.小春六花",
@@ -838,7 +871,7 @@
       "detailPath": "entities/songs/9713f52b77bc2bcf.json"
     },
     {
-      "rank": 18177,
+      "rank": 18178,
       "id": "ea3b3af6cec373a6",
       "name": "タッチ",
       "secondary": "タッチ",
@@ -868,7 +901,7 @@
       "detailPath": "entities/songs/ea3b3af6cec373a6.json"
     },
     {
-      "rank": 18178,
+      "rank": 18179,
       "id": "4a2af774fcfed601",
       "name": "タッチ",
       "secondary": "岩崎良美 ／ タッチ(1985年)",
@@ -898,7 +931,7 @@
       "detailPath": "entities/songs/4a2af774fcfed601.json"
     },
     {
-      "rank": 18179,
+      "rank": 18180,
       "id": "a1383c0452ec453a",
       "name": "タッチ",
       "secondary": "稲葉浩志",
@@ -931,7 +964,7 @@
       "detailPath": "entities/songs/a1383c0452ec453a.json"
     },
     {
-      "rank": 18180,
+      "rank": 18181,
       "id": "d90d21592da4c08d",
       "name": "だってアタシのヒーロー",
       "secondary": "LISA /《我的英雄學院第二季》ED",
@@ -964,7 +997,7 @@
       "detailPath": "entities/songs/d90d21592da4c08d.json"
     },
     {
-      "rank": 18181,
+      "rank": 18182,
       "id": "856c773b035f2f98",
       "name": "だってアタシのヒーロー",
       "secondary": "",
@@ -994,7 +1027,7 @@
       "detailPath": "entities/songs/856c773b035f2f98.json"
     },
     {
-      "rank": 18182,
+      "rank": 18183,
       "id": "0c1fd048e2bac632",
       "name": "たとえどんなに···",
       "secondary": "西野かな",
@@ -1027,7 +1060,7 @@
       "detailPath": "entities/songs/0c1fd048e2bac632.json"
     },
     {
-      "rank": 18183,
+      "rank": 18184,
       "id": "9e03f8bb0cbd06ab",
       "name": "たとえどんなに⋯",
       "secondary": "西野カナ",
@@ -1060,7 +1093,7 @@
       "detailPath": "entities/songs/9e03f8bb0cbd06ab.json"
     },
     {
-      "rank": 18184,
+      "rank": 18185,
       "id": "654921018d36895a",
       "name": "たばこ",
       "secondary": "コレサワ ※JOYSOUND",
@@ -1093,7 +1126,7 @@
       "detailPath": "entities/songs/654921018d36895a.json"
     },
     {
-      "rank": 18185,
+      "rank": 18186,
       "id": "e66da057caeaa6ec",
       "name": "たばこ",
       "secondary": "1番だけBGM切り忘れてますごめんなさい！",
@@ -1126,7 +1159,7 @@
       "detailPath": "entities/songs/e66da057caeaa6ec.json"
     },
     {
-      "rank": 18186,
+      "rank": 18187,
       "id": "3daadf2f5951a255",
       "name": "たばこ 🌷コレサワ",
       "secondary": "",
@@ -1156,7 +1189,7 @@
       "detailPath": "entities/songs/3daadf2f5951a255.json"
     },
     {
-      "rank": 18187,
+      "rank": 18188,
       "id": "e4c89df387c3f4d7",
       "name": "たばこ piano ver",
       "secondary": "コレサワ",
@@ -1189,7 +1222,7 @@
       "detailPath": "entities/songs/e4c89df387c3f4d7.json"
     },
     {
-      "rank": 18188,
+      "rank": 18189,
       "id": "7780087afeb218ad",
       "name": "ダブルラリアット",
       "secondary": "アゴアニキ（巡音ルカ）",
@@ -1219,7 +1252,7 @@
       "detailPath": "entities/songs/7780087afeb218ad.json"
     },
     {
-      "rank": 18189,
+      "rank": 18190,
       "id": "3d800dc89a294832",
       "name": "ダブルラリアット",
       "secondary": "アゴアニキ feat. 巡音ルカ",
@@ -1252,7 +1285,7 @@
       "detailPath": "entities/songs/3d800dc89a294832.json"
     },
     {
-      "rank": 18190,
+      "rank": 18191,
       "id": "e76aac20010ad1ca",
       "name": "ダブルラリアット",
       "secondary": "アゴアニキP feat. 巡音ルカ",
@@ -1282,7 +1315,7 @@
       "detailPath": "entities/songs/e76aac20010ad1ca.json"
     },
     {
-      "rank": 18191,
+      "rank": 18192,
       "id": "e1e3453cc319f7c2",
       "name": "ダブルラリアット",
       "secondary": "",
@@ -1312,7 +1345,7 @@
       "detailPath": "entities/songs/e1e3453cc319f7c2.json"
     },
     {
-      "rank": 18192,
+      "rank": 18193,
       "id": "2326a4ab6d3beb52",
       "name": "タブレット",
       "secondary": "シェリル・ノーム starring May'n・ランカ・リー＝中島愛",
@@ -1345,7 +1378,7 @@
       "detailPath": "entities/songs/2326a4ab6d3beb52.json"
     },
     {
-      "rank": 18193,
+      "rank": 18194,
       "id": "cff4636752f23b71",
       "name": "たぶん",
       "secondary": "",
@@ -1375,7 +1408,7 @@
       "detailPath": "entities/songs/cff4636752f23b71.json"
     },
     {
-      "rank": 18194,
+      "rank": 18195,
       "id": "c712b2373923a0b7",
       "name": "たぶん",
       "secondary": "YOASOBI ／ たぶん(2020年)",
@@ -1405,7 +1438,7 @@
       "detailPath": "entities/songs/c712b2373923a0b7.json"
     },
     {
-      "rank": 18195,
+      "rank": 18196,
       "id": "c66e14b565e514f2",
       "name": "たぶん（+2→ｷｰ変）",
       "secondary": "YOASOBI",
@@ -1438,7 +1471,7 @@
       "detailPath": "entities/songs/c66e14b565e514f2.json"
     },
     {
-      "rank": 18196,
+      "rank": 18197,
       "id": "65854284a7160245",
       "name": "たぶん終わり",
       "secondary": "いよわ",
@@ -1468,7 +1501,7 @@
       "detailPath": "entities/songs/65854284a7160245.json"
     },
     {
-      "rank": 18197,
+      "rank": 18198,
       "id": "16148d62ce57154c",
       "name": "タマシイレボリューション",
       "secondary": "",
@@ -1501,7 +1534,7 @@
       "detailPath": "entities/songs/16148d62ce57154c.json"
     },
     {
-      "rank": 18198,
+      "rank": 18199,
       "id": "7959589a261ec3e1",
       "name": "だめにんげんだ！",
       "secondary": "薄塩指数",
@@ -1531,7 +1564,7 @@
       "detailPath": "entities/songs/7959589a261ec3e1.json"
     },
     {
-      "rank": 18199,
+      "rank": 18200,
       "id": "b5abe6b6ab4af771",
       "name": "ダメ人間",
       "secondary": "アルルカン",
@@ -1562,39 +1595,6 @@
         }
       ],
       "detailPath": "entities/songs/b5abe6b6ab4af771.json"
-    },
-    {
-      "rank": 18200,
-      "id": "46020ee9c0429744",
-      "name": "タユムコトナキナガレ",
-      "secondary": "いきものがかり",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "dpGl0HJCAdc",
-          "videoTitle": "【 #歌枠 】オールジャンル歌枠✨ #shorts #作業用bgm #karaoke【 #無原唱レコード / #朱名 】",
-          "channelName": "朱名 / SHUNA",
-          "publishedAt": "2026-09-17T11:22:25.513Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/dpGl0HJCAdc/hqdefault.jpg",
-          "sourcePath": "sources/dp/dpGl0HJCAdc.json",
-          "time": "1:26:16",
-          "seconds": 5176,
-          "songTitle": "タユムコトナキナガレ",
-          "artist": "いきものがかり"
-        }
-      ],
-      "detailPath": "entities/songs/46020ee9c0429744.json"
     }
   ]
 }

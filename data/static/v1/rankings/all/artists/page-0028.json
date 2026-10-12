@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "artists",
   "page": 28,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20003,
+  "totalCount": 20007,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2471,6 +2471,66 @@
     },
     {
       "rank": 1393,
+      "id": "0bd65e11dffd2d3e",
+      "name": "二宮和也",
+      "secondary": "",
+      "channelId": "UCxpmipyCaJ07EHwKlrIKHkA",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 12,
+      "videoCount": 12,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dizCL6FIrug",
+          "videoTitle": "【歌枠 / 弾き語り】眠れない人集合🍀まったりアコギと共に【翠星アスト/ゆにれいど！】",
+          "channelName": "翠星アスト / Asuto Suiboshi",
+          "publishedAt": "2026-10-04T14:18:27.298Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dizCL6FIrug/hqdefault.jpg",
+          "sourcePath": "sources/di/dizCL6FIrug.json",
+          "time": "1:06:37",
+          "seconds": 3997,
+          "songTitle": "虹",
+          "artist": "二宮和也"
+        },
+        {
+          "videoId": "t08g_8K17k0",
+          "videoTitle": "【 #夜に溶ける歌枠リレー 】君の夜に溶ける、一滴を。【 ARAWAZA / #冬萌ここな 】#Vsinger #VTuber #singingstream",
+          "channelName": "冬萌ここな",
+          "publishedAt": "2026-10-04T10:27:18.810Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/t08g_8K17k0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJPZnEZaSQoRLjoRAEWosSuypzBw",
+          "sourcePath": "sources/t0/t08g_8K17k0.json",
+          "time": "0:14:18",
+          "seconds": 858,
+          "songTitle": "虹",
+          "artist": "二宮和也"
+        },
+        {
+          "videoId": "xMlEGfM_gls",
+          "videoTitle": "【おはよう歌枠☀️】日曜朝からみんなに癒しを♡天然水ボイスVTuber月夜味ろあです🫧【#歌枠 】",
+          "channelName": "月夜味ろあ",
+          "publishedAt": "2026-10-04T02:35:48.324Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xMlEGfM_gls/hqdefault.jpg",
+          "sourcePath": "sources/xM/xMlEGfM_gls.json",
+          "time": "0:40:29",
+          "seconds": 2429,
+          "songTitle": "虹",
+          "artist": "二宮和也"
+        }
+      ],
+      "detailPath": "entities/artists/0bd65e11dffd2d3e.json"
+    },
+    {
+      "rank": 1394,
       "id": "ad285cbce89b7986",
       "name": "八九寺真宵(加藤英美里)",
       "secondary": "",
@@ -2530,7 +2590,7 @@
       "detailPath": "entities/artists/ad285cbce89b7986.json"
     },
     {
-      "rank": 1394,
+      "rank": 1395,
       "id": "aa8e3ae59d14500f",
       "name": "木村カエラ",
       "secondary": "",
@@ -2590,7 +2650,7 @@
       "detailPath": "entities/artists/aa8e3ae59d14500f.json"
     },
     {
-      "rank": 1395,
+      "rank": 1396,
       "id": "f2fa9c1cacac04a4",
       "name": "40mP feat.初音ミク ※JOYSOUND",
       "secondary": "",
@@ -2649,7 +2709,7 @@
       "detailPath": "entities/artists/f2fa9c1cacac04a4.json"
     },
     {
-      "rank": 1396,
+      "rank": 1397,
       "id": "d33f3c0da266aeae",
       "name": "GOING STEADY",
       "secondary": "",
@@ -2707,7 +2767,7 @@
       "detailPath": "entities/artists/d33f3c0da266aeae.json"
     },
     {
-      "rank": 1397,
+      "rank": 1398,
       "id": "a134f73432c556f4",
       "name": "HoneyWorks feat.初音ミク",
       "secondary": "",
@@ -2766,7 +2826,7 @@
       "detailPath": "entities/artists/a134f73432c556f4.json"
     },
     {
-      "rank": 1398,
+      "rank": 1399,
       "id": "2001049b876b13b4",
       "name": "Kai feat. 初音ミク",
       "secondary": "",
@@ -2825,7 +2885,7 @@
       "detailPath": "entities/artists/2001049b876b13b4.json"
     },
     {
-      "rank": 1399,
+      "rank": 1400,
       "id": "b01105ed6669f816",
       "name": "meg rock",
       "secondary": "",
@@ -2885,66 +2945,6 @@
         }
       ],
       "detailPath": "entities/artists/b01105ed6669f816.json"
-    },
-    {
-      "rank": 1400,
-      "id": "44a39b5f0b8a97ab",
-      "name": "MIMI feat. 可不",
-      "secondary": "",
-      "channelId": "UCXJU6BfIN_y4XzESpNLADOg",
-      "channelHandle": "@hakanaumiu",
-      "channelUrl": "",
-      "occurrenceCount": 12,
-      "videoCount": 11,
-      "songCount": 3,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "S6eq8uq2jrM",
-          "videoTitle": "【 歌枠┊︎初見さんおいで】癒しの歌をお届けします🌙ピアノ伴奏縛り【 #儚羽みう┊︎新人vtubar 】",
-          "channelName": "Miu Ch.儚羽みう",
-          "publishedAt": "2026-10-09T14:12:20.598Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/S6eq8uq2jrM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-zNNCsQVKUak5qctl9aidPXZreA",
-          "sourcePath": "sources/S6/S6eq8uq2jrM.json",
-          "time": "0:57:50",
-          "seconds": 3470,
-          "songTitle": "今はいいんだよ",
-          "artist": "MIMI feat. 可不"
-        },
-        {
-          "videoId": "QaMpCNcMO0E",
-          "videoTitle": "【#歌枠 / #karaoke】今日も今日とて歌うよ（短め）【狗甘わをん】",
-          "channelName": "狗甘(いぬかい)わをん",
-          "publishedAt": "2026-09-30T14:43:31.213Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QaMpCNcMO0E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCuZ4j6qyrF7HzAGths-VQMDmbepg",
-          "sourcePath": "sources/Qa/QaMpCNcMO0E.json",
-          "time": "1:14:16",
-          "seconds": 4456,
-          "songTitle": "だきしめるまで",
-          "artist": "MIMI feat. 可不"
-        },
-        {
-          "videoId": "QSd4DW7tfr4",
-          "videoTitle": "【 歌枠┊︎Karaoke 】定期歌枠✨うさぎのギャップある歌声興味ないですか？初見さん＆作業用BGM大歓迎【 個人Vtuber┊︎#時音ありす 】",
-          "channelName": "時音ありす Tokine Alice Music ch.",
-          "publishedAt": "2026-09-23T15:40:10.447Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QSd4DW7tfr4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsv1ffzKii7xqxRW6ZKDpeQfXWkg",
-          "sourcePath": "sources/QS/QSd4DW7tfr4.json",
-          "time": "1:06:36",
-          "seconds": 3996,
-          "songTitle": "今はいいんだよ",
-          "artist": "MIMI feat. 可不"
-        }
-      ],
-      "detailPath": "entities/artists/44a39b5f0b8a97ab.json"
     }
   ]
 }

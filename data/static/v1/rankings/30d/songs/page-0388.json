@@ -1,16 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "30d",
   "type": "songs",
   "page": 388,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27665,
+  "totalCount": 27672,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 19351,
+      "id": "9c6db01be38b1fbd",
+      "name": "ひきだし",
+      "secondary": "",
+      "channelId": "UCY37cMdtKzrEw0Gq7D1jsuA",
+      "channelHandle": "@music_shino",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "OHqgZ9AZYw4",
+          "videoTitle": "【 小林柊矢 】【フル動画】弾き語り町田路上ライブ",
+          "channelName": "music紫乃",
+          "publishedAt": "2026-09-19T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OHqgZ9AZYw4/hqdefault.jpg",
+          "sourcePath": "sources/OH/OHqgZ9AZYw4.json",
+          "time": "0:08:26",
+          "seconds": 506,
+          "songTitle": "ひきだし",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/9c6db01be38b1fbd.json"
+    },
+    {
+      "rank": 19352,
       "id": "9987dd5e63df0ca6",
       "name": "ひぐらしのなく頃に",
       "secondary": "島みやえい子（アニメ『ひぐらしのなく頃に』OP）",
@@ -43,7 +73,7 @@
       "detailPath": "entities/songs/9987dd5e63df0ca6.json"
     },
     {
-      "rank": 19352,
+      "rank": 19353,
       "id": "568547b7afdbd3db",
       "name": "ヒゲとボイン",
       "secondary": "",
@@ -76,7 +106,7 @@
       "detailPath": "entities/songs/568547b7afdbd3db.json"
     },
     {
-      "rank": 19353,
+      "rank": 19354,
       "id": "aa897cfaf72c46ac",
       "name": "ひこうき雲",
       "secondary": "荒井由実（松任谷由実）",
@@ -110,7 +140,7 @@
       "detailPath": "entities/songs/aa897cfaf72c46ac.json"
     },
     {
-      "rank": 19354,
+      "rank": 19355,
       "id": "00f631b7a6333ef2",
       "name": "ひこうき雲",
       "secondary": "松任谷由実(フル)",
@@ -140,7 +170,7 @@
       "detailPath": "entities/songs/00f631b7a6333ef2.json"
     },
     {
-      "rank": 19355,
+      "rank": 19356,
       "id": "f1f3b98e741c483c",
       "name": "ひこうき雲",
       "secondary": "風立ちぬOST",
@@ -170,7 +200,7 @@
       "detailPath": "entities/songs/f1f3b98e741c483c.json"
     },
     {
-      "rank": 19356,
+      "rank": 19357,
       "id": "46b859cee14f2d8a",
       "name": "ひこうき雲(ｼｮｰﾄvar)",
       "secondary": "荒井由実",
@@ -203,7 +233,7 @@
       "detailPath": "entities/songs/46b859cee14f2d8a.json"
     },
     {
-      "rank": 19357,
+      "rank": 19358,
       "id": "3d1a07eacb21d793",
       "name": "ひこうき雲〈Hikouki Gumo〉",
       "secondary": "荒井由実",
@@ -233,7 +263,7 @@
       "detailPath": "entities/songs/3d1a07eacb21d793.json"
     },
     {
-      "rank": 19358,
+      "rank": 19359,
       "id": "7f98cbe3532264af",
       "name": "ヒステリックナイトガール",
       "secondary": "PSYQUI・Such",
@@ -266,7 +296,7 @@
       "detailPath": "entities/songs/7f98cbe3532264af.json"
     },
     {
-      "rank": 19359,
+      "rank": 19360,
       "id": "b348beed52c8e252",
       "name": "ピストル",
       "secondary": "黒夢",
@@ -299,7 +329,7 @@
       "detailPath": "entities/songs/b348beed52c8e252.json"
     },
     {
-      "rank": 19360,
+      "rank": 19361,
       "id": "0b6a77aef5ee4056",
       "name": "ピストル",
       "secondary": "",
@@ -332,7 +362,7 @@
       "detailPath": "entities/songs/0b6a77aef5ee4056.json"
     },
     {
-      "rank": 19361,
+      "rank": 19362,
       "id": "152e3ed4e5543333",
       "name": "ビタースイート",
       "secondary": "三月のパンタシア",
@@ -365,7 +395,7 @@
       "detailPath": "entities/songs/152e3ed4e5543333.json"
     },
     {
-      "rank": 19362,
+      "rank": 19363,
       "id": "ade598679dd81c88",
       "name": "ビタースウィート",
       "secondary": "",
@@ -398,7 +428,7 @@
       "detailPath": "entities/songs/ade598679dd81c88.json"
     },
     {
-      "rank": 19363,
+      "rank": 19364,
       "id": "7fc5748a9b739ce0",
       "name": "ビターチョコデコレーション",
       "secondary": "",
@@ -431,7 +461,7 @@
       "detailPath": "entities/songs/7fc5748a9b739ce0.json"
     },
     {
-      "rank": 19364,
+      "rank": 19365,
       "id": "45b688f760d08042",
       "name": "ビターチョコデコレーション",
       "secondary": "初音ミク",
@@ -464,7 +494,7 @@
       "detailPath": "entities/songs/45b688f760d08042.json"
     },
     {
-      "rank": 19365,
+      "rank": 19366,
       "id": "d4421c3e7ed2cb7a",
       "name": "ピタゴラス・ウィッチ",
       "secondary": "Kai",
@@ -497,7 +527,7 @@
       "detailPath": "entities/songs/d4421c3e7ed2cb7a.json"
     },
     {
-      "rank": 19366,
+      "rank": 19367,
       "id": "2f60947bc5f5d6cd",
       "name": "ピタゴラス・ウィッチ",
       "secondary": "",
@@ -530,7 +560,7 @@
       "detailPath": "entities/songs/2f60947bc5f5d6cd.json"
     },
     {
-      "rank": 19367,
+      "rank": 19368,
       "id": "7a89470da58ea1c4",
       "name": "ピタゴラス・ウィッチ",
       "secondary": "Kai ※動画付き",
@@ -563,7 +593,7 @@
       "detailPath": "entities/songs/7a89470da58ea1c4.json"
     },
     {
-      "rank": 19368,
+      "rank": 19369,
       "id": "5f5b1cff4f113dfe",
       "name": "ピタゴラス・ウィッチ",
       "secondary": "Kai feat. 初音ミク",
@@ -596,7 +626,7 @@
       "detailPath": "entities/songs/5f5b1cff4f113dfe.json"
     },
     {
-      "rank": 19369,
+      "rank": 19370,
       "id": "4327d4d261c977ed",
       "name": "ピタス",
       "secondary": "上顎に貼り付けるタイプののど飴",
@@ -629,7 +659,7 @@
       "detailPath": "entities/songs/4327d4d261c977ed.json"
     },
     {
-      "rank": 19370,
+      "rank": 19371,
       "id": "7542d41fdfeebf3a",
       "name": "ひだまりの詩／Le Couple／1997/05",
       "secondary": "16",
@@ -659,7 +689,7 @@
       "detailPath": "entities/songs/7542d41fdfeebf3a.json"
     },
     {
-      "rank": 19371,
+      "rank": 19372,
       "id": "f176f734fee1b7fc",
       "name": "ひたむきシンデレラ！",
       "secondary": "CANDY TUNE",
@@ -689,7 +719,7 @@
       "detailPath": "entities/songs/f176f734fee1b7fc.json"
     },
     {
-      "rank": 19372,
+      "rank": 19373,
       "id": "9edbd6b577b404a6",
       "name": "ひたむきシンデレラ！",
       "secondary": "Orca,塩谷大貴",
@@ -722,7 +752,7 @@
       "detailPath": "entities/songs/9edbd6b577b404a6.json"
     },
     {
-      "rank": 19373,
+      "rank": 19374,
       "id": "96ca9e1a6a60d3d5",
       "name": "ひたむきシンデレラ!",
       "secondary": "CUTIE STREET ※JOYSOUND",
@@ -755,7 +785,7 @@
       "detailPath": "entities/songs/96ca9e1a6a60d3d5.json"
     },
     {
-      "rank": 19374,
+      "rank": 19375,
       "id": "2cd3378ef500769e",
       "name": "ピチカートドロップス",
       "secondary": "とあ",
@@ -788,7 +818,7 @@
       "detailPath": "entities/songs/2cd3378ef500769e.json"
     },
     {
-      "rank": 19375,
+      "rank": 19376,
       "id": "068b60c1d4416b18",
       "name": "ピチカートドロップス",
       "secondary": "初音ミク",
@@ -821,7 +851,7 @@
       "detailPath": "entities/songs/068b60c1d4416b18.json"
     },
     {
-      "rank": 19376,
+      "rank": 19377,
       "id": "c6fcc425d0df0430",
       "name": "ピチカートドロップス/ とあ feat. 初音ミク (かなうちゃん Cover: https",
       "secondary": "youtu.be/DUt5vZxY0U0",
@@ -851,7 +881,7 @@
       "detailPath": "entities/songs/c6fcc425d0df0430.json"
     },
     {
-      "rank": 19377,
+      "rank": 19378,
       "id": "3840cd623dfb1109",
       "name": "ぴっかぴか",
       "secondary": "宮崎奈穂子(ｵﾘｼﾞﾅﾙ)",
@@ -884,7 +914,7 @@
       "detailPath": "entities/songs/3840cd623dfb1109.json"
     },
     {
-      "rank": 19378,
+      "rank": 19379,
       "id": "4529604e8659591f",
       "name": "びっくらこきDX",
       "secondary": "これまでの歩みを振り返り感謝",
@@ -917,7 +947,7 @@
       "detailPath": "entities/songs/4529604e8659591f.json"
     },
     {
-      "rank": 19379,
+      "rank": 19380,
       "id": "70b901b097de1ed8",
       "name": "ひつじ雲",
       "secondary": "whoo, acane_madder",
@@ -950,7 +980,7 @@
       "detailPath": "entities/songs/70b901b097de1ed8.json"
     },
     {
-      "rank": 19380,
+      "rank": 19381,
       "id": "c925e2dfe133c251",
       "name": "ぴったりしたいX’mas!",
       "secondary": "プッチモニ",
@@ -983,7 +1013,7 @@
       "detailPath": "entities/songs/c925e2dfe133c251.json"
     },
     {
-      "rank": 19381,
+      "rank": 19382,
       "id": "bc0f417bbd297e8c",
       "name": "ぴてぃぱてぃサバイバード",
       "secondary": "ゲスかわ☆ガールズ",
@@ -1016,7 +1046,7 @@
       "detailPath": "entities/songs/bc0f417bbd297e8c.json"
     },
     {
-      "rank": 19382,
+      "rank": 19383,
       "id": "8fe272b4f30a0164",
       "name": "ビデオ戦士レザリオン",
       "secondary": "ビデオ戦士レザリオン",
@@ -1049,7 +1079,7 @@
       "detailPath": "entities/songs/8fe272b4f30a0164.json"
     },
     {
-      "rank": 19383,
+      "rank": 19384,
       "id": "3addd0b358588386",
       "name": "ひどい人",
       "secondary": "柳井鹿目",
@@ -1082,7 +1112,7 @@
       "detailPath": "entities/songs/3addd0b358588386.json"
     },
     {
-      "rank": 19384,
+      "rank": 19385,
       "id": "98adf53da42be0b8",
       "name": "ヒトサマアレルギー",
       "secondary": "かいりきベア",
@@ -1115,7 +1145,7 @@
       "detailPath": "entities/songs/98adf53da42be0b8.json"
     },
     {
-      "rank": 19385,
+      "rank": 19386,
       "id": "a96f24f5665af2f4",
       "name": "ヒトツボシ",
       "secondary": "KOH+",
@@ -1148,7 +1178,7 @@
       "detailPath": "entities/songs/a96f24f5665af2f4.json"
     },
     {
-      "rank": 19386,
+      "rank": 19387,
       "id": "2672c46d392b0ea6",
       "name": "ヒトヒラのハナビラ",
       "secondary": "BLEACH",
@@ -1178,7 +1208,7 @@
       "detailPath": "entities/songs/2672c46d392b0ea6.json"
     },
     {
-      "rank": 19387,
+      "rank": 19388,
       "id": "675123a1b22166a3",
       "name": "ひとり",
       "secondary": "ｺﾞｽﾍﾟﾗｰｽﾞ",
@@ -1211,7 +1241,7 @@
       "detailPath": "entities/songs/675123a1b22166a3.json"
     },
     {
-      "rank": 19388,
+      "rank": 19389,
       "id": "ea860f13d1080c5f",
       "name": "ヒトリ",
       "secondary": "かりん",
@@ -1241,7 +1271,7 @@
       "detailPath": "entities/songs/ea860f13d1080c5f.json"
     },
     {
-      "rank": 19389,
+      "rank": 19390,
       "id": "1787c681b3e7d71c",
       "name": "ひとりあやとり",
       "secondary": "田村 ゆかり",
@@ -1271,7 +1301,7 @@
       "detailPath": "entities/songs/1787c681b3e7d71c.json"
     },
     {
-      "rank": 19390,
+      "rank": 19391,
       "id": "df6a5e37b5d193aa",
       "name": "ひとりがち",
       "secondary": "Rokuro ft.IA",
@@ -1304,7 +1334,7 @@
       "detailPath": "entities/songs/df6a5e37b5d193aa.json"
     },
     {
-      "rank": 19391,
+      "rank": 19392,
       "id": "8e5dacba8aa6e4fd",
       "name": "ひとりごつ",
       "secondary": "ハチワレ（ちいかわ）",
@@ -1337,7 +1367,7 @@
       "detailPath": "entities/songs/8e5dacba8aa6e4fd.json"
     },
     {
-      "rank": 19392,
+      "rank": 19393,
       "id": "e1710b2f618604e4",
       "name": "ひとりごつ",
       "secondary": "ハチワレ (清唱)",
@@ -1370,7 +1400,7 @@
       "detailPath": "entities/songs/e1710b2f618604e4.json"
     },
     {
-      "rank": 19393,
+      "rank": 19394,
       "id": "e1089023e33092be",
       "name": "ひとりごつ",
       "secondary": "少しだけ",
@@ -1403,7 +1433,7 @@
       "detailPath": "entities/songs/e1089023e33092be.json"
     },
     {
-      "rank": 19394,
+      "rank": 19395,
       "id": "24bf7d71057bf648",
       "name": "ひとりごつ",
       "secondary": "可愛いすぎた",
@@ -1436,7 +1466,7 @@
       "detailPath": "entities/songs/24bf7d71057bf648.json"
     },
     {
-      "rank": 19395,
+      "rank": 19396,
       "id": "815b844d3f1e27bf",
       "name": "ひとりごつ",
       "secondary": "ハチワレ (田中誠人さん)",
@@ -1469,7 +1499,7 @@
       "detailPath": "entities/songs/815b844d3f1e27bf.json"
     },
     {
-      "rank": 19396,
+      "rank": 19397,
       "id": "04744c43b5f2d0ea",
       "name": "ひとりごつ",
       "secondary": "田中誠人",
@@ -1502,7 +1532,7 @@
       "detailPath": "entities/songs/04744c43b5f2d0ea.json"
     },
     {
-      "rank": 19397,
+      "rank": 19398,
       "id": "25e718a4f6e1302d",
       "name": "ひとりごつ",
       "secondary": "ハチワレ(CV:田中誠人) アカペラVer",
@@ -1535,7 +1565,7 @@
       "detailPath": "entities/songs/25e718a4f6e1302d.json"
     },
     {
-      "rank": 19398,
+      "rank": 19399,
       "id": "58341dc4aba1f871",
       "name": "ひとりごつ\tハチワレ",
       "secondary": "田中 誠人 (2022年6月)",
@@ -1568,7 +1598,7 @@
       "detailPath": "entities/songs/58341dc4aba1f871.json"
     },
     {
-      "rank": 19399,
+      "rank": 19400,
       "id": "6222d2082d2a9bff",
       "name": "ひとりごつ～バンドVer.～",
       "secondary": "ハチワレ(CV:田中誠人)",
@@ -1599,39 +1629,6 @@
         }
       ],
       "detailPath": "entities/songs/6222d2082d2a9bff.json"
-    },
-    {
-      "rank": 19400,
-      "id": "fef21af93d8b432f",
-      "name": "ひとりごつ～バンドVer.～",
-      "secondary": "ちいかわ",
-      "channelId": "UCS4Yh2-S2jj2Du73rN2YyYg",
-      "channelHandle": "@usamaru_2525",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "E61zdK55BDY",
-          "videoTitle": "【アニソン歌枠 第607回】🎵リクOK🎵昭和・平成・令和のアニソンのごった煮はいかがですか？Let's sing ANIME music【うさ丸】",
-          "channelName": "うさ丸 usamaru",
-          "publishedAt": "2026-10-06T17:18:33.659Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/E61zdK55BDY/hqdefault.jpg",
-          "sourcePath": "sources/E6/E61zdK55BDY.json",
-          "time": "0:14:40",
-          "seconds": 880,
-          "songTitle": "ひとりごつ～バンドVer.～",
-          "artist": "ちいかわ"
-        }
-      ],
-      "detailPath": "entities/songs/fef21af93d8b432f.json"
     }
   ]
 }

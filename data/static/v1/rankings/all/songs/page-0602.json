@@ -1,16 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "all",
   "type": "songs",
   "page": 602,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52829,
+  "totalCount": 52835,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 30051,
+      "id": "3211c5432f9ff6b8",
+      "name": "アイロニ",
+      "secondary": "すこっぷ様",
+      "channelId": "UCcbqPA1ifBsptVz0FhzHBJQ",
+      "channelHandle": "@CArO_neko",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "AiaJnO0Lh6A",
+          "videoTitle": "【歌枠】古ミク曲歌うぞ！集えミク廃【きゃろ/Vtuber】",
+          "channelName": "きゃろ-CArO-",
+          "publishedAt": "2026-08-31T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AiaJnO0Lh6A/hqdefault.jpg",
+          "sourcePath": "sources/Ai/AiaJnO0Lh6A.json",
+          "time": "2:07:11",
+          "seconds": 7631,
+          "songTitle": "アイロニ",
+          "artist": "すこっぷ様"
+        }
+      ],
+      "detailPath": "entities/songs/3211c5432f9ff6b8.json"
+    },
+    {
+      "rank": 30052,
       "id": "94e7157697b7b4df",
       "name": "アイロニ",
       "secondary": "すこっぷ feat.初音ミク ※JOYSOUND",
@@ -43,7 +73,7 @@
       "detailPath": "entities/songs/94e7157697b7b4df.json"
     },
     {
-      "rank": 30052,
+      "rank": 30053,
       "id": "b41d4237dbec9be9",
       "name": "アイロニ",
       "secondary": "すこっぷ feat.初音ミクAppend",
@@ -73,7 +103,7 @@
       "detailPath": "entities/songs/b41d4237dbec9be9.json"
     },
     {
-      "rank": 30053,
+      "rank": 30054,
       "id": "8d1f932ab2ee3b30",
       "name": "アイロニ",
       "secondary": "すこっぷp",
@@ -106,7 +136,7 @@
       "detailPath": "entities/songs/8d1f932ab2ee3b30.json"
     },
     {
-      "rank": 30054,
+      "rank": 30055,
       "id": "4f4a24ee9e967a30",
       "name": "アイロニ -Piano Ver",
       "secondary": "未記載",
@@ -138,7 +168,7 @@
       "detailPath": "entities/songs/4f4a24ee9e967a30.json"
     },
     {
-      "rank": 30055,
+      "rank": 30056,
       "id": "b1ed34825f15e927",
       "name": "アイロニ Piano",
       "secondary": "すこっぷ",
@@ -168,7 +198,7 @@
       "detailPath": "entities/songs/b1ed34825f15e927.json"
     },
     {
-      "rank": 30056,
+      "rank": 30057,
       "id": "5d76cda79312e93c",
       "name": "アイロニ(-2)",
       "secondary": "すこっぷ",
@@ -198,7 +228,7 @@
       "detailPath": "entities/songs/5d76cda79312e93c.json"
     },
     {
-      "rank": 30057,
+      "rank": 30058,
       "id": "e0946d6d5b12b927",
       "name": "アイロニーナ",
       "secondary": "未記載",
@@ -230,7 +260,7 @@
       "detailPath": "entities/songs/e0946d6d5b12b927.json"
     },
     {
-      "rank": 30058,
+      "rank": 30059,
       "id": "54174bb90efe7fd4",
       "name": "アイロニックメタファー",
       "secondary": "蝶々P feat.初音ミク",
@@ -263,7 +293,7 @@
       "detailPath": "entities/songs/54174bb90efe7fd4.json"
     },
     {
-      "rank": 30059,
+      "rank": 30060,
       "id": "77d4b9981134cbbf",
       "name": "アイワナビー",
       "secondary": "",
@@ -293,7 +323,7 @@
       "detailPath": "entities/songs/77d4b9981134cbbf.json"
     },
     {
-      "rank": 30060,
+      "rank": 30061,
       "id": "5c8792aacfd968a9",
       "name": "アイワナムチュ",
       "secondary": "メゾン・デ",
@@ -323,7 +353,7 @@
       "detailPath": "entities/songs/5c8792aacfd968a9.json"
     },
     {
-      "rank": 30061,
+      "rank": 30062,
       "id": "0d0bf78216c40ce6",
       "name": "アイワナムチュ― feat. asmi, すりぃ",
       "secondary": "MAISONdes",
@@ -356,7 +386,7 @@
       "detailPath": "entities/songs/0d0bf78216c40ce6.json"
     },
     {
-      "rank": 30062,
+      "rank": 30063,
       "id": "b4572ffcae889261",
       "name": "アイワナムチュー feat. asmi, すりぃ",
       "secondary": "",
@@ -386,7 +416,7 @@
       "detailPath": "entities/songs/b4572ffcae889261.json"
     },
     {
-      "rank": 30063,
+      "rank": 30064,
       "id": "5be72e806519387b",
       "name": "アイワナムチュー feat. asmi, すりぃ",
       "secondary": "asmi ／ うる星やつら(2022年)",
@@ -416,7 +446,7 @@
       "detailPath": "entities/songs/5be72e806519387b.json"
     },
     {
-      "rank": 30064,
+      "rank": 30065,
       "id": "be602d8af55bcd24",
       "name": "アイワナムチュー feat. asmi，すりぃ",
       "secondary": "MAISONdes ※JOYSOUND",
@@ -449,7 +479,7 @@
       "detailPath": "entities/songs/be602d8af55bcd24.json"
     },
     {
-      "rank": 30065,
+      "rank": 30066,
       "id": "d5e55c5ff153fe69",
       "name": "アイヲウタエ",
       "secondary": "ClariS",
@@ -482,7 +512,7 @@
       "detailPath": "entities/songs/d5e55c5ff153fe69.json"
     },
     {
-      "rank": 30066,
+      "rank": 30067,
       "id": "db078e6e5953c48e",
       "name": "アイヲウタエ",
       "secondary": "じん ft. 春奈るな",
@@ -515,7 +545,7 @@
       "detailPath": "entities/songs/db078e6e5953c48e.json"
     },
     {
-      "rank": 30067,
+      "rank": 30068,
       "id": "7ce0be692f1a48e7",
       "name": "アイを識らない",
       "secondary": "未記載",
@@ -549,7 +579,7 @@
       "detailPath": "entities/songs/7ce0be692f1a48e7.json"
     },
     {
-      "rank": 30068,
+      "rank": 30069,
       "id": "950666650aa0d833",
       "name": "アインストール",
       "secondary": "石川 智晶",
@@ -583,7 +613,7 @@
       "detailPath": "entities/songs/950666650aa0d833.json"
     },
     {
-      "rank": 30069,
+      "rank": 30070,
       "id": "d6aa5bd7afb44556",
       "name": "アイ情劣等生",
       "secondary": "かいりきベア",
@@ -616,7 +646,7 @@
       "detailPath": "entities/songs/d6aa5bd7afb44556.json"
     },
     {
-      "rank": 30070,
+      "rank": 30071,
       "id": "9b05f8723b5ca19f",
       "name": "アヴァロンの王冠",
       "secondary": "Crown of Avalon",
@@ -649,7 +679,7 @@
       "detailPath": "entities/songs/9b05f8723b5ca19f.json"
     },
     {
-      "rank": 30071,
+      "rank": 30072,
       "id": "e949fcb34787d313",
       "name": "アヴィド",
       "secondary": "エチェ",
@@ -679,7 +709,7 @@
       "detailPath": "entities/songs/e949fcb34787d313.json"
     },
     {
-      "rank": 30072,
+      "rank": 30073,
       "id": "9de5d1b1cdb3bef9",
       "name": "アウターサイエンス",
       "secondary": "",
@@ -712,7 +742,7 @@
       "detailPath": "entities/songs/9de5d1b1cdb3bef9.json"
     },
     {
-      "rank": 30073,
+      "rank": 30074,
       "id": "2a49934b44ec6907",
       "name": "アウターサイエンス",
       "secondary": "自然の敵P",
@@ -745,7 +775,7 @@
       "detailPath": "entities/songs/2a49934b44ec6907.json"
     },
     {
-      "rank": 30074,
+      "rank": 30075,
       "id": "a64f696686539eda",
       "name": "アウターサイエンス",
       "secondary": "3点",
@@ -778,7 +808,7 @@
       "detailPath": "entities/songs/a64f696686539eda.json"
     },
     {
-      "rank": 30075,
+      "rank": 30076,
       "id": "70b94c19d29821bc",
       "name": "アウターサイエンス 9曲目",
       "secondary": "未記載",
@@ -811,7 +841,7 @@
       "detailPath": "entities/songs/70b94c19d29821bc.json"
     },
     {
-      "rank": 30076,
+      "rank": 30077,
       "id": "a114011c29396e02",
       "name": "アウト オブ エデン",
       "secondary": "kouhei feat. 鏡音レン",
@@ -844,7 +874,7 @@
       "detailPath": "entities/songs/a114011c29396e02.json"
     },
     {
-      "rank": 30077,
+      "rank": 30078,
       "id": "1e63f21043824a1a",
       "name": "アウトサイダー",
       "secondary": "未記載",
@@ -877,7 +907,7 @@
       "detailPath": "entities/songs/1e63f21043824a1a.json"
     },
     {
-      "rank": 30078,
+      "rank": 30079,
       "id": "98e0bfd3544a5cf5",
       "name": "アウフヘーベン",
       "secondary": "Mrs. GREEN APPLE (2018)",
@@ -910,7 +940,7 @@
       "detailPath": "entities/songs/98e0bfd3544a5cf5.json"
     },
     {
-      "rank": 30079,
+      "rank": 30080,
       "id": "5195b51e94c1ea36",
       "name": "あえいうえおあお〜",
       "secondary": "未記載",
@@ -943,7 +973,7 @@
       "detailPath": "entities/songs/5195b51e94c1ea36.json"
     },
     {
-      "rank": 30080,
+      "rank": 30081,
       "id": "38116660470d4149",
       "name": "アオイイロ",
       "secondary": "水樹奈々",
@@ -973,7 +1003,7 @@
       "detailPath": "entities/songs/38116660470d4149.json"
     },
     {
-      "rank": 30081,
+      "rank": 30082,
       "id": "2ae748e58b3a36ae",
       "name": "アオイトリ",
       "secondary": "fumika",
@@ -1006,7 +1036,7 @@
       "detailPath": "entities/songs/2ae748e58b3a36ae.json"
     },
     {
-      "rank": 30082,
+      "rank": 30083,
       "id": "b67a579f4dd4b742",
       "name": "アオイハル",
       "secondary": "ミセカイ",
@@ -1036,7 +1066,7 @@
       "detailPath": "entities/songs/b67a579f4dd4b742.json"
     },
     {
-      "rank": 30083,
+      "rank": 30084,
       "id": "d325646b223b2b90",
       "name": "あおいろはぐれぼし",
       "secondary": "ぴこんちゃん",
@@ -1069,7 +1099,7 @@
       "detailPath": "entities/songs/d325646b223b2b90.json"
     },
     {
-      "rank": 30084,
+      "rank": 30085,
       "id": "0073b763b9314abe",
       "name": "あおぞら",
       "secondary": "",
@@ -1102,7 +1132,7 @@
       "detailPath": "entities/songs/0073b763b9314abe.json"
     },
     {
-      "rank": 30085,
+      "rank": 30086,
       "id": "f4518504c6dde56c",
       "name": "あおぞらメイ",
       "secondary": "",
@@ -1132,7 +1162,7 @@
       "detailPath": "entities/songs/f4518504c6dde56c.json"
     },
     {
-      "rank": 30086,
+      "rank": 30087,
       "id": "f63d42edfe270714",
       "name": "アカイト",
       "secondary": "みきとP (mikitoP) ft. 初音ミク",
@@ -1166,7 +1196,7 @@
       "detailPath": "entities/songs/f63d42edfe270714.json"
     },
     {
-      "rank": 30087,
+      "rank": 30088,
       "id": "68dde6250172497b",
       "name": "アカイト-VOCALOID ver",
       "secondary": "みきとP",
@@ -1199,7 +1229,7 @@
       "detailPath": "entities/songs/68dde6250172497b.json"
     },
     {
-      "rank": 30088,
+      "rank": 30089,
       "id": "9edef16a3adc2c8a",
       "name": "アカシ",
       "secondary": "XIIX(TenTwenty) 「ドラゴンクエスト ダイの大冒険」ED2",
@@ -1229,7 +1259,7 @@
       "detailPath": "entities/songs/9edef16a3adc2c8a.json"
     },
     {
-      "rank": 30089,
+      "rank": 30090,
       "id": "4429e1bc32cca584",
       "name": "アカシア",
       "secondary": "BUMP OF CHICKEN ※男性vo",
@@ -1259,7 +1289,7 @@
       "detailPath": "entities/songs/4429e1bc32cca584.json"
     },
     {
-      "rank": 30090,
+      "rank": 30091,
       "id": "88cf2d394326fce4",
       "name": "アカシア",
       "secondary": "歌い直し",
@@ -1292,7 +1322,7 @@
       "detailPath": "entities/songs/88cf2d394326fce4.json"
     },
     {
-      "rank": 30091,
+      "rank": 30092,
       "id": "fe60a27f5830320b",
       "name": "アカシア",
       "secondary": "PUMP OF CHICKEN",
@@ -1325,7 +1355,7 @@
       "detailPath": "entities/songs/fe60a27f5830320b.json"
     },
     {
-      "rank": 30092,
+      "rank": 30093,
       "id": "89f5ab557dc3eea5",
       "name": "アカシア",
       "secondary": "4点",
@@ -1358,7 +1388,7 @@
       "detailPath": "entities/songs/89f5ab557dc3eea5.json"
     },
     {
-      "rank": 30093,
+      "rank": 30094,
       "id": "d6e9fe64931a6f84",
       "name": "アカシア",
       "secondary": "ポケモンとバンプコラボ",
@@ -1391,7 +1421,7 @@
       "detailPath": "entities/songs/d6e9fe64931a6f84.json"
     },
     {
-      "rank": 30094,
+      "rank": 30095,
       "id": "90e0bd5641cafef6",
       "name": "アカシア",
       "secondary": "Acacia 🤍 (BUMP OF CHICKEN)",
@@ -1424,7 +1454,7 @@
       "detailPath": "entities/songs/90e0bd5641cafef6.json"
     },
     {
-      "rank": 30095,
+      "rank": 30096,
       "id": "c96d2bd26f3f6b58",
       "name": "アカシア",
       "secondary": "BUMP OF CHICKEN / ポケモン",
@@ -1457,7 +1487,7 @@
       "detailPath": "entities/songs/c96d2bd26f3f6b58.json"
     },
     {
-      "rank": 30096,
+      "rank": 30097,
       "id": "80fef79b47a4c90e",
       "name": "アカシア　(『ポケットモンスター』スペシャルMV『GOTCHA!』テーマソング)",
       "secondary": "BUMP OF CHICKEN",
@@ -1490,7 +1520,7 @@
       "detailPath": "entities/songs/80fef79b47a4c90e.json"
     },
     {
-      "rank": 30097,
+      "rank": 30098,
       "id": "50081b0dc2e1b493",
       "name": "アカシア『Pokémon Special Music』",
       "secondary": "BUMP OF CHICKEN",
@@ -1523,7 +1553,7 @@
       "detailPath": "entities/songs/50081b0dc2e1b493.json"
     },
     {
-      "rank": 30098,
+      "rank": 30099,
       "id": "794f806d21ed17a5",
       "name": "アカシック",
       "secondary": "ブラック",
@@ -1553,7 +1583,7 @@
       "detailPath": "entities/songs/794f806d21ed17a5.json"
     },
     {
-      "rank": 30099,
+      "rank": 30100,
       "id": "30877da8a15816df",
       "name": "アカシック",
       "secondary": "アルカイックセンチメント",
@@ -1581,36 +1611,6 @@
         }
       ],
       "detailPath": "entities/songs/30877da8a15816df.json"
-    },
-    {
-      "rank": 30100,
-      "id": "c9135460b1a4b9ca",
-      "name": "アカシック",
-      "secondary": "8ミリフィルム",
-      "channelId": "UCkgkDO3P4ns1OiC7esfWp0w",
-      "channelHandle": "@mel0v0lem",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "sYNUulPR4jA",
-          "videoTitle": "【 めろぉ、の歌枠 】 めろちやんがおうた歌うとこ #23【 カラオケJOYSOUND for STREAMER Proプラン 】",
-          "channelName": "めろぉ、",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sYNUulPR4jA/hqdefault.jpg",
-          "sourcePath": "sources/sY/sYNUulPR4jA.json",
-          "time": "0:40:07",
-          "seconds": 2407,
-          "songTitle": "アカシック",
-          "artist": "8ミリフィルム"
-        }
-      ],
-      "detailPath": "entities/songs/c9135460b1a4b9ca.json"
     }
   ]
 }

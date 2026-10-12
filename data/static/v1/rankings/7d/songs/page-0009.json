@@ -1,61 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:13:04.360Z",
+  "generatedAt": "2026-10-12T14:19:06.575Z",
   "range": "7d",
   "type": "songs",
   "page": 9,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3594,
+  "totalCount": 3580,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 401,
-      "id": "ddf36f2ed405e786",
-      "name": "9",
-      "secondary": "30 は",
-      "channelId": "UCo-6f6ogBC5VJ0ymcW8z82A",
-      "channelHandle": "@%E3%81%95%E3%81%B0%E3%81%97%E3%82%8Djazz",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "qQnnmc6kkTY",
-          "videoTitle": "猫のゆるジャズ喫茶【Vtuber 歌枠】 / 初見様リクエスト１曲どうぞ♪ 広告無 BGMに最適♪プロ歌手が Jazz, Bossa, Pop, Soul など歌うよ",
-          "channelName": "さばしろ JazzVocal",
-          "publishedAt": "2026-10-12T09:11:37.770Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qQnnmc6kkTY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMPs1KbqiNu-F_gakasMtVahZAHA",
-          "sourcePath": "sources/qQ/qQnnmc6kkTY.json",
-          "time": "0:15:00",
-          "seconds": 900,
-          "songTitle": "9",
-          "artist": "30 は"
-        },
-        {
-          "videoId": "RPTYbocssHE",
-          "videoTitle": "猫のゆるジャズ喫茶【Vtuber 歌枠】 / 初見様リクエスト１曲どうぞ♪ 広告無 BGMに最適♪プロ歌手が Jazz, Bossa, Pop, Soul など歌うよ",
-          "channelName": "さばしろ JazzVocal",
-          "publishedAt": "2026-10-07T11:42:33.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RPTYbocssHE/hqdefault.jpg",
-          "sourcePath": "sources/RP/RPTYbocssHE.json",
-          "time": "0:15:00",
-          "seconds": 900,
-          "songTitle": "9",
-          "artist": "30 は"
-        }
-      ],
-      "detailPath": "entities/songs/ddf36f2ed405e786.json"
-    },
-    {
-      "rank": 402,
       "id": "13bb1aa0955b8479",
       "name": "Alice",
       "secondary": "古川本舗",
@@ -100,7 +55,7 @@
       "detailPath": "entities/songs/13bb1aa0955b8479.json"
     },
     {
-      "rank": 403,
+      "rank": 402,
       "id": "3a8a9737dd02cae9",
       "name": "ASH",
       "secondary": "LiSA",
@@ -145,7 +100,7 @@
       "detailPath": "entities/songs/3a8a9737dd02cae9.json"
     },
     {
-      "rank": 404,
+      "rank": 403,
       "id": "029cd53c7b8e5829",
       "name": "Automatic",
       "secondary": "宇多田ヒカル",
@@ -190,7 +145,7 @@
       "detailPath": "entities/songs/029cd53c7b8e5829.json"
     },
     {
-      "rank": 405,
+      "rank": 404,
       "id": "117b203bb60a3728",
       "name": "Best Friend",
       "secondary": "Kiroro",
@@ -235,7 +190,7 @@
       "detailPath": "entities/songs/117b203bb60a3728.json"
     },
     {
-      "rank": 406,
+      "rank": 405,
       "id": "7a752109c6b16af7",
       "name": "Bitter",
       "secondary": "ロス",
@@ -281,7 +236,7 @@
       "detailPath": "entities/songs/7a752109c6b16af7.json"
     },
     {
-      "rank": 407,
+      "rank": 406,
       "id": "8d5571278f57d7be",
       "name": "Bling-Bang-Bang-Born",
       "secondary": "Creepy Nuts",
@@ -324,6 +279,51 @@
         }
       ],
       "detailPath": "entities/songs/8d5571278f57d7be.json"
+    },
+    {
+      "rank": 407,
+      "id": "35062fb6c06a9521",
+      "name": "Booo!",
+      "secondary": "西沢さんP",
+      "channelId": "UCF0CGQ2oRB_W9dvrKusZJOA",
+      "channelHandle": "@%E3%81%95%E3%81%8D%E3%81%AE%E3%82%93_non",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "8QdbxplvZuM",
+          "videoTitle": "【#虹色シンフォニー歌枠リレー】最初ハツキちゃん爆音です！すみません！QR画像ミスったので、ウルちゃんの枠で表示されています！元気なイエローパワーをお送りします！！【#狼谷はるか #歌枠 】",
+          "channelName": "狼谷はるか / Kamiya Haruka ch.",
+          "publishedAt": "2026-10-12T11:18:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8QdbxplvZuM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4BnsfjEqS7MvgX7_F0t4-WR1iSQ",
+          "sourcePath": "sources/8Q/8QdbxplvZuM.json",
+          "time": "0:05:09",
+          "seconds": 309,
+          "songTitle": "Booo!",
+          "artist": "西沢さんP"
+        },
+        {
+          "videoId": "qK_AZkoq3gI",
+          "videoTitle": "【縦型歌枠】高評価50→80目指したい！初見さん◎アニソン・ボカロ歌います！【さきのん/VPL】カラオケJOYSOUND for STREAMER",
+          "channelName": "さきのん-Sakinon-",
+          "publishedAt": "2026-10-07T23:12:38.288Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qK_AZkoq3gI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOS9sfUmL1vIsHtlq_4hM1aLLulA",
+          "sourcePath": "sources/qK/qK_AZkoq3gI.json",
+          "time": "0:17:35",
+          "seconds": 1055,
+          "songTitle": "Booo!",
+          "artist": "西沢さんP"
+        }
+      ],
+      "detailPath": "entities/songs/35062fb6c06a9521.json"
     },
     {
       "rank": 408,
@@ -913,51 +913,6 @@
     },
     {
       "rank": 421,
-      "id": "8bc8323bee966c0f",
-      "name": "Family Song",
-      "secondary": "星野源",
-      "channelId": "UC6me72Hv7D5KgGLAwHytDPg",
-      "channelHandle": "@%E5%BE%A1%E5%B4%8E%E9%99%BD%E7%82%8E",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "JmtGFy43ZKs",
-          "videoTitle": "【 歌枠 】しっとりことこと煮込んだ縦型歌枠🎙️ 【 vsinger / 帝釈天ゆみお 】",
-          "channelName": "帝釈天ゆみお - Taishakuten Yumio -",
-          "publishedAt": "2026-10-06T17:37:12.038Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JmtGFy43ZKs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDklQTwo9gw9f2EeuxlXYPvs-8dCA",
-          "sourcePath": "sources/Jm/JmtGFy43ZKs.json",
-          "time": "0:06:18",
-          "seconds": 378,
-          "songTitle": "Family Song",
-          "artist": "星野源"
-        },
-        {
-          "videoId": "GDJh69SiwkY",
-          "videoTitle": "【 歌枠/Karaoke 】今日も一日おつかれちゃん！月曜歌枠【 男性VTuber 】",
-          "channelName": "御崎陽炎",
-          "publishedAt": "2026-10-05T14:18:51.498Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/GDJh69SiwkY/hqdefault.jpg",
-          "sourcePath": "sources/GD/GDJh69SiwkY.json",
-          "time": "0:37:55",
-          "seconds": 2275,
-          "songTitle": "Family Song",
-          "artist": "星野源"
-        }
-      ],
-      "detailPath": "entities/songs/8bc8323bee966c0f.json"
-    },
-    {
-      "rank": 422,
       "id": "f5814f6a7b06601a",
       "name": "Fantastic future",
       "secondary": "田村ゆかり",
@@ -1002,7 +957,7 @@
       "detailPath": "entities/songs/f5814f6a7b06601a.json"
     },
     {
-      "rank": 423,
+      "rank": 422,
       "id": "be04d0f6f785cdf8",
       "name": "Fighting My Way",
       "secondary": "花海咲季(長月あおい)",
@@ -1047,7 +1002,7 @@
       "detailPath": "entities/songs/be04d0f6f785cdf8.json"
     },
     {
-      "rank": 424,
+      "rank": 423,
       "id": "bc731be6187b6ea5",
       "name": "Flavor Of Life",
       "secondary": "宇多田ヒカル",
@@ -1093,7 +1048,7 @@
       "detailPath": "entities/songs/bc731be6187b6ea5.json"
     },
     {
-      "rank": 425,
+      "rank": 424,
       "id": "5e2fda5eb7220e34",
       "name": "FLY HIGH!!",
       "secondary": "BURNOUT SYNDROMES",
@@ -1138,7 +1093,7 @@
       "detailPath": "entities/songs/5e2fda5eb7220e34.json"
     },
     {
-      "rank": 426,
+      "rank": 425,
       "id": "b48261c3abd8b872",
       "name": "FREEDOM",
       "secondary": "西川貴教 with t.komuro",
@@ -1183,7 +1138,7 @@
       "detailPath": "entities/songs/b48261c3abd8b872.json"
     },
     {
-      "rank": 427,
+      "rank": 426,
       "id": "d78ab81ddab6e1bc",
       "name": "from the edge",
       "secondary": "FictionJunction feat.LiSA",
@@ -1228,7 +1183,7 @@
       "detailPath": "entities/songs/d78ab81ddab6e1bc.json"
     },
     {
-      "rank": 428,
+      "rank": 427,
       "id": "07d2b95cfdf0d0cb",
       "name": "from Y to Y",
       "secondary": "ジミーサムP",
@@ -1273,7 +1228,7 @@
       "detailPath": "entities/songs/07d2b95cfdf0d0cb.json"
     },
     {
-      "rank": 429,
+      "rank": 428,
       "id": "7bc8470a2e48d3e4",
       "name": "GLAMOROUS SKY",
       "secondary": "中島美嘉",
@@ -1318,7 +1273,7 @@
       "detailPath": "entities/songs/7bc8470a2e48d3e4.json"
     },
     {
-      "rank": 430,
+      "rank": 429,
       "id": "ec119b3b6cd2eb29",
       "name": "God knows",
       "secondary": "涼宮ハルヒ",
@@ -1363,7 +1318,7 @@
       "detailPath": "entities/songs/ec119b3b6cd2eb29.json"
     },
     {
-      "rank": 431,
+      "rank": 430,
       "id": "f064f2f92c10b934",
       "name": "God Knows…",
       "secondary": "涼宮ハルヒ（CV:平野綾）",
@@ -1408,7 +1363,7 @@
       "detailPath": "entities/songs/f064f2f92c10b934.json"
     },
     {
-      "rank": 432,
+      "rank": 431,
       "id": "b098fcc647137bc3",
       "name": "Habit",
       "secondary": "SEKAI NO OWARI",
@@ -1453,7 +1408,7 @@
       "detailPath": "entities/songs/b098fcc647137bc3.json"
     },
     {
-      "rank": 433,
+      "rank": 432,
       "id": "1df328d7042867cd",
       "name": "Ham",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1499,7 +1454,7 @@
       "detailPath": "entities/songs/1df328d7042867cd.json"
     },
     {
-      "rank": 434,
+      "rank": 433,
       "id": "c51b8b23627658d6",
       "name": "HANABI",
       "secondary": "いきものがかり",
@@ -1544,7 +1499,7 @@
       "detailPath": "entities/songs/c51b8b23627658d6.json"
     },
     {
-      "rank": 435,
+      "rank": 434,
       "id": "3f2f6e71511fc5da",
       "name": "heavenly days",
       "secondary": "新垣結衣",
@@ -1589,7 +1544,7 @@
       "detailPath": "entities/songs/3f2f6e71511fc5da.json"
     },
     {
-      "rank": 436,
+      "rank": 435,
       "id": "043b5387dcdbd65b",
       "name": "Hello,Again〜昔からある場所〜",
       "secondary": "My Little Lover",
@@ -1634,7 +1589,7 @@
       "detailPath": "entities/songs/043b5387dcdbd65b.json"
     },
     {
-      "rank": 437,
+      "rank": 436,
       "id": "f8db36e96b92d436",
       "name": "Home Sweet Home",
       "secondary": "YUKI",
@@ -1679,7 +1634,7 @@
       "detailPath": "entities/songs/f8db36e96b92d436.json"
     },
     {
-      "rank": 438,
+      "rank": 437,
       "id": "3a92652b1c6094a9",
       "name": "https",
       "secondary": "livepocket.jp/e/70146",
@@ -1724,7 +1679,7 @@
       "detailPath": "entities/songs/3a92652b1c6094a9.json"
     },
     {
-      "rank": 439,
+      "rank": 438,
       "id": "1e6baafae0b21c35",
       "name": "I LOVE",
       "secondary": "Official髭男dism",
@@ -1769,7 +1724,7 @@
       "detailPath": "entities/songs/1e6baafae0b21c35.json"
     },
     {
-      "rank": 440,
+      "rank": 439,
       "id": "fbf220800e694110",
       "name": "I wanna see you",
       "secondary": "阿部真央",
@@ -1814,7 +1769,7 @@
       "detailPath": "entities/songs/fbf220800e694110.json"
     },
     {
-      "rank": 441,
+      "rank": 440,
       "id": "4a037c4f25267cc5",
       "name": "I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた",
       "secondary": "宝鐘マリン",
@@ -1859,7 +1814,7 @@
       "detailPath": "entities/songs/4a037c4f25267cc5.json"
     },
     {
-      "rank": 442,
+      "rank": 441,
       "id": "10a040cd8cab3fce",
       "name": "INNOCENCE",
       "secondary": "藍井エイル",
@@ -1904,7 +1859,7 @@
       "detailPath": "entities/songs/10a040cd8cab3fce.json"
     },
     {
-      "rank": 443,
+      "rank": 442,
       "id": "a971533666209fe4",
       "name": "inside you",
       "secondary": "milet",
@@ -1949,7 +1904,7 @@
       "detailPath": "entities/songs/a971533666209fe4.json"
     },
     {
-      "rank": 444,
+      "rank": 443,
       "id": "39bd81741a94b05d",
       "name": "irony",
       "secondary": "ClariS",
@@ -1994,7 +1949,7 @@
       "detailPath": "entities/songs/39bd81741a94b05d.json"
     },
     {
-      "rank": 445,
+      "rank": 444,
       "id": "8edac3ab5c330ac9",
       "name": "Just Be Friends",
       "secondary": "Dixie Flatline",
@@ -2040,7 +1995,7 @@
       "detailPath": "entities/songs/8edac3ab5c330ac9.json"
     },
     {
-      "rank": 446,
+      "rank": 445,
       "id": "da564a4b86a84530",
       "name": "Just Be Friends",
       "secondary": "Dixie Flatline feat. 巡音ルカ",
@@ -2085,7 +2040,7 @@
       "detailPath": "entities/songs/da564a4b86a84530.json"
     },
     {
-      "rank": 447,
+      "rank": 446,
       "id": "e7110abbe0cab37a",
       "name": "K",
       "secondary": "BUMP OF CHICKEN",
@@ -2130,7 +2085,7 @@
       "detailPath": "entities/songs/e7110abbe0cab37a.json"
     },
     {
-      "rank": 448,
+      "rank": 447,
       "id": "0b4dd30bea4e57e6",
       "name": "LOVE PHANTOM",
       "secondary": "B'z",
@@ -2175,7 +2130,7 @@
       "detailPath": "entities/songs/0b4dd30bea4e57e6.json"
     },
     {
-      "rank": 449,
+      "rank": 448,
       "id": "9b909185459985c3",
       "name": "Lovers",
       "secondary": "Sumika",
@@ -2220,7 +2175,7 @@
       "detailPath": "entities/songs/9b909185459985c3.json"
     },
     {
-      "rank": 450,
+      "rank": 449,
       "id": "534b6e5ecbf63f8d",
       "name": "LOVEマシーン",
       "secondary": "モーニング娘。",
@@ -2263,6 +2218,51 @@
         }
       ],
       "detailPath": "entities/songs/534b6e5ecbf63f8d.json"
+    },
+    {
+      "rank": 450,
+      "id": "adf8588980f734d8",
+      "name": "Luna say maybe",
+      "secondary": "月村手毬(小鹿なお)",
+      "channelId": "UCFncf_dDaabeQBu_u5j3SHg",
+      "channelHandle": "@sakuma_akira",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "CIWRk72gm_E",
+          "videoTitle": "【2周年記念】デビュー2周年記念1500人耐久歌枠 #singing Stream【#vsinger / #vtuber 】",
+          "channelName": "coconoema ch.心祈エマ",
+          "publishedAt": "2026-10-12T00:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CIWRk72gm_E/hqdefault.jpg",
+          "sourcePath": "sources/CI/CIWRk72gm_E.json",
+          "time": "6:12:01",
+          "seconds": 22321,
+          "songTitle": "Luna say maybe",
+          "artist": "月村手毬(小鹿なお)"
+        },
+        {
+          "videoId": "MwAvobWhLqY",
+          "videoTitle": "🧸: 歌枠┊︎初見さんもおいで！深夜のゆる歌枠🌙.*🪽⊹₊ ˚.⋆〖 #咲真あきら #べあーどきゃすと #縦横同時配信 〗",
+          "channelName": "咲真あきら / Sakuma Akira",
+          "publishedAt": "2026-10-09T17:49:10.815Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MwAvobWhLqY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAy5RTNP1lzjpy4YpZX1YesyTkRDw",
+          "sourcePath": "sources/Mw/MwAvobWhLqY.json",
+          "time": "0:43:03",
+          "seconds": 2583,
+          "songTitle": "Luna say maybe",
+          "artist": "月村手毬(小鹿なお)"
+        }
+      ],
+      "detailPath": "entities/songs/adf8588980f734d8.json"
     }
   ]
 }
