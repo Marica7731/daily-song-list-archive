@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "items": [
     {
       "id": "9fdcfedcf7fab0c7",
@@ -11289,8 +11289,8 @@
       "type": "songs",
       "name": "ナイトルーティーン feat.suis from ヨルシカ",
       "secondary": "キタニタツヤ",
-      "occurrenceCount": 4,
-      "videoCount": 4,
+      "occurrenceCount": 5,
+      "videoCount": 5,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -11302,8 +11302,8 @@
       "detailPath": "entities/songs/9bcbe1083334bc3f.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "ナイトルーティーンfeatsuisfromヨルシカキタニタツヤ"
@@ -49060,12 +49060,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/9f8c9b34e9ab88fd.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "lostheavenlarcenciel"
     },
     {
@@ -73864,6 +73859,31 @@
       "text": "失恋ソング沢山聴いて泣いてばかりの私はもうりりあサマータイムレンダed2"
     },
     {
+      "id": "9a5f5b109783985b",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "ミルク",
+      "secondary": "シド",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/9a5f5b109783985b.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "ミルクシド"
+    },
+    {
       "id": "9957d54536d698f9",
       "channelId": "",
       "channelHandle": "",
@@ -96892,8 +96912,8 @@
       "detailPath": "entities/artists/922be79ccacfdd2a.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         }
       },
       "text": "バラクーダ"
@@ -97341,12 +97361,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/artists/9c5f01e82f6280e5.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "lynch"
     },
     {
@@ -113111,16 +113126,19 @@
       "type": "vtubers",
       "name": "青羽澄華 / 2.5次元シンガー",
       "secondary": "",
-      "occurrenceCount": 16,
-      "videoCount": 3,
-      "keywords": [],
+      "occurrenceCount": 23,
+      "videoCount": 4,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/vtubers/95726c0d03714987.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 16,
-          "videoCount": 3
+          "occurrenceCount": 23,
+          "videoCount": 4
         }
       },
       "text": "青羽澄華25次元シンガー"

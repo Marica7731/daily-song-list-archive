@@ -1,16 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 611,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 30501,
+      "id": "581ad9b6ca82f93a",
+      "name": "アブストラクト・ナンセンス",
+      "secondary": "Neru",
+      "channelId": "UC_BUaWRMmwyEyRsnzgWNt9A",
+      "channelHandle": "@DainNatsunagi",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "2JSFw1baEu0",
+          "videoTitle": "【歌枠】ボカロ縛り歌練習枠【㮈名岐デイン/VTuber】",
+          "channelName": "㮈名岐デイン / Natsunagi Dain",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2JSFw1baEu0/hqdefault.jpg",
+          "sourcePath": "sources/2J/2JSFw1baEu0.json",
+          "time": "2:09:58",
+          "seconds": 7798,
+          "songTitle": "アブストラクト・ナンセンス",
+          "artist": "Neru"
+        }
+      ],
+      "detailPath": "entities/songs/581ad9b6ca82f93a.json"
+    },
+    {
+      "rank": 30502,
       "id": "2824518dc59b734f",
       "name": "アフターグロウ",
       "secondary": "Astrabirth",
@@ -42,7 +72,7 @@
       "detailPath": "entities/songs/2824518dc59b734f.json"
     },
     {
-      "rank": 30502,
+      "rank": 30503,
       "id": "8b8d15954a23a04b",
       "name": "アフターダーク",
       "secondary": "未記載",
@@ -76,7 +106,7 @@
       "detailPath": "entities/songs/8b8d15954a23a04b.json"
     },
     {
-      "rank": 30503,
+      "rank": 30504,
       "id": "7d74ba76766c772d",
       "name": "アフターダーク",
       "secondary": "ASIAN KANG-FU GENARATION",
@@ -109,7 +139,7 @@
       "detailPath": "entities/songs/7d74ba76766c772d.json"
     },
     {
-      "rank": 30504,
+      "rank": 30505,
       "id": "334684e6d46b728a",
       "name": "アフターダーク",
       "secondary": "After Dark ASIAN KUNG-FU GENERATION / ASIAN KUNG-FU GENERATION",
@@ -142,7 +172,7 @@
       "detailPath": "entities/songs/334684e6d46b728a.json"
     },
     {
-      "rank": 30505,
+      "rank": 30506,
       "id": "57823b2af607196b",
       "name": "アフターダーク（うろ覚え）",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -175,7 +205,7 @@
       "detailPath": "entities/songs/57823b2af607196b.json"
     },
     {
-      "rank": 30506,
+      "rank": 30507,
       "id": "a8ebd480be58e4cf",
       "name": "アフタートーク",
       "secondary": "After talk",
@@ -205,7 +235,7 @@
       "detailPath": "entities/songs/a8ebd480be58e4cf.json"
     },
     {
-      "rank": 30507,
+      "rank": 30508,
       "id": "5f5b5c90baaed06e",
       "name": "アフターペイン",
       "secondary": "MILGRAM ムウ(CV:香里有佐)",
@@ -235,7 +265,7 @@
       "detailPath": "entities/songs/5f5b5c90baaed06e.json"
     },
     {
-      "rank": 30508,
+      "rank": 30509,
       "id": "6a20ec0f249dad5f",
       "name": "アブノーマルが足りない",
       "secondary": "アルカラ",
@@ -267,7 +297,7 @@
       "detailPath": "entities/songs/6a20ec0f249dad5f.json"
     },
     {
-      "rank": 30509,
+      "rank": 30510,
       "id": "362da760ece9fb62",
       "name": "アプリコットブロッサムマジック",
       "secondary": "朝倉杏子",
@@ -300,7 +330,7 @@
       "detailPath": "entities/songs/362da760ece9fb62.json"
     },
     {
-      "rank": 30510,
+      "rank": 30511,
       "id": "71526deb477fc0f4",
       "name": "アフロ軍曹",
       "secondary": "ダンス☆マン",
@@ -330,7 +360,7 @@
       "detailPath": "entities/songs/71526deb477fc0f4.json"
     },
     {
-      "rank": 30511,
+      "rank": 30512,
       "id": "ce7c5b2552685a49",
       "name": "アフロ軍曹",
       "secondary": "",
@@ -363,7 +393,7 @@
       "detailPath": "entities/songs/ce7c5b2552685a49.json"
     },
     {
-      "rank": 30512,
+      "rank": 30513,
       "id": "3364e0aeeaad809e",
       "name": "アベリアに代わる何かを",
       "secondary": "MSY",
@@ -397,7 +427,7 @@
       "detailPath": "entities/songs/3364e0aeeaad809e.json"
     },
     {
-      "rank": 30513,
+      "rank": 30514,
       "id": "4ba3530fe8276ecf",
       "name": "アベリアに代わる何かを",
       "secondary": "msy (msy)",
@@ -431,7 +461,7 @@
       "detailPath": "entities/songs/4ba3530fe8276ecf.json"
     },
     {
-      "rank": 30514,
+      "rank": 30515,
       "id": "d8f129b6acc8af79",
       "name": "アベリアに代わる何かを",
       "secondary": "マスイ feat. IA",
@@ -464,7 +494,7 @@
       "detailPath": "entities/songs/d8f129b6acc8af79.json"
     },
     {
-      "rank": 30515,
+      "rank": 30516,
       "id": "7d63b5e1aeaa1681",
       "name": "アボイドノート",
       "secondary": "Mrs. GREEN APPLE (2020)",
@@ -497,7 +527,7 @@
       "detailPath": "entities/songs/7d63b5e1aeaa1681.json"
     },
     {
-      "rank": 30516,
+      "rank": 30517,
       "id": "3d807c5d36ce7c1f",
       "name": "アボカド",
       "secondary": "yonige（ワンコーラス）",
@@ -530,7 +560,7 @@
       "detailPath": "entities/songs/3d807c5d36ce7c1f.json"
     },
     {
-      "rank": 30517,
+      "rank": 30518,
       "id": "4f178d56efbe351c",
       "name": "アボカド",
       "secondary": "",
@@ -563,7 +593,7 @@
       "detailPath": "entities/songs/4f178d56efbe351c.json"
     },
     {
-      "rank": 30518,
+      "rank": 30519,
       "id": "99ec5e8b3871b1ae",
       "name": "アボガド",
       "secondary": "Yonige",
@@ -593,7 +623,7 @@
       "detailPath": "entities/songs/99ec5e8b3871b1ae.json"
     },
     {
-      "rank": 30519,
+      "rank": 30520,
       "id": "7842ff9396f7507b",
       "name": "アポトーシス",
       "secondary": "Official髭男dism ⇒ 演奏のみ",
@@ -627,7 +657,7 @@
       "detailPath": "entities/songs/7842ff9396f7507b.json"
     },
     {
-      "rank": 30520,
+      "rank": 30521,
       "id": "a755743fc614a4f8",
       "name": "アポリア",
       "secondary": "未記載",
@@ -659,7 +689,7 @@
       "detailPath": "entities/songs/a755743fc614a4f8.json"
     },
     {
-      "rank": 30521,
+      "rank": 30522,
       "id": "c6fa51fab357bb71",
       "name": "アポロ",
       "secondary": "未記載",
@@ -691,7 +721,7 @@
       "detailPath": "entities/songs/c6fa51fab357bb71.json"
     },
     {
-      "rank": 30522,
+      "rank": 30523,
       "id": "a8fa53d26aa7a904",
       "name": "アポロ",
       "secondary": "ポルノグラフィティ (1999年)",
@@ -725,7 +755,7 @@
       "detailPath": "entities/songs/a8fa53d26aa7a904.json"
     },
     {
-      "rank": 30523,
+      "rank": 30524,
       "id": "1367f7a769e8fef9",
       "name": "アポロ",
       "secondary": "ポルノグラフィティ(初見)",
@@ -758,7 +788,7 @@
       "detailPath": "entities/songs/1367f7a769e8fef9.json"
     },
     {
-      "rank": 30524,
+      "rank": 30525,
       "id": "6756deb22239df39",
       "name": "アポロ",
       "secondary": "ポルノグラフィティ 様",
@@ -788,7 +818,7 @@
       "detailPath": "entities/songs/6756deb22239df39.json"
     },
     {
-      "rank": 30525,
+      "rank": 30526,
       "id": "f9461084964b3ecb",
       "name": "アポロ",
       "secondary": "くりたにか",
@@ -818,7 +848,7 @@
       "detailPath": "entities/songs/f9461084964b3ecb.json"
     },
     {
-      "rank": 30526,
+      "rank": 30527,
       "id": "818f8ec4323c11c5",
       "name": "アポロ",
       "secondary": "ポルノ グラフィティ(今月でデビュー27周年！おめでとうございます🎉)",
@@ -848,7 +878,7 @@
       "detailPath": "entities/songs/818f8ec4323c11c5.json"
     },
     {
-      "rank": 30527,
+      "rank": 30528,
       "id": "6605b4910386f0d5",
       "name": "アポロ",
       "secondary": "ポルノグラフティ",
@@ -881,7 +911,7 @@
       "detailPath": "entities/songs/6605b4910386f0d5.json"
     },
     {
-      "rank": 30528,
+      "rank": 30529,
       "id": "222c86ea3add5967",
       "name": "アポロ",
       "secondary": "Apollo ポルノグラフィティ / PornoGraffitti",
@@ -914,7 +944,7 @@
       "detailPath": "entities/songs/222c86ea3add5967.json"
     },
     {
-      "rank": 30529,
+      "rank": 30530,
       "id": "20cd7ee88c7eaa7b",
       "name": "アポロ",
       "secondary": "ポルノグラフィティ 自認ポルノグラフィティ？",
@@ -944,7 +974,7 @@
       "detailPath": "entities/songs/20cd7ee88c7eaa7b.json"
     },
     {
-      "rank": 30530,
+      "rank": 30531,
       "id": "0ead1413e833872f",
       "name": "アポロ",
       "secondary": "ポルノグラフィティ [かな]",
@@ -977,7 +1007,7 @@
       "detailPath": "entities/songs/0ead1413e833872f.json"
     },
     {
-      "rank": 30531,
+      "rank": 30532,
       "id": "077110e38e9f1ea9",
       "name": "アポロ（広島弁ver.）",
       "secondary": "ポルノグラフィティ",
@@ -1010,7 +1040,7 @@
       "detailPath": "entities/songs/077110e38e9f1ea9.json"
     },
     {
-      "rank": 30532,
+      "rank": 30533,
       "id": "6de0473d6702f8c3",
       "name": "あまいろ＊TeaParty",
       "secondary": "uniy",
@@ -1043,7 +1073,7 @@
       "detailPath": "entities/songs/6de0473d6702f8c3.json"
     },
     {
-      "rank": 30533,
+      "rank": 30534,
       "id": "ba52adc77479060f",
       "name": "アマツキツネ",
       "secondary": "まらしぃ×堀江晶太(kemu)×じん",
@@ -1073,7 +1103,7 @@
       "detailPath": "entities/songs/ba52adc77479060f.json"
     },
     {
-      "rank": 30534,
+      "rank": 30535,
       "id": "8008908cae4b8cbb",
       "name": "アマデウス",
       "secondary": "いとうかなこ",
@@ -1106,7 +1136,7 @@
       "detailPath": "entities/songs/8008908cae4b8cbb.json"
     },
     {
-      "rank": 30535,
+      "rank": 30536,
       "id": "7dcd621aff025ac2",
       "name": "あまねいろ",
       "secondary": "あまねもも",
@@ -1139,7 +1169,7 @@
       "detailPath": "entities/songs/7dcd621aff025ac2.json"
     },
     {
-      "rank": 30536,
+      "rank": 30537,
       "id": "41846c9f17cfe6f2",
       "name": "ぁまのじゃく",
       "secondary": "スマイレージ",
@@ -1169,7 +1199,7 @@
       "detailPath": "entities/songs/41846c9f17cfe6f2.json"
     },
     {
-      "rank": 30537,
+      "rank": 30538,
       "id": "eb2887b805386150",
       "name": "あみゃみゃみゃみゃ　あみゃみゃみゃみゃみゃみゃ　あみゃみゃみゃみゃ",
       "secondary": "五七五",
@@ -1202,7 +1232,7 @@
       "detailPath": "entities/songs/eb2887b805386150.json"
     },
     {
-      "rank": 30538,
+      "rank": 30539,
       "id": "78c2fec0e87b57ef",
       "name": "あむあむ(ᐡ⸝⸝⸝>𖥦<⸝⸝⸝ᐡ)",
       "secondary": "",
@@ -1235,7 +1265,7 @@
       "detailPath": "entities/songs/78c2fec0e87b57ef.json"
     },
     {
-      "rank": 30539,
+      "rank": 30540,
       "id": "4e04631f20aa549b",
       "name": "アムリタ",
       "secondary": "",
@@ -1268,7 +1298,7 @@
       "detailPath": "entities/songs/4e04631f20aa549b.json"
     },
     {
-      "rank": 30540,
+      "rank": 30541,
       "id": "f712aa57e5f0f6a8",
       "name": "アムリタ〈Amrita〉",
       "secondary": "牧野由依",
@@ -1298,7 +1328,7 @@
       "detailPath": "entities/songs/f712aa57e5f0f6a8.json"
     },
     {
-      "rank": 30541,
+      "rank": 30542,
       "id": "72d6dcefb9d0f236",
       "name": "アムリタ／牧野由依／劇場版『ツバサ・クロニクル 鳥カゴの国の姫君』主題歌／2005/08",
       "secondary": "18",
@@ -1328,7 +1358,7 @@
       "detailPath": "entities/songs/72d6dcefb9d0f236.json"
     },
     {
-      "rank": 30542,
+      "rank": 30543,
       "id": "60b827d02af8b53c",
       "name": "アメあと",
       "secondary": "",
@@ -1361,7 +1391,7 @@
       "detailPath": "entities/songs/60b827d02af8b53c.json"
     },
     {
-      "rank": 30543,
+      "rank": 30544,
       "id": "3f3f682ccea74adc",
       "name": "アメイジングハッピーハロウィンナイト",
       "secondary": "syudou",
@@ -1391,7 +1421,7 @@
       "detailPath": "entities/songs/3f3f682ccea74adc.json"
     },
     {
-      "rank": 30544,
+      "rank": 30545,
       "id": "6d9d00d0548e0a4d",
       "name": "あめちゃん",
       "secondary": "未記載",
@@ -1424,7 +1454,7 @@
       "detailPath": "entities/songs/6d9d00d0548e0a4d.json"
     },
     {
-      "rank": 30545,
+      "rank": 30546,
       "id": "85e7c43975930ce2",
       "name": "あめのうた",
       "secondary": "オリジナル曲",
@@ -1454,7 +1484,7 @@
       "detailPath": "entities/songs/85e7c43975930ce2.json"
     },
     {
-      "rank": 30546,
+      "rank": 30547,
       "id": "9bec8f1bf253ae32",
       "name": "アメフラシの歌 〜Beautiful Rain〜",
       "secondary": "ニケ・ルメルシエ（CV:前田玲奈）（アカペラ）",
@@ -1487,7 +1517,7 @@
       "detailPath": "entities/songs/9bec8f1bf253ae32.json"
     },
     {
-      "rank": 30547,
+      "rank": 30548,
       "id": "d96ac5eadd6e9a50",
       "name": "アメフラシの歌 ~Beautiful Rain~",
       "secondary": "ニケ・ルメルシエ(前田玲奈)",
@@ -1520,7 +1550,7 @@
       "detailPath": "entities/songs/d96ac5eadd6e9a50.json"
     },
     {
-      "rank": 30548,
+      "rank": 30549,
       "id": "92be0e85ef564449",
       "name": "アメフラシの歌 ～Beautiful Rain～",
       "secondary": "ニケ・ルメルシェ (CV:前田 玲奈)",
@@ -1553,7 +1583,7 @@
       "detailPath": "entities/songs/92be0e85ef564449.json"
     },
     {
-      "rank": 30549,
+      "rank": 30550,
       "id": "c622588edcef1198",
       "name": "アメフラシの歌～Beatiful Rain～",
       "secondary": "ニケ・ルメルシエ(前田玲奈)",
@@ -1584,36 +1614,6 @@
         }
       ],
       "detailPath": "entities/songs/c622588edcef1198.json"
-    },
-    {
-      "rank": 30550,
-      "id": "fbd978cd3573ab03",
-      "name": "アメフラシの歌～Beautiful Rain～／ニケ・ルメルシエ（前田玲奈）／アニメ『それでも世界は美しい』挿入歌／2014/05",
-      "secondary": "21",
-      "channelId": "UCT5fUg1KHzGbCGhKDGyLY6w",
-      "channelHandle": "@%E7%B6%BE%E7%80%AC%E6%A1%9C",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "w8S3Jioc6f8",
-          "videoTitle": "🌸#歌枠 🎤優しさと元気を紡ぐ夜🎶初見様歓迎✨LUMINOUS VOICE【女性VTuber／綾瀬桜】#karaoke",
-          "channelName": "綾瀬 桜",
-          "publishedAt": "2026-09-06T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/w8S3Jioc6f8/hqdefault.jpg",
-          "sourcePath": "sources/w8/w8S3Jioc6f8.json",
-          "time": "2:35:26",
-          "seconds": 9326,
-          "songTitle": "アメフラシの歌～Beautiful Rain～／ニケ・ルメルシエ（前田玲奈）／アニメ『それでも世界は美しい』挿入歌／2014/05",
-          "artist": "21"
-        }
-      ],
-      "detailPath": "entities/songs/fbd978cd3573ab03.json"
     }
   ]
 }

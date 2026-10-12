@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "artists",
   "page": 109,
   "pageSize": 50,
   "pageCount": 217,
-  "totalCount": 10831,
+  "totalCount": 10830,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1217,39 +1217,6 @@
     },
     {
       "rank": 5438,
-      "id": "9c5f01e82f6280e5",
-      "name": "lynch",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "GFd5TQKHVck",
-          "videoTitle": "【#歌枠 #雑談】酔っ払いの歌とFREE TALK【#新人vtuber 】",
-          "channelName": "灰棘らるむ",
-          "publishedAt": "2026-09-12T15:10:49.575Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/GFd5TQKHVck/hqdefault.jpg",
-          "sourcePath": "sources/GF/GFd5TQKHVck.json",
-          "time": "1:50:04",
-          "seconds": 6604,
-          "songTitle": "EVOKE",
-          "artist": "lynch"
-        }
-      ],
-      "detailPath": "entities/artists/9c5f01e82f6280e5.json"
-    },
-    {
-      "rank": 5439,
       "id": "18c3c39ba161b102",
       "name": "Lynn (2026) ゲーム「原神」タイアップ曲",
       "secondary": "",
@@ -1279,7 +1246,7 @@
       "detailPath": "entities/artists/18c3c39ba161b102.json"
     },
     {
-      "rank": 5440,
+      "rank": 5439,
       "id": "e0ec30dd182c6996",
       "name": "m.c.A.T",
       "secondary": "",
@@ -1309,7 +1276,7 @@
       "detailPath": "entities/artists/e0ec30dd182c6996.json"
     },
     {
-      "rank": 5441,
+      "rank": 5440,
       "id": "f3b1452c2800265d",
       "name": "M.o.v.e",
       "secondary": "",
@@ -1342,7 +1309,7 @@
       "detailPath": "entities/artists/f3b1452c2800265d.json"
     },
     {
-      "rank": 5442,
+      "rank": 5441,
       "id": "2ce8c545878de98d",
       "name": "M.S.S.Project",
       "secondary": "",
@@ -1372,7 +1339,7 @@
       "detailPath": "entities/artists/2ce8c545878de98d.json"
     },
     {
-      "rank": 5443,
+      "rank": 5442,
       "id": "807b4cbcf61ceede",
       "name": "M@STER VERSION",
       "secondary": "",
@@ -1405,7 +1372,7 @@
       "detailPath": "entities/artists/807b4cbcf61ceede.json"
     },
     {
-      "rank": 5444,
+      "rank": 5443,
       "id": "87c218bf3bf9f249",
       "name": "M2U feat.Guriri",
       "secondary": "",
@@ -1435,7 +1402,7 @@
       "detailPath": "entities/artists/87c218bf3bf9f249.json"
     },
     {
-      "rank": 5445,
+      "rank": 5444,
       "id": "bf5bc7722a4c4fc8",
       "name": "M2U x ダズビー",
       "secondary": "",
@@ -1468,7 +1435,7 @@
       "detailPath": "entities/artists/bf5bc7722a4c4fc8.json"
     },
     {
-      "rank": 5446,
+      "rank": 5445,
       "id": "dc898ffcc7e19c23",
       "name": "Maaya Uchida",
       "secondary": "",
@@ -1498,7 +1465,7 @@
       "detailPath": "entities/artists/dc898ffcc7e19c23.json"
     },
     {
-      "rank": 5447,
+      "rank": 5446,
       "id": "22ffe3d04d94af71",
       "name": "Machico / デリシャスパーティ♡プリキュア",
       "secondary": "",
@@ -1531,7 +1498,7 @@
       "detailPath": "entities/artists/22ffe3d04d94af71.json"
     },
     {
-      "rank": 5448,
+      "rank": 5447,
       "id": "9e81955d789b9437",
       "name": "Machico / トロピカル～ジュ！プリキュア",
       "secondary": "",
@@ -1564,7 +1531,7 @@
       "detailPath": "entities/artists/9e81955d789b9437.json"
     },
     {
-      "rank": 5449,
+      "rank": 5448,
       "id": "8f6306ca9a27c89c",
       "name": "Machiko Watanabe",
       "secondary": "",
@@ -1597,7 +1564,7 @@
       "detailPath": "entities/artists/8f6306ca9a27c89c.json"
     },
     {
-      "rank": 5450,
+      "rank": 5449,
       "id": "a68aeb2f94054e0a",
       "name": "MACO",
       "secondary": "",
@@ -1628,6 +1595,39 @@
         }
       ],
       "detailPath": "entities/artists/a68aeb2f94054e0a.json"
+    },
+    {
+      "rank": 5450,
+      "id": "e27b684251e2afb7",
+      "name": "Macross F",
+      "secondary": "",
+      "channelId": "UCqXsdheBs0ONTTiQTJqn5QQ",
+      "channelHandle": "@AlphaBettaVT",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "WP9ISkBmnaI",
+          "videoTitle": "【KARAOKE】Feesh Waiting for Requests!🐟🎶 #karaoke #歌枠",
+          "channelName": "Alpha Betta【V-Dere】",
+          "publishedAt": "2026-10-04T05:46:33.488Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WP9ISkBmnaI/hqdefault.jpg",
+          "sourcePath": "sources/WP/WP9ISkBmnaI.json",
+          "time": "2:23:50",
+          "seconds": 8630,
+          "songTitle": "Diamond Crevasse",
+          "artist": "Macross F"
+        }
+      ],
+      "detailPath": "entities/artists/e27b684251e2afb7.json"
     }
   ]
 }

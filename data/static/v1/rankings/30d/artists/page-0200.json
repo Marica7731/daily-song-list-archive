@@ -1,49 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "artists",
   "page": 200,
   "pageSize": 50,
   "pageCount": 217,
-  "totalCount": 10831,
+  "totalCount": 10830,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9951,
-      "id": "37cbfa8a52ec3368",
-      "name": "椎名林檎と浮雲",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "VxCx28oSNUs",
-          "videoTitle": "【 #歌枠：低音ハスキー】最近お出かけした話をしたり、大好きな歌を笑顔で歌いたい！！#初見さん大歓迎 【駆空なぎ/ステラリズ】",
-          "channelName": "駆空なぎ【魂で歌うVsinger】-Stellarhyth",
-          "publishedAt": "2026-09-29T12:40:05.685Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VxCx28oSNUs/hqdefault.jpg",
-          "sourcePath": "sources/Vx/VxCx28oSNUs.json",
-          "time": "0:57:27",
-          "seconds": 3447,
-          "songTitle": "長く短い祭",
-          "artist": "椎名林檎と浮雲"
-        }
-      ],
-      "detailPath": "entities/artists/37cbfa8a52ec3368.json"
-    },
-    {
-      "rank": 9952,
       "id": "166b12527931ee26",
       "name": "辻あやの",
       "secondary": "",
@@ -73,7 +40,7 @@
       "detailPath": "entities/artists/166b12527931ee26.json"
     },
     {
-      "rank": 9953,
+      "rank": 9952,
       "id": "44e16bab14484a8c",
       "name": "辻香織",
       "secondary": "",
@@ -103,7 +70,7 @@
       "detailPath": "entities/artists/44e16bab14484a8c.json"
     },
     {
-      "rank": 9954,
+      "rank": 9953,
       "id": "f7b5716c7eadc140",
       "name": "辻本夏実・小早川美幸",
       "secondary": "",
@@ -133,7 +100,7 @@
       "detailPath": "entities/artists/f7b5716c7eadc140.json"
     },
     {
-      "rank": 9955,
+      "rank": 9954,
       "id": "c41220c8c3131815",
       "name": "坪倉唯子",
       "secondary": "",
@@ -163,7 +130,7 @@
       "detailPath": "entities/artists/c41220c8c3131815.json"
     },
     {
-      "rank": 9956,
+      "rank": 9955,
       "id": "23b0cb4358fbd3a0",
       "name": "紬 ヴェンダース(CV:岩井映美里)",
       "secondary": "",
@@ -196,7 +163,7 @@
       "detailPath": "entities/artists/23b0cb4358fbd3a0.json"
     },
     {
-      "rank": 9957,
+      "rank": 9956,
       "id": "419457378a9d480e",
       "name": "低音版",
       "secondary": "",
@@ -229,7 +196,7 @@
       "detailPath": "entities/artists/419457378a9d480e.json"
     },
     {
-      "rank": 9958,
+      "rank": 9957,
       "id": "b6c16ef5bb8d1f58",
       "name": "帝国歌劇団（真宮寺さくら＆帝国歌劇団）",
       "secondary": "",
@@ -259,7 +226,7 @@
       "detailPath": "entities/artists/b6c16ef5bb8d1f58.json"
     },
     {
-      "rank": 9959,
+      "rank": 9958,
       "id": "7eceb92d85a1d547",
       "name": "帝国歌劇団/横山 智佐",
       "secondary": "",
@@ -289,7 +256,7 @@
       "detailPath": "entities/artists/7eceb92d85a1d547.json"
     },
     {
-      "rank": 9960,
+      "rank": 9959,
       "id": "6cb42b337ef31277",
       "name": "帝国歌撃団と横山智佐",
       "secondary": "",
@@ -322,7 +289,7 @@
       "detailPath": "entities/artists/6cb42b337ef31277.json"
     },
     {
-      "rank": 9961,
+      "rank": 9960,
       "id": "bb2dbf520c0740d2",
       "name": "帝国華撃団 花組",
       "secondary": "",
@@ -352,7 +319,7 @@
       "detailPath": "entities/artists/bb2dbf520c0740d2.json"
     },
     {
-      "rank": 9962,
+      "rank": 9961,
       "id": "6896b1df570f0809",
       "name": "帝国華撃団 花組(新)",
       "secondary": "",
@@ -382,7 +349,7 @@
       "detailPath": "entities/artists/6896b1df570f0809.json"
     },
     {
-      "rank": 9963,
+      "rank": 9962,
       "id": "334d9c4a97a3e389",
       "name": "帝子ちゃんの",
       "secondary": "",
@@ -412,7 +379,7 @@
       "detailPath": "entities/artists/334d9c4a97a3e389.json"
     },
     {
-      "rank": 9964,
+      "rank": 9963,
       "id": "d6289f0f5a0340bb",
       "name": "弟の姉",
       "secondary": "",
@@ -445,7 +412,7 @@
       "detailPath": "entities/artists/d6289f0f5a0340bb.json"
     },
     {
-      "rank": 9965,
+      "rank": 9964,
       "id": "ce5c2e8f6ebce3b1",
       "name": "鄭嘉穎",
       "secondary": "",
@@ -478,7 +445,7 @@
       "detailPath": "entities/artists/ce5c2e8f6ebce3b1.json"
     },
     {
-      "rank": 9966,
+      "rank": 9965,
       "id": "9e009a7b986b30b7",
       "name": "鄭希怡",
       "secondary": "",
@@ -508,7 +475,7 @@
       "detailPath": "entities/artists/9e009a7b986b30b7.json"
     },
     {
-      "rank": 9967,
+      "rank": 9966,
       "id": "0b5bff1ed5ff5b2a",
       "name": "鄭興",
       "secondary": "",
@@ -541,7 +508,7 @@
       "detailPath": "entities/artists/0b5bff1ed5ff5b2a.json"
     },
     {
-      "rank": 9968,
+      "rank": 9967,
       "id": "3562bdb8cdb33971",
       "name": "鄭潤澤",
       "secondary": "",
@@ -574,7 +541,7 @@
       "detailPath": "entities/artists/3562bdb8cdb33971.json"
     },
     {
-      "rank": 9969,
+      "rank": 9968,
       "id": "824e7a8db140020f",
       "name": "鄭爽 & 俞灝明",
       "secondary": "",
@@ -607,7 +574,7 @@
       "detailPath": "entities/artists/824e7a8db140020f.json"
     },
     {
-      "rank": 9970,
+      "rank": 9969,
       "id": "cec8e1610dcefc18",
       "name": "鄭智化",
       "secondary": "",
@@ -640,7 +607,7 @@
       "detailPath": "entities/artists/cec8e1610dcefc18.json"
     },
     {
-      "rank": 9971,
+      "rank": 9970,
       "id": "229b07dec68156e3",
       "name": "釘宮理恵",
       "secondary": "",
@@ -673,7 +640,7 @@
       "detailPath": "entities/artists/229b07dec68156e3.json"
     },
     {
-      "rank": 9972,
+      "rank": 9971,
       "id": "b06d644a3a5e8a52",
       "name": "釘宮理恵,堀江由衣,喜多村英梨",
       "secondary": "",
@@ -706,7 +673,7 @@
       "detailPath": "entities/artists/b06d644a3a5e8a52.json"
     },
     {
-      "rank": 9973,
+      "rank": 9972,
       "id": "e0e19b9e86dad250",
       "name": "釘宮理惠",
       "secondary": "",
@@ -739,7 +706,7 @@
       "detailPath": "entities/artists/e0e19b9e86dad250.json"
     },
     {
-      "rank": 9974,
+      "rank": 9973,
       "id": "abd0c3b9924e3f71",
       "name": "天羽ジュネ(宍戸留美)",
       "secondary": "",
@@ -772,7 +739,7 @@
       "detailPath": "entities/artists/abd0c3b9924e3f71.json"
     },
     {
-      "rank": 9975,
+      "rank": 9974,
       "id": "ecce09717e97053b",
       "name": "天海春香 (中村繪里子)・星井美希 (長谷川明子)・如月千早 (今井麻美)・高槻やよい (仁後真耶子)・萩原雪歩 (落合祐里香)・菊地真 (平田宏美)・双海真美 (下田麻美)・四条貴音 (原由実）・我那覇響 (沼倉愛美)",
       "secondary": "",
@@ -805,7 +772,7 @@
       "detailPath": "entities/artists/ecce09717e97053b.json"
     },
     {
-      "rank": 9976,
+      "rank": 9975,
       "id": "022ee46323dc4b7c",
       "name": "天海春香(CV:中村繪里子), 高槻やよい(CV:仁後真耶子), 水瀬伊織(CV:釘宮理恵)",
       "secondary": "",
@@ -835,7 +802,7 @@
       "detailPath": "entities/artists/022ee46323dc4b7c.json"
     },
     {
-      "rank": 9977,
+      "rank": 9976,
       "id": "9394d92166e335d7",
       "name": "天海春香(中村繪里子),水瀬伊織(釘宮理恵),高槻やよい(仁後真耶子)",
       "secondary": "",
@@ -868,7 +835,7 @@
       "detailPath": "entities/artists/9394d92166e335d7.json"
     },
     {
-      "rank": 9978,
+      "rank": 9977,
       "id": "e03b9dc16cde1b02",
       "name": "天海春香(中村繪里子)、高槻やよい(仁後真耶子)、水瀬伊織(釘宮理恵)",
       "secondary": "",
@@ -901,7 +868,7 @@
       "detailPath": "entities/artists/e03b9dc16cde1b02.json"
     },
     {
-      "rank": 9979,
+      "rank": 9978,
       "id": "7fd385be6726ea26",
       "name": "天宮さくら(佐倉綾音)、東雲初穂(内田真礼)、望月あざみ(山村響)、アナスタシア・パルマ(福原綾香)、クラリス(早見沙織)",
       "secondary": "",
@@ -934,7 +901,7 @@
       "detailPath": "entities/artists/7fd385be6726ea26.json"
     },
     {
-      "rank": 9980,
+      "rank": 9979,
       "id": "01d6efb3edb77ccd",
       "name": "天空のエスカフローネ",
       "secondary": "",
@@ -967,7 +934,7 @@
       "detailPath": "entities/artists/01d6efb3edb77ccd.json"
     },
     {
-      "rank": 9981,
+      "rank": 9980,
       "id": "384b8a5cf389fc69",
       "name": "天空のエスカフローネ Vision of Escaflowne",
       "secondary": "",
@@ -1000,7 +967,7 @@
       "detailPath": "entities/artists/384b8a5cf389fc69.json"
     },
     {
-      "rank": 9982,
+      "rank": 9981,
       "id": "cf11b86572e1398b",
       "name": "天空の城ラピュタ",
       "secondary": "",
@@ -1030,7 +997,7 @@
       "detailPath": "entities/artists/cf11b86572e1398b.json"
     },
     {
-      "rank": 9983,
+      "rank": 9982,
       "id": "42dc1588cafa74ff",
       "name": "天月-あまつき- × nqrse",
       "secondary": "",
@@ -1063,7 +1030,7 @@
       "detailPath": "entities/artists/42dc1588cafa74ff.json"
     },
     {
-      "rank": 9984,
+      "rank": 9983,
       "id": "b7f9304ebb6fd7df",
       "name": "天上ノア",
       "secondary": "",
@@ -1093,7 +1060,7 @@
       "detailPath": "entities/artists/b7f9304ebb6fd7df.json"
     },
     {
-      "rank": 9985,
+      "rank": 9984,
       "id": "55226db7467d69ae",
       "name": "天正遣欧少年使節",
       "secondary": "",
@@ -1126,7 +1093,7 @@
       "detailPath": "entities/artists/55226db7467d69ae.json"
     },
     {
-      "rank": 9986,
+      "rank": 9985,
       "id": "d838e1be78557c00",
       "name": "天体戦士サンレッド",
       "secondary": "",
@@ -1156,7 +1123,7 @@
       "detailPath": "entities/artists/d838e1be78557c00.json"
     },
     {
-      "rank": 9987,
+      "rank": 9986,
       "id": "589a1e9662f2b884",
       "name": "天堂天彦",
       "secondary": "",
@@ -1186,7 +1153,7 @@
       "detailPath": "entities/artists/589a1e9662f2b884.json"
     },
     {
-      "rank": 9988,
+      "rank": 9987,
       "id": "abd16f4a13c68098",
       "name": "天乃リリサ(前田佳織里)橘美花莉(鬼頭明里)",
       "secondary": "",
@@ -1216,7 +1183,7 @@
       "detailPath": "entities/artists/abd16f4a13c68098.json"
     },
     {
-      "rank": 9989,
+      "rank": 9988,
       "id": "3980c9213c82a50f",
       "name": "天野春子(小泉今日子)",
       "secondary": "",
@@ -1249,7 +1216,7 @@
       "detailPath": "entities/artists/3980c9213c82a50f.json"
     },
     {
-      "rank": 9990,
+      "rank": 9989,
       "id": "be5d474be74b13a5",
       "name": "転がる岩、君に朝が降る",
       "secondary": "",
@@ -1279,7 +1246,7 @@
       "detailPath": "entities/artists/be5d474be74b13a5.json"
     },
     {
-      "rank": 9991,
+      "rank": 9990,
       "id": "6d05a6aa82ed2ff7",
       "name": "転がる岩、君に朝が降る（不小心拖到自己）",
       "secondary": "",
@@ -1309,7 +1276,7 @@
       "detailPath": "entities/artists/6d05a6aa82ed2ff7.json"
     },
     {
-      "rank": 9992,
+      "rank": 9991,
       "id": "db73a124cbb8ac64",
       "name": "点描の唄",
       "secondary": "",
@@ -1339,7 +1306,7 @@
       "detailPath": "entities/artists/db73a124cbb8ac64.json"
     },
     {
-      "rank": 9993,
+      "rank": 9992,
       "id": "d81e8c0c5d4d7564",
       "name": "伝説の勇者ダ・ガーン",
       "secondary": "",
@@ -1372,7 +1339,7 @@
       "detailPath": "entities/artists/d81e8c0c5d4d7564.json"
     },
     {
-      "rank": 9994,
+      "rank": 9993,
       "id": "f9ff894555447387",
       "name": "田原俊彦 を歌唱",
       "secondary": "",
@@ -1405,7 +1372,7 @@
       "detailPath": "entities/artists/f9ff894555447387.json"
     },
     {
-      "rank": 9995,
+      "rank": 9994,
       "id": "ebc1d8f6c6767e1b",
       "name": "田原俊彦 を熱唱",
       "secondary": "",
@@ -1438,7 +1405,7 @@
       "detailPath": "entities/artists/ebc1d8f6c6767e1b.json"
     },
     {
-      "rank": 9996,
+      "rank": 9995,
       "id": "916b648ae77c40a8",
       "name": "田村ゆかり (2006)（おとぎ銃士 赤ずきん OP）",
       "secondary": "",
@@ -1468,7 +1435,7 @@
       "detailPath": "entities/artists/916b648ae77c40a8.json"
     },
     {
-      "rank": 9997,
+      "rank": 9996,
       "id": "6678786e71c1c67f",
       "name": "田村ゆかり (2013)（変態王子と笑わない猫。 OP）",
       "secondary": "",
@@ -1498,7 +1465,7 @@
       "detailPath": "entities/artists/6678786e71c1c67f.json"
     },
     {
-      "rank": 9998,
+      "rank": 9997,
       "id": "69eb39888f95a13b",
       "name": "田村ゆかり (2014)（のうりん OP）",
       "secondary": "",
@@ -1531,7 +1498,7 @@
       "detailPath": "entities/artists/69eb39888f95a13b.json"
     },
     {
-      "rank": 9999,
+      "rank": 9998,
       "id": "c365a438c1a16b77",
       "name": "田村英里子",
       "secondary": "",
@@ -1564,7 +1531,7 @@
       "detailPath": "entities/artists/c365a438c1a16b77.json"
     },
     {
-      "rank": 10000,
+      "rank": 9999,
       "id": "36b6201418d219fb",
       "name": "田村直美 ポケットモンスターより",
       "secondary": "",
@@ -1592,6 +1559,39 @@
         }
       ],
       "detailPath": "entities/artists/36b6201418d219fb.json"
+    },
+    {
+      "rank": 10000,
+      "id": "f8ce46e89365281a",
+      "name": "田村直美（アニメ『魔法騎士レイアース』OP）",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-Ajsl5qbewI",
+          "videoTitle": "【歌枠・KARAOKE】女性が歌った方が絶対イイ感じなアニソンを男が歌う歌枠！ 初見さんもROMも大歓迎！【ロック大好き】",
+          "channelName": "九傷(このきず)",
+          "publishedAt": "2026-09-19T10:59:51.059Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-Ajsl5qbewI/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLDwaLJ12f7K2W7PTWWbKXmJgrzDxw",
+          "sourcePath": "sources/-A/-Ajsl5qbewI.json",
+          "time": "1:33:05",
+          "seconds": 5585,
+          "songTitle": "ゆずれない願い",
+          "artist": "田村直美（アニメ『魔法騎士レイアース』OP）"
+        }
+      ],
+      "detailPath": "entities/artists/f8ce46e89365281a.json"
     }
   ]
 }

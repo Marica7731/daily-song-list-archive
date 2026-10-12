@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "vtubers",
   "page": 5,
   "pageSize": 50,
   "pageCount": 60,
-  "totalCount": 2966,
+  "totalCount": 2967,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1691,63 +1691,6 @@
     },
     {
       "rank": 232,
-      "id": "d45a1b74c52a9155",
-      "name": "灰棘らるむ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 67,
-      "videoCount": 8,
-      "songCount": 65,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ytmAHretC0E",
-          "videoTitle": "【#歌枠】全力！ボカロonly歌枠！【#新人vtuber 】",
-          "channelName": "灰棘らるむ",
-          "publishedAt": "2026-10-01T08:44:03.376Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ytmAHretC0E/hqdefault.jpg",
-          "sourcePath": "sources/yt/ytmAHretC0E.json",
-          "time": "0:06:45",
-          "seconds": 405,
-          "songTitle": "ロキ",
-          "artist": "みきとP feat.鏡音リン"
-        },
-        {
-          "videoId": "PrjJ_4kv6lw",
-          "videoTitle": "【#歌枠】全力！アニソン歌枠！【#新人vtuber 】",
-          "channelName": "灰棘らるむ",
-          "publishedAt": "2026-09-30T08:43:31.213Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PrjJ_4kv6lw/hqdefault.jpg",
-          "sourcePath": "sources/Pr/PrjJ_4kv6lw.json",
-          "time": "0:06:29",
-          "seconds": 389,
-          "songTitle": "星間飛行",
-          "artist": "ランカ・リー=中島愛"
-        },
-        {
-          "videoId": "_TpXzS1yDbA",
-          "videoTitle": "【#歌枠】全力！ラルクonly歌枠！【#新人vtuber 】",
-          "channelName": "灰棘らるむ",
-          "publishedAt": "2026-09-29T08:43:10.608Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_TpXzS1yDbA/hqdefault.jpg",
-          "sourcePath": "sources/_T/_TpXzS1yDbA.json",
-          "time": "0:06:32",
-          "seconds": 392,
-          "songTitle": "花葬",
-          "artist": "L'Arc〜en〜Ciel"
-        }
-      ],
-      "detailPath": "entities/vtubers/d45a1b74c52a9155.json"
-    },
-    {
-      "rank": 233,
       "id": "58d3f6a95f3d2820",
       "name": "音鍵めろ / Otokagi Mero",
       "secondary": "",
@@ -1804,7 +1747,7 @@
       "detailPath": "entities/vtubers/58d3f6a95f3d2820.json"
     },
     {
-      "rank": 234,
+      "rank": 233,
       "id": "c652ec926c82ba5d",
       "name": "歌野ねる / Utano neru",
       "secondary": "",
@@ -1861,7 +1804,7 @@
       "detailPath": "entities/vtubers/c652ec926c82ba5d.json"
     },
     {
-      "rank": 235,
+      "rank": 234,
       "id": "02d63c0d69ff0131",
       "name": "・*♢CoCoLuce♢*・",
       "secondary": "",
@@ -1918,7 +1861,7 @@
       "detailPath": "entities/vtubers/02d63c0d69ff0131.json"
     },
     {
-      "rank": 236,
+      "rank": 235,
       "id": "f2456287ade13de0",
       "name": "稍 麦 - yayamugi -",
       "secondary": "",
@@ -1975,7 +1918,7 @@
       "detailPath": "entities/vtubers/f2456287ade13de0.json"
     },
     {
-      "rank": 237,
+      "rank": 236,
       "id": "f7d2cb90b3d7a1e9",
       "name": "四葉メロンch",
       "secondary": "",
@@ -2032,7 +1975,7 @@
       "detailPath": "entities/vtubers/f7d2cb90b3d7a1e9.json"
     },
     {
-      "rank": 238,
+      "rank": 237,
       "id": "cd7f5af6625ff2da",
       "name": "小恋乃ほの / Kokono Hono Ch.",
       "secondary": "",
@@ -2077,7 +2020,7 @@
       "detailPath": "entities/vtubers/cd7f5af6625ff2da.json"
     },
     {
-      "rank": 239,
+      "rank": 238,
       "id": "7a0abb1713599eae",
       "name": "じゃんがりあん 🐹🍶 Jyangarian Ch.",
       "secondary": "",
@@ -2134,7 +2077,7 @@
       "detailPath": "entities/vtubers/7a0abb1713599eae.json"
     },
     {
-      "rank": 240,
+      "rank": 239,
       "id": "4b0606e409cca24a",
       "name": "武田玄愛 / Takeda kuroa",
       "secondary": "",
@@ -2191,7 +2134,7 @@
       "detailPath": "entities/vtubers/4b0606e409cca24a.json"
     },
     {
-      "rank": 241,
+      "rank": 240,
       "id": "d415dde10d90aa0a",
       "name": "ばに団長 -Vanita Scarlet-",
       "secondary": "",
@@ -2248,7 +2191,7 @@
       "detailPath": "entities/vtubers/d415dde10d90aa0a.json"
     },
     {
-      "rank": 242,
+      "rank": 241,
       "id": "e2675e67342d2a96",
       "name": "ブランク・ウリカ - Blanc Ulica -",
       "secondary": "",
@@ -2305,7 +2248,7 @@
       "detailPath": "entities/vtubers/e2675e67342d2a96.json"
     },
     {
-      "rank": 243,
+      "rank": 242,
       "id": "5e9b873d780912fb",
       "name": "心恋音むいる / Kokone Muiru【ベルプロ】",
       "secondary": "",
@@ -2362,7 +2305,7 @@
       "detailPath": "entities/vtubers/5e9b873d780912fb.json"
     },
     {
-      "rank": 244,
+      "rank": 243,
       "id": "d1f46e6a81dc8ecd",
       "name": "山羊々:Yagihitsuji",
       "secondary": "",
@@ -2419,7 +2362,7 @@
       "detailPath": "entities/vtubers/d1f46e6a81dc8ecd.json"
     },
     {
-      "rank": 245,
+      "rank": 244,
       "id": "7ead2443d2f79a04",
       "name": "美雨音くしー🎧",
       "secondary": "",
@@ -2464,7 +2407,7 @@
       "detailPath": "entities/vtubers/7ead2443d2f79a04.json"
     },
     {
-      "rank": 246,
+      "rank": 245,
       "id": "573642055de16f0e",
       "name": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
       "secondary": "",
@@ -2521,7 +2464,7 @@
       "detailPath": "entities/vtubers/573642055de16f0e.json"
     },
     {
-      "rank": 247,
+      "rank": 246,
       "id": "68b85a84992f44ba",
       "name": "まゆり",
       "secondary": "",
@@ -2578,7 +2521,7 @@
       "detailPath": "entities/vtubers/68b85a84992f44ba.json"
     },
     {
-      "rank": 248,
+      "rank": 247,
       "id": "126931919b14f298",
       "name": "えるるん / Erurun Channel",
       "secondary": "",
@@ -2636,7 +2579,7 @@
       "detailPath": "entities/vtubers/126931919b14f298.json"
     },
     {
-      "rank": 249,
+      "rank": 248,
       "id": "ef7260cbc443801c",
       "name": "合歓木ネム",
       "secondary": "",
@@ -2693,7 +2636,7 @@
       "detailPath": "entities/vtubers/ef7260cbc443801c.json"
     },
     {
-      "rank": 250,
+      "rank": 249,
       "id": "e704e4ed1fdead5c",
       "name": "ばしぽちゃんねる",
       "secondary": "",
@@ -2748,6 +2691,63 @@
         }
       ],
       "detailPath": "entities/vtubers/e704e4ed1fdead5c.json"
+    },
+    {
+      "rank": 250,
+      "id": "19494dba770884a1",
+      "name": "苑楽アソビ【びじぱと】",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 64,
+      "videoCount": 3,
+      "songCount": 46,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "IrLKw13m4mw",
+          "videoTitle": "【#歌枠 】月末前夜祭！！1曲聴いてって！！！【ボカロ・J-Pop・アニソン】#shorts #歌ってみた #vtuber #びじぱと",
+          "channelName": "苑楽アソビ【びじぱと】",
+          "publishedAt": "2026-09-26T15:48:54.683Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IrLKw13m4mw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAuh66hV_5X9orxLo0sLzGMLQ1c8g",
+          "sourcePath": "sources/Ir/IrLKw13m4mw.json",
+          "time": "0:14:33",
+          "seconds": 873,
+          "songTitle": "ヤラララ",
+          "artist": "AnythingBecomeMoe（full）"
+        },
+        {
+          "videoId": "DgsD5fTpSQ0",
+          "videoTitle": "【#歌枠 】1曲聴いてって！！！【ボカロ・J-Pop・アニソン】#shorts #歌ってみた #vtuber #びじぱと",
+          "channelName": "苑楽アソビ【びじぱと】",
+          "publishedAt": "2026-09-19T15:59:51.059Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DgsD5fTpSQ0/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLDgElmMY9UQZyRyvRp5HBbs2AV0UQ",
+          "sourcePath": "sources/Dg/DgsD5fTpSQ0.json",
+          "time": "0:06:15",
+          "seconds": 375,
+          "songTitle": "『君が代』/ー",
+          "artist": ""
+        },
+        {
+          "videoId": "480lptnzEnA",
+          "videoTitle": "【#歌枠 】1曲聴いてって！！！【ボカロ・J-Pop・アニソン】#shorts #歌ってみた #vtuber #びじぱと",
+          "channelName": "苑楽アソビ【びじぱと】",
+          "publishedAt": "2026-09-12T16:07:05.434Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/480lptnzEnA/hqdefault.jpg",
+          "sourcePath": "sources/48/480lptnzEnA.json",
+          "time": "0:06:18",
+          "seconds": 378,
+          "songTitle": "『君が代』/ー",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/vtubers/19494dba770884a1.json"
     }
   ]
 }

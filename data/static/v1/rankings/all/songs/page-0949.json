@@ -1,16 +1,83 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 949,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 47401,
+      "id": "a059b597f2bb4f5d",
+      "name": "青と夏(ピアノver) 2回目",
+      "secondary": "未記載",
+      "channelId": "UClFHHhLwUst2x5Fe5TVQ_vw",
+      "channelHandle": "@jyangaria_n",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ewsELnJcQ4c",
+          "videoTitle": "【#歌枠】夏曲縛りで最高の華金歌枠🎇🍻 #karaoke #vtuber 【公宴中】",
+          "channelName": "じゃんがりあん 🐹🍶 Jyangarian Ch.",
+          "publishedAt": "2026-08-07T14:12:00.722Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ewsELnJcQ4c/hqdefault.jpg",
+          "sourcePath": "sources/ew/ewsELnJcQ4c.json",
+          "time": "1:23:50",
+          "seconds": 5030,
+          "songTitle": "青と夏(ピアノver) 2回目",
+          "artist": "未記載"
+        }
+      ],
+      "detailPath": "entities/songs/a059b597f2bb4f5d.json"
+    },
+    {
+      "rank": 47402,
+      "id": "4d48650b6c759316",
+      "name": "青と夏(フェイク)",
+      "secondary": "Mrs. GREEN APPLE",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "m0GMkC_a3pM",
+          "videoTitle": "【歌枠】夏の終わりにまったり歌枠♪",
+          "channelName": "天使シータ",
+          "publishedAt": "2026-08-30T13:33:29.888Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m0GMkC_a3pM/hqdefault.jpg",
+          "sourcePath": "sources/m0/m0GMkC_a3pM.json",
+          "time": "0:21:30",
+          "seconds": 1290,
+          "songTitle": "青と夏(フェイク)",
+          "artist": "Mrs. GREEN APPLE"
+        }
+      ],
+      "detailPath": "entities/songs/4d48650b6c759316.json"
+    },
+    {
+      "rank": 47403,
       "id": "75b5076a5c5b69c9",
       "name": "青と夏(ぼんやり)",
       "secondary": "Ms.GREEN APPLE",
@@ -43,7 +110,7 @@
       "detailPath": "entities/songs/75b5076a5c5b69c9.json"
     },
     {
-      "rank": 47402,
+      "rank": 47404,
       "id": "009acd7bf374c482",
       "name": "青と夏【音程迷子】",
       "secondary": "",
@@ -76,7 +143,7 @@
       "detailPath": "entities/songs/009acd7bf374c482.json"
     },
     {
-      "rank": 47403,
+      "rank": 47405,
       "id": "24f9c584ca439c2e",
       "name": "青のすみか",
       "secondary": "キタニタツヤ [歌えるかチャレンジ]",
@@ -110,7 +177,7 @@
       "detailPath": "entities/songs/24f9c584ca439c2e.json"
     },
     {
-      "rank": 47404,
+      "rank": 47406,
       "id": "b82ccb9e62796839",
       "name": "青のすみか",
       "secondary": "キタニタツヤ(1番のみ)",
@@ -144,7 +211,7 @@
       "detailPath": "entities/songs/b82ccb9e62796839.json"
     },
     {
-      "rank": 47405,
+      "rank": 47407,
       "id": "a4d60c18051ab080",
       "name": "青のすみか",
       "secondary": "キタチタツヤ",
@@ -177,7 +244,7 @@
       "detailPath": "entities/songs/a4d60c18051ab080.json"
     },
     {
-      "rank": 47406,
+      "rank": 47408,
       "id": "82f4e9c03c1513e4",
       "name": "青のすみか",
       "secondary": "キタニタツヤ (断念)",
@@ -207,7 +274,7 @@
       "detailPath": "entities/songs/82f4e9c03c1513e4.json"
     },
     {
-      "rank": 47407,
+      "rank": 47409,
       "id": "8887f4a407bb6912",
       "name": "青のすみか",
       "secondary": "キタニタツヤ（ピアノ伴奏Ver.）",
@@ -240,7 +307,7 @@
       "detailPath": "entities/songs/8887f4a407bb6912.json"
     },
     {
-      "rank": 47408,
+      "rank": 47410,
       "id": "0986af0528cc9fd1",
       "name": "青のすみか",
       "secondary": "木谷竜也",
@@ -273,7 +340,7 @@
       "detailPath": "entities/songs/0986af0528cc9fd1.json"
     },
     {
-      "rank": 47409,
+      "rank": 47411,
       "id": "e1f76847d7cc5dfd",
       "name": "青のすみか",
       "secondary": "キタニタツヤ ※JOYSOUND",
@@ -306,7 +373,7 @@
       "detailPath": "entities/songs/e1f76847d7cc5dfd.json"
     },
     {
-      "rank": 47410,
+      "rank": 47412,
       "id": "5c4b0ac42878f216",
       "name": "青のすみか",
       "secondary": "キタニタツヤ 様",
@@ -336,7 +403,7 @@
       "detailPath": "entities/songs/5c4b0ac42878f216.json"
     },
     {
-      "rank": 47411,
+      "rank": 47413,
       "id": "e3e56f9230cd5273",
       "name": "青のすみか",
       "secondary": "Ao no Sumika キタニタツヤ / Tatsuya Kitani",
@@ -369,7 +436,7 @@
       "detailPath": "entities/songs/e3e56f9230cd5273.json"
     },
     {
-      "rank": 47412,
+      "rank": 47414,
       "id": "572b18f5f44cbbf7",
       "name": "青のすみか",
       "secondary": "キタニタツヤ・・・点呼完了",
@@ -402,7 +469,7 @@
       "detailPath": "entities/songs/572b18f5f44cbbf7.json"
     },
     {
-      "rank": 47413,
+      "rank": 47415,
       "id": "fe407d4fad699b30",
       "name": "青のすみか",
       "secondary": "自分に合うキーが分からない件",
@@ -435,7 +502,7 @@
       "detailPath": "entities/songs/fe407d4fad699b30.json"
     },
     {
-      "rank": 47414,
+      "rank": 47416,
       "id": "5c27d6daa233e25e",
       "name": "青のすみか 79曲目",
       "secondary": "未記載",
@@ -468,7 +535,7 @@
       "detailPath": "entities/songs/5c27d6daa233e25e.json"
     },
     {
-      "rank": 47415,
+      "rank": 47417,
       "id": "157a3193c82a6a0f",
       "name": "青のすみか キタニタツヤ",
       "secondary": "『呪術廻戦』",
@@ -501,7 +568,7 @@
       "detailPath": "entities/songs/157a3193c82a6a0f.json"
     },
     {
-      "rank": 47416,
+      "rank": 47418,
       "id": "af2aa51380bee50a",
       "name": "青のすみか(+3)",
       "secondary": "キタニタツヤ",
@@ -534,7 +601,7 @@
       "detailPath": "entities/songs/af2aa51380bee50a.json"
     },
     {
-      "rank": 47417,
+      "rank": 47419,
       "id": "490903f453fb10e4",
       "name": "青の歌",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -564,7 +631,7 @@
       "detailPath": "entities/songs/490903f453fb10e4.json"
     },
     {
-      "rank": 47418,
+      "rank": 47420,
       "id": "fe5d1c04c1527a71",
       "name": "青の蛍言葉",
       "secondary": "アオトケイ",
@@ -597,7 +664,7 @@
       "detailPath": "entities/songs/fe5d1c04c1527a71.json"
     },
     {
-      "rank": 47419,
+      "rank": 47421,
       "id": "7ec4a2c295db2de4",
       "name": "青の時代",
       "secondary": "DOMOTO",
@@ -627,7 +694,7 @@
       "detailPath": "entities/songs/7ec4a2c295db2de4.json"
     },
     {
-      "rank": 47420,
+      "rank": 47422,
       "id": "ce8fd3b7385f797e",
       "name": "青ノ栞歌",
       "secondary": "FantasticYouth × ウォルピスカーター",
@@ -660,7 +727,7 @@
       "detailPath": "entities/songs/ce8fd3b7385f797e.json"
     },
     {
-      "rank": 47421,
+      "rank": 47423,
       "id": "66b084ea546d209e",
       "name": "青を焚べて",
       "secondary": "未記載",
@@ -693,7 +760,7 @@
       "detailPath": "entities/songs/66b084ea546d209e.json"
     },
     {
-      "rank": 47422,
+      "rank": 47424,
       "id": "822688f8d9f0282d",
       "name": "青を焚べて",
       "secondary": "keeno 様",
@@ -723,7 +790,7 @@
       "detailPath": "entities/songs/822688f8d9f0282d.json"
     },
     {
-      "rank": 47423,
+      "rank": 47425,
       "id": "7b79bbf0a8fc2c6e",
       "name": "青を焚べて",
       "secondary": "keeno(途中まで)",
@@ -756,7 +823,7 @@
       "detailPath": "entities/songs/7b79bbf0a8fc2c6e.json"
     },
     {
-      "rank": 47424,
+      "rank": 47426,
       "id": "ad10aa1466ab39d1",
       "name": "青雲 アカペラ",
       "secondary": "",
@@ -789,7 +856,7 @@
       "detailPath": "entities/songs/ad10aa1466ab39d1.json"
     },
     {
-      "rank": 47425,
+      "rank": 47427,
       "id": "58c247e0a6cf1334",
       "name": "青雲のうた",
       "secondary": "",
@@ -822,7 +889,7 @@
       "detailPath": "entities/songs/58c247e0a6cf1334.json"
     },
     {
-      "rank": 47426,
+      "rank": 47428,
       "id": "4f63159a7dc1eee4",
       "name": "青華",
       "secondary": "",
@@ -855,7 +922,7 @@
       "detailPath": "entities/songs/4f63159a7dc1eee4.json"
     },
     {
-      "rank": 47427,
+      "rank": 47429,
       "id": "a187a5fcfbabb0ee",
       "name": "青空",
       "secondary": "miwa *",
@@ -885,7 +952,7 @@
       "detailPath": "entities/songs/a187a5fcfbabb0ee.json"
     },
     {
-      "rank": 47428,
+      "rank": 47430,
       "id": "7b2dca88b70203c8",
       "name": "青空 Jumping Heart",
       "secondary": "Aqours ※JOYSOUND",
@@ -918,7 +985,7 @@
       "detailPath": "entities/songs/7b2dca88b70203c8.json"
     },
     {
-      "rank": 47429,
+      "rank": 47431,
       "id": "5e869e6c0112b6a0",
       "name": "青空　The　ブルーハーツ　cover",
       "secondary": "",
@@ -951,7 +1018,7 @@
       "detailPath": "entities/songs/5e869e6c0112b6a0.json"
     },
     {
-      "rank": 47430,
+      "rank": 47432,
       "id": "bac943784929101c",
       "name": "青空-Artist",
       "secondary": "天空戦記シュラト",
@@ -984,7 +1051,7 @@
       "detailPath": "entities/songs/bac943784929101c.json"
     },
     {
-      "rank": 47431,
+      "rank": 47433,
       "id": "e50beee1d12f63f8",
       "name": "青空Jumping Heart",
       "secondary": "ラブライブ！サンシャイン！！",
@@ -1014,7 +1081,7 @@
       "detailPath": "entities/songs/e50beee1d12f63f8.json"
     },
     {
-      "rank": 47432,
+      "rank": 47434,
       "id": "ed3c556442589fd8",
       "name": "青空Jumping Heart",
       "secondary": "Aqours (2016)（ラブライブ！サンシャイン!! OP）",
@@ -1044,7 +1111,7 @@
       "detailPath": "entities/songs/ed3c556442589fd8.json"
     },
     {
-      "rank": 47433,
+      "rank": 47435,
       "id": "8726e656e8fcd44a",
       "name": "青空コラージュ (アカペラ・環境音 セミの鳴き声 , 風鈴)",
       "secondary": "がきんちょメイト",
@@ -1078,7 +1145,7 @@
       "detailPath": "entities/songs/8726e656e8fcd44a.json"
     },
     {
-      "rank": 47434,
+      "rank": 47436,
       "id": "3ebb4f0f0712e5b3",
       "name": "青空トライアングル",
       "secondary": "杏(CV:真堂圭)・柊(CV:高垣彩陽)・小梅(CV:MAKO)",
@@ -1111,7 +1178,7 @@
       "detailPath": "entities/songs/3ebb4f0f0712e5b3.json"
     },
     {
-      "rank": 47435,
+      "rank": 47437,
       "id": "1bd57118f6f3b0ae",
       "name": "青空になる",
       "secondary": "仮面ライダークウガ",
@@ -1144,7 +1211,7 @@
       "detailPath": "entities/songs/1bd57118f6f3b0ae.json"
     },
     {
-      "rank": 47436,
+      "rank": 47438,
       "id": "59998003e614227b",
       "name": "青空になる",
       "secondary": "橋本仁",
@@ -1174,7 +1241,7 @@
       "detailPath": "entities/songs/59998003e614227b.json"
     },
     {
-      "rank": 47437,
+      "rank": 47439,
       "id": "66143f22770d1e5a",
       "name": "青空に書いたラブレター",
       "secondary": "Eighty eight",
@@ -1207,7 +1274,7 @@
       "detailPath": "entities/songs/66143f22770d1e5a.json"
     },
     {
-      "rank": 47438,
+      "rank": 47440,
       "id": "d7c529f4a26637db",
       "name": "青空に書いたラブレター",
       "secondary": "5thアルバム「5/5」より",
@@ -1240,7 +1307,7 @@
       "detailPath": "entities/songs/d7c529f4a26637db.json"
     },
     {
-      "rank": 47439,
+      "rank": 47441,
       "id": "3d4f8022a1958dc9",
       "name": "青空のナミダ",
       "secondary": "髙橋瞳",
@@ -1270,7 +1337,7 @@
       "detailPath": "entities/songs/3d4f8022a1958dc9.json"
     },
     {
-      "rank": 47440,
+      "rank": 47442,
       "id": "a26f806a842cdc24",
       "name": "青空のナミダ",
       "secondary": "高橋瞳 ／ BLOOD+(2005年)",
@@ -1300,7 +1367,7 @@
       "detailPath": "entities/songs/a26f806a842cdc24.json"
     },
     {
-      "rank": 47441,
+      "rank": 47443,
       "id": "153864f9034c8b1c",
       "name": "青空のナミダ_高橋瞳",
       "secondary": "未記載",
@@ -1333,7 +1400,7 @@
       "detailPath": "entities/songs/153864f9034c8b1c.json"
     },
     {
-      "rank": 47442,
+      "rank": 47444,
       "id": "6206700b12e7dd89",
       "name": "青空のナミダ【ꫛꫀꪝ✧‧˚】",
       "secondary": "高橋瞳",
@@ -1366,7 +1433,7 @@
       "detailPath": "entities/songs/6206700b12e7dd89.json"
     },
     {
-      "rank": 47443,
+      "rank": 47445,
       "id": "8849778ef786d830",
       "name": "青空のファンタジア",
       "secondary": "村田あゆみ",
@@ -1399,7 +1466,7 @@
       "detailPath": "entities/songs/8849778ef786d830.json"
     },
     {
-      "rank": 47444,
+      "rank": 47446,
       "id": "0dfaa09e347557ee",
       "name": "青空のラプソティ",
       "secondary": "fhána",
@@ -1432,7 +1499,7 @@
       "detailPath": "entities/songs/0dfaa09e347557ee.json"
     },
     {
-      "rank": 47445,
+      "rank": 47447,
       "id": "79e60c57747dbb67",
       "name": "青空のラプソディ",
       "secondary": "fhána (2017) アニメ「小林さんちのメイドラゴン」1期OP",
@@ -1466,7 +1533,7 @@
       "detailPath": "entities/songs/79e60c57747dbb67.json"
     },
     {
-      "rank": 47446,
+      "rank": 47448,
       "id": "ea47577725cbfaef",
       "name": "青空のラプソディ",
       "secondary": "fhana ※JOYSOUND",
@@ -1499,7 +1566,7 @@
       "detailPath": "entities/songs/ea47577725cbfaef.json"
     },
     {
-      "rank": 47447,
+      "rank": 47449,
       "id": "f7d97ae649670d8c",
       "name": "青空のラプソディ",
       "secondary": "1コーラス",
@@ -1532,7 +1599,7 @@
       "detailPath": "entities/songs/f7d97ae649670d8c.json"
     },
     {
-      "rank": 47448,
+      "rank": 47450,
       "id": "2a7c6f50d5643ce7",
       "name": "青空のラプソディ",
       "secondary": "fhána (2017)（小林さんちのメイドラゴン OP）",
@@ -1560,66 +1627,6 @@
         }
       ],
       "detailPath": "entities/songs/2a7c6f50d5643ce7.json"
-    },
-    {
-      "rank": 47449,
-      "id": "089d2d59ca76e2fd",
-      "name": "青空のラプソディ",
-      "secondary": "初見",
-      "channelId": "UCE6w5FzazXE9i3wwrVJPbhg",
-      "channelHandle": "@Gato_utane",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mE7olCGYMOc",
-          "videoTitle": "【 #歌枠 】初見曲にもチャレンジ！？ch登録者2800人達成目標！【 初見さん大歓迎 / #vtuber 】",
-          "channelName": "詠音ガト",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mE7olCGYMOc/hqdefault.jpg",
-          "sourcePath": "sources/mE/mE7olCGYMOc.json",
-          "time": "0:24:39",
-          "seconds": 1479,
-          "songTitle": "青空のラプソディ",
-          "artist": "初見"
-        }
-      ],
-      "detailPath": "entities/songs/089d2d59ca76e2fd.json"
-    },
-    {
-      "rank": 47450,
-      "id": "c9cff441e59972c4",
-      "name": "青空のラプソディ",
-      "secondary": "これ好き",
-      "channelId": "UCO0UOvSRvaRe2XTBQ5pjRYQ",
-      "channelHandle": "@kishirolemo",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "VUnxiAcU2jk",
-          "videoTitle": "【#歌枠】歌うまをカラオケに連れてきました【陽茅ほのか/黄白レモ】",
-          "channelName": "黄白レモ Lemo Ch.【ぶいじだい】",
-          "publishedAt": "2026-09-25T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VUnxiAcU2jk/hqdefault.jpg",
-          "sourcePath": "sources/VU/VUnxiAcU2jk.json",
-          "time": "1:21:55",
-          "seconds": 4915,
-          "songTitle": "青空のラプソディ",
-          "artist": "これ好き"
-        }
-      ],
-      "detailPath": "entities/songs/c9cff441e59972c4.json"
     }
   ]
 }

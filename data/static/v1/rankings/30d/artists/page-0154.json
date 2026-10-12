@@ -1,46 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "artists",
   "page": 154,
   "pageSize": 50,
   "pageCount": 217,
-  "totalCount": 10831,
+  "totalCount": 10830,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7651,
-      "id": "88c5285479669fdb",
-      "name": "ハムちゃんず ／ とっとこハム太郎(2000年)",
-      "secondary": "",
-      "channelId": "UCCtRWnIUz1LRp-TI5gaw6gw",
-      "channelHandle": "@maria_amunea",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "u63YUYmWoGw",
-          "videoTitle": "【歌枠/KARAOKE】午後のBGM、ここにしない？☀️｜夕方まで好きな曲いっぱい歌う！【マリア・アムネア】",
-          "channelName": "マリア・アムネア.CH👼",
-          "publishedAt": "2026-09-29T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/u63YUYmWoGw/hqdefault.jpg",
-          "sourcePath": "sources/u6/u63YUYmWoGw.json",
-          "time": "3:46:45",
-          "seconds": 13605,
-          "songTitle": "ハム太郎とっとこうた",
-          "artist": "ハムちゃんず ／ とっとこハム太郎(2000年)"
-        }
-      ],
-      "detailPath": "entities/artists/88c5285479669fdb.json"
-    },
-    {
-      "rank": 7652,
       "id": "d1af3c42d6e5e994",
       "name": "ハムちゃんず ※JOYSOUND",
       "secondary": "",
@@ -73,7 +43,7 @@
       "detailPath": "entities/artists/d1af3c42d6e5e994.json"
     },
     {
-      "rank": 7653,
+      "rank": 7652,
       "id": "24edad90f07b963d",
       "name": "ハムちゃんず ※おかわり",
       "secondary": "",
@@ -106,7 +76,7 @@
       "detailPath": "entities/artists/24edad90f07b963d.json"
     },
     {
-      "rank": 7654,
+      "rank": 7653,
       "id": "e41751e0370237ea",
       "name": "ハムちゃんず（リク）",
       "secondary": "",
@@ -136,7 +106,7 @@
       "detailPath": "entities/artists/e41751e0370237ea.json"
     },
     {
-      "rank": 7655,
+      "rank": 7654,
       "id": "5a82854b7ba44da0",
       "name": "ハムちゃんずを熱唱",
       "secondary": "",
@@ -166,7 +136,7 @@
       "detailPath": "entities/artists/5a82854b7ba44da0.json"
     },
     {
-      "rank": 7656,
+      "rank": 7655,
       "id": "851f818133f3b51f",
       "name": "ハム太郎とっとこうた",
       "secondary": "",
@@ -196,7 +166,7 @@
       "detailPath": "entities/artists/851f818133f3b51f.json"
     },
     {
-      "rank": 7657,
+      "rank": 7656,
       "id": "d389d6a59a49a90b",
       "name": "ハモリ",
       "secondary": "",
@@ -226,7 +196,7 @@
       "detailPath": "entities/artists/d389d6a59a49a90b.json"
     },
     {
-      "rank": 7658,
+      "rank": 7657,
       "id": "5e2fd8e17a42bb4d",
       "name": "ハモリを聴く会",
       "secondary": "",
@@ -259,7 +229,7 @@
       "detailPath": "entities/artists/5e2fd8e17a42bb4d.json"
     },
     {
-      "rank": 7659,
+      "rank": 7658,
       "id": "b504708240450330",
       "name": "ハヤシケイ",
       "secondary": "",
@@ -292,7 +262,7 @@
       "detailPath": "entities/artists/b504708240450330.json"
     },
     {
-      "rank": 7660,
+      "rank": 7659,
       "id": "0374d816114e53d3",
       "name": "はややP",
       "secondary": "",
@@ -323,6 +293,39 @@
         }
       ],
       "detailPath": "entities/artists/0374d816114e53d3.json"
+    },
+    {
+      "rank": 7660,
+      "id": "922be79ccacfdd2a",
+      "name": "バラクーダ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ODeXkn8ru1g",
+          "videoTitle": "【#歌枠】日曜日の昼下がり、めうちゃんが歌う。 目指せ高評価30!!【#個人vtuber ＃東雲めう。】",
+          "channelName": "東雲 めう。 / Shinonome Meu.",
+          "publishedAt": "2026-09-20T08:31:30.869Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ODeXkn8ru1g/hqdefault.jpg",
+          "sourcePath": "sources/OD/ODeXkn8ru1g.json",
+          "time": "0:53:22",
+          "seconds": 3202,
+          "songTitle": "日本全国酒飲み音頭",
+          "artist": "バラクーダ"
+        }
+      ],
+      "detailPath": "entities/artists/922be79ccacfdd2a.json"
     },
     {
       "rank": 7661,

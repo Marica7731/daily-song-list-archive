@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "artists",
   "page": 3,
   "pageSize": 50,
   "pageCount": 217,
-  "totalCount": 10831,
+  "totalCount": 10830,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -994,6 +994,64 @@
     },
     {
       "rank": 118,
+      "id": "8dea4f919e2ae498",
+      "name": "amazarashi",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 96,
+      "videoCount": 75,
+      "songCount": 32,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vTxIai_cOcM",
+          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
+          "channelName": "冬萌ここな",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vTxIai_cOcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5T4vUDv-Vk57R-82lKsYiBvcC6A",
+          "sourcePath": "sources/vT/vTxIai_cOcM.json",
+          "time": "0:29:33",
+          "seconds": 1773,
+          "songTitle": "季節は次々死んでいく",
+          "artist": "amazarashi"
+        },
+        {
+          "videoId": "sAVQV9zZ-Fo",
+          "videoTitle": "【歌枠/Karaoke 】３連休も深夜歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
+          "channelName": "飲酒じめさん【hajime】",
+          "publishedAt": "2026-10-11T19:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sAVQV9zZ-Fo/hqdefault.jpg",
+          "sourcePath": "sources/sA/sAVQV9zZ-Fo.json",
+          "time": "1:36:31",
+          "seconds": 5791,
+          "songTitle": "空に歌えば",
+          "artist": "amazarashi"
+        },
+        {
+          "videoId": "6f8saMPTP7M",
+          "videoTitle": "【歌枠/Karaoke 】深夜のまったり歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
+          "channelName": "飲酒じめさん【hajime】",
+          "publishedAt": "2026-10-07T19:13:02.895Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6f8saMPTP7M/hqdefault.jpg",
+          "sourcePath": "sources/6f/6f8saMPTP7M.json",
+          "time": "0:58:25",
+          "seconds": 3505,
+          "songTitle": "季節は次々死んでいく",
+          "artist": "amazarashi"
+        }
+      ],
+      "detailPath": "entities/artists/8dea4f919e2ae498.json"
+    },
+    {
+      "rank": 119,
       "id": "afa5b252b8da5d8b",
       "name": "iLiFE",
       "secondary": "",
@@ -1050,7 +1108,64 @@
       "detailPath": "entities/artists/afa5b252b8da5d8b.json"
     },
     {
-      "rank": 119,
+      "rank": 120,
+      "id": "dbd70cdfc6b7eda4",
+      "name": "電ポルP",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 95,
+      "videoCount": 83,
+      "songCount": 17,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "UyrBSmA5HaI",
+          "videoTitle": "【 縦型歌枠 】ボカロ曲縛り歌枠🕊✨1曲聴いていってね！ singing stream 【 #しらせライブ / #無原唱レコード 】 #shorts #Vtuber #Vsinger",
+          "channelName": "白河しらせ / SHIRASE SHIRAKAWA",
+          "publishedAt": "2026-10-10T06:31:54.787Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UyrBSmA5HaI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDV8WLPPbv65n5Nd9OVpLS2T47vug",
+          "sourcePath": "sources/Uy/UyrBSmA5HaI.json",
+          "time": "0:23:48",
+          "seconds": 1428,
+          "songTitle": "恋空予報",
+          "artist": "電ポルP"
+        },
+        {
+          "videoId": "oolrdDiQK5s",
+          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
+          "channelName": "赤石グラナ",
+          "publishedAt": "2026-10-10T01:51:53.498Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
+          "sourcePath": "sources/oo/oolrdDiQK5s.json",
+          "time": "1:13:16",
+          "seconds": 4396,
+          "songTitle": "独りんぼエンヴィー",
+          "artist": "電ポルP"
+        },
+        {
+          "videoId": "nBFwpusEy_E",
+          "videoTitle": "【歌枠/Karaoke 】初見さんボーナスあり✨借金1億円、コメントで返済するまで終われません！！！【 作業BGM / #音鍵めろ / 新人vtuber 】",
+          "channelName": "音鍵めろ / Otokagi Mero",
+          "publishedAt": "2026-10-09T11:46:31.230Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/nBFwpusEy_E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDA-YEKbT7I35Jsh_rept93UhYeSQ",
+          "sourcePath": "sources/nB/nBFwpusEy_E.json",
+          "time": "3:37:10",
+          "seconds": 13030,
+          "songTitle": "正夢デエト",
+          "artist": "電ポルP"
+        }
+      ],
+      "detailPath": "entities/artists/dbd70cdfc6b7eda4.json"
+    },
+    {
+      "rank": 121,
       "id": "aad0393717db21bd",
       "name": "40mP feat.初音ミク",
       "secondary": "",
@@ -1106,121 +1221,6 @@
         }
       ],
       "detailPath": "entities/artists/aad0393717db21bd.json"
-    },
-    {
-      "rank": 120,
-      "id": "8dea4f919e2ae498",
-      "name": "amazarashi",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 95,
-      "videoCount": 74,
-      "songCount": 32,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vTxIai_cOcM",
-          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
-          "channelName": "冬萌ここな",
-          "publishedAt": "2026-10-11T20:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vTxIai_cOcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5T4vUDv-Vk57R-82lKsYiBvcC6A",
-          "sourcePath": "sources/vT/vTxIai_cOcM.json",
-          "time": "0:29:33",
-          "seconds": 1773,
-          "songTitle": "季節は次々死んでいく",
-          "artist": "amazarashi"
-        },
-        {
-          "videoId": "sAVQV9zZ-Fo",
-          "videoTitle": "【歌枠/Karaoke 】３連休も深夜歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-10-11T19:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sAVQV9zZ-Fo/hqdefault.jpg",
-          "sourcePath": "sources/sA/sAVQV9zZ-Fo.json",
-          "time": "1:36:31",
-          "seconds": 5791,
-          "songTitle": "空に歌えば",
-          "artist": "amazarashi"
-        },
-        {
-          "videoId": "6f8saMPTP7M",
-          "videoTitle": "【歌枠/Karaoke 】深夜のまったり歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-10-07T19:13:02.895Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6f8saMPTP7M/hqdefault.jpg",
-          "sourcePath": "sources/6f/6f8saMPTP7M.json",
-          "time": "0:58:25",
-          "seconds": 3505,
-          "songTitle": "季節は次々死んでいく",
-          "artist": "amazarashi"
-        }
-      ],
-      "detailPath": "entities/artists/8dea4f919e2ae498.json"
-    },
-    {
-      "rank": 121,
-      "id": "dbd70cdfc6b7eda4",
-      "name": "電ポルP",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 94,
-      "videoCount": 82,
-      "songCount": 17,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "UyrBSmA5HaI",
-          "videoTitle": "【 縦型歌枠 】ボカロ曲縛り歌枠🕊✨1曲聴いていってね！ singing stream 【 #しらせライブ / #無原唱レコード 】 #shorts #Vtuber #Vsinger",
-          "channelName": "白河しらせ / SHIRASE SHIRAKAWA",
-          "publishedAt": "2026-10-10T06:31:54.787Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UyrBSmA5HaI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDV8WLPPbv65n5Nd9OVpLS2T47vug",
-          "sourcePath": "sources/Uy/UyrBSmA5HaI.json",
-          "time": "0:23:48",
-          "seconds": 1428,
-          "songTitle": "恋空予報",
-          "artist": "電ポルP"
-        },
-        {
-          "videoId": "oolrdDiQK5s",
-          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-10-10T01:51:53.498Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
-          "sourcePath": "sources/oo/oolrdDiQK5s.json",
-          "time": "1:13:16",
-          "seconds": 4396,
-          "songTitle": "独りんぼエンヴィー",
-          "artist": "電ポルP"
-        },
-        {
-          "videoId": "nBFwpusEy_E",
-          "videoTitle": "【歌枠/Karaoke 】初見さんボーナスあり✨借金1億円、コメントで返済するまで終われません！！！【 作業BGM / #音鍵めろ / 新人vtuber 】",
-          "channelName": "音鍵めろ / Otokagi Mero",
-          "publishedAt": "2026-10-09T11:46:31.230Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nBFwpusEy_E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDA-YEKbT7I35Jsh_rept93UhYeSQ",
-          "sourcePath": "sources/nB/nBFwpusEy_E.json",
-          "time": "3:37:10",
-          "seconds": 13030,
-          "songTitle": "正夢デエト",
-          "artist": "電ポルP"
-        }
-      ],
-      "detailPath": "entities/artists/dbd70cdfc6b7eda4.json"
     },
     {
       "rank": 122,

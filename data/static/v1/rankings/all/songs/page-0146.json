@@ -1,16 +1,75 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 146,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7251,
+      "id": "9a07037afbd03687",
+      "name": "Booo!",
+      "secondary": "TOKOTOKO(西沢さんP) feat.音街ウナ ※JOYSOUND",
+      "channelId": "UCwy1mCM5onV2Z3yp79V175Q",
+      "channelHandle": "/@irohaNoazzZ",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "llyVr7Rd1vQ",
+          "videoTitle": "【 歌枠 】デビュー1ヶ月記念！早いね~！【 #新人vtuber / 宵月れゆり 】",
+          "channelName": "宵月れゆり / Yoiragi Reyuri",
+          "publishedAt": "2026-09-24T15:09:07.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/llyVr7Rd1vQ/hqdefault.jpg",
+          "sourcePath": "sources/ll/llyVr7Rd1vQ.json",
+          "time": "0:15:48",
+          "seconds": 948,
+          "songTitle": "Booo!",
+          "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ ※JOYSOUND"
+        },
+        {
+          "videoId": "wmD9DOeUfOk",
+          "videoTitle": "【#歌枠 】世界一歌枠を楽しみたいっ！【#新人vtuber / #泡雪むた 】",
+          "channelName": "泡雪むた / Muta Ch.",
+          "publishedAt": "2026-09-07T16:29:58.253Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wmD9DOeUfOk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmCBjROJse6qvHSDx0p3oigEQYhw",
+          "sourcePath": "sources/wm/wmD9DOeUfOk.json",
+          "time": "1:50:01",
+          "seconds": 6601,
+          "songTitle": "Booo!",
+          "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ ※JOYSOUND"
+        },
+        {
+          "videoId": "k27-6IVBksg",
+          "videoTitle": "【歌枠】チャンネル登録者1000人目指して歌っております！【#彩羽のあ】",
+          "channelName": "彩羽のあ iroha noa",
+          "publishedAt": "2026-07-11T22:04:49.772Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k27-6IVBksg/hqdefault.jpg",
+          "sourcePath": "sources/k2/k27-6IVBksg.json",
+          "time": "5:44:11",
+          "seconds": 20651,
+          "songTitle": "Booo!",
+          "artist": "TOKOTOKO(西沢さんP) feat.音街ウナ ※JOYSOUND"
+        }
+      ],
+      "detailPath": "entities/songs/9a07037afbd03687.json"
+    },
+    {
+      "rank": 7252,
       "id": "a2911c3fbfe1552c",
       "name": "Booo!",
       "secondary": "西沢さんP / TOKOTOKO",
@@ -70,7 +129,7 @@
       "detailPath": "entities/songs/a2911c3fbfe1552c.json"
     },
     {
-      "rank": 7252,
+      "rank": 7253,
       "id": "56de53eace5961bc",
       "name": "born Legend",
       "secondary": "KASUMI",
@@ -130,7 +189,7 @@
       "detailPath": "entities/songs/56de53eace5961bc.json"
     },
     {
-      "rank": 7253,
+      "rank": 7254,
       "id": "527faa2cf17e843b",
       "name": "BORN ON DREAM! ～HANABI☆NIGHT～",
       "secondary": "閃光☆HANABI団",
@@ -190,7 +249,7 @@
       "detailPath": "entities/songs/527faa2cf17e843b.json"
     },
     {
-      "rank": 7254,
+      "rank": 7255,
       "id": "b39ade6d03f52846",
       "name": "Boyfriend -part II",
       "secondary": "Crystal Kay",
@@ -250,7 +309,7 @@
       "detailPath": "entities/songs/b39ade6d03f52846.json"
     },
     {
-      "rank": 7255,
+      "rank": 7256,
       "id": "a1a7fca074d7b629",
       "name": "BOYS DON'T CRY",
       "secondary": "LAST ALLIANCE",
@@ -310,7 +369,7 @@
       "detailPath": "entities/songs/a1a7fca074d7b629.json"
     },
     {
-      "rank": 7256,
+      "rank": 7257,
       "id": "a756915da81b0976",
       "name": "Brave Freak Out",
       "secondary": "LiSA",
@@ -370,7 +429,7 @@
       "detailPath": "entities/songs/a756915da81b0976.json"
     },
     {
-      "rank": 7257,
+      "rank": 7258,
       "id": "74c50d42765b23fc",
       "name": "BRAVE GROOVE",
       "secondary": "",
@@ -427,7 +486,7 @@
       "detailPath": "entities/songs/74c50d42765b23fc.json"
     },
     {
-      "rank": 7258,
+      "rank": 7259,
       "id": "1e45175f295f7e81",
       "name": "Brave Shine",
       "secondary": "",
@@ -481,7 +540,7 @@
       "detailPath": "entities/songs/1e45175f295f7e81.json"
     },
     {
-      "rank": 7259,
+      "rank": 7260,
       "id": "1c890b3166fe9aa8",
       "name": "Break through",
       "secondary": "ミナミイズミ",
@@ -541,7 +600,7 @@
       "detailPath": "entities/songs/1c890b3166fe9aa8.json"
     },
     {
-      "rank": 7260,
+      "rank": 7261,
       "id": "f49d1c4aa57099cc",
       "name": "Bright Burning Shout",
       "secondary": "西川貴教",
@@ -600,7 +659,7 @@
       "detailPath": "entities/songs/f49d1c4aa57099cc.json"
     },
     {
-      "rank": 7261,
+      "rank": 7262,
       "id": "75f8aa87bcb3d95d",
       "name": "Bullshit!! Hard Problem!!",
       "secondary": "Outer",
@@ -657,7 +716,7 @@
       "detailPath": "entities/songs/75f8aa87bcb3d95d.json"
     },
     {
-      "rank": 7262,
+      "rank": 7263,
       "id": "7a9d5309ffec2eae",
       "name": "BURN",
       "secondary": "FLOW",
@@ -714,7 +773,7 @@
       "detailPath": "entities/songs/7a9d5309ffec2eae.json"
     },
     {
-      "rank": 7263,
+      "rank": 7264,
       "id": "e72701385ebb3979",
       "name": "Burnin' X'mas",
       "secondary": "T.M.Revolution",
@@ -771,7 +830,7 @@
       "detailPath": "entities/songs/e72701385ebb3979.json"
     },
     {
-      "rank": 7264,
+      "rank": 7265,
       "id": "f14159a3e10ef565",
       "name": "Bursty Greedy Spider",
       "secondary": "鈴木このみ",
@@ -830,7 +889,7 @@
       "detailPath": "entities/songs/f14159a3e10ef565.json"
     },
     {
-      "rank": 7265,
+      "rank": 7266,
       "id": "85a3062837510e38",
       "name": "Butter-Fly",
       "secondary": "デジモンアドベンチャー",
@@ -887,7 +946,7 @@
       "detailPath": "entities/songs/85a3062837510e38.json"
     },
     {
-      "rank": 7266,
+      "rank": 7267,
       "id": "2d370935e8774096",
       "name": "Butter-Fly",
       "secondary": "和田光司 ※JOYSOUND",
@@ -944,7 +1003,7 @@
       "detailPath": "entities/songs/2d370935e8774096.json"
     },
     {
-      "rank": 7267,
+      "rank": 7268,
       "id": "2d2a850a290be6fd",
       "name": "Buttobina! Shitora-ryu Chahan☆",
       "secondary": "Suzukaze Shitora",
@@ -1001,7 +1060,7 @@
       "detailPath": "entities/songs/2d2a850a290be6fd.json"
     },
     {
-      "rank": 7268,
+      "rank": 7269,
       "id": "8577a9ec5ca9c1bf",
       "name": "Byoushinwo Kamu",
       "secondary": "ZUTOMAYO",
@@ -1060,7 +1119,7 @@
       "detailPath": "entities/songs/8577a9ec5ca9c1bf.json"
     },
     {
-      "rank": 7269,
+      "rank": 7270,
       "id": "6ea7575343021773",
       "name": "Caffeine",
       "secondary": "DUSTCELL",
@@ -1120,7 +1179,7 @@
       "detailPath": "entities/songs/6ea7575343021773.json"
     },
     {
-      "rank": 7270,
+      "rank": 7271,
       "id": "aa078933107968e8",
       "name": "Calc",
       "secondary": "伊東歌詞太郎",
@@ -1179,7 +1238,7 @@
       "detailPath": "entities/songs/aa078933107968e8.json"
     },
     {
-      "rank": 7271,
+      "rank": 7272,
       "id": "eb666b152fb5d68f",
       "name": "Calc",
       "secondary": "Jimmythumb-P feat. Hatsune Miku",
@@ -1239,7 +1298,7 @@
       "detailPath": "entities/songs/eb666b152fb5d68f.json"
     },
     {
-      "rank": 7272,
+      "rank": 7273,
       "id": "7cb02994db8a8b99",
       "name": "Calc",
       "secondary": "ジミーサムP feat.初音ミク ※JOYSOUND",
@@ -1296,7 +1355,7 @@
       "detailPath": "entities/songs/7cb02994db8a8b99.json"
     },
     {
-      "rank": 7273,
+      "rank": 7274,
       "id": "b8981749794082d2",
       "name": "California Gurls",
       "secondary": "Katy Perry",
@@ -1356,7 +1415,7 @@
       "detailPath": "entities/songs/b8981749794082d2.json"
     },
     {
-      "rank": 7274,
+      "rank": 7275,
       "id": "70945e437d196e00",
       "name": "Call Boy",
       "secondary": "syudou",
@@ -1413,7 +1472,7 @@
       "detailPath": "entities/songs/70945e437d196e00.json"
     },
     {
-      "rank": 7275,
+      "rank": 7276,
       "id": "1354f87171fcbe02",
       "name": "Calling",
       "secondary": "焔魔るり",
@@ -1473,7 +1532,7 @@
       "detailPath": "entities/songs/1354f87171fcbe02.json"
     },
     {
-      "rank": 7276,
+      "rank": 7277,
       "id": "811a7ac8f6fd2e31",
       "name": "Calling",
       "secondary": "",
@@ -1530,7 +1589,7 @@
       "detailPath": "entities/songs/811a7ac8f6fd2e31.json"
     },
     {
-      "rank": 7277,
+      "rank": 7278,
       "id": "2e4c3100a2000706",
       "name": "Can't Help Falling In Love",
       "secondary": "Elvis Presley",
@@ -1589,7 +1648,7 @@
       "detailPath": "entities/songs/2e4c3100a2000706.json"
     },
     {
-      "rank": 7278,
+      "rank": 7279,
       "id": "3140b7a3be406443",
       "name": "Can't Stop Fallin' in Love",
       "secondary": "globe",
@@ -1649,7 +1708,7 @@
       "detailPath": "entities/songs/3140b7a3be406443.json"
     },
     {
-      "rank": 7279,
+      "rank": 7280,
       "id": "894b192c1630c652",
       "name": "CANDY CANDY",
       "secondary": "きゃりーぱみゅぱみゅ",
@@ -1706,7 +1765,7 @@
       "detailPath": "entities/songs/894b192c1630c652.json"
     },
     {
-      "rank": 7280,
+      "rank": 7281,
       "id": "270dcbf57a382f46",
       "name": "CANDY☆POP☆SWEET☆HEART",
       "secondary": "新谷良子",
@@ -1766,7 +1825,7 @@
       "detailPath": "entities/songs/270dcbf57a382f46.json"
     },
     {
-      "rank": 7281,
+      "rank": 7282,
       "id": "07dd146f34125c72",
       "name": "Canta Per Me",
       "secondary": "FictionJunction",
@@ -1826,7 +1885,7 @@
       "detailPath": "entities/songs/07dd146f34125c72.json"
     },
     {
-      "rank": 7282,
+      "rank": 7283,
       "id": "a2acbd945525437d",
       "name": "canvas",
       "secondary": "HY",
@@ -1886,7 +1945,7 @@
       "detailPath": "entities/songs/a2acbd945525437d.json"
     },
     {
-      "rank": 7283,
+      "rank": 7284,
       "id": "18f9193d4b0c3695",
       "name": "Catch you Catch me",
       "secondary": "丹下桜",
@@ -1943,7 +2002,7 @@
       "detailPath": "entities/songs/18f9193d4b0c3695.json"
     },
     {
-      "rank": 7284,
+      "rank": 7285,
       "id": "6416b767762d66a5",
       "name": "Catch You Catch Me",
       "secondary": "gumi",
@@ -2002,7 +2061,7 @@
       "detailPath": "entities/songs/6416b767762d66a5.json"
     },
     {
-      "rank": 7285,
+      "rank": 7286,
       "id": "fc09e5487fff536d",
       "name": "celluloid",
       "secondary": "baker feat.初音ミク",
@@ -2062,7 +2121,7 @@
       "detailPath": "entities/songs/fc09e5487fff536d.json"
     },
     {
-      "rank": 7286,
+      "rank": 7287,
       "id": "3c24f96683814be9",
       "name": "CHA-CHA-CHA",
       "secondary": "石井明美",
@@ -2121,7 +2180,7 @@
       "detailPath": "entities/songs/3c24f96683814be9.json"
     },
     {
-      "rank": 7287,
+      "rank": 7288,
       "id": "fe1d7397adf65723",
       "name": "CHA-LA HEAD-CHA-LA",
       "secondary": "ドラゴンボールZ",
@@ -2178,7 +2237,7 @@
       "detailPath": "entities/songs/fe1d7397adf65723.json"
     },
     {
-      "rank": 7288,
+      "rank": 7289,
       "id": "20be66c39afb1168",
       "name": "CHARGE 4,000円＋別途2オーダー",
       "secondary": "",
@@ -2235,7 +2294,7 @@
       "detailPath": "entities/songs/20be66c39afb1168.json"
     },
     {
-      "rank": 7289,
+      "rank": 7290,
       "id": "bb8eaf8e4fe5d596",
       "name": "Chase the Chance",
       "secondary": "安室奈美恵",
@@ -2295,7 +2354,7 @@
       "detailPath": "entities/songs/bb8eaf8e4fe5d596.json"
     },
     {
-      "rank": 7290,
+      "rank": 7291,
       "id": "bb07d4d2bcc55817",
       "name": "CheerS",
       "secondary": "ClariS",
@@ -2352,7 +2411,7 @@
       "detailPath": "entities/songs/bb07d4d2bcc55817.json"
     },
     {
-      "rank": 7291,
+      "rank": 7292,
       "id": "18ce734de50f7a14",
       "name": "chocolate box",
       "secondary": "dezzy(一億円P) feat. 鏡音リン,鏡音レン",
@@ -2409,7 +2468,7 @@
       "detailPath": "entities/songs/18ce734de50f7a14.json"
     },
     {
-      "rank": 7292,
+      "rank": 7293,
       "id": "ce244d499d23a5a5",
       "name": "chocolate insomnia",
       "secondary": "羽川翼(cv.堀江由衣)",
@@ -2469,7 +2528,7 @@
       "detailPath": "entities/songs/ce244d499d23a5a5.json"
     },
     {
-      "rank": 7293,
+      "rank": 7294,
       "id": "7aa96cf57316ca1e",
       "name": "CHU-BURA",
       "secondary": "KELUN",
@@ -2529,7 +2588,7 @@
       "detailPath": "entities/songs/7aa96cf57316ca1e.json"
     },
     {
-      "rank": 7294,
+      "rank": 7295,
       "id": "7be856bb3ff32bca",
       "name": "CITRUS",
       "secondary": "",
@@ -2586,7 +2645,7 @@
       "detailPath": "entities/songs/7be856bb3ff32bca.json"
     },
     {
-      "rank": 7295,
+      "rank": 7296,
       "id": "ad94bd0172ccb805",
       "name": "Clock Strikes",
       "secondary": "ONE OK ROCK",
@@ -2646,7 +2705,7 @@
       "detailPath": "entities/songs/ad94bd0172ccb805.json"
     },
     {
-      "rank": 7296,
+      "rank": 7297,
       "id": "dbe74eb56acfbacb",
       "name": "Clockwork Pierrot",
       "secondary": "40mP",
@@ -2703,7 +2762,7 @@
       "detailPath": "entities/songs/dbe74eb56acfbacb.json"
     },
     {
-      "rank": 7297,
+      "rank": 7298,
       "id": "9397d5678f111cf1",
       "name": "Closer",
       "secondary": "The Chainsmokers ft. Halsey",
@@ -2763,7 +2822,7 @@
       "detailPath": "entities/songs/9397d5678f111cf1.json"
     },
     {
-      "rank": 7298,
+      "rank": 7299,
       "id": "2fcd4e9078157429",
       "name": "CLOSER",
       "secondary": "井上ジョー",
@@ -2823,7 +2882,7 @@
       "detailPath": "entities/songs/2fcd4e9078157429.json"
     },
     {
-      "rank": 7299,
+      "rank": 7300,
       "id": "830b3757728adf9d",
       "name": "Closing Remarks",
       "secondary": "",
@@ -2878,66 +2937,6 @@
         }
       ],
       "detailPath": "entities/songs/830b3757728adf9d.json"
-    },
-    {
-      "rank": 7300,
-      "id": "2c035383914d1b02",
-      "name": "clumsy trick",
-      "secondary": "初星学園",
-      "channelId": "UCg07Ij3Uov3k9rYgBwDQLVQ",
-      "channelHandle": "@ameru_hoshifuru",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "bWke12_oiTg",
-          "videoTitle": "【歌枠】いいオリ曲、あります。アニソンも歌うぞ！【Vtuber/星降あめる】",
-          "channelName": "Ameru Ch.星降 あめる",
-          "publishedAt": "2026-10-01T15:14:17.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bWke12_oiTg/hqdefault.jpg",
-          "sourcePath": "sources/bW/bWke12_oiTg.json",
-          "time": "1:13:45",
-          "seconds": 4425,
-          "songTitle": "Clumsy trick",
-          "artist": "初星学園"
-        },
-        {
-          "videoId": "iuXgMX6dd8M",
-          "videoTitle": "【縦型歌枠】まどマギなどアニソン＆アイドルソングのカラオケ！【無常りんり / #karaoke】",
-          "channelName": "無常りんり - Rinri Mujyou【201号室】",
-          "publishedAt": "2026-09-28T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iuXgMX6dd8M/hqdefault.jpg",
-          "sourcePath": "sources/iu/iuXgMX6dd8M.json",
-          "time": "0:18:45",
-          "seconds": 1125,
-          "songTitle": "clumsy trick",
-          "artist": "初星学園"
-        },
-        {
-          "videoId": "t_09QgKjdKI",
-          "videoTitle": "【歌枠】元気チャージ！お昼に一曲聴いてってね♡【Vtuber/星降あめる】",
-          "channelName": "Ameru Ch.星降 あめる",
-          "publishedAt": "2026-07-31T05:39:50.472Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/t_09QgKjdKI/hqdefault.jpg",
-          "sourcePath": "sources/t_/t_09QgKjdKI.json",
-          "time": "0:15:28",
-          "seconds": 928,
-          "songTitle": "clumsy trick",
-          "artist": "初星学園"
-        }
-      ],
-      "detailPath": "entities/songs/2c035383914d1b02.json"
     }
   ]
 }

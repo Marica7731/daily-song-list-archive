@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 147,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7301,
+      "id": "2c035383914d1b02",
+      "name": "clumsy trick",
+      "secondary": "初星学園",
+      "channelId": "UCg07Ij3Uov3k9rYgBwDQLVQ",
+      "channelHandle": "@ameru_hoshifuru",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "bWke12_oiTg",
+          "videoTitle": "【歌枠】いいオリ曲、あります。アニソンも歌うぞ！【Vtuber/星降あめる】",
+          "channelName": "Ameru Ch.星降 あめる",
+          "publishedAt": "2026-10-01T15:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bWke12_oiTg/hqdefault.jpg",
+          "sourcePath": "sources/bW/bWke12_oiTg.json",
+          "time": "1:13:45",
+          "seconds": 4425,
+          "songTitle": "Clumsy trick",
+          "artist": "初星学園"
+        },
+        {
+          "videoId": "iuXgMX6dd8M",
+          "videoTitle": "【縦型歌枠】まどマギなどアニソン＆アイドルソングのカラオケ！【無常りんり / #karaoke】",
+          "channelName": "無常りんり - Rinri Mujyou【201号室】",
+          "publishedAt": "2026-09-28T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iuXgMX6dd8M/hqdefault.jpg",
+          "sourcePath": "sources/iu/iuXgMX6dd8M.json",
+          "time": "0:18:45",
+          "seconds": 1125,
+          "songTitle": "clumsy trick",
+          "artist": "初星学園"
+        },
+        {
+          "videoId": "t_09QgKjdKI",
+          "videoTitle": "【歌枠】元気チャージ！お昼に一曲聴いてってね♡【Vtuber/星降あめる】",
+          "channelName": "Ameru Ch.星降 あめる",
+          "publishedAt": "2026-07-31T05:39:50.472Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/t_09QgKjdKI/hqdefault.jpg",
+          "sourcePath": "sources/t_/t_09QgKjdKI.json",
+          "time": "0:15:28",
+          "seconds": 928,
+          "songTitle": "clumsy trick",
+          "artist": "初星学園"
+        }
+      ],
+      "detailPath": "entities/songs/2c035383914d1b02.json"
+    },
+    {
+      "rank": 7302,
       "id": "99bc3ee2c3bb4985",
       "name": "clumsy trick",
       "secondary": "姫崎莉波(薄井友里)",
@@ -67,7 +127,7 @@
       "detailPath": "entities/songs/99bc3ee2c3bb4985.json"
     },
     {
-      "rank": 7302,
+      "rank": 7303,
       "id": "d3804d8fb3c9cf6d",
       "name": "Coffee",
       "secondary": "Mrs. GREEN APPLE",
@@ -124,7 +184,7 @@
       "detailPath": "entities/songs/d3804d8fb3c9cf6d.json"
     },
     {
-      "rank": 7303,
+      "rank": 7304,
       "id": "e36fc04c44a78c1c",
       "name": "Color of Drops",
       "secondary": "MORE MORE JUMP！",
@@ -181,7 +241,7 @@
       "detailPath": "entities/songs/e36fc04c44a78c1c.json"
     },
     {
-      "rank": 7304,
+      "rank": 7305,
       "id": "1d33cffce8d22f91",
       "name": "comet",
       "secondary": "星街すいせい",
@@ -241,7 +301,7 @@
       "detailPath": "entities/songs/1d33cffce8d22f91.json"
     },
     {
-      "rank": 7305,
+      "rank": 7306,
       "id": "2ab0ba54a481f573",
       "name": "COSMIC LOVE",
       "secondary": "水樹奈々",
@@ -301,7 +361,7 @@
       "detailPath": "entities/songs/2ab0ba54a481f573.json"
     },
     {
-      "rank": 7306,
+      "rank": 7307,
       "id": "b4c0fe6e639b1782",
       "name": "COSMOS",
       "secondary": "合唱曲 作詞・作曲 ミマス",
@@ -358,7 +418,7 @@
       "detailPath": "entities/songs/b4c0fe6e639b1782.json"
     },
     {
-      "rank": 7307,
+      "rank": 7308,
       "id": "bb3e4cbaae0b10dd",
       "name": "cover投稿",
       "secondary": "",
@@ -412,7 +472,7 @@
       "detailPath": "entities/songs/bb3e4cbaae0b10dd.json"
     },
     {
-      "rank": 7308,
+      "rank": 7309,
       "id": "c1c89caf34045d20",
       "name": "CRAWL",
       "secondary": "古川本舗",
@@ -469,7 +529,7 @@
       "detailPath": "entities/songs/c1c89caf34045d20.json"
     },
     {
-      "rank": 7309,
+      "rank": 7310,
       "id": "2be52b9bf7491429",
       "name": "Cream+Mint",
       "secondary": "KOTOKO",
@@ -526,7 +586,7 @@
       "detailPath": "entities/songs/2be52b9bf7491429.json"
     },
     {
-      "rank": 7310,
+      "rank": 7311,
       "id": "63ed3855f84b5600",
       "name": "Creation",
       "secondary": "赤魔アザト ※",
@@ -583,7 +643,7 @@
       "detailPath": "entities/songs/63ed3855f84b5600.json"
     },
     {
-      "rank": 7311,
+      "rank": 7312,
       "id": "ca150049dff5cdd6",
       "name": "crescendo",
       "secondary": "fripSide",
@@ -640,7 +700,7 @@
       "detailPath": "entities/songs/ca150049dff5cdd6.json"
     },
     {
-      "rank": 7312,
+      "rank": 7313,
       "id": "f12ee9e0afe8a613",
       "name": "crossing field(ソードアート・オンライン)",
       "secondary": "LiSA",
@@ -697,7 +757,7 @@
       "detailPath": "entities/songs/f12ee9e0afe8a613.json"
     },
     {
-      "rank": 7313,
+      "rank": 7314,
       "id": "da954c91a76eab90",
       "name": "crossingdays",
       "secondary": "新谷良子",
@@ -757,7 +817,7 @@
       "detailPath": "entities/songs/da954c91a76eab90.json"
     },
     {
-      "rank": 7314,
+      "rank": 7315,
       "id": "0a70ed55700bf8ab",
       "name": "Cry baby",
       "secondary": "未記載",
@@ -815,7 +875,7 @@
       "detailPath": "entities/songs/0a70ed55700bf8ab.json"
     },
     {
-      "rank": 7315,
+      "rank": 7316,
       "id": "f7fe3e90c14f77cb",
       "name": "Cry Baby",
       "secondary": "Official HIGE DANDism",
@@ -872,7 +932,7 @@
       "detailPath": "entities/songs/f7fe3e90c14f77cb.json"
     },
     {
-      "rank": 7316,
+      "rank": 7317,
       "id": "be517e119ba75b69",
       "name": "Cupid",
       "secondary": "FIFTY FIFTY",
@@ -932,7 +992,7 @@
       "detailPath": "entities/songs/be517e119ba75b69.json"
     },
     {
-      "rank": 7317,
+      "rank": 7318,
       "id": "03e37958da568481",
       "name": "Cute for life",
       "secondary": "高嶺のなでしこ",
@@ -992,7 +1052,7 @@
       "detailPath": "entities/songs/03e37958da568481.json"
     },
     {
-      "rank": 7318,
+      "rank": 7319,
       "id": "cd1354c7d8bcaafe",
       "name": "Cutie Panther",
       "secondary": "BiBi～絢瀬絵里(南條愛乃)、西木野真姫(Pile)、矢澤にこ(徳井青空)from μ's～",
@@ -1051,7 +1111,7 @@
       "detailPath": "entities/songs/cd1354c7d8bcaafe.json"
     },
     {
-      "rank": 7319,
+      "rank": 7320,
       "id": "fda274dc334b4d86",
       "name": "Daddy Daddy Do",
       "secondary": "",
@@ -1108,7 +1168,7 @@
       "detailPath": "entities/songs/fda274dc334b4d86.json"
     },
     {
-      "rank": 7320,
+      "rank": 7321,
       "id": "a393c2e9973c8c9d",
       "name": "DAN DAN Kokoro Hikareteku",
       "secondary": "FIELD OF VIEW",
@@ -1165,7 +1225,7 @@
       "detailPath": "entities/songs/a393c2e9973c8c9d.json"
     },
     {
-      "rank": 7321,
+      "rank": 7322,
       "id": "8607a012b953258f",
       "name": "Dancing Queen",
       "secondary": "ABBA",
@@ -1222,7 +1282,7 @@
       "detailPath": "entities/songs/8607a012b953258f.json"
     },
     {
-      "rank": 7322,
+      "rank": 7323,
       "id": "f8e9859e4812cb92",
       "name": "Dang Dang気になる",
       "secondary": "中村由真",
@@ -1279,7 +1339,7 @@
       "detailPath": "entities/songs/f8e9859e4812cb92.json"
     },
     {
-      "rank": 7323,
+      "rank": 7324,
       "id": "1f4e5b606afc2c60",
       "name": "DANZEN！ふたりはプリキュア",
       "secondary": "Mayumi Gojo",
@@ -1338,7 +1398,7 @@
       "detailPath": "entities/songs/1f4e5b606afc2c60.json"
     },
     {
-      "rank": 7324,
+      "rank": 7325,
       "id": "3b4a4e7382f1f081",
       "name": "Darling",
       "secondary": "",
@@ -1395,7 +1455,7 @@
       "detailPath": "entities/songs/3b4a4e7382f1f081.json"
     },
     {
-      "rank": 7325,
+      "rank": 7326,
       "id": "2afe994997596faf",
       "name": "Darling Dance",
       "secondary": "Kairiki Bear feat.Hatsune Miku",
@@ -1453,7 +1513,7 @@
       "detailPath": "entities/songs/2afe994997596faf.json"
     },
     {
-      "rank": 7326,
+      "rank": 7327,
       "id": "d63b51daeddf03fd",
       "name": "Day",
       "secondary": "day",
@@ -1512,7 +1572,7 @@
       "detailPath": "entities/songs/d63b51daeddf03fd.json"
     },
     {
-      "rank": 7327,
+      "rank": 7328,
       "id": "801e05570ee47ca4",
       "name": "DAYBREAK FRONTLINE",
       "secondary": "未記載",
@@ -1570,7 +1630,7 @@
       "detailPath": "entities/songs/801e05570ee47ca4.json"
     },
     {
-      "rank": 7328,
+      "rank": 7329,
       "id": "41733a9d65bc7d5f",
       "name": "DAYBREAK FRONTLINE",
       "secondary": "Orangestar feat. IA",
@@ -1628,7 +1688,7 @@
       "detailPath": "entities/songs/41733a9d65bc7d5f.json"
     },
     {
-      "rank": 7329,
+      "rank": 7330,
       "id": "b0eb72e8b6145947",
       "name": "DAYDREAM",
       "secondary": "JUDY AND MARY",
@@ -1686,7 +1746,7 @@
       "detailPath": "entities/songs/b0eb72e8b6145947.json"
     },
     {
-      "rank": 7330,
+      "rank": 7331,
       "id": "2878c3f459c21faf",
       "name": "days",
       "secondary": "じん",
@@ -1746,7 +1806,7 @@
       "detailPath": "entities/songs/2878c3f459c21faf.json"
     },
     {
-      "rank": 7331,
+      "rank": 7332,
       "id": "2ec6fc3e598dcc48",
       "name": "days",
       "secondary": "",
@@ -1803,7 +1863,7 @@
       "detailPath": "entities/songs/2ec6fc3e598dcc48.json"
     },
     {
-      "rank": 7332,
+      "rank": 7333,
       "id": "7be347d6bb17859c",
       "name": "days",
       "secondary": "2G70",
@@ -1860,7 +1920,7 @@
       "detailPath": "entities/songs/7be347d6bb17859c.json"
     },
     {
-      "rank": 7333,
+      "rank": 7334,
       "id": "12a621e18826d94d",
       "name": "Days",
       "secondary": "浜崎あゆみ",
@@ -1920,7 +1980,7 @@
       "detailPath": "entities/songs/12a621e18826d94d.json"
     },
     {
-      "rank": 7334,
+      "rank": 7335,
       "id": "f44a39d91acd5685",
       "name": "daze",
       "secondary": "じん (自然の敵P)",
@@ -1980,7 +2040,7 @@
       "detailPath": "entities/songs/f44a39d91acd5685.json"
     },
     {
-      "rank": 7335,
+      "rank": 7336,
       "id": "dfa84c23931ecd54",
       "name": "DEAD SET",
       "secondary": "angela",
@@ -2037,7 +2097,7 @@
       "detailPath": "entities/songs/dfa84c23931ecd54.json"
     },
     {
-      "rank": 7336,
+      "rank": 7337,
       "id": "c32fade5a8ab60af",
       "name": "Dear",
       "secondary": "中島美嘉",
@@ -2094,7 +2154,7 @@
       "detailPath": "entities/songs/c32fade5a8ab60af.json"
     },
     {
-      "rank": 7337,
+      "rank": 7338,
       "id": "9a75adcb903fb45c",
       "name": "Dear My Friend",
       "secondary": "Every Little Thing",
@@ -2151,7 +2211,7 @@
       "detailPath": "entities/songs/9a75adcb903fb45c.json"
     },
     {
-      "rank": 7338,
+      "rank": 7339,
       "id": "bda6aa348466c6cd",
       "name": "Dear World",
       "secondary": "MELLOW DEAR US",
@@ -2212,7 +2272,7 @@
       "detailPath": "entities/songs/bda6aa348466c6cd.json"
     },
     {
-      "rank": 7339,
+      "rank": 7340,
       "id": "58ef21adadc091ff",
       "name": "Dear＿＿",
       "secondary": "",
@@ -2270,7 +2330,7 @@
       "detailPath": "entities/songs/58ef21adadc091ff.json"
     },
     {
-      "rank": 7340,
+      "rank": 7341,
       "id": "a929dd92351b123a",
       "name": "DEEP BLUE TOWNへおいでよ",
       "secondary": "アイマリン(CV:内田 彩) · ウェンディ(CV:内田 真礼) · ウーニィ(CV:佐倉 綾音)",
@@ -2329,7 +2389,7 @@
       "detailPath": "entities/songs/a929dd92351b123a.json"
     },
     {
-      "rank": 7341,
+      "rank": 7342,
       "id": "0177a15c286d62ee",
       "name": "Deep in Abyss",
       "secondary": "リコ(富田美憂)、レグ(伊瀬茉莉也)",
@@ -2388,7 +2448,7 @@
       "detailPath": "entities/songs/0177a15c286d62ee.json"
     },
     {
-      "rank": 7342,
+      "rank": 7343,
       "id": "2508185424e803c6",
       "name": "Deep River",
       "secondary": "宇多田ヒカル",
@@ -2445,7 +2505,7 @@
       "detailPath": "entities/songs/2508185424e803c6.json"
     },
     {
-      "rank": 7343,
+      "rank": 7344,
       "id": "3f37fbea99d55107",
       "name": "DEEP SHADOW",
       "secondary": "深影",
@@ -2505,7 +2565,7 @@
       "detailPath": "entities/songs/3f37fbea99d55107.json"
     },
     {
-      "rank": 7344,
+      "rank": 7345,
       "id": "0742f987702a5231",
       "name": "delete",
       "secondary": "ユナ（CV:神田沙也加）",
@@ -2565,7 +2625,7 @@
       "detailPath": "entities/songs/0742f987702a5231.json"
     },
     {
-      "rank": 7345,
+      "rank": 7346,
       "id": "8f85498686b734fa",
       "name": "dialogue",
       "secondary": "KEI",
@@ -2622,7 +2682,7 @@
       "detailPath": "entities/songs/8f85498686b734fa.json"
     },
     {
-      "rank": 7346,
+      "rank": 7347,
       "id": "42fc9ecea7dd8391",
       "name": "DIAMOND",
       "secondary": "PRINCESS PRINCESS",
@@ -2681,7 +2741,7 @@
       "detailPath": "entities/songs/42fc9ecea7dd8391.json"
     },
     {
-      "rank": 7347,
+      "rank": 7348,
       "id": "8068a97cca666020",
       "name": "DISCOTHEQUE",
       "secondary": "",
@@ -2738,7 +2798,7 @@
       "detailPath": "entities/songs/8068a97cca666020.json"
     },
     {
-      "rank": 7348,
+      "rank": 7349,
       "id": "bc39a0366af86c70",
       "name": "disillusion",
       "secondary": "タイナカサチ",
@@ -2800,7 +2860,7 @@
       "detailPath": "entities/songs/bc39a0366af86c70.json"
     },
     {
-      "rank": 7349,
+      "rank": 7350,
       "id": "d98e4e70943ec148",
       "name": "distance",
       "secondary": "LONG SHOT PARTY",
@@ -2858,66 +2918,6 @@
         }
       ],
       "detailPath": "entities/songs/d98e4e70943ec148.json"
-    },
-    {
-      "rank": 7350,
-      "id": "a0c255540a7220db",
-      "name": "DIVER#2100",
-      "secondary": "R.A.M",
-      "channelId": "UCgcel56b36LSI1uViDRxj5w",
-      "channelHandle": "@atatakakunaru",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7NIHaQVxS54",
-          "videoTitle": "【#歌枠 】初見さん大歓迎！リベンジ！絶唱の高評価300耐久歌枠🔥【 #アカノビャクア】#アカノート #vsinger #karaoke",
-          "channelName": "アカノ☆ビャクア AkanoByakua",
-          "publishedAt": "2026-09-26T18:48:54.683Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7NIHaQVxS54/hqdefault.jpg",
-          "sourcePath": "sources/7N/7NIHaQVxS54.json",
-          "time": "1:42:04",
-          "seconds": 6124,
-          "songTitle": "DIVER#2100",
-          "artist": "R.A.M"
-        },
-        {
-          "videoId": "JNL2sfknXsw",
-          "videoTitle": "【 歌枠 】歌いたい曲を好きに歌う呑気な低音男性Vtuber",
-          "channelName": "黒亀 / kurokame",
-          "publishedAt": "2026-09-17T22:23:37.174Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JNL2sfknXsw/hqdefault.jpg",
-          "sourcePath": "sources/JN/JNL2sfknXsw.json",
-          "time": "0:49:50",
-          "seconds": 2990,
-          "songTitle": "DIVER #2100",
-          "artist": "R.A.M"
-        },
-        {
-          "videoId": "gSsUD0S7Jv4",
-          "videoTitle": "【紺野和泉 / 白夜零兎】歌枠リレー【#あたなる50時間配信Part7】",
-          "channelName": "あたたかくなる",
-          "publishedAt": "2026-08-15T05:32:19.826Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gSsUD0S7Jv4/hqdefault.jpg",
-          "sourcePath": "sources/gS/gSsUD0S7Jv4.json",
-          "time": "0:03:54",
-          "seconds": 234,
-          "songTitle": "DIVER#2100",
-          "artist": "R.A.M"
-        }
-      ],
-      "detailPath": "entities/songs/a0c255540a7220db.json"
     }
   ]
 }

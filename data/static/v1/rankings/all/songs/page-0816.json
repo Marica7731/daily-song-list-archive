@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 816,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 40751,
+      "id": "1b85c8954d27eed3",
+      "name": "ワルキューレは裏切らない",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "rGBqflYBMgo",
+          "videoTitle": "歌枠 / Karaoke │ 女性ボーカルの名曲歌います💃🤍 Singing Stream 〖 音羽ララ / Vsinger〗",
+          "channelName": "音羽ララ (Otohane Lara) / シアーミュージックV",
+          "publishedAt": "2026-10-01T13:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rGBqflYBMgo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsBx2_B8B8-AHdf6T9IsKg_pFvaQ",
+          "sourcePath": "sources/rG/rGBqflYBMgo.json",
+          "time": "0:47:13",
+          "seconds": 2833,
+          "songTitle": "ワルキューレは裏切らない",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/1b85c8954d27eed3.json"
+    },
+    {
+      "rank": 40752,
+      "id": "af772c0e2233839b",
+      "name": "ワルツ",
+      "secondary": "スネオヘアー",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "wMsxVftcwdc",
+          "videoTitle": "【歌枠/Karaoke】🎤月曜定期歌枠🎧70枠目【阿出川リンネ/VTuber】",
+          "channelName": "阿出川リンネ",
+          "publishedAt": "2026-08-31T15:33:35.016Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wMsxVftcwdc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCuK2gx8sWBZObYyPG6QtBurPCsA",
+          "sourcePath": "sources/wM/wMsxVftcwdc.json",
+          "time": "0:08:16",
+          "seconds": 496,
+          "songTitle": "ワルツ",
+          "artist": "スネオヘアー"
+        }
+      ],
+      "detailPath": "entities/songs/af772c0e2233839b.json"
+    },
+    {
+      "rank": 40753,
       "id": "5854ca838348cdef",
       "name": "ワルツ",
       "secondary": "いとうかなこ",
@@ -43,7 +109,7 @@
       "detailPath": "entities/songs/5854ca838348cdef.json"
     },
     {
-      "rank": 40752,
+      "rank": 40754,
       "id": "27462cf07f4d3840",
       "name": "ワルツ",
       "secondary": "家入レオ",
@@ -76,7 +142,7 @@
       "detailPath": "entities/songs/27462cf07f4d3840.json"
     },
     {
-      "rank": 40753,
+      "rank": 40755,
       "id": "dbcdd5e5bc4d9cc8",
       "name": "ワルドエンズ・ダンスホール",
       "secondary": "wowaka",
@@ -110,7 +176,7 @@
       "detailPath": "entities/songs/dbcdd5e5bc4d9cc8.json"
     },
     {
-      "rank": 40754,
+      "rank": 40756,
       "id": "c115948a7d859d3a",
       "name": "われらの旅立ち",
       "secondary": "水木一郎",
@@ -143,7 +209,7 @@
       "detailPath": "entities/songs/c115948a7d859d3a.json"
     },
     {
-      "rank": 40755,
+      "rank": 40757,
       "id": "72200323cdba94af",
       "name": "わわ",
       "secondary": "Cagayake!GIRLS",
@@ -173,7 +239,7 @@
       "detailPath": "entities/songs/72200323cdba94af.json"
     },
     {
-      "rank": 40756,
+      "rank": 40758,
       "id": "a0076c0da26ac190",
       "name": "ワヲ！",
       "secondary": "神谷浩史",
@@ -203,7 +269,7 @@
       "detailPath": "entities/songs/a0076c0da26ac190.json"
     },
     {
-      "rank": 40757,
+      "rank": 40759,
       "id": "30f23f14c051d986",
       "name": "ワン・ウーマン・ショー ～甘い幻～",
       "secondary": "One Woman Show ~ Amai Maboroshi ポルノグラフィティ / Porno Graffiti",
@@ -236,7 +302,7 @@
       "detailPath": "entities/songs/30f23f14c051d986.json"
     },
     {
-      "rank": 40758,
+      "rank": 40760,
       "id": "77992633f70c8d3a",
       "name": "ワン・ヤード",
       "secondary": "INOSON feat. 初音ミク",
@@ -269,7 +335,7 @@
       "detailPath": "entities/songs/77992633f70c8d3a.json"
     },
     {
-      "rank": 40759,
+      "rank": 40761,
       "id": "fec471d094c975a8",
       "name": "ワンコーラスチャレンジ",
       "secondary": "",
@@ -299,7 +365,7 @@
       "detailPath": "entities/songs/fec471d094c975a8.json"
     },
     {
-      "rank": 40760,
+      "rank": 40762,
       "id": "cb92383acf56c728",
       "name": "ワンスアポーン",
       "secondary": "03:57:51",
@@ -332,7 +398,7 @@
       "detailPath": "entities/songs/cb92383acf56c728.json"
     },
     {
-      "rank": 40761,
+      "rank": 40763,
       "id": "30873745cbbf91e1",
       "name": "ワンスアポーン",
       "secondary": "00:52:54",
@@ -365,7 +431,7 @@
       "detailPath": "entities/songs/30873745cbbf91e1.json"
     },
     {
-      "rank": 40762,
+      "rank": 40764,
       "id": "7fe365c03c8b6c5e",
       "name": "ワンスアポーン",
       "secondary": "01:28:37",
@@ -398,7 +464,7 @@
       "detailPath": "entities/songs/7fe365c03c8b6c5e.json"
     },
     {
-      "rank": 40763,
+      "rank": 40765,
       "id": "94676693babc872b",
       "name": "ワンスアポンアドリーム",
       "secondary": "泰寛",
@@ -431,7 +497,7 @@
       "detailPath": "entities/songs/94676693babc872b.json"
     },
     {
-      "rank": 40764,
+      "rank": 40766,
       "id": "95f37b39beb175f7",
       "name": "ワンダー",
       "secondary": "r-906",
@@ -464,7 +530,7 @@
       "detailPath": "entities/songs/95f37b39beb175f7.json"
     },
     {
-      "rank": 40765,
+      "rank": 40767,
       "id": "adcadf2306e098ae",
       "name": "ワンダー",
       "secondary": "そらる",
@@ -497,7 +563,7 @@
       "detailPath": "entities/songs/adcadf2306e098ae.json"
     },
     {
-      "rank": 40766,
+      "rank": 40768,
       "id": "3e3b5c920ddf4294",
       "name": "ワンダー",
       "secondary": "tayori",
@@ -527,7 +593,7 @@
       "detailPath": "entities/songs/3e3b5c920ddf4294.json"
     },
     {
-      "rank": 40767,
+      "rank": 40769,
       "id": "87ae059c5dec3e40",
       "name": "ワンダー・スターター",
       "secondary": "TINGS:青天国春(CV.鈴代紗弓)、玉城杏夏(CV.蟹沢萌子)、聖舞理王(CV.夏吉ゆうこ)、祇園寺雪音(CV.長谷川里桃)",
@@ -560,7 +626,7 @@
       "detailPath": "entities/songs/87ae059c5dec3e40.json"
     },
     {
-      "rank": 40768,
+      "rank": 40770,
       "id": "9e34fe1f6f8ab557",
       "name": "ワンダー・ワンダー",
       "secondary": "けーえぬP",
@@ -594,7 +660,7 @@
       "detailPath": "entities/songs/9e34fe1f6f8ab557.json"
     },
     {
-      "rank": 40769,
+      "rank": 40771,
       "id": "485d42bbcb0d3a46",
       "name": "ワンダーステラ",
       "secondary": "",
@@ -627,7 +693,7 @@
       "detailPath": "entities/songs/485d42bbcb0d3a46.json"
     },
     {
-      "rank": 40770,
+      "rank": 40772,
       "id": "54a25125840fea5d",
       "name": "ワンダーランド",
       "secondary": "FLiP",
@@ -660,7 +726,7 @@
       "detailPath": "entities/songs/54a25125840fea5d.json"
     },
     {
-      "rank": 40771,
+      "rank": 40773,
       "id": "80ba2444f978e3b3",
       "name": "ワンダーランド",
       "secondary": "『銀魂』より",
@@ -693,7 +759,7 @@
       "detailPath": "entities/songs/80ba2444f978e3b3.json"
     },
     {
-      "rank": 40772,
+      "rank": 40774,
       "id": "c4790bb29a2dc626",
       "name": "ワンダーランド",
       "secondary": "サカナクション 様",
@@ -726,7 +792,7 @@
       "detailPath": "entities/songs/c4790bb29a2dc626.json"
     },
     {
-      "rank": 40773,
+      "rank": 40775,
       "id": "90fad56eae734de4",
       "name": "ワンダーランド・ア・ゴーゴー",
       "secondary": "オーイシマサヨシ",
@@ -759,7 +825,7 @@
       "detailPath": "entities/songs/90fad56eae734de4.json"
     },
     {
-      "rank": 40774,
+      "rank": 40776,
       "id": "70fc882c72785a3a",
       "name": "ワンダーランド・ア・ゴーゴー!!",
       "secondary": "アリス&帽子屋[碓氷真澄、茅ヶ崎至(CV:白井悠介、浅沼晋太郎)]（91.264）",
@@ -793,7 +859,7 @@
       "detailPath": "entities/songs/70fc882c72785a3a.json"
     },
     {
-      "rank": 40775,
+      "rank": 40777,
       "id": "666ce565d16a69df",
       "name": "ワンダーランドインアリス",
       "secondary": "奏音69",
@@ -826,7 +892,7 @@
       "detailPath": "entities/songs/666ce565d16a69df.json"
     },
     {
-      "rank": 40776,
+      "rank": 40778,
       "id": "992977c965c6a533",
       "name": "ワンダーランドと羊のうた",
       "secondary": "ハチ",
@@ -856,7 +922,7 @@
       "detailPath": "entities/songs/992977c965c6a533.json"
     },
     {
-      "rank": 40777,
+      "rank": 40779,
       "id": "cab3af15d6c85701",
       "name": "ワンダーランドと羊の歌",
       "secondary": "",
@@ -889,7 +955,7 @@
       "detailPath": "entities/songs/cab3af15d6c85701.json"
     },
     {
-      "rank": 40778,
+      "rank": 40780,
       "id": "4a855f1d6b874e21",
       "name": "ワンダーランドと羊の歌",
       "secondary": "ハチ feat. 初音ミク 2010年",
@@ -919,7 +985,7 @@
       "detailPath": "entities/songs/4a855f1d6b874e21.json"
     },
     {
-      "rank": 40779,
+      "rank": 40781,
       "id": "afbae3fea2c0f242",
       "name": "ワンダーランドと羊の歌",
       "secondary": "ハチ feat.初音ミク",
@@ -952,7 +1018,7 @@
       "detailPath": "entities/songs/afbae3fea2c0f242.json"
     },
     {
-      "rank": 40780,
+      "rank": 40782,
       "id": "6c52eb2cbc2a2adb",
       "name": "ワンダフル",
       "secondary": "サウダージ",
@@ -982,7 +1048,7 @@
       "detailPath": "entities/songs/6c52eb2cbc2a2adb.json"
     },
     {
-      "rank": 40781,
+      "rank": 40783,
       "id": "248c9c42709892cc",
       "name": "ワンダフル↑パワフル↑ミュージック!!",
       "secondary": "池田彩 / スイートプリキュア",
@@ -1015,7 +1081,7 @@
       "detailPath": "entities/songs/248c9c42709892cc.json"
     },
     {
-      "rank": 40782,
+      "rank": 40784,
       "id": "820c4e8b502c758c",
       "name": "ワンダフル☆ワールド",
       "secondary": "ゆいまるちゃん",
@@ -1045,7 +1111,7 @@
       "detailPath": "entities/songs/820c4e8b502c758c.json"
     },
     {
-      "rank": 40783,
+      "rank": 40785,
       "id": "e21a5242440fa553",
       "name": "わんだふるぷりきゅあ！evolution!!",
       "secondary": "吉武千颯 / わんだふるぷりきゅあ！",
@@ -1078,7 +1144,7 @@
       "detailPath": "entities/songs/e21a5242440fa553.json"
     },
     {
-      "rank": 40784,
+      "rank": 40786,
       "id": "aa7512bcc48d61bd",
       "name": "わんだふるぷりきゅあ！evolution!!",
       "secondary": "わんだふるぷりきゅあ!",
@@ -1111,7 +1177,7 @@
       "detailPath": "entities/songs/aa7512bcc48d61bd.json"
     },
     {
-      "rank": 40785,
+      "rank": 40787,
       "id": "3093714708c1f232",
       "name": "わんちゃん☆エブリデイ！",
       "secondary": "犬丸なでこ（アカペラ）",
@@ -1145,7 +1211,7 @@
       "detailPath": "entities/songs/3093714708c1f232.json"
     },
     {
-      "rank": 40786,
+      "rank": 40788,
       "id": "7a1628188db16dae",
       "name": "ワンデイズワンダー",
       "secondary": "幼依もゆる",
@@ -1178,7 +1244,7 @@
       "detailPath": "entities/songs/7a1628188db16dae.json"
     },
     {
-      "rank": 40787,
+      "rank": 40789,
       "id": "c49251d6cb814fe8",
       "name": "ワンドリンク制＆オリジナルドリンク",
       "secondary": "",
@@ -1211,7 +1277,7 @@
       "detailPath": "entities/songs/c49251d6cb814fe8.json"
     },
     {
-      "rank": 40788,
+      "rank": 40790,
       "id": "96e0dee8083959cf",
       "name": "わんぬ",
       "secondary": "莉犬",
@@ -1244,7 +1310,7 @@
       "detailPath": "entities/songs/96e0dee8083959cf.json"
     },
     {
-      "rank": 40789,
+      "rank": 40791,
       "id": "50baae6f16d1e4bd",
       "name": "ワンネス",
       "secondary": "",
@@ -1274,7 +1340,7 @@
       "detailPath": "entities/songs/50baae6f16d1e4bd.json"
     },
     {
-      "rank": 40790,
+      "rank": 40792,
       "id": "71c0046e26e2230c",
       "name": "ワンパン",
       "secondary": "神",
@@ -1307,7 +1373,7 @@
       "detailPath": "entities/songs/71c0046e26e2230c.json"
     },
     {
-      "rank": 40791,
+      "rank": 40793,
       "id": "15923bed33b6971d",
       "name": "ワンピース×ado",
       "secondary": "未記載",
@@ -1340,7 +1406,7 @@
       "detailPath": "entities/songs/15923bed33b6971d.json"
     },
     {
-      "rank": 40792,
+      "rank": 40794,
       "id": "d6ab8a241b85c084",
       "name": "ワンピース心中",
       "secondary": "アーバンギャルド",
@@ -1373,7 +1439,7 @@
       "detailPath": "entities/songs/d6ab8a241b85c084.json"
     },
     {
-      "rank": 40793,
+      "rank": 40795,
       "id": "65e2ac6633e59212",
       "name": "ワンフレーズアカペラ大会ｗ",
       "secondary": "",
@@ -1403,7 +1469,7 @@
       "detailPath": "entities/songs/65e2ac6633e59212.json"
     },
     {
-      "rank": 40794,
+      "rank": 40796,
       "id": "6aa10377e4b83137",
       "name": "ワンミーツハー",
       "secondary": "ヒトリエ",
@@ -1436,7 +1502,7 @@
       "detailPath": "entities/songs/6aa10377e4b83137.json"
     },
     {
-      "rank": 40795,
+      "rank": 40797,
       "id": "4d8d3dc75036b2c2",
       "name": "ワンモアタイム",
       "secondary": "ポルノグラフィティ",
@@ -1466,7 +1532,7 @@
       "detailPath": "entities/songs/4d8d3dc75036b2c2.json"
     },
     {
-      "rank": 40796,
+      "rank": 40798,
       "id": "9e15a384b6b1a0c0",
       "name": "ワンルーム",
       "secondary": "yonige",
@@ -1500,7 +1566,7 @@
       "detailPath": "entities/songs/9e15a384b6b1a0c0.json"
     },
     {
-      "rank": 40797,
+      "rank": 40799,
       "id": "788e8bce1bbab939",
       "name": "ワンルーム",
       "secondary": "にしな",
@@ -1534,7 +1600,7 @@
       "detailPath": "entities/songs/788e8bce1bbab939.json"
     },
     {
-      "rank": 40798,
+      "rank": 40800,
       "id": "cb98e8d529edcbe7",
       "name": "ワンルーム・オール・ザット・ジャズ",
       "secondary": "DATEKENP",
@@ -1562,72 +1628,6 @@
         }
       ],
       "detailPath": "entities/songs/cb98e8d529edcbe7.json"
-    },
-    {
-      "rank": 40799,
-      "id": "3c1e80d5dfb7b257",
-      "name": "ワンルーム・ディスコ",
-      "secondary": "Perfume 様",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "gw01E7p3ueU",
-          "videoTitle": "【Vtuber】好きな曲をひたすら歌う歌枠/カラオケ配信【#もゆるに萌ゆる / 幼依もゆる】",
-          "channelName": "幼依もゆる",
-          "publishedAt": "2026-09-17T00:15:02.970Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gw01E7p3ueU/hqdefault.jpg",
-          "sourcePath": "sources/gw/gw01E7p3ueU.json",
-          "time": "0:57:13",
-          "seconds": 3433,
-          "songTitle": "ワンルーム・ディスコ",
-          "artist": "Perfume 様"
-        }
-      ],
-      "detailPath": "entities/songs/3c1e80d5dfb7b257.json"
-    },
-    {
-      "rank": 40800,
-      "id": "d947f19c0753329f",
-      "name": "ワンルーム・ディスコ",
-      "secondary": "Perfume",
-      "channelId": "UCrPzeqsIo-_W95TXuExqckw",
-      "channelHandle": "@suiu_shino",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "SABSnqf_HOA",
-          "videoTitle": "【 #歌枠 / #カラオケ 】 Perfume縛り！エフェクトボイスで歌います✨【 #しのの仕立て屋 / #vsinger 】",
-          "channelName": "翠雨 しの",
-          "publishedAt": "2026-10-04T08:11:03.733Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SABSnqf_HOA/hqdefault.jpg",
-          "sourcePath": "sources/SA/SABSnqf_HOA.json",
-          "time": "0:36:25",
-          "seconds": 2185,
-          "songTitle": "ワンルーム・ディスコ",
-          "artist": "Perfume"
-        }
-      ],
-      "detailPath": "entities/songs/d947f19c0753329f.json"
     }
   ]
 }

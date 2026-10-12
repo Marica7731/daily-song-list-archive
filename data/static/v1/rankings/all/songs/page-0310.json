@@ -1,16 +1,64 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 310,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 15451,
+      "id": "720cceb3aaca9e11",
+      "name": "虜",
+      "secondary": "My Hair is Bad",
+      "channelId": "UCvzw0gUNosiKA9mwchAeWlQ",
+      "channelHandle": "@KarakuRinne",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "r70q3u-VVzg",
+          "videoTitle": "【邦ロック歌枠リレー2026】自分なりのロックを聴かせるよん！【アンヘル・イノセンテ】",
+          "channelName": "Lavi☆An Ch.ラビ☆アン / 双子Vtuber",
+          "publishedAt": "2026-10-04T08:11:03.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/r70q3u-VVzg/hqdefault.jpg",
+          "sourcePath": "sources/r7/r70q3u-VVzg.json",
+          "time": "0:07:47",
+          "seconds": 467,
+          "songTitle": "虜",
+          "artist": "My Hair is Bad"
+        },
+        {
+          "videoId": "VIcH2u7mLX0",
+          "videoTitle": "【歌枠／弾き語り】初見さん歓迎！またっり歌います！ #Vsinger #からくりんね Singing Stream",
+          "channelName": "からくりんね-KarakuRinne",
+          "publishedAt": "2026-08-08T10:44:07.683Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VIcH2u7mLX0/hqdefault.jpg",
+          "sourcePath": "sources/VI/VIcH2u7mLX0.json",
+          "time": "0:58:47",
+          "seconds": 3527,
+          "songTitle": "虜",
+          "artist": "My Hair is Bad"
+        }
+      ],
+      "detailPath": "entities/songs/720cceb3aaca9e11.json"
+    },
+    {
+      "rank": 15452,
       "id": "ac667c44b059ba02",
       "name": "林檎花火とソーダの海",
       "secondary": "まふまふ",
@@ -57,7 +105,7 @@
       "detailPath": "entities/songs/ac667c44b059ba02.json"
     },
     {
-      "rank": 15452,
+      "rank": 15453,
       "id": "e286dbc38e755390",
       "name": "林檎売りの泡沫少女",
       "secondary": "黒髪ストロングP",
@@ -105,7 +153,7 @@
       "detailPath": "entities/songs/e286dbc38e755390.json"
     },
     {
-      "rank": 15453,
+      "rank": 15454,
       "id": "49e17b2beddacf0a",
       "name": "林檎売りの泡沫少女",
       "secondary": "yukkedoluce feat.GUMI ※JOYSOUND",
@@ -150,7 +198,7 @@
       "detailPath": "entities/songs/49e17b2beddacf0a.json"
     },
     {
-      "rank": 15454,
+      "rank": 15455,
       "id": "34ffb4c610c2ac27",
       "name": "鱗",
       "secondary": "未記載",
@@ -196,7 +244,7 @@
       "detailPath": "entities/songs/34ffb4c610c2ac27.json"
     },
     {
-      "rank": 15455,
+      "rank": 15456,
       "id": "4b7cf3997518af9a",
       "name": "鱗",
       "secondary": "",
@@ -241,7 +289,7 @@
       "detailPath": "entities/songs/4b7cf3997518af9a.json"
     },
     {
-      "rank": 15456,
+      "rank": 15457,
       "id": "adcbfc14eefcb916",
       "name": "鱗〈Uroko〉",
       "secondary": "秦基博",
@@ -287,7 +335,7 @@
       "detailPath": "entities/songs/adcbfc14eefcb916.json"
     },
     {
-      "rank": 15457,
+      "rank": 15458,
       "id": "c1d6b17236b7d1cb",
       "name": "瑠璃色コンパス",
       "secondary": "百瑠璃せいらん",
@@ -332,7 +380,7 @@
       "detailPath": "entities/songs/c1d6b17236b7d1cb.json"
     },
     {
-      "rank": 15458,
+      "rank": 15459,
       "id": "2a63db8e57a09f4e",
       "name": "瑠璃色の地球",
       "secondary": "未記載",
@@ -377,7 +425,7 @@
       "detailPath": "entities/songs/2a63db8e57a09f4e.json"
     },
     {
-      "rank": 15459,
+      "rank": 15460,
       "id": "0e58dc49b953521d",
       "name": "瑠璃色の地球",
       "secondary": "手嶌 葵",
@@ -425,7 +473,7 @@
       "detailPath": "entities/songs/0e58dc49b953521d.json"
     },
     {
-      "rank": 15460,
+      "rank": 15461,
       "id": "9238117536bd6c81",
       "name": "瑠璃色の地球(「未来への航海」バージョン)",
       "secondary": "手嶌 葵",
@@ -470,7 +518,7 @@
       "detailPath": "entities/songs/9238117536bd6c81.json"
     },
     {
-      "rank": 15461,
+      "rank": 15462,
       "id": "193dd18a39ecb1b7",
       "name": "涙サプライズ！",
       "secondary": "未記載",
@@ -515,7 +563,7 @@
       "detailPath": "entities/songs/193dd18a39ecb1b7.json"
     },
     {
-      "rank": 15462,
+      "rank": 15463,
       "id": "d516a99ba271b010",
       "name": "涙そうそう",
       "secondary": "森山良子,BEGIN",
@@ -562,7 +610,7 @@
       "detailPath": "entities/songs/d516a99ba271b010.json"
     },
     {
-      "rank": 15463,
+      "rank": 15464,
       "id": "49aed99d5c16409e",
       "name": "涙そうそう",
       "secondary": "森山良子(森山良子,BEGIN)",
@@ -608,7 +656,7 @@
       "detailPath": "entities/songs/49aed99d5c16409e.json"
     },
     {
-      "rank": 15464,
+      "rank": 15465,
       "id": "d0e951218fdbd013",
       "name": "涙そうそう",
       "secondary": "BEGIN",
@@ -653,7 +701,7 @@
       "detailPath": "entities/songs/d0e951218fdbd013.json"
     },
     {
-      "rank": 15465,
+      "rank": 15466,
       "id": "0b4bb9061dc9199b",
       "name": "涙そうそう",
       "secondary": "夏川りみ（ピアノ伴奏Ver.）",
@@ -698,7 +746,7 @@
       "detailPath": "entities/songs/0b4bb9061dc9199b.json"
     },
     {
-      "rank": 15466,
+      "rank": 15467,
       "id": "8c86669208d9a9e5",
       "name": "涙の温度",
       "secondary": "シド",
@@ -744,7 +792,7 @@
       "detailPath": "entities/songs/8c86669208d9a9e5.json"
     },
     {
-      "rank": 15467,
+      "rank": 15468,
       "id": "6f91002994144d37",
       "name": "涙の海で抱かれたい",
       "secondary": "サザンオールスターズ",
@@ -792,7 +840,7 @@
       "detailPath": "entities/songs/6f91002994144d37.json"
     },
     {
-      "rank": 15468,
+      "rank": 15469,
       "id": "05bea69ebbae4033",
       "name": "涙は知っている",
       "secondary": "涼風真世",
@@ -840,7 +888,7 @@
       "detailPath": "entities/songs/05bea69ebbae4033.json"
     },
     {
-      "rank": 15469,
+      "rank": 15470,
       "id": "c18916a0c102f69a",
       "name": "令和二年",
       "secondary": "amazarashi",
@@ -885,7 +933,7 @@
       "detailPath": "entities/songs/c18916a0c102f69a.json"
     },
     {
-      "rank": 15470,
+      "rank": 15471,
       "id": "44871bdc7c6963be",
       "name": "例えば",
       "secondary": "asmi",
@@ -929,7 +977,7 @@
       "detailPath": "entities/songs/44871bdc7c6963be.json"
     },
     {
-      "rank": 15471,
+      "rank": 15472,
       "id": "b73c1c64c719097d",
       "name": "冷たい嘘",
       "secondary": "aiko",
@@ -977,7 +1025,7 @@
       "detailPath": "entities/songs/b73c1c64c719097d.json"
     },
     {
-      "rank": 15472,
+      "rank": 15473,
       "id": "f5a964b8a94fe4f0",
       "name": "鈴々",
       "secondary": "PEOPLE 1",
@@ -1025,7 +1073,7 @@
       "detailPath": "entities/songs/f5a964b8a94fe4f0.json"
     },
     {
-      "rank": 15473,
+      "rank": 15474,
       "id": "81707a394522e854",
       "name": "鈴鳴つづり @SuzunaTsuzuri",
       "secondary": "",
@@ -1070,7 +1118,7 @@
       "detailPath": "entities/songs/81707a394522e854.json"
     },
     {
-      "rank": 15474,
+      "rank": 15475,
       "id": "d235131163a92a22",
       "name": "零-zero",
       "secondary": "tuki.",
@@ -1115,7 +1163,7 @@
       "detailPath": "entities/songs/d235131163a92a22.json"
     },
     {
-      "rank": 15475,
+      "rank": 15476,
       "id": "86de1e37762768de",
       "name": "恋?で愛?で暴君です!",
       "secondary": "Wake Up，Girls!",
@@ -1163,7 +1211,7 @@
       "detailPath": "entities/songs/86de1e37762768de.json"
     },
     {
-      "rank": 15476,
+      "rank": 15477,
       "id": "51ae4d190fbb9c17",
       "name": "恋☆カナ",
       "secondary": "月島きらり starring 久住小春",
@@ -1208,7 +1256,7 @@
       "detailPath": "entities/songs/51ae4d190fbb9c17.json"
     },
     {
-      "rank": 15477,
+      "rank": 15478,
       "id": "d9602f11708df4f7",
       "name": "恋☆カナ",
       "secondary": "月島きらり",
@@ -1253,7 +1301,7 @@
       "detailPath": "entities/songs/d9602f11708df4f7.json"
     },
     {
-      "rank": 15478,
+      "rank": 15479,
       "id": "ea63009d97ac19a8",
       "name": "恋しさとせつなさと心強さと",
       "secondary": "ストリートファイターII MOVIE",
@@ -1299,7 +1347,7 @@
       "detailPath": "entities/songs/ea63009d97ac19a8.json"
     },
     {
-      "rank": 15479,
+      "rank": 15480,
       "id": "062ec6896b5d7568",
       "name": "恋しさと切なさと心強さと",
       "secondary": "篠原涼子",
@@ -1345,7 +1393,7 @@
       "detailPath": "entities/songs/062ec6896b5d7568.json"
     },
     {
-      "rank": 15480,
+      "rank": 15481,
       "id": "993c6ccfef2373ca",
       "name": "恋するみたいなキャラメリゼ",
       "secondary": "れみ・えり from STAR☆ANIS",
@@ -1393,7 +1441,7 @@
       "detailPath": "entities/songs/993c6ccfef2373ca.json"
     },
     {
-      "rank": 15481,
+      "rank": 15482,
       "id": "5d4896dc7a69ad7d",
       "name": "恋する瞳は美しい",
       "secondary": "Superfly",
@@ -1437,7 +1485,7 @@
       "detailPath": "entities/songs/5d4896dc7a69ad7d.json"
     },
     {
-      "rank": 15482,
+      "rank": 15483,
       "id": "b7a966878fd43204",
       "name": "恋と病熱",
       "secondary": "米津玄師",
@@ -1482,7 +1530,7 @@
       "detailPath": "entities/songs/b7a966878fd43204.json"
     },
     {
-      "rank": 15483,
+      "rank": 15484,
       "id": "3bd7c45411dc5db8",
       "name": "恋になりたいAQUARIUM",
       "secondary": "",
@@ -1527,7 +1575,7 @@
       "detailPath": "entities/songs/3bd7c45411dc5db8.json"
     },
     {
-      "rank": 15484,
+      "rank": 15485,
       "id": "6fa90344ba5daa38",
       "name": "恋のコード",
       "secondary": "CHiCO with HoneyWorks",
@@ -1574,7 +1622,7 @@
       "detailPath": "entities/songs/6fa90344ba5daa38.json"
     },
     {
-      "rank": 15485,
+      "rank": 15486,
       "id": "3e0c9eb55ff2a28a",
       "name": "恋のシグナルRin rin rin",
       "secondary": "星空凛 (飯田里穂)",
@@ -1622,7 +1670,7 @@
       "detailPath": "entities/songs/3e0c9eb55ff2a28a.json"
     },
     {
-      "rank": 15486,
+      "rank": 15487,
       "id": "4dc763f9fc7e3647",
       "name": "恋のダイヤル6700",
       "secondary": "フィンガー5",
@@ -1668,7 +1716,7 @@
       "detailPath": "entities/songs/4dc763f9fc7e3647.json"
     },
     {
-      "rank": 15487,
+      "rank": 15488,
       "id": "5e204113a29ea7fb",
       "name": "恋のバタリアン",
       "secondary": "SixTONES",
@@ -1713,7 +1761,7 @@
       "detailPath": "entities/songs/5e204113a29ea7fb.json"
     },
     {
-      "rank": 15488,
+      "rank": 15489,
       "id": "b257d239d395f6b6",
       "name": "恋のフーガ",
       "secondary": "ザ・ピーナッツ",
@@ -1758,7 +1806,7 @@
       "detailPath": "entities/songs/b257d239d395f6b6.json"
     },
     {
-      "rank": 15489,
+      "rank": 15490,
       "id": "e601d8d03ae7ffd3",
       "name": "恋の季節",
       "secondary": "ピンキーとキラーズ",
@@ -1803,7 +1851,7 @@
       "detailPath": "entities/songs/e601d8d03ae7ffd3.json"
     },
     {
-      "rank": 15490,
+      "rank": 15491,
       "id": "1e91c57f72491663",
       "name": "恋ノ行方",
       "secondary": "その着せ替え人形は恋をする My Dress-Up Darling",
@@ -1848,7 +1896,7 @@
       "detailPath": "entities/songs/1e91c57f72491663.json"
     },
     {
-      "rank": 15491,
+      "rank": 15492,
       "id": "7f12c7522b05f7ea",
       "name": "恋の抑止力",
       "secondary": "水樹奈々",
@@ -1890,7 +1938,7 @@
       "detailPath": "entities/songs/7f12c7522b05f7ea.json"
     },
     {
-      "rank": 15492,
+      "rank": 15493,
       "id": "c5179dc2375859cf",
       "name": "恋はスリル、ショック、サスペンス",
       "secondary": "",
@@ -1935,7 +1983,7 @@
       "detailPath": "entities/songs/c5179dc2375859cf.json"
     },
     {
-      "rank": 15493,
+      "rank": 15494,
       "id": "1a502d7df1dd2ecd",
       "name": "恋はスリル、ショック、サスペンス(koi ha suriru、 syokku、 sasupensu)",
       "secondary": "愛内里菜",
@@ -1981,7 +2029,7 @@
       "detailPath": "entities/songs/1a502d7df1dd2ecd.json"
     },
     {
-      "rank": 15494,
+      "rank": 15495,
       "id": "230624890e2936c7",
       "name": "恋はドッグファイト",
       "secondary": "ランカ・リー=中島愛",
@@ -2026,7 +2074,7 @@
       "detailPath": "entities/songs/230624890e2936c7.json"
     },
     {
-      "rank": 15495,
+      "rank": 15496,
       "id": "920be9e878474d6c",
       "name": "恋はなんだろう",
       "secondary": "中田あすみ",
@@ -2071,7 +2119,7 @@
       "detailPath": "entities/songs/920be9e878474d6c.json"
     },
     {
-      "rank": 15496,
+      "rank": 15497,
       "id": "c07b1483c56b7d7f",
       "name": "恋は戦争",
       "secondary": "ryo",
@@ -2119,7 +2167,7 @@
       "detailPath": "entities/songs/c07b1483c56b7d7f.json"
     },
     {
-      "rank": 15497,
+      "rank": 15498,
       "id": "8f4e07025ef1677b",
       "name": "恋は渾沌の隷也",
       "secondary": "後ろから這いより隊G(ニャル子,クー子,珠緒)",
@@ -2165,7 +2213,7 @@
       "detailPath": "entities/songs/8f4e07025ef1677b.json"
     },
     {
-      "rank": 15498,
+      "rank": 15499,
       "id": "bdc16061608ca178",
       "name": "恋わずらい",
       "secondary": "椿屋四重奏",
@@ -2213,7 +2261,7 @@
       "detailPath": "entities/songs/bdc16061608ca178.json"
     },
     {
-      "rank": 15499,
+      "rank": 15500,
       "id": "f0b2b8a332a6d58f",
       "name": "恋を知らない君へ",
       "secondary": "NEWS",
@@ -2256,51 +2304,6 @@
         }
       ],
       "detailPath": "entities/songs/f0b2b8a332a6d58f.json"
-    },
-    {
-      "rank": 15500,
-      "id": "183e933f861061cf",
-      "name": "恋愛サーキュレーション",
-      "secondary": "化物語",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "r9rha0O6dBo",
-          "videoTitle": "🎤 朝活歌枠 ｜ 爽やか 懐メロ 平成名曲アニソン #花うさ singing vtuber vsinger karaoke アニソン 歌回 懐メロ 立花うさ 花うさ",
-          "channelName": "Hanausa Ch. 花うさ",
-          "publishedAt": "2026-09-19T03:48:50.529Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/r9rha0O6dBo/hqdefault.jpg",
-          "sourcePath": "sources/r9/r9rha0O6dBo.json",
-          "time": "1:37:50",
-          "seconds": 5870,
-          "songTitle": "恋愛サーキュレーション",
-          "artist": "化物語"
-        },
-        {
-          "videoId": "0vVpfvagDL8",
-          "videoTitle": "初耐久！！【平成アニソン縛り縦型歌枠】登録者150人いくまで終われません！！",
-          "channelName": "気間々 ゆくり",
-          "publishedAt": "2026-09-12T15:07:05.434Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0vVpfvagDL8/hqdefault.jpg",
-          "sourcePath": "sources/0v/0vVpfvagDL8.json",
-          "time": "3:26:58",
-          "seconds": 12418,
-          "songTitle": "恋愛サーキュレーション",
-          "artist": "化物語"
-        }
-      ],
-      "detailPath": "entities/songs/183e933f861061cf.json"
     }
   ]
 }

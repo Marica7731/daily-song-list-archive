@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "artists",
   "page": 10,
   "pageSize": 50,
   "pageCount": 217,
-  "totalCount": 10831,
+  "totalCount": 10830,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1273,6 +1273,63 @@
     },
     {
       "rank": 473,
+      "id": "01fbed6705691247",
+      "name": "Da-iCE",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 22,
+      "videoCount": 21,
+      "songCount": 3,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Fl7gRReLVds",
+          "videoTitle": "【 歌枠 / #karaoke 】金曜の夜、深夜に１曲いかがですか？🦉│#羽緒集魂中 144【 羽緒 / RK Music 】",
+          "channelName": "羽緒",
+          "publishedAt": "2026-10-09T17:11:32.864Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fl7gRReLVds/hqdefault.jpg",
+          "sourcePath": "sources/Fl/Fl7gRReLVds.json",
+          "time": "1:26:40",
+          "seconds": 5200,
+          "songTitle": "CITRUS",
+          "artist": "Da-iCE"
+        },
+        {
+          "videoId": "KGhc_MD1TGA",
+          "videoTitle": "【 #歌枠 / #KARAOKE 】10月最初の歌枠！今月も楽しもう！！ #まほなう",
+          "channelName": "水那月まほ / Maho Minaduki",
+          "publishedAt": "2026-10-04T15:10:21.180Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KGhc_MD1TGA/hqdefault.jpg",
+          "sourcePath": "sources/KG/KGhc_MD1TGA.json",
+          "time": "1:39:47",
+          "seconds": 5987,
+          "songTitle": "CITRUS",
+          "artist": "Da-iCE"
+        },
+        {
+          "videoId": "M58XCRYBxPs",
+          "videoTitle": "歌枠はいつも唐突に…ゲリラ配信🎤#新人vtuber #vsinger",
+          "channelName": "Cuffy ch. カフィー",
+          "publishedAt": "2026-10-03T09:58:22.698Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/M58XCRYBxPs/hqdefault.jpg",
+          "sourcePath": "sources/M5/M58XCRYBxPs.json",
+          "time": "0:06:17",
+          "seconds": 377,
+          "songTitle": "スターマイン",
+          "artist": "Da-iCE"
+        }
+      ],
+      "detailPath": "entities/artists/01fbed6705691247.json"
+    },
+    {
+      "rank": 474,
       "id": "b805f2e8af80c27b",
       "name": "femme fatale",
       "secondary": "",
@@ -1329,7 +1386,7 @@
       "detailPath": "entities/artists/b805f2e8af80c27b.json"
     },
     {
-      "rank": 474,
+      "rank": 475,
       "id": "81e0857fac67bb3e",
       "name": "ポリスピカデリー",
       "secondary": "",
@@ -1387,7 +1444,7 @@
       "detailPath": "entities/artists/81e0857fac67bb3e.json"
     },
     {
-      "rank": 475,
+      "rank": 476,
       "id": "14615fece37c2907",
       "name": "KinKi Kids",
       "secondary": "",
@@ -1445,7 +1502,7 @@
       "detailPath": "entities/artists/14615fece37c2907.json"
     },
     {
-      "rank": 476,
+      "rank": 477,
       "id": "e1e284bd007e6598",
       "name": "キリンジ",
       "secondary": "",
@@ -1503,7 +1560,7 @@
       "detailPath": "entities/artists/e1e284bd007e6598.json"
     },
     {
-      "rank": 477,
+      "rank": 478,
       "id": "654c1eadb95f5a69",
       "name": "高橋ひろ",
       "secondary": "",
@@ -1560,7 +1617,7 @@
       "detailPath": "entities/artists/654c1eadb95f5a69.json"
     },
     {
-      "rank": 478,
+      "rank": 479,
       "id": "6fdf0a3a9a2b1736",
       "name": "春奈るな",
       "secondary": "",
@@ -1617,7 +1674,7 @@
       "detailPath": "entities/artists/6fdf0a3a9a2b1736.json"
     },
     {
-      "rank": 479,
+      "rank": 480,
       "id": "f63ccd5652781445",
       "name": "THE BLUE HEARTS",
       "secondary": "",
@@ -1675,7 +1732,7 @@
       "detailPath": "entities/artists/f63ccd5652781445.json"
     },
     {
-      "rank": 480,
+      "rank": 481,
       "id": "1a53437bf07ac7c1",
       "name": "堀江由衣",
       "secondary": "",
@@ -1732,7 +1789,7 @@
       "detailPath": "entities/artists/1a53437bf07ac7c1.json"
     },
     {
-      "rank": 481,
+      "rank": 482,
       "id": "47db1457e96e5b54",
       "name": "DUSTCELL",
       "secondary": "",
@@ -1789,7 +1846,7 @@
       "detailPath": "entities/artists/47db1457e96e5b54.json"
     },
     {
-      "rank": 482,
+      "rank": 483,
       "id": "0344ebc1b3d84e34",
       "name": "まにこ",
       "secondary": "",
@@ -1846,7 +1903,7 @@
       "detailPath": "entities/artists/0344ebc1b3d84e34.json"
     },
     {
-      "rank": 483,
+      "rank": 484,
       "id": "e32b6e29db5ec8dc",
       "name": "anNina",
       "secondary": "",
@@ -1904,7 +1961,7 @@
       "detailPath": "entities/artists/e32b6e29db5ec8dc.json"
     },
     {
-      "rank": 484,
+      "rank": 485,
       "id": "734312491746790d",
       "name": "GEMN",
       "secondary": "",
@@ -1961,7 +2018,7 @@
       "detailPath": "entities/artists/734312491746790d.json"
     },
     {
-      "rank": 485,
+      "rank": 486,
       "id": "f3c2b4c2eadf0bb7",
       "name": "I WiSH",
       "secondary": "",
@@ -2019,7 +2076,7 @@
       "detailPath": "entities/artists/f3c2b4c2eadf0bb7.json"
     },
     {
-      "rank": 486,
+      "rank": 487,
       "id": "8c5ec75ecaea4734",
       "name": "TOKOTOKO（西沢さんP）feat.GUMI",
       "secondary": "",
@@ -2077,7 +2134,7 @@
       "detailPath": "entities/artists/8c5ec75ecaea4734.json"
     },
     {
-      "rank": 487,
+      "rank": 488,
       "id": "09e21e320eb1198d",
       "name": "wacci",
       "secondary": "",
@@ -2135,7 +2192,7 @@
       "detailPath": "entities/artists/09e21e320eb1198d.json"
     },
     {
-      "rank": 488,
+      "rank": 489,
       "id": "abeeacea163baaba",
       "name": "斉藤和義",
       "secondary": "",
@@ -2193,7 +2250,7 @@
       "detailPath": "entities/artists/abeeacea163baaba.json"
     },
     {
-      "rank": 489,
+      "rank": 490,
       "id": "2107888ecc0d63ce",
       "name": "林明日香",
       "secondary": "",
@@ -2250,7 +2307,7 @@
       "detailPath": "entities/artists/2107888ecc0d63ce.json"
     },
     {
-      "rank": 490,
+      "rank": 491,
       "id": "a73747c9fbdd6e62",
       "name": "AAA",
       "secondary": "",
@@ -2305,63 +2362,6 @@
         }
       ],
       "detailPath": "entities/artists/a73747c9fbdd6e62.json"
-    },
-    {
-      "rank": 491,
-      "id": "01fbed6705691247",
-      "name": "Da-iCE",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 21,
-      "videoCount": 20,
-      "songCount": 3,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Fl7gRReLVds",
-          "videoTitle": "【 歌枠 / #karaoke 】金曜の夜、深夜に１曲いかがですか？🦉│#羽緒集魂中 144【 羽緒 / RK Music 】",
-          "channelName": "羽緒",
-          "publishedAt": "2026-10-09T17:11:32.864Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Fl7gRReLVds/hqdefault.jpg",
-          "sourcePath": "sources/Fl/Fl7gRReLVds.json",
-          "time": "1:26:40",
-          "seconds": 5200,
-          "songTitle": "CITRUS",
-          "artist": "Da-iCE"
-        },
-        {
-          "videoId": "M58XCRYBxPs",
-          "videoTitle": "歌枠はいつも唐突に…ゲリラ配信🎤#新人vtuber #vsinger",
-          "channelName": "Cuffy ch. カフィー",
-          "publishedAt": "2026-10-03T09:58:22.698Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/M58XCRYBxPs/hqdefault.jpg",
-          "sourcePath": "sources/M5/M58XCRYBxPs.json",
-          "time": "0:06:17",
-          "seconds": 377,
-          "songTitle": "スターマイン",
-          "artist": "Da-iCE"
-        },
-        {
-          "videoId": "Fav1aBg2VH0",
-          "videoTitle": "歌枠｜5.5周年とかありがとう55曲耐久歌枠【 中岡なあか / 個人Vtuber 】",
-          "channelName": "中岡なあか",
-          "publishedAt": "2026-10-03T09:52:42.614Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Fav1aBg2VH0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUhS6LqgegWUYkoBlwIs1GC7AhNw",
-          "sourcePath": "sources/Fa/Fav1aBg2VH0.json",
-          "time": "1:03:32",
-          "seconds": 3812,
-          "songTitle": "I wonder",
-          "artist": "Da-iCE"
-        }
-      ],
-      "detailPath": "entities/artists/01fbed6705691247.json"
     },
     {
       "rank": 492,

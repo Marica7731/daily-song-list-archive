@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "items": [
     {
       "id": "dcdd439e029c2f5e",
@@ -47281,12 +47281,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/d2bcbcb9d9be314b.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "秘密のボイス"
     },
     {
@@ -70037,6 +70032,31 @@
       "text": "ibunpofchiken"
     },
     {
+      "id": "d2039eb82a68110e",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "おじゃま虫(アカペラ寿司Version)",
+      "secondary": "DECO*27",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/d2039eb82a68110e.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "おじゃま虫アカペラ寿司versiondeco27"
+    },
+    {
       "id": "dd5b8a0d675bc7e1",
       "channelId": "",
       "channelHandle": "",
@@ -73909,8 +73929,8 @@
       "type": "artists",
       "name": "DECO*27",
       "secondary": "",
-      "occurrenceCount": 1777,
-      "videoCount": 1211,
+      "occurrenceCount": 1778,
+      "videoCount": 1212,
       "keywords": [
         "karaoke",
         "month",
@@ -73938,8 +73958,8 @@
           "videoCount": 27
         },
         "30d": {
-          "occurrenceCount": 746,
-          "videoCount": 494
+          "occurrenceCount": 747,
+          "videoCount": 495
         }
       },
       "text": "deco27"
@@ -74030,8 +74050,8 @@
       "type": "artists",
       "name": "椎名林檎",
       "secondary": "",
-      "occurrenceCount": 1065,
-      "videoCount": 791,
+      "occurrenceCount": 1066,
+      "videoCount": 792,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -75049,8 +75069,8 @@
       "type": "artists",
       "name": "電ポルP",
       "secondary": "",
-      "occurrenceCount": 236,
-      "videoCount": 202,
+      "occurrenceCount": 237,
+      "videoCount": 203,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -75072,8 +75092,8 @@
           "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 94,
-          "videoCount": 82
+          "occurrenceCount": 95,
+          "videoCount": 83
         }
       },
       "text": "電ポルp"
@@ -107637,8 +107657,8 @@
       "detailPath": "entities/vtubers/d45a1b74c52a9155.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 67,
-          "videoCount": 8
+          "occurrenceCount": 56,
+          "videoCount": 7
         }
       },
       "text": "灰棘らるむ"

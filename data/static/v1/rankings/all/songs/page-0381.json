@@ -1,16 +1,50 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 381,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 19001,
+      "id": "9a37cebcec1e49ab",
+      "name": "43_ROSE",
+      "secondary": "HANA",
+      "channelId": "UCv72evf2OghRQ_VZz8rSYzA",
+      "channelHandle": "@kaonya5",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "_BmFsCIJygI",
+          "videoTitle": "【歌枠/耐久】2人の歌声で高評価100行きたい！《Vtuber/訛音屋》 #vtuber #jpvtuber #歌枠 #ボカロ #アニソン#弾き語り #耐久",
+          "channelName": "訛音屋 / Kaonya",
+          "publishedAt": "2026-08-12T19:54:52.981Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_BmFsCIJygI/hqdefault.jpg",
+          "sourcePath": "sources/_B/_BmFsCIJygI.json",
+          "time": "4:45:15",
+          "seconds": 17115,
+          "songTitle": "43_ROSE",
+          "artist": "HANA"
+        }
+      ],
+      "detailPath": "entities/songs/9a37cebcec1e49ab.json"
+    },
+    {
+      "rank": 19002,
       "id": "407feff073e75937",
       "name": "43_丸の内サディスティック",
       "secondary": "椎名林檎",
@@ -43,7 +77,7 @@
       "detailPath": "entities/songs/407feff073e75937.json"
     },
     {
-      "rank": 19002,
+      "rank": 19003,
       "id": "cd457c4e003a0f61",
       "name": "432_365日の紙飛行機",
       "secondary": "AKB48",
@@ -76,7 +110,7 @@
       "detailPath": "entities/songs/cd457c4e003a0f61.json"
     },
     {
-      "rank": 19003,
+      "rank": 19004,
       "id": "55befcacb3dcd6c4",
       "name": "44_ヒバナ",
       "secondary": "DECO*27",
@@ -110,7 +144,7 @@
       "detailPath": "entities/songs/55befcacb3dcd6c4.json"
     },
     {
-      "rank": 19004,
+      "rank": 19005,
       "id": "2d10f5dfa3b96589",
       "name": "44_ファンサ",
       "secondary": "mona(夏川椎菜)",
@@ -143,7 +177,7 @@
       "detailPath": "entities/songs/2d10f5dfa3b96589.json"
     },
     {
-      "rank": 19005,
+      "rank": 19006,
       "id": "9414aefa4a6f05bb",
       "name": "441",
       "secondary": "miwa",
@@ -176,7 +210,7 @@
       "detailPath": "entities/songs/9414aefa4a6f05bb.json"
     },
     {
-      "rank": 19006,
+      "rank": 19007,
       "id": "3ad3a1b0484cec9a",
       "name": "45_おまえも♡",
       "secondary": "mona(夏川椎菜)",
@@ -209,7 +243,7 @@
       "detailPath": "entities/songs/3ad3a1b0484cec9a.json"
     },
     {
-      "rank": 19007,
+      "rank": 19008,
       "id": "9d96eb01d9a5765e",
       "name": "45_阿修羅ちゃん",
       "secondary": "Ado",
@@ -243,7 +277,7 @@
       "detailPath": "entities/songs/9d96eb01d9a5765e.json"
     },
     {
-      "rank": 19008,
+      "rank": 19009,
       "id": "02ad507ea68c9da4",
       "name": "451",
       "secondary": "ヨルシカ",
@@ -277,7 +311,7 @@
       "detailPath": "entities/songs/02ad507ea68c9da4.json"
     },
     {
-      "rank": 19009,
+      "rank": 19010,
       "id": "ad108acc3a56ad8d",
       "name": "45秒",
       "secondary": "れすぽん feat. 初音ミク,GUMI",
@@ -310,7 +344,7 @@
       "detailPath": "entities/songs/ad108acc3a56ad8d.json"
     },
     {
-      "rank": 19010,
+      "rank": 19011,
       "id": "2ef053585fc1a237",
       "name": "45秒",
       "secondary": "respon feat.初音ミク",
@@ -343,7 +377,7 @@
       "detailPath": "entities/songs/2ef053585fc1a237.json"
     },
     {
-      "rank": 19011,
+      "rank": 19012,
       "id": "cf850479ecfa13f0",
       "name": "46",
       "secondary": "思想犯",
@@ -377,7 +411,7 @@
       "detailPath": "entities/songs/cf850479ecfa13f0.json"
     },
     {
-      "rank": 19012,
+      "rank": 19013,
       "id": "d5413883bcdaf30e",
       "name": "46",
       "secondary": "だから僕は音楽をやめた",
@@ -411,7 +445,7 @@
       "detailPath": "entities/songs/d5413883bcdaf30e.json"
     },
     {
-      "rank": 19013,
+      "rank": 19014,
       "id": "ac7fdba67eb92a1c",
       "name": "46 Re:Re",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -444,7 +478,7 @@
       "detailPath": "entities/songs/ac7fdba67eb92a1c.json"
     },
     {
-      "rank": 19014,
+      "rank": 19015,
       "id": "f73a3ede1c4fbc6c",
       "name": "46_ようかい体操第一",
       "secondary": "Dream5",
@@ -477,7 +511,7 @@
       "detailPath": "entities/songs/f73a3ede1c4fbc6c.json"
     },
     {
-      "rank": 19015,
+      "rank": 19016,
       "id": "7965b3d220e91e7b",
       "name": "46_壊れかけのRadio",
       "secondary": "徳永英明",
@@ -511,7 +545,7 @@
       "detailPath": "entities/songs/7965b3d220e91e7b.json"
     },
     {
-      "rank": 19016,
+      "rank": 19017,
       "id": "db4fe5195bc6fabd",
       "name": "4645",
       "secondary": "RADWIMPS",
@@ -544,7 +578,7 @@
       "detailPath": "entities/songs/db4fe5195bc6fabd.json"
     },
     {
-      "rank": 19017,
+      "rank": 19018,
       "id": "596fda9c60a35674",
       "name": "47",
       "secondary": "雨とカプチーノ",
@@ -578,7 +612,7 @@
       "detailPath": "entities/songs/596fda9c60a35674.json"
     },
     {
-      "rank": 19018,
+      "rank": 19019,
       "id": "a06ff438bf5dc185",
       "name": "47_高音厨音域テスト",
       "secondary": "木村わいP",
@@ -611,7 +645,7 @@
       "detailPath": "entities/songs/a06ff438bf5dc185.json"
     },
     {
-      "rank": 19019,
+      "rank": 19020,
       "id": "3178e6da5d9e6b67",
       "name": "47_踊",
       "secondary": "Ado",
@@ -645,7 +679,7 @@
       "detailPath": "entities/songs/3178e6da5d9e6b67.json"
     },
     {
-      "rank": 19020,
+      "rank": 19021,
       "id": "a8b93b9f365f74b8",
       "name": "48_ヴァンパイア",
       "secondary": "DECO*27",
@@ -678,7 +712,7 @@
       "detailPath": "entities/songs/a8b93b9f365f74b8.json"
     },
     {
-      "rank": 19021,
+      "rank": 19022,
       "id": "662ababb31581818",
       "name": "48_残響散歌",
       "secondary": "未記載",
@@ -712,7 +746,7 @@
       "detailPath": "entities/songs/662ababb31581818.json"
     },
     {
-      "rank": 19022,
+      "rank": 19023,
       "id": "1b29050ba22ceaaf",
       "name": "49 「God knows...」",
       "secondary": "「涼宮ハルヒ(C.V.平野綾)」様",
@@ -745,7 +779,7 @@
       "detailPath": "entities/songs/1b29050ba22ceaaf.json"
     },
     {
-      "rank": 19023,
+      "rank": 19024,
       "id": "1e8fd62b3bb72d23",
       "name": "49　【Tiger - KINISHY ver from Audition “No No Girls”】",
       "secondary": "No No Girls",
@@ -778,7 +812,7 @@
       "detailPath": "entities/songs/1e8fd62b3bb72d23.json"
     },
     {
-      "rank": 19024,
+      "rank": 19025,
       "id": "8ee7fd0fc6b24452",
       "name": "49_サラマンダー",
       "secondary": "DECO*27",
@@ -811,7 +845,7 @@
       "detailPath": "entities/songs/8ee7fd0fc6b24452.json"
     },
     {
-      "rank": 19025,
+      "rank": 19026,
       "id": "4d41d503242b460a",
       "name": "49_パンダヒーロー",
       "secondary": "米津玄師",
@@ -845,7 +879,7 @@
       "detailPath": "entities/songs/4d41d503242b460a.json"
     },
     {
-      "rank": 19026,
+      "rank": 19027,
       "id": "25e474260d71c05b",
       "name": "499秒",
       "secondary": "菅野よう子 feat. 葉音 & 中島愛",
@@ -878,7 +912,7 @@
       "detailPath": "entities/songs/25e474260d71c05b.json"
     },
     {
-      "rank": 19027,
+      "rank": 19028,
       "id": "3634a9371bb174bc",
       "name": "4thオリ曲『Cherish』ジャケ絵お披露目",
       "secondary": "",
@@ -911,7 +945,7 @@
       "detailPath": "entities/songs/3634a9371bb174bc.json"
     },
     {
-      "rank": 19028,
+      "rank": 19029,
       "id": "0d5b1ecde3731f5b",
       "name": "4倍速のシル・ヴ・プレジデント",
       "secondary": "",
@@ -944,7 +978,7 @@
       "detailPath": "entities/songs/0d5b1ecde3731f5b.json"
     },
     {
-      "rank": 19029,
+      "rank": 19030,
       "id": "d6f4f3d0165e78be",
       "name": "5",
       "secondary": "張天賦",
@@ -977,7 +1011,7 @@
       "detailPath": "entities/songs/d6f4f3d0165e78be.json"
     },
     {
-      "rank": 19030,
+      "rank": 19031,
       "id": "884df6abb2981bfc",
       "name": "5_点描の唄",
       "secondary": "Mrs. GREEN APPLE",
@@ -1010,7 +1044,7 @@
       "detailPath": "entities/songs/884df6abb2981bfc.json"
     },
     {
-      "rank": 19031,
+      "rank": 19032,
       "id": "4fd7e01d7fd5c472",
       "name": "5.10月無口な君を忘れる",
       "secondary": "",
@@ -1040,7 +1074,7 @@
       "detailPath": "entities/songs/4fd7e01d7fd5c472.json"
     },
     {
-      "rank": 19032,
+      "rank": 19033,
       "id": "af633af56a07a75c",
       "name": "5.366日",
       "secondary": "HY",
@@ -1073,7 +1107,7 @@
       "detailPath": "entities/songs/af633af56a07a75c.json"
     },
     {
-      "rank": 19033,
+      "rank": 19034,
       "id": "38c4cc17d071251b",
       "name": "𝟓.Ado『ギラギラ』",
       "secondary": "",
@@ -1106,7 +1140,7 @@
       "detailPath": "entities/songs/38c4cc17d071251b.json"
     },
     {
-      "rank": 19034,
+      "rank": 19035,
       "id": "6fa03034466930ed",
       "name": "5%",
       "secondary": "CreepHyp",
@@ -1139,7 +1173,7 @@
       "detailPath": "entities/songs/6fa03034466930ed.json"
     },
     {
-      "rank": 19035,
+      "rank": 19036,
       "id": "152db241080066ea",
       "name": "5┊おちゃめ機能",
       "secondary": "ゴジマジP",
@@ -1169,7 +1203,7 @@
       "detailPath": "entities/songs/152db241080066ea.json"
     },
     {
-      "rank": 19036,
+      "rank": 19037,
       "id": "ae893842c2e8cd51",
       "name": "5┊クライヤ",
       "secondary": "すこっぷ",
@@ -1199,7 +1233,7 @@
       "detailPath": "entities/songs/ae893842c2e8cd51.json"
     },
     {
-      "rank": 19037,
+      "rank": 19038,
       "id": "d580caf7205ef344",
       "name": "5┊ハイドアンド・シーク",
       "secondary": "19's Sound Factory",
@@ -1229,7 +1263,7 @@
       "detailPath": "entities/songs/d580caf7205ef344.json"
     },
     {
-      "rank": 19038,
+      "rank": 19039,
       "id": "37a755d21598070c",
       "name": "5┊ハルノヒ",
       "secondary": "あいみょん",
@@ -1259,7 +1293,7 @@
       "detailPath": "entities/songs/37a755d21598070c.json"
     },
     {
-      "rank": 19039,
+      "rank": 19040,
       "id": "30d80ca9e468d15c",
       "name": "5┊プロローグ",
       "secondary": "Uru",
@@ -1289,7 +1323,7 @@
       "detailPath": "entities/songs/30d80ca9e468d15c.json"
     },
     {
-      "rank": 19040,
+      "rank": 19041,
       "id": "615d62e03e4cebaf",
       "name": "5┊空中アクアリウム",
       "secondary": "40mP",
@@ -1319,7 +1353,7 @@
       "detailPath": "entities/songs/615d62e03e4cebaf.json"
     },
     {
-      "rank": 19041,
+      "rank": 19042,
       "id": "c4573d13c923860a",
       "name": "5┊真実の詩",
       "secondary": "Do As Infinity",
@@ -1349,7 +1383,7 @@
       "detailPath": "entities/songs/c4573d13c923860a.json"
     },
     {
-      "rank": 19042,
+      "rank": 19043,
       "id": "f8de96b2fa134180",
       "name": "50",
       "secondary": "50",
@@ -1379,7 +1413,7 @@
       "detailPath": "entities/songs/f8de96b2fa134180.json"
     },
     {
-      "rank": 19043,
+      "rank": 19044,
       "id": "2a3349dc3e43c757",
       "name": "50_ギラギラ",
       "secondary": "Ado",
@@ -1413,7 +1447,7 @@
       "detailPath": "entities/songs/2a3349dc3e43c757.json"
     },
     {
-      "rank": 19044,
+      "rank": 19045,
       "id": "fef84101848c772a",
       "name": "50_夜もすがら君想ふ",
       "secondary": "西沢さんP",
@@ -1446,7 +1480,7 @@
       "detailPath": "entities/songs/fef84101848c772a.json"
     },
     {
-      "rank": 19045,
+      "rank": 19046,
       "id": "8a8514626d73b04a",
       "name": "500マイル",
       "secondary": "PPM / RCサクセション",
@@ -1478,7 +1512,7 @@
       "detailPath": "entities/songs/8a8514626d73b04a.json"
     },
     {
-      "rank": 19046,
+      "rank": 19047,
       "id": "643f9145e892687f",
       "name": "500マイル",
       "secondary": "忌野清志郎 訳詞ver.",
@@ -1508,7 +1542,7 @@
       "detailPath": "entities/songs/643f9145e892687f.json"
     },
     {
-      "rank": 19047,
+      "rank": 19048,
       "id": "7364185aaa8e071a",
       "name": "500マイル",
       "secondary": "忌野清志郎（PPMカバー）",
@@ -1538,7 +1572,7 @@
       "detailPath": "entities/songs/7364185aaa8e071a.json"
     },
     {
-      "rank": 19048,
+      "rank": 19049,
       "id": "44e76194fc8e6404",
       "name": "500天",
       "secondary": "",
@@ -1568,7 +1602,7 @@
       "detailPath": "entities/songs/44e76194fc8e6404.json"
     },
     {
-      "rank": 19049,
+      "rank": 19050,
       "id": "f3224578107805b3",
       "name": "50万再生！",
       "secondary": "未記載",
@@ -1600,39 +1634,6 @@
         }
       ],
       "detailPath": "entities/songs/f3224578107805b3.json"
-    },
-    {
-      "rank": 19050,
-      "id": "cea96fc4e2d71a8b",
-      "name": "51 「IRIS OUT」",
-      "secondary": "「米津玄師」様",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ltGhfzJJiOs",
-          "videoTitle": "か ら お け ！【歌枠／涼花みなせ】",
-          "channelName": "涼花みなせ / Suzuka Minase",
-          "publishedAt": "2026-09-29T15:01:09.439Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ltGhfzJJiOs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA97c8mnBsToTnDVj1fFcciu4w2_w",
-          "sourcePath": "sources/lt/ltGhfzJJiOs.json",
-          "time": "2:28:51",
-          "seconds": 8931,
-          "songTitle": "51 「IRIS OUT」",
-          "artist": "「米津玄師」様"
-        }
-      ],
-      "detailPath": "entities/songs/cea96fc4e2d71a8b.json"
     }
   ]
 }

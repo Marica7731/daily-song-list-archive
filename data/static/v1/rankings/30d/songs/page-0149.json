@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "songs",
   "page": 149,
@@ -11,6 +11,96 @@
   "items": [
     {
       "rank": 7401,
+      "id": "6c8074e7efb46041",
+      "name": "恋風",
+      "secondary": "幾多りら",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "eXDfdIEsUzQ",
+          "videoTitle": "《 真夜中ゆったり歌枠 / KARAOKE 》耳と睡眠のお供に…(当社比)《 焔魔るり/RK Musicライブユニオン 》 #作業用BGM",
+          "channelName": "焔魔るり CH. / Ruri Enma",
+          "publishedAt": "2026-09-19T18:21:54.661Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/eXDfdIEsUzQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgftmQve06c1WvWkn-ONRwBZcEzg",
+          "sourcePath": "sources/eX/eXDfdIEsUzQ.json",
+          "time": "1:12:08",
+          "seconds": 4328,
+          "songTitle": "恋風",
+          "artist": "幾多りら"
+        },
+        {
+          "videoId": "X7JfCuSkfZE",
+          "videoTitle": "《 #歌枠 / #KARAOKE 》5-8月の歌練成果発表会《 焔魔るり/RK Musicライブユニオン 》",
+          "channelName": "焔魔るり CH. / Ruri Enma",
+          "publishedAt": "2026-09-14T16:17:07.173Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/X7JfCuSkfZE/hqdefault.jpg",
+          "sourcePath": "sources/X7/X7JfCuSkfZE.json",
+          "time": "0:27:47",
+          "seconds": 1667,
+          "songTitle": "恋風",
+          "artist": "幾多りら"
+        }
+      ],
+      "detailPath": "entities/songs/6c8074e7efb46041.json"
+    },
+    {
+      "rank": 7402,
+      "id": "e883f464efd42011",
+      "name": "恋率方程式",
+      "secondary": "蝶々P feat. 初音ミク",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "zljmPY2dElM",
+          "videoTitle": "【歌枠/KARAOKE】８人の初見さんに出会えました！高音ボカロ多め歌枠！【狐花てん /Vsinger】#shorts #Vsinger #てんしゃちょらいぶ",
+          "channelName": "狐花てん -Ten Kitsunebana-",
+          "publishedAt": "2026-10-04T12:09:32.264Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zljmPY2dElM/hqdefault.jpg",
+          "sourcePath": "sources/zl/zljmPY2dElM.json",
+          "time": "0:50:45",
+          "seconds": 3045,
+          "songTitle": "恋率方程式",
+          "artist": "蝶々P feat. 初音ミク"
+        },
+        {
+          "videoId": "eHjsjVOxR0w",
+          "videoTitle": "【歌枠/KARAOKE】初見コメント5人目標！コメントちょーだいー！【狐花てん /Vsinger】#shorts #Vsinger #てんしゃちょらいぶ",
+          "channelName": "狐花てん -Ten Kitsunebana-",
+          "publishedAt": "2026-09-20T11:53:54.430Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/eHjsjVOxR0w/hqdefault.jpg",
+          "sourcePath": "sources/eH/eHjsjVOxR0w.json",
+          "time": "0:47:02",
+          "seconds": 2822,
+          "songTitle": "恋率方程式",
+          "artist": "蝶々P feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/e883f464efd42011.json"
+    },
+    {
+      "rank": 7403,
       "id": "c8182a8638d66031",
       "name": "恋路ロマネスク",
       "secondary": "絶望少女達",
@@ -55,7 +145,7 @@
       "detailPath": "entities/songs/c8182a8638d66031.json"
     },
     {
-      "rank": 7402,
+      "rank": 7404,
       "id": "5654ec1fa3b65ba0",
       "name": "蝋人形の館",
       "secondary": "聖飢魔II",
@@ -100,7 +190,7 @@
       "detailPath": "entities/songs/5654ec1fa3b65ba0.json"
     },
     {
-      "rank": 7403,
+      "rank": 7405,
       "id": "96bcb539a478eba0",
       "name": "六兆年と一夜物語",
       "secondary": "堀江 晶太",
@@ -145,7 +235,7 @@
       "detailPath": "entities/songs/96bcb539a478eba0.json"
     },
     {
-      "rank": 7404,
+      "rank": 7406,
       "id": "86bbd481baac8424",
       "name": "六等星の星",
       "secondary": "Aimer",
@@ -191,7 +281,7 @@
       "detailPath": "entities/songs/86bbd481baac8424.json"
     },
     {
-      "rank": 7405,
+      "rank": 7407,
       "id": "3e2b64e5814f4534",
       "name": "歪鏡シェンショウジン",
       "secondary": "小日向未来",
@@ -236,7 +326,7 @@
       "detailPath": "entities/songs/3e2b64e5814f4534.json"
     },
     {
-      "rank": 7406,
+      "rank": 7408,
       "id": "c39b2c978a591b85",
       "name": "惑星ループ",
       "secondary": "ナユタン星人 feat . Eve",
@@ -281,7 +371,7 @@
       "detailPath": "entities/songs/c39b2c978a591b85.json"
     },
     {
-      "rank": 7407,
+      "rank": 7409,
       "id": "379d1deb3ad05f12",
       "name": "惑星ループ",
       "secondary": "ナユタン星人 feat.初音ミク",
@@ -326,7 +416,7 @@
       "detailPath": "entities/songs/379d1deb3ad05f12.json"
     },
     {
-      "rank": 7408,
+      "rank": 7410,
       "id": "584cdbe8ff885864",
       "name": "惑星ループ",
       "secondary": "Eve feat.ナユタン星人",
@@ -371,7 +461,7 @@
       "detailPath": "entities/songs/584cdbe8ff885864.json"
     },
     {
-      "rank": 7409,
+      "rank": 7411,
       "id": "e6da7388d54b7e4f",
       "name": "來自我自己",
       "secondary": "Control T",
@@ -416,7 +506,7 @@
       "detailPath": "entities/songs/e6da7388d54b7e4f.json"
     },
     {
-      "rank": 7410,
+      "rank": 7412,
       "id": "2633ffdb049b45ae",
       "name": "會呼吸的痛",
       "secondary": "梁靜茹",
@@ -461,7 +551,7 @@
       "detailPath": "entities/songs/2633ffdb049b45ae.json"
     },
     {
-      "rank": 7411,
+      "rank": 7413,
       "id": "bb414f8957d01e63",
       "name": "嗚呼、素晴らしきニャン生",
       "secondary": "Nem feat.鏡音レン、GUMI",
@@ -506,7 +596,7 @@
       "detailPath": "entities/songs/bb414f8957d01e63.json"
     },
     {
-      "rank": 7412,
+      "rank": 7414,
       "id": "a791a94d7213d9cf",
       "name": "對面的女孩看過來",
       "secondary": "任賢齊",
@@ -551,7 +641,7 @@
       "detailPath": "entities/songs/a791a94d7213d9cf.json"
     },
     {
-      "rank": 7413,
+      "rank": 7415,
       "id": "9a68d224f001bf7e",
       "name": "彗星ハネムーン",
       "secondary": "",
@@ -596,7 +686,7 @@
       "detailPath": "entities/songs/9a68d224f001bf7e.json"
     },
     {
-      "rank": 7414,
+      "rank": 7416,
       "id": "ae46e36fa2cce53b",
       "name": "懺悔参り",
       "secondary": "",
@@ -638,7 +728,7 @@
       "detailPath": "entities/songs/ae46e36fa2cce53b.json"
     },
     {
-      "rank": 7415,
+      "rank": 7417,
       "id": "fcec023507e126a2",
       "name": "搜神記",
       "secondary": "容祖兒",
@@ -683,7 +773,7 @@
       "detailPath": "entities/songs/fcec023507e126a2.json"
     },
     {
-      "rank": 7416,
+      "rank": 7418,
       "id": "8fab6f7f4e8349a7",
       "name": "曖昧さ回避",
       "secondary": "ポリスピカデリー",
@@ -725,7 +815,7 @@
       "detailPath": "entities/songs/8fab6f7f4e8349a7.json"
     },
     {
-      "rank": 7417,
+      "rank": 7419,
       "id": "908fe2b0280116d6",
       "name": "曖昧劣情Lover",
       "secondary": "",
@@ -770,7 +860,7 @@
       "detailPath": "entities/songs/908fe2b0280116d6.json"
     },
     {
-      "rank": 7418,
+      "rank": 7420,
       "id": "2d2ddb6e3b0eaa3a",
       "name": "楔-くさび",
       "secondary": "奥華子 ※JOYSOUND",
@@ -815,7 +905,7 @@
       "detailPath": "entities/songs/2d2ddb6e3b0eaa3a.json"
     },
     {
-      "rank": 7419,
+      "rank": 7421,
       "id": "62e9663be3290cd2",
       "name": "橙ゲノム",
       "secondary": "つなまる",
@@ -860,7 +950,7 @@
       "detailPath": "entities/songs/62e9663be3290cd2.json"
     },
     {
-      "rank": 7420,
+      "rank": 7422,
       "id": "352286afcb9dfa0d",
       "name": "櫂",
       "secondary": "",
@@ -902,7 +992,7 @@
       "detailPath": "entities/songs/352286afcb9dfa0d.json"
     },
     {
-      "rank": 7421,
+      "rank": 7423,
       "id": "eb6aecc3a998a31d",
       "name": "澪音の世界",
       "secondary": "Sound Horizon",
@@ -947,7 +1037,7 @@
       "detailPath": "entities/songs/eb6aecc3a998a31d.json"
     },
     {
-      "rank": 7422,
+      "rank": 7424,
       "id": "5b260b4785f13792",
       "name": "炙愛",
       "secondary": "陳忻玥",
@@ -992,7 +1082,7 @@
       "detailPath": "entities/songs/5b260b4785f13792.json"
     },
     {
-      "rank": 7423,
+      "rank": 7425,
       "id": "b8c50d4b6fee1a26",
       "name": "穹乃すい",
       "secondary": "",
@@ -1034,7 +1124,7 @@
       "detailPath": "entities/songs/b8c50d4b6fee1a26.json"
     },
     {
-      "rank": 7424,
+      "rank": 7426,
       "id": "17ccaa0fb50aacad",
       "name": "竈門炭治郎のうた",
       "secondary": "椎名豪 featuring 中川奈美",
@@ -1079,7 +1169,7 @@
       "detailPath": "entities/songs/17ccaa0fb50aacad.json"
     },
     {
-      "rank": 7425,
+      "rank": 7427,
       "id": "fa964b28bec0dc45",
       "name": "綺麗事",
       "secondary": "",
@@ -1124,7 +1214,7 @@
       "detailPath": "entities/songs/fa964b28bec0dc45.json"
     },
     {
-      "rank": 7426,
+      "rank": 7428,
       "id": "d53d196c860c6c19",
       "name": "總會有人",
       "secondary": "向思思",
@@ -1169,7 +1259,7 @@
       "detailPath": "entities/songs/d53d196c860c6c19.json"
     },
     {
-      "rank": 7427,
+      "rank": 7429,
       "id": "bce5ea32d5b8a465",
       "name": "羞恥心",
       "secondary": "羞恥心",
@@ -1214,7 +1304,7 @@
       "detailPath": "entities/songs/bce5ea32d5b8a465.json"
     },
     {
-      "rank": 7428,
+      "rank": 7430,
       "id": "d2fdcf038fb89542",
       "name": "贖罪 piano ver",
       "secondary": "傘村トータ",
@@ -1259,7 +1349,7 @@
       "detailPath": "entities/songs/d2fdcf038fb89542.json"
     },
     {
-      "rank": 7429,
+      "rank": 7431,
       "id": "ef2660b5e405e053",
       "name": "你啊你啊",
       "secondary": "魏如萱",
@@ -1304,7 +1394,7 @@
       "detailPath": "entities/songs/ef2660b5e405e053.json"
     },
     {
-      "rank": 7430,
+      "rank": 7432,
       "id": "a89c21020643c7c6",
       "name": "晚餐歌",
       "secondary": "tuki.",
@@ -1349,7 +1439,7 @@
       "detailPath": "entities/songs/a89c21020643c7c6.json"
     },
     {
-      "rank": 7431,
+      "rank": 7433,
       "id": "83812b5012a14acd",
       "name": "黃色",
       "secondary": "back number",
@@ -1394,7 +1484,7 @@
       "detailPath": "entities/songs/83812b5012a14acd.json"
     },
     {
-      "rank": 7432,
+      "rank": 7434,
       "id": "43093c090b927ef0",
       "name": "화사 (HWASA)",
       "secondary": "Good Goodbye",
@@ -1439,7 +1529,7 @@
       "detailPath": "entities/songs/43093c090b927ef0.json"
     },
     {
-      "rank": 7433,
+      "rank": 7435,
       "id": "082ba2cabfb40a87",
       "name": "ㄅㄆㄇ注音歌",
       "secondary": "",
@@ -1484,7 +1574,7 @@
       "detailPath": "entities/songs/082ba2cabfb40a87.json"
     },
     {
-      "rank": 7434,
+      "rank": 7436,
       "id": "c3d9be8b2ef4bf15",
       "name": "(タイトル未定)",
       "secondary": "リリア･クロリス",
@@ -1517,7 +1607,7 @@
       "detailPath": "entities/songs/c3d9be8b2ef4bf15.json"
     },
     {
-      "rank": 7435,
+      "rank": 7437,
       "id": "c1b487490c19a9e5",
       "name": "△♪シャイニング パワー",
       "secondary": "Berryz工房",
@@ -1547,7 +1637,7 @@
       "detailPath": "entities/songs/c1b487490c19a9e5.json"
     },
     {
-      "rank": 7436,
+      "rank": 7438,
       "id": "46e6d00aaba25c1e",
       "name": "ー「🐯セリフ」",
       "secondary": "",
@@ -1577,7 +1667,7 @@
       "detailPath": "entities/songs/46e6d00aaba25c1e.json"
     },
     {
-      "rank": 7437,
+      "rank": 7439,
       "id": "71ea8bf266a4e7b4",
       "name": "1/2",
       "secondary": "川本真琴(中断)",
@@ -1610,7 +1700,7 @@
       "detailPath": "entities/songs/71ea8bf266a4e7b4.json"
     },
     {
-      "rank": 7438,
+      "rank": 7440,
       "id": "ceaaaf6763fa9f14",
       "name": "10",
       "secondary": "日",
@@ -1643,7 +1733,7 @@
       "detailPath": "entities/songs/ceaaaf6763fa9f14.json"
     },
     {
-      "rank": 7439,
+      "rank": 7441,
       "id": "dc7ccdf3f126875c",
       "name": "1487",
       "secondary": "",
@@ -1673,7 +1763,7 @@
       "detailPath": "entities/songs/dc7ccdf3f126875c.json"
     },
     {
-      "rank": 7440,
+      "rank": 7442,
       "id": "3f6c90c2e07ea649",
       "name": "Crowds",
       "secondary": "WHITE ASH ガッチャマン",
@@ -1706,7 +1796,7 @@
       "detailPath": "entities/songs/3f6c90c2e07ea649.json"
     },
     {
-      "rank": 7441,
+      "rank": 7443,
       "id": "9fd68b10c278ff1c",
       "name": "Declaration! Imperial Combat Revue",
       "secondary": "Sakura Shingyouji (CV:Chisa Yokoyama)",
@@ -1739,7 +1829,7 @@
       "detailPath": "entities/songs/9fd68b10c278ff1c.json"
     },
     {
-      "rank": 7442,
+      "rank": 7444,
       "id": "ed6da1bbe6cb019b",
       "name": "Fields of hope",
       "secondary": "ラクス・クライン（CV:田中理恵）",
@@ -1772,7 +1862,7 @@
       "detailPath": "entities/songs/ed6da1bbe6cb019b.json"
     },
     {
-      "rank": 7443,
+      "rank": 7445,
       "id": "28884276ffd53633",
       "name": "Get along",
       "secondary": "スレイヤーズ（1995） / 林原めぐみ・奥井雅美 🆕",
@@ -1802,7 +1892,7 @@
       "detailPath": "entities/songs/28884276ffd53633.json"
     },
     {
-      "rank": 7444,
+      "rank": 7446,
       "id": "94097f7054220136",
       "name": "God only knows",
       "secondary": "Oratorio The World God Only Knows 神のみぞ知るセカイ",
@@ -1835,7 +1925,7 @@
       "detailPath": "entities/songs/94097f7054220136.json"
     },
     {
-      "rank": 7445,
+      "rank": 7447,
       "id": "f1dc0ac0d12bcdaf",
       "name": "Good Night",
       "secondary": "佐々木李子 痛いのは嫌なので防御力に極振りしたいと思います。",
@@ -1868,7 +1958,7 @@
       "detailPath": "entities/songs/f1dc0ac0d12bcdaf.json"
     },
     {
-      "rank": 7446,
+      "rank": 7448,
       "id": "8e8f926a131f124f",
       "name": "Hana no Tou",
       "secondary": "Sayuri",
@@ -1901,7 +1991,7 @@
       "detailPath": "entities/songs/8e8f926a131f124f.json"
     },
     {
-      "rank": 7447,
+      "rank": 7449,
       "id": "a0191acc1626f5d4",
       "name": "Heaven and Hell",
       "secondary": "DUSTCELL",
@@ -1934,7 +2024,7 @@
       "detailPath": "entities/songs/a0191acc1626f5d4.json"
     },
     {
-      "rank": 7448,
+      "rank": 7450,
       "id": "a639f8478cd9d27a",
       "name": "HOLLOW HUNGER",
       "secondary": "OxT Overload",
@@ -1965,72 +2055,6 @@
         }
       ],
       "detailPath": "entities/songs/a639f8478cd9d27a.json"
-    },
-    {
-      "rank": 7449,
-      "id": "c032ee368b04611b",
-      "name": "in my words",
-      "secondary": "夢限大みゅーたいぷ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "KMI4yzroWmk",
-          "videoTitle": "【🟡歌枠】#アニメゆめみた 最終話を迎えてのお話と、やっぱり歌いたいぼく【 仲町あられ / 夢限大みゅーたいぷ 】",
-          "channelName": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ",
-          "publishedAt": "2026-09-12T16:08:05.434Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KMI4yzroWmk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBlVK9GMoeyL7F3CzsLvsLVBZ0ZA",
-          "sourcePath": "sources/KM/KMI4yzroWmk.json",
-          "time": "0:57:43",
-          "seconds": 3463,
-          "songTitle": "in my words",
-          "artist": "夢限大みゅーたいぷ"
-        }
-      ],
-      "detailPath": "entities/songs/c032ee368b04611b.json"
-    },
-    {
-      "rank": 7450,
-      "id": "22410347b92b5eca",
-      "name": "INMU KING",
-      "secondary": "やじゅまん",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "cFA_SQh7tEk",
-          "videoTitle": "【インターネット老人会】発散歌枠 #鳥乃カヲリ",
-          "channelName": "鳥乃カヲリ◇illustrator",
-          "publishedAt": "2026-09-25T12:48:54.463Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cFA_SQh7tEk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUuFU54dVcO1JiioDcqsiJVT_tVw",
-          "sourcePath": "sources/cF/cFA_SQh7tEk.json",
-          "time": "0:19:01",
-          "seconds": 1141,
-          "songTitle": "INMU KING",
-          "artist": "やじゅまん"
-        }
-      ],
-      "detailPath": "entities/songs/22410347b92b5eca.json"
     }
   ]
 }

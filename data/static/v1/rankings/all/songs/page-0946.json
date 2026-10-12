@@ -1,16 +1,83 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 946,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 47251,
+      "id": "0d27ec701cea9611",
+      "name": "生きる",
+      "secondary": "未記載",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "force_inspect",
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "VmLgly38CwY",
+          "videoTitle": "【歌枠】おいっすオラ多声類！！【チョま】#多声類 #両声類 #Vtuber #Vsinger #shorts",
+          "channelName": "チョま",
+          "publishedAt": "2026-07-11T06:46:12.580Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VmLgly38CwY/hqdefault.jpg",
+          "sourcePath": "sources/Vm/VmLgly38CwY.json",
+          "time": "1:39:46",
+          "seconds": 5986,
+          "songTitle": "生きる",
+          "artist": "未記載"
+        }
+      ],
+      "detailPath": "entities/songs/0d27ec701cea9611.json"
+    },
+    {
+      "rank": 47252,
+      "id": "ae25a28ea33b1a02",
+      "name": "生きる",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "T5Q0uHZR4k8",
+          "videoTitle": "【歌枠】3Dお披露目前夜祭♪【ゆらぎゆら/ミリプロ】",
+          "channelName": "ゆらぎゆら / YuragiYura🌙🫧",
+          "publishedAt": "2026-09-11T12:34:31.718Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/T5Q0uHZR4k8/hqdefault.jpg",
+          "sourcePath": "sources/T5/T5Q0uHZR4k8.json",
+          "time": "0:49:08",
+          "seconds": 2948,
+          "songTitle": "生きる",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/ae25a28ea33b1a02.json"
+    },
+    {
+      "rank": 47253,
       "id": "4cfb91d83248a375",
       "name": "生きるガール",
       "secondary": "SHISHAMO",
@@ -43,7 +110,7 @@
       "detailPath": "entities/songs/4cfb91d83248a375.json"
     },
     {
-      "rank": 47252,
+      "rank": 47254,
       "id": "2cb83295782b17d1",
       "name": "生きるってなんだよ",
       "secondary": "葵木ゴウ",
@@ -76,7 +143,7 @@
       "detailPath": "entities/songs/2cb83295782b17d1.json"
     },
     {
-      "rank": 47253,
+      "rank": 47255,
       "id": "61cdab08da2e7c9f",
       "name": "生きるよすが",
       "secondary": "未記載",
@@ -110,7 +177,7 @@
       "detailPath": "entities/songs/61cdab08da2e7c9f.json"
     },
     {
-      "rank": 47254,
+      "rank": 47256,
       "id": "729eed1276b4143e",
       "name": "生きるよすが",
       "secondary": "月詠み Ikiru Yosuga / Tsukuyomi",
@@ -143,7 +210,7 @@
       "detailPath": "entities/songs/729eed1276b4143e.json"
     },
     {
-      "rank": 47255,
+      "rank": 47257,
       "id": "a040bf73ae6c3104",
       "name": "生きるよすが",
       "secondary": "月詠み ※JOYSOUND",
@@ -176,7 +243,7 @@
       "detailPath": "entities/songs/a040bf73ae6c3104.json"
     },
     {
-      "rank": 47256,
+      "rank": 47258,
       "id": "83fb511995387ad8",
       "name": "生きるよすが(ワンコーラス)",
       "secondary": "未記載",
@@ -208,7 +275,7 @@
       "detailPath": "entities/songs/83fb511995387ad8.json"
     },
     {
-      "rank": 47257,
+      "rank": 47259,
       "id": "d541e50f180e961b",
       "name": "生まれたてのBaby Love",
       "secondary": "",
@@ -238,7 +305,7 @@
       "detailPath": "entities/songs/d541e50f180e961b.json"
     },
     {
-      "rank": 47258,
+      "rank": 47260,
       "id": "2cd224deb792990d",
       "name": "生まれてはじめて",
       "secondary": "松たか子・神田沙也加",
@@ -271,7 +338,7 @@
       "detailPath": "entities/songs/2cd224deb792990d.json"
     },
     {
-      "rank": 47259,
+      "rank": 47261,
       "id": "5c49f3f22f02fcfe",
       "name": "生まれてはじめて",
       "secondary": "神田沙也加、松たか子 アナと雪の女王より",
@@ -304,7 +371,7 @@
       "detailPath": "entities/songs/5c49f3f22f02fcfe.json"
     },
     {
-      "rank": 47260,
+      "rank": 47262,
       "id": "095b9993ec1d5889",
       "name": "生まれてはじめて",
       "secondary": "アナ(神田沙也加)、エルサ(松たか子)",
@@ -338,7 +405,7 @@
       "detailPath": "entities/songs/095b9993ec1d5889.json"
     },
     {
-      "rank": 47261,
+      "rank": 47263,
       "id": "6923fdd9cb89c055",
       "name": "生まれてはじめて",
       "secondary": "ディズニー",
@@ -371,7 +438,7 @@
       "detailPath": "entities/songs/6923fdd9cb89c055.json"
     },
     {
-      "rank": 47262,
+      "rank": 47264,
       "id": "c3649c8a15158bd3",
       "name": "生まれてはじめて",
       "secondary": "神田沙也加(Kanda Sayaka) & 松たか子",
@@ -404,7 +471,7 @@
       "detailPath": "entities/songs/c3649c8a15158bd3.json"
     },
     {
-      "rank": 47263,
+      "rank": 47265,
       "id": "ade0360cbfa85227",
       "name": "生まれてはじめて",
       "secondary": "From \"アナと雪の女王\"",
@@ -437,7 +504,7 @@
       "detailPath": "entities/songs/ade0360cbfa85227.json"
     },
     {
-      "rank": 47264,
+      "rank": 47266,
       "id": "236234fcac2c2a07",
       "name": "生まれてはじめて",
       "secondary": "神田沙也加、松たか子 From『アナと雪の女王』",
@@ -470,7 +537,7 @@
       "detailPath": "entities/songs/236234fcac2c2a07.json"
     },
     {
-      "rank": 47265,
+      "rank": 47267,
       "id": "934122b5e97001c2",
       "name": "生まれて初めて",
       "secondary": "神田沙也加、松たか子",
@@ -503,7 +570,7 @@
       "detailPath": "entities/songs/934122b5e97001c2.json"
     },
     {
-      "rank": 47266,
+      "rank": 47268,
       "id": "92226aacc2b878f6",
       "name": "生まれゆくものたちへ",
       "secondary": "Do As Infinity",
@@ -535,7 +602,7 @@
       "detailPath": "entities/songs/92226aacc2b878f6.json"
     },
     {
-      "rank": 47267,
+      "rank": 47269,
       "id": "4a1b07e547c0fedb",
       "name": "生まれ変わり",
       "secondary": "星野源",
@@ -569,7 +636,7 @@
       "detailPath": "entities/songs/4a1b07e547c0fedb.json"
     },
     {
-      "rank": 47268,
+      "rank": 47270,
       "id": "3fbdc64b4feb3178",
       "name": "生意気ハニー-another story",
       "secondary": "HoneyWorks",
@@ -599,7 +666,7 @@
       "detailPath": "entities/songs/3fbdc64b4feb3178.json"
     },
     {
-      "rank": 47269,
+      "rank": 47271,
       "id": "8a3e3b96083da90d",
       "name": "生一体いつから助かる",
       "secondary": "",
@@ -632,7 +699,7 @@
       "detailPath": "entities/songs/8a3e3b96083da90d.json"
     },
     {
-      "rank": 47270,
+      "rank": 47272,
       "id": "ec8554dcb57d249f",
       "name": "生歌マジで良いので魂がこもってる！",
       "secondary": "",
@@ -665,7 +732,7 @@
       "detailPath": "entities/songs/ec8554dcb57d249f.json"
     },
     {
-      "rank": 47271,
+      "rank": 47273,
       "id": "2a281ad810c37514",
       "name": "生歌向けではないキューピット",
       "secondary": "未記載",
@@ -699,7 +766,7 @@
       "detailPath": "entities/songs/2a281ad810c37514.json"
     },
     {
-      "rank": 47272,
+      "rank": 47274,
       "id": "ffb1142b7a62fa3b",
       "name": "生活",
       "secondary": "SUPER BEAVER",
@@ -732,7 +799,7 @@
       "detailPath": "entities/songs/ffb1142b7a62fa3b.json"
     },
     {
-      "rank": 47273,
+      "rank": 47275,
       "id": "50704f0cdfd15cf8",
       "name": "生活",
       "secondary": "礼賛",
@@ -762,7 +829,7 @@
       "detailPath": "entities/songs/50704f0cdfd15cf8.json"
     },
     {
-      "rank": 47274,
+      "rank": 47276,
       "id": "ac9369925140fd33",
       "name": "生活",
       "secondary": "Syrup16g",
@@ -795,7 +862,7 @@
       "detailPath": "entities/songs/ac9369925140fd33.json"
     },
     {
-      "rank": 47275,
+      "rank": 47277,
       "id": "a09f051485a9fca3",
       "name": "生活きびしい",
       "secondary": "語弊",
@@ -825,7 +892,7 @@
       "detailPath": "entities/songs/a09f051485a9fca3.json"
     },
     {
-      "rank": 47276,
+      "rank": 47278,
       "id": "1fd2b29a26c63df6",
       "name": "生活の柄",
       "secondary": "ハンバート ハンバート",
@@ -858,7 +925,7 @@
       "detailPath": "entities/songs/1fd2b29a26c63df6.json"
     },
     {
-      "rank": 47277,
+      "rank": 47279,
       "id": "a214c72b0a4d13a0",
       "name": "生活リズム",
       "secondary": "未記載",
@@ -892,7 +959,7 @@
       "detailPath": "entities/songs/a214c72b0a4d13a0.json"
     },
     {
-      "rank": 47278,
+      "rank": 47280,
       "id": "2e76765fde8236db",
       "name": "生活をとめて",
       "secondary": "文藝天国",
@@ -925,7 +992,7 @@
       "detailPath": "entities/songs/2e76765fde8236db.json"
     },
     {
-      "rank": 47279,
+      "rank": 47281,
       "id": "2f367a1e87ae29d6",
       "name": "生活革命",
       "secondary": "PEDRO",
@@ -959,7 +1026,7 @@
       "detailPath": "entities/songs/2f367a1e87ae29d6.json"
     },
     {
-      "rank": 47280,
+      "rank": 47282,
       "id": "6a0a745ada13cd2d",
       "name": "生生世世愛",
       "secondary": "吳雨霏",
@@ -992,7 +1059,7 @@
       "detailPath": "entities/songs/6a0a745ada13cd2d.json"
     },
     {
-      "rank": 47281,
+      "rank": 47283,
       "id": "c4339b7af2e780ce",
       "name": "生存本能ヴァルキュリア",
       "secondary": "新田美波(洲崎綾)、鷺沢文香(Ｍ・Ａ・Ｏ)、橘ありす(佐藤亜美菜)、高森藍子(金子有希)、相葉夕美(木村珠莉)",
@@ -1024,7 +1091,7 @@
       "detailPath": "entities/songs/c4339b7af2e780ce.json"
     },
     {
-      "rank": 47282,
+      "rank": 47284,
       "id": "1e093e1864fd1938",
       "name": "生暖かい雨とざらついた情熱",
       "secondary": "the GazettE",
@@ -1057,7 +1124,7 @@
       "detailPath": "entities/songs/1e093e1864fd1938.json"
     },
     {
-      "rank": 47283,
+      "rank": 47285,
       "id": "e12c44c6043d391d",
       "name": "生日快樂",
       "secondary": "誰の？",
@@ -1087,7 +1154,7 @@
       "detailPath": "entities/songs/e12c44c6043d391d.json"
     },
     {
-      "rank": 47284,
+      "rank": 47286,
       "id": "a58ec051d2fdea5b",
       "name": "生日快樂歌 for Dior(單推庫路路)",
       "secondary": "",
@@ -1120,7 +1187,7 @@
       "detailPath": "entities/songs/a58ec051d2fdea5b.json"
     },
     {
-      "rank": 47285,
+      "rank": 47287,
       "id": "a71ce63c838d2de7",
       "name": "生日快樂歌 for 桜乃雫",
       "secondary": "",
@@ -1153,7 +1220,7 @@
       "detailPath": "entities/songs/a71ce63c838d2de7.json"
     },
     {
-      "rank": 47286,
+      "rank": 47288,
       "id": "f4733a6f66b33102",
       "name": "生不帶來死不帶走",
       "secondary": "JSheon",
@@ -1186,7 +1253,7 @@
       "detailPath": "entities/songs/f4733a6f66b33102.json"
     },
     {
-      "rank": 47287,
+      "rank": 47289,
       "id": "b90d88857548b07d",
       "name": "生命のアリア",
       "secondary": "和楽器バンド",
@@ -1219,7 +1286,7 @@
       "detailPath": "entities/songs/b90d88857548b07d.json"
     },
     {
-      "rank": 47288,
+      "rank": 47290,
       "id": "b46f7427d9564e30",
       "name": "生命換装",
       "secondary": "ReoNa",
@@ -1249,7 +1316,7 @@
       "detailPath": "entities/songs/b46f7427d9564e30.json"
     },
     {
-      "rank": 47289,
+      "rank": 47291,
       "id": "4fcded9b97dfccea",
       "name": "生命換装",
       "secondary": "ReoNa ※JOYSOUND",
@@ -1282,7 +1349,7 @@
       "detailPath": "entities/songs/4fcded9b97dfccea.json"
     },
     {
-      "rank": 47290,
+      "rank": 47292,
       "id": "fbf0bc57238dae98",
       "name": "生命線",
       "secondary": "Reol",
@@ -1315,7 +1382,7 @@
       "detailPath": "entities/songs/fbf0bc57238dae98.json"
     },
     {
-      "rank": 47291,
+      "rank": 47293,
       "id": "de433d7fcbb0961a",
       "name": "生命体",
       "secondary": "彩華すゞり",
@@ -1348,7 +1415,7 @@
       "detailPath": "entities/songs/de433d7fcbb0961a.json"
     },
     {
-      "rank": 47292,
+      "rank": 47294,
       "id": "766ef2c9771d7a0f",
       "name": "生氣氣特珞",
       "secondary": "可愛小劇場",
@@ -1381,7 +1448,7 @@
       "detailPath": "entities/songs/766ef2c9771d7a0f.json"
     },
     {
-      "rank": 47293,
+      "rank": 47295,
       "id": "086ee7215d1e1476",
       "name": "盛れ！アモーレ",
       "secondary": "Juice=Juice",
@@ -1414,7 +1481,7 @@
       "detailPath": "entities/songs/086ee7215d1e1476.json"
     },
     {
-      "rank": 47294,
+      "rank": 47296,
       "id": "c193e27b12bfe3cc",
       "name": "盛れ！ミ・アモーレ",
       "secondary": "More! Mi Amore (Juice=Juice)",
@@ -1446,7 +1513,7 @@
       "detailPath": "entities/songs/c193e27b12bfe3cc.json"
     },
     {
-      "rank": 47295,
+      "rank": 47297,
       "id": "b8ba433b42328e71",
       "name": "盛れ！ミ・アモーレ",
       "secondary": "Juice＝Juice（甘楽ミキ）",
@@ -1480,7 +1547,7 @@
       "detailPath": "entities/songs/b8ba433b42328e71.json"
     },
     {
-      "rank": 47296,
+      "rank": 47298,
       "id": "4cdff12c5079c7d1",
       "name": "盛れ!ミ・アモーレ",
       "secondary": "Juice=Juice ※JOYSOUND",
@@ -1513,7 +1580,7 @@
       "detailPath": "entities/songs/4cdff12c5079c7d1.json"
     },
     {
-      "rank": 47297,
+      "rank": 47299,
       "id": "ead99823060c1560",
       "name": "盛れ!ミ・アモーレ-Juice=Juice",
       "secondary": "未記載",
@@ -1546,7 +1613,7 @@
       "detailPath": "entities/songs/ead99823060c1560.json"
     },
     {
-      "rank": 47298,
+      "rank": 47300,
       "id": "8e992eb938854100",
       "name": "盛れ!ミ・アモーレ(サビ アカペラ)",
       "secondary": "Juice=Juice",
@@ -1577,69 +1644,6 @@
         }
       ],
       "detailPath": "entities/songs/8e992eb938854100.json"
-    },
-    {
-      "rank": 47299,
-      "id": "bd959b1a9c467824",
-      "name": "盛れ！ミ・アモレーレ",
-      "secondary": "Juice=Juice",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "tB3f9IvcV88",
-          "videoTitle": "【#歌枠 】ゆったりまったり高評価70目標で歌うよ～【#Vtuber #猫〆しあ】",
-          "channelName": "猫〆しあ🥢🦐Nekome-Shia",
-          "publishedAt": "2026-10-02T01:38:19.775Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tB3f9IvcV88/hqdefault.jpg",
-          "sourcePath": "sources/tB/tB3f9IvcV88.json",
-          "time": "3:00:52",
-          "seconds": 10852,
-          "songTitle": "盛れ！ミ・アモレーレ",
-          "artist": "Juice=Juice"
-        }
-      ],
-      "detailPath": "entities/songs/bd959b1a9c467824.json"
-    },
-    {
-      "rank": 47300,
-      "id": "284893d1cdb41926",
-      "name": "盛れてるあたし、最強じゃん！ feat. ゆりにゃ",
-      "secondary": "Pretty Chuu",
-      "channelId": "UCnKt20HH_BiuID0FDHGMcvw",
-      "channelHandle": "@IMI_RKMusic",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RVXGiC4HBsw",
-          "videoTitle": "✦歌枠✦好きな歌【IMI/RKMusic】",
-          "channelName": "IMI",
-          "publishedAt": "2026-09-29T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RVXGiC4HBsw/hqdefault.jpg",
-          "sourcePath": "sources/RV/RVXGiC4HBsw.json",
-          "time": "2:47:50",
-          "seconds": 10070,
-          "songTitle": "盛れてるあたし、最強じゃん！ feat. ゆりにゃ",
-          "artist": "Pretty Chuu"
-        }
-      ],
-      "detailPath": "entities/songs/284893d1cdb41926.json"
     }
   ]
 }

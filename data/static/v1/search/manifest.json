@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "shards": [
     {
       "bucket": "0",
       "path": "search/0.json",
       "itemCount": 4815,
-      "bytes": 2842056
+      "bytes": 2842148
     },
     {
       "bucket": "1",
@@ -18,25 +18,25 @@
       "bucket": "2",
       "path": "search/2.json",
       "itemCount": 4871,
-      "bytes": 2863933
+      "bytes": 2863841
     },
     {
       "bucket": "3",
       "path": "search/3.json",
       "itemCount": 4884,
-      "bytes": 2888332
+      "bytes": 2888330
     },
     {
       "bucket": "4",
       "path": "search/4.json",
       "itemCount": 4925,
-      "bytes": 2908711
+      "bytes": 2908713
     },
     {
       "bucket": "5",
       "path": "search/5.json",
       "itemCount": 4687,
-      "bytes": 2762119
+      "bytes": 2762081
     },
     {
       "bucket": "6",
@@ -54,13 +54,13 @@
       "bucket": "8",
       "path": "search/8.json",
       "itemCount": 4901,
-      "bytes": 2893494
+      "bytes": 2893496
     },
     {
       "bucket": "9",
       "path": "search/9.json",
-      "itemCount": 4912,
-      "bytes": 2915375
+      "itemCount": 4913,
+      "bytes": 2915830
     },
     {
       "bucket": "a",
@@ -72,19 +72,19 @@
       "bucket": "b",
       "path": "search/b.json",
       "itemCount": 4894,
-      "bytes": 2880731
+      "bytes": 2880823
     },
     {
       "bucket": "c",
       "path": "search/c.json",
-      "itemCount": 4909,
-      "bytes": 2892704
+      "itemCount": 4910,
+      "bytes": 2893485
     },
     {
       "bucket": "d",
       "path": "search/d.json",
-      "itemCount": 4760,
-      "bytes": 2809979
+      "itemCount": 4761,
+      "bytes": 2810538
     },
     {
       "bucket": "e",
@@ -96,7 +96,7 @@
       "bucket": "f",
       "path": "search/f.json",
       "itemCount": 4815,
-      "bytes": 2835415
+      "bytes": 2835323
     }
   ]
 }

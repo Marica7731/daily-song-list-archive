@@ -1,16 +1,192 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 173,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 8601,
+      "id": "7d4a681a9d4a0ce0",
+      "name": "やっぱり世界はあたし☆れじぇんど!!",
+      "secondary": "fripSide NAO project!",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "karaoke",
+        "mygit今日快照",
+        "歌",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "QSURi-gVYl0",
+          "videoTitle": "【縦型歌枠】おはよう聞かせて！初見さん◎アニソン・ボカロ歌います！【さきのん/VPL】カラオケJOYSOUND for STREAMER",
+          "channelName": "さきのん-Sakinon-",
+          "publishedAt": "2026-09-15T23:46:20.929Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QSURi-gVYl0/hqdefault.jpg",
+          "sourcePath": "sources/QS/QSURi-gVYl0.json",
+          "time": "1:04:18",
+          "seconds": 3858,
+          "songTitle": "やっぱり世界はあたし☆れじぇんど!!",
+          "artist": "fripSide NAO project!"
+        },
+        {
+          "videoId": "cOlZX99xk20",
+          "videoTitle": "【 歌枠┆KARAOKE 】美少女ゲームソングリクエスト歌枠！コメントでリクエストOK ✧",
+          "channelName": "Rara Channel",
+          "publishedAt": "2025-10-05T22:33:45.607Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cOlZX99xk20/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWSYNzfpdcSnK2prD-GcxgLAnBLA",
+          "sourcePath": "sources/cO/cOlZX99xk20.json",
+          "time": "1:45:17",
+          "seconds": 6317,
+          "songTitle": "やっぱり世界はあたし☆れじぇんど!!",
+          "artist": "fripSide NAO project!"
+        },
+        {
+          "videoId": "YjNNURyEhw8",
+          "videoTitle": "【 歌枠┆KARAOKE 】美少女ゲーム原作アニメソング歌枠！Visual Novel Anime Songs KARAOKE 【VTuber】",
+          "channelName": "Rara Channel",
+          "publishedAt": "2024-10-06T01:15:17.362Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YjNNURyEhw8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD8nYGTZvnivOdoQRMinV1yFzwEA",
+          "sourcePath": "sources/Yj/YjNNURyEhw8.json",
+          "time": "1:33:55",
+          "seconds": 5635,
+          "songTitle": "やっぱり世界はあたし☆れじぇんど!!",
+          "artist": "fripSide NAO project!"
+        }
+      ],
+      "detailPath": "entities/songs/7d4a681a9d4a0ce0.json"
+    },
+    {
+      "rank": 8602,
+      "id": "a7feeeed8b4d6f50",
+      "name": "ヤマダ電機の唄",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "A8bMbEbyYSM",
+          "videoTitle": "【耐久配信歌枠】CH登録してもらったら歌手変更!?3.5万人耐久！ 【#電脳無職旅団 /#VTuber】",
+          "channelName": "電脳無職旅団【1年後にみんなで3D化を目指すVTuberユニット】",
+          "publishedAt": "2026-09-20T11:53:54.430Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/A8bMbEbyYSM/hqdefault.jpg",
+          "sourcePath": "sources/A8/A8bMbEbyYSM.json",
+          "time": "0:29:02",
+          "seconds": 1742,
+          "songTitle": "ヤマダ電機の唄",
+          "artist": ""
+        },
+        {
+          "videoId": "I-BJ0iLBfIw",
+          "videoTitle": "【#歌枠/KARAOKE】アニソン・JPOP・ボカロ！ゲリラ歌枠【#月深ツキ】",
+          "channelName": "月深ツキ -Tsukimi Tsuki-",
+          "publishedAt": "2026-09-04T10:11:55.776Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/I-BJ0iLBfIw/hqdefault.jpg",
+          "sourcePath": "sources/I-/I-BJ0iLBfIw.json",
+          "time": "2:06:37",
+          "seconds": 7597,
+          "songTitle": "ヤマダ電機の唄",
+          "artist": ""
+        },
+        {
+          "videoId": "sIVW4qrdfEI",
+          "videoTitle": "【歌枠】にちようびのインターネットカラオケ #華澤なこ",
+          "channelName": "華澤なこ / Nako Hanazawa",
+          "publishedAt": "2026-08-30T08:16:39.133Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sIVW4qrdfEI/hqdefault.jpg",
+          "sourcePath": "sources/sI/sIVW4qrdfEI.json",
+          "time": "0:48:57",
+          "seconds": 2937,
+          "songTitle": "ヤマダ電機の唄",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/a7feeeed8b4d6f50.json"
+    },
+    {
+      "rank": 8603,
+      "id": "f020bfd1ab020aa6",
+      "name": "ゆめくいしょうじょ",
+      "secondary": "米津玄師",
+      "channelId": "UCv7hPaqfIM06j3B1vOgSPyg",
+      "channelHandle": "@kugumirui",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "hYO0-LrNVLM",
+          "videoTitle": "【歌枠】うれしくたのしくおうたのじかん【やすみ/Vtuber】",
+          "channelName": "やすみ / Yasumi",
+          "publishedAt": "2026-10-11T19:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hYO0-LrNVLM/hqdefault.jpg",
+          "sourcePath": "sources/hY/hYO0-LrNVLM.json",
+          "time": "2:02:40",
+          "seconds": 7360,
+          "songTitle": "ゆめくいしょうじょ",
+          "artist": "米津玄師"
+        },
+        {
+          "videoId": "VTlfgYgCRLY",
+          "videoTitle": "弾き語りがしたいけど変なコンプレッサーがかかるためできない可能性もある",
+          "channelName": "esora uma",
+          "publishedAt": "2026-10-03T20:42:53.771Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VTlfgYgCRLY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDePIVtxyzgJC-MnnSDldC7YsPCSA&usqp=CBQ",
+          "sourcePath": "sources/VT/VTlfgYgCRLY.json",
+          "time": "2:07:41",
+          "seconds": 7661,
+          "songTitle": "ゆめくいしょうじょ",
+          "artist": "米津玄師"
+        },
+        {
+          "videoId": "YsEo4MHKmbI",
+          "videoTitle": "歌枠｜あち~ねっ🎐꙳⋆ - 久々湊るい",
+          "channelName": "久々湊るい - Kugumi Rui -",
+          "publishedAt": "2026-07-15T06:14:59.552Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YsEo4MHKmbI/hqdefault.jpg",
+          "sourcePath": "sources/Ys/YsEo4MHKmbI.json",
+          "time": "2:25:24",
+          "seconds": 8724,
+          "songTitle": "ゆめくいしょうじょ",
+          "artist": "米津玄師"
+        }
+      ],
+      "detailPath": "entities/songs/f020bfd1ab020aa6.json"
+    },
+    {
+      "rank": 8604,
       "id": "914026c69ee8c6b0",
       "name": "ゆめゆめ",
       "secondary": "DECO*27",
@@ -71,7 +247,7 @@
       "detailPath": "entities/songs/914026c69ee8c6b0.json"
     },
     {
-      "rank": 8602,
+      "rank": 8605,
       "id": "3bff2ea42a5f4ce7",
       "name": "ユメヲカケル!",
       "secondary": "",
@@ -128,7 +304,7 @@
       "detailPath": "entities/songs/3bff2ea42a5f4ce7.json"
     },
     {
-      "rank": 8603,
+      "rank": 8606,
       "id": "fd5a5843367bdba0",
       "name": "ようこそジャパリパークへ",
       "secondary": "未記載",
@@ -186,7 +362,7 @@
       "detailPath": "entities/songs/fd5a5843367bdba0.json"
     },
     {
-      "rank": 8604,
+      "rank": 8607,
       "id": "9954e899f8fca0a5",
       "name": "よくばり",
       "secondary": "Ayase feat. 初音ミク",
@@ -246,7 +422,7 @@
       "detailPath": "entities/songs/9954e899f8fca0a5.json"
     },
     {
-      "rank": 8605,
+      "rank": 8608,
       "id": "fab43b9f3b268693",
       "name": "ヨヒラ",
       "secondary": "n-buna",
@@ -303,7 +479,7 @@
       "detailPath": "entities/songs/fab43b9f3b268693.json"
     },
     {
-      "rank": 8606,
+      "rank": 8609,
       "id": "4216debeb16d01e6",
       "name": "ヨワネハキ",
       "secondary": "MAISONdes feat. 和ぬか, asmi",
@@ -362,7 +538,7 @@
       "detailPath": "entities/songs/4216debeb16d01e6.json"
     },
     {
-      "rank": 8607,
+      "rank": 8610,
       "id": "2794cbdf86767868",
       "name": "ヨンジュウナナ",
       "secondary": "りぶ",
@@ -419,7 +595,7 @@
       "detailPath": "entities/songs/2794cbdf86767868.json"
     },
     {
-      "rank": 8608,
+      "rank": 8611,
       "id": "999f2f86dd5682b1",
       "name": "ライオン",
       "secondary": "シェリル・ノーム(May'n), ランカ・リー(中島愛)",
@@ -476,7 +652,7 @@
       "detailPath": "entities/songs/999f2f86dd5682b1.json"
     },
     {
-      "rank": 8609,
+      "rank": 8612,
       "id": "9f9e0393b1ba4eb8",
       "name": "ライオン",
       "secondary": "May'n/中島愛 ※JOYSOUND",
@@ -533,7 +709,7 @@
       "detailPath": "entities/songs/9f9e0393b1ba4eb8.json"
     },
     {
-      "rank": 8610,
+      "rank": 8613,
       "id": "bb065a6331a1b4ad",
       "name": "ライラック",
       "secondary": "忘却バッテリー",
@@ -590,7 +766,7 @@
       "detailPath": "entities/songs/bb065a6331a1b4ad.json"
     },
     {
-      "rank": 8611,
+      "rank": 8614,
       "id": "d0c91b5d5f8be0f6",
       "name": "ラヴィ",
       "secondary": "すりぃ feat.鏡音リン",
@@ -649,7 +825,7 @@
       "detailPath": "entities/songs/d0c91b5d5f8be0f6.json"
     },
     {
-      "rank": 8612,
+      "rank": 8615,
       "id": "beb5014d5b7a63ba",
       "name": "ラヴィ",
       "secondary": "未記載",
@@ -708,7 +884,7 @@
       "detailPath": "entities/songs/beb5014d5b7a63ba.json"
     },
     {
-      "rank": 8613,
+      "rank": 8616,
       "id": "9bf5257c703ab8f8",
       "name": "ラストダンス",
       "secondary": "Eve",
@@ -768,7 +944,7 @@
       "detailPath": "entities/songs/9bf5257c703ab8f8.json"
     },
     {
-      "rank": 8614,
+      "rank": 8617,
       "id": "54436ad1d1290205",
       "name": "ラッキーカラー",
       "secondary": "あいみょん",
@@ -826,7 +1002,7 @@
       "detailPath": "entities/songs/54436ad1d1290205.json"
     },
     {
-      "rank": 8615,
+      "rank": 8618,
       "id": "92a6b075a7e44799",
       "name": "ラビィ",
       "secondary": "すりぃ",
@@ -883,7 +1059,7 @@
       "detailPath": "entities/songs/92a6b075a7e44799.json"
     },
     {
-      "rank": 8616,
+      "rank": 8619,
       "id": "c0858bb65f97d323",
       "name": "ラピスのお人形",
       "secondary": "ヰ世界情緒",
@@ -943,7 +1119,7 @@
       "detailPath": "entities/songs/c0858bb65f97d323.json"
     },
     {
-      "rank": 8617,
+      "rank": 8620,
       "id": "8ca7be00641084e3",
       "name": "ラピスラズリ",
       "secondary": "",
@@ -1000,7 +1176,7 @@
       "detailPath": "entities/songs/8ca7be00641084e3.json"
     },
     {
-      "rank": 8618,
+      "rank": 8621,
       "id": "2da758e03a91f541",
       "name": "ラピスラズリ",
       "secondary": "藍井エイル(Eir,加藤裕介)",
@@ -1057,7 +1233,7 @@
       "detailPath": "entities/songs/2da758e03a91f541.json"
     },
     {
-      "rank": 8619,
+      "rank": 8622,
       "id": "71413f7ae0b82df2",
       "name": "ラビュー・ラビュー",
       "secondary": "ポルノグラフィティ",
@@ -1115,7 +1291,7 @@
       "detailPath": "entities/songs/71413f7ae0b82df2.json"
     },
     {
-      "rank": 8620,
+      "rank": 8623,
       "id": "0061c401cb80da59",
       "name": "ラブカ？",
       "secondary": "柊キライ feat.v flower",
@@ -1174,7 +1350,7 @@
       "detailPath": "entities/songs/0061c401cb80da59.json"
     },
     {
-      "rank": 8621,
+      "rank": 8624,
       "id": "23f69b1f0feefd60",
       "name": "ラプラスショコラ",
       "secondary": "Kai feat. 初音ミク",
@@ -1233,7 +1409,7 @@
       "detailPath": "entities/songs/23f69b1f0feefd60.json"
     },
     {
-      "rank": 8622,
+      "rank": 8625,
       "id": "27dfe782a4b2dbbb",
       "name": "ラプラスショコラ",
       "secondary": "",
@@ -1290,7 +1466,7 @@
       "detailPath": "entities/songs/27dfe782a4b2dbbb.json"
     },
     {
-      "rank": 8623,
+      "rank": 8626,
       "id": "36314c8993111a5d",
       "name": "ラプンツェル",
       "secondary": "未記載",
@@ -1348,7 +1524,7 @@
       "detailPath": "entities/songs/36314c8993111a5d.json"
     },
     {
-      "rank": 8624,
+      "rank": 8627,
       "id": "86fc693b004a7004",
       "name": "ラムのラブソング",
       "secondary": "うる星やつら",
@@ -1406,7 +1582,7 @@
       "detailPath": "entities/songs/86fc693b004a7004.json"
     },
     {
-      "rank": 8625,
+      "rank": 8628,
       "id": "270b010b126afd1d",
       "name": "ラムのラブソング",
       "secondary": "",
@@ -1463,7 +1639,7 @@
       "detailPath": "entities/songs/270b010b126afd1d.json"
     },
     {
-      "rank": 8626,
+      "rank": 8629,
       "id": "3e1d29890ed3b18b",
       "name": "ランデヴー",
       "secondary": "シャイトープ",
@@ -1523,7 +1699,7 @@
       "detailPath": "entities/songs/3e1d29890ed3b18b.json"
     },
     {
-      "rank": 8627,
+      "rank": 8630,
       "id": "59cbd6d52304ab39",
       "name": "リグレット",
       "secondary": "sumika",
@@ -1583,7 +1759,7 @@
       "detailPath": "entities/songs/59cbd6d52304ab39.json"
     },
     {
-      "rank": 8628,
+      "rank": 8631,
       "id": "43872c117e0074d8",
       "name": "リスキーゲーム",
       "secondary": "White Flame",
@@ -1640,7 +1816,7 @@
       "detailPath": "entities/songs/43872c117e0074d8.json"
     },
     {
-      "rank": 8629,
+      "rank": 8632,
       "id": "f10680e0589c20b9",
       "name": "リトルグッバイ",
       "secondary": "ROCKY CHACK",
@@ -1700,7 +1876,7 @@
       "detailPath": "entities/songs/f10680e0589c20b9.json"
     },
     {
-      "rank": 8630,
+      "rank": 8633,
       "id": "40ddc2c1447b70e9",
       "name": "リバーサイド・ホテル",
       "secondary": "井上陽水",
@@ -1758,7 +1934,7 @@
       "detailPath": "entities/songs/40ddc2c1447b70e9.json"
     },
     {
-      "rank": 8631,
+      "rank": 8634,
       "id": "445969c3d1bec969",
       "name": "リフレイン",
       "secondary": "榊原ゆい",
@@ -1815,7 +1991,7 @@
       "detailPath": "entities/songs/445969c3d1bec969.json"
     },
     {
-      "rank": 8632,
+      "rank": 8635,
       "id": "86f26519c90969c1",
       "name": "リフレクション",
       "secondary": "",
@@ -1869,7 +2045,7 @@
       "detailPath": "entities/songs/86f26519c90969c1.json"
     },
     {
-      "rank": 8633,
+      "rank": 8636,
       "id": "b93e08801eb7ebcb",
       "name": "リメンバー・ミー",
       "secondary": "石橋陽彩",
@@ -1927,7 +2103,7 @@
       "detailPath": "entities/songs/b93e08801eb7ebcb.json"
     },
     {
-      "rank": 8634,
+      "rank": 8637,
       "id": "a279297e6836302a",
       "name": "リモコン",
       "secondary": "じーざすP",
@@ -1986,7 +2162,7 @@
       "detailPath": "entities/songs/a279297e6836302a.json"
     },
     {
-      "rank": 8635,
+      "rank": 8638,
       "id": "9e620782e90e63ec",
       "name": "リライト",
       "secondary": "アジアン・カンフー・ジェネレーション",
@@ -2046,7 +2222,7 @@
       "detailPath": "entities/songs/9e620782e90e63ec.json"
     },
     {
-      "rank": 8636,
+      "rank": 8639,
       "id": "298c1f61646816af",
       "name": "リリィ",
       "secondary": "BUMP OF CHICKEN",
@@ -2105,7 +2281,7 @@
       "detailPath": "entities/songs/298c1f61646816af.json"
     },
     {
-      "rank": 8637,
+      "rank": 8640,
       "id": "da0aad5f3338a176",
       "name": "リリック",
       "secondary": "TOKIO",
@@ -2163,7 +2339,7 @@
       "detailPath": "entities/songs/da0aad5f3338a176.json"
     },
     {
-      "rank": 8638,
+      "rank": 8641,
       "id": "c64d515396646ebd",
       "name": "リンちゃんなう！",
       "secondary": "オワタP",
@@ -2220,7 +2396,7 @@
       "detailPath": "entities/songs/c64d515396646ebd.json"
     },
     {
-      "rank": 8639,
+      "rank": 8642,
       "id": "bd1ef310e56d53bd",
       "name": "リンネ",
       "secondary": "",
@@ -2277,7 +2453,7 @@
       "detailPath": "entities/songs/bd1ef310e56d53bd.json"
     },
     {
-      "rank": 8640,
+      "rank": 8643,
       "id": "40f30c8fc753496a",
       "name": "ルージュの伝言",
       "secondary": "松任谷由美",
@@ -2338,7 +2514,7 @@
       "detailPath": "entities/songs/40f30c8fc753496a.json"
     },
     {
-      "rank": 8641,
+      "rank": 8644,
       "id": "1cae40f9d88ec1f1",
       "name": "ルーム No.4",
       "secondary": "",
@@ -2395,7 +2571,7 @@
       "detailPath": "entities/songs/1cae40f9d88ec1f1.json"
     },
     {
-      "rank": 8642,
+      "rank": 8645,
       "id": "64d90c97ce11ab62",
       "name": "ルカルカ★ナイトフィーバー",
       "secondary": "samfree ※JOYSOUND",
@@ -2452,7 +2628,7 @@
       "detailPath": "entities/songs/64d90c97ce11ab62.json"
     },
     {
-      "rank": 8643,
+      "rank": 8646,
       "id": "9808bdd423a9ad3e",
       "name": "ルカルカ☆ナイトフィーバー",
       "secondary": "鹿乃",
@@ -2511,7 +2687,7 @@
       "detailPath": "entities/songs/9808bdd423a9ad3e.json"
     },
     {
-      "rank": 8644,
+      "rank": 8647,
       "id": "8b8f7970a548f133",
       "name": "ルシファー",
       "secondary": "¿?shimon",
@@ -2568,7 +2744,7 @@
       "detailPath": "entities/songs/8b8f7970a548f133.json"
     },
     {
-      "rank": 8645,
+      "rank": 8648,
       "id": "ddad5d3b87ffa793",
       "name": "ルネサンス",
       "secondary": "相対性理論",
@@ -2625,7 +2801,7 @@
       "detailPath": "entities/songs/ddad5d3b87ffa793.json"
     },
     {
-      "rank": 8646,
+      "rank": 8649,
       "id": "05a3105b994ca4f8",
       "name": "ルパン・ザ・ファイヤー",
       "secondary": "SEAMO",
@@ -2682,7 +2858,7 @@
       "detailPath": "entities/songs/05a3105b994ca4f8.json"
     },
     {
-      "rank": 8647,
+      "rank": 8650,
       "id": "4bff20283f27af9d",
       "name": "ルパン三世のテーマ",
       "secondary": "水木一郎",
@@ -2738,177 +2914,6 @@
         }
       ],
       "detailPath": "entities/songs/4bff20283f27af9d.json"
-    },
-    {
-      "rank": 8648,
-      "id": "3fc98a41ad06def9",
-      "name": "ルパン三世のテーマ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "o_KILgAN-Ko",
-          "videoTitle": "2023 06 08 【耐久⧸singing】デビュー300日記念！300曲歌いきるまで耐久お歌枠！後半",
-          "channelName": "神輿たらん - Taran Mikoshi - Unofficial Archive 🍭🔆",
-          "publishedAt": "2026-09-08T01:29:58.253Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/o_KILgAN-Ko/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjCV5Xjo2fM2Rzj8dAZT4stnFSWA",
-          "sourcePath": "sources/o_/o_KILgAN-Ko.json",
-          "time": "1:32:10",
-          "seconds": 5530,
-          "songTitle": "ルパン三世のテーマ",
-          "artist": ""
-        },
-        {
-          "videoId": "ynRbEpn40lo",
-          "videoTitle": "【#ムーンライトラウンジ歌枠リレー 】今夜は月の狼【狼朗ハツキ/ #Vtuber #歌枠 #KARAOKE】",
-          "channelName": "狼朗ハツキ - Rourou Hatsuki -",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ynRbEpn40lo/hqdefault.jpg",
-          "sourcePath": "sources/yn/ynRbEpn40lo.json",
-          "time": "0:10:07",
-          "seconds": 607,
-          "songTitle": "ルパン三世のテーマ",
-          "artist": ""
-        },
-        {
-          "videoId": "sS52rvgibY0",
-          "videoTitle": "【 歌枠┊︎Karaoke 】どなたでもお気軽にどうぞ✨ふわふわ魔女が歌います！【vtuber /天彩あるす】",
-          "channelName": "天彩あるす -Amairo Arus-",
-          "publishedAt": "2026-09-04T10:56:01.591Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sS52rvgibY0/hqdefault.jpg",
-          "sourcePath": "sources/sS/sS52rvgibY0.json",
-          "time": "1:57:31",
-          "seconds": 7051,
-          "songTitle": "ルパン三世のテーマ",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/3fc98a41ad06def9.json"
-    },
-    {
-      "rank": 8649,
-      "id": "43fddeab49e4fa07",
-      "name": "ルマ",
-      "secondary": "",
-      "channelId": "UCcOiCDt3Ub_MMwGobfzRNIw",
-      "channelHandle": "@menmacha",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "o_KILgAN-Ko",
-          "videoTitle": "2023 06 08 【耐久⧸singing】デビュー300日記念！300曲歌いきるまで耐久お歌枠！後半",
-          "channelName": "神輿たらん - Taran Mikoshi - Unofficial Archive 🍭🔆",
-          "publishedAt": "2026-09-08T01:29:58.253Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/o_KILgAN-Ko/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjCV5Xjo2fM2Rzj8dAZT4stnFSWA",
-          "sourcePath": "sources/o_/o_KILgAN-Ko.json",
-          "time": "1:36:22",
-          "seconds": 5782,
-          "songTitle": "ルマ",
-          "artist": ""
-        },
-        {
-          "videoId": "1WgWMUP_Uwg",
-          "videoTitle": "【#ネオルーキー歌枠リレー】夏の終わりに初めての歌枠リレーだ！！！【狗甘わをん】",
-          "channelName": "狗甘(いぬかい)わをん",
-          "publishedAt": "2026-09-05T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1WgWMUP_Uwg/hqdefault.jpg",
-          "sourcePath": "sources/1W/1WgWMUP_Uwg.json",
-          "time": "0:09:21",
-          "seconds": 561,
-          "songTitle": "ルマ",
-          "artist": ""
-        },
-        {
-          "videoId": "1df1NppV77E",
-          "videoTitle": "【#歌枠｜高評価100目標】今宵も歌うぞ！おうたのじかん🎵【おとなしめんま｜vtuber 】",
-          "channelName": "Menma Ch. おとなしめんま",
-          "publishedAt": "2026-08-29T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1df1NppV77E/hqdefault.jpg",
-          "sourcePath": "sources/1d/1df1NppV77E.json",
-          "time": "1:28:41",
-          "seconds": 5321,
-          "songTitle": "ルマ",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/43fddeab49e4fa07.json"
-    },
-    {
-      "rank": 8650,
-      "id": "7aa92d8baa7e44d7",
-      "name": "ルンがピカッと光ったら",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "enFbLtt-chw",
-          "videoTitle": "【 #耐久配信 】同接80人&高評価200耐久🔥達成で嬉しい告知✨【 #子鞠まゆ #個人勢Vtuber #歌枠 #KARAOKE 】",
-          "channelName": "子鞠まゆ-KomariMayu",
-          "publishedAt": "2026-09-09T18:14:12.932Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/enFbLtt-chw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4Q8S_dN6bZGXMx7mX8xAs4zrJFA",
-          "sourcePath": "sources/en/enFbLtt-chw.json",
-          "time": "5:39:12",
-          "seconds": 20352,
-          "songTitle": "ルンがピカッと光ったら",
-          "artist": ""
-        },
-        {
-          "videoId": "_VtK1LYP6yw",
-          "videoTitle": "【耐久歌枠】同接100名様目指して歌います！達成後お知らせあり💛 #Vtuber #蜂屋ひまわり",
-          "channelName": "蜂屋ひまわり-Himawari ch.-",
-          "publishedAt": "2026-09-05T12:12:20.431Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_VtK1LYP6yw/hqdefault.jpg",
-          "sourcePath": "sources/_V/_VtK1LYP6yw.json",
-          "time": "0:47:05",
-          "seconds": 2825,
-          "songTitle": "ルンがピカッと光ったら",
-          "artist": ""
-        },
-        {
-          "videoId": "uZlQrNCUkL0",
-          "videoTitle": "【歌枠】めざせ登録者1000人！マクロスの曲たくさん歌います💓【Singing Stream】",
-          "channelName": "Rara Channel",
-          "publishedAt": "2022-10-07T01:15:17.362Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/uZlQrNCUkL0/maxresdefault.jpg?v=6308e25e",
-          "sourcePath": "sources/uZ/uZlQrNCUkL0.json",
-          "time": "2:32:43",
-          "seconds": 9163,
-          "songTitle": "ルンがピカッと光ったら",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/7aa92d8baa7e44d7.json"
     }
   ]
 }

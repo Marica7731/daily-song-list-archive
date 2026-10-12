@@ -1,16 +1,245 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 200,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9951,
+      "id": "a8ec2e7a47a97775",
+      "name": "A Song for ××",
+      "secondary": "浜崎あゆみ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "d4gS81G466E",
+          "videoTitle": "【歌枠】懐メロ🐈秋の夜長のマッタリ歌枠【初めての方もお気軽に🍵】個人VTuber",
+          "channelName": "桜井えみか",
+          "publishedAt": "2026-10-03T15:12:21.092Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/d4gS81G466E/hqdefault.jpg",
+          "sourcePath": "sources/d4/d4gS81G466E.json",
+          "time": "0:07:25",
+          "seconds": 445,
+          "songTitle": "A Song for ××",
+          "artist": "浜崎あゆみ"
+        },
+        {
+          "videoId": "_p2OqEWjNXM",
+          "videoTitle": "【歌枠┊KARAOKE】癒しの黄昏エモ神アニソン・J-POP【Vsinger Vtuber┊御神楽すずめ】",
+          "channelName": "御神楽すずめ / Mikagura Suzume",
+          "publishedAt": "2026-08-26T11:06:00.389Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_p2OqEWjNXM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpbDWWOaSLK4-IxI_Ji7U-gyaUWg",
+          "sourcePath": "sources/_p/_p2OqEWjNXM.json",
+          "time": "2:31:10",
+          "seconds": 9070,
+          "songTitle": "A Song for ××",
+          "artist": "浜崎あゆみ"
+        }
+      ],
+      "detailPath": "entities/songs/a8ec2e7a47a97775.json"
+    },
+    {
+      "rank": 9952,
+      "id": "b31ee0680be41b37",
+      "name": "a song of storm and fire",
+      "secondary": "梶浦由記 feat.伊東恵里",
+      "channelId": "UCDZINBxJShY5mks_W1tqcOg",
+      "channelHandle": "@yutoha",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "RMDPNE3K-bA",
+          "videoTitle": "【歌枠】ハモリ収録楽曲多数！神曲だらけの梶浦由記楽曲歌う【#小鳥遊ゆとは/Vsinger/Vtuber】",
+          "channelName": "小鳥遊ゆとは -Yutoha Takanashi-",
+          "publishedAt": "2026-09-11T13:22:31.342Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RMDPNE3K-bA/hqdefault.jpg",
+          "sourcePath": "sources/RM/RMDPNE3K-bA.json",
+          "time": "2:35:49",
+          "seconds": 9349,
+          "songTitle": "a song of storm and fire",
+          "artist": "梶浦由記 feat.伊東恵里"
+        },
+        {
+          "videoId": "MhZPi6KUp4Q",
+          "videoTitle": "【歌枠】新規収録アリ！Kalafina/FictionJunctionなどの梶浦由記楽曲をお届け【#小鳥遊ゆとは/Vsinger/Vtuber】",
+          "channelName": "小鳥遊ゆとは -Yutoha Takanashi-",
+          "publishedAt": "2026-08-04T14:10:42.268Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MhZPi6KUp4Q/hqdefault.jpg",
+          "sourcePath": "sources/Mh/MhZPi6KUp4Q.json",
+          "time": "3:24:36",
+          "seconds": 12276,
+          "songTitle": "a song of storm and fire",
+          "artist": "梶浦由記 feat.伊東恵里"
+        }
+      ],
+      "detailPath": "entities/songs/b31ee0680be41b37.json"
+    },
+    {
+      "rank": 9953,
+      "id": "f9f5d61e9ade9896",
+      "name": "a walk in the park",
+      "secondary": "安室奈美恵",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TOwvoG9Zajg",
+          "videoTitle": "【#歌枠 】🎂安室奈美恵ちゃん神曲で台風を吹き飛ばしたい！初見さんも大歓迎🤍",
+          "channelName": "MINT SPEC 【90's J-ROCK COVER】",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TOwvoG9Zajg/hqdefault.jpg",
+          "sourcePath": "sources/TO/TOwvoG9Zajg.json",
+          "time": "0:19:11",
+          "seconds": 1151,
+          "songTitle": "a walk in the park",
+          "artist": "安室奈美恵"
+        },
+        {
+          "videoId": "hBM-bbMXVww",
+          "videoTitle": "7:45〜リクエスト即興弾き語り配信 #shorts #縦型配信",
+          "channelName": "宮崎奈穂子*745チャンネル*",
+          "publishedAt": "2026-08-24T13:51:50.944Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hBM-bbMXVww/hqdefault.jpg",
+          "sourcePath": "sources/hB/hBM-bbMXVww.json",
+          "time": "1:05:58",
+          "seconds": 3958,
+          "songTitle": "a walk in the park",
+          "artist": "安室奈美恵"
+        }
+      ],
+      "detailPath": "entities/songs/f9f5d61e9ade9896.json"
+    },
+    {
+      "rank": 9954,
+      "id": "5664f2c050314840",
+      "name": "A Whole New World",
+      "secondary": "アラジン",
+      "channelId": "UCngjNluk0InGM3RShD_J_cw",
+      "channelHandle": "@NemoTerminus",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Y9e9fIb5Yf4",
+          "videoTitle": "【10/7 歌枠】はちなつセッションにNORISTRYと町山マチカが現れた！！",
+          "channelName": "ハッチャン",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Y9e9fIb5Yf4/hqdefault.jpg",
+          "sourcePath": "sources/Y9/Y9e9fIb5Yf4.json",
+          "time": "1:35:11",
+          "seconds": 5711,
+          "songTitle": "A Whole New World",
+          "artist": "アラジン"
+        },
+        {
+          "videoId": "36ajMlJ1Buo",
+          "videoTitle": "【 縦型歌枠 】夜に溶けるミスティックグロウな歌声 #初見歓迎 #歌枠 #Vsinger #Karaoke #Shorts",
+          "channelName": "ネモ・テルミナス",
+          "publishedAt": "2026-07-03T07:35:47.693Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/36ajMlJ1Buo/hqdefault.jpg",
+          "sourcePath": "sources/36/36ajMlJ1Buo.json",
+          "time": "0:58:45",
+          "seconds": 3525,
+          "songTitle": "A Whole New World",
+          "artist": "アラジン"
+        }
+      ],
+      "detailPath": "entities/songs/5664f2c050314840.json"
+    },
+    {
+      "rank": 9955,
+      "id": "2d7debdf832813d2",
+      "name": "A Whole New World",
+      "secondary": "Brad Kane & Lea Salonga",
+      "channelId": "UCrtxBD7M6ECazDbNqVhQM3Q",
+      "channelHandle": "@nagayamameme",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qQE5OnNOA9Q",
+          "videoTitle": "*❅ 歌枠┊リクエスト歌うよ～🎤♫ Singing stream〖 雪芽るみ┊すぺしゃりて 〗",
+          "channelName": "雪芽るみ / Lumi Yukime",
+          "publishedAt": "2026-08-07T17:35:05.327Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qQE5OnNOA9Q/hqdefault.jpg",
+          "sourcePath": "sources/qQ/qQE5OnNOA9Q.json",
+          "time": "2:18:31",
+          "seconds": 8311,
+          "songTitle": "A Whole New World",
+          "artist": "Brad Kane & Lea Salonga"
+        },
+        {
+          "videoId": "YtgF6Rwgu-U",
+          "videoTitle": "【#歌枠】雑談 Chill 作業BGM🎈BGM ながやまめめのギター弾き語り！カラオケ✨ 【SINGING STREAM】#vtuber #karaoke #shorts #歌ってみた",
+          "channelName": "ながやまめめ",
+          "publishedAt": "2026-07-06T21:13:05.244Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YtgF6Rwgu-U/hqdefault.jpg",
+          "sourcePath": "sources/Yt/YtgF6Rwgu-U.json",
+          "time": "3:08:58",
+          "seconds": 11338,
+          "songTitle": "A Whole New World",
+          "artist": "Brad Kane & Lea Salonga"
+        }
+      ],
+      "detailPath": "entities/songs/2d7debdf832813d2.json"
+    },
+    {
+      "rank": 9956,
       "id": "5fd09d39f9903495",
       "name": "A Whole New World",
       "secondary": "Brad Kane and Lea Salonga",
@@ -58,7 +287,7 @@
       "detailPath": "entities/songs/5fd09d39f9903495.json"
     },
     {
-      "rank": 9952,
+      "rank": 9957,
       "id": "5ee56d1bc34d3d12",
       "name": "A Whole New World",
       "secondary": "From \"Aladdin\"",
@@ -104,7 +333,7 @@
       "detailPath": "entities/songs/5ee56d1bc34d3d12.json"
     },
     {
-      "rank": 9953,
+      "rank": 9958,
       "id": "c049ccb32981454c",
       "name": "A Whole New World",
       "secondary": "",
@@ -149,7 +378,7 @@
       "detailPath": "entities/songs/c049ccb32981454c.json"
     },
     {
-      "rank": 9954,
+      "rank": 9959,
       "id": "25d9f5fc3219ffb1",
       "name": "A Whole New World",
       "secondary": "Lea Salonga amd Brad Kane",
@@ -195,7 +424,7 @@
       "detailPath": "entities/songs/25d9f5fc3219ffb1.json"
     },
     {
-      "rank": 9955,
+      "rank": 9960,
       "id": "26b66fb1600d9529",
       "name": "A・RA・SHI",
       "secondary": "嵐",
@@ -240,7 +469,7 @@
       "detailPath": "entities/songs/26b66fb1600d9529.json"
     },
     {
-      "rank": 9956,
+      "rank": 9961,
       "id": "90d843ac8882424c",
       "name": "About a Rock'n'Roll Band",
       "secondary": "the pillows",
@@ -282,7 +511,7 @@
       "detailPath": "entities/songs/90d843ac8882424c.json"
     },
     {
-      "rank": 9957,
+      "rank": 9962,
       "id": "e153745fe77d4926",
       "name": "Absolute 5",
       "secondary": "",
@@ -327,7 +556,7 @@
       "detailPath": "entities/songs/e153745fe77d4926.json"
     },
     {
-      "rank": 9958,
+      "rank": 9963,
       "id": "2836297c87521060",
       "name": "absolute one",
       "secondary": "fripSide",
@@ -372,7 +601,7 @@
       "detailPath": "entities/songs/2836297c87521060.json"
     },
     {
-      "rank": 9959,
+      "rank": 9964,
       "id": "01fab7e85e945d29",
       "name": "accompany",
       "secondary": "XIDEN",
@@ -417,7 +646,7 @@
       "detailPath": "entities/songs/01fab7e85e945d29.json"
     },
     {
-      "rank": 9960,
+      "rank": 9965,
       "id": "332aafd8d680677b",
       "name": "ACE",
       "secondary": "emon(Tes.)",
@@ -462,7 +691,7 @@
       "detailPath": "entities/songs/332aafd8d680677b.json"
     },
     {
-      "rank": 9961,
+      "rank": 9966,
       "id": "e8b2352082417e60",
       "name": "Acolyte",
       "secondary": "Slaughter Beach, Dog",
@@ -510,7 +739,7 @@
       "detailPath": "entities/songs/e8b2352082417e60.json"
     },
     {
-      "rank": 9962,
+      "rank": 9967,
       "id": "cc5d35bd14760f76",
       "name": "ACROSS",
       "secondary": "水樹奈々",
@@ -558,7 +787,7 @@
       "detailPath": "entities/songs/cc5d35bd14760f76.json"
     },
     {
-      "rank": 9963,
+      "rank": 9968,
       "id": "ad41f9a16f4bfdef",
       "name": "ACUTE",
       "secondary": "WhiteFlame",
@@ -604,7 +833,7 @@
       "detailPath": "entities/songs/ad41f9a16f4bfdef.json"
     },
     {
-      "rank": 9964,
+      "rank": 9969,
       "id": "1193e54f189133bd",
       "name": "adamant faith",
       "secondary": "Suara",
@@ -649,7 +878,7 @@
       "detailPath": "entities/songs/1193e54f189133bd.json"
     },
     {
-      "rank": 9965,
+      "rank": 9970,
       "id": "3c6eda188800a309",
       "name": "aespa",
       "secondary": "Til We Die",
@@ -694,7 +923,7 @@
       "detailPath": "entities/songs/3c6eda188800a309.json"
     },
     {
-      "rank": 9966,
+      "rank": 9971,
       "id": "2090975d194cf9d4",
       "name": "aespa",
       "secondary": "Saddle Up (WINTER Solo)",
@@ -739,7 +968,7 @@
       "detailPath": "entities/songs/2090975d194cf9d4.json"
     },
     {
-      "rank": 9967,
+      "rank": 9972,
       "id": "03cc60639eab70a9",
       "name": "again",
       "secondary": "YUI ※JOYSOUND",
@@ -784,7 +1013,7 @@
       "detailPath": "entities/songs/03cc60639eab70a9.json"
     },
     {
-      "rank": 9968,
+      "rank": 9973,
       "id": "d98c8a60536458e1",
       "name": "again（YUI）",
       "secondary": "未記載",
@@ -829,7 +1058,7 @@
       "detailPath": "entities/songs/d98c8a60536458e1.json"
     },
     {
-      "rank": 9969,
+      "rank": 9974,
       "id": "d61e7cc3463170c8",
       "name": "agape",
       "secondary": "円盤皇女ワるきゅーレ",
@@ -876,7 +1105,7 @@
       "detailPath": "entities/songs/d61e7cc3463170c8.json"
     },
     {
-      "rank": 9970,
+      "rank": 9975,
       "id": "b2cb9ea12a8c53de",
       "name": "Agape",
       "secondary": "メロキュア (2003) / OVA「円盤皇女ワるきゅーレSPECIAL」挿入歌",
@@ -921,7 +1150,7 @@
       "detailPath": "entities/songs/b2cb9ea12a8c53de.json"
     },
     {
-      "rank": 9971,
+      "rank": 9976,
       "id": "4c61863b91fee3fc",
       "name": "Agapē",
       "secondary": "メロキュア",
@@ -967,7 +1196,7 @@
       "detailPath": "entities/songs/4c61863b91fee3fc.json"
     },
     {
-      "rank": 9972,
+      "rank": 9977,
       "id": "86ddd85f4c09f913",
       "name": "Ahoy！我ら宝鐘海賊団☆",
       "secondary": "",
@@ -1012,7 +1241,7 @@
       "detailPath": "entities/songs/86ddd85f4c09f913.json"
     },
     {
-      "rank": 9973,
+      "rank": 9978,
       "id": "3ba07ce4e77497bc",
       "name": "Ai wo Tsutaetaidatoka",
       "secondary": "Aimyon",
@@ -1058,7 +1287,7 @@
       "detailPath": "entities/songs/3ba07ce4e77497bc.json"
     },
     {
-      "rank": 9974,
+      "rank": 9979,
       "id": "ac2c7e6c6419805e",
       "name": "Aim for the Star",
       "secondary": "千代浦蝶美",
@@ -1104,7 +1333,7 @@
       "detailPath": "entities/songs/ac2c7e6c6419805e.json"
     },
     {
-      "rank": 9975,
+      "rank": 9980,
       "id": "aa9d9bd836493986",
       "name": "aimai",
       "secondary": "瀬名航",
@@ -1149,7 +1378,7 @@
       "detailPath": "entities/songs/aa9d9bd836493986.json"
     },
     {
-      "rank": 9976,
+      "rank": 9981,
       "id": "61fc17170471c458",
       "name": "aimai",
       "secondary": "瀬名航 feat.初音ミク",
@@ -1194,7 +1423,7 @@
       "detailPath": "entities/songs/61fc17170471c458.json"
     },
     {
-      "rank": 9977,
+      "rank": 9982,
       "id": "16e056eb459e285e",
       "name": "Aishite Aishite Aishite",
       "secondary": "",
@@ -1239,7 +1468,7 @@
       "detailPath": "entities/songs/16e056eb459e285e.json"
     },
     {
-      "rank": 9978,
+      "rank": 9983,
       "id": "7a7092fa68392a57",
       "name": "Akai Sweet Pea",
       "secondary": "Seiko Matsuda",
@@ -1285,7 +1514,7 @@
       "detailPath": "entities/songs/7a7092fa68392a57.json"
     },
     {
-      "rank": 9979,
+      "rank": 9984,
       "id": "4affdb0ef50ab1c0",
       "name": "Akane Sasu",
       "secondary": "Aimer",
@@ -1331,7 +1560,7 @@
       "detailPath": "entities/songs/4affdb0ef50ab1c0.json"
     },
     {
-      "rank": 9980,
+      "rank": 9985,
       "id": "65b3f8c651b51bd0",
       "name": "AKUMA",
       "secondary": "常闇トワ",
@@ -1378,7 +1607,7 @@
       "detailPath": "entities/songs/65b3f8c651b51bd0.json"
     },
     {
-      "rank": 9981,
+      "rank": 9986,
       "id": "75f1e67792b57c38",
       "name": "Alice",
       "secondary": "People In The Box",
@@ -1424,7 +1653,7 @@
       "detailPath": "entities/songs/75f1e67792b57c38.json"
     },
     {
-      "rank": 9982,
+      "rank": 9987,
       "id": "b34bedb7de63f1c4",
       "name": "Alice",
       "secondary": "",
@@ -1469,7 +1698,7 @@
       "detailPath": "entities/songs/b34bedb7de63f1c4.json"
     },
     {
-      "rank": 9983,
+      "rank": 9988,
       "id": "d6bf64eb51a6e352",
       "name": "Alice",
       "secondary": "古川本舗（古川P）",
@@ -1517,7 +1746,7 @@
       "detailPath": "entities/songs/d6bf64eb51a6e352.json"
     },
     {
-      "rank": 9984,
+      "rank": 9989,
       "id": "3477e83618755276",
       "name": "Alice (English ver.)",
       "secondary": "古川本舗 feat. 初音ミク",
@@ -1562,7 +1791,7 @@
       "detailPath": "entities/songs/3477e83618755276.json"
     },
     {
-      "rank": 9985,
+      "rank": 9990,
       "id": "6e3d77a52ec28e42",
       "name": "Alice in N.Y",
       "secondary": "ひとしずくP・やま△",
@@ -1607,7 +1836,7 @@
       "detailPath": "entities/songs/6e3d77a52ec28e42.json"
     },
     {
-      "rank": 9986,
+      "rank": 9991,
       "id": "ace26c472e947fa4",
       "name": "Aliens",
       "secondary": "KIRINJI",
@@ -1652,7 +1881,7 @@
       "detailPath": "entities/songs/ace26c472e947fa4.json"
     },
     {
-      "rank": 9987,
+      "rank": 9992,
       "id": "acea19341451c03c",
       "name": "Alive A life",
       "secondary": "松本梨香（仮面ライダー龍騎）",
@@ -1700,7 +1929,7 @@
       "detailPath": "entities/songs/acea19341451c03c.json"
     },
     {
-      "rank": 9988,
+      "rank": 9993,
       "id": "104c0be6713b3dc9",
       "name": "Alive A life",
       "secondary": "松本梨香 ／ 仮面ライダー龍騎(2002年)",
@@ -1745,7 +1974,7 @@
       "detailPath": "entities/songs/104c0be6713b3dc9.json"
     },
     {
-      "rank": 9989,
+      "rank": 9994,
       "id": "c9182d898fe8fdee",
       "name": "All Alone With You",
       "secondary": "EGOIST ※JOYSOUND",
@@ -1790,7 +2019,7 @@
       "detailPath": "entities/songs/c9182d898fe8fdee.json"
     },
     {
-      "rank": 9990,
+      "rank": 9995,
       "id": "92a242882fb2af5c",
       "name": "All That Jazz",
       "secondary": "Chicago The Musical",
@@ -1838,7 +2067,7 @@
       "detailPath": "entities/songs/92a242882fb2af5c.json"
     },
     {
-      "rank": 9991,
+      "rank": 9996,
       "id": "33c5e313dfe105ee",
       "name": "All the Things She Said",
       "secondary": "t.A.T.u",
@@ -1886,7 +2115,7 @@
       "detailPath": "entities/songs/33c5e313dfe105ee.json"
     },
     {
-      "rank": 9992,
+      "rank": 9997,
       "id": "5308a1e836b438dc",
       "name": "all the way",
       "secondary": "下川みくに",
@@ -1931,7 +2160,7 @@
       "detailPath": "entities/songs/5308a1e836b438dc.json"
     },
     {
-      "rank": 9993,
+      "rank": 9998,
       "id": "c604928c88ebc6bd",
       "name": "ALONE",
       "secondary": "B'z",
@@ -1976,7 +2205,7 @@
       "detailPath": "entities/songs/c604928c88ebc6bd.json"
     },
     {
-      "rank": 9994,
+      "rank": 9999,
       "id": "50b8fc0bff65d3e3",
       "name": "Alright",
       "secondary": "Superfly",
@@ -2021,7 +2250,7 @@
       "detailPath": "entities/songs/50b8fc0bff65d3e3.json"
     },
     {
-      "rank": 9995,
+      "rank": 10000,
       "id": "599416e0d331cc8c",
       "name": "Always",
       "secondary": "西野カナ",
@@ -2065,236 +2294,6 @@
         }
       ],
       "detailPath": "entities/songs/599416e0d331cc8c.json"
-    },
-    {
-      "rank": 9996,
-      "id": "7ac4be4d19117daa",
-      "name": "Always With Me",
-      "secondary": "Yumi Kimura",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "pE_B6pva-Wo",
-          "videoTitle": "【 #弾き語り 】初見さん15名様に出会いたい！深夜の弾き語り【 #323みすみ 】#Vtuber",
-          "channelName": "323(みすみ) -Misumi-",
-          "publishedAt": "2026-09-29T21:19:11.605Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pE_B6pva-Wo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlwsEFToYBL7kZIjppEnVDryiLng",
-          "sourcePath": "sources/pE/pE_B6pva-Wo.json",
-          "time": "3:05:50",
-          "seconds": 11150,
-          "songTitle": "Always with me",
-          "artist": "Yumi Kimura"
-        },
-        {
-          "videoId": "MhE8OxH3Umo",
-          "videoTitle": "【 #歌枠￤#karaoke 】チャンネル登録12000人ありがとうございます！1時間だけ歌います！初見さんROMさん、常連さん！かもん！【#新人Vtuber】",
-          "channelName": "狼谷はるか / Kamiya Haruka ch.",
-          "publishedAt": "2026-09-08T12:39:03.883Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MhE8OxH3Umo/hqdefault.jpg",
-          "sourcePath": "sources/Mh/MhE8OxH3Umo.json",
-          "time": "0:56:32",
-          "seconds": 3392,
-          "songTitle": "Always With Me",
-          "artist": "Yumi Kimura"
-        }
-      ],
-      "detailPath": "entities/songs/7ac4be4d19117daa.json"
-    },
-    {
-      "rank": 9997,
-      "id": "67ba055607e6c8cd",
-      "name": "AM",
-      "secondary": "しゃろう 様",
-      "channelId": "UCluT2xq_wmlq457bF_E2NrA",
-      "channelHandle": "@UtaneToru",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "T78fOBiTMtk",
-          "videoTitle": "【#歌枠】 シルバーウィーク終盤！！僕の歌枠で盛り上がっていこ！！！💦 【 #歌音トオル 】 #縦型",
-          "channelName": "歌音トオル-Utane Toru-",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/T78fOBiTMtk/hqdefault.jpg",
-          "sourcePath": "sources/T7/T78fOBiTMtk.json",
-          "time": "0:02:23",
-          "seconds": 143,
-          "songTitle": "AM",
-          "artist": "しゃろう 様"
-        },
-        {
-          "videoId": "hNyezrodyF8",
-          "videoTitle": "【#歌枠】 初見さん歓迎！夏を感じられる歌枠はいかがですか！？ 【 #歌音トオル】",
-          "channelName": "歌音トオル-Utane Toru-",
-          "publishedAt": "2026-08-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/hNyezrodyF8/hqdefault.jpg",
-          "sourcePath": "sources/hN/hNyezrodyF8.json",
-          "time": "0:02:23",
-          "seconds": 143,
-          "songTitle": "AM",
-          "artist": "しゃろう 様"
-        }
-      ],
-      "detailPath": "entities/songs/67ba055607e6c8cd.json"
-    },
-    {
-      "rank": 9998,
-      "id": "2414ee7f45534b0a",
-      "name": "Ama no Jaku",
-      "secondary": "164 feat. GUMI",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "EyMzFkoZnAU",
-          "videoTitle": "【 #弾き語り】ライブで出会ったきみへ。夜の癒し歌枠 初見さん大歓迎【 #323みすみ 】#Vtuber",
-          "channelName": "323(みすみ) -Misumi-",
-          "publishedAt": "2026-09-27T19:03:05.009Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EyMzFkoZnAU/hqdefault.jpg",
-          "sourcePath": "sources/Ey/EyMzFkoZnAU.json",
-          "time": "2:35:21",
-          "seconds": 9321,
-          "songTitle": "Amanojaku",
-          "artist": "164 feat.GUMI"
-        },
-        {
-          "videoId": "cy8txFFKvUc",
-          "videoTitle": "【歌枠】ガチでヤバい！オリ曲1万再生チャレンジ最終日、最後まで見届ける【ホロビ・マッドナイト・オイル】",
-          "channelName": "ホロビ・マッドナイト・オイル / Horobi Ch【堕落学院】",
-          "publishedAt": "2026-07-10T16:13:39.035Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cy8txFFKvUc/hqdefault.jpg",
-          "sourcePath": "sources/cy/cy8txFFKvUc.json",
-          "time": "3:05:30",
-          "seconds": 11130,
-          "songTitle": "Ama no Jaku",
-          "artist": "164 feat. GUMI"
-        }
-      ],
-      "detailPath": "entities/songs/2414ee7f45534b0a.json"
-    },
-    {
-      "rank": 9999,
-      "id": "f5f7341fbf88c216",
-      "name": "Amazing Grace",
-      "secondary": "IL DIVO",
-      "channelId": "UC3xQCiEPSkco54WhuiDcngw",
-      "channelHandle": "@YOSHIKA-Ch",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "FGHzcF8R1-U",
-          "videoTitle": "【#歌枠 】初見さん歓迎中！チャンプありがとう！ #shorts #vtuber #vsinger",
-          "channelName": "YOSHIKA⁂Ch.",
-          "publishedAt": "2026-08-31T17:33:06.903Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FGHzcF8R1-U/hqdefault.jpg",
-          "sourcePath": "sources/FG/FGHzcF8R1-U.json",
-          "time": "1:25:09",
-          "seconds": 5109,
-          "songTitle": "Amazing Grace",
-          "artist": "IL DIVO"
-        },
-        {
-          "videoId": "jss7rd19rzk",
-          "videoTitle": "【#歌枠 】初見さん歓迎中！毎日暑すぎる！ #shorts #vtuber #vsinger",
-          "channelName": "YOSHIKA⁂Ch.",
-          "publishedAt": "2026-07-29T17:10:58.886Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jss7rd19rzk/hqdefault.jpg",
-          "sourcePath": "sources/js/jss7rd19rzk.json",
-          "time": "1:43:16",
-          "seconds": 6196,
-          "songTitle": "Amazing Grace",
-          "artist": "IL DIVO"
-        }
-      ],
-      "detailPath": "entities/songs/f5f7341fbf88c216.json"
-    },
-    {
-      "rank": 10000,
-      "id": "95ea13e045deacd0",
-      "name": "ambivalent world",
-      "secondary": "沢城みゆき",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "BVFXpH4CcPo",
-          "videoTitle": "【 #歌枠 / #KARAOKE 】アニソンで気分上々↑↑ #56【 #久遠たま 】",
-          "channelName": "QuonTama Ch. 久遠たま",
-          "publishedAt": "2026-09-20T13:53:54.430Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BVFXpH4CcPo/hqdefault.jpg",
-          "sourcePath": "sources/BV/BVFXpH4CcPo.json",
-          "time": "1:02:21",
-          "seconds": 3741,
-          "songTitle": "ambivalent world",
-          "artist": "沢城みゆき"
-        },
-        {
-          "videoId": "UFx2RyP1-bw",
-          "videoTitle": "【弾き語り】化物語ひきがたりわく【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-          "channelName": "宮永ののか -Miyanaga Nonoka- / 夢限大みゅーたいぷ",
-          "publishedAt": "2026-08-25T16:06:17.564Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UFx2RyP1-bw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbvhi7r3EbeGbJ0EmnoVV-__Nl_Q",
-          "sourcePath": "sources/UF/UFx2RyP1-bw.json",
-          "time": "0:51:11",
-          "seconds": 3071,
-          "songTitle": "ambivalent world",
-          "artist": "沢城みゆき"
-        }
-      ],
-      "detailPath": "entities/songs/95ea13e045deacd0.json"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "songs",
   "page": 138,
@@ -11,6 +11,51 @@
   "items": [
     {
       "rank": 6851,
+      "id": "b15fac262c04eb23",
+      "name": "傷跡",
+      "secondary": "Kalafina",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "DJCqn8MBcgU",
+          "videoTitle": "【歌枠▸日曜定期】ひきこもり天使の君を寝かせない天界放送📯〖CYBILL〗#vsinger",
+          "channelName": "CYBILL",
+          "publishedAt": "2026-10-04T18:22:07.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DJCqn8MBcgU/hqdefault.jpg",
+          "sourcePath": "sources/DJ/DJCqn8MBcgU.json",
+          "time": "2:18:04",
+          "seconds": 8284,
+          "songTitle": "傷跡",
+          "artist": "Kalafina"
+        },
+        {
+          "videoId": "XnzL3O13olc",
+          "videoTitle": "【歌枠▸日曜定期】ひきこもり天使の君を寝かせない天界放送📯〖CYBILL〗",
+          "channelName": "CYBILL",
+          "publishedAt": "2026-09-13T18:06:34.776Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XnzL3O13olc/hqdefault.jpg",
+          "sourcePath": "sources/Xn/XnzL3O13olc.json",
+          "time": "1:25:26",
+          "seconds": 5126,
+          "songTitle": "傷跡",
+          "artist": "Kalafina"
+        }
+      ],
+      "detailPath": "entities/songs/b15fac262c04eb23.json"
+    },
+    {
+      "rank": 6852,
       "id": "cf2efdb5a93949ae",
       "name": "小さなてのひら",
       "secondary": "riya ／ CLANNAD(2005年)",
@@ -52,7 +97,7 @@
       "detailPath": "entities/songs/cf2efdb5a93949ae.json"
     },
     {
-      "rank": 6852,
+      "rank": 6853,
       "id": "f236669d77c9a4f3",
       "name": "小さな祈り",
       "secondary": "岡崎律子",
@@ -98,7 +143,7 @@
       "detailPath": "entities/songs/f236669d77c9a4f3.json"
     },
     {
-      "rank": 6853,
+      "rank": 6854,
       "id": "db9de0e14325c629",
       "name": "小さな恋の歌",
       "secondary": "MONGOL800",
@@ -143,7 +188,7 @@
       "detailPath": "entities/songs/db9de0e14325c629.json"
     },
     {
-      "rank": 6854,
+      "rank": 6855,
       "id": "e082fbc9d00b072d",
       "name": "小説 夏と罰",
       "secondary": "上",
@@ -188,7 +233,7 @@
       "detailPath": "entities/songs/e082fbc9d00b072d.json"
     },
     {
-      "rank": 6855,
+      "rank": 6856,
       "id": "6a6db027bd5f9d79",
       "name": "小夜子-piano ver",
       "secondary": "みきとP feat. 初音ミク",
@@ -233,7 +278,7 @@
       "detailPath": "entities/songs/6a6db027bd5f9d79.json"
     },
     {
-      "rank": 6856,
+      "rank": 6857,
       "id": "182464bd47521eb1",
       "name": "小夜子〈Sayoko〉",
       "secondary": "みきとP",
@@ -275,7 +320,7 @@
       "detailPath": "entities/songs/182464bd47521eb1.json"
     },
     {
-      "rank": 6857,
+      "rank": 6858,
       "id": "e8501e1426b215a9",
       "name": "少女A",
       "secondary": "",
@@ -320,7 +365,7 @@
       "detailPath": "entities/songs/e8501e1426b215a9.json"
     },
     {
-      "rank": 6858,
+      "rank": 6859,
       "id": "e54e3c6bbc37b7f9",
       "name": "少女の祈り",
       "secondary": "Acid Black Cherry",
@@ -365,7 +410,7 @@
       "detailPath": "entities/songs/e54e3c6bbc37b7f9.json"
     },
     {
-      "rank": 6859,
+      "rank": 6860,
       "id": "60adacb2dda71361",
       "name": "少女レイ",
       "secondary": "みきとP fast.初音ミク",
@@ -410,7 +455,7 @@
       "detailPath": "entities/songs/60adacb2dda71361.json"
     },
     {
-      "rank": 6860,
+      "rank": 6861,
       "id": "1ab683d23532d101",
       "name": "少女レイ - みきとP",
       "secondary": "自作",
@@ -455,7 +500,7 @@
       "detailPath": "entities/songs/1ab683d23532d101.json"
     },
     {
-      "rank": 6861,
+      "rank": 6862,
       "id": "783cfa262cbcc9cf",
       "name": "少年ハート",
       "secondary": "HOME MADE 家族",
@@ -500,7 +545,7 @@
       "detailPath": "entities/songs/783cfa262cbcc9cf.json"
     },
     {
-      "rank": 6862,
+      "rank": 6863,
       "id": "f73333ef7891409c",
       "name": "少年銀河",
       "secondary": "トラボルタP",
@@ -545,7 +590,7 @@
       "detailPath": "entities/songs/f73333ef7891409c.json"
     },
     {
-      "rank": 6863,
+      "rank": 6864,
       "id": "65eac2b5ad2eb242",
       "name": "掌",
       "secondary": "Mr.Children",
@@ -590,7 +635,7 @@
       "detailPath": "entities/songs/65eac2b5ad2eb242.json"
     },
     {
-      "rank": 6864,
+      "rank": 6865,
       "id": "41c930b73f3697f6",
       "name": "昭和は遠くなりにけり",
       "secondary": "",
@@ -632,7 +677,7 @@
       "detailPath": "entities/songs/41c930b73f3697f6.json"
     },
     {
-      "rank": 6865,
+      "rank": 6866,
       "id": "ce1fd0ac3110ee7c",
       "name": "沼れ！マイラバー",
       "secondary": "いぎなり東北産",
@@ -677,7 +722,7 @@
       "detailPath": "entities/songs/ce1fd0ac3110ee7c.json"
     },
     {
-      "rank": 6866,
+      "rank": 6867,
       "id": "f9fffddd92bcdf54",
       "name": "硝子ドール ～ユリカソロ Ver.～",
       "secondary": "もえ from STAR☆ANIS",
@@ -722,7 +767,7 @@
       "detailPath": "entities/songs/f9fffddd92bcdf54.json"
     },
     {
-      "rank": 6867,
+      "rank": 6868,
       "id": "90e6ef330841690c",
       "name": "笑って",
       "secondary": "宮崎奈穂子(ｵﾘｼﾞﾅﾙ)",
@@ -767,7 +812,7 @@
       "detailPath": "entities/songs/90e6ef330841690c.json"
     },
     {
-      "rank": 6868,
+      "rank": 6869,
       "id": "43e77780846fde9e",
       "name": "笑ってたいんだ",
       "secondary": "いきものがかり",
@@ -812,7 +857,7 @@
       "detailPath": "entities/songs/43e77780846fde9e.json"
     },
     {
-      "rank": 6869,
+      "rank": 6870,
       "id": "2568cf9aea217e24",
       "name": "衝動",
       "secondary": "B'z",
@@ -857,7 +902,7 @@
       "detailPath": "entities/songs/2568cf9aea217e24.json"
     },
     {
-      "rank": 6870,
+      "rank": 6871,
       "id": "efbe37c17d3f278d",
       "name": "上弦の月",
       "secondary": "黒うさP",
@@ -903,7 +948,7 @@
       "detailPath": "entities/songs/efbe37c17d3f278d.json"
     },
     {
-      "rank": 6871,
+      "rank": 6872,
       "id": "6ac2ae07f3bb89c6",
       "name": "上弦の月",
       "secondary": "黒うさP feat. KAITO",
@@ -948,7 +993,7 @@
       "detailPath": "entities/songs/6ac2ae07f3bb89c6.json"
     },
     {
-      "rank": 6872,
+      "rank": 6873,
       "id": "e5c4bba8d2b69e4e",
       "name": "常世の気まぐれ",
       "secondary": "電ポルP",
@@ -993,7 +1038,7 @@
       "detailPath": "entities/songs/e5c4bba8d2b69e4e.json"
     },
     {
-      "rank": 6873,
+      "rank": 6874,
       "id": "e29809ad245160ae",
       "name": "常夜燈",
       "secondary": "PEOPLE1",
@@ -1038,7 +1083,7 @@
       "detailPath": "entities/songs/e29809ad245160ae.json"
     },
     {
-      "rank": 6874,
+      "rank": 6875,
       "id": "d481947ba50bd616",
       "name": "情歌",
       "secondary": "梁靜茹",
@@ -1083,7 +1128,7 @@
       "detailPath": "entities/songs/d481947ba50bd616.json"
     },
     {
-      "rank": 6875,
+      "rank": 6876,
       "id": "5f17ca68415f99af",
       "name": "錠剤",
       "secondary": "",
@@ -1128,7 +1173,7 @@
       "detailPath": "entities/songs/5f17ca68415f99af.json"
     },
     {
-      "rank": 6876,
+      "rank": 6877,
       "id": "4a6c229c4a562460",
       "name": "飾りじゃないのよ涙は",
       "secondary": "Ado",
@@ -1173,7 +1218,7 @@
       "detailPath": "entities/songs/4a6c229c4a562460.json"
     },
     {
-      "rank": 6877,
+      "rank": 6878,
       "id": "40c7dad0a9f16932",
       "name": "食中植物",
       "secondary": "理芽",
@@ -1218,7 +1263,7 @@
       "detailPath": "entities/songs/40c7dad0a9f16932.json"
     },
     {
-      "rank": 6878,
+      "rank": 6879,
       "id": "2e37d2800856b19b",
       "name": "食虫植物",
       "secondary": "",
@@ -1263,7 +1308,7 @@
       "detailPath": "entities/songs/2e37d2800856b19b.json"
     },
     {
-      "rank": 6879,
+      "rank": 6880,
       "id": "1f4123dbbbfa81af",
       "name": "審美眼",
       "secondary": "和ぬか",
@@ -1308,7 +1353,7 @@
       "detailPath": "entities/songs/1f4123dbbbfa81af.json"
     },
     {
-      "rank": 6880,
+      "rank": 6881,
       "id": "7102bba26c97fc1c",
       "name": "心とかいう名前の未発見の臓器の機能についての考察",
       "secondary": "adstlaxy",
@@ -1353,7 +1398,7 @@
       "detailPath": "entities/songs/7102bba26c97fc1c.json"
     },
     {
-      "rank": 6881,
+      "rank": 6882,
       "id": "f212c0e4369eb570",
       "name": "心のそばに",
       "secondary": "Belle",
@@ -1398,7 +1443,7 @@
       "detailPath": "entities/songs/f212c0e4369eb570.json"
     },
     {
-      "rank": 6882,
+      "rank": 6883,
       "id": "06c34a70f99120ab",
       "name": "心壊サミット",
       "secondary": "DECO*27",
@@ -1443,7 +1488,7 @@
       "detailPath": "entities/songs/06c34a70f99120ab.json"
     },
     {
-      "rank": 6883,
+      "rank": 6884,
       "id": "1dfe21ddd233f054",
       "name": "心絵",
       "secondary": "ROAD OF MAJOR",
@@ -1488,7 +1533,7 @@
       "detailPath": "entities/songs/1dfe21ddd233f054.json"
     },
     {
-      "rank": 6884,
+      "rank": 6885,
       "id": "a0e7069689b8bc58",
       "name": "心象カスケード",
       "secondary": "電ポルP ※",
@@ -1533,7 +1578,7 @@
       "detailPath": "entities/songs/a0e7069689b8bc58.json"
     },
     {
-      "rank": 6885,
+      "rank": 6886,
       "id": "cbab796b9bf533a8",
       "name": "心臓デモクラシー",
       "secondary": "",
@@ -1578,7 +1623,7 @@
       "detailPath": "entities/songs/cbab796b9bf533a8.json"
     },
     {
-      "rank": 6886,
+      "rank": 6887,
       "id": "bdad7e64b459c27c",
       "name": "心臓を捧げよ！",
       "secondary": "Linked Horizon",
@@ -1623,7 +1668,7 @@
       "detailPath": "entities/songs/bdad7e64b459c27c.json"
     },
     {
-      "rank": 6887,
+      "rank": 6888,
       "id": "03809dbd2dfe2d10",
       "name": "心拍数#0822 ~Piano~",
       "secondary": "蝶々P",
@@ -1665,7 +1710,7 @@
       "detailPath": "entities/songs/03809dbd2dfe2d10.json"
     },
     {
-      "rank": 6888,
+      "rank": 6889,
       "id": "9d57bf418c48a02a",
       "name": "心拍数♯0822",
       "secondary": "",
@@ -1710,7 +1755,7 @@
       "detailPath": "entities/songs/9d57bf418c48a02a.json"
     },
     {
-      "rank": 6889,
+      "rank": 6890,
       "id": "9ff56e83476faf9c",
       "name": "心亂如麻",
       "secondary": "衛蘭",
@@ -1755,7 +1800,7 @@
       "detailPath": "entities/songs/9ff56e83476faf9c.json"
     },
     {
-      "rank": 6890,
+      "rank": 6891,
       "id": "f00b8150299c740b",
       "name": "心做し",
       "secondary": "蝶々P feat.GUMI ※JOYSOUND",
@@ -1800,7 +1845,7 @@
       "detailPath": "entities/songs/f00b8150299c740b.json"
     },
     {
-      "rank": 6891,
+      "rank": 6892,
       "id": "4a722a1e028d4d66",
       "name": "心做し",
       "secondary": "Sou",
@@ -1845,7 +1890,7 @@
       "detailPath": "entities/songs/4a722a1e028d4d66.json"
     },
     {
-      "rank": 6892,
+      "rank": 6893,
       "id": "2397a1096b4a014b",
       "name": "心做し",
       "secondary": "蝶々P(-8)",
@@ -1890,7 +1935,7 @@
       "detailPath": "entities/songs/2397a1096b4a014b.json"
     },
     {
-      "rank": 6893,
+      "rank": 6894,
       "id": "960b3cb78f1f64ff",
       "name": "心做し",
       "secondary": "ピアノ伴奏Ver.",
@@ -1935,7 +1980,7 @@
       "detailPath": "entities/songs/960b3cb78f1f64ff.json"
     },
     {
-      "rank": 6894,
+      "rank": 6895,
       "id": "74807f149bf2f894",
       "name": "深い森",
       "secondary": "",
@@ -1980,7 +2025,7 @@
       "detailPath": "entities/songs/74807f149bf2f894.json"
     },
     {
-      "rank": 6895,
+      "rank": 6896,
       "id": "262a019006ebee02",
       "name": "深い森",
       "secondary": "犬夜叉",
@@ -2025,7 +2070,7 @@
       "detailPath": "entities/songs/262a019006ebee02.json"
     },
     {
-      "rank": 6896,
+      "rank": 6897,
       "id": "503ae2664108c24e",
       "name": "深く潜れ",
       "secondary": "藍坊主",
@@ -2071,7 +2116,7 @@
       "detailPath": "entities/songs/503ae2664108c24e.json"
     },
     {
-      "rank": 6897,
+      "rank": 6898,
       "id": "438ba834366bfdc5",
       "name": "深愛",
       "secondary": "水樹奈々 「WHITE ALBUM」",
@@ -2116,7 +2161,7 @@
       "detailPath": "entities/songs/438ba834366bfdc5.json"
     },
     {
-      "rank": 6898,
+      "rank": 6899,
       "id": "2417d81a4b5fb8a1",
       "name": "深海のリトルクライ",
       "secondary": "sasakure.UK ※JOYSOUND",
@@ -2161,7 +2206,7 @@
       "detailPath": "entities/songs/2417d81a4b5fb8a1.json"
     },
     {
-      "rank": 6899,
+      "rank": 6900,
       "id": "931aed157a9ad2df",
       "name": "深海のリトルクライ",
       "secondary": "",
@@ -2201,48 +2246,6 @@
         }
       ],
       "detailPath": "entities/songs/931aed157a9ad2df.json"
-    },
-    {
-      "rank": 6900,
-      "id": "5b9c1f2ee7d3db72",
-      "name": "深海少女－deep sea girl－",
-      "secondary": "ゆうゆ ／ 初音ミク(2010年)",
-      "channelId": "UCCtRWnIUz1LRp-TI5gaw6gw",
-      "channelHandle": "@maria_amunea",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "VmEEC_JnzPQ",
-          "videoTitle": "【歌枠 / コラボ配信】 AQUA-PHEERE(アクアフィア)の歌声をみんなに届けるぞぉおお！",
-          "channelName": "マリア・アムネア.CH👼",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VmEEC_JnzPQ/hqdefault.jpg",
-          "sourcePath": "sources/Vm/VmEEC_JnzPQ.json",
-          "time": "1:43:20",
-          "seconds": 6200,
-          "songTitle": "深海少女－deep sea girl－",
-          "artist": "ゆうゆ ／ 初音ミク(2010年)"
-        },
-        {
-          "videoId": "KFXmYsw3IxA",
-          "videoTitle": "【歌枠/#歌枠配信】一曲だけでもきいてって！ きてくれた人数分くらいｳﾀｲﾀｲ！頭痛やだ！！ 【初見さん歓迎/karaokestream /Vtuber /#karaoke 】",
-          "channelName": "マリア・アムネア.CH👼",
-          "publishedAt": "2026-09-20T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KFXmYsw3IxA/hqdefault.jpg",
-          "sourcePath": "sources/KF/KFXmYsw3IxA.json",
-          "time": "8:16:53",
-          "seconds": 29813,
-          "songTitle": "深海少女－deep sea girl－",
-          "artist": "ゆうゆ ／ 初音ミク(2010年)"
-        }
-      ],
-      "detailPath": "entities/songs/5b9c1f2ee7d3db72.json"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "items": [
     {
       "id": "540e0c073fd08e36",
@@ -2246,8 +2246,8 @@
       "type": "songs",
       "name": "sleep",
       "secondary": "シド",
-      "occurrenceCount": 5,
-      "videoCount": 5,
+      "occurrenceCount": 6,
+      "videoCount": 6,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2260,8 +2260,8 @@
       "detailPath": "entities/songs/51f6049ccb3b813f.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "sleepシド"
@@ -16491,8 +16491,8 @@
       "type": "songs",
       "name": "繰り返し一粒",
       "secondary": "猫虫",
-      "occurrenceCount": 10,
-      "videoCount": 9,
+      "occurrenceCount": 11,
+      "videoCount": 10,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -16505,8 +16505,8 @@
       "detailPath": "entities/songs/567926c7f696fa4f.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "繰り返し一粒猫虫"
@@ -40643,8 +40643,8 @@
       "type": "songs",
       "name": "太陽の楽園～Promised Land～",
       "secondary": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
+      "occurrenceCount": 3,
+      "videoCount": 3,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -40654,8 +40654,8 @@
       "detailPath": "entities/songs/5299c60e96d4e122.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "太陽の楽園promisedland"
@@ -46606,12 +46606,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/556a51d1f6e251a0.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "thefourthavenuecafélarcenciel"
     },
     {
@@ -73732,8 +73727,8 @@
       "type": "artists",
       "name": "キタニタツヤ",
       "secondary": "",
-      "occurrenceCount": 644,
-      "videoCount": 531,
+      "occurrenceCount": 645,
+      "videoCount": 532,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -73759,8 +73754,8 @@
           "videoCount": 12
         },
         "30d": {
-          "occurrenceCount": 237,
-          "videoCount": 189
+          "occurrenceCount": 238,
+          "videoCount": 190
         }
       },
       "text": "キタニタツヤ"
@@ -74031,8 +74026,8 @@
       "type": "artists",
       "name": "≠ME",
       "secondary": "",
-      "occurrenceCount": 121,
-      "videoCount": 101,
+      "occurrenceCount": 123,
+      "videoCount": 102,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -74049,8 +74044,8 @@
           "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 48,
-          "videoCount": 37
+          "occurrenceCount": 50,
+          "videoCount": 38
         }
       },
       "text": "me"
@@ -78794,8 +78789,8 @@
       "type": "artists",
       "name": "上白石萌音",
       "secondary": "",
-      "occurrenceCount": 26,
-      "videoCount": 25,
+      "occurrenceCount": 27,
+      "videoCount": 26,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78813,8 +78808,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 16,
-          "videoCount": 15
+          "occurrenceCount": 17,
+          "videoCount": 16
         }
       },
       "text": "上白石萌音"
@@ -107018,16 +107013,19 @@
       "type": "vtubers",
       "name": "御祈れ〜汰 Oinori Reta",
       "secondary": "",
-      "occurrenceCount": 32,
-      "videoCount": 2,
-      "keywords": [],
+      "occurrenceCount": 40,
+      "videoCount": 3,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/vtubers/55cd530343fc87fb.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 32,
-          "videoCount": 2
+          "occurrenceCount": 40,
+          "videoCount": 3
         }
       },
       "text": "御祈れ汰oinorireta"

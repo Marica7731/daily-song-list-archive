@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "songs",
   "page": 6,
@@ -1280,6 +1280,64 @@
     },
     {
       "rank": 273,
+      "id": "728b152544363585",
+      "name": "パレード",
+      "secondary": "ヨルシカ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 33,
+      "videoCount": 33,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "akFxuv_Ysig",
+          "videoTitle": "【#歌枠/#雑談】新マイクでゆるめな歌雑談【#新人vtuber】",
+          "channelName": "雪ノ寧依 -Yukino Nei-",
+          "publishedAt": "2026-10-04T15:11:36.238Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/akFxuv_Ysig/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqO_TDlnmbDCBIOG5NoLbPE-hxfg",
+          "sourcePath": "sources/ak/akFxuv_Ysig.json",
+          "time": "1:43:18",
+          "seconds": 6198,
+          "songTitle": "パレード",
+          "artist": "ヨルシカ"
+        },
+        {
+          "videoId": "mh5qQWQZ30g",
+          "videoTitle": "【作業BGM】ヨルシカ中心に女性ボーカル曲歌う【KARAOKE / Vsinger】",
+          "channelName": "MusicStudio猫乃メメ",
+          "publishedAt": "2026-10-04T14:59:27.972Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mh5qQWQZ30g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBNQ40b8cpYEZvETxY-KrQ0b6ODVg",
+          "sourcePath": "sources/mh/mh5qQWQZ30g.json",
+          "time": "1:20:25",
+          "seconds": 4825,
+          "songTitle": "パレード",
+          "artist": "ヨルシカ"
+        },
+        {
+          "videoId": "NYbtkwu48no",
+          "videoTitle": "【歌枠】ちょっと寄っていきませんか？涼しくなってきたしのんびり！BGMにいかがですか？♡【憩居ももあ/Vtuber】",
+          "channelName": "ikoi momoaCh.憩居ももあ",
+          "publishedAt": "2026-10-04T08:46:32.244Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NYbtkwu48no/hqdefault.jpg",
+          "sourcePath": "sources/NY/NYbtkwu48no.json",
+          "time": "1:20:12",
+          "seconds": 4812,
+          "songTitle": "パレード",
+          "artist": "ヨルシカ"
+        }
+      ],
+      "detailPath": "entities/songs/728b152544363585.json"
+    },
+    {
+      "rank": 274,
       "id": "956a1bd4577352f5",
       "name": "ゆずれない願い",
       "secondary": "田村直美",
@@ -1336,7 +1394,7 @@
       "detailPath": "entities/songs/956a1bd4577352f5.json"
     },
     {
-      "rank": 274,
+      "rank": 275,
       "id": "dc501ddf871fc328",
       "name": "茜さす",
       "secondary": "Aimer",
@@ -1394,7 +1452,7 @@
       "detailPath": "entities/songs/dc501ddf871fc328.json"
     },
     {
-      "rank": 275,
+      "rank": 276,
       "id": "856d2749190f0aec",
       "name": "一度だけの恋なら",
       "secondary": "ワルキューレ",
@@ -1451,7 +1509,7 @@
       "detailPath": "entities/songs/856d2749190f0aec.json"
     },
     {
-      "rank": 276,
+      "rank": 277,
       "id": "94a800a4db9cee1b",
       "name": "少年時代",
       "secondary": "井上陽水",
@@ -1509,7 +1567,7 @@
       "detailPath": "entities/songs/94a800a4db9cee1b.json"
     },
     {
-      "rank": 277,
+      "rank": 278,
       "id": "2d1ca8b9ac4cca4e",
       "name": "曇天",
       "secondary": "DOES",
@@ -1566,7 +1624,7 @@
       "detailPath": "entities/songs/2d1ca8b9ac4cca4e.json"
     },
     {
-      "rank": 278,
+      "rank": 279,
       "id": "94bb98209144eba0",
       "name": "10月無口な君を忘れる",
       "secondary": "あたらよ",
@@ -1624,7 +1682,7 @@
       "detailPath": "entities/songs/94bb98209144eba0.json"
     },
     {
-      "rank": 279,
+      "rank": 280,
       "id": "d4cd55d5940162cc",
       "name": "All Alone With You",
       "secondary": "EGOIST",
@@ -1681,7 +1739,7 @@
       "detailPath": "entities/songs/d4cd55d5940162cc.json"
     },
     {
-      "rank": 280,
+      "rank": 281,
       "id": "4aef2c43feb46b99",
       "name": "DAN DAN 心魅かれてく",
       "secondary": "FIELD OF VIEW",
@@ -1738,7 +1796,7 @@
       "detailPath": "entities/songs/4aef2c43feb46b99.json"
     },
     {
-      "rank": 281,
+      "rank": 282,
       "id": "b0d0127a577862d0",
       "name": "いかないで",
       "secondary": "想太",
@@ -1795,7 +1853,7 @@
       "detailPath": "entities/songs/b0d0127a577862d0.json"
     },
     {
-      "rank": 282,
+      "rank": 283,
       "id": "1beaee386b504fff",
       "name": "いつも何度でも",
       "secondary": "木村弓",
@@ -1851,64 +1909,6 @@
         }
       ],
       "detailPath": "entities/songs/1beaee386b504fff.json"
-    },
-    {
-      "rank": 283,
-      "id": "728b152544363585",
-      "name": "パレード",
-      "secondary": "ヨルシカ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 32,
-      "videoCount": 32,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mh5qQWQZ30g",
-          "videoTitle": "【作業BGM】ヨルシカ中心に女性ボーカル曲歌う【KARAOKE / Vsinger】",
-          "channelName": "MusicStudio猫乃メメ",
-          "publishedAt": "2026-10-04T14:59:27.972Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mh5qQWQZ30g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBNQ40b8cpYEZvETxY-KrQ0b6ODVg",
-          "sourcePath": "sources/mh/mh5qQWQZ30g.json",
-          "time": "1:20:25",
-          "seconds": 4825,
-          "songTitle": "パレード",
-          "artist": "ヨルシカ"
-        },
-        {
-          "videoId": "NYbtkwu48no",
-          "videoTitle": "【歌枠】ちょっと寄っていきませんか？涼しくなってきたしのんびり！BGMにいかがですか？♡【憩居ももあ/Vtuber】",
-          "channelName": "ikoi momoaCh.憩居ももあ",
-          "publishedAt": "2026-10-04T08:46:32.244Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/NYbtkwu48no/hqdefault.jpg",
-          "sourcePath": "sources/NY/NYbtkwu48no.json",
-          "time": "1:20:12",
-          "seconds": 4812,
-          "songTitle": "パレード",
-          "artist": "ヨルシカ"
-        },
-        {
-          "videoId": "tsE9MwN8lSI",
-          "videoTitle": "【歌枠】ワンマンライブありがとうございました！-ハニカムステーション！-208【HACHI 】",
-          "channelName": "HACHI",
-          "publishedAt": "2026-10-02T13:51:11.612Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tsE9MwN8lSI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB2UUWGzDgVlt2o6k8wD-fkZhL5fw",
-          "sourcePath": "sources/ts/tsE9MwN8lSI.json",
-          "time": "0:41:14",
-          "seconds": 2474,
-          "songTitle": "パレード",
-          "artist": "ヨルシカ"
-        }
-      ],
-      "detailPath": "entities/songs/728b152544363585.json"
     },
     {
       "rank": 284,
@@ -2315,6 +2315,63 @@
     },
     {
       "rank": 291,
+      "id": "095f367f78003f9e",
+      "name": "独りんぼエンヴィー",
+      "secondary": "電ポルP",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 32,
+      "videoCount": 32,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "oolrdDiQK5s",
+          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
+          "channelName": "赤石グラナ",
+          "publishedAt": "2026-10-10T01:51:53.498Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
+          "sourcePath": "sources/oo/oolrdDiQK5s.json",
+          "time": "1:13:16",
+          "seconds": 4396,
+          "songTitle": "独りんぼエンヴィー",
+          "artist": "電ポルP"
+        },
+        {
+          "videoId": "ce3xVbzu0BQ",
+          "videoTitle": "【 歌枠 / #karaoke 】まったり一曲いかがですか？🦉 │真夜中のメロウ便 28【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger #作業用BGM",
+          "channelName": "羽緒",
+          "publishedAt": "2026-10-06T16:43:42.999Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ce3xVbzu0BQ/hqdefault.jpg",
+          "sourcePath": "sources/ce/ce3xVbzu0BQ.json",
+          "time": "1:06:26",
+          "seconds": 3986,
+          "songTitle": "独りんぼエンヴィー",
+          "artist": "電ポルP"
+        },
+        {
+          "videoId": "VBU3OVhQRyw",
+          "videoTitle": "【 #歌枠 】 おいで！ 【 戌月れん/Vsinger 】#vtuber #karaoke",
+          "channelName": "Ren.ch戌月れん",
+          "publishedAt": "2026-10-04T19:22:07.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VBU3OVhQRyw/hqdefault.jpg",
+          "sourcePath": "sources/VB/VBU3OVhQRyw.json",
+          "time": "1:55:15",
+          "seconds": 6915,
+          "songTitle": "独りんぼエンヴィー",
+          "artist": "電ポルP"
+        }
+      ],
+      "detailPath": "entities/songs/095f367f78003f9e.json"
+    },
+    {
+      "rank": 292,
       "id": "da2977b94c0b64b6",
       "name": "最後の雨",
       "secondary": "中西保志",
@@ -2371,7 +2428,7 @@
       "detailPath": "entities/songs/da2977b94c0b64b6.json"
     },
     {
-      "rank": 292,
+      "rank": 293,
       "id": "c8271ee414cf00af",
       "name": "～ ロストワンの号哭",
       "secondary": "Neru",
@@ -2428,7 +2485,7 @@
       "detailPath": "entities/songs/c8271ee414cf00af.json"
     },
     {
-      "rank": 293,
+      "rank": 294,
       "id": "043b5387dcdbd65b",
       "name": "Hello,Again〜昔からある場所〜",
       "secondary": "MY LITTLE LOVER",
@@ -2486,7 +2543,7 @@
       "detailPath": "entities/songs/043b5387dcdbd65b.json"
     },
     {
-      "rank": 294,
+      "rank": 295,
       "id": "d4b4f2b2825078c3",
       "name": "pm",
       "secondary": "",
@@ -2540,7 +2597,7 @@
       "detailPath": "entities/songs/d4b4f2b2825078c3.json"
     },
     {
-      "rank": 295,
+      "rank": 296,
       "id": "077dc54332e180db",
       "name": "Sincerely",
       "secondary": "TRUE",
@@ -2598,7 +2655,7 @@
       "detailPath": "entities/songs/077dc54332e180db.json"
     },
     {
-      "rank": 296,
+      "rank": 297,
       "id": "fef4fd25997089cb",
       "name": "ドレミファロンド",
       "secondary": "40mP",
@@ -2655,7 +2712,7 @@
       "detailPath": "entities/songs/fef4fd25997089cb.json"
     },
     {
-      "rank": 297,
+      "rank": 298,
       "id": "e21224ec91980a1f",
       "name": "へび",
       "secondary": "ヨルシカ",
@@ -2713,7 +2770,7 @@
       "detailPath": "entities/songs/e21224ec91980a1f.json"
     },
     {
-      "rank": 298,
+      "rank": 299,
       "id": "312873b3c675cd43",
       "name": "弱虫モンブラン",
       "secondary": "DECO*27",
@@ -2769,63 +2826,6 @@
         }
       ],
       "detailPath": "entities/songs/312873b3c675cd43.json"
-    },
-    {
-      "rank": 299,
-      "id": "095f367f78003f9e",
-      "name": "独りんぼエンヴィー",
-      "secondary": "電ポルP",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 31,
-      "videoCount": 31,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oolrdDiQK5s",
-          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-10-10T01:51:53.498Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
-          "sourcePath": "sources/oo/oolrdDiQK5s.json",
-          "time": "1:13:16",
-          "seconds": 4396,
-          "songTitle": "独りんぼエンヴィー",
-          "artist": "電ポルP"
-        },
-        {
-          "videoId": "ce3xVbzu0BQ",
-          "videoTitle": "【 歌枠 / #karaoke 】まったり一曲いかがですか？🦉 │真夜中のメロウ便 28【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger #作業用BGM",
-          "channelName": "羽緒",
-          "publishedAt": "2026-10-06T16:43:42.999Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ce3xVbzu0BQ/hqdefault.jpg",
-          "sourcePath": "sources/ce/ce3xVbzu0BQ.json",
-          "time": "1:06:26",
-          "seconds": 3986,
-          "songTitle": "独りんぼエンヴィー",
-          "artist": "電ポルP"
-        },
-        {
-          "videoId": "VBU3OVhQRyw",
-          "videoTitle": "【 #歌枠 】 おいで！ 【 戌月れん/Vsinger 】#vtuber #karaoke",
-          "channelName": "Ren.ch戌月れん",
-          "publishedAt": "2026-10-04T19:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VBU3OVhQRyw/hqdefault.jpg",
-          "sourcePath": "sources/VB/VBU3OVhQRyw.json",
-          "time": "1:55:15",
-          "seconds": 6915,
-          "songTitle": "独りんぼエンヴィー",
-          "artist": "電ポルP"
-        }
-      ],
-      "detailPath": "entities/songs/095f367f78003f9e.json"
     },
     {
       "rank": 300,

@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 965,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 48201,
+      "id": "c6c3ad5b863a80b9",
+      "name": "大人のひみつ",
+      "secondary": "GO!GO!7188",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "KAUb7tytZRE",
+          "videoTitle": "꒰ঌ #歌枠 ┆ 初見さん大歓迎！女性ボーカル縛り歌枠【 #江波キョウカ / パレプロ 】",
+          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
+          "publishedAt": "2026-09-22T09:30:37.501Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KAUb7tytZRE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADd1zjEOz8IOigeTYWlKjUUPu54w",
+          "sourcePath": "sources/KA/KAUb7tytZRE.json",
+          "time": "2:37:22",
+          "seconds": 9442,
+          "songTitle": "大人のひみつ",
+          "artist": "GO!GO!7188"
+        }
+      ],
+      "detailPath": "entities/songs/c6c3ad5b863a80b9.json"
+    },
+    {
+      "rank": 48202,
+      "id": "a4911438c7d08059",
+      "name": "大人のひみつ（GO!GO!7188）[一瞬",
+      "secondary": "未記載",
+      "channelId": "UCK1WG3mmyfwQTjInGguaV2w",
+      "channelHandle": "@amane_iro",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Fh-YPYTYmGE",
+          "videoTitle": "【定期歌枠/karaoke】挨拶50人待ってます🙌暑いですね...今週も人魚の歌聴いて乗り越えてえええ！ 初見さん歓迎✨",
+          "channelName": "天音 彩🫧Amane Iro",
+          "publishedAt": "2026-07-13T16:14:05.874Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fh-YPYTYmGE/hqdefault.jpg",
+          "sourcePath": "sources/Fh/Fh-YPYTYmGE.json",
+          "time": "2:51:02",
+          "seconds": 10262,
+          "songTitle": "大人のひみつ（GO!GO!7188）[一瞬",
+          "artist": "未記載"
+        }
+      ],
+      "detailPath": "entities/songs/a4911438c7d08059.json"
+    },
+    {
+      "rank": 48203,
       "id": "a16162583e39c962",
       "name": "大人の仮面",
       "secondary": "未記載",
@@ -42,7 +108,7 @@
       "detailPath": "entities/songs/a16162583e39c962.json"
     },
     {
-      "rank": 48202,
+      "rank": 48204,
       "id": "54c7c358e9103e95",
       "name": "大人数苦手",
       "secondary": "スト鯖今まで行かなかった理由",
@@ -76,7 +142,7 @@
       "detailPath": "entities/songs/54c7c358e9103e95.json"
     },
     {
-      "rank": 48203,
+      "rank": 48205,
       "id": "6e2e69e8067d1f93",
       "name": "大成功",
       "secondary": "オリジナル曲",
@@ -106,7 +172,7 @@
       "detailPath": "entities/songs/6e2e69e8067d1f93.json"
     },
     {
-      "rank": 48204,
+      "rank": 48206,
       "id": "0f93c6c9e9a6e64e",
       "name": "大正ロマンチック",
       "secondary": "40㍍P",
@@ -139,7 +205,7 @@
       "detailPath": "entities/songs/0f93c6c9e9a6e64e.json"
     },
     {
-      "rank": 48205,
+      "rank": 48207,
       "id": "82b4ba44aba2db78",
       "name": "大正書店物語",
       "secondary": "翡翠レン",
@@ -169,7 +235,7 @@
       "detailPath": "entities/songs/82b4ba44aba2db78.json"
     },
     {
-      "rank": 48206,
+      "rank": 48208,
       "id": "d0bd1f104147b39c",
       "name": "大正浪漫",
       "secondary": "",
@@ -202,7 +268,7 @@
       "detailPath": "entities/songs/d0bd1f104147b39c.json"
     },
     {
-      "rank": 48207,
+      "rank": 48209,
       "id": "fc228d2f0801fdf3",
       "name": "大正浪漫／YOASOBI／2021/09",
       "secondary": "15",
@@ -232,7 +298,7 @@
       "detailPath": "entities/songs/fc228d2f0801fdf3.json"
     },
     {
-      "rank": 48208,
+      "rank": 48210,
       "id": "c1cb2e40d13a7857",
       "name": "大声ダイヤモンド",
       "secondary": "未記載",
@@ -265,7 +331,7 @@
       "detailPath": "entities/songs/c1cb2e40d13a7857.json"
     },
     {
-      "rank": 48209,
+      "rank": 48211,
       "id": "5acad068d60e0f35",
       "name": "大声ダイヤモンド",
       "secondary": "AKB48 ※JOYSOUND",
@@ -298,7 +364,7 @@
       "detailPath": "entities/songs/5acad068d60e0f35.json"
     },
     {
-      "rank": 48210,
+      "rank": 48212,
       "id": "9de2cdc388b9fc53",
       "name": "大声ダイヤモンド",
       "secondary": "AKB48 ⇒ 演奏のみタイム",
@@ -331,7 +397,7 @@
       "detailPath": "entities/songs/9de2cdc388b9fc53.json"
     },
     {
-      "rank": 48211,
+      "rank": 48213,
       "id": "42a4d09acc8455e1",
       "name": "大切",
       "secondary": "FUNKY MONKEY BΛBY’S",
@@ -361,7 +427,7 @@
       "detailPath": "entities/songs/42a4d09acc8455e1.json"
     },
     {
-      "rank": 48212,
+      "rank": 48214,
       "id": "2dced173de786119",
       "name": "大切なあなた",
       "secondary": "松田聖子",
@@ -394,7 +460,7 @@
       "detailPath": "entities/songs/2dced173de786119.json"
     },
     {
-      "rank": 48213,
+      "rank": 48215,
       "id": "2c456f8c1de47178",
       "name": "大切なもの",
       "secondary": "ロードオブメジャ",
@@ -427,7 +493,7 @@
       "detailPath": "entities/songs/2c456f8c1de47178.json"
     },
     {
-      "rank": 48214,
+      "rank": 48216,
       "id": "144c83718ed9736a",
       "name": "大切な君へ",
       "secondary": "井上苑子 ※JOYSOUND",
@@ -460,7 +526,7 @@
       "detailPath": "entities/songs/144c83718ed9736a.json"
     },
     {
-      "rank": 48215,
+      "rank": 48217,
       "id": "f7d8893b5d460033",
       "name": "大切な人たちへ",
       "secondary": "傘村トータ feat. 初音ミク",
@@ -490,7 +556,7 @@
       "detailPath": "entities/songs/f7d8893b5d460033.json"
     },
     {
-      "rank": 48216,
+      "rank": 48218,
       "id": "94342f2afea7a9d8",
       "name": "大切な人たちへ",
       "secondary": "傘村トータ feat.初音ミク（ラスト！）",
@@ -520,7 +586,7 @@
       "detailPath": "entities/songs/94342f2afea7a9d8.json"
     },
     {
-      "rank": 48217,
+      "rank": 48219,
       "id": "aaac9374e1820ea0",
       "name": "大切な人たちへ",
       "secondary": "",
@@ -550,7 +616,7 @@
       "detailPath": "entities/songs/aaac9374e1820ea0.json"
     },
     {
-      "rank": 48218,
+      "rank": 48220,
       "id": "43a1e4eb6cad142b",
       "name": "大切な人へ",
       "secondary": "丸井ブン太 (高橋直純)",
@@ -583,7 +649,7 @@
       "detailPath": "entities/songs/43a1e4eb6cad142b.json"
     },
     {
-      "rank": 48219,
+      "rank": 48221,
       "id": "6a30e6965e41c690",
       "name": "大切な人へ",
       "secondary": "丸井ブン太",
@@ -617,7 +683,7 @@
       "detailPath": "entities/songs/6a30e6965e41c690.json"
     },
     {
-      "rank": 48220,
+      "rank": 48222,
       "id": "3e5ae87952aac020",
       "name": "大切な人へ",
       "secondary": "Luna",
@@ -650,7 +716,7 @@
       "detailPath": "entities/songs/3e5ae87952aac020.json"
     },
     {
-      "rank": 48221,
+      "rank": 48223,
       "id": "40b6fe008b4fb836",
       "name": "大戦隊ゴーグルV",
       "secondary": "TVサイズ",
@@ -680,7 +746,7 @@
       "detailPath": "entities/songs/40b6fe008b4fb836.json"
     },
     {
-      "rank": 48222,
+      "rank": 48224,
       "id": "7d9fcd991925a3dd",
       "name": "大大大大大好きな君へ",
       "secondary": "花園羽香里(CV.本渡楓)、院田唐音(CV.富田美憂)、好本静(CV.長縄まりあ)、栄逢凪乃(CV.瀬戸麻沙美)、薬膳楠莉(CV.朝井彩加)",
@@ -710,7 +776,7 @@
       "detailPath": "entities/songs/7d9fcd991925a3dd.json"
     },
     {
-      "rank": 48223,
+      "rank": 48225,
       "id": "7760897184c52345",
       "name": "大大大大大好きな君へ♡",
       "secondary": "院田唐音 (富田美憂)",
@@ -743,7 +809,7 @@
       "detailPath": "entities/songs/7760897184c52345.json"
     },
     {
-      "rank": 48224,
+      "rank": 48226,
       "id": "1497215ec9ee69cf",
       "name": "大沢誉志幸",
       "secondary": "そして僕は途方に暮れる",
@@ -773,7 +839,7 @@
       "detailPath": "entities/songs/1497215ec9ee69cf.json"
     },
     {
-      "rank": 48225,
+      "rank": 48227,
       "id": "db0c6bbbc04b1070",
       "name": "大胆不敵に恋したい",
       "secondary": "Just 4U",
@@ -806,7 +872,7 @@
       "detailPath": "entities/songs/db0c6bbbc04b1070.json"
     },
     {
-      "rank": 48226,
+      "rank": 48228,
       "id": "bbff2b9cf7b23cc6",
       "name": "大塚 愛",
       "secondary": "さくらんぼ",
@@ -839,7 +905,7 @@
       "detailPath": "entities/songs/bbff2b9cf7b23cc6.json"
     },
     {
-      "rank": 48227,
+      "rank": 48229,
       "id": "e90eb90356a8f867",
       "name": "大都会　クリスタルキング　cover",
       "secondary": "",
@@ -872,7 +938,7 @@
       "detailPath": "entities/songs/e90eb90356a8f867.json"
     },
     {
-      "rank": 48228,
+      "rank": 48230,
       "id": "f11b5357d0bd20a7",
       "name": "大脳的なランデブー",
       "secondary": "Kanaria",
@@ -902,7 +968,7 @@
       "detailPath": "entities/songs/f11b5357d0bd20a7.json"
     },
     {
-      "rank": 48229,
+      "rank": 48231,
       "id": "9aa8e36502e9b4c6",
       "name": "大破",
       "secondary": "まゆり",
@@ -932,7 +998,7 @@
       "detailPath": "entities/songs/9aa8e36502e9b4c6.json"
     },
     {
-      "rank": 48230,
+      "rank": 48232,
       "id": "e276b9295c895cb3",
       "name": "大不正解",
       "secondary": "1コーラス",
@@ -965,7 +1031,7 @@
       "detailPath": "entities/songs/e276b9295c895cb3.json"
     },
     {
-      "rank": 48231,
+      "rank": 48233,
       "id": "ef18e68d3a6be992",
       "name": "大不正解",
       "secondary": "",
@@ -998,7 +1064,7 @@
       "detailPath": "entities/songs/ef18e68d3a6be992.json"
     },
     {
-      "rank": 48232,
+      "rank": 48234,
       "id": "20416c41ce95c8cb",
       "name": "大本命",
       "secondary": "黒木渚 (アカペラ)",
@@ -1028,7 +1094,7 @@
       "detailPath": "entities/songs/20416c41ce95c8cb.json"
     },
     {
-      "rank": 48233,
+      "rank": 48235,
       "id": "56a8e07dd84ea6ee",
       "name": "大眠",
       "secondary": "王心凌",
@@ -1061,7 +1127,7 @@
       "detailPath": "entities/songs/56a8e07dd84ea6ee.json"
     },
     {
-      "rank": 48234,
+      "rank": 48236,
       "id": "a773008a95b8ebce",
       "name": "大迷惑",
       "secondary": "",
@@ -1094,7 +1160,7 @@
       "detailPath": "entities/songs/a773008a95b8ebce.json"
     },
     {
-      "rank": 48235,
+      "rank": 48237,
       "id": "95030f55f512066f",
       "name": "大迷惑星",
       "secondary": "泣き虫☔︎",
@@ -1127,7 +1193,7 @@
       "detailPath": "entities/songs/95030f55f512066f.json"
     },
     {
-      "rank": 48236,
+      "rank": 48238,
       "id": "1bc14ce16297de39",
       "name": "大約在冬季",
       "secondary": "齊秦",
@@ -1161,7 +1227,7 @@
       "detailPath": "entities/songs/1bc14ce16297de39.json"
     },
     {
-      "rank": 48237,
+      "rank": 48239,
       "id": "d278d5834ae722ca",
       "name": "大和撫子エデュケイション",
       "secondary": "生徒会役員共",
@@ -1194,7 +1260,7 @@
       "detailPath": "entities/songs/d278d5834ae722ca.json"
     },
     {
-      "rank": 48238,
+      "rank": 48240,
       "id": "6f81bef0dbc769ba",
       "name": "大哥",
       "secondary": "衛蘭",
@@ -1227,7 +1293,7 @@
       "detailPath": "entities/songs/6f81bef0dbc769ba.json"
     },
     {
-      "rank": 48239,
+      "rank": 48241,
       "id": "049ba9fc35dd8185",
       "name": "大齡女子",
       "secondary": "彭佳慧",
@@ -1257,7 +1323,7 @@
       "detailPath": "entities/songs/049ba9fc35dd8185.json"
     },
     {
-      "rank": 48240,
+      "rank": 48242,
       "id": "b8337cf80895603e",
       "name": "第16回　『西山 毅の Keep on Rockin'』2026年7月26日",
       "secondary": "日曜日",
@@ -1291,7 +1357,7 @@
       "detailPath": "entities/songs/b8337cf80895603e.json"
     },
     {
-      "rank": 48241,
+      "rank": 48243,
       "id": "7fdbce056028c1dd",
       "name": "第ゼロ感",
       "secondary": "",
@@ -1324,7 +1390,7 @@
       "detailPath": "entities/songs/7fdbce056028c1dd.json"
     },
     {
-      "rank": 48242,
+      "rank": 48244,
       "id": "239099ebe25232b4",
       "name": "第ゼロ感",
       "secondary": "サビ一瞬",
@@ -1357,7 +1423,7 @@
       "detailPath": "entities/songs/239099ebe25232b4.json"
     },
     {
-      "rank": 48243,
+      "rank": 48245,
       "id": "761e5e6eea067f66",
       "name": "第ゼロ感",
       "secondary": "FEET（THE FIRST SLAM DUNK）",
@@ -1387,7 +1453,7 @@
       "detailPath": "entities/songs/761e5e6eea067f66.json"
     },
     {
-      "rank": 48244,
+      "rank": 48246,
       "id": "b3cd7153cb1d52cb",
       "name": "第一夜",
       "secondary": "未記載",
@@ -1421,7 +1487,7 @@
       "detailPath": "entities/songs/b3cd7153cb1d52cb.json"
     },
     {
-      "rank": 48245,
+      "rank": 48247,
       "id": "c8b3e273a78b0239",
       "name": "第一夜",
       "secondary": "",
@@ -1454,7 +1520,7 @@
       "detailPath": "entities/songs/c8b3e273a78b0239.json"
     },
     {
-      "rank": 48246,
+      "rank": 48248,
       "id": "be553713b33128a5",
       "name": "第三の心臓",
       "secondary": "はるまきごはん feat. 初音ミク",
@@ -1487,7 +1553,7 @@
       "detailPath": "entities/songs/be553713b33128a5.json"
     },
     {
-      "rank": 48247,
+      "rank": 48249,
       "id": "672289ad2905e24d",
       "name": "第四会運試しレース",
       "secondary": "",
@@ -1520,7 +1586,7 @@
       "detailPath": "entities/songs/672289ad2905e24d.json"
     },
     {
-      "rank": 48248,
+      "rank": 48250,
       "id": "4a4fa843d4ec934d",
       "name": "第二部",
       "secondary": "",
@@ -1551,72 +1617,6 @@
         }
       ],
       "detailPath": "entities/songs/4a4fa843d4ec934d.json"
-    },
-    {
-      "rank": 48249,
-      "id": "046cbef36b6cbe09",
-      "name": "第六回運試しレース",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "pV084lvavHs",
-          "videoTitle": "【歌枠】応援してもらえないと歌えない😭🎤助けて～‼運試し🎯✨【初見さん大歓迎】 #vtuber #縦型配信 #shorts",
-          "channelName": "白詰かや",
-          "publishedAt": "2026-09-09T13:18:16.955Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pV084lvavHs/hqdefault.jpg",
-          "sourcePath": "sources/pV/pV084lvavHs.json",
-          "time": "2:53:51",
-          "seconds": 10431,
-          "songTitle": "第六回運試しレース",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/046cbef36b6cbe09.json"
-    },
-    {
-      "rank": 48250,
-      "id": "d7afee4658081cc0",
-      "name": "第六感",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "eztpJ6Hpol4",
-          "videoTitle": "〖#歌枠 〗同接350耐久🔥ほぼノンストップでオールジャンル歌いまくる！ #凰牙人類攻略 #vtuber",
-          "channelName": "RUKI Ch. 凰牙るき",
-          "publishedAt": "2026-08-29T19:16:39.133Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/eztpJ6Hpol4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCw3vJhy3_E-dJP1Kt9pyI7Ko5Z1g",
-          "sourcePath": "sources/ez/eztpJ6Hpol4.json",
-          "time": "3:31:26",
-          "seconds": 12686,
-          "songTitle": "第六感",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/d7afee4658081cc0.json"
     }
   ]
 }

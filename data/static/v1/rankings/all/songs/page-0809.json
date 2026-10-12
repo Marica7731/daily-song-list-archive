@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 809,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 40401,
+      "id": "7106fc20e68a25c0",
+      "name": "レディメイド",
+      "secondary": "Ado ※JOYSOUND",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "3Wr--dzjeak",
+          "videoTitle": "【 #歌枠 】バラード多めの歌枠🌙【#ユメミアルル #vtuber 】",
+          "channelName": "ユメミア･ルル / Ruru Ch.",
+          "publishedAt": "2026-09-26T16:09:40.152Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3Wr--dzjeak/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAb4graATn93I0W9oKPAnjTYHU27Q",
+          "sourcePath": "sources/3W/3Wr--dzjeak.json",
+          "time": "1:17:04",
+          "seconds": 4624,
+          "songTitle": "レディメイド",
+          "artist": "Ado ※JOYSOUND"
+        }
+      ],
+      "detailPath": "entities/songs/7106fc20e68a25c0.json"
+    },
+    {
+      "rank": 40402,
+      "id": "dea0f369f3f2f873",
+      "name": "レディメイド・Ready Made",
+      "secondary": "Ado",
+      "channelId": "UCrOK22InJkQCsKZC6Bq0Bcg",
+      "channelHandle": "@urato_yuzen",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "zTVB38kowZg",
+          "videoTitle": "【 歌枠 】雨音と一緒にに週初めゲリラ歌🎤 Singing Stream【游禅ウラト / YUMENOS】#shorts #vtuber #karaoke",
+          "channelName": "游禅ウラト / Urato Yuzen",
+          "publishedAt": "2026-07-13T11:11:04.085Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zTVB38kowZg/hqdefault.jpg",
+          "sourcePath": "sources/zT/zTVB38kowZg.json",
+          "time": "1:18:19",
+          "seconds": 4699,
+          "songTitle": "レディメイド・Ready Made",
+          "artist": "Ado"
+        }
+      ],
+      "detailPath": "entities/songs/dea0f369f3f2f873.json"
+    },
+    {
+      "rank": 40403,
       "id": "c621b0675fc5c315",
       "name": "レド",
       "secondary": "須田景凪",
@@ -43,7 +109,7 @@
       "detailPath": "entities/songs/c621b0675fc5c315.json"
     },
     {
-      "rank": 40402,
+      "rank": 40404,
       "id": "4d40544d7b3bd030",
       "name": "レド",
       "secondary": "",
@@ -76,7 +142,7 @@
       "detailPath": "entities/songs/4d40544d7b3bd030.json"
     },
     {
-      "rank": 40403,
+      "rank": 40405,
       "id": "f4597b3d974a1e73",
       "name": "レトロメモリー",
       "secondary": "CAPSULE",
@@ -109,7 +175,7 @@
       "detailPath": "entities/songs/f4597b3d974a1e73.json"
     },
     {
-      "rank": 40404,
+      "rank": 40406,
       "id": "01abd5ade28c8006",
       "name": "れびてーしょん",
       "secondary": "未記載",
@@ -143,7 +209,7 @@
       "detailPath": "entities/songs/01abd5ade28c8006.json"
     },
     {
-      "rank": 40405,
+      "rank": 40407,
       "id": "7dca57d19b59c8c2",
       "name": "レプリカ",
       "secondary": "坂本真綾",
@@ -176,7 +242,7 @@
       "detailPath": "entities/songs/7dca57d19b59c8c2.json"
     },
     {
-      "rank": 40406,
+      "rank": 40408,
       "id": "23a4a93e92de4344",
       "name": "レプリカ",
       "secondary": "苺咲べりぃ",
@@ -209,7 +275,7 @@
       "detailPath": "entities/songs/23a4a93e92de4344.json"
     },
     {
-      "rank": 40407,
+      "rank": 40409,
       "id": "82bcf5e5361e4b94",
       "name": "レプリカの虚像",
       "secondary": "ヤヅキ",
@@ -239,7 +305,7 @@
       "detailPath": "entities/songs/82bcf5e5361e4b94.json"
     },
     {
-      "rank": 40408,
+      "rank": 40410,
       "id": "db1f24c7927dce22",
       "name": "レプリカント",
       "secondary": "BuzzG",
@@ -272,7 +338,7 @@
       "detailPath": "entities/songs/db1f24c7927dce22.json"
     },
     {
-      "rank": 40409,
+      "rank": 40411,
       "id": "a28f3b0001df48a4",
       "name": "レベチかわいい！",
       "secondary": "CANDY TUNE",
@@ -304,7 +370,7 @@
       "detailPath": "entities/songs/a28f3b0001df48a4.json"
     },
     {
-      "rank": 40410,
+      "rank": 40412,
       "id": "f64491c12eecbd08",
       "name": "レベルを上げて物理で殴る",
       "secondary": "岸田教団&THE明星ロケッツ",
@@ -337,7 +403,7 @@
       "detailPath": "entities/songs/f64491c12eecbd08.json"
     },
     {
-      "rank": 40411,
+      "rank": 40413,
       "id": "4a761fb5ba2c3905",
       "name": "レム",
       "secondary": "ポルカドットスティングレイ/2017",
@@ -370,7 +436,7 @@
       "detailPath": "entities/songs/4a761fb5ba2c3905.json"
     },
     {
-      "rank": 40412,
+      "rank": 40414,
       "id": "5e719e683a849973",
       "name": "レム",
       "secondary": "ポルカドットスティングレイ",
@@ -403,7 +469,7 @@
       "detailPath": "entities/songs/5e719e683a849973.json"
     },
     {
-      "rank": 40413,
+      "rank": 40415,
       "id": "4b66203c9acec154",
       "name": "レム",
       "secondary": "",
@@ -433,7 +499,7 @@
       "detailPath": "entities/songs/4b66203c9acec154.json"
     },
     {
-      "rank": 40414,
+      "rank": 40416,
       "id": "330f8795eb688c5b",
       "name": "レム BUMP OF CHICKEN",
       "secondary": "",
@@ -466,7 +532,7 @@
       "detailPath": "entities/songs/330f8795eb688c5b.json"
     },
     {
-      "rank": 40415,
+      "rank": 40417,
       "id": "191c7a5af5632290",
       "name": "レモン",
       "secondary": "",
@@ -499,7 +565,7 @@
       "detailPath": "entities/songs/191c7a5af5632290.json"
     },
     {
-      "rank": 40416,
+      "rank": 40418,
       "id": "9ecc5ea6b083242e",
       "name": "レモンサワー",
       "secondary": "恩田浩輔",
@@ -529,7 +595,7 @@
       "detailPath": "entities/songs/9ecc5ea6b083242e.json"
     },
     {
-      "rank": 40417,
+      "rank": 40419,
       "id": "74bd0a513dbd4399",
       "name": "レリーズ！",
       "secondary": "",
@@ -559,7 +625,7 @@
       "detailPath": "entities/songs/74bd0a513dbd4399.json"
     },
     {
-      "rank": 40418,
+      "rank": 40420,
       "id": "13158391f0bfb49d",
       "name": "れるりり",
       "secondary": "ヤミタイガール",
@@ -589,7 +655,7 @@
       "detailPath": "entities/songs/13158391f0bfb49d.json"
     },
     {
-      "rank": 40419,
+      "rank": 40421,
       "id": "609c04d44011c87d",
       "name": "レンズ",
       "secondary": "幾田りら",
@@ -622,7 +688,7 @@
       "detailPath": "entities/songs/609c04d44011c87d.json"
     },
     {
-      "rank": 40420,
+      "rank": 40422,
       "id": "f209466771264fb7",
       "name": "レンズ",
       "secondary": "",
@@ -652,7 +718,7 @@
       "detailPath": "entities/songs/f209466771264fb7.json"
     },
     {
-      "rank": 40421,
+      "rank": 40423,
       "id": "e83c9cefae8448cc",
       "name": "レンタカー",
       "secondary": "ハンバート ハンバート",
@@ -685,7 +751,7 @@
       "detailPath": "entities/songs/e83c9cefae8448cc.json"
     },
     {
-      "rank": 40422,
+      "rank": 40424,
       "id": "591a8f77adbfdc47",
       "name": "レントリリー",
       "secondary": "シェリル・ノーム starring May'n,ランカ・リー＝中島愛",
@@ -715,7 +781,7 @@
       "detailPath": "entities/songs/591a8f77adbfdc47.json"
     },
     {
-      "rank": 40423,
+      "rank": 40425,
       "id": "e383abebcf39cf6c",
       "name": "レンラクマダー？",
       "secondary": "ライブP",
@@ -748,7 +814,7 @@
       "detailPath": "entities/songs/e383abebcf39cf6c.json"
     },
     {
-      "rank": 40424,
+      "rank": 40426,
       "id": "65713cf3e40fc984",
       "name": "ロ・ロ・ロ・ロシアン・ルーレット",
       "secondary": "『ダーティペア』中原めいこ",
@@ -780,7 +846,7 @@
       "detailPath": "entities/songs/65713cf3e40fc984.json"
     },
     {
-      "rank": 40425,
+      "rank": 40427,
       "id": "b3bc45b95039b0a8",
       "name": "ロ・ロ・ロ・ロシアン・ルーレット",
       "secondary": "ダーティペア",
@@ -814,7 +880,7 @@
       "detailPath": "entities/songs/b3bc45b95039b0a8.json"
     },
     {
-      "rank": 40426,
+      "rank": 40428,
       "id": "ce72da521fd79dd7",
       "name": "ロ・ロ・ロ・ロシアン・ルーレット",
       "secondary": "中原めいこ（アニメ『ダーティペア』OP）",
@@ -847,7 +913,7 @@
       "detailPath": "entities/songs/ce72da521fd79dd7.json"
     },
     {
-      "rank": 40427,
+      "rank": 40429,
       "id": "eea1cdf3e4302574",
       "name": "ロウワ―",
       "secondary": "ぬゆり",
@@ -880,7 +946,7 @@
       "detailPath": "entities/songs/eea1cdf3e4302574.json"
     },
     {
-      "rank": 40428,
+      "rank": 40430,
       "id": "3da2daa516bea490",
       "name": "ロウワー",
       "secondary": "25時、ナイトコードで。 × MEIKO",
@@ -912,7 +978,7 @@
       "detailPath": "entities/songs/3da2daa516bea490.json"
     },
     {
-      "rank": 40429,
+      "rank": 40431,
       "id": "46abcfc3aef63aa1",
       "name": "ロウワー",
       "secondary": "アカペラ、少し",
@@ -944,7 +1010,7 @@
       "detailPath": "entities/songs/46abcfc3aef63aa1.json"
     },
     {
-      "rank": 40430,
+      "rank": 40432,
       "id": "65a54adb44cd05b2",
       "name": "ロウワー",
       "secondary": "ぬゆり,25時、ナイトコードで。 (2021) ゲーム「プロジェクトセカイ カラフルステージ！ feat.初音ミク」オリジナル曲",
@@ -978,7 +1044,7 @@
       "detailPath": "entities/songs/65a54adb44cd05b2.json"
     },
     {
-      "rank": 40431,
+      "rank": 40433,
       "id": "3c87559f519a837d",
       "name": "ロウワー",
       "secondary": "ぬゆり様",
@@ -1008,7 +1074,7 @@
       "detailPath": "entities/songs/3c87559f519a837d.json"
     },
     {
-      "rank": 40432,
+      "rank": 40434,
       "id": "7307a83bb201f82c",
       "name": "ロウワー",
       "secondary": "ぬゆり (断念)",
@@ -1038,7 +1104,7 @@
       "detailPath": "entities/songs/7307a83bb201f82c.json"
     },
     {
-      "rank": 40433,
+      "rank": 40435,
       "id": "c0689f51afed17c2",
       "name": "ロウワー",
       "secondary": "ゆぬり",
@@ -1068,7 +1134,7 @@
       "detailPath": "entities/songs/c0689f51afed17c2.json"
     },
     {
-      "rank": 40434,
+      "rank": 40436,
       "id": "670c87bcaad597ac",
       "name": "ロウワー feat. Flower",
       "secondary": "ぬゆり",
@@ -1098,7 +1164,7 @@
       "detailPath": "entities/songs/670c87bcaad597ac.json"
     },
     {
-      "rank": 40435,
+      "rank": 40437,
       "id": "f144d847abcaa1b5",
       "name": "ロウワー feat. アリシア・アルテローザ",
       "secondary": "ぬゆり",
@@ -1131,7 +1197,7 @@
       "detailPath": "entities/songs/f144d847abcaa1b5.json"
     },
     {
-      "rank": 40436,
+      "rank": 40438,
       "id": "3cf4e82cf2b1bcf0",
       "name": "ロウワー Piano Ver",
       "secondary": "ぬゆり",
@@ -1165,7 +1231,7 @@
       "detailPath": "entities/songs/3cf4e82cf2b1bcf0.json"
     },
     {
-      "rank": 40437,
+      "rank": 40439,
       "id": "564889306763da14",
       "name": "ロージー",
       "secondary": "aiko",
@@ -1198,7 +1264,7 @@
       "detailPath": "entities/songs/564889306763da14.json"
     },
     {
-      "rank": 40438,
+      "rank": 40440,
       "id": "c55e5ee70c3bb762",
       "name": "ロータースイター",
       "secondary": "青栗鼠",
@@ -1231,7 +1297,7 @@
       "detailPath": "entities/songs/c55e5ee70c3bb762.json"
     },
     {
-      "rank": 40439,
+      "rank": 40441,
       "id": "787d3ff1377acfa3",
       "name": "ローディング🎶",
       "secondary": "実は裏で歌ってたｗ",
@@ -1264,7 +1330,7 @@
       "detailPath": "entities/songs/787d3ff1377acfa3.json"
     },
     {
-      "rank": 40440,
+      "rank": 40442,
       "id": "f0bdc85905ccc783",
       "name": "ローディング🎶",
       "secondary": "",
@@ -1294,7 +1360,7 @@
       "detailPath": "entities/songs/f0bdc85905ccc783.json"
     },
     {
-      "rank": 40441,
+      "rank": 40443,
       "id": "97c6f20782953acc",
       "name": "ロード",
       "secondary": "THE 虎舞竜（おかわり）",
@@ -1327,7 +1393,7 @@
       "detailPath": "entities/songs/97c6f20782953acc.json"
     },
     {
-      "rank": 40442,
+      "rank": 40444,
       "id": "88d4f26cf2010c91",
       "name": "ロード THE 虎舞竜",
       "secondary": "1993",
@@ -1357,7 +1423,7 @@
       "detailPath": "entities/songs/88d4f26cf2010c91.json"
     },
     {
-      "rank": 40443,
+      "rank": 40445,
       "id": "716f5d1265e3f1c8",
       "name": "ロード2章",
       "secondary": "THE虎舞竜",
@@ -1390,7 +1456,7 @@
       "detailPath": "entities/songs/716f5d1265e3f1c8.json"
     },
     {
-      "rank": 40444,
+      "rank": 40446,
       "id": "9118c76590fed765",
       "name": "ロープウェイ",
       "secondary": "Tele ✨初披露",
@@ -1423,7 +1489,7 @@
       "detailPath": "entities/songs/9118c76590fed765.json"
     },
     {
-      "rank": 40445,
+      "rank": 40447,
       "id": "9dbd6d46b5b8a470",
       "name": "ローラ",
       "secondary": "西島尊大 feat. 初音ミク",
@@ -1456,7 +1522,7 @@
       "detailPath": "entities/songs/9dbd6d46b5b8a470.json"
     },
     {
-      "rank": 40446,
+      "rank": 40448,
       "id": "7b8d619e1f760e86",
       "name": "ローラの傷だらけ",
       "secondary": "ゴールデンボンバー",
@@ -1489,7 +1555,7 @@
       "detailPath": "entities/songs/7b8d619e1f760e86.json"
     },
     {
-      "rank": 40447,
+      "rank": 40449,
       "id": "64c2ab3128792253",
       "name": "ローリーズルーム",
       "secondary": "すこっぷ",
@@ -1522,7 +1588,7 @@
       "detailPath": "entities/songs/64c2ab3128792253.json"
     },
     {
-      "rank": 40448,
+      "rank": 40450,
       "id": "7a5ff03707a05b89",
       "name": "ローリンガール",
       "secondary": "未記載",
@@ -1553,72 +1619,6 @@
         }
       ],
       "detailPath": "entities/songs/7a5ff03707a05b89.json"
-    },
-    {
-      "rank": 40449,
-      "id": "dc534b3885bdd891",
-      "name": "ローリンガール",
-      "secondary": "wowaka feat.初音ミク -5",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "cjb3EWiXxw4",
-          "videoTitle": "【 #歌枠/#KARAOKE 】初見さん大歓迎◎古のボカロ好きによるボカロ縛り歌枠だ！【 #朱音りん/#個人Vtuber 】",
-          "channelName": "朱音りん / Akane Rin",
-          "publishedAt": "2026-09-08T16:39:03.883Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cjb3EWiXxw4/hqdefault.jpg",
-          "sourcePath": "sources/cj/cjb3EWiXxw4.json",
-          "time": "1:02:04",
-          "seconds": 3724,
-          "songTitle": "ローリンガール",
-          "artist": "wowaka feat.初音ミク -5"
-        }
-      ],
-      "detailPath": "entities/songs/dc534b3885bdd891.json"
-    },
-    {
-      "rank": 40450,
-      "id": "965fff351a7b53d2",
-      "name": "ローリンガール",
-      "secondary": "wowaka(Full)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7Ng7DTehnLs",
-          "videoTitle": "【歌枠】明日、１年ぶりの歌ってみた出します【vtuber】",
-          "channelName": "ナガレ",
-          "publishedAt": "2026-09-11T15:22:31.342Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7Ng7DTehnLs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD7n9-5PxCOJ4cX-Col6FGrx4ROpw",
-          "sourcePath": "sources/7N/7Ng7DTehnLs.json",
-          "time": "0:21:56",
-          "seconds": 1316,
-          "songTitle": "ローリンガール",
-          "artist": "wowaka(Full)"
-        }
-      ],
-      "detailPath": "entities/songs/965fff351a7b53d2.json"
     }
   ]
 }

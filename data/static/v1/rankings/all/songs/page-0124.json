@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 124,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6151,
+      "id": "db396958cd7fdada",
+      "name": "エゴロック",
+      "secondary": "未記載",
+      "channelId": "UCv3EicDtxObcZZmnFcHvNnw",
+      "channelHandle": "@onigayaten0512",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "MF_faUMeFkw",
+          "videoTitle": "【#歌枠 】縦型でぎゅっと歌います🎤 初見さん歓迎｜J-POP・ボカロ【一色イズ】#karaoke #vsinger",
+          "channelName": "一色イズ ⟡ Isshiki_IS",
+          "publishedAt": "2026-08-10T17:05:46.003Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MF_faUMeFkw/hqdefault.jpg",
+          "sourcePath": "sources/MF/MF_faUMeFkw.json",
+          "time": "1:43:31",
+          "seconds": 6211,
+          "songTitle": "エゴロック",
+          "artist": "未記載"
+        },
+        {
+          "videoId": "0pRWgX_PxqM",
+          "videoTitle": "【#歌枠 】久々の縦型歌枠！オンラインライブに向けてめちゃ歌う💞 #vtuber",
+          "channelName": "かなせうた / Kanase Uta",
+          "publishedAt": "2026-07-11T13:50:22.559Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0pRWgX_PxqM/hqdefault.jpg",
+          "sourcePath": "sources/0p/0pRWgX_PxqM.json",
+          "time": "0:58:31",
+          "seconds": 3511,
+          "songTitle": "エゴロック",
+          "artist": "未記載"
+        },
+        {
+          "videoId": "kBQ29q_6aiA",
+          "videoTitle": "【 #歌枠 】完全初見さんが来るまで歌えない！？助けてー！歌わせてー！！！【キュレット #VTuber 】",
+          "channelName": "キュレット",
+          "publishedAt": "2026-07-11T08:24:35.856Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kBQ29q_6aiA/hqdefault.jpg",
+          "sourcePath": "sources/kB/kBQ29q_6aiA.json",
+          "time": "2:33:31",
+          "seconds": 9211,
+          "songTitle": "エゴロック",
+          "artist": "未記載"
+        }
+      ],
+      "detailPath": "entities/songs/db396958cd7fdada.json"
+    },
+    {
+      "rank": 6152,
       "id": "9138455449356aca",
       "name": "エピゴウネ",
       "secondary": "日食なつこ",
@@ -68,7 +126,7 @@
       "detailPath": "entities/songs/9138455449356aca.json"
     },
     {
-      "rank": 6152,
+      "rank": 6153,
       "id": "62d00e0e17d46296",
       "name": "エメラルドシティ",
       "secondary": "",
@@ -125,7 +183,7 @@
       "detailPath": "entities/songs/62d00e0e17d46296.json"
     },
     {
-      "rank": 6153,
+      "rank": 6154,
       "id": "c73b10769b824471",
       "name": "えれくとりっく・えんじぇぅ",
       "secondary": "ヤスオ feat. 初音ミク",
@@ -182,7 +240,7 @@
       "detailPath": "entities/songs/c73b10769b824471.json"
     },
     {
-      "rank": 6154,
+      "rank": 6155,
       "id": "b063dbcae4b5d0b3",
       "name": "エンドロール",
       "secondary": "夏代孝明",
@@ -242,7 +300,7 @@
       "detailPath": "entities/songs/b063dbcae4b5d0b3.json"
     },
     {
-      "rank": 6155,
+      "rank": 6156,
       "id": "ca97c995583514b2",
       "name": "エンドロールBGM「シャイニングデイズ」",
       "secondary": "桜庭羽奈",
@@ -299,7 +357,7 @@
       "detailPath": "entities/songs/ca97c995583514b2.json"
     },
     {
-      "rank": 6156,
+      "rank": 6157,
       "id": "00759ee40824d3ac",
       "name": "オートファジー",
       "secondary": "柊キライ",
@@ -356,7 +414,7 @@
       "detailPath": "entities/songs/00759ee40824d3ac.json"
     },
     {
-      "rank": 6157,
+      "rank": 6158,
       "id": "686401a939e51256",
       "name": "オールナイトレディオ",
       "secondary": "Ado",
@@ -413,7 +471,7 @@
       "detailPath": "entities/songs/686401a939e51256.json"
     },
     {
-      "rank": 6158,
+      "rank": 6159,
       "id": "4d329a1ec56d5793",
       "name": "おかえりなさい",
       "secondary": "坂本真綾",
@@ -470,7 +528,7 @@
       "detailPath": "entities/songs/4d329a1ec56d5793.json"
     },
     {
-      "rank": 6159,
+      "rank": 6160,
       "id": "bce1f170638c48a7",
       "name": "おしゃかさま",
       "secondary": "RADWIMPS",
@@ -530,7 +588,7 @@
       "detailPath": "entities/songs/bce1f170638c48a7.json"
     },
     {
-      "rank": 6160,
+      "rank": 6161,
       "id": "c0540cb3671f05b1",
       "name": "おじゃま虫II",
       "secondary": "DECO*27",
@@ -589,7 +647,7 @@
       "detailPath": "entities/songs/c0540cb3671f05b1.json"
     },
     {
-      "rank": 6161,
+      "rank": 6162,
       "id": "67c15647c5841d46",
       "name": "おちゃめ機能",
       "secondary": "",
@@ -646,7 +704,7 @@
       "detailPath": "entities/songs/67c15647c5841d46.json"
     },
     {
-      "rank": 6162,
+      "rank": 6163,
       "id": "5b1037c9fb3e5216",
       "name": "オツキミリサイタル",
       "secondary": "じん(自然の敵P)",
@@ -703,7 +761,7 @@
       "detailPath": "entities/songs/5b1037c9fb3e5216.json"
     },
     {
-      "rank": 6163,
+      "rank": 6164,
       "id": "5895dffa4190b053",
       "name": "オトノナルホウへ→",
       "secondary": "Goose house",
@@ -763,7 +821,7 @@
       "detailPath": "entities/songs/5895dffa4190b053.json"
     },
     {
-      "rank": 6164,
+      "rank": 6165,
       "id": "ac353201fcd2a960",
       "name": "おどるポンポコリン",
       "secondary": "",
@@ -820,7 +878,7 @@
       "detailPath": "entities/songs/ac353201fcd2a960.json"
     },
     {
-      "rank": 6165,
+      "rank": 6166,
       "id": "2d6bef56c7664a1b",
       "name": "おねだり Shall We ～?",
       "secondary": "前川みく(CV:高森奈津美)",
@@ -880,7 +938,7 @@
       "detailPath": "entities/songs/2d6bef56c7664a1b.json"
     },
     {
-      "rank": 6166,
+      "rank": 6167,
       "id": "e5b510463311b5fd",
       "name": "オノマトペテン師",
       "secondary": "てにをは",
@@ -937,7 +995,7 @@
       "detailPath": "entities/songs/e5b510463311b5fd.json"
     },
     {
-      "rank": 6167,
+      "rank": 6168,
       "id": "955a153bc116d75d",
       "name": "おはよみ",
       "secondary": "",
@@ -994,7 +1052,7 @@
       "detailPath": "entities/songs/955a153bc116d75d.json"
     },
     {
-      "rank": 6168,
+      "rank": 6169,
       "id": "1ceea2f92df9ea92",
       "name": "オベリスク",
       "secondary": "シェリル・ノーム starring May'n",
@@ -1054,7 +1112,7 @@
       "detailPath": "entities/songs/1ceea2f92df9ea92.json"
     },
     {
-      "rank": 6169,
+      "rank": 6170,
       "id": "18a99cfe78eed123",
       "name": "おぼろP",
       "secondary": "",
@@ -1108,7 +1166,7 @@
       "detailPath": "entities/songs/18a99cfe78eed123.json"
     },
     {
-      "rank": 6170,
+      "rank": 6171,
       "id": "a5b230fab95cbd5f",
       "name": "おまじない",
       "secondary": "水魚みぃむ",
@@ -1165,7 +1223,7 @@
       "detailPath": "entities/songs/a5b230fab95cbd5f.json"
     },
     {
-      "rank": 6171,
+      "rank": 6172,
       "id": "14c2efc238aa8937",
       "name": "オムナ マグニ",
       "secondary": "牧野由依",
@@ -1223,7 +1281,7 @@
       "detailPath": "entities/songs/14c2efc238aa8937.json"
     },
     {
-      "rank": 6172,
+      "rank": 6173,
       "id": "d7178363404115fa",
       "name": "おやすみ泣き声、さよなら歌姫",
       "secondary": "クリープパイプ",
@@ -1283,7 +1341,7 @@
       "detailPath": "entities/songs/d7178363404115fa.json"
     },
     {
-      "rank": 6173,
+      "rank": 6174,
       "id": "faab67407a01fb3e",
       "name": "オルフェンズの涙",
       "secondary": "",
@@ -1340,7 +1398,7 @@
       "detailPath": "entities/songs/faab67407a01fb3e.json"
     },
     {
-      "rank": 6174,
+      "rank": 6175,
       "id": "c1458c622d04bfec",
       "name": "オレンジ",
       "secondary": "GReeeeN",
@@ -1400,7 +1458,7 @@
       "detailPath": "entities/songs/c1458c622d04bfec.json"
     },
     {
-      "rank": 6175,
+      "rank": 6176,
       "id": "4dc2d01563991554",
       "name": "お気に召すまま",
       "secondary": "Eve feat.初音ミク",
@@ -1459,7 +1517,7 @@
       "detailPath": "entities/songs/4dc2d01563991554.json"
     },
     {
-      "rank": 6176,
+      "rank": 6177,
       "id": "1fa3af6115ec0014",
       "name": "お返事まだカナ?おじさん構文!",
       "secondary": "吉本おじさん feat.雨衣",
@@ -1516,7 +1574,7 @@
       "detailPath": "entities/songs/1fa3af6115ec0014.json"
     },
     {
-      "rank": 6177,
+      "rank": 6178,
       "id": "fdfba525b560f923",
       "name": "カーストルーム",
       "secondary": "ZAQ",
@@ -1576,7 +1634,7 @@
       "detailPath": "entities/songs/fdfba525b560f923.json"
     },
     {
-      "rank": 6178,
+      "rank": 6179,
       "id": "2b79b62cca333851",
       "name": "カーニバル",
       "secondary": "NANA",
@@ -1633,7 +1691,7 @@
       "detailPath": "entities/songs/2b79b62cca333851.json"
     },
     {
-      "rank": 6179,
+      "rank": 6180,
       "id": "21503f56f109e06f",
       "name": "かいしんのいちげき!",
       "secondary": "天月",
@@ -1693,7 +1751,7 @@
       "detailPath": "entities/songs/21503f56f109e06f.json"
     },
     {
-      "rank": 6180,
+      "rank": 6181,
       "id": "46c9ee6de35579a4",
       "name": "かかわり",
       "secondary": "TrySail",
@@ -1750,7 +1808,7 @@
       "detailPath": "entities/songs/46c9ee6de35579a4.json"
     },
     {
-      "rank": 6181,
+      "rank": 6182,
       "id": "2b76be780b0c52b8",
       "name": "かくしん的☆めたまるふぉ〜ぜっ！",
       "secondary": "土間うまる",
@@ -1809,7 +1867,7 @@
       "detailPath": "entities/songs/2b76be780b0c52b8.json"
     },
     {
-      "rank": 6182,
+      "rank": 6183,
       "id": "ff8182e54726bc39",
       "name": "カゲロウデイズ",
       "secondary": "じん(自然の敵P)",
@@ -1867,7 +1925,7 @@
       "detailPath": "entities/songs/ff8182e54726bc39.json"
     },
     {
-      "rank": 6183,
+      "rank": 6184,
       "id": "547cda2c74ab8168",
       "name": "かざぐるま",
       "secondary": "一青窈",
@@ -1926,7 +1984,7 @@
       "detailPath": "entities/songs/547cda2c74ab8168.json"
     },
     {
-      "rank": 6184,
+      "rank": 6185,
       "id": "ebe1a0690b861620",
       "name": "カサブタ",
       "secondary": "",
@@ -1983,7 +2041,7 @@
       "detailPath": "entities/songs/ebe1a0690b861620.json"
     },
     {
-      "rank": 6185,
+      "rank": 6186,
       "id": "fbc710cd00804f85",
       "name": "かつて天才だった俺たちへ",
       "secondary": "Creepy Nuts",
@@ -2043,7 +2101,7 @@
       "detailPath": "entities/songs/fbc710cd00804f85.json"
     },
     {
-      "rank": 6186,
+      "rank": 6187,
       "id": "da1230f5470d673f",
       "name": "カノン",
       "secondary": "宮野真守",
@@ -2103,7 +2161,7 @@
       "detailPath": "entities/songs/da1230f5470d673f.json"
     },
     {
-      "rank": 6187,
+      "rank": 6188,
       "id": "18df1e1f3d29e7cb",
       "name": "カプチーノ",
       "secondary": "ともさかりえ",
@@ -2163,7 +2221,7 @@
       "detailPath": "entities/songs/18df1e1f3d29e7cb.json"
     },
     {
-      "rank": 6188,
+      "rank": 6189,
       "id": "d12efa56dd255f86",
       "name": "カミサマネジマキ",
       "secondary": "kemu",
@@ -2223,7 +2281,7 @@
       "detailPath": "entities/songs/d12efa56dd255f86.json"
     },
     {
-      "rank": 6189,
+      "rank": 6190,
       "id": "59cf3755780dde64",
       "name": "がむしゃらに行こう！",
       "secondary": "初星学園",
@@ -2280,7 +2338,7 @@
       "detailPath": "entities/songs/59cf3755780dde64.json"
     },
     {
-      "rank": 6190,
+      "rank": 6191,
       "id": "9981ef52d53b6cef",
       "name": "からくりピエロ",
       "secondary": "じゃっく",
@@ -2337,7 +2395,7 @@
       "detailPath": "entities/songs/9981ef52d53b6cef.json"
     },
     {
-      "rank": 6191,
+      "rank": 6192,
       "id": "34c1ede91ec71a8b",
       "name": "からくりピエロ",
       "secondary": "40mPとChano",
@@ -2394,7 +2452,7 @@
       "detailPath": "entities/songs/34c1ede91ec71a8b.json"
     },
     {
-      "rank": 6192,
+      "rank": 6193,
       "id": "d8b52f93373629d9",
       "name": "からくりピエロ feat. 初音ミク",
       "secondary": "40mP",
@@ -2453,7 +2511,7 @@
       "detailPath": "entities/songs/d8b52f93373629d9.json"
     },
     {
-      "rank": 6193,
+      "rank": 6194,
       "id": "510cf651480f681c",
       "name": "ガラスのくつ",
       "secondary": "いとうかなこ",
@@ -2510,7 +2568,7 @@
       "detailPath": "entities/songs/510cf651480f681c.json"
     },
     {
-      "rank": 6194,
+      "rank": 6195,
       "id": "84cc9baca411abfd",
       "name": "カラフル",
       "secondary": "沢井美空",
@@ -2570,7 +2628,7 @@
       "detailPath": "entities/songs/84cc9baca411abfd.json"
     },
     {
-      "rank": 6195,
+      "rank": 6196,
       "id": "d7d0cb1be0c849a5",
       "name": "カルテNo.2222",
       "secondary": "きゅるりんってしてみて",
@@ -2627,7 +2685,7 @@
       "detailPath": "entities/songs/d7d0cb1be0c849a5.json"
     },
     {
-      "rank": 6196,
+      "rank": 6197,
       "id": "5c30fb279cc390fe",
       "name": "カレーのちライス",
       "secondary": "放課後ティータイム",
@@ -2687,7 +2745,7 @@
       "detailPath": "entities/songs/5c30fb279cc390fe.json"
     },
     {
-      "rank": 6197,
+      "rank": 6198,
       "id": "9c31690a0a1b1663",
       "name": "カレシのジュード",
       "secondary": "syudou",
@@ -2747,7 +2805,7 @@
       "detailPath": "entities/songs/9c31690a0a1b1663.json"
     },
     {
-      "rank": 6198,
+      "rank": 6199,
       "id": "23025001b0b16d3c",
       "name": "キズナヒトツ",
       "secondary": "佐藤みかん",
@@ -2804,7 +2862,7 @@
       "detailPath": "entities/songs/23025001b0b16d3c.json"
     },
     {
-      "rank": 6199,
+      "rank": 6200,
       "id": "b15713f2a5514395",
       "name": "キセキ",
       "secondary": "GRe4N BOYZ(GReeeeN)",
@@ -2860,66 +2918,6 @@
         }
       ],
       "detailPath": "entities/songs/b15713f2a5514395.json"
-    },
-    {
-      "rank": 6200,
-      "id": "44437f26d580d283",
-      "name": "キセキ",
-      "secondary": "GRe4N BOYZ",
-      "channelId": "UCSIhl7Puxs3hG8vGlwT2LuA",
-      "channelHandle": "@nananobu",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 4,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "y3banvDp6YQ",
-          "videoTitle": "【歌枠】私の好きな曲歌いまくる歌枠。一周年だあああ！！【新人高校生VTuber】",
-          "channelName": "天野 みかん",
-          "publishedAt": "2026-10-04T07:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/y3banvDp6YQ/hqdefault.jpg",
-          "sourcePath": "sources/y3/y3banvDp6YQ.json",
-          "time": "1:33:25",
-          "seconds": 5605,
-          "songTitle": "キセキ",
-          "artist": "GRe4N BOYZ"
-        },
-        {
-          "videoId": "St0D7ajddgM",
-          "videoTitle": "【歌枠】爽やか！！雨のじめじめ吹き飛ばす盛り上がり夏曲縛り歌枠 ＃墨汐さやな ＃さやな時間",
-          "channelName": "ACHRORA - mekPark",
-          "publishedAt": "2026-09-18T14:09:15.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/St0D7ajddgM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSdriRnCC9j5ZSnxxfLtMcNwmPrg",
-          "sourcePath": "sources/St/St0D7ajddgM.json",
-          "time": "0:58:24",
-          "seconds": 3504,
-          "songTitle": "キセキ",
-          "artist": "GRe4N BOYZ"
-        },
-        {
-          "videoId": "6h3AU_DNm1s",
-          "videoTitle": "【初見歓迎/歌枠】acid black cherryとかジャンヌとかボカロとかカッコイイ曲歌いまくる！【#夜鵟狂夜 #ボカロ #歌枠 】",
-          "channelName": "Yonosuri Kyouya Ch. 夜鵟 狂夜",
-          "publishedAt": "2026-09-05T13:52:32.259Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6h3AU_DNm1s/hqdefault.jpg",
-          "sourcePath": "sources/6h/6h3AU_DNm1s.json",
-          "time": "1:49:26",
-          "seconds": 6566,
-          "songTitle": "キセキ",
-          "artist": "GRe4N BOYZ"
-        }
-      ],
-      "detailPath": "entities/songs/44437f26d580d283.json"
     }
   ]
 }

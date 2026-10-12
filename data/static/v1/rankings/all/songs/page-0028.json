@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 28,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1351,
+      "id": "89f33b0ff39e9b81",
+      "name": "少女A",
+      "secondary": "椎名もた",
+      "channelId": "UCIDEDCk2cFJqww1O7GgPPGA",
+      "channelHandle": "@Sakura_Mau_",
+      "channelUrl": "",
+      "occurrenceCount": 21,
+      "videoCount": 21,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "tgyoKcBkB3A",
+          "videoTitle": "【歌枠💎】久々の！波とヲトに癒されて～!!🎤🪽【 #祈月ヲト】",
+          "channelName": "祈月ヲト",
+          "publishedAt": "2026-10-03T13:48:36.542Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tgyoKcBkB3A/hqdefault.jpg",
+          "sourcePath": "sources/tg/tgyoKcBkB3A.json",
+          "time": "1:40:14",
+          "seconds": 6014,
+          "songTitle": "少女A",
+          "artist": "椎名もた"
+        },
+        {
+          "videoId": "M58XCRYBxPs",
+          "videoTitle": "歌枠はいつも唐突に…ゲリラ配信🎤#新人vtuber #vsinger",
+          "channelName": "Cuffy ch. カフィー",
+          "publishedAt": "2026-10-03T09:58:22.698Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/M58XCRYBxPs/hqdefault.jpg",
+          "sourcePath": "sources/M5/M58XCRYBxPs.json",
+          "time": "2:00:02",
+          "seconds": 7202,
+          "songTitle": "少女A",
+          "artist": "椎名もた"
+        },
+        {
+          "videoId": "RVXGiC4HBsw",
+          "videoTitle": "✦歌枠✦好きな歌【IMI/RKMusic】",
+          "channelName": "IMI",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RVXGiC4HBsw/hqdefault.jpg",
+          "sourcePath": "sources/RV/RVXGiC4HBsw.json",
+          "time": "0:13:32",
+          "seconds": 812,
+          "songTitle": "少女A",
+          "artist": "椎名もた"
+        }
+      ],
+      "detailPath": "entities/songs/89f33b0ff39e9b81.json"
+    },
+    {
+      "rank": 1352,
       "id": "3855093f1dc2fac0",
       "name": "真赤",
       "secondary": "My Hair is Bad",
@@ -71,7 +131,7 @@
       "detailPath": "entities/songs/3855093f1dc2fac0.json"
     },
     {
-      "rank": 1352,
+      "rank": 1353,
       "id": "22faf57555ab3450",
       "name": "酔いどれ知らず",
       "secondary": "",
@@ -128,7 +188,7 @@
       "detailPath": "entities/songs/22faf57555ab3450.json"
     },
     {
-      "rank": 1353,
+      "rank": 1354,
       "id": "fbc33d2097a2a609",
       "name": "世界のつづき",
       "secondary": "Ado",
@@ -189,7 +249,7 @@
       "detailPath": "entities/songs/fbc33d2097a2a609.json"
     },
     {
-      "rank": 1354,
+      "rank": 1355,
       "id": "4bcedfbe73d3b9df",
       "name": "生きる",
       "secondary": "水野あつ",
@@ -250,7 +310,7 @@
       "detailPath": "entities/songs/4bcedfbe73d3b9df.json"
     },
     {
-      "rank": 1355,
+      "rank": 1356,
       "id": "e1a62c40a8dc2e1a",
       "name": "声出し",
       "secondary": "",
@@ -307,7 +367,7 @@
       "detailPath": "entities/songs/e1a62c40a8dc2e1a.json"
     },
     {
-      "rank": 1356,
+      "rank": 1357,
       "id": "11eccf72b952ccbe",
       "name": "青空のラプソディ",
       "secondary": "fhana",
@@ -368,7 +428,7 @@
       "detailPath": "entities/songs/11eccf72b952ccbe.json"
     },
     {
-      "rank": 1357,
+      "rank": 1358,
       "id": "1e46d71ec9d62d62",
       "name": "千本桜",
       "secondary": "White Flame",
@@ -428,7 +488,7 @@
       "detailPath": "entities/songs/1e46d71ec9d62d62.json"
     },
     {
-      "rank": 1358,
+      "rank": 1359,
       "id": "6cf50cc784b2a4e4",
       "name": "地球をあげる",
       "secondary": "はるまきごはん",
@@ -489,7 +549,7 @@
       "detailPath": "entities/songs/6cf50cc784b2a4e4.json"
     },
     {
-      "rank": 1359,
+      "rank": 1360,
       "id": "504a4e8fe8e51191",
       "name": "風の谷のナウシカ",
       "secondary": "安田成美",
@@ -549,7 +609,7 @@
       "detailPath": "entities/songs/504a4e8fe8e51191.json"
     },
     {
-      "rank": 1360,
+      "rank": 1361,
       "id": "4a0f2892aa07d970",
       "name": "風の日",
       "secondary": "ELLEGARDEN",
@@ -610,7 +670,7 @@
       "detailPath": "entities/songs/4a0f2892aa07d970.json"
     },
     {
-      "rank": 1361,
+      "rank": 1362,
       "id": "57d494368c2443cb",
       "name": "夢灯籠",
       "secondary": "RADWIMPS",
@@ -671,7 +731,7 @@
       "detailPath": "entities/songs/57d494368c2443cb.json"
     },
     {
-      "rank": 1362,
+      "rank": 1363,
       "id": "9c8548f6461820b2",
       "name": "約束の絆",
       "secondary": "妖夢討伐隊",
@@ -733,7 +793,7 @@
       "detailPath": "entities/songs/9c8548f6461820b2.json"
     },
     {
-      "rank": 1363,
+      "rank": 1364,
       "id": "8f344602a7a252b8",
       "name": "劣等上等",
       "secondary": "Giga",
@@ -793,7 +853,7 @@
       "detailPath": "entities/songs/8f344602a7a252b8.json"
     },
     {
-      "rank": 1364,
+      "rank": 1365,
       "id": "10fd1d1d95053ddc",
       "name": "浪漫飛行",
       "secondary": "米米CLUB",
@@ -853,7 +913,7 @@
       "detailPath": "entities/songs/10fd1d1d95053ddc.json"
     },
     {
-      "rank": 1365,
+      "rank": 1366,
       "id": "138dd9c2a03182e2",
       "name": "睨めっ娘",
       "secondary": "友成空",
@@ -913,7 +973,7 @@
       "detailPath": "entities/songs/138dd9c2a03182e2.json"
     },
     {
-      "rank": 1366,
+      "rank": 1367,
       "id": "b3faed3b47cc2f81",
       "name": "Surges",
       "secondary": "Orangestar",
@@ -974,7 +1034,7 @@
       "detailPath": "entities/songs/b3faed3b47cc2f81.json"
     },
     {
-      "rank": 1367,
+      "rank": 1368,
       "id": "6a1b579fb72679c1",
       "name": "星降る海",
       "secondary": "Aqu3ra",
@@ -1035,7 +1095,7 @@
       "detailPath": "entities/songs/6a1b579fb72679c1.json"
     },
     {
-      "rank": 1368,
+      "rank": 1369,
       "id": "0619de1518698ed8",
       "name": "《幾億光年》",
       "secondary": "Omoinotake",
@@ -1096,7 +1156,7 @@
       "detailPath": "entities/songs/0619de1518698ed8.json"
     },
     {
-      "rank": 1369,
+      "rank": 1370,
       "id": "aed26bd7de4dd75b",
       "name": "CORE PRIDE",
       "secondary": "UVERworld",
@@ -1156,7 +1216,7 @@
       "detailPath": "entities/songs/aed26bd7de4dd75b.json"
     },
     {
-      "rank": 1370,
+      "rank": 1371,
       "id": "c6ee4fbbdc5931ec",
       "name": "courage",
       "secondary": "戸松遥",
@@ -1216,7 +1276,7 @@
       "detailPath": "entities/songs/c6ee4fbbdc5931ec.json"
     },
     {
-      "rank": 1371,
+      "rank": 1372,
       "id": "1c64f441eaa777dd",
       "name": "DAYBREAK'S BELL",
       "secondary": "L'Arc〜en〜Ciel",
@@ -1276,7 +1336,7 @@
       "detailPath": "entities/songs/1c64f441eaa777dd.json"
     },
     {
-      "rank": 1372,
+      "rank": 1373,
       "id": "5d0b487cb49dc63a",
       "name": "I",
       "secondary": "BUMP OF CHICKEN",
@@ -1336,7 +1396,7 @@
       "detailPath": "entities/songs/5d0b487cb49dc63a.json"
     },
     {
-      "rank": 1373,
+      "rank": 1374,
       "id": "994ad06b08d34e4f",
       "name": "M",
       "secondary": "浜崎あゆみ",
@@ -1396,7 +1456,7 @@
       "detailPath": "entities/songs/994ad06b08d34e4f.json"
     },
     {
-      "rank": 1374,
+      "rank": 1375,
       "id": "5a75ae65499e29ce",
       "name": "Northern Lights",
       "secondary": "林原 めぐみ",
@@ -1456,7 +1516,7 @@
       "detailPath": "entities/songs/5a75ae65499e29ce.json"
     },
     {
-      "rank": 1375,
+      "rank": 1376,
       "id": "c446483f227d08f4",
       "name": "PONPONPON",
       "secondary": "きゃりーぱみゅぱみゅ",
@@ -1517,7 +1577,7 @@
       "detailPath": "entities/songs/c446483f227d08f4.json"
     },
     {
-      "rank": 1376,
+      "rank": 1377,
       "id": "c2112872cb1bea0b",
       "name": "Preserved Roses",
       "secondary": "T.M.Revolution×水樹奈々",
@@ -1577,7 +1637,7 @@
       "detailPath": "entities/songs/c2112872cb1bea0b.json"
     },
     {
-      "rank": 1377,
+      "rank": 1378,
       "id": "3c8f7b798db79e6f",
       "name": "real Emotion",
       "secondary": "倖田來未",
@@ -1637,7 +1697,7 @@
       "detailPath": "entities/songs/3c8f7b798db79e6f.json"
     },
     {
-      "rank": 1378,
+      "rank": 1379,
       "id": "a0d1f6c58efb6606",
       "name": "RESISTER",
       "secondary": "ASCA",
@@ -1697,7 +1757,7 @@
       "detailPath": "entities/songs/a0d1f6c58efb6606.json"
     },
     {
-      "rank": 1379,
+      "rank": 1380,
       "id": "1ded61d767348177",
       "name": "Tomorrow never knows",
       "secondary": "Mr.Children",
@@ -1757,7 +1817,7 @@
       "detailPath": "entities/songs/1ded61d767348177.json"
     },
     {
-      "rank": 1380,
+      "rank": 1381,
       "id": "8408441dc1192e5f",
       "name": "UFO",
       "secondary": "ピンク・レディー",
@@ -1817,7 +1877,7 @@
       "detailPath": "entities/songs/8408441dc1192e5f.json"
     },
     {
-      "rank": 1381,
+      "rank": 1382,
       "id": "f096617635407230",
       "name": "アフターダーク",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -1878,7 +1938,7 @@
       "detailPath": "entities/songs/f096617635407230.json"
     },
     {
-      "rank": 1382,
+      "rank": 1383,
       "id": "d174014b4af4cb21",
       "name": "いろは唄",
       "secondary": "銀サク",
@@ -1938,7 +1998,7 @@
       "detailPath": "entities/songs/d174014b4af4cb21.json"
     },
     {
-      "rank": 1383,
+      "rank": 1384,
       "id": "189a8d5ae393fd2a",
       "name": "かたちあるもの",
       "secondary": "柴咲コウ",
@@ -1999,7 +2059,7 @@
       "detailPath": "entities/songs/189a8d5ae393fd2a.json"
     },
     {
-      "rank": 1384,
+      "rank": 1385,
       "id": "0080f79b77763f08",
       "name": "サイノウサンプラー",
       "secondary": "電ポルP",
@@ -2059,7 +2119,7 @@
       "detailPath": "entities/songs/0080f79b77763f08.json"
     },
     {
-      "rank": 1385,
+      "rank": 1386,
       "id": "fc81304ae4d95e8a",
       "name": "シリョクケンサ",
       "secondary": "40mP feat. GUMI",
@@ -2119,7 +2179,7 @@
       "detailPath": "entities/songs/fc81304ae4d95e8a.json"
     },
     {
-      "rank": 1386,
+      "rank": 1387,
       "id": "89c017556469b7b8",
       "name": "しわあわせ",
       "secondary": "Vaundy",
@@ -2180,7 +2240,7 @@
       "detailPath": "entities/songs/89c017556469b7b8.json"
     },
     {
-      "rank": 1387,
+      "rank": 1388,
       "id": "bf62b0ae5e9ccaf3",
       "name": "テレパシ",
       "secondary": "DECO*27",
@@ -2240,7 +2300,7 @@
       "detailPath": "entities/songs/bf62b0ae5e9ccaf3.json"
     },
     {
-      "rank": 1388,
+      "rank": 1389,
       "id": "f93d4113500b5e65",
       "name": "ネトゲ廃人シュプレヒコール",
       "secondary": "さつきがてんこもり",
@@ -2300,7 +2360,7 @@
       "detailPath": "entities/songs/f93d4113500b5e65.json"
     },
     {
-      "rank": 1389,
+      "rank": 1390,
       "id": "426ca3afd0f158d3",
       "name": "ハイド・アンド・シーク",
       "secondary": "NOMELON NOLEMON",
@@ -2360,7 +2420,7 @@
       "detailPath": "entities/songs/426ca3afd0f158d3.json"
     },
     {
-      "rank": 1390,
+      "rank": 1391,
       "id": "da7f0408465ecff8",
       "name": "ハム太郎とっとこうた",
       "secondary": "",
@@ -2417,7 +2477,7 @@
       "detailPath": "entities/songs/da7f0408465ecff8.json"
     },
     {
-      "rank": 1391,
+      "rank": 1392,
       "id": "969f99e1c23f2ba8",
       "name": "ヒカリへ",
       "secondary": "ザ・ベイビースターズ",
@@ -2478,7 +2538,7 @@
       "detailPath": "entities/songs/969f99e1c23f2ba8.json"
     },
     {
-      "rank": 1392,
+      "rank": 1393,
       "id": "295ccc5812498187",
       "name": "ひこうき雲",
       "secondary": "荒井由実",
@@ -2539,7 +2599,7 @@
       "detailPath": "entities/songs/295ccc5812498187.json"
     },
     {
-      "rank": 1393,
+      "rank": 1394,
       "id": "6bdcab7c365ff8a3",
       "name": "マシュマロ",
       "secondary": "DECO*27",
@@ -2598,7 +2658,7 @@
       "detailPath": "entities/songs/6bdcab7c365ff8a3.json"
     },
     {
-      "rank": 1394,
+      "rank": 1395,
       "id": "2574e57c54f4fcdd",
       "name": "ムーンライト伝説",
       "secondary": "",
@@ -2656,7 +2716,7 @@
       "detailPath": "entities/songs/2574e57c54f4fcdd.json"
     },
     {
-      "rank": 1395,
+      "rank": 1396,
       "id": "50ff6d5f7fdbb5df",
       "name": "メロディー",
       "secondary": "玉置浩二",
@@ -2717,7 +2777,7 @@
       "detailPath": "entities/songs/50ff6d5f7fdbb5df.json"
     },
     {
-      "rank": 1396,
+      "rank": 1397,
       "id": "6064a6f4c03f3370",
       "name": "ラヴィ",
       "secondary": "",
@@ -2774,7 +2834,7 @@
       "detailPath": "entities/songs/6064a6f4c03f3370.json"
     },
     {
-      "rank": 1397,
+      "rank": 1398,
       "id": "7713dd1c46eb9f1a",
       "name": "ワールドイズマイン",
       "secondary": "supercell feat.初音ミク",
@@ -2834,7 +2894,7 @@
       "detailPath": "entities/songs/7713dd1c46eb9f1a.json"
     },
     {
-      "rank": 1398,
+      "rank": 1399,
       "id": "d03c61276cb607ea",
       "name": "愛言葉Ⅲ",
       "secondary": "DECO*27 feat.初音ミク",
@@ -2894,7 +2954,7 @@
       "detailPath": "entities/songs/d03c61276cb607ea.json"
     },
     {
-      "rank": 1399,
+      "rank": 1400,
       "id": "ac607ae7237875c1",
       "name": "悪魔の踊り方",
       "secondary": "こんにちは谷田さん",
@@ -2952,67 +3012,6 @@
         }
       ],
       "detailPath": "entities/songs/ac607ae7237875c1.json"
-    },
-    {
-      "rank": 1400,
-      "id": "846b8848a5eaf213",
-      "name": "雨き声残響",
-      "secondary": "Orangestar",
-      "channelId": "UCivwPlOp0ojnMPZj5pNOPPA",
-      "channelHandle": "@Sophia_Valentine",
-      "channelUrl": "",
-      "occurrenceCount": 20,
-      "videoCount": 20,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ahs_YVmyhBE",
-          "videoTitle": "【深夜歌枠】しゃべりと歌のギャップで風邪ひいちゃえ✨【Re:AcT / 燈明寺かぐら】#shorts",
-          "channelName": "燈明寺かぐら - Tomyoji Kagura -",
-          "publishedAt": "2026-10-03T17:22:42.614Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ahs_YVmyhBE/hqdefault.jpg",
-          "sourcePath": "sources/ah/ahs_YVmyhBE.json",
-          "time": "0:48:35",
-          "seconds": 2915,
-          "songTitle": "雨き声残響",
-          "artist": "Orangestar"
-        },
-        {
-          "videoId": "x4F9qaABzD0",
-          "videoTitle": "【#歌枠 #karaoke】お昼の癒し特化バラード縛り❄️✨睡眠導入にも【Vtuber/沫雪ゆうり】#shorts #初見さん大歓迎",
-          "channelName": "沫雪ゆうり Yuri_awayuki",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/x4F9qaABzD0/hqdefault.jpg",
-          "sourcePath": "sources/x4/x4F9qaABzD0.json",
-          "time": "0:53:52",
-          "seconds": 3232,
-          "songTitle": "雨き声残響",
-          "artist": "Orangestar"
-        },
-        {
-          "videoId": "iUl4gddCYKk",
-          "videoTitle": "【歌枠】９月も応援ありがとう！ボカロ・アニソン中心に歌うよ！",
-          "channelName": "こゐち -Koichi*-",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iUl4gddCYKk/hqdefault.jpg",
-          "sourcePath": "sources/iU/iUl4gddCYKk.json",
-          "time": "2:19:10",
-          "seconds": 8350,
-          "songTitle": "雨き声残響",
-          "artist": "Orangestar"
-        }
-      ],
-      "detailPath": "entities/songs/846b8848a5eaf213.json"
     }
   ]
 }

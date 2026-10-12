@@ -1,73 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "30d",
   "type": "vtubers",
   "page": 7,
   "pageSize": 50,
   "pageCount": 60,
-  "totalCount": 2966,
+  "totalCount": 2967,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 301,
-      "id": "cef881c6de813207",
-      "name": "色想かな / Shikisou Kana",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 58,
-      "videoCount": 3,
-      "songCount": 56,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "4qWMMp1EmuM",
-          "videoTitle": "【歌枠】酔っ払いによるカラオケ二次会🎤マジで好き勝手に自分たちの好きなお歌を歌う🐺🐏【#色想かな / #新人VTuber】",
-          "channelName": "色想かな / Shikisou Kana",
-          "publishedAt": "2026-09-26T19:08:54.683Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4qWMMp1EmuM/hqdefault.jpg",
-          "sourcePath": "sources/4q/4qWMMp1EmuM.json",
-          "time": "0:09:49",
-          "seconds": 589,
-          "songTitle": "Lemon",
-          "artist": "米津玄師（）"
-        },
-        {
-          "videoId": "Mle4e6OSw_M",
-          "videoTitle": "【歌枠】マネちゃんの単独歌枠配信🎤🖤なぜか配信者じゃないのに歌わされてます🐺【#色想かな / #新人VTuber】",
-          "channelName": "色想かな / Shikisou Kana",
-          "publishedAt": "2026-09-25T15:21:45.724Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Mle4e6OSw_M/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9JpHRu5mfqmUGh_z_SXAWejcqDQ",
-          "sourcePath": "sources/Ml/Mle4e6OSw_M.json",
-          "time": "0:12:19",
-          "seconds": 739,
-          "songTitle": "フィクション",
-          "artist": "sumika"
-        },
-        {
-          "videoId": "TXkI7X_TRcU",
-          "videoTitle": "【歌枠】ちょっぴりレアな色想かなの歌枠🎤🩵お歌は苦手だけど頑張って歌います～！🐏【#色想かな / #新人VTuber】",
-          "channelName": "色想かな / Shikisou Kana",
-          "publishedAt": "2026-09-21T15:38:33.795Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TXkI7X_TRcU/hqdefault.jpg",
-          "sourcePath": "sources/TX/TXkI7X_TRcU.json",
-          "time": "0:15:03",
-          "seconds": 903,
-          "songTitle": "Flamingo",
-          "artist": "米津玄師"
-        }
-      ],
-      "detailPath": "entities/vtubers/cef881c6de813207.json"
-    },
-    {
-      "rank": 302,
       "id": "9ffc9b918ade270e",
       "name": "星瑠璃メロウ / Hoshiruri Mellow",
       "secondary": "",
@@ -124,7 +67,7 @@
       "detailPath": "entities/vtubers/9ffc9b918ade270e.json"
     },
     {
-      "rank": 303,
+      "rank": 302,
       "id": "2256518634e9e3e8",
       "name": "茶々プラムム / Pulamumu",
       "secondary": "",
@@ -178,7 +121,7 @@
       "detailPath": "entities/vtubers/2256518634e9e3e8.json"
     },
     {
-      "rank": 304,
+      "rank": 303,
       "id": "fae7e3089ae7dba9",
       "name": "魔女ルンナ I 魔女Runna 🔮🌕 I JP & HKVtuber",
       "secondary": "",
@@ -223,7 +166,7 @@
       "detailPath": "entities/vtubers/fae7e3089ae7dba9.json"
     },
     {
-      "rank": 305,
+      "rank": 304,
       "id": "94fbd4a9fa5868a2",
       "name": "ねむくま まふゆ / Mafuyu Nemukuma",
       "secondary": "",
@@ -280,7 +223,7 @@
       "detailPath": "entities/vtubers/94fbd4a9fa5868a2.json"
     },
     {
-      "rank": 306,
+      "rank": 305,
       "id": "92756f91d0586c17",
       "name": "Nijyuna Ch.",
       "secondary": "",
@@ -337,7 +280,7 @@
       "detailPath": "entities/vtubers/92756f91d0586c17.json"
     },
     {
-      "rank": 307,
+      "rank": 306,
       "id": "41bfed99c9a70345",
       "name": "Poka ch. 泡ノ音ポカ",
       "secondary": "",
@@ -391,7 +334,7 @@
       "detailPath": "entities/vtubers/41bfed99c9a70345.json"
     },
     {
-      "rank": 308,
+      "rank": 307,
       "id": "9b9ad1701c4a759a",
       "name": "UNIT B (Pre-Debut) - mekPark",
       "secondary": "",
@@ -448,7 +391,7 @@
       "detailPath": "entities/vtubers/9b9ad1701c4a759a.json"
     },
     {
-      "rank": 309,
+      "rank": 308,
       "id": "b70fd0e994ac9867",
       "name": "阿出川リンネ",
       "secondary": "",
@@ -505,7 +448,7 @@
       "detailPath": "entities/vtubers/b70fd0e994ac9867.json"
     },
     {
-      "rank": 310,
+      "rank": 309,
       "id": "55c6004c1662b316",
       "name": "黒咲ルシア / LUCIA CHANNEL",
       "secondary": "",
@@ -562,7 +505,7 @@
       "detailPath": "entities/vtubers/55c6004c1662b316.json"
     },
     {
-      "rank": 311,
+      "rank": 310,
       "id": "fabca047d17cdadb",
       "name": "ノア・ポラリス -Noa Polaris-",
       "secondary": "",
@@ -619,7 +562,7 @@
       "detailPath": "entities/vtubers/fabca047d17cdadb.json"
     },
     {
-      "rank": 312,
+      "rank": 311,
       "id": "bd0f4e235086fbdf",
       "name": "祈月ヲト",
       "secondary": "",
@@ -676,7 +619,7 @@
       "detailPath": "entities/vtubers/bd0f4e235086fbdf.json"
     },
     {
-      "rank": 313,
+      "rank": 312,
       "id": "2f8d620d93e667f1",
       "name": "仁斗_nito",
       "secondary": "",
@@ -733,7 +676,7 @@
       "detailPath": "entities/vtubers/2f8d620d93e667f1.json"
     },
     {
-      "rank": 314,
+      "rank": 313,
       "id": "5c55ee6f78e44437",
       "name": "日花 もに -Hibana moni-",
       "secondary": "",
@@ -764,6 +707,63 @@
         }
       ],
       "detailPath": "entities/vtubers/5c55ee6f78e44437.json"
+    },
+    {
+      "rank": 314,
+      "id": "d45a1b74c52a9155",
+      "name": "灰棘らるむ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 56,
+      "videoCount": 7,
+      "songCount": 55,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ytmAHretC0E",
+          "videoTitle": "【#歌枠】全力！ボカロonly歌枠！【#新人vtuber 】",
+          "channelName": "灰棘らるむ",
+          "publishedAt": "2026-10-01T08:44:03.376Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ytmAHretC0E/hqdefault.jpg",
+          "sourcePath": "sources/yt/ytmAHretC0E.json",
+          "time": "0:06:45",
+          "seconds": 405,
+          "songTitle": "ロキ",
+          "artist": "みきとP feat.鏡音リン"
+        },
+        {
+          "videoId": "PrjJ_4kv6lw",
+          "videoTitle": "【#歌枠】全力！アニソン歌枠！【#新人vtuber 】",
+          "channelName": "灰棘らるむ",
+          "publishedAt": "2026-09-30T08:43:31.213Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PrjJ_4kv6lw/hqdefault.jpg",
+          "sourcePath": "sources/Pr/PrjJ_4kv6lw.json",
+          "time": "0:06:29",
+          "seconds": 389,
+          "songTitle": "星間飛行",
+          "artist": "ランカ・リー=中島愛"
+        },
+        {
+          "videoId": "_TpXzS1yDbA",
+          "videoTitle": "【#歌枠】全力！ラルクonly歌枠！【#新人vtuber 】",
+          "channelName": "灰棘らるむ",
+          "publishedAt": "2026-09-29T08:43:10.608Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_TpXzS1yDbA/hqdefault.jpg",
+          "sourcePath": "sources/_T/_TpXzS1yDbA.json",
+          "time": "0:06:32",
+          "seconds": 392,
+          "songTitle": "花葬",
+          "artist": "L'Arc〜en〜Ciel"
+        }
+      ],
+      "detailPath": "entities/vtubers/d45a1b74c52a9155.json"
     },
     {
       "rank": 315,

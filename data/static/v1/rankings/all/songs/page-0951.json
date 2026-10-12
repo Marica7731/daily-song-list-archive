@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 951,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 47501,
+      "id": "92c49391adb61466",
+      "name": "青藍遊泳",
+      "secondary": "にしな",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Do4HmKIkMX0",
+          "videoTitle": "【 歌枠 】水曜定期歌枠🎤 - singing stream -【彩華すゞり/#vtuber】",
+          "channelName": "彩華すゞり / Iroha Suzuri",
+          "publishedAt": "2026-09-09T10:18:16.955Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Do4HmKIkMX0/hqdefault.jpg",
+          "sourcePath": "sources/Do/Do4HmKIkMX0.json",
+          "time": "1:23:14",
+          "seconds": 4994,
+          "songTitle": "青藍遊泳",
+          "artist": "にしな"
+        }
+      ],
+      "detailPath": "entities/songs/92c49391adb61466.json"
+    },
+    {
+      "rank": 47502,
+      "id": "165dd0e4c424c82e",
+      "name": "青歴史",
+      "secondary": "こひ feat.燈火(わたし)",
+      "channelId": "UCRxvKuvdd95F5pXbr4IeSNw",
+      "channelHandle": "@tov_acg_",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "aOblFkZ6OG8",
+          "videoTitle": "【弾き語り】歌いたい衝動というやつで【燈火 -とび-】",
+          "channelName": "燈火とギター",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aOblFkZ6OG8/hqdefault.jpg",
+          "sourcePath": "sources/aO/aOblFkZ6OG8.json",
+          "time": "0:12:23",
+          "seconds": 743,
+          "songTitle": "青歴史",
+          "artist": "こひ feat.燈火(わたし)"
+        }
+      ],
+      "detailPath": "entities/songs/165dd0e4c424c82e.json"
+    },
+    {
+      "rank": 47503,
       "id": "257052431770a997",
       "name": "静かなるアフガン",
       "secondary": "長渕剛",
@@ -43,7 +106,7 @@
       "detailPath": "entities/songs/257052431770a997.json"
     },
     {
-      "rank": 47502,
+      "rank": 47504,
       "id": "87f6e8aae97689e2",
       "name": "静かな日々の階段を",
       "secondary": "Dragon Ash",
@@ -73,7 +136,7 @@
       "detailPath": "entities/songs/87f6e8aae97689e2.json"
     },
     {
-      "rank": 47503,
+      "rank": 47505,
       "id": "250dc4d5c089e3ea",
       "name": "静かな夜に",
       "secondary": "ラクス・クライン(田中理恵) （機動戦士ガンダムSEED）",
@@ -106,7 +169,7 @@
       "detailPath": "entities/songs/250dc4d5c089e3ea.json"
     },
     {
-      "rank": 47504,
+      "rank": 47506,
       "id": "54a39f169486eb44",
       "name": "静かな夜に",
       "secondary": "Shizukana Yoru ni",
@@ -139,7 +202,7 @@
       "detailPath": "entities/songs/54a39f169486eb44.json"
     },
     {
-      "rank": 47505,
+      "rank": 47507,
       "id": "8e5289f449ae686e",
       "name": "静かにして",
       "secondary": "",
@@ -172,7 +235,7 @@
       "detailPath": "entities/songs/8e5289f449ae686e.json"
     },
     {
-      "rank": 47506,
+      "rank": 47508,
       "id": "4cc78c2d34891938",
       "name": "静かの海",
       "secondary": "小宵",
@@ -205,7 +268,7 @@
       "detailPath": "entities/songs/4cc78c2d34891938.json"
     },
     {
-      "rank": 47507,
+      "rank": 47509,
       "id": "bf81e4f922909435",
       "name": "静寂はヘッドフォンの中",
       "secondary": "See-Saw",
@@ -238,7 +301,7 @@
       "detailPath": "entities/songs/bf81e4f922909435.json"
     },
     {
-      "rank": 47508,
+      "rank": 47510,
       "id": "cebdcb43e710cef0",
       "name": "昔々の漣",
       "secondary": "崩壊スターレイル・キュレネ",
@@ -271,7 +334,7 @@
       "detailPath": "entities/songs/cebdcb43e710cef0.json"
     },
     {
-      "rank": 47509,
+      "rank": 47511,
       "id": "c453da7e7465146c",
       "name": "昔々の漣",
       "secondary": "HOYO-Mix",
@@ -304,7 +367,7 @@
       "detailPath": "entities/songs/c453da7e7465146c.json"
     },
     {
-      "rank": 47510,
+      "rank": 47512,
       "id": "0fbce958388c184f",
       "name": "昔のネット用語だけで曲作ってみました",
       "secondary": "やなこ",
@@ -338,7 +401,7 @@
       "detailPath": "entities/songs/0fbce958388c184f.json"
     },
     {
-      "rank": 47511,
+      "rank": 47513,
       "id": "46b4784f8acdacfb",
       "name": "石井あみ",
       "secondary": "ハートにヒント！名探偵プリキュア！",
@@ -368,7 +431,7 @@
       "detailPath": "entities/songs/46b4784f8acdacfb.json"
     },
     {
-      "rank": 47512,
+      "rank": 47514,
       "id": "324e5e94cdba8dfc",
       "name": "石垣島・川平湾ライブカメラ",
       "secondary": "ミシュラン三つ星の絶景「川平ブルー」といまの天気をリアルタイムで",
@@ -401,7 +464,7 @@
       "detailPath": "entities/songs/324e5e94cdba8dfc.json"
     },
     {
-      "rank": 47513,
+      "rank": 47515,
       "id": "9337308bf6ed69ff",
       "name": "石焼き芋のうた",
       "secondary": "ヘンダーソン（アカペラで少し）",
@@ -431,7 +494,7 @@
       "detailPath": "entities/songs/9337308bf6ed69ff.json"
     },
     {
-      "rank": 47514,
+      "rank": 47516,
       "id": "3dac427783dbbee3",
       "name": "積みゲー",
       "secondary": "未記載",
@@ -463,7 +526,7 @@
       "detailPath": "entities/songs/3dac427783dbbee3.json"
     },
     {
-      "rank": 47515,
+      "rank": 47517,
       "id": "affa6fc2f6a02341",
       "name": "積木遊び",
       "secondary": "椎名林檎",
@@ -496,7 +559,7 @@
       "detailPath": "entities/songs/affa6fc2f6a02341.json"
     },
     {
-      "rank": 47516,
+      "rank": 47518,
       "id": "e56645613c55eb8f",
       "name": "積乱雲グラフィティ",
       "secondary": "ryo(supercell) feat.初音ミク",
@@ -529,7 +592,7 @@
       "detailPath": "entities/songs/e56645613c55eb8f.json"
     },
     {
-      "rank": 47517,
+      "rank": 47519,
       "id": "ab8268e0525b7f3b",
       "name": "積乱雲グラフティ",
       "secondary": "ryo, Dixie Flatline",
@@ -562,7 +625,7 @@
       "detailPath": "entities/songs/ab8268e0525b7f3b.json"
     },
     {
-      "rank": 47518,
+      "rank": 47520,
       "id": "532cfaa0c4bc6216",
       "name": "赤いスイートピー",
       "secondary": "松田聖子/富士フイルム 「アスタリフト」CMソング/1982",
@@ -595,7 +658,7 @@
       "detailPath": "entities/songs/532cfaa0c4bc6216.json"
     },
     {
-      "rank": 47519,
+      "rank": 47521,
       "id": "43fd34d04d3c3929",
       "name": "赤いスイートピー",
       "secondary": "1982",
@@ -628,7 +691,7 @@
       "detailPath": "entities/songs/43fd34d04d3c3929.json"
     },
     {
-      "rank": 47520,
+      "rank": 47522,
       "id": "ab91205c782e8165",
       "name": "赤いスイートピー",
       "secondary": "松田聖子 𝟙𝟡𝟠𝟚",
@@ -661,7 +724,7 @@
       "detailPath": "entities/songs/ab91205c782e8165.json"
     },
     {
-      "rank": 47521,
+      "rank": 47523,
       "id": "a9db16ec7253f2e2",
       "name": "赤いスイートピー Piano Ver",
       "secondary": "松田聖子",
@@ -695,7 +758,7 @@
       "detailPath": "entities/songs/a9db16ec7253f2e2.json"
     },
     {
-      "rank": 47522,
+      "rank": 47524,
       "id": "8ae96c88fd38be48",
       "name": "赤いスイートピー〈Akai Sweetpea〉",
       "secondary": "松田聖子",
@@ -728,7 +791,7 @@
       "detailPath": "entities/songs/8ae96c88fd38be48.json"
     },
     {
-      "rank": 47523,
+      "rank": 47525,
       "id": "242b6661f6ec1232",
       "name": "赤いハイヒール 太田裕美",
       "secondary": "初",
@@ -761,7 +824,7 @@
       "detailPath": "entities/songs/242b6661f6ec1232.json"
     },
     {
-      "rank": 47524,
+      "rank": 47526,
       "id": "276a5bf71a87fce8",
       "name": "赤いフリージア",
       "secondary": "メロン記念日 ( 少しだけｱｶﾍﾟﾗ )",
@@ -791,7 +854,7 @@
       "detailPath": "entities/songs/276a5bf71a87fce8.json"
     },
     {
-      "rank": 47525,
+      "rank": 47527,
       "id": "e1f5bf547aa52915",
       "name": "赤い河",
       "secondary": "未記載",
@@ -824,7 +887,7 @@
       "detailPath": "entities/songs/e1f5bf547aa52915.json"
     },
     {
-      "rank": 47526,
+      "rank": 47528,
       "id": "feb3b9c095a8912a",
       "name": "赤い華-You're gonna change to theflower",
       "secondary": "椎名へきる",
@@ -857,7 +920,7 @@
       "detailPath": "entities/songs/feb3b9c095a8912a.json"
     },
     {
-      "rank": 47527,
+      "rank": 47529,
       "id": "3d5aaab18ee29228",
       "name": "赤い靴",
       "secondary": "Salley",
@@ -890,7 +953,7 @@
       "detailPath": "entities/songs/3d5aaab18ee29228.json"
     },
     {
-      "rank": 47528,
+      "rank": 47530,
       "id": "57f26eaaa175a339",
       "name": "赤い靴",
       "secondary": "唱歌 / 95.104点",
@@ -923,7 +986,7 @@
       "detailPath": "entities/songs/57f26eaaa175a339.json"
     },
     {
-      "rank": 47529,
+      "rank": 47531,
       "id": "da1f99ca64ac3524",
       "name": "赤い月",
       "secondary": "鈴木達央",
@@ -956,7 +1019,7 @@
       "detailPath": "entities/songs/da1f99ca64ac3524.json"
     },
     {
-      "rank": 47530,
+      "rank": 47532,
       "id": "55c9483a64473623",
       "name": "赤い月",
       "secondary": "Janne Da Arc",
@@ -989,7 +1052,7 @@
       "detailPath": "entities/songs/55c9483a64473623.json"
     },
     {
-      "rank": 47531,
+      "rank": 47533,
       "id": "a78e33dcaa6227d0",
       "name": "赤い月に吠える夜",
       "secondary": "GO!GO!7188",
@@ -1022,7 +1085,7 @@
       "detailPath": "entities/songs/a78e33dcaa6227d0.json"
     },
     {
-      "rank": 47532,
+      "rank": 47534,
       "id": "918232efcbdf0ba0",
       "name": "赤い砂漠の伝説",
       "secondary": "島谷ひとみ",
@@ -1055,7 +1118,7 @@
       "detailPath": "entities/songs/918232efcbdf0ba0.json"
     },
     {
-      "rank": 47533,
+      "rank": 47535,
       "id": "fbc3d073a16ad39a",
       "name": "赤い糸",
       "secondary": "未記載",
@@ -1088,7 +1151,7 @@
       "detailPath": "entities/songs/fbc3d073a16ad39a.json"
     },
     {
-      "rank": 47534,
+      "rank": 47536,
       "id": "64cdfe4a3fdcfbad",
       "name": "赤い糸",
       "secondary": "Les.R",
@@ -1121,7 +1184,7 @@
       "detailPath": "entities/songs/64cdfe4a3fdcfbad.json"
     },
     {
-      "rank": 47535,
+      "rank": 47537,
       "id": "d46a8ab34541c20f",
       "name": "赤い糸",
       "secondary": "yozuca*",
@@ -1151,7 +1214,7 @@
       "detailPath": "entities/songs/d46a8ab34541c20f.json"
     },
     {
-      "rank": 47536,
+      "rank": 47538,
       "id": "dac8015bf2f7e8b1",
       "name": "赤い糸（原ｷｰ）",
       "secondary": "コブクロ",
@@ -1184,7 +1247,7 @@
       "detailPath": "entities/songs/dac8015bf2f7e8b1.json"
     },
     {
-      "rank": 47537,
+      "rank": 47539,
       "id": "fde11aa380ea55c3",
       "name": "赤い糸の伝説",
       "secondary": "NSP",
@@ -1214,7 +1277,7 @@
       "detailPath": "entities/songs/fde11aa380ea55c3.json"
     },
     {
-      "rank": 47538,
+      "rank": 47540,
       "id": "aa3f61c09fc0240e",
       "name": "赤い鳥逃げた",
       "secondary": "中森明菜",
@@ -1244,7 +1307,7 @@
       "detailPath": "entities/songs/aa3f61c09fc0240e.json"
     },
     {
-      "rank": 47539,
+      "rank": 47541,
       "id": "7d04de6fb73fa4ac",
       "name": "赤い日記帳",
       "secondary": "あか組4",
@@ -1278,7 +1341,7 @@
       "detailPath": "entities/songs/7d04de6fb73fa4ac.json"
     },
     {
-      "rank": 47540,
+      "rank": 47542,
       "id": "f801720202d27a49",
       "name": "赤い髪のチェリーブロッサム",
       "secondary": "佐久間咲也(CV:酒井広大)",
@@ -1308,7 +1371,7 @@
       "detailPath": "entities/songs/f801720202d27a49.json"
     },
     {
-      "rank": 47541,
+      "rank": 47543,
       "id": "cbcdfb5e4b208afa",
       "name": "赤い風船",
       "secondary": "浅田美代子（1973年）",
@@ -1338,7 +1401,7 @@
       "detailPath": "entities/songs/cbcdfb5e4b208afa.json"
     },
     {
-      "rank": 47542,
+      "rank": 47544,
       "id": "ea0d0e02cfcc55a8",
       "name": "赤い約束",
       "secondary": "Veil ∞ Lia",
@@ -1370,7 +1433,7 @@
       "detailPath": "entities/songs/ea0d0e02cfcc55a8.json"
     },
     {
-      "rank": 47543,
+      "rank": 47545,
       "id": "5c4b28a51cce2fe8",
       "name": "赤い涙",
       "secondary": "",
@@ -1403,7 +1466,7 @@
       "detailPath": "entities/songs/5c4b28a51cce2fe8.json"
     },
     {
-      "rank": 47544,
+      "rank": 47546,
       "id": "4aafc243277b487d",
       "name": "赤ちゃん銀河",
       "secondary": "柚羽まくら",
@@ -1436,7 +1499,7 @@
       "detailPath": "entities/songs/4aafc243277b487d.json"
     },
     {
-      "rank": 47545,
+      "rank": 47547,
       "id": "9c741923d618fae9",
       "name": "赤とんぼ",
       "secondary": "童謡",
@@ -1469,7 +1532,7 @@
       "detailPath": "entities/songs/9c741923d618fae9.json"
     },
     {
-      "rank": 47546,
+      "rank": 47548,
       "id": "afbc297e17b7bf1f",
       "name": "赤とんぼ",
       "secondary": "芹洋子",
@@ -1502,7 +1565,7 @@
       "detailPath": "entities/songs/afbc297e17b7bf1f.json"
     },
     {
-      "rank": 47547,
+      "rank": 47549,
       "id": "6f7ea617ea05d3a2",
       "name": "赤とんぼ",
       "secondary": "童謡・唱歌",
@@ -1535,7 +1598,7 @@
       "detailPath": "entities/songs/6f7ea617ea05d3a2.json"
     },
     {
-      "rank": 47548,
+      "rank": 47550,
       "id": "c6511df9c15fe506",
       "name": "赤と黒",
       "secondary": "",
@@ -1563,66 +1626,6 @@
         }
       ],
       "detailPath": "entities/songs/c6511df9c15fe506.json"
-    },
-    {
-      "rank": 47549,
-      "id": "6c012774d230f5b0",
-      "name": "赤ゆらの花",
-      "secondary": "",
-      "channelId": "UCZKmYYlgo4mspRprTK1OP5w",
-      "channelHandle": "@masaya1957",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oWkUyDChw7w",
-          "videoTitle": "【昭和フォーク】 火曜日 千春＆小椋佳 毎晩弾き語り・30分ライブ＜Day185＞2026 9/31",
-          "channelName": "石垣島からフォークソング【まー先生】",
-          "publishedAt": "2026-09-01T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oWkUyDChw7w/hqdefault.jpg",
-          "sourcePath": "sources/oW/oWkUyDChw7w.json",
-          "time": "0:11:50",
-          "seconds": 710,
-          "songTitle": "赤ゆらの花",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/6c012774d230f5b0.json"
-    },
-    {
-      "rank": 47550,
-      "id": "163e8c51128c1e57",
-      "name": "赤を塗って",
-      "secondary": "フル",
-      "channelId": "UCrF92dEkXiTtexol0yg4Gmw",
-      "channelHandle": "@manico_official",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "OC94IWAO0Uk",
-          "videoTitle": "弾き語り配信｜（2026/9/26アーカイブ）",
-          "channelName": "まにこ (manico)",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/OC94IWAO0Uk/hqdefault.jpg",
-          "sourcePath": "sources/OC/OC94IWAO0Uk.json",
-          "time": "0:42:10",
-          "seconds": 2530,
-          "songTitle": "赤を塗って",
-          "artist": "フル"
-        }
-      ],
-      "detailPath": "entities/songs/163e8c51128c1e57.json"
     }
   ]
 }

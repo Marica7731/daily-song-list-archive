@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:08:20.926Z",
+  "generatedAt": "2026-10-12T15:15:05.243Z",
   "range": "all",
   "type": "songs",
   "page": 109,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52875,
+  "totalCount": 52877,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5401,
+      "id": "49cfa8616a233a61",
+      "name": "真生活",
+      "secondary": "案山子 feat. 初音ミク",
+      "channelId": "UCA-dBOiqriMhZdRYP7t8Jjg",
+      "channelHandle": "@yuzu_zuyuzu",
+      "channelUrl": "",
+      "occurrenceCount": 5,
+      "videoCount": 5,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "aUlkLuO13AA",
+          "videoTitle": "【 歌枠 】キミと過ごす シルバーウィーク🎧５分だけでも聴いてみて【#のりまきゆずゆ #vtuber 】",
+          "channelName": "のりまきゆずゆ",
+          "publishedAt": "2026-09-22T04:46:16.140Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aUlkLuO13AA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPC9kHrG-htQenwRP39fobnJtE6A",
+          "sourcePath": "sources/aU/aUlkLuO13AA.json",
+          "time": "3:37:49",
+          "seconds": 13069,
+          "songTitle": "真生活",
+          "artist": "案山子 feat. 初音ミク"
+        },
+        {
+          "videoId": "FAp0KyTC4fA",
+          "videoTitle": "来週まで忙しいらしい【 歌枠 / KARAOKE 】【Vtuber/兎佐美】",
+          "channelName": "兎佐美*Usami Channel",
+          "publishedAt": "2026-09-11T18:14:02.543Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/FAp0KyTC4fA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAI3uWJCasO_sFlMdRy6Of_wx832Q",
+          "sourcePath": "sources/FA/FAp0KyTC4fA.json",
+          "time": "0:48:14",
+          "seconds": 2894,
+          "songTitle": "真生活",
+          "artist": "案山子 feat.初音ミク"
+        },
+        {
+          "videoId": "7YSC2t_sk7w",
+          "videoTitle": "【 歌枠 】一週間、はやすぎるんだよォー！／定期歌枠 #89 【 惑世いと┆#vtuber 】",
+          "channelName": "惑世いと - wakuse ito-",
+          "publishedAt": "2026-09-11T12:41:31.718Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7YSC2t_sk7w/hqdefault.jpg",
+          "sourcePath": "sources/7Y/7YSC2t_sk7w.json",
+          "time": "1:59:53",
+          "seconds": 7193,
+          "songTitle": "真生活",
+          "artist": "案山子 feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/49cfa8616a233a61.json"
+    },
+    {
+      "rank": 5402,
       "id": "fef74ccc5da11c35",
       "name": "親愛なる世界へ",
       "secondary": "Ceui",
@@ -67,7 +125,7 @@
       "detailPath": "entities/songs/fef74ccc5da11c35.json"
     },
     {
-      "rank": 5402,
+      "rank": 5403,
       "id": "82eff3c9170a6737",
       "name": "垂直落下",
       "secondary": "傘村トータ",
@@ -128,7 +186,7 @@
       "detailPath": "entities/songs/82eff3c9170a6737.json"
     },
     {
-      "rank": 5403,
+      "rank": 5404,
       "id": "bb93e0bd77ca1f9e",
       "name": "世界はふたり",
       "secondary": "澄花",
@@ -186,7 +244,7 @@
       "detailPath": "entities/songs/bb93e0bd77ca1f9e.json"
     },
     {
-      "rank": 5404,
+      "rank": 5405,
       "id": "93c24a96f732b23d",
       "name": "世界一可愛い私",
       "secondary": "初星学園",
@@ -246,7 +304,7 @@
       "detailPath": "entities/songs/93c24a96f732b23d.json"
     },
     {
-      "rank": 5405,
+      "rank": 5406,
       "id": "422f30e45af52ad1",
       "name": "世界一可愛い私",
       "secondary": "藤田ことね（CV.飯田ヒカル）",
@@ -305,7 +363,7 @@
       "detailPath": "entities/songs/422f30e45af52ad1.json"
     },
     {
-      "rank": 5406,
+      "rank": 5407,
       "id": "9449a433a48f1b0b",
       "name": "星が瞬くこんな夜に",
       "secondary": "",
@@ -362,7 +420,7 @@
       "detailPath": "entities/songs/9449a433a48f1b0b.json"
     },
     {
-      "rank": 5407,
+      "rank": 5408,
       "id": "399c4c8432370e90",
       "name": "星に願いを",
       "secondary": "春奈有美",
@@ -419,7 +477,7 @@
       "detailPath": "entities/songs/399c4c8432370e90.json"
     },
     {
-      "rank": 5408,
+      "rank": 5409,
       "id": "f108784aec884e2f",
       "name": "星空のエチュード",
       "secondary": "ななしいんく",
@@ -479,7 +537,7 @@
       "detailPath": "entities/songs/f108784aec884e2f.json"
     },
     {
-      "rank": 5409,
+      "rank": 5410,
       "id": "01b110d8cf81ecee",
       "name": "星屑の革紐",
       "secondary": "Sound Horizon",
@@ -539,7 +597,7 @@
       "detailPath": "entities/songs/01b110d8cf81ecee.json"
     },
     {
-      "rank": 5410,
+      "rank": 5411,
       "id": "8c8186239fae1297",
       "name": "星霜の轍",
       "secondary": "平岡歌恋",
@@ -596,7 +654,7 @@
       "detailPath": "entities/songs/8c8186239fae1297.json"
     },
     {
-      "rank": 5411,
+      "rank": 5412,
       "id": "6330989857ed0b1f",
       "name": "正夢",
       "secondary": "スピッツ",
@@ -656,7 +714,7 @@
       "detailPath": "entities/songs/6330989857ed0b1f.json"
     },
     {
-      "rank": 5412,
+      "rank": 5413,
       "id": "e4c47f4f2457ed3e",
       "name": "正夢デエト",
       "secondary": "電ポルP",
@@ -713,7 +771,7 @@
       "detailPath": "entities/songs/e4c47f4f2457ed3e.json"
     },
     {
-      "rank": 5413,
+      "rank": 5414,
       "id": "75669dbf06c38ba8",
       "name": "生きがい",
       "secondary": "SUPER BEAVER",
@@ -773,7 +831,7 @@
       "detailPath": "entities/songs/75669dbf06c38ba8.json"
     },
     {
-      "rank": 5414,
+      "rank": 5415,
       "id": "195f21f3c50c958a",
       "name": "生きていたんだよな",
       "secondary": "あいみょん",
@@ -833,7 +891,7 @@
       "detailPath": "entities/songs/195f21f3c50c958a.json"
     },
     {
-      "rank": 5415,
+      "rank": 5416,
       "id": "36cd1718ca3b3014",
       "name": "声",
       "secondary": "はりーP",
@@ -893,7 +951,7 @@
       "detailPath": "entities/songs/36cd1718ca3b3014.json"
     },
     {
-      "rank": 5416,
+      "rank": 5417,
       "id": "49fe2607c9028ccc",
       "name": "声出し",
       "secondary": "未記載",
@@ -951,7 +1009,7 @@
       "detailPath": "entities/songs/49fe2607c9028ccc.json"
     },
     {
-      "rank": 5417,
+      "rank": 5418,
       "id": "e33ec39373aedfea",
       "name": "青いプロローグ",
       "secondary": "姫咲ゆめの",
@@ -1011,7 +1069,7 @@
       "detailPath": "entities/songs/e33ec39373aedfea.json"
     },
     {
-      "rank": 5418,
+      "rank": 5419,
       "id": "48560eda7c19e474",
       "name": "青い車",
       "secondary": "スピッツ",
@@ -1071,7 +1129,7 @@
       "detailPath": "entities/songs/48560eda7c19e474.json"
     },
     {
-      "rank": 5419,
+      "rank": 5420,
       "id": "da841c19015a9969",
       "name": "青い春",
       "secondary": "back number",
@@ -1128,7 +1186,7 @@
       "detailPath": "entities/songs/da841c19015a9969.json"
     },
     {
-      "rank": 5420,
+      "rank": 5421,
       "id": "31f2a1f1f187fee8",
       "name": "青春狂騒曲",
       "secondary": "サンボマスター",
@@ -1185,7 +1243,7 @@
       "detailPath": "entities/songs/31f2a1f1f187fee8.json"
     },
     {
-      "rank": 5421,
+      "rank": 5422,
       "id": "3c00d9b8c55de382",
       "name": "赤いスイートピー",
       "secondary": "",
@@ -1242,7 +1300,7 @@
       "detailPath": "entities/songs/3c00d9b8c55de382.json"
     },
     {
-      "rank": 5422,
+      "rank": 5423,
       "id": "e6e4534a52513641",
       "name": "雪乃くりす。 @YukinoKurisu",
       "secondary": "",
@@ -1296,7 +1354,7 @@
       "detailPath": "entities/songs/e6e4534a52513641.json"
     },
     {
-      "rank": 5423,
+      "rank": 5424,
       "id": "d02ff2fd0127c926",
       "name": "前前前世",
       "secondary": "RADWINPS",
@@ -1356,7 +1414,7 @@
       "detailPath": "entities/songs/d02ff2fd0127c926.json"
     },
     {
-      "rank": 5424,
+      "rank": 5425,
       "id": "852ecb4dc4ce5299",
       "name": "全部夢だった!",
       "secondary": "黒うさぎ",
@@ -1413,7 +1471,7 @@
       "detailPath": "entities/songs/852ecb4dc4ce5299.json"
     },
     {
-      "rank": 5425,
+      "rank": 5426,
       "id": "4b8a267a3fdadfe7",
       "name": "創聖のアクエリオン",
       "secondary": "AKINO ※JOYSOUND",
@@ -1470,7 +1528,7 @@
       "detailPath": "entities/songs/4b8a267a3fdadfe7.json"
     },
     {
-      "rank": 5426,
+      "rank": 5427,
       "id": "f93d8466c46556bf",
       "name": "奏",
       "secondary": "スキマスイッチ（ピアノ伴奏Ver.）",
@@ -1529,7 +1587,7 @@
       "detailPath": "entities/songs/f93d8466c46556bf.json"
     },
     {
-      "rank": 5427,
+      "rank": 5428,
       "id": "4394716a943c1d47",
       "name": "想いを巡らす100の事象",
       "secondary": "EGOIST",
@@ -1589,7 +1647,7 @@
       "detailPath": "entities/songs/4394716a943c1d47.json"
     },
     {
-      "rank": 5428,
+      "rank": 5429,
       "id": "af59bb5ef4df2912",
       "name": "想い咲く時",
       "secondary": "アオイエマ",
@@ -1649,7 +1707,7 @@
       "detailPath": "entities/songs/af59bb5ef4df2912.json"
     },
     {
-      "rank": 5429,
+      "rank": 5430,
       "id": "41a1aaed54a269e4",
       "name": "想わせぶりっこ",
       "secondary": "≠ME",
@@ -1709,7 +1767,7 @@
       "detailPath": "entities/songs/41a1aaed54a269e4.json"
     },
     {
-      "rank": 5430,
+      "rank": 5431,
       "id": "2ebf399f6eefddcf",
       "name": "相対性インソムニア",
       "secondary": "神凪アンナ",
@@ -1766,7 +1824,7 @@
       "detailPath": "entities/songs/2ebf399f6eefddcf.json"
     },
     {
-      "rank": 5431,
+      "rank": 5432,
       "id": "fa974784747a31b2",
       "name": "草々不一",
       "secondary": "ロクデナシ",
@@ -1826,7 +1884,7 @@
       "detailPath": "entities/songs/fa974784747a31b2.json"
     },
     {
-      "rank": 5432,
+      "rank": 5433,
       "id": "aaeb2da5a4fb04bb",
       "name": "草創のスレシア",
       "secondary": "ネモ・テルミナス",
@@ -1885,7 +1943,7 @@
       "detailPath": "entities/songs/aaeb2da5a4fb04bb.json"
     },
     {
-      "rank": 5433,
+      "rank": 5434,
       "id": "3c1e0a1853ca9307",
       "name": "蒼穹",
       "secondary": "angela",
@@ -1943,7 +2001,7 @@
       "detailPath": "entities/songs/3c1e0a1853ca9307.json"
     },
     {
-      "rank": 5434,
+      "rank": 5435,
       "id": "2a4b7dec13c642d8",
       "name": "蒼穹のファンファーレ",
       "secondary": "FictionJunction",
@@ -2003,7 +2061,7 @@
       "detailPath": "entities/songs/2a4b7dec13c642d8.json"
     },
     {
-      "rank": 5435,
+      "rank": 5436,
       "id": "e2434499e1ee041a",
       "name": "走れSAKAMOTO",
       "secondary": "Vaundy",
@@ -2063,7 +2121,7 @@
       "detailPath": "entities/songs/e2434499e1ee041a.json"
     },
     {
-      "rank": 5436,
+      "rank": 5437,
       "id": "11877c555613679d",
       "name": "側にいて",
       "secondary": "阿部真央",
@@ -2121,7 +2179,7 @@
       "detailPath": "entities/songs/11877c555613679d.json"
     },
     {
-      "rank": 5437,
+      "rank": 5438,
       "id": "4d98cc8cb635b8a4",
       "name": "他人事の音がする",
       "secondary": "あめのむらくもP",
@@ -2181,7 +2239,7 @@
       "detailPath": "entities/songs/4d98cc8cb635b8a4.json"
     },
     {
-      "rank": 5438,
+      "rank": 5439,
       "id": "40df00c805c47eaa",
       "name": "太陽系デスコ",
       "secondary": "",
@@ -2238,7 +2296,7 @@
       "detailPath": "entities/songs/40df00c805c47eaa.json"
     },
     {
-      "rank": 5439,
+      "rank": 5440,
       "id": "de2bc1893f07baf0",
       "name": "太陽曰く燃えよカオス",
       "secondary": "這いよれ!ニャル子さん",
@@ -2296,7 +2354,7 @@
       "detailPath": "entities/songs/de2bc1893f07baf0.json"
     },
     {
-      "rank": 5440,
+      "rank": 5441,
       "id": "4bcba8d9c14999a5",
       "name": "打ち上げ花火",
       "secondary": "",
@@ -2353,7 +2411,7 @@
       "detailPath": "entities/songs/4bcba8d9c14999a5.json"
     },
     {
-      "rank": 5441,
+      "rank": 5442,
       "id": "1a61b8fe548d9318",
       "name": "待機映像",
       "secondary": "",
@@ -2410,7 +2468,7 @@
       "detailPath": "entities/songs/1a61b8fe548d9318.json"
     },
     {
-      "rank": 5442,
+      "rank": 5443,
       "id": "da4bb79e4ff5778b",
       "name": "大空と大地の中で",
       "secondary": "松山千春",
@@ -2468,7 +2526,7 @@
       "detailPath": "entities/songs/da4bb79e4ff5778b.json"
     },
     {
-      "rank": 5443,
+      "rank": 5444,
       "id": "e724594071c68d79",
       "name": "大丈夫",
       "secondary": "wacci",
@@ -2528,7 +2586,7 @@
       "detailPath": "entities/songs/e724594071c68d79.json"
     },
     {
-      "rank": 5444,
+      "rank": 5445,
       "id": "0cffea21db87bf7f",
       "name": "大丈夫",
       "secondary": "RADWIMPS",
@@ -2588,7 +2646,7 @@
       "detailPath": "entities/songs/0cffea21db87bf7f.json"
     },
     {
-      "rank": 5445,
+      "rank": 5446,
       "id": "18ddc3d18e21130f",
       "name": "第一回運試しレース",
       "secondary": "",
@@ -2645,7 +2703,7 @@
       "detailPath": "entities/songs/18ddc3d18e21130f.json"
     },
     {
-      "rank": 5446,
+      "rank": 5447,
       "id": "a1200e40ed28c97d",
       "name": "第三の心臓",
       "secondary": "はるまきごはん",
@@ -2706,7 +2764,7 @@
       "detailPath": "entities/songs/a1200e40ed28c97d.json"
     },
     {
-      "rank": 5447,
+      "rank": 5448,
       "id": "c0f67b7ec502dae3",
       "name": "第二回運試しレース",
       "secondary": "",
@@ -2763,7 +2821,7 @@
       "detailPath": "entities/songs/c0f67b7ec502dae3.json"
     },
     {
-      "rank": 5448,
+      "rank": 5449,
       "id": "75abfc917bfdc7b1",
       "name": "男女",
       "secondary": "太郎",
@@ -2822,7 +2880,7 @@
       "detailPath": "entities/songs/75abfc917bfdc7b1.json"
     },
     {
-      "rank": 5449,
+      "rank": 5450,
       "id": "edf5918258ccec6a",
       "name": "中央フリーウェイ",
       "secondary": "松任谷由実",
@@ -2880,65 +2938,6 @@
         }
       ],
       "detailPath": "entities/songs/edf5918258ccec6a.json"
-    },
-    {
-      "rank": 5450,
-      "id": "d29bac614c97241b",
-      "name": "仲直りシュークリーム",
-      "secondary": "=LOVE",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 5,
-      "videoCount": 5,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "5Oe4F3kzGGw",
-          "videoTitle": "【雑談歌枠】初見さん、ROMさん大歓迎 ୨୧ ˖* 元気になれる配信♡【#にっこりわたち / #新人vtuber 】",
-          "channelName": "にっこりわたち^^*",
-          "publishedAt": "2026-09-30T13:59:48.295Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5Oe4F3kzGGw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSdQ8lnoatoWVTvoouyYoRK6_QaA",
-          "sourcePath": "sources/5O/5Oe4F3kzGGw.json",
-          "time": "3:31:36",
-          "seconds": 12696,
-          "songTitle": "仲直りシュークリーム",
-          "artist": "＝LOVE"
-        },
-        {
-          "videoId": "wSq_0maCKZU",
-          "videoTitle": "【歌枠】初見◎誕生日と200人登録記念！カラオケ付き合って【#新人vtuber 】",
-          "channelName": "久遠イヴ / 9on IV",
-          "publishedAt": "2026-09-26T10:48:54.683Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wSq_0maCKZU/hqdefault.jpg",
-          "sourcePath": "sources/wS/wSq_0maCKZU.json",
-          "time": "3:08:33",
-          "seconds": 11313,
-          "songTitle": "仲直りシュークリーム",
-          "artist": "=LOVE"
-        },
-        {
-          "videoId": "to8dHve2570",
-          "videoTitle": "【雑談歌枠耐久】チャ録３０００人耐久！！ 初見さん、ROMさん大歓迎 ୨୧ ˖* 元気になれる配信♡【#にっこりわたち / #新人vtuber 】",
-          "channelName": "にっこりわたち^^*",
-          "publishedAt": "2026-08-31T17:33:35.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/to8dHve2570/hqdefault.jpg",
-          "sourcePath": "sources/to/to8dHve2570.json",
-          "time": "4:48:56",
-          "seconds": 17336,
-          "songTitle": "仲直りシュークリーム",
-          "artist": "=LOVE"
-        }
-      ],
-      "detailPath": "entities/songs/d29bac614c97241b.json"
     }
   ]
 }
