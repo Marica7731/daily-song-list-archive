@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "30d",
   "type": "artists",
   "page": 8,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10857,
+  "totalCount": 10861,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 351,
+      "id": "1edf00555e09a36d",
+      "name": "梅とら",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 32,
+      "videoCount": 21,
+      "songCount": 10,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "a6kB4HgDThs",
+          "videoTitle": "⸜ #歌枠 #耐久⸝ 同接30目標!!好きな歌を歌います!! ᎒ #羽月うずな #逃げやがったぞおぃ #Vtuber ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-10-12T11:41:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a6kB4HgDThs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTvgo8qdZvBidXhiWX45tGCnsI7A",
+          "sourcePath": "sources/a6/a6kB4HgDThs.json",
+          "time": "2:15:04",
+          "seconds": 8104,
+          "songTitle": "虎視眈々",
+          "artist": "梅とら"
+        },
+        {
+          "videoId": "Nofrve7K0Nw",
+          "videoTitle": "【歌枠/Karaoke 】今宵も深夜のまったり歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
+          "channelName": "飲酒じめさん【hajime】",
+          "publishedAt": "2026-10-08T19:22:00.845Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Nofrve7K0Nw/hqdefault.jpg",
+          "sourcePath": "sources/No/Nofrve7K0Nw.json",
+          "time": "0:45:21",
+          "seconds": 2721,
+          "songTitle": "威風堂々",
+          "artist": "梅とら"
+        },
+        {
+          "videoId": "XX9w5HG4zJA",
+          "videoTitle": "【#karaoke #歌枠 / singing stream 】⚡カッコイイ電子音マイクで歌う⚡ボカロ中心歌枠🎤✨【Δ.DELUTAYA】",
+          "channelName": "DELUTAYA Δ.",
+          "publishedAt": "2026-10-08T17:00:41.851Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XX9w5HG4zJA/hqdefault.jpg",
+          "sourcePath": "sources/XX/XX9w5HG4zJA.json",
+          "time": "1:17:00",
+          "seconds": 4620,
+          "songTitle": "狂喜乱舞",
+          "artist": "梅とら"
+        }
+      ],
+      "detailPath": "entities/artists/1edf00555e09a36d.json"
+    },
+    {
+      "rank": 352,
       "id": "35be128766b426b7",
       "name": "長渕剛",
       "secondary": "",
@@ -68,7 +125,7 @@
       "detailPath": "entities/artists/35be128766b426b7.json"
     },
     {
-      "rank": 352,
+      "rank": 353,
       "id": "31c8b7919022cda1",
       "name": "羊文学",
       "secondary": "",
@@ -126,7 +183,7 @@
       "detailPath": "entities/artists/31c8b7919022cda1.json"
     },
     {
-      "rank": 353,
+      "rank": 354,
       "id": "ae6bbb0a39551442",
       "name": "Dannie May",
       "secondary": "",
@@ -183,7 +240,7 @@
       "detailPath": "entities/artists/ae6bbb0a39551442.json"
     },
     {
-      "rank": 354,
+      "rank": 355,
       "id": "f449c12473fb9333",
       "name": "Tommy heavenly6",
       "secondary": "",
@@ -238,63 +295,6 @@
         }
       ],
       "detailPath": "entities/artists/f449c12473fb9333.json"
-    },
-    {
-      "rank": 355,
-      "id": "157f188a26fcbbca",
-      "name": "幾田りら",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 31,
-      "videoCount": 30,
-      "songCount": 7,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mDYtuiAFapM",
-          "videoTitle": "【朝活 / 歌枠】朝活勢にも、そろそろ私の歌を知ってほしい。｜初見歓迎",
-          "channelName": "星瑠璃メロウ / Hoshiruri Mellow",
-          "publishedAt": "2026-10-07T01:30:41.841Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mDYtuiAFapM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2tEhbEXgZSbAU84w2BigKBCIP4w&usqp=CBQ",
-          "sourcePath": "sources/mD/mDYtuiAFapM.json",
-          "time": "0:09:33",
-          "seconds": 573,
-          "songTitle": "百花繚乱",
-          "artist": "幾田りら"
-        },
-        {
-          "videoId": "8Mpcq8y3PFk",
-          "videoTitle": "【歌枠】高評価でイラスト公開...？┊#karaoke",
-          "channelName": "ねぴん / Nepin ch.",
-          "publishedAt": "2026-10-04T13:22:03.051Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8Mpcq8y3PFk/hqdefault.jpg",
-          "sourcePath": "sources/8M/8Mpcq8y3PFk.json",
-          "time": "0:55:47",
-          "seconds": 3347,
-          "songTitle": "百花繚乱",
-          "artist": "幾田りら"
-        },
-        {
-          "videoId": "aT_xvL94sC0",
-          "videoTitle": "【歌枠/Chill】おやすみ前の微睡ちるタイム【紫霄/#紫霄のまにまに】",
-          "channelName": "紫霄 / xiseu",
-          "publishedAt": "2026-10-03T16:26:23.378Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/aT_xvL94sC0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJ0-Ci9iOv5w2urrz1-94UHGillg",
-          "sourcePath": "sources/aT/aT_xvL94sC0.json",
-          "time": "1:31:29",
-          "seconds": 5489,
-          "songTitle": "いのちの名前",
-          "artist": "幾田りら"
-        }
-      ],
-      "detailPath": "entities/artists/157f188a26fcbbca.json"
     },
     {
       "rank": 356,

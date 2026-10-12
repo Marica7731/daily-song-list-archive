@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "schemaVersion": 1,
   "policy": "quarantine/dedupe/normalize derived pages only; retain unmodified days/* and state.json",
-  "inputVideos": 16679,
-  "inputOccurrences": 190581,
-  "visibleVideos": 14202,
-  "visibleOccurrences": 187930,
+  "inputVideos": 16685,
+  "inputOccurrences": 190687,
+  "visibleVideos": 14208,
+  "visibleOccurrences": 188004,
   "quarantinedOccurrences": 2275,
   "quarantinedVideos": 1508,
-  "deduplicatedOccurrences": 376,
+  "deduplicatedOccurrences": 408,
   "normalizedArtistOccurrences": 432,
-  "normalizedReleaseMetadataOccurrences": 2107,
+  "normalizedReleaseMetadataOccurrences": 2116,
   "repairedDateCreditOccurrences": 59,
   "repairedStructuredCreditOccurrences": 3006,
   "repairedKnownSourceCreditOccurrences": 157,
@@ -1061,7 +1061,7 @@
     },
     "2026-10-04": {
       "quarantinedOccurrences": 6,
-      "deduplicatedOccurrences": 1,
+      "deduplicatedOccurrences": 33,
       "byReason": {
         "reviewed_bad_description_source": 1,
         "prayer_broadcast_timeline": 5
@@ -7981,6 +7981,10 @@
     "MeKiy-wu8Xo": {
       "quarantinedOccurrences": 1,
       "deduplicatedOccurrences": 0
+    },
+    "kVEWlOTpx0s": {
+      "quarantinedOccurrences": 0,
+      "deduplicatedOccurrences": 32
     },
     "bzUUwXWw36s": {
       "quarantinedOccurrences": 1,

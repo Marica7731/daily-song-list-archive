@@ -1,16 +1,78 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "all",
   "type": "artists",
   "page": 29,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20013,
+  "totalCount": 20017,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1401,
+      "id": "b01105ed6669f816",
+      "name": "meg rock",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 12,
+      "videoCount": 11,
+      "songCount": 3,
+      "keywords": [
+        "karaoke",
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6oGJVU5UG5Q",
+          "videoTitle": "【 #耐久歌枠┆#Karaoke 】高評価300耐久歌枠👍❤️‍🔥300 Likes Endurance Karaoke【 #なれたん┆#Vsinger 】",
+          "channelName": "なれたん Naraetan Ch.",
+          "publishedAt": "2026-10-08T13:48:27.829Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6oGJVU5UG5Q/hqdefault.jpg",
+          "sourcePath": "sources/6o/6oGJVU5UG5Q.json",
+          "time": "0:43:57",
+          "seconds": 2637,
+          "songTitle": "clover",
+          "artist": "meg rock"
+        },
+        {
+          "videoId": "z19JtYSJUIc",
+          "videoTitle": "【歌枠#18】7月テーマ「アニメ」【沙那依さな/VTuber】",
+          "channelName": "沙那依さな",
+          "publishedAt": "2026-10-02T18:26:25.634Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/z19JtYSJUIc/hqdefault.jpg",
+          "sourcePath": "sources/z1/z19JtYSJUIc.json",
+          "time": "0:36:58",
+          "seconds": 2218,
+          "songTitle": "clover",
+          "artist": "meg rock"
+        },
+        {
+          "videoId": "3RGSFhUef9M",
+          "videoTitle": "【 歌枠 ⁞ Karaoke 】たゆたう歌【最高音質】 #初見歓迎 #歌枠 #Vsinger #Karaoke",
+          "channelName": "ネモ・テルミナス",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3RGSFhUef9M/hqdefault.jpg",
+          "sourcePath": "sources/3R/3RGSFhUef9M.json",
+          "time": "1:42:45",
+          "seconds": 6165,
+          "songTitle": "clover",
+          "artist": "meg rock"
+        }
+      ],
+      "detailPath": "entities/artists/b01105ed6669f816.json"
+    },
+    {
+      "rank": 1402,
       "id": "44a39b5f0b8a97ab",
       "name": "MIMI feat. 可不",
       "secondary": "",
@@ -70,7 +132,7 @@
       "detailPath": "entities/artists/44a39b5f0b8a97ab.json"
     },
     {
-      "rank": 1402,
+      "rank": 1403,
       "id": "3513e67df5035fde",
       "name": "NIRGILIS",
       "secondary": "",
@@ -131,7 +193,7 @@
       "detailPath": "entities/artists/3513e67df5035fde.json"
     },
     {
-      "rank": 1403,
+      "rank": 1404,
       "id": "1c485bbdc8af02aa",
       "name": "Plastic Tree",
       "secondary": "",
@@ -191,7 +253,7 @@
       "detailPath": "entities/artists/1c485bbdc8af02aa.json"
     },
     {
-      "rank": 1404,
+      "rank": 1405,
       "id": "0f3a2e51478a4477",
       "name": "Ryokuoushoku Shakai",
       "secondary": "",
@@ -251,7 +313,7 @@
       "detailPath": "entities/artists/0f3a2e51478a4477.json"
     },
     {
-      "rank": 1405,
+      "rank": 1406,
       "id": "73adb04d805bdf7e",
       "name": "ケツメイシ",
       "secondary": "",
@@ -311,7 +373,7 @@
       "detailPath": "entities/artists/73adb04d805bdf7e.json"
     },
     {
-      "rank": 1406,
+      "rank": 1407,
       "id": "8402e113834589da",
       "name": "リーガルリリー",
       "secondary": "",
@@ -372,7 +434,7 @@
       "detailPath": "entities/artists/8402e113834589da.json"
     },
     {
-      "rank": 1407,
+      "rank": 1408,
       "id": "4783b79b3cdfeb9d",
       "name": "綾香",
       "secondary": "",
@@ -432,7 +494,7 @@
       "detailPath": "entities/artists/4783b79b3cdfeb9d.json"
     },
     {
-      "rank": 1408,
+      "rank": 1409,
       "id": "979210c61edc2cf5",
       "name": "喜多修平",
       "secondary": "",
@@ -493,7 +555,7 @@
       "detailPath": "entities/artists/979210c61edc2cf5.json"
     },
     {
-      "rank": 1409,
+      "rank": 1410,
       "id": "0fb860d0d9f5d7a1",
       "name": "月見ヤチヨ",
       "secondary": "",
@@ -553,7 +615,7 @@
       "detailPath": "entities/artists/0fb860d0d9f5d7a1.json"
     },
     {
-      "rank": 1410,
+      "rank": 1411,
       "id": "c52a1de512c60780",
       "name": "青葉りんご",
       "secondary": "",
@@ -610,7 +672,7 @@
       "detailPath": "entities/artists/c52a1de512c60780.json"
     },
     {
-      "rank": 1411,
+      "rank": 1412,
       "id": "436de928e7c27a12",
       "name": "椿屋四重奏",
       "secondary": "",
@@ -671,7 +733,7 @@
       "detailPath": "entities/artists/436de928e7c27a12.json"
     },
     {
-      "rank": 1412,
+      "rank": 1413,
       "id": "78f4e9cb996f6e2b",
       "name": "米津玄師 ※JOYSOUND",
       "secondary": "",
@@ -731,7 +793,7 @@
       "detailPath": "entities/artists/78f4e9cb996f6e2b.json"
     },
     {
-      "rank": 1413,
+      "rank": 1414,
       "id": "6d597ac0982f2463",
       "name": "藍月なくる",
       "secondary": "",
@@ -790,7 +852,7 @@
       "detailPath": "entities/artists/6d597ac0982f2463.json"
     },
     {
-      "rank": 1414,
+      "rank": 1415,
       "id": "5341c4d09bdca0c2",
       "name": "Girls Dead Monster STARRING LiSA",
       "secondary": "",
@@ -850,7 +912,7 @@
       "detailPath": "entities/artists/5341c4d09bdca0c2.json"
     },
     {
-      "rank": 1415,
+      "rank": 1416,
       "id": "2d41d4612d5e2bd8",
       "name": "KIRINJI",
       "secondary": "",
@@ -910,7 +972,7 @@
       "detailPath": "entities/artists/2d41d4612d5e2bd8.json"
     },
     {
-      "rank": 1416,
+      "rank": 1417,
       "id": "b17d0a0fbd770365",
       "name": "ONEPIECE",
       "secondary": "",
@@ -968,7 +1030,7 @@
       "detailPath": "entities/artists/b17d0a0fbd770365.json"
     },
     {
-      "rank": 1417,
+      "rank": 1418,
       "id": "25247bf32f9409fc",
       "name": "キタニタツヤ 様",
       "secondary": "",
@@ -1022,7 +1084,7 @@
       "detailPath": "entities/artists/25247bf32f9409fc.json"
     },
     {
-      "rank": 1418,
+      "rank": 1419,
       "id": "7ed905cc1aee32c5",
       "name": "さとう。",
       "secondary": "",
@@ -1082,7 +1144,67 @@
       "detailPath": "entities/artists/7ed905cc1aee32c5.json"
     },
     {
-      "rank": 1419,
+      "rank": 1420,
+      "id": "5a13687666342a63",
+      "name": "ユナ（CV:神田沙也加）",
+      "secondary": "",
+      "channelId": "UCqsS32C_llpT2ia5S1Oh44A",
+      "channelHandle": "@suzume_mikagura",
+      "channelUrl": "",
+      "occurrenceCount": 12,
+      "videoCount": 10,
+      "songCount": 5,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "oZfFRaZSuOY",
+          "videoTitle": "【 歌枠/KARAOKE 】アニソン縛りでうたいます！🌙🎼【 #ヨノ / RK Music】",
+          "channelName": "ヨノ-Yono",
+          "publishedAt": "2026-10-08T13:12:15.946Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oZfFRaZSuOY/hqdefault.jpg",
+          "sourcePath": "sources/oZ/oZfFRaZSuOY.json",
+          "time": "0:52:01",
+          "seconds": 3121,
+          "songTitle": "longing",
+          "artist": "ユナ (CV:神田沙也加)"
+        },
+        {
+          "videoId": "kVEWlOTpx0s",
+          "videoTitle": "【#新人vtuber #歌枠 】聴いて後悔させない歌枠！平成アニソン好きさん1回は聴いてみて！【#初見さん大歓迎 #アニソン 】",
+          "channelName": "夢咲はな",
+          "publishedAt": "2026-10-04T14:28:33.015Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kVEWlOTpx0s/hqdefault.jpg",
+          "sourcePath": "sources/kV/kVEWlOTpx0s.json",
+          "time": "1:16:10",
+          "seconds": 4570,
+          "songTitle": "Ubiquitous dB",
+          "artist": "ユナ(CV:神田沙也加)"
+        },
+        {
+          "videoId": "CTa8sWiKNcs",
+          "videoTitle": "【歌枠┊KARAOKE】梶浦由記特集！愛を込めて🌹【Vsinger Vtuber┊御神楽すずめ】",
+          "channelName": "御神楽すずめ / Mikagura Suzume",
+          "publishedAt": "2026-10-04T12:51:08.479Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CTa8sWiKNcs/hqdefault.jpg",
+          "sourcePath": "sources/CT/CTa8sWiKNcs.json",
+          "time": "2:43:37",
+          "seconds": 9817,
+          "songTitle": "longing",
+          "artist": "ユナ（CV:神田沙也加）"
+        }
+      ],
+      "detailPath": "entities/artists/5a13687666342a63.json"
+    },
+    {
+      "rank": 1421,
       "id": "9775b972076b79b5",
       "name": "安月名莉子",
       "secondary": "",
@@ -1144,7 +1266,7 @@
       "detailPath": "entities/artists/9775b972076b79b5.json"
     },
     {
-      "rank": 1420,
+      "rank": 1422,
       "id": "133a4805cb6611f5",
       "name": "宇野ゆう子",
       "secondary": "",
@@ -1205,7 +1327,7 @@
       "detailPath": "entities/artists/133a4805cb6611f5.json"
     },
     {
-      "rank": 1421,
+      "rank": 1423,
       "id": "865f521b9173aea1",
       "name": "河野万里奈",
       "secondary": "",
@@ -1265,7 +1387,7 @@
       "detailPath": "entities/artists/865f521b9173aea1.json"
     },
     {
-      "rank": 1422,
+      "rank": 1424,
       "id": "3a83db99fad90095",
       "name": "月見ヤチヨ(早見沙織)",
       "secondary": "",
@@ -1325,7 +1447,7 @@
       "detailPath": "entities/artists/3a83db99fad90095.json"
     },
     {
-      "rank": 1423,
+      "rank": 1425,
       "id": "8583211b5418a01f",
       "name": "原田 ひとみ",
       "secondary": "",
@@ -1386,7 +1508,7 @@
       "detailPath": "entities/artists/8583211b5418a01f.json"
     },
     {
-      "rank": 1424,
+      "rank": 1426,
       "id": "f2a3dd68b9fca9ea",
       "name": "東山奈央",
       "secondary": "",
@@ -1446,7 +1568,7 @@
       "detailPath": "entities/artists/f2a3dd68b9fca9ea.json"
     },
     {
-      "rank": 1425,
+      "rank": 1427,
       "id": "7467d77ba1fbcb82",
       "name": "藤田ことね (飯田ヒカル)",
       "secondary": "",
@@ -1503,7 +1625,7 @@
       "detailPath": "entities/artists/7467d77ba1fbcb82.json"
     },
     {
-      "rank": 1426,
+      "rank": 1428,
       "id": "b3bf130420ac6bd2",
       "name": "藤本美貴",
       "secondary": "",
@@ -1563,7 +1685,7 @@
       "detailPath": "entities/artists/b3bf130420ac6bd2.json"
     },
     {
-      "rank": 1427,
+      "rank": 1429,
       "id": "ef23d3b6860731a9",
       "name": "猫虫",
       "secondary": "",
@@ -1623,7 +1745,7 @@
       "detailPath": "entities/artists/ef23d3b6860731a9.json"
     },
     {
-      "rank": 1428,
+      "rank": 1430,
       "id": "bfeb1ea08f447e56",
       "name": "Britney Spears",
       "secondary": "",
@@ -1683,7 +1805,7 @@
       "detailPath": "entities/artists/bfeb1ea08f447e56.json"
     },
     {
-      "rank": 1429,
+      "rank": 1431,
       "id": "1700046c82cb1b7f",
       "name": "SixTONES",
       "secondary": "",
@@ -1743,7 +1865,7 @@
       "detailPath": "entities/artists/1700046c82cb1b7f.json"
     },
     {
-      "rank": 1430,
+      "rank": 1432,
       "id": "26ef224fd66e689d",
       "name": "アラジン",
       "secondary": "",
@@ -1803,7 +1925,7 @@
       "detailPath": "entities/artists/26ef224fd66e689d.json"
     },
     {
-      "rank": 1431,
+      "rank": 1433,
       "id": "f9cb6c334e8fba5f",
       "name": "かいりきべあ",
       "secondary": "",
@@ -1863,7 +1985,7 @@
       "detailPath": "entities/artists/f9cb6c334e8fba5f.json"
     },
     {
-      "rank": 1432,
+      "rank": 1434,
       "id": "1ed11e0d2785c53a",
       "name": "化物語",
       "secondary": "",
@@ -1922,7 +2044,7 @@
       "detailPath": "entities/artists/1ed11e0d2785c53a.json"
     },
     {
-      "rank": 1433,
+      "rank": 1435,
       "id": "2331968b44e5ce6b",
       "name": "海月シェル",
       "secondary": "",
@@ -1981,7 +2103,7 @@
       "detailPath": "entities/artists/2331968b44e5ce6b.json"
     },
     {
-      "rank": 1434,
+      "rank": 1436,
       "id": "2b3d1eeee1a7c7c3",
       "name": "(1998年)",
       "secondary": "",
@@ -2042,7 +2164,7 @@
       "detailPath": "entities/artists/2b3d1eeee1a7c7c3.json"
     },
     {
-      "rank": 1435,
+      "rank": 1437,
       "id": "d55cbf5337641e65",
       "name": "20",
       "secondary": "",
@@ -2096,7 +2218,7 @@
       "detailPath": "entities/artists/d55cbf5337641e65.json"
     },
     {
-      "rank": 1436,
+      "rank": 1438,
       "id": "30cfd09340528f96",
       "name": "Eric Clapton",
       "secondary": "",
@@ -2156,7 +2278,7 @@
       "detailPath": "entities/artists/30cfd09340528f96.json"
     },
     {
-      "rank": 1437,
+      "rank": 1439,
       "id": "4d8b7012ed6f2183",
       "name": "hide with Spread Beaver",
       "secondary": "",
@@ -2217,7 +2339,7 @@
       "detailPath": "entities/artists/4d8b7012ed6f2183.json"
     },
     {
-      "rank": 1438,
+      "rank": 1440,
       "id": "1a4538807db9dc50",
       "name": "七人のカリスマ",
       "secondary": "",
@@ -2277,7 +2399,7 @@
       "detailPath": "entities/artists/1a4538807db9dc50.json"
     },
     {
-      "rank": 1439,
+      "rank": 1441,
       "id": "197190dde0505fb6",
       "name": "博多弁:伊丹志耶",
       "secondary": "",
@@ -2337,7 +2459,7 @@
       "detailPath": "entities/artists/197190dde0505fb6.json"
     },
     {
-      "rank": 1440,
+      "rank": 1442,
       "id": "564534c9de80392a",
       "name": "リトル・マーメイド",
       "secondary": "",
@@ -2394,7 +2516,7 @@
       "detailPath": "entities/artists/564534c9de80392a.json"
     },
     {
-      "rank": 1441,
+      "rank": 1443,
       "id": "fa8d5726f41fbb83",
       "name": "月深ツキ(オリジナル楽曲)",
       "secondary": "",
@@ -2454,7 +2576,7 @@
       "detailPath": "entities/artists/fa8d5726f41fbb83.json"
     },
     {
-      "rank": 1442,
+      "rank": 1444,
       "id": "d48fe24073037bc2",
       "name": "真天地開闢集団-ジグザグ",
       "secondary": "",
@@ -2511,7 +2633,7 @@
       "detailPath": "entities/artists/d48fe24073037bc2.json"
     },
     {
-      "rank": 1443,
+      "rank": 1445,
       "id": "0fd83b59b7d186c9",
       "name": "MELLOW DEAR US",
       "secondary": "",
@@ -2572,7 +2694,7 @@
       "detailPath": "entities/artists/0fd83b59b7d186c9.json"
     },
     {
-      "rank": 1444,
+      "rank": 1446,
       "id": "8090416e1331dcb8",
       "name": "T.M.Revolution ※JOYSOUND",
       "secondary": "",
@@ -2632,7 +2754,7 @@
       "detailPath": "entities/artists/8090416e1331dcb8.json"
     },
     {
-      "rank": 1445,
+      "rank": 1447,
       "id": "75bf33bd007abd8e",
       "name": "2点",
       "secondary": "",
@@ -2691,7 +2813,7 @@
       "detailPath": "entities/artists/75bf33bd007abd8e.json"
     },
     {
-      "rank": 1446,
+      "rank": 1448,
       "id": "1a31cb623f777659",
       "name": "MEDA",
       "secondary": "",
@@ -2749,7 +2871,7 @@
       "detailPath": "entities/artists/1a31cb623f777659.json"
     },
     {
-      "rank": 1447,
+      "rank": 1449,
       "id": "5ea272d11e439006",
       "name": "Japanese children's song",
       "secondary": "",
@@ -2794,7 +2916,7 @@
       "detailPath": "entities/artists/5ea272d11e439006.json"
     },
     {
-      "rank": 1448,
+      "rank": 1450,
       "id": "5d428baf90a16834",
       "name": "Raphael",
       "secondary": "",
@@ -2837,97 +2959,6 @@
         }
       ],
       "detailPath": "entities/artists/5d428baf90a16834.json"
-    },
-    {
-      "rank": 1449,
-      "id": "429bc4a22233d0ed",
-      "name": "ヤヅキ",
-      "secondary": "",
-      "channelId": "UCm4cYzeY3HYbjIHfQGF0keQ",
-      "channelHandle": "@%E3%82%84%E3%81%A5%E3%81%91%E3%82%93",
-      "channelUrl": "",
-      "occurrenceCount": 12,
-      "videoCount": 1,
-      "songCount": 12,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "n3ppfAClc_w",
-          "videoTitle": "お酒飲みながらアコギ弾く【弾き語り配信】",
-          "channelName": "ヤヅキ / やづけん",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/n3ppfAClc_w/hqdefault.jpg",
-          "sourcePath": "sources/n3/n3ppfAClc_w.json",
-          "time": "2:31:35",
-          "seconds": 9095,
-          "songTitle": "レプリカの虚像",
-          "artist": "ヤヅキ"
-        }
-      ],
-      "detailPath": "entities/artists/429bc4a22233d0ed.json"
-    },
-    {
-      "rank": 1450,
-      "id": "874dca6f17bde539",
-      "name": "AiNA THE END",
-      "secondary": "",
-      "channelId": "UCp7RIfl5Vjc30bnBL4KohQw",
-      "channelHandle": "@Unifee_momochi",
-      "channelUrl": "",
-      "occurrenceCount": 11,
-      "videoCount": 11,
-      "songCount": 3,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "LE7fCKbsLQw",
-          "videoTitle": "【歌雜】想要住進你的心裡，變成微波爐暖你一整天🍥｜七星ナギ・馬來西亞VTuber #雜談 #歌枠",
-          "channelName": "NAGi",
-          "publishedAt": "2026-09-23T10:12:59.656Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LE7fCKbsLQw/hqdefault.jpg",
-          "sourcePath": "sources/LE/LE7fCKbsLQw.json",
-          "time": "2:12:21",
-          "seconds": 7941,
-          "songTitle": "革命道中",
-          "artist": "AiNA THE END"
-        },
-        {
-          "videoId": "Pw4Flqck6nM",
-          "videoTitle": "【歌枠】ロックな金曜日！あなたの魂を揺らすVsinger―【VTuber/配信中】",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-09-18T11:09:15.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Pw4Flqck6nM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_EjLVaHL2-31pQh_yJSipJXhctg",
-          "sourcePath": "sources/Pw/Pw4Flqck6nM.json",
-          "time": "2:34:19",
-          "seconds": 9259,
-          "songTitle": "Kakumei Douchuu",
-          "artist": "AiNA THE END"
-        },
-        {
-          "videoId": "QcEuIoGNZNc",
-          "videoTitle": "【 #shorts / #歌枠 / Singing stream 】本日はシラフの歌枠♡KARAOKE【 #Vtuber / #鐘輝かう 】",
-          "channelName": "鐘輝かう kaneki caw",
-          "publishedAt": "2026-09-13T17:19:52.759Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QcEuIoGNZNc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWL8jdOC3zSt7Kw4A97ZdKWnFW0w",
-          "sourcePath": "sources/Qc/QcEuIoGNZNc.json",
-          "time": "1:10:46",
-          "seconds": 4246,
-          "songTitle": "On The Way",
-          "artist": "AiNA THE END"
-        }
-      ],
-      "detailPath": "entities/artists/874dca6f17bde539.json"
     }
   ]
 }

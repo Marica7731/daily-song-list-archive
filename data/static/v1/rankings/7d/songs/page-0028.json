@@ -1,82 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "7d",
   "type": "songs",
   "page": 28,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3580,
+  "totalCount": 3578,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1351,
-      "id": "b8c43cb41308995a",
-      "name": "milk boy",
-      "secondary": "Silent Siren",
-      "channelId": "UCyX06mdxxuimP65G0ElrmMA",
-      "channelHandle": "@nikkoriwatachi",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "pB4K4ZwGE4A",
-          "videoTitle": "【雑談歌枠】初見さん、ROMさん大歓迎 ୨୧ ˖* 元気になれる配信♡【#にっこりわたち / #新人vtuber 】",
-          "channelName": "にっこりわたち^^*",
-          "publishedAt": "2026-10-06T14:00:28.633Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pB4K4ZwGE4A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrvmFEZCnZ7hOLThK7uuspVQm1TA",
-          "sourcePath": "sources/pB/pB4K4ZwGE4A.json",
-          "time": "3:51:40",
-          "seconds": 13900,
-          "songTitle": "milk boy",
-          "artist": "Silent Siren"
-        }
-      ],
-      "detailPath": "entities/songs/b8c43cb41308995a.json"
-    },
-    {
-      "rank": 1352,
-      "id": "3130c7cfc2e061f3",
-      "name": "Mirage Lullaby",
-      "secondary": "YURIA",
-      "channelId": "UCLIEOGtrywxsLztMPPKtfkA",
-      "channelHandle": "@RaraTakanashi",
-      "channelUrl": "https://www.youtube.com/@RaraTakanashi",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "LZp594q45NI",
-          "videoTitle": "【 歌枠┆KARAOKE 】美少女ゲームソング歌枠をします！✧ 【Visual Novel Game Song】",
-          "channelName": "Rara Channel / 小鳥遊らら",
-          "publishedAt": "2026-10-08T14:23:52.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LZp594q45NI/hqdefault.jpg",
-          "sourcePath": "sources/LZ/LZp594q45NI.json",
-          "time": "0:07:21",
-          "seconds": 441,
-          "songTitle": "Mirage Lullaby",
-          "artist": "YURIA"
-        }
-      ],
-      "detailPath": "entities/songs/3130c7cfc2e061f3.json"
-    },
-    {
-      "rank": 1353,
       "id": "dd8a3f0d7dce67f7",
       "name": "MISSING AUTUMN",
       "secondary": "MISIA",
@@ -109,7 +43,7 @@
       "detailPath": "entities/songs/dd8a3f0d7dce67f7.json"
     },
     {
-      "rank": 1354,
+      "rank": 1352,
       "id": "a361d783b8c21300",
       "name": "mix juiceのいうとおり",
       "secondary": "UNISON SQUARE GARDEN",
@@ -142,7 +76,7 @@
       "detailPath": "entities/songs/a361d783b8c21300.json"
     },
     {
-      "rank": 1355,
+      "rank": 1353,
       "id": "ba5f3e320185d467",
       "name": "modify Youth",
       "secondary": "kurayamisaka、せだい",
@@ -175,7 +109,7 @@
       "detailPath": "entities/songs/ba5f3e320185d467.json"
     },
     {
-      "rank": 1356,
+      "rank": 1354,
       "id": "754e4fd036d515fc",
       "name": "moment",
       "secondary": "Vivian or Kazuma",
@@ -208,7 +142,7 @@
       "detailPath": "entities/songs/754e4fd036d515fc.json"
     },
     {
-      "rank": 1357,
+      "rank": 1355,
       "id": "cf8818014f39df8d",
       "name": "Moments",
       "secondary": "浜崎あゆみ",
@@ -241,7 +175,7 @@
       "detailPath": "entities/songs/cf8818014f39df8d.json"
     },
     {
-      "rank": 1358,
+      "rank": 1356,
       "id": "82208b25b43f9264",
       "name": "Moon Crying",
       "secondary": "倖田來未",
@@ -274,7 +208,7 @@
       "detailPath": "entities/songs/82208b25b43f9264.json"
     },
     {
-      "rank": 1359,
+      "rank": 1357,
       "id": "a116a7490a0baade",
       "name": "moonlight",
       "secondary": "moumoon",
@@ -307,7 +241,7 @@
       "detailPath": "entities/songs/a116a7490a0baade.json"
     },
     {
-      "rank": 1360,
+      "rank": 1358,
       "id": "763be5cbe11d83d8",
       "name": "moonlight",
       "secondary": "黒咲ルシア",
@@ -340,7 +274,7 @@
       "detailPath": "entities/songs/763be5cbe11d83d8.json"
     },
     {
-      "rank": 1361,
+      "rank": 1359,
       "id": "30deeb0e0ad84d88",
       "name": "more きゅん奴隷",
       "secondary": "ZOCX",
@@ -373,7 +307,7 @@
       "detailPath": "entities/songs/30deeb0e0ad84d88.json"
     },
     {
-      "rank": 1362,
+      "rank": 1360,
       "id": "d429d73541a7be40",
       "name": "Morning Arch",
       "secondary": "河野マリナ",
@@ -406,7 +340,7 @@
       "detailPath": "entities/songs/d429d73541a7be40.json"
     },
     {
-      "rank": 1363,
+      "rank": 1361,
       "id": "ff9d943aab8f0d93",
       "name": "MOTTAI",
       "secondary": "P丸様。",
@@ -439,7 +373,7 @@
       "detailPath": "entities/songs/ff9d943aab8f0d93.json"
     },
     {
-      "rank": 1364,
+      "rank": 1362,
       "id": "052c6b9e0539b86e",
       "name": "motto☆派手にね!",
       "secondary": "戸松遥",
@@ -472,7 +406,7 @@
       "detailPath": "entities/songs/052c6b9e0539b86e.json"
     },
     {
-      "rank": 1365,
+      "rank": 1363,
       "id": "26c2a2eb24eb315f",
       "name": "Moves Like Jagger",
       "secondary": "Maroon 5 ft. Christina Aguilera",
@@ -505,7 +439,7 @@
       "detailPath": "entities/songs/26c2a2eb24eb315f.json"
     },
     {
-      "rank": 1366,
+      "rank": 1364,
       "id": "8ad16f02148a262b",
       "name": "Movin'on without you",
       "secondary": "宇多田ヒカル",
@@ -538,7 +472,7 @@
       "detailPath": "entities/songs/8ad16f02148a262b.json"
     },
     {
-      "rank": 1367,
+      "rank": 1365,
       "id": "6ebc2bb56a26a6c6",
       "name": "Mr.Music",
       "secondary": "",
@@ -571,7 +505,7 @@
       "detailPath": "entities/songs/6ebc2bb56a26a6c6.json"
     },
     {
-      "rank": 1368,
+      "rank": 1366,
       "id": "5ab89e8aa27cbb2d",
       "name": "Mrs Pumpkinの滑稽な夢",
       "secondary": "HACHI feat.初音ミク",
@@ -604,7 +538,7 @@
       "detailPath": "entities/songs/5ab89e8aa27cbb2d.json"
     },
     {
-      "rank": 1369,
+      "rank": 1367,
       "id": "d27cae4eaff6e8c4",
       "name": "Mrs.Pumpkinの滑稽な夢",
       "secondary": "ハチ feat. 初音ミク",
@@ -637,7 +571,7 @@
       "detailPath": "entities/songs/d27cae4eaff6e8c4.json"
     },
     {
-      "rank": 1370,
+      "rank": 1368,
       "id": "94cff7d5a36709f0",
       "name": "MUGO・ん…色っぽい",
       "secondary": "工藤静香",
@@ -670,7 +604,7 @@
       "detailPath": "entities/songs/94cff7d5a36709f0.json"
     },
     {
-      "rank": 1371,
+      "rank": 1369,
       "id": "97170d0fb7dc4a5e",
       "name": "mumei",
       "secondary": "七詩ムメイ",
@@ -703,7 +637,7 @@
       "detailPath": "entities/songs/97170d0fb7dc4a5e.json"
     },
     {
-      "rank": 1372,
+      "rank": 1370,
       "id": "1ead4d0db3f87386",
       "name": "Music S.T.A.R.T!!",
       "secondary": "μ's",
@@ -736,7 +670,7 @@
       "detailPath": "entities/songs/1ead4d0db3f87386.json"
     },
     {
-      "rank": 1373,
+      "rank": 1371,
       "id": "a1f04f6b05e8ec0d",
       "name": "My Dearest(take1)",
       "secondary": "",
@@ -769,7 +703,7 @@
       "detailPath": "entities/songs/a1f04f6b05e8ec0d.json"
     },
     {
-      "rank": 1374,
+      "rank": 1372,
       "id": "01f2a4b36f4cfe24",
       "name": "My Dearest(take2)",
       "secondary": "",
@@ -802,7 +736,7 @@
       "detailPath": "entities/songs/01f2a4b36f4cfe24.json"
     },
     {
-      "rank": 1375,
+      "rank": 1373,
       "id": "f0bf9d3deeecaef3",
       "name": "My Revolution",
       "secondary": "渡辺美里",
@@ -835,7 +769,7 @@
       "detailPath": "entities/songs/f0bf9d3deeecaef3.json"
     },
     {
-      "rank": 1376,
+      "rank": 1374,
       "id": "e7be7fc5717d6e8a",
       "name": "My Song",
       "secondary": "角巻わため",
@@ -868,7 +802,7 @@
       "detailPath": "entities/songs/e7be7fc5717d6e8a.json"
     },
     {
-      "rank": 1377,
+      "rank": 1375,
       "id": "a92a1dbd4f2e2615",
       "name": "M八七",
       "secondary": "米津玄師",
@@ -901,7 +835,7 @@
       "detailPath": "entities/songs/a92a1dbd4f2e2615.json"
     },
     {
-      "rank": 1378,
+      "rank": 1376,
       "id": "4d3b3ec4d0908e6d",
       "name": "N.O",
       "secondary": "ハンバート ハンバート",
@@ -934,7 +868,7 @@
       "detailPath": "entities/songs/4d3b3ec4d0908e6d.json"
     },
     {
-      "rank": 1379,
+      "rank": 1377,
       "id": "f65ddeb69ee94a33",
       "name": "N'z",
       "secondary": "にぃ'z",
@@ -967,7 +901,7 @@
       "detailPath": "entities/songs/f65ddeb69ee94a33.json"
     },
     {
-      "rank": 1380,
+      "rank": 1378,
       "id": "6402c021ba12657a",
       "name": "nameless story",
       "secondary": "岸田教団＆THE明星ロケッツ",
@@ -1000,7 +934,7 @@
       "detailPath": "entities/songs/6402c021ba12657a.json"
     },
     {
-      "rank": 1381,
+      "rank": 1379,
       "id": "0bf44548ea33595a",
       "name": "NANIMONO (feat.米津玄師)",
       "secondary": "中田ヤスタカ",
@@ -1033,7 +967,7 @@
       "detailPath": "entities/songs/0bf44548ea33595a.json"
     },
     {
-      "rank": 1382,
+      "rank": 1380,
       "id": "27d325fa15e60fff",
       "name": "Never Gonna Give You Up",
       "secondary": "Rick Astley｜蝠麥",
@@ -1066,7 +1000,7 @@
       "detailPath": "entities/songs/27d325fa15e60fff.json"
     },
     {
-      "rank": 1383,
+      "rank": 1381,
       "id": "c1e468c498eef98d",
       "name": "NeverFiction",
       "secondary": "Kanaria & 星街すいせい",
@@ -1099,7 +1033,7 @@
       "detailPath": "entities/songs/c1e468c498eef98d.json"
     },
     {
-      "rank": 1384,
+      "rank": 1382,
       "id": "364357d1c74d4315",
       "name": "New Stranger",
       "secondary": "sora tob sakana",
@@ -1132,7 +1066,7 @@
       "detailPath": "entities/songs/364357d1c74d4315.json"
     },
     {
-      "rank": 1385,
+      "rank": 1383,
       "id": "8ecee81670b4ea24",
       "name": "night whisper",
       "secondary": "からくりんね",
@@ -1166,7 +1100,7 @@
       "detailPath": "entities/songs/8ecee81670b4ea24.json"
     },
     {
-      "rank": 1386,
+      "rank": 1384,
       "id": "cfcf38f587bc0a5f",
       "name": "ninelie",
       "secondary": "Aimer with chelly",
@@ -1199,7 +1133,7 @@
       "detailPath": "entities/songs/cfcf38f587bc0a5f.json"
     },
     {
-      "rank": 1387,
+      "rank": 1385,
       "id": "338d73899bd07a45",
       "name": "NIPPON",
       "secondary": "椎名林檎",
@@ -1232,7 +1166,7 @@
       "detailPath": "entities/songs/338d73899bd07a45.json"
     },
     {
-      "rank": 1388,
+      "rank": 1386,
       "id": "13d8cf8e04c0ff6b",
       "name": "No Exit Orion",
       "secondary": "Printemps",
@@ -1265,7 +1199,7 @@
       "detailPath": "entities/songs/13d8cf8e04c0ff6b.json"
     },
     {
-      "rank": 1389,
+      "rank": 1387,
       "id": "faa79b954c500df0",
       "name": "NO FEAR",
       "secondary": "あいすること / 坂本真綾",
@@ -1298,7 +1232,7 @@
       "detailPath": "entities/songs/faa79b954c500df0.json"
     },
     {
-      "rank": 1390,
+      "rank": 1388,
       "id": "a329f92f3fcdfdce",
       "name": "No Logic",
       "secondary": "ジミーサムP",
@@ -1331,7 +1265,7 @@
       "detailPath": "entities/songs/a329f92f3fcdfdce.json"
     },
     {
-      "rank": 1391,
+      "rank": 1389,
       "id": "cf131537545a723a",
       "name": "Northern lights",
       "secondary": "",
@@ -1364,7 +1298,7 @@
       "detailPath": "entities/songs/cf131537545a723a.json"
     },
     {
-      "rank": 1392,
+      "rank": 1390,
       "id": "afdc8814a495d168",
       "name": "Nothing Gonna Change My Love For You",
       "secondary": "George Benson｜Jazz ver",
@@ -1397,7 +1331,7 @@
       "detailPath": "entities/songs/afdc8814a495d168.json"
     },
     {
-      "rank": 1393,
+      "rank": 1391,
       "id": "88f4f667d340ad21",
       "name": "NOW AND THEN ～失われた時を求めて～",
       "secondary": "My Little Lover",
@@ -1430,7 +1364,7 @@
       "detailPath": "entities/songs/88f4f667d340ad21.json"
     },
     {
-      "rank": 1394,
+      "rank": 1392,
       "id": "9ccee57ed82150cd",
       "name": "oath sign",
       "secondary": "LiSA",
@@ -1463,7 +1397,7 @@
       "detailPath": "entities/songs/9ccee57ed82150cd.json"
     },
     {
-      "rank": 1395,
+      "rank": 1393,
       "id": "2a9b6a8ca3f5b466",
       "name": "oblivious",
       "secondary": "Kalafina",
@@ -1496,7 +1430,7 @@
       "detailPath": "entities/songs/2a9b6a8ca3f5b466.json"
     },
     {
-      "rank": 1396,
+      "rank": 1394,
       "id": "658b2c7a776addb8",
       "name": "Ochame Kinou",
       "secondary": "Gojimaji P",
@@ -1529,7 +1463,7 @@
       "detailPath": "entities/songs/658b2c7a776addb8.json"
     },
     {
-      "rank": 1397,
+      "rank": 1395,
       "id": "cf74ff54dd8e650b",
       "name": "Oddloop",
       "secondary": "frederic",
@@ -1562,7 +1496,7 @@
       "detailPath": "entities/songs/cf74ff54dd8e650b.json"
     },
     {
-      "rank": 1398,
+      "rank": 1396,
       "id": "c63401e65dc93ad8",
       "name": "Oh Yeah!",
       "secondary": "嵐 (2007) ハウス食品「C1000レモンウォーター」CMソング",
@@ -1595,7 +1529,7 @@
       "detailPath": "entities/songs/c63401e65dc93ad8.json"
     },
     {
-      "rank": 1399,
+      "rank": 1397,
       "id": "828c6e4097c55b8c",
       "name": "Oh,Love&Peace!",
       "secondary": "μ's",
@@ -1628,7 +1562,7 @@
       "detailPath": "entities/songs/828c6e4097c55b8c.json"
     },
     {
-      "rank": 1400,
+      "rank": 1398,
       "id": "d34e0bd21eae8c97",
       "name": "Oh! クラウディア",
       "secondary": "サザンオールスターズ",
@@ -1659,6 +1593,72 @@
         }
       ],
       "detailPath": "entities/songs/d34e0bd21eae8c97.json"
+    },
+    {
+      "rank": 1399,
+      "id": "3d67d6b8239e8074",
+      "name": "OK!",
+      "secondary": "松本梨香",
+      "channelId": "UC77vr4faKbtZAQEs2z8ASXQ",
+      "channelHandle": "@shiramatanemu",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TbuTnYYHe6s",
+          "videoTitle": "【 #歌枠 】初見大歓迎💡デビュー1ヵ月！CH登録4000人✨初耐久歌枠！【 #新人Vtuber｜ #白叉ねむ 】",
+          "channelName": "白叉ねむ / Shiramata Nemu",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TbuTnYYHe6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIUGXJrMCjk2bz5ybJ0K-vncuilQ",
+          "sourcePath": "sources/Tb/TbuTnYYHe6s.json",
+          "time": "6:01:36",
+          "seconds": 21696,
+          "songTitle": "OK!",
+          "artist": "松本梨香"
+        }
+      ],
+      "detailPath": "entities/songs/3d67d6b8239e8074.json"
+    },
+    {
+      "rank": 1400,
+      "id": "ea22006053afa779",
+      "name": "ONE",
+      "secondary": "Aimer",
+      "channelId": "UC5zO6IFsWSUHMYgJMv81XKg",
+      "channelHandle": "@shingames7857",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "mawaS5UbE7M",
+          "videoTitle": "【#歌枠】昼からまったり歌枠！ #うたうよしん #karaoke #vsinger",
+          "channelName": "shin",
+          "publishedAt": "2026-10-06T09:07:06.252Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mawaS5UbE7M/hqdefault.jpg",
+          "sourcePath": "sources/ma/mawaS5UbE7M.json",
+          "time": "2:12:38",
+          "seconds": 7958,
+          "songTitle": "ONE",
+          "artist": "Aimer"
+        }
+      ],
+      "detailPath": "entities/songs/ea22006053afa779.json"
     }
   ]
 }

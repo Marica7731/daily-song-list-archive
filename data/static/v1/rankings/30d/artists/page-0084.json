@@ -1,16 +1,142 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "30d",
   "type": "artists",
   "page": 84,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10857,
+  "totalCount": 10861,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4151,
+      "id": "261a99906fdba1fd",
+      "name": "25公開",
+      "secondary": "",
+      "channelId": "UC5ZEWtlwM3d4x4iLDOnzuww",
+      "channelHandle": "@oto0415",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "9wmYC0Ay6Ws",
+          "videoTitle": "【 弾き語り / KARAOKE 】お知らせあり！うたざつ！【 #紗倉おと 】",
+          "channelName": "紗倉おと-Sakura Oto-🎸",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9wmYC0Ay6Ws/hqdefault.jpg",
+          "sourcePath": "sources/9w/9wmYC0Ay6Ws.json",
+          "time": "1:46:51",
+          "seconds": 6411,
+          "songTitle": "コラボ歌ってみた「ニホンノミカタ- ネバダカラキマシタ -」9",
+          "artist": "25公開"
+        }
+      ],
+      "detailPath": "entities/artists/261a99906fdba1fd.json"
+    },
+    {
+      "rank": 4152,
+      "id": "44895f842b6f41d9",
+      "name": "25時、ナイトコードで。 × 鏡音リン",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "273hRDqcTDU",
+          "videoTitle": "🎵 閒聊雜談唱歌💖你知道以前的我開歌回４小時只會唱５首歌嗎 ♡.゜〖莓芊時戀💖┊歌枠〗",
+          "channelName": "莓芊時戀💖Ichigosen Tokikoi Ch.",
+          "publishedAt": "2026-09-12T20:04:27.565Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/273hRDqcTDU/hqdefault.jpg",
+          "sourcePath": "sources/27/273hRDqcTDU.json",
+          "time": "1:03:33",
+          "seconds": 3813,
+          "songTitle": "D/N/A",
+          "artist": "25時、ナイトコードで。 × 鏡音リン"
+        }
+      ],
+      "detailPath": "entities/artists/44895f842b6f41d9.json"
+    },
+    {
+      "rank": 4153,
+      "id": "e4f89052ab6d514e",
+      "name": "25時、ナイトコードで。 × 巡音ルカ",
+      "secondary": "",
+      "channelId": "UCkJtGhNTE3uVWbXMiUaw1oA",
+      "channelHandle": "@tenmeimau",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dPLNik0CgsU",
+          "videoTitle": "【#歌枠 】プロセカ収録曲歌う🎤周年おめでたい┊初見さん,ROM◎ 【 天命まう/#vtuber 】",
+          "channelName": "天命まう / Tenmei Mau",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dPLNik0CgsU/hqdefault.jpg",
+          "sourcePath": "sources/dP/dPLNik0CgsU.json",
+          "time": "1:32:36",
+          "seconds": 5556,
+          "songTitle": "カナデトモスソラ",
+          "artist": "25時、ナイトコードで。 × 巡音ルカ"
+        }
+      ],
+      "detailPath": "entities/artists/e4f89052ab6d514e.json"
+    },
+    {
+      "rank": 4154,
+      "id": "a3ab7cbadb089a45",
+      "name": "25時、ナイトコードで。(ビリビリ)",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "RNEPnL1CBjM",
+          "videoTitle": "【歌枠 /耐久】高評価500耐久🎤初見さん・常連さん・ROM専さん大歓迎【 星瑠璃メロウ 】",
+          "channelName": "星瑠璃メロウ / Hoshiruri Mellow",
+          "publishedAt": "2026-09-13T19:06:34.776Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RNEPnL1CBjM/hqdefault.jpg",
+          "sourcePath": "sources/RN/RNEPnL1CBjM.json",
+          "time": "0:54:05",
+          "seconds": 3245,
+          "songTitle": "D/N/A",
+          "artist": "25時、ナイトコードで。(ビリビリ)"
+        }
+      ],
+      "detailPath": "entities/artists/a3ab7cbadb089a45.json"
+    },
+    {
+      "rank": 4155,
       "id": "c7cee6c631df5a5d",
       "name": "26 Cross Reality vol.18出演",
       "secondary": "",
@@ -43,7 +169,7 @@
       "detailPath": "entities/artists/c7cee6c631df5a5d.json"
     },
     {
-      "rank": 4152,
+      "rank": 4156,
       "id": "c553d13391df40e3",
       "name": "26(土) ライドリ歌謡祭-長月",
       "secondary": "",
@@ -76,7 +202,7 @@
       "detailPath": "entities/artists/c553d13391df40e3.json"
     },
     {
-      "rank": 4153,
+      "rank": 4157,
       "id": "dbf1c12800beee44",
       "name": "26周表，圖是pz老師畫的",
       "secondary": "",
@@ -109,7 +235,7 @@
       "detailPath": "entities/artists/dbf1c12800beee44.json"
     },
     {
-      "rank": 4154,
+      "rank": 4158,
       "id": "3dc3aa357a98bfde",
       "name": "279点",
       "secondary": "",
@@ -142,7 +268,7 @@
       "detailPath": "entities/artists/3dc3aa357a98bfde.json"
     },
     {
-      "rank": 4155,
+      "rank": 4159,
       "id": "405e3880e1696a29",
       "name": "27日曜日予定",
       "secondary": "",
@@ -175,7 +301,7 @@
       "detailPath": "entities/artists/405e3880e1696a29.json"
     },
     {
-      "rank": 4156,
+      "rank": 4160,
       "id": "33418e611c3d86e4",
       "name": "29 (日) 12:30 開演",
       "secondary": "",
@@ -208,7 +334,7 @@
       "detailPath": "entities/artists/33418e611c3d86e4.json"
     },
     {
-      "rank": 4157,
+      "rank": 4161,
       "id": "870fd8fb26e01d20",
       "name": "29 (日) 13:00 開演",
       "secondary": "",
@@ -238,7 +364,7 @@
       "detailPath": "entities/artists/870fd8fb26e01d20.json"
     },
     {
-      "rank": 4158,
+      "rank": 4162,
       "id": "8e55c9fc6eb562a0",
       "name": "29 23:40作成",
       "secondary": "",
@@ -271,7 +397,7 @@
       "detailPath": "entities/artists/8e55c9fc6eb562a0.json"
     },
     {
-      "rank": 4159,
+      "rank": 4163,
       "id": "903c7b2e72edb2af",
       "name": "29 テイルズ オブ エターニア テーマソング",
       "secondary": "",
@@ -304,7 +430,7 @@
       "detailPath": "entities/artists/903c7b2e72edb2af.json"
     },
     {
-      "rank": 4160,
+      "rank": 4164,
       "id": "6cd96690a4e163f9",
       "name": "29ヶ月",
       "secondary": "",
@@ -334,7 +460,7 @@
       "detailPath": "entities/artists/6cd96690a4e163f9.json"
     },
     {
-      "rank": 4161,
+      "rank": 4165,
       "id": "fb18691aa808668e",
       "name": "2ndミニアルバム「S'wing」より",
       "secondary": "",
@@ -367,7 +493,7 @@
       "detailPath": "entities/artists/fb18691aa808668e.json"
     },
     {
-      "rank": 4162,
+      "rank": 4166,
       "id": "0dde34a541baae8b",
       "name": "2の夜の予定、おつたや",
       "secondary": "",
@@ -397,7 +523,7 @@
       "detailPath": "entities/artists/0dde34a541baae8b.json"
     },
     {
-      "rank": 4163,
+      "rank": 4167,
       "id": "d970f840340c2a1c",
       "name": "2号",
       "secondary": "",
@@ -430,7 +556,7 @@
       "detailPath": "entities/artists/d970f840340c2a1c.json"
     },
     {
-      "rank": 4164,
+      "rank": 4168,
       "id": "f576bc3a15c1924b",
       "name": "2熱闘編",
       "secondary": "",
@@ -463,7 +589,7 @@
       "detailPath": "entities/artists/f576bc3a15c1924b.json"
     },
     {
-      "rank": 4165,
+      "rank": 4169,
       "id": "ee90ad99334492cb",
       "name": "2番辺りからボロボロ",
       "secondary": "",
@@ -496,7 +622,7 @@
       "detailPath": "entities/artists/ee90ad99334492cb.json"
     },
     {
-      "rank": 4166,
+      "rank": 4170,
       "id": "3197173b96b3c9fc",
       "name": "2枚",
       "secondary": "",
@@ -529,7 +655,7 @@
       "detailPath": "entities/artists/3197173b96b3c9fc.json"
     },
     {
-      "rank": 4167,
+      "rank": 4171,
       "id": "8ec521ad8c75130d",
       "name": "30 は パワプロ(栄冠)",
       "secondary": "",
@@ -562,7 +688,7 @@
       "detailPath": "entities/artists/8ec521ad8c75130d.json"
     },
     {
-      "rank": 4168,
+      "rank": 4172,
       "id": "da20893b06851849",
       "name": "30予定",
       "secondary": "",
@@ -595,7 +721,7 @@
       "detailPath": "entities/artists/da20893b06851849.json"
     },
     {
-      "rank": 4169,
+      "rank": 4173,
       "id": "ab9c073c58ea2068",
       "name": "31 テイルズ オブ エクシリア テーマソング",
       "secondary": "",
@@ -628,7 +754,7 @@
       "detailPath": "entities/artists/ab9c073c58ea2068.json"
     },
     {
-      "rank": 4170,
+      "rank": 4174,
       "id": "8613fbc8acc55ade",
       "name": "365点",
       "secondary": "",
@@ -661,7 +787,7 @@
       "detailPath": "entities/artists/8613fbc8acc55ade.json"
     },
     {
-      "rank": 4171,
+      "rank": 4175,
       "id": "b161138671c92377",
       "name": "366 Days 🤍 (HY)",
       "secondary": "",
@@ -694,7 +820,7 @@
       "detailPath": "entities/artists/b161138671c92377.json"
     },
     {
-      "rank": 4172,
+      "rank": 4176,
       "id": "80e3694d5e268dc5",
       "name": "366日",
       "secondary": "",
@@ -724,7 +850,7 @@
       "detailPath": "entities/artists/80e3694d5e268dc5.json"
     },
     {
-      "rank": 4173,
+      "rank": 4177,
       "id": "517b1f9b495df8e3",
       "name": "373点",
       "secondary": "",
@@ -757,7 +883,7 @@
       "detailPath": "entities/artists/517b1f9b495df8e3.json"
     },
     {
-      "rank": 4174,
+      "rank": 4178,
       "id": "1ca5d4370ee2b659",
       "name": "3rdアルバム「OMOTE TO URA」より",
       "secondary": "",
@@ -790,7 +916,7 @@
       "detailPath": "entities/artists/1ca5d4370ee2b659.json"
     },
     {
-      "rank": 4175,
+      "rank": 4179,
       "id": "64022900f16449a0",
       "name": "3号",
       "secondary": "",
@@ -823,7 +949,7 @@
       "detailPath": "entities/artists/64022900f16449a0.json"
     },
     {
-      "rank": 4176,
+      "rank": 4180,
       "id": "5c94421ac88210ac",
       "name": "3年",
       "secondary": "",
@@ -856,7 +982,7 @@
       "detailPath": "entities/artists/5c94421ac88210ac.json"
     },
     {
-      "rank": 4177,
+      "rank": 4181,
       "id": "f7e963e4a6e2abd2",
       "name": "3年B組金八先生 海援隊",
       "secondary": "",
@@ -889,7 +1015,7 @@
       "detailPath": "entities/artists/f7e963e4a6e2abd2.json"
     },
     {
-      "rank": 4178,
+      "rank": 4182,
       "id": "5470b048f14188a8",
       "name": "40",
       "secondary": "",
@@ -922,7 +1048,7 @@
       "detailPath": "entities/artists/5470b048f14188a8.json"
     },
     {
-      "rank": 4179,
+      "rank": 4183,
       "id": "1de0439d444c54d7",
       "name": "403点",
       "secondary": "",
@@ -955,7 +1081,7 @@
       "detailPath": "entities/artists/1de0439d444c54d7.json"
     },
     {
-      "rank": 4180,
+      "rank": 4184,
       "id": "2a1d009518d4b301",
       "name": "40mP & かぐや",
       "secondary": "",
@@ -985,7 +1111,7 @@
       "detailPath": "entities/artists/2a1d009518d4b301.json"
     },
     {
-      "rank": 4181,
+      "rank": 4185,
       "id": "7ae25d4a8ec4d688",
       "name": "40mP ※ピアノアレンジ",
       "secondary": "",
@@ -1015,7 +1141,7 @@
       "detailPath": "entities/artists/7ae25d4a8ec4d688.json"
     },
     {
-      "rank": 4182,
+      "rank": 4186,
       "id": "d68b5734fc9a3d97",
       "name": "40mP feat. GUMI 2011年",
       "secondary": "",
@@ -1045,7 +1171,7 @@
       "detailPath": "entities/artists/d68b5734fc9a3d97.json"
     },
     {
-      "rank": 4183,
+      "rank": 4187,
       "id": "53a29a70d857395a",
       "name": "40mP feat.可不(KAFU) ※JOYSOUND",
       "secondary": "",
@@ -1078,7 +1204,7 @@
       "detailPath": "entities/artists/53a29a70d857395a.json"
     },
     {
-      "rank": 4184,
+      "rank": 4188,
       "id": "17eaecf3ebaa2893",
       "name": "40mP feat.初音ミク（2010年）",
       "secondary": "",
@@ -1111,7 +1237,7 @@
       "detailPath": "entities/artists/17eaecf3ebaa2893.json"
     },
     {
-      "rank": 4185,
+      "rank": 4189,
       "id": "290cc0cd0a437f11",
       "name": "40mP ft.Hatsune Miku",
       "secondary": "",
@@ -1144,7 +1270,7 @@
       "detailPath": "entities/artists/290cc0cd0a437f11.json"
     },
     {
-      "rank": 4186,
+      "rank": 4190,
       "id": "ab3bd2cf4b87ec0e",
       "name": "40mP ft.初音ミク",
       "secondary": "",
@@ -1177,7 +1303,7 @@
       "detailPath": "entities/artists/ab3bd2cf4b87ec0e.json"
     },
     {
-      "rank": 4187,
+      "rank": 4191,
       "id": "bb5e5e1ea62d6c83",
       "name": "40mP・シャノ",
       "secondary": "",
@@ -1207,7 +1333,7 @@
       "detailPath": "entities/artists/bb5e5e1ea62d6c83.json"
     },
     {
-      "rank": 4188,
+      "rank": 4192,
       "id": "a392d40e727d85ec",
       "name": "40mP、かぐや(夏吉ゆうこ) from 超かぐや姫！",
       "secondary": "",
@@ -1240,7 +1366,7 @@
       "detailPath": "entities/artists/a392d40e727d85ec.json"
     },
     {
-      "rank": 4189,
+      "rank": 4193,
       "id": "8357c5fd31acb86b",
       "name": "40㍍ & かぐや (夏吉ゆうこ)",
       "secondary": "",
@@ -1273,7 +1399,7 @@
       "detailPath": "entities/artists/8357c5fd31acb86b.json"
     },
     {
-      "rank": 4190,
+      "rank": 4194,
       "id": "ad7c069acd34fb36",
       "name": "40㍍P / JS",
       "secondary": "",
@@ -1306,7 +1432,7 @@
       "detailPath": "entities/artists/ad7c069acd34fb36.json"
     },
     {
-      "rank": 4191,
+      "rank": 4195,
       "id": "268bd217d8f437e6",
       "name": "40㍍P feat.初音ミク・GUMI",
       "secondary": "",
@@ -1339,7 +1465,7 @@
       "detailPath": "entities/artists/268bd217d8f437e6.json"
     },
     {
-      "rank": 4192,
+      "rank": 4196,
       "id": "fefc623e1f24297a",
       "name": "40㍍P,40mP,虎次朗,イナメトオル",
       "secondary": "",
@@ -1372,7 +1498,7 @@
       "detailPath": "entities/artists/fefc623e1f24297a.json"
     },
     {
-      "rank": 4193,
+      "rank": 4197,
       "id": "70fc3fcbeb67e36d",
       "name": "40㍍P【アコギCover】",
       "secondary": "",
@@ -1402,7 +1528,7 @@
       "detailPath": "entities/artists/70fc3fcbeb67e36d.json"
     },
     {
-      "rank": 4194,
+      "rank": 4198,
       "id": "5d7b92487c6fa3b5",
       "name": "454点",
       "secondary": "",
@@ -1435,7 +1561,7 @@
       "detailPath": "entities/artists/5d7b92487c6fa3b5.json"
     },
     {
-      "rank": 4195,
+      "rank": 4199,
       "id": "273f6fdeab068f2b",
       "name": "464点",
       "secondary": "",
@@ -1468,7 +1594,7 @@
       "detailPath": "entities/artists/273f6fdeab068f2b.json"
     },
     {
-      "rank": 4196,
+      "rank": 4200,
       "id": "40cc9e9256426d7f",
       "name": "4s4ki",
       "secondary": "",
@@ -1499,138 +1625,6 @@
         }
       ],
       "detailPath": "entities/artists/40cc9e9256426d7f.json"
-    },
-    {
-      "rank": 4197,
-      "id": "49b3dc33c508f07a",
-      "name": "4thアルバム「輪廻転生」より",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "rBaPsabyYro",
-          "videoTitle": "10月初生配信。いいしょうピアノ弾き語り 10.1 #いいしょう #ピアノ #弾き語り",
-          "channelName": "Eighty eightの音楽室",
-          "publishedAt": "2026-10-01T05:14:36.422Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rBaPsabyYro/hqdefault.jpg",
-          "sourcePath": "sources/rB/rBaPsabyYro.json",
-          "time": "0:52:22",
-          "seconds": 3142,
-          "songTitle": "万華鏡",
-          "artist": "4thアルバム「輪廻転生」より"
-        }
-      ],
-      "detailPath": "entities/artists/49b3dc33c508f07a.json"
-    },
-    {
-      "rank": 4198,
-      "id": "ffa5bab311d622e7",
-      "name": "4U",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "kZD5mZ3F71s",
-          "videoTitle": "꒰ঌ 歌枠 ┆ 初見さん60人と出会いたい✨#おはぴよ朝活 2026/09/20 【 #江波キョウカ / パレプロ 】",
-          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
-          "publishedAt": "2026-09-20T07:21:54.661Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kZD5mZ3F71s/hqdefault.jpg",
-          "sourcePath": "sources/kZ/kZD5mZ3F71s.json",
-          "time": "4:24:31",
-          "seconds": 15871,
-          "songTitle": "TREAT OR TREAT",
-          "artist": "4U"
-        }
-      ],
-      "detailPath": "entities/artists/ffa5bab311d622e7.json"
-    },
-    {
-      "rank": 4199,
-      "id": "41cf66be8603c1a4",
-      "name": "5 Seconds of Summer",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "gSWgNQgTcwo",
-          "videoTitle": "//歌枠// 我很認真的唱歌 但是語言不是本來的語言 | 賽特珞 Cetro",
-          "channelName": "Cetro Ch. 賽特珞",
-          "publishedAt": "2026-09-23T16:12:59.656Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gSWgNQgTcwo/hqdefault.jpg",
-          "sourcePath": "sources/gS/gSWgNQgTcwo.json",
-          "time": "1:12:50",
-          "seconds": 4370,
-          "songTitle": "牙齒 / Teeth",
-          "artist": "5 Seconds of Summer"
-        }
-      ],
-      "detailPath": "entities/artists/41cf66be8603c1a4.json"
-    },
-    {
-      "rank": 4200,
-      "id": "b61aaafb385d0936",
-      "name": "5 Seconds of Summer (I tried)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RVmACXbwWmM",
-          "videoTitle": "[歌回 | Singing Stream | 歌枠] I owe you guys for my bday",
-          "channelName": "Ajisa Orten",
-          "publishedAt": "2026-09-16T10:53:50.175Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RVmACXbwWmM/hqdefault.jpg",
-          "sourcePath": "sources/RV/RVmACXbwWmM.json",
-          "time": "1:14:51",
-          "seconds": 4491,
-          "songTitle": "Teeth",
-          "artist": "5 Seconds of Summer (I tried)"
-        }
-      ],
-      "detailPath": "entities/artists/b61aaafb385d0936.json"
     }
   ]
 }

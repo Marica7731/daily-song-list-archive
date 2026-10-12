@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "items": [
     {
       "id": "f79634cd4c37ea6e",
@@ -1722,8 +1722,8 @@
       "type": "songs",
       "name": "JOINT",
       "secondary": "川田まみ",
-      "occurrenceCount": 46,
-      "videoCount": 46,
+      "occurrenceCount": 47,
+      "videoCount": 47,
       "keywords": [
         "karaoke",
         "month",
@@ -1743,8 +1743,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 18,
-          "videoCount": 18
+          "occurrenceCount": 19,
+          "videoCount": 19
         }
       },
       "text": "joint川田まみ"
@@ -17619,8 +17619,8 @@
       "type": "songs",
       "name": "Wishing",
       "secondary": "レム（水瀬いのり）",
-      "occurrenceCount": 14,
-      "videoCount": 14,
+      "occurrenceCount": 15,
+      "videoCount": 15,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -17646,8 +17646,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 6,
-          "videoCount": 6
+          "occurrenceCount": 7,
+          "videoCount": 7
         }
       },
       "text": "wishingレム水瀬いのり"
@@ -19947,8 +19947,8 @@
       "type": "songs",
       "name": "優しさの理由",
       "secondary": "ちょうちょ",
-      "occurrenceCount": 2,
-      "videoCount": 2,
+      "occurrenceCount": 3,
+      "videoCount": 3,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -19959,7 +19959,12 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/f1dd7b56bcf7768c.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "優しさの理由ちょうちょ"
     },
     {
@@ -26725,8 +26730,8 @@
       "type": "songs",
       "name": "ツインテールは20歳まで",
       "secondary": "きゅるりんってしてみて",
-      "occurrenceCount": 14,
-      "videoCount": 14,
+      "occurrenceCount": 15,
+      "videoCount": 15,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -26736,8 +26741,8 @@
       "detailPath": "entities/songs/f6beaf1d294f1064.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 8,
-          "videoCount": 8
+          "occurrenceCount": 9,
+          "videoCount": 9
         }
       },
       "text": "ツインテールは20歳まできゅるりんってしてみて"
@@ -72201,6 +72206,31 @@
       "text": "eatosterproject"
     },
     {
+      "id": "fc72225ef9ca0d92",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "Aka",
+      "secondary": "aiko",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/fc72225ef9ca0d92.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "akaaiko"
+    },
+    {
       "id": "f047feb1ca88696a",
       "channelId": "",
       "channelHandle": "",
@@ -75717,8 +75747,8 @@
       "type": "artists",
       "name": "supercell",
       "secondary": "",
-      "occurrenceCount": 1381,
-      "videoCount": 1088,
+      "occurrenceCount": 1382,
+      "videoCount": 1089,
       "keywords": [
         "karaoke",
         "month",
@@ -75742,12 +75772,12 @@
           "videoCount": 6
         },
         "7d": {
-          "occurrenceCount": 22,
-          "videoCount": 19
+          "occurrenceCount": 20,
+          "videoCount": 18
         },
         "30d": {
-          "occurrenceCount": 454,
-          "videoCount": 352
+          "occurrenceCount": 455,
+          "videoCount": 353
         }
       },
       "text": "supercell"
@@ -75811,8 +75841,8 @@
       "type": "artists",
       "name": "aiko",
       "secondary": "",
-      "occurrenceCount": 784,
-      "videoCount": 593,
+      "occurrenceCount": 785,
+      "videoCount": 594,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -75838,8 +75868,8 @@
           "videoCount": 10
         },
         "30d": {
-          "occurrenceCount": 235,
-          "videoCount": 187
+          "occurrenceCount": 236,
+          "videoCount": 188
         }
       },
       "text": "aiko"
@@ -76631,8 +76661,8 @@
       "type": "artists",
       "name": "高橋洋子",
       "secondary": "",
-      "occurrenceCount": 518,
-      "videoCount": 443,
+      "occurrenceCount": 519,
+      "videoCount": 444,
       "keywords": [
         "karaoke",
         "month",
@@ -76660,8 +76690,8 @@
           "videoCount": 13
         },
         "30d": {
-          "occurrenceCount": 233,
-          "videoCount": 194
+          "occurrenceCount": 234,
+          "videoCount": 195
         }
       },
       "text": "高橋洋子"
@@ -77494,8 +77524,8 @@
       "type": "artists",
       "name": "wotaku",
       "secondary": "",
-      "occurrenceCount": 106,
-      "videoCount": 97,
+      "occurrenceCount": 107,
+      "videoCount": 98,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77513,8 +77543,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 49,
-          "videoCount": 45
+          "occurrenceCount": 50,
+          "videoCount": 46
         }
       },
       "text": "wotaku"

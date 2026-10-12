@@ -1,16 +1,64 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "all",
   "type": "artists",
   "page": 90,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20013,
+  "totalCount": 20017,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4451,
+      "id": "f8b1b172445ef29b",
+      "name": "sabio",
+      "secondary": "",
+      "channelId": "UChvkwy7w0ouKv2rJhD_kPvw",
+      "channelHandle": "@NORISTRY_music",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "CvulGCG0Edw",
+          "videoTitle": "うたう～～～～ #歌枠 【甘音あむ / ネオポルテ】",
+          "channelName": "甘音あむ / Amane Amu",
+          "publishedAt": "2026-09-05T15:12:20.431Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CvulGCG0Edw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARh1w8WC1iuDNHDXIz22L9ohWGeQ",
+          "sourcePath": "sources/Cv/CvulGCG0Edw.json",
+          "time": "1:20:24",
+          "seconds": 4824,
+          "songTitle": "てにをは",
+          "artist": "sabio"
+        },
+        {
+          "videoId": "0sbvZdHsoXk",
+          "videoTitle": "8/14【歌枠】今月最初の歌枠ってマ？【KARAOKE STREAM】",
+          "channelName": "NORISTRY Official",
+          "publishedAt": "2026-08-13T17:46:46.800Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0sbvZdHsoXk/hqdefault.jpg",
+          "sourcePath": "sources/0s/0sbvZdHsoXk.json",
+          "time": "1:11:28",
+          "seconds": 4288,
+          "songTitle": "てにをは",
+          "artist": "sabio"
+        }
+      ],
+      "detailPath": "entities/artists/f8b1b172445ef29b.json"
+    },
+    {
+      "rank": 4452,
       "id": "8f40fc8559ac3756",
       "name": "SPYAIR / 銀魂",
       "secondary": "",
@@ -55,7 +103,7 @@
       "detailPath": "entities/artists/8f40fc8559ac3756.json"
     },
     {
-      "rank": 4452,
+      "rank": 4453,
       "id": "e0ada0dc3b10f48f",
       "name": "tacica ※初出し",
       "secondary": "",
@@ -102,7 +150,7 @@
       "detailPath": "entities/artists/e0ada0dc3b10f48f.json"
     },
     {
-      "rank": 4453,
+      "rank": 4454,
       "id": "858e27dc6b999270",
       "name": "Taja",
       "secondary": "",
@@ -148,7 +196,7 @@
       "detailPath": "entities/artists/858e27dc6b999270.json"
     },
     {
-      "rank": 4454,
+      "rank": 4455,
       "id": "91f4a98212cdda08",
       "name": "The Lion King",
       "secondary": "",
@@ -193,7 +241,7 @@
       "detailPath": "entities/artists/91f4a98212cdda08.json"
     },
     {
-      "rank": 4455,
+      "rank": 4456,
       "id": "f5caf612383b513b",
       "name": "Toa feat.Hatsune Miku",
       "secondary": "",
@@ -238,7 +286,7 @@
       "detailPath": "entities/artists/f5caf612383b513b.json"
     },
     {
-      "rank": 4456,
+      "rank": 4457,
       "id": "caadc52fe814f6d6",
       "name": "TOKOTOKO（西沢さんP）様",
       "secondary": "",
@@ -280,7 +328,7 @@
       "detailPath": "entities/artists/caadc52fe814f6d6.json"
     },
     {
-      "rank": 4457,
+      "rank": 4458,
       "id": "94adc5fd4eee8a31",
       "name": "ToNick",
       "secondary": "",
@@ -326,7 +374,7 @@
       "detailPath": "entities/artists/94adc5fd4eee8a31.json"
     },
     {
-      "rank": 4458,
+      "rank": 4459,
       "id": "c0df7f3ffcec0f61",
       "name": "twe'lv",
       "secondary": "",
@@ -371,7 +419,7 @@
       "detailPath": "entities/artists/c0df7f3ffcec0f61.json"
     },
     {
-      "rank": 4459,
+      "rank": 4460,
       "id": "ddfdb7ed6527ef31",
       "name": "Uru ※JOYSOUND",
       "secondary": "",
@@ -419,7 +467,7 @@
       "detailPath": "entities/artists/ddfdb7ed6527ef31.json"
     },
     {
-      "rank": 4460,
+      "rank": 4461,
       "id": "ce869614563dbf76",
       "name": "WONDERFUL★OPPORTUNITY!",
       "secondary": "",
@@ -464,7 +512,7 @@
       "detailPath": "entities/artists/ce869614563dbf76.json"
     },
     {
-      "rank": 4461,
+      "rank": 4462,
       "id": "9879fdf924e852d1",
       "name": "Wowaka feat.Hatsune Miku",
       "secondary": "",
@@ -509,7 +557,7 @@
       "detailPath": "entities/artists/9879fdf924e852d1.json"
     },
     {
-      "rank": 4462,
+      "rank": 4463,
       "id": "4a228a1b056015d5",
       "name": "yatsuhashi feat. 初音ミク",
       "secondary": "",
@@ -557,7 +605,7 @@
       "detailPath": "entities/artists/4a228a1b056015d5.json"
     },
     {
-      "rank": 4463,
+      "rank": 4464,
       "id": "fe2009a0b2f273bb",
       "name": "Yoko Takahashi",
       "secondary": "",
@@ -602,7 +650,7 @@
       "detailPath": "entities/artists/fe2009a0b2f273bb.json"
     },
     {
-      "rank": 4464,
+      "rank": 4465,
       "id": "68526c2e79caecd2",
       "name": "Yumi Kimura",
       "secondary": "",
@@ -648,7 +696,7 @@
       "detailPath": "entities/artists/68526c2e79caecd2.json"
     },
     {
-      "rank": 4465,
+      "rank": 4466,
       "id": "a18d3a5b6f65c0b3",
       "name": "ZABADAK",
       "secondary": "",
@@ -694,7 +742,7 @@
       "detailPath": "entities/artists/a18d3a5b6f65c0b3.json"
     },
     {
-      "rank": 4466,
+      "rank": 4467,
       "id": "9289f4bddaa44e6f",
       "name": "あかつき るき",
       "secondary": "",
@@ -741,7 +789,7 @@
       "detailPath": "entities/artists/9289f4bddaa44e6f.json"
     },
     {
-      "rank": 4467,
+      "rank": 4468,
       "id": "6318f94dc2976e95",
       "name": "イザナギ・エルヴァ",
       "secondary": "",
@@ -786,7 +834,7 @@
       "detailPath": "entities/artists/6318f94dc2976e95.json"
     },
     {
-      "rank": 4468,
+      "rank": 4469,
       "id": "441f6974b0bf3b62",
       "name": "いなまつりオリジナルソング",
       "secondary": "",
@@ -831,7 +879,7 @@
       "detailPath": "entities/artists/441f6974b0bf3b62.json"
     },
     {
-      "rank": 4469,
+      "rank": 4470,
       "id": "6454c8f1855c2d61",
       "name": "ヴィヴィ（CV:八木海莉）",
       "secondary": "",
@@ -878,7 +926,7 @@
       "detailPath": "entities/artists/6454c8f1855c2d61.json"
     },
     {
-      "rank": 4470,
+      "rank": 4471,
       "id": "9f350db61ec4d818",
       "name": "オワタ＼(^o^)/／オワタP",
       "secondary": "",
@@ -926,7 +974,7 @@
       "detailPath": "entities/artists/9f350db61ec4d818.json"
     },
     {
-      "rank": 4471,
+      "rank": 4472,
       "id": "31a5c7fde2599a1b",
       "name": "カシ・オトハ",
       "secondary": "",
@@ -973,7 +1021,7 @@
       "detailPath": "entities/artists/31a5c7fde2599a1b.json"
     },
     {
-      "rank": 4472,
+      "rank": 4473,
       "id": "94c4e6632be19bd3",
       "name": "きゃりーぱみゅぱみゅ ※JOYSOUND",
       "secondary": "",
@@ -1020,7 +1068,7 @@
       "detailPath": "entities/artists/94c4e6632be19bd3.json"
     },
     {
-      "rank": 4473,
+      "rank": 4474,
       "id": "a21fa71c84d31287",
       "name": "さユり ※JOYSOUND",
       "secondary": "",
@@ -1065,7 +1113,7 @@
       "detailPath": "entities/artists/a21fa71c84d31287.json"
     },
     {
-      "rank": 4474,
+      "rank": 4475,
       "id": "e0e6851a3db4c3cc",
       "name": "シェリル ノーム [CV: May'n]",
       "secondary": "",
@@ -1111,7 +1159,7 @@
       "detailPath": "entities/artists/e0e6851a3db4c3cc.json"
     },
     {
-      "rank": 4475,
+      "rank": 4476,
       "id": "54bb885f8c71d07d",
       "name": "しぐれうい ※JOYSOUND",
       "secondary": "",
@@ -1158,7 +1206,7 @@
       "detailPath": "entities/artists/54bb885f8c71d07d.json"
     },
     {
-      "rank": 4476,
+      "rank": 4477,
       "id": "85803c28c84dc247",
       "name": "シド 様",
       "secondary": "",
@@ -1203,7 +1251,7 @@
       "detailPath": "entities/artists/85803c28c84dc247.json"
     },
     {
-      "rank": 4477,
+      "rank": 4478,
       "id": "fae95325cf7ccb70",
       "name": "スパークル",
       "secondary": "",
@@ -1250,7 +1298,7 @@
       "detailPath": "entities/artists/fae95325cf7ccb70.json"
     },
     {
-      "rank": 4478,
+      "rank": 4479,
       "id": "3ed03045d30e9fdc",
       "name": "スピッツ 様",
       "secondary": "",
@@ -1295,7 +1343,7 @@
       "detailPath": "entities/artists/3ed03045d30e9fdc.json"
     },
     {
-      "rank": 4479,
+      "rank": 4480,
       "id": "9684cac2ad2c2915",
       "name": "スリーズブーケ (蓮之空女學院學園偶像俱樂部)",
       "secondary": "",
@@ -1343,7 +1391,7 @@
       "detailPath": "entities/artists/9684cac2ad2c2915.json"
     },
     {
-      "rank": 4480,
+      "rank": 4481,
       "id": "0f3657801e0508ad",
       "name": "ちゃれんじ",
       "secondary": "",
@@ -1385,7 +1433,7 @@
       "detailPath": "entities/artists/0f3657801e0508ad.json"
     },
     {
-      "rank": 4481,
+      "rank": 4482,
       "id": "32382fc6e218fff3",
       "name": "ツミキ ※JOYSOUND",
       "secondary": "",
@@ -1430,7 +1478,7 @@
       "detailPath": "entities/artists/32382fc6e218fff3.json"
     },
     {
-      "rank": 4482,
+      "rank": 4483,
       "id": "46f6e311f30e163c",
       "name": "デレマス",
       "secondary": "",
@@ -1477,7 +1525,7 @@
       "detailPath": "entities/artists/46f6e311f30e163c.json"
     },
     {
-      "rank": 4483,
+      "rank": 4484,
       "id": "603e50c04afe0fc4",
       "name": "トップをねらえ！",
       "secondary": "",
@@ -1525,7 +1573,7 @@
       "detailPath": "entities/artists/603e50c04afe0fc4.json"
     },
     {
-      "rank": 4484,
+      "rank": 4485,
       "id": "8d708d723e0b5758",
       "name": "パッション",
       "secondary": "",
@@ -1570,7 +1618,7 @@
       "detailPath": "entities/artists/8d708d723e0b5758.json"
     },
     {
-      "rank": 4485,
+      "rank": 4486,
       "id": "2a84980f7aa52457",
       "name": "ビリー・バンバン",
       "secondary": "",
@@ -1616,7 +1664,7 @@
       "detailPath": "entities/artists/2a84980f7aa52457.json"
     },
     {
-      "rank": 4486,
+      "rank": 4487,
       "id": "da09168b67115909",
       "name": "ファム・ファタル",
       "secondary": "",
@@ -1661,7 +1709,7 @@
       "detailPath": "entities/artists/da09168b67115909.json"
     },
     {
-      "rank": 4487,
+      "rank": 4488,
       "id": "8a2a46cd1fa20b83",
       "name": "ふわりP feat. 初音ミク",
       "secondary": "",
@@ -1709,7 +1757,7 @@
       "detailPath": "entities/artists/8a2a46cd1fa20b83.json"
     },
     {
-      "rank": 4488,
+      "rank": 4489,
       "id": "7f8f6de3f50419a4",
       "name": "ふわりP feat. 初音ミク × 鏡音リン × 鏡音レン × 巡音ルカ × KAITO × MEIKO × GUMI × 神威がくぽ",
       "secondary": "",
@@ -1757,7 +1805,7 @@
       "detailPath": "entities/artists/7f8f6de3f50419a4.json"
     },
     {
-      "rank": 4489,
+      "rank": 4490,
       "id": "a02c353b395eaf81",
       "name": "マクロスＦ シェリルノーム",
       "secondary": "",
@@ -1799,7 +1847,7 @@
       "detailPath": "entities/artists/a02c353b395eaf81.json"
     },
     {
-      "rank": 4490,
+      "rank": 4491,
       "id": "e537de07806a4fce",
       "name": "マジカルフィジカル☆くるる(CV.釘宮理恵)",
       "secondary": "",
@@ -1844,7 +1892,7 @@
       "detailPath": "entities/artists/e537de07806a4fce.json"
     },
     {
-      "rank": 4491,
+      "rank": 4492,
       "id": "927bc7716651c7f5",
       "name": "まゆり",
       "secondary": "",
@@ -1889,7 +1937,7 @@
       "detailPath": "entities/artists/927bc7716651c7f5.json"
     },
     {
-      "rank": 4492,
+      "rank": 4493,
       "id": "dd6d9336f1779ad1",
       "name": "みらくらぱーく！",
       "secondary": "",
@@ -1935,7 +1983,7 @@
       "detailPath": "entities/artists/dd6d9336f1779ad1.json"
     },
     {
-      "rank": 4493,
+      "rank": 4494,
       "id": "efa1e5be3c3e5844",
       "name": "メルト",
       "secondary": "",
@@ -1980,7 +2028,7 @@
       "detailPath": "entities/artists/efa1e5be3c3e5844.json"
     },
     {
-      "rank": 4494,
+      "rank": 4495,
       "id": "33c5fe0afcaac050",
       "name": "リクエスト",
       "secondary": "",
@@ -2025,7 +2073,7 @@
       "detailPath": "entities/artists/33c5fe0afcaac050.json"
     },
     {
-      "rank": 4495,
+      "rank": 4496,
       "id": "e2426eb9d7c429f8",
       "name": "ルパン三世",
       "secondary": "",
@@ -2071,7 +2119,7 @@
       "detailPath": "entities/artists/e2426eb9d7c429f8.json"
     },
     {
-      "rank": 4496,
+      "rank": 4497,
       "id": "4509ef44a59a7625",
       "name": "れすぽん",
       "secondary": "",
@@ -2117,7 +2165,7 @@
       "detailPath": "entities/artists/4509ef44a59a7625.json"
     },
     {
-      "rank": 4497,
+      "rank": 4498,
       "id": "3fc52b44c31fe6eb",
       "name": "ロードス島戦記",
       "secondary": "",
@@ -2165,7 +2213,7 @@
       "detailPath": "entities/artists/3fc52b44c31fe6eb.json"
     },
     {
-      "rank": 4498,
+      "rank": 4499,
       "id": "5ca1f669371df036",
       "name": "ワルキューレ / 「マクロスΔ」挿入歌",
       "secondary": "",
@@ -2213,7 +2261,7 @@
       "detailPath": "entities/artists/5ca1f669371df036.json"
     },
     {
-      "rank": 4499,
+      "rank": 4500,
       "id": "fcb059db1e800269",
       "name": "安田レイ",
       "secondary": "",
@@ -2259,54 +2307,6 @@
         }
       ],
       "detailPath": "entities/artists/fcb059db1e800269.json"
-    },
-    {
-      "rank": 4500,
-      "id": "6995e83029bcf899",
-      "name": "伊藤ふみや feat. 六人のカリスマ",
-      "secondary": "",
-      "channelId": "UChpkyQ3O21OnkcMcgCoNHCg",
-      "channelHandle": "@ebakyouka",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mRjET353IMw",
-          "videoTitle": "꒰ঌ 歌枠 ┆ 8月ラスト🌻元気が出る曲を歌うぞ～！【 #江波キョウカ / パレプロ 】",
-          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
-          "publishedAt": "2026-08-31T12:46:38.698Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mRjET353IMw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqJ0baF34n64kC4HHfSXlJOlY_Rw",
-          "sourcePath": "sources/mR/mRjET353IMw.json",
-          "time": "1:35:57",
-          "seconds": 5757,
-          "songTitle": "Charisma Battle Anthem",
-          "artist": "伊藤ふみや feat. 六人のカリスマ"
-        },
-        {
-          "videoId": "kNjVYQEiFx8",
-          "videoTitle": "꒰ঌ 歌枠 ┆ パレプロ感謝祭2026 現地チケット完売までもう少し！ぷち耐久歌枠【 #江波キョウカ / パレプロ 】",
-          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
-          "publishedAt": "2026-07-30T18:06:30.221Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kNjVYQEiFx8/hqdefault.jpg",
-          "sourcePath": "sources/kN/kNjVYQEiFx8.json",
-          "time": "5:47:24",
-          "seconds": 20844,
-          "songTitle": "Charisma Battle Anthem",
-          "artist": "伊藤ふみや feat. 六人のカリスマ"
-        }
-      ],
-      "detailPath": "entities/artists/6995e83029bcf899.json"
     }
   ]
 }

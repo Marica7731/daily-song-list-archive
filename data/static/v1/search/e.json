@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "items": [
     {
       "id": "e89cb83a3a553c44",
@@ -3500,8 +3500,8 @@
       "detailPath": "entities/songs/ef265d2caa685baa.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 10,
@@ -3717,13 +3717,14 @@
       "type": "songs",
       "name": "月光浴",
       "secondary": "柴田淳",
-      "occurrenceCount": 3,
-      "videoCount": 3,
+      "occurrenceCount": 4,
+      "videoCount": 4,
       "keywords": [
         "month",
         "mygit今日快照",
         "today",
-        "弾き語り"
+        "弾き語り",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
@@ -3734,8 +3735,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "月光浴柴田淳"
@@ -15710,20 +15711,22 @@
       "type": "songs",
       "name": "アローラ!!",
       "secondary": "サトシwithピカチュウ(CV松本梨香/大谷育江)",
-      "occurrenceCount": 3,
-      "videoCount": 3,
+      "occurrenceCount": 4,
+      "videoCount": 4,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/edef1c0725c6da54.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "アローラサトシwithピカチュウcv松本梨香大谷育江"
@@ -72019,6 +72022,31 @@
       "text": "desire美郷あき"
     },
     {
+      "id": "e7148045c47d863d",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "biquitous dB",
+      "secondary": "ユナ/神田沙也加",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/e7148045c47d863d.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "biquitousdbユナ神田沙也加"
+    },
+    {
       "id": "e89adb736d68c549",
       "channelId": "",
       "channelHandle": "",
@@ -75476,8 +75504,8 @@
       "type": "artists",
       "name": "水樹奈々",
       "secondary": "",
-      "occurrenceCount": 904,
-      "videoCount": 446,
+      "occurrenceCount": 906,
+      "videoCount": 447,
       "keywords": [
         "karaoke",
         "month",
@@ -75505,8 +75533,8 @@
           "videoCount": 14
         },
         "30d": {
-          "occurrenceCount": 397,
-          "videoCount": 174
+          "occurrenceCount": 399,
+          "videoCount": 175
         }
       },
       "text": "水樹奈々"
@@ -75929,8 +75957,8 @@
       "type": "artists",
       "name": "藍井エイル",
       "secondary": "",
-      "occurrenceCount": 191,
-      "videoCount": 150,
+      "occurrenceCount": 192,
+      "videoCount": 151,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -75956,8 +75984,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 82,
-          "videoCount": 62
+          "occurrenceCount": 83,
+          "videoCount": 63
         }
       },
       "text": "藍井エイル"
@@ -76118,8 +76146,8 @@
       "type": "artists",
       "name": "NEWS",
       "secondary": "",
-      "occurrenceCount": 33,
-      "videoCount": 30,
+      "occurrenceCount": 34,
+      "videoCount": 31,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76132,8 +76160,8 @@
       "detailPath": "entities/artists/e69c19bbd90eb61d.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 9,
-          "videoCount": 8
+          "occurrenceCount": 10,
+          "videoCount": 9
         }
       },
       "text": "news"
@@ -80710,8 +80738,8 @@
       "type": "artists",
       "name": "結城アイラ",
       "secondary": "",
-      "occurrenceCount": 8,
-      "videoCount": 8,
+      "occurrenceCount": 9,
+      "videoCount": 9,
       "keywords": [
         "karaoke",
         "month",
@@ -80730,8 +80758,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "結城アイラ"

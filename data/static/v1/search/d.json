@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "items": [
     {
       "id": "dcdd439e029c2f5e",
@@ -2572,8 +2572,8 @@
       "type": "songs",
       "name": "ノーザンクロス",
       "secondary": "シェリル・ノーム starring May'n",
-      "occurrenceCount": 74,
-      "videoCount": 74,
+      "occurrenceCount": 75,
+      "videoCount": 75,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2586,8 +2586,8 @@
       "detailPath": "entities/songs/dd852b421e36d4d2.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 21,
-          "videoCount": 21
+          "occurrenceCount": 22,
+          "videoCount": 22
         }
       },
       "text": "ノーザンクロスシェリルノームstarringmayn"
@@ -3520,8 +3520,8 @@
       "type": "songs",
       "name": "ETERNAL BLAZE",
       "secondary": "水樹奈々",
-      "occurrenceCount": 122,
-      "videoCount": 122,
+      "occurrenceCount": 123,
+      "videoCount": 123,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -3543,8 +3543,8 @@
           "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 47,
-          "videoCount": 47
+          "occurrenceCount": 48,
+          "videoCount": 48
         }
       },
       "text": "eternalblaze水樹奈々"
@@ -3576,8 +3576,8 @@
       "type": "songs",
       "name": "セブンティーン",
       "secondary": "YOASOBI",
-      "occurrenceCount": 24,
-      "videoCount": 24,
+      "occurrenceCount": 25,
+      "videoCount": 25,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -3590,8 +3590,8 @@
       "detailPath": "entities/songs/d8e57dc33364dcca.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 12,
-          "videoCount": 12
+          "occurrenceCount": 13,
+          "videoCount": 13
         }
       },
       "text": "セブンティーンyoasobi"
@@ -16718,19 +16718,26 @@
       "type": "songs",
       "name": "少女迷路でつかまえて",
       "secondary": "美郷あき",
-      "occurrenceCount": 4,
-      "videoCount": 4,
+      "occurrenceCount": 5,
+      "videoCount": 5,
       "keywords": [
         "karaoke",
         "month",
         "mygit_today_snapshot",
+        "mygit今日快照",
         "today",
-        "歌"
+        "歌",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/dd0b928b2edce173.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "少女迷路でつかまえて美郷あき"
     },
     {
@@ -70053,6 +70060,31 @@
       "text": "ibunpofchiken"
     },
     {
+      "id": "dea785f14021d4a0",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "瞳の扉",
+      "secondary": "marhy",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/dea785f14021d4a0.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "瞳の扉marhy"
+    },
+    {
       "id": "dd199eabf2400021",
       "channelId": "",
       "channelHandle": "",
@@ -73935,8 +73967,8 @@
       "type": "artists",
       "name": "M!LK",
       "secondary": "",
-      "occurrenceCount": 484,
-      "videoCount": 390,
+      "occurrenceCount": 485,
+      "videoCount": 391,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -73957,8 +73989,8 @@
           "videoCount": 10
         },
         "30d": {
-          "occurrenceCount": 170,
-          "videoCount": 134
+          "occurrenceCount": 171,
+          "videoCount": 135
         }
       },
       "text": "mlk"
@@ -74990,8 +75022,8 @@
       "type": "artists",
       "name": "電ポルP",
       "secondary": "",
-      "occurrenceCount": 235,
-      "videoCount": 201,
+      "occurrenceCount": 236,
+      "videoCount": 202,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -75013,8 +75045,8 @@
           "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 93,
-          "videoCount": 81
+          "occurrenceCount": 94,
+          "videoCount": 82
         }
       },
       "text": "電ポルp"
@@ -81516,8 +81548,8 @@
       "type": "artists",
       "name": "美郷あき",
       "secondary": "",
-      "occurrenceCount": 94,
-      "videoCount": 65,
+      "occurrenceCount": 95,
+      "videoCount": 66,
       "keywords": [
         "karaoke",
         "month",
@@ -81534,8 +81566,8 @@
       "detailPath": "entities/artists/dbfc54f4387fbefa.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 6,
-          "videoCount": 5
+          "occurrenceCount": 7,
+          "videoCount": 6
         }
       },
       "text": "美郷あき"
@@ -101869,6 +101901,31 @@
         }
       },
       "text": "悪魔の子"
+    },
+    {
+      "id": "dd83b8e1167c45d9",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "artists",
+      "name": "ニャース(CV.犬山イヌコ)＆ノルソル合唱団",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/artists/dd83b8e1167c45d9.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "ニャースcv犬山イヌコノルソル合唱団"
     },
     {
       "id": "d20c355668f3256c",

@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "30d",
   "type": "artists",
   "page": 23,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10857,
+  "totalCount": 10861,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1101,
+      "id": "9ff5e4caab70e170",
+      "name": "sasakure.UK feat. 土岐麻子",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 7,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Yll1rm6sBS4",
+          "videoTitle": "【#歌枠 / KARAOKE 】10月初の歌枠！アニソン・ボカロ好き集合ー！！！【#朱音るら / #vsinger 】",
+          "channelName": "Rura Ch. 朱音るら",
+          "publishedAt": "2026-10-10T08:20:29.608Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Yll1rm6sBS4/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLADtXDGHLRZhEnTe9ljiHfIt1Uj0A",
+          "sourcePath": "sources/Yl/Yll1rm6sBS4.json",
+          "time": "1:24:41",
+          "seconds": 5081,
+          "songTitle": "深海のリトルクライ",
+          "artist": "sasakure.UK feat. 土岐麻子"
+        },
+        {
+          "videoId": "6f8saMPTP7M",
+          "videoTitle": "【歌枠/Karaoke 】深夜のまったり歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
+          "channelName": "飲酒じめさん【hajime】",
+          "publishedAt": "2026-10-07T19:13:02.895Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6f8saMPTP7M/hqdefault.jpg",
+          "sourcePath": "sources/6f/6f8saMPTP7M.json",
+          "time": "2:07:34",
+          "seconds": 7654,
+          "songTitle": "深海のリトルクライ",
+          "artist": "sasakure.UK feat. 土岐麻子"
+        },
+        {
+          "videoId": "iV2DFz1vBu0",
+          "videoTitle": "【歌枠/Karaoke 】10月こんにちは。深夜のまったり歌枠！一曲聞いてってくださいな🦊歌うの大好きVtuber 【#新人vtuber #hajime】",
+          "channelName": "飲酒じめさん【hajime】",
+          "publishedAt": "2026-09-30T19:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iV2DFz1vBu0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdEwnpGVUcVNXguBhJoqld48mGsg",
+          "sourcePath": "sources/iV/iV2DFz1vBu0.json",
+          "time": "2:23:22",
+          "seconds": 8602,
+          "songTitle": "深海のリトルクライ",
+          "artist": "sasakure.UK feat. 土岐麻子"
+        }
+      ],
+      "detailPath": "entities/artists/9ff5e4caab70e170.json"
+    },
+    {
+      "rank": 1102,
       "id": "630fe8ded778bc7b",
       "name": "SLAVE.V-V-R",
       "secondary": "",
@@ -67,7 +124,7 @@
       "detailPath": "entities/artists/630fe8ded778bc7b.json"
     },
     {
-      "rank": 1102,
+      "rank": 1103,
       "id": "60a0552a48c20557",
       "name": "syudou feat. 初音ミク",
       "secondary": "",
@@ -124,7 +181,7 @@
       "detailPath": "entities/artists/60a0552a48c20557.json"
     },
     {
-      "rank": 1103,
+      "rank": 1104,
       "id": "d62ad19b025a87d9",
       "name": "THEATRE BROOK",
       "secondary": "",
@@ -181,7 +238,7 @@
       "detailPath": "entities/artists/d62ad19b025a87d9.json"
     },
     {
-      "rank": 1104,
+      "rank": 1105,
       "id": "a78325e4c2d36d02",
       "name": "Tobanai Tsurara",
       "secondary": "",
@@ -235,7 +292,7 @@
       "detailPath": "entities/artists/a78325e4c2d36d02.json"
     },
     {
-      "rank": 1105,
+      "rank": 1106,
       "id": "2d47e17a37d29b4a",
       "name": "Torama Joe",
       "secondary": "",
@@ -289,7 +346,7 @@
       "detailPath": "entities/artists/2d47e17a37d29b4a.json"
     },
     {
-      "rank": 1106,
+      "rank": 1107,
       "id": "baf51e5b90c85fea",
       "name": "Urin",
       "secondary": "",
@@ -343,7 +400,7 @@
       "detailPath": "entities/artists/baf51e5b90c85fea.json"
     },
     {
-      "rank": 1107,
+      "rank": 1108,
       "id": "39beb7317ce45f31",
       "name": "Violet Haze [Shika Yuina & AIna / Violet Haze]",
       "secondary": "",
@@ -397,7 +454,7 @@
       "detailPath": "entities/artists/39beb7317ce45f31.json"
     },
     {
-      "rank": 1108,
+      "rank": 1109,
       "id": "2f9041dd2377ca28",
       "name": "ジェニーハイ",
       "secondary": "",
@@ -454,7 +511,7 @@
       "detailPath": "entities/artists/2f9041dd2377ca28.json"
     },
     {
-      "rank": 1109,
+      "rank": 1110,
       "id": "904772b5c6ea913a",
       "name": "ハナエ",
       "secondary": "",
@@ -511,7 +568,7 @@
       "detailPath": "entities/artists/904772b5c6ea913a.json"
     },
     {
-      "rank": 1110,
+      "rank": 1111,
       "id": "d8763c85df077fe2",
       "name": "パペットスンスン",
       "secondary": "",
@@ -568,7 +625,7 @@
       "detailPath": "entities/artists/d8763c85df077fe2.json"
     },
     {
-      "rank": 1111,
+      "rank": 1112,
       "id": "34ddf946a643eb25",
       "name": "ピートマックジュニア",
       "secondary": "",
@@ -625,7 +682,7 @@
       "detailPath": "entities/artists/34ddf946a643eb25.json"
     },
     {
-      "rank": 1112,
+      "rank": 1113,
       "id": "9f77f4ced457c917",
       "name": "ミオヤマザキ",
       "secondary": "",
@@ -682,7 +739,7 @@
       "detailPath": "entities/artists/9f77f4ced457c917.json"
     },
     {
-      "rank": 1113,
+      "rank": 1114,
       "id": "3c133c32176ee2d1",
       "name": "みきとP feat.初音ミク ※JOYSOUND",
       "secondary": "",
@@ -739,7 +796,7 @@
       "detailPath": "entities/artists/3c133c32176ee2d1.json"
     },
     {
-      "rank": 1114,
+      "rank": 1115,
       "id": "020a52786b77137e",
       "name": "やくしまるえつこメトロオーケストラ",
       "secondary": "",
@@ -796,7 +853,7 @@
       "detailPath": "entities/artists/020a52786b77137e.json"
     },
     {
-      "rank": 1115,
+      "rank": 1116,
       "id": "d192a6e9dcce2d18",
       "name": "ゆうゆ feat. 鏡音リン",
       "secondary": "",
@@ -851,64 +908,6 @@
         }
       ],
       "detailPath": "entities/artists/d192a6e9dcce2d18.json"
-    },
-    {
-      "rank": 1116,
-      "id": "98be97c4848dc0ad",
-      "name": "レム（水瀬いのり）",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 7,
-      "videoCount": 7,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "sACzCi8Iqj4",
-          "videoTitle": "【朝活/歌枠/雑談】憂鬱な月曜日の朝に癒しを。「行ってきます」大歓迎！┊#初見さん大歓迎",
-          "channelName": "ねぴん / Nepin ch.",
-          "publishedAt": "2026-10-12T00:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sACzCi8Iqj4/hqdefault.jpg",
-          "sourcePath": "sources/sA/sACzCi8Iqj4.json",
-          "time": "0:40:02",
-          "seconds": 2402,
-          "songTitle": "Wishing",
-          "artist": "レム(水瀬いのり)"
-        },
-        {
-          "videoId": "-m25jA-fyUU",
-          "videoTitle": "♰ 歌枠 ♰ 久々にお歌と雑談するぞ～♩【 #終末むくろ / #すぺしゃりて 】",
-          "channelName": "終末むくろ / Mukuro Owarino",
-          "publishedAt": "2026-10-07T18:11:43.576Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-m25jA-fyUU/hqdefault.jpg",
-          "sourcePath": "sources/-m/-m25jA-fyUU.json",
-          "time": "2:16:00",
-          "seconds": 8160,
-          "songTitle": "Wishing",
-          "artist": "レム(水瀬いのり)"
-        },
-        {
-          "videoId": "YqnGQXQMmaY",
-          "videoTitle": "*❅ 歌枠┊可愛いお歌限定🩵KARAOKE🎤♫ Singing stream〖 雪芽るみ┊すぺしゃりて 〗",
-          "channelName": "雪芽るみ / Lumi Yukime",
-          "publishedAt": "2026-10-01T17:14:17.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YqnGQXQMmaY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQnbs5oIeVKMUlvF0ECgLmMHSM4g",
-          "sourcePath": "sources/Yq/YqnGQXQMmaY.json",
-          "time": "3:04:14",
-          "seconds": 11054,
-          "songTitle": "Wishing",
-          "artist": "レム (水瀬いのり)"
-        }
-      ],
-      "detailPath": "entities/artists/98be97c4848dc0ad.json"
     },
     {
       "rank": 1117,

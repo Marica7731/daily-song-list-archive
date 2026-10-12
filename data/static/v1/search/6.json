@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "items": [
     {
       "id": "61bbb9e622e8bff4",
@@ -1274,8 +1274,8 @@
       "type": "songs",
       "name": "境界の彼方",
       "secondary": "茅原実里",
-      "occurrenceCount": 21,
-      "videoCount": 21,
+      "occurrenceCount": 22,
+      "videoCount": 22,
       "keywords": [
         "karaoke",
         "month",
@@ -1302,8 +1302,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 11,
-          "videoCount": 11
+          "occurrenceCount": 12,
+          "videoCount": 12
         }
       },
       "text": "境界の彼方茅原実里"
@@ -15136,17 +15136,24 @@
       "type": "songs",
       "name": "ドーナツホール",
       "secondary": "米津 玄師(ハチ)",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/6b6f74f06cf619c7.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "ドーナツホール米津玄師ハチ"
     },
     {
@@ -72785,6 +72792,31 @@
       "text": "ギルド"
     },
     {
+      "id": "609bd0d14d9db99a",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "リリィ",
+      "secondary": "八百歳比名子(上田麗奈)",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/609bd0d14d9db99a.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "リリィ八百歳比名子上田麗奈"
+    },
+    {
       "id": "6c9a5b3f21d24bd4",
       "channelId": "",
       "channelHandle": "",
@@ -73673,10 +73705,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/60110c04575d68d7.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -76316,8 +76344,8 @@
       "type": "artists",
       "name": "ずっと真夜中でいいのに。",
       "secondary": "",
-      "occurrenceCount": 571,
-      "videoCount": 437,
+      "occurrenceCount": 572,
+      "videoCount": 438,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76343,8 +76371,8 @@
           "videoCount": 19
         },
         "30d": {
-          "occurrenceCount": 242,
-          "videoCount": 172
+          "occurrenceCount": 243,
+          "videoCount": 173
         }
       },
       "text": "ずっと真夜中でいいのに"
@@ -76357,8 +76385,8 @@
       "type": "artists",
       "name": "茅原実里",
       "secondary": "",
-      "occurrenceCount": 114,
-      "videoCount": 109,
+      "occurrenceCount": 116,
+      "videoCount": 111,
       "keywords": [
         "karaoke",
         "month",
@@ -76386,8 +76414,8 @@
           "videoCount": 8
         },
         "30d": {
-          "occurrenceCount": 50,
-          "videoCount": 47
+          "occurrenceCount": 52,
+          "videoCount": 49
         }
       },
       "text": "茅原実里"
@@ -82303,8 +82331,8 @@
       "type": "artists",
       "name": "coba & 宮沢和史",
       "secondary": "",
-      "occurrenceCount": 7,
-      "videoCount": 7,
+      "occurrenceCount": 8,
+      "videoCount": 8,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -82317,8 +82345,8 @@
       "detailPath": "entities/artists/64caca6782b8672a.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "coba宮沢和史"
@@ -111717,6 +111745,31 @@
         }
       },
       "text": "歌月えん"
+    },
+    {
+      "id": "6acfdfe5a3baf099",
+      "channelId": "UCgRYcQz7-f9tpRLRIEeWBxQ",
+      "channelHandle": "@toukainori",
+      "channelUrl": "",
+      "type": "vtubers",
+      "name": "燈華いのり Inori Ch.",
+      "secondary": "",
+      "occurrenceCount": 10,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/vtubers/6acfdfe5a3baf099.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 10,
+          "videoCount": 1
+        }
+      },
+      "text": "燈華いのりinorich"
     },
     {
       "id": "64f427fc83199c62",

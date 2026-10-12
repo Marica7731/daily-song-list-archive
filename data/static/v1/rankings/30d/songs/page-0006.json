@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "30d",
   "type": "songs",
   "page": 6,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27684,
+  "totalCount": 27700,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1165,6 +1165,64 @@
     },
     {
       "rank": 271,
+      "id": "08d0c7fa3f39d216",
+      "name": "DISCOTHEQUE",
+      "secondary": "水樹奈々",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 33,
+      "videoCount": 33,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "S4Fg-2ADMDM",
+          "videoTitle": "【 #歌枠 】高評価200目標！オールジャンル歌枠✨ アンバサダー投票お願いしながら 初見さんにぜひ見つけて欲しい～！！ #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
+          "channelName": "Azato Ch. 赤魔アザト",
+          "publishedAt": "2026-10-11T17:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/S4Fg-2ADMDM/hqdefault.jpg",
+          "sourcePath": "sources/S4/S4Fg-2ADMDM.json",
+          "time": "0:11:29",
+          "seconds": 689,
+          "songTitle": "DISCOTHEQUE",
+          "artist": "水樹奈々"
+        },
+        {
+          "videoId": "Ih5y757BzNw",
+          "videoTitle": "【 #新人VTuber 】見つけてくれてありがとう！【 #歌枠 / #karaoke 】",
+          "channelName": "杣菜つくも / Somana ch.",
+          "publishedAt": "2026-10-05T15:28:25.696Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Ih5y757BzNw/hqdefault.jpg",
+          "sourcePath": "sources/Ih/Ih5y757BzNw.json",
+          "time": "0:05:11",
+          "seconds": 311,
+          "songTitle": "DISCOTHEQUE",
+          "artist": "水樹奈々"
+        },
+        {
+          "videoId": "zyEoYMIYeCw",
+          "videoTitle": "【歌枠／singing】秋のアニソン祭り🍇【燈華いのり🍀】",
+          "channelName": "燈華いのり Inori Ch.",
+          "publishedAt": "2026-10-04T14:28:33.015Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zyEoYMIYeCw/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCN_ZbvQglMmH211x4kYuot06e9nA",
+          "sourcePath": "sources/zy/zyEoYMIYeCw.json",
+          "time": "0:07:49",
+          "seconds": 469,
+          "songTitle": "DISCOTHEQUE",
+          "artist": "水樹奈々"
+        }
+      ],
+      "detailPath": "entities/songs/08d0c7fa3f39d216.json"
+    },
+    {
+      "rank": 272,
       "id": "8df9ae4975ebf0d2",
       "name": "かわいいだけじゃだめですか？",
       "secondary": "CUTIE STREET",
@@ -1222,7 +1280,7 @@
       "detailPath": "entities/songs/8df9ae4975ebf0d2.json"
     },
     {
-      "rank": 272,
+      "rank": 273,
       "id": "956a1bd4577352f5",
       "name": "ゆずれない願い",
       "secondary": "田村直美",
@@ -1279,7 +1337,7 @@
       "detailPath": "entities/songs/956a1bd4577352f5.json"
     },
     {
-      "rank": 273,
+      "rank": 274,
       "id": "dc501ddf871fc328",
       "name": "茜さす",
       "secondary": "Aimer",
@@ -1337,7 +1395,7 @@
       "detailPath": "entities/songs/dc501ddf871fc328.json"
     },
     {
-      "rank": 274,
+      "rank": 275,
       "id": "856d2749190f0aec",
       "name": "一度だけの恋なら",
       "secondary": "ワルキューレ",
@@ -1394,7 +1452,7 @@
       "detailPath": "entities/songs/856d2749190f0aec.json"
     },
     {
-      "rank": 275,
+      "rank": 276,
       "id": "94a800a4db9cee1b",
       "name": "少年時代",
       "secondary": "井上陽水",
@@ -1452,7 +1510,7 @@
       "detailPath": "entities/songs/94a800a4db9cee1b.json"
     },
     {
-      "rank": 276,
+      "rank": 277,
       "id": "2d1ca8b9ac4cca4e",
       "name": "曇天",
       "secondary": "DOES",
@@ -1509,7 +1567,7 @@
       "detailPath": "entities/songs/2d1ca8b9ac4cca4e.json"
     },
     {
-      "rank": 277,
+      "rank": 278,
       "id": "94bb98209144eba0",
       "name": "10月無口な君を忘れる",
       "secondary": "あたらよ",
@@ -1567,7 +1625,7 @@
       "detailPath": "entities/songs/94bb98209144eba0.json"
     },
     {
-      "rank": 278,
+      "rank": 279,
       "id": "d4cd55d5940162cc",
       "name": "All Alone With You",
       "secondary": "EGOIST",
@@ -1624,7 +1682,7 @@
       "detailPath": "entities/songs/d4cd55d5940162cc.json"
     },
     {
-      "rank": 279,
+      "rank": 280,
       "id": "4aef2c43feb46b99",
       "name": "DAN DAN 心魅かれてく",
       "secondary": "FIELD OF VIEW",
@@ -1679,64 +1737,6 @@
         }
       ],
       "detailPath": "entities/songs/4aef2c43feb46b99.json"
-    },
-    {
-      "rank": 280,
-      "id": "08d0c7fa3f39d216",
-      "name": "DISCOTHEQUE",
-      "secondary": "水樹奈々",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 32,
-      "videoCount": 32,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "S4Fg-2ADMDM",
-          "videoTitle": "【 #歌枠 】高評価200目標！オールジャンル歌枠✨ アンバサダー投票お願いしながら 初見さんにぜひ見つけて欲しい～！！ #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
-          "channelName": "Azato Ch. 赤魔アザト",
-          "publishedAt": "2026-10-11T17:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/S4Fg-2ADMDM/hqdefault.jpg",
-          "sourcePath": "sources/S4/S4Fg-2ADMDM.json",
-          "time": "0:11:29",
-          "seconds": 689,
-          "songTitle": "DISCOTHEQUE",
-          "artist": "水樹奈々"
-        },
-        {
-          "videoId": "Ih5y757BzNw",
-          "videoTitle": "【 #新人VTuber 】見つけてくれてありがとう！【 #歌枠 / #karaoke 】",
-          "channelName": "杣菜つくも / Somana ch.",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Ih5y757BzNw/hqdefault.jpg",
-          "sourcePath": "sources/Ih/Ih5y757BzNw.json",
-          "time": "0:05:11",
-          "seconds": 311,
-          "songTitle": "DISCOTHEQUE",
-          "artist": "水樹奈々"
-        },
-        {
-          "videoId": "GX8khidu7Lw",
-          "videoTitle": "歌枠｜すっかり秋🐰⸒⸒ - 久々湊るい",
-          "channelName": "久々湊るい - Kugumi Rui -",
-          "publishedAt": "2026-10-04T08:05:31.539Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/GX8khidu7Lw/hqdefault.jpg",
-          "sourcePath": "sources/GX/GX8khidu7Lw.json",
-          "time": "2:06:56",
-          "seconds": 7616,
-          "songTitle": "DISCOTHEQUE",
-          "artist": "水樹奈々"
-        }
-      ],
-      "detailPath": "entities/songs/08d0c7fa3f39d216.json"
     },
     {
       "rank": 281,

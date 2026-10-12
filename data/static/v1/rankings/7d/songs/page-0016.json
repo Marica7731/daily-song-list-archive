@@ -1,106 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "7d",
   "type": "songs",
   "page": 16,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3580,
+  "totalCount": 3578,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 751,
-      "id": "4dbc8038c85b28c6",
-      "name": "木 15:00",
-      "secondary": "",
-      "channelId": "UCo-6f6ogBC5VJ0ymcW8z82A",
-      "channelHandle": "@%E3%81%95%E3%81%B0%E3%81%97%E3%82%8Djazz",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "qQnnmc6kkTY",
-          "videoTitle": "猫のゆるジャズ喫茶【Vtuber 歌枠】 / 初見様リクエスト１曲どうぞ♪ 広告無 BGMに最適♪プロ歌手が Jazz, Bossa, Pop, Soul など歌うよ",
-          "channelName": "さばしろ JazzVocal",
-          "publishedAt": "2026-10-12T09:11:37.770Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qQnnmc6kkTY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMPs1KbqiNu-F_gakasMtVahZAHA",
-          "sourcePath": "sources/qQ/qQnnmc6kkTY.json",
-          "time": "0:24:00",
-          "seconds": 1440,
-          "songTitle": "木 15:00",
-          "artist": ""
-        },
-        {
-          "videoId": "RPTYbocssHE",
-          "videoTitle": "猫のゆるジャズ喫茶【Vtuber 歌枠】 / 初見様リクエスト１曲どうぞ♪ 広告無 BGMに最適♪プロ歌手が Jazz, Bossa, Pop, Soul など歌うよ",
-          "channelName": "さばしろ JazzVocal",
-          "publishedAt": "2026-10-07T11:42:33.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RPTYbocssHE/hqdefault.jpg",
-          "sourcePath": "sources/RP/RPTYbocssHE.json",
-          "time": "0:24:00",
-          "seconds": 1440,
-          "songTitle": "木 15:00",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/4dbc8038c85b28c6.json"
-    },
-    {
-      "rank": 752,
-      "id": "5e41ec5e35752e80",
-      "name": "木綿のハンカチーフ",
-      "secondary": "太田裕美",
-      "channelId": "UC0HX1e5jJnhN5Xn0epV2wzA",
-      "channelHandle": "@MEDAzcd",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "l5uAjR8_Qn0",
-          "videoTitle": "【睡眠導入歌枠 / KARAOKE】眠る前に、やさしい歌を。🌙 バラード中心のおやすみ歌枠｜初見さん歓迎 #えるストリーム【VSinger えるるん】",
-          "channelName": "えるるん / Erurun Channel",
-          "publishedAt": "2026-10-09T16:11:32.864Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/l5uAjR8_Qn0/hqdefault.jpg",
-          "sourcePath": "sources/l5/l5uAjR8_Qn0.json",
-          "time": "0:54:29",
-          "seconds": 3269,
-          "songTitle": "木綿のハンカチーフ",
-          "artist": "太田裕美"
-        },
-        {
-          "videoId": "3pt7lNP9D50",
-          "videoTitle": "【#歌枠】睡眠にはこの歌枠が効くらしい┆作業BGM #karaoke 【MEDA / RK Music】",
-          "channelName": "MEDA",
-          "publishedAt": "2026-10-06T15:46:12.854Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/3pt7lNP9D50/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTnRz1Tpq-_62pMXmz1Kf39KUSrg",
-          "sourcePath": "sources/3p/3pt7lNP9D50.json",
-          "time": "2:13:25",
-          "seconds": 8005,
-          "songTitle": "木綿のハンカチーフ",
-          "artist": "太田裕美"
-        }
-      ],
-      "detailPath": "entities/songs/5e41ec5e35752e80.json"
-    },
-    {
-      "rank": 753,
       "id": "d27488627307ec13",
       "name": "夜の部✧",
       "secondary": "",
@@ -145,7 +55,7 @@
       "detailPath": "entities/songs/d27488627307ec13.json"
     },
     {
-      "rank": 754,
+      "rank": 752,
       "id": "482dbf74a26cf751",
       "name": "夜もすがら君想ふ",
       "secondary": "西沢さんP",
@@ -190,7 +100,7 @@
       "detailPath": "entities/songs/482dbf74a26cf751.json"
     },
     {
-      "rank": 755,
+      "rank": 753,
       "id": "c8a219a145bcbd02",
       "name": "夜もすがら君想ふ",
       "secondary": "TOKOTOKO(西沢さんP) feat. GUMI",
@@ -236,7 +146,7 @@
       "detailPath": "entities/songs/c8a219a145bcbd02.json"
     },
     {
-      "rank": 756,
+      "rank": 754,
       "id": "4b8ad646c3107652",
       "name": "夜桜お七",
       "secondary": "坂本冬美",
@@ -281,7 +191,7 @@
       "detailPath": "entities/songs/4b8ad646c3107652.json"
     },
     {
-      "rank": 757,
+      "rank": 755,
       "id": "334538c9b4594b4c",
       "name": "夜明けと蛍",
       "secondary": "N-buna",
@@ -326,7 +236,7 @@
       "detailPath": "entities/songs/334538c9b4594b4c.json"
     },
     {
-      "rank": 758,
+      "rank": 756,
       "id": "2b51aada23908cb7",
       "name": "夜明けと蛍",
       "secondary": "n-buna feat. 初音ミク",
@@ -372,7 +282,7 @@
       "detailPath": "entities/songs/2b51aada23908cb7.json"
     },
     {
-      "rank": 759,
+      "rank": 757,
       "id": "785af138e6e03f15",
       "name": "約束はいらない",
       "secondary": "坂本真綾",
@@ -417,7 +327,7 @@
       "detailPath": "entities/songs/785af138e6e03f15.json"
     },
     {
-      "rank": 760,
+      "rank": 758,
       "id": "7736f3550c062911",
       "name": "優しさの理由",
       "secondary": "ChouCho",
@@ -462,7 +372,7 @@
       "detailPath": "entities/songs/7736f3550c062911.json"
     },
     {
-      "rank": 761,
+      "rank": 759,
       "id": "8aee3bab9f585132",
       "name": "勇侠青春謳",
       "secondary": "ALI PROJECT",
@@ -507,7 +417,7 @@
       "detailPath": "entities/songs/8aee3bab9f585132.json"
     },
     {
-      "rank": 762,
+      "rank": 760,
       "id": "a05f1ede2cb2104d",
       "name": "幽霊東京",
       "secondary": "Ayase",
@@ -552,7 +462,7 @@
       "detailPath": "entities/songs/a05f1ede2cb2104d.json"
     },
     {
-      "rank": 763,
+      "rank": 761,
       "id": "495cb084678ae688",
       "name": "憂、燦々",
       "secondary": "クリープハイプ",
@@ -597,7 +507,7 @@
       "detailPath": "entities/songs/495cb084678ae688.json"
     },
     {
-      "rank": 764,
+      "rank": 762,
       "id": "14f43319bd46e69b",
       "name": "憂一乗",
       "secondary": "ヨルシカ",
@@ -642,7 +552,7 @@
       "detailPath": "entities/songs/14f43319bd46e69b.json"
     },
     {
-      "rank": 765,
+      "rank": 763,
       "id": "0c52fea2143f9471",
       "name": "踊",
       "secondary": "Ado",
@@ -687,7 +597,7 @@
       "detailPath": "entities/songs/0c52fea2143f9471.json"
     },
     {
-      "rank": 766,
+      "rank": 764,
       "id": "95b87a662a16404f",
       "name": "浴槽とネオンテトラ",
       "secondary": "REISAI",
@@ -732,7 +642,7 @@
       "detailPath": "entities/songs/95b87a662a16404f.json"
     },
     {
-      "rank": 767,
+      "rank": 765,
       "id": "ce133d785d991cc2",
       "name": "裸の心",
       "secondary": "あいみょん",
@@ -778,7 +688,7 @@
       "detailPath": "entities/songs/ce133d785d991cc2.json"
     },
     {
-      "rank": 768,
+      "rank": 766,
       "id": "cf75c235972e7e88",
       "name": "嵐の中で輝いて",
       "secondary": "",
@@ -823,7 +733,7 @@
       "detailPath": "entities/songs/cf75c235972e7e88.json"
     },
     {
-      "rank": 769,
+      "rank": 767,
       "id": "9a5708a283c03486",
       "name": "藍二乗",
       "secondary": "ヨルシカ",
@@ -869,7 +779,7 @@
       "detailPath": "entities/songs/9a5708a283c03486.json"
     },
     {
-      "rank": 770,
+      "rank": 768,
       "id": "825cdf0bdcd1a562",
       "name": "瑠璃色の地球",
       "secondary": "松田聖子",
@@ -914,7 +824,7 @@
       "detailPath": "entities/songs/825cdf0bdcd1a562.json"
     },
     {
-      "rank": 771,
+      "rank": 769,
       "id": "3d3f4af665300ed8",
       "name": "恋心",
       "secondary": "相川七瀬",
@@ -959,7 +869,7 @@
       "detailPath": "entities/songs/3d3f4af665300ed8.json"
     },
     {
-      "rank": 772,
+      "rank": 770,
       "id": "177601cff0a09097",
       "name": "炉心融解",
       "secondary": "iroha",
@@ -1004,7 +914,7 @@
       "detailPath": "entities/songs/177601cff0a09097.json"
     },
     {
-      "rank": 773,
+      "rank": 771,
       "id": "0addfcdd8a30ddb7",
       "name": "櫂",
       "secondary": "ヨルシカ",
@@ -1050,7 +960,7 @@
       "detailPath": "entities/songs/0addfcdd8a30ddb7.json"
     },
     {
-      "rank": 774,
+      "rank": 772,
       "id": "5b0c3400c18ae605",
       "name": "SKILL",
       "secondary": "JAM Project",
@@ -1083,7 +993,7 @@
       "detailPath": "entities/songs/5b0c3400c18ae605.json"
     },
     {
-      "rank": 775,
+      "rank": 773,
       "id": "1bfa3bc1f46219be",
       "name": "キミトセカイ",
       "secondary": "Paolino feat. 初音ミク",
@@ -1116,7 +1026,7 @@
       "detailPath": "entities/songs/1bfa3bc1f46219be.json"
     },
     {
-      "rank": 776,
+      "rank": 774,
       "id": "4ba0c69c086a053f",
       "name": "島人ぬ宝",
       "secondary": "BEGIN",
@@ -1149,7 +1059,7 @@
       "detailPath": "entities/songs/4ba0c69c086a053f.json"
     },
     {
-      "rank": 777,
+      "rank": 775,
       "id": "9ce6b038fad04321",
       "name": "恋はスリル、ショック、サスペンス",
       "secondary": "愛内里菜",
@@ -1182,7 +1092,7 @@
       "detailPath": "entities/songs/9ce6b038fad04321.json"
     },
     {
-      "rank": 778,
+      "rank": 776,
       "id": "9467cc3279b23a88",
       "name": "〜 9",
       "secondary": "土",
@@ -1215,7 +1125,7 @@
       "detailPath": "entities/songs/9467cc3279b23a88.json"
     },
     {
-      "rank": 779,
+      "rank": 777,
       "id": "8cd7458cd0b1314d",
       "name": "〜あまねもも",
       "secondary": "",
@@ -1248,7 +1158,7 @@
       "detailPath": "entities/songs/8cd7458cd0b1314d.json"
     },
     {
-      "rank": 780,
+      "rank": 778,
       "id": "5cb6c534be64b160",
       "name": "〜いもいぽて",
       "secondary": "",
@@ -1281,7 +1191,7 @@
       "detailPath": "entities/songs/5cb6c534be64b160.json"
     },
     {
-      "rank": 781,
+      "rank": 779,
       "id": "72cbbfc25f7b097d",
       "name": "〜碓氷ゆら",
       "secondary": "",
@@ -1314,7 +1224,7 @@
       "detailPath": "entities/songs/72cbbfc25f7b097d.json"
     },
     {
-      "rank": 782,
+      "rank": 780,
       "id": "7b71058fac26f85d",
       "name": "〜花代乃メノラ",
       "secondary": "",
@@ -1347,7 +1257,7 @@
       "detailPath": "entities/songs/7b71058fac26f85d.json"
     },
     {
-      "rank": 783,
+      "rank": 781,
       "id": "ca708751bc13815d",
       "name": "〜開会式",
       "secondary": "花代乃メノラ枠",
@@ -1380,7 +1290,7 @@
       "detailPath": "entities/songs/ca708751bc13815d.json"
     },
     {
-      "rank": 784,
+      "rank": 782,
       "id": "93bfcd6815bd7e9c",
       "name": "〜月深ツキ",
       "secondary": "",
@@ -1413,7 +1323,7 @@
       "detailPath": "entities/songs/93bfcd6815bd7e9c.json"
     },
     {
-      "rank": 785,
+      "rank": 783,
       "id": "47af7a910b469464",
       "name": "〜若魔雲ふわり",
       "secondary": "",
@@ -1446,7 +1356,7 @@
       "detailPath": "entities/songs/47af7a910b469464.json"
     },
     {
-      "rank": 786,
+      "rank": 784,
       "id": "36a9cc27117fa2b4",
       "name": "〜早乙女あずき",
       "secondary": "",
@@ -1479,7 +1389,7 @@
       "detailPath": "entities/songs/36a9cc27117fa2b4.json"
     },
     {
-      "rank": 787,
+      "rank": 785,
       "id": "81850da9b5520b9b",
       "name": "〜蒼星すい",
       "secondary": "",
@@ -1512,7 +1422,7 @@
       "detailPath": "entities/songs/81850da9b5520b9b.json"
     },
     {
-      "rank": 788,
+      "rank": 786,
       "id": "3b2ad0aaeda05ecc",
       "name": "〜大泉学園 in “F”",
       "secondary": "with 坂本千恵 P",
@@ -1545,7 +1455,7 @@
       "detailPath": "entities/songs/3b2ad0aaeda05ecc.json"
     },
     {
-      "rank": 789,
+      "rank": 787,
       "id": "d72a600437ac0720",
       "name": "〜大泉学園 in “F”",
       "secondary": "with 谷川賢作 P、峰岸慶典 Gt",
@@ -1578,7 +1488,7 @@
       "detailPath": "entities/songs/d72a600437ac0720.json"
     },
     {
-      "rank": 790,
+      "rank": 788,
       "id": "10078d03263adc8f",
       "name": "〜天晴ほかる",
       "secondary": "",
@@ -1611,7 +1521,7 @@
       "detailPath": "entities/songs/10078d03263adc8f.json"
     },
     {
-      "rank": 791,
+      "rank": 789,
       "id": "50bc146defa926c2",
       "name": "〜閉会式",
       "secondary": "花代乃メノラ枠",
@@ -1644,7 +1554,7 @@
       "detailPath": "entities/songs/50bc146defa926c2.json"
     },
     {
-      "rank": 792,
+      "rank": 790,
       "id": "b90e324f0be7fb47",
       "name": "〜恋煩らい",
       "secondary": "",
@@ -1677,7 +1587,7 @@
       "detailPath": "entities/songs/b90e324f0be7fb47.json"
     },
     {
-      "rank": 793,
+      "rank": 791,
       "id": "3e3b7c8a826128a3",
       "name": "？🍵 パート・オブ・ユア・ワールド",
       "secondary": "リトルマーメイド",
@@ -1710,7 +1620,7 @@
       "detailPath": "entities/songs/3e3b7c8a826128a3.json"
     },
     {
-      "rank": 794,
+      "rank": 792,
       "id": "d290a339c59591a4",
       "name": "(New)ワルキューレがとまらない/ワルキューレ 2017/01",
       "secondary": "25 マクロスΔ イメージソング",
@@ -1743,7 +1653,7 @@
       "detailPath": "entities/songs/d290a339c59591a4.json"
     },
     {
-      "rank": 795,
+      "rank": 793,
       "id": "d06ba52fb091332b",
       "name": "（total:1110）",
       "secondary": "",
@@ -1776,7 +1686,7 @@
       "detailPath": "entities/songs/d06ba52fb091332b.json"
     },
     {
-      "rank": 796,
+      "rank": 794,
       "id": "deed7491c69f0142",
       "name": "(初)阿修羅ちゃん",
       "secondary": "Ado",
@@ -1809,7 +1719,7 @@
       "detailPath": "entities/songs/deed7491c69f0142.json"
     },
     {
-      "rank": 797,
+      "rank": 795,
       "id": "a294f122908eecfb",
       "name": "(初)逆光",
       "secondary": "Ado",
@@ -1842,7 +1752,7 @@
       "detailPath": "entities/songs/a294f122908eecfb.json"
     },
     {
-      "rank": 798,
+      "rank": 796,
       "id": "f93fdde5c78c1a26",
       "name": "(途中まで):あの鐘を鳴らすのはあなた",
       "secondary": "和田アキ子・1972/03/25",
@@ -1875,7 +1785,7 @@
       "detailPath": "entities/songs/f93fdde5c78c1a26.json"
     },
     {
-      "rank": 799,
+      "rank": 797,
       "id": "c383a73623cfe0b9",
       "name": "《商品詳細・購入ページ》",
       "secondary": "",
@@ -1908,7 +1818,7 @@
       "detailPath": "entities/songs/c383a73623cfe0b9.json"
     },
     {
-      "rank": 800,
+      "rank": 798,
       "id": "c717a7938a8d0e8b",
       "name": "「にゅー！支配者のキャロル」 里石ユカ",
       "secondary": "藤原ハガネ",
@@ -1939,6 +1849,72 @@
         }
       ],
       "detailPath": "entities/songs/c717a7938a8d0e8b.json"
+    },
+    {
+      "rank": 799,
+      "id": "b18777c98e24764d",
+      "name": "「東京テディベア」 鏡音リン",
+      "secondary": "Neru",
+      "channelId": "UCLl_c9-FZxRNfhOfZQRnXKg",
+      "channelHandle": "@sc_ayuki",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "81opRmDUH90",
+          "videoTitle": "【初見歓迎 #歌枠】初見さん来ないと歌えない‼ボカロ・サンホラ多め歌枠 【#星飴あゆき #Vtuber #karaoke #shorts 】",
+          "channelName": "星飴あゆき-Ayuki Hoshiame-",
+          "publishedAt": "2026-10-10T04:11:57.409Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/81opRmDUH90/hqdefault.jpg",
+          "sourcePath": "sources/81/81opRmDUH90.json",
+          "time": "1:25:24",
+          "seconds": 5124,
+          "songTitle": "「東京テディベア」 鏡音リン",
+          "artist": "Neru"
+        }
+      ],
+      "detailPath": "entities/songs/b18777c98e24764d.json"
+    },
+    {
+      "rank": 800,
+      "id": "68226c324d5c7a78",
+      "name": "『On My Own』アカペラ",
+      "secondary": "",
+      "channelId": "UCYbAJUOrun47kg3D-zypDjA",
+      "channelHandle": "@2mgmgi",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "CpKBJchdRx0",
+          "videoTitle": "【#歌枠 / KARAOKE 】疲れた体を癒します！夜のおやすみ歌枠🐹🍙月火は定期歌枠🎵｜Singing Stream【2mgi】 #作業用bgm #vtuber",
+          "channelName": "2mgi",
+          "publishedAt": "2026-10-06T18:50:37.083Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CpKBJchdRx0/hqdefault.jpg",
+          "sourcePath": "sources/Cp/CpKBJchdRx0.json",
+          "time": "1:47:48",
+          "seconds": 6468,
+          "songTitle": "『On My Own』アカペラ",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/68226c324d5c7a78.json"
     }
   ]
 }

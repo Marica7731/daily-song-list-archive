@@ -1,16 +1,63 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "all",
   "type": "artists",
   "page": 105,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20013,
+  "totalCount": 20017,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5201,
+      "id": "b53506bedd509f01",
+      "name": "OSTER project feat.GUMI",
+      "secondary": "",
+      "channelId": "UCWP-S7eCMG7GZY3op32zy9A",
+      "channelHandle": "@tokinealice09",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "7MaMENMZEf4",
+          "videoTitle": "【 歌枠┊︎Karaoke 】君に癒しと元気をとどける歌声を…初見さん＆作業用BGM大歓迎【 個人Vtuber┊︎#時音ありす 】 #shorts",
+          "channelName": "時音ありす Tokine Alice Music ch.",
+          "publishedAt": "2026-09-09T14:38:37.037Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7MaMENMZEf4/hqdefault.jpg",
+          "sourcePath": "sources/7M/7MaMENMZEf4.json",
+          "time": "1:57:25",
+          "seconds": 7045,
+          "songTitle": "EAT ME",
+          "artist": "OSTER project feat.GUMI"
+        },
+        {
+          "videoId": "qCWRh1CySxY",
+          "videoTitle": "【 歌枠┊︎Karaoke 】初見さん５人と会いたい！！定期歌枠はあなたと楽しい時間をお届け✨ROM専◎【 #時音ありす 】#shorts",
+          "channelName": "時音ありす Tokine Alice Music ch.",
+          "publishedAt": "2026-08-12T14:37:38.831Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qCWRh1CySxY/hqdefault.jpg",
+          "sourcePath": "sources/qC/qCWRh1CySxY.json",
+          "time": "0:32:30",
+          "seconds": 1950,
+          "songTitle": "EAT ME",
+          "artist": "OSTER project feat.GUMI"
+        }
+      ],
+      "detailPath": "entities/artists/b53506bedd509f01.json"
+    },
+    {
+      "rank": 5202,
       "id": "26e44467b06d4163",
       "name": "OSTER project feat.初音ミク",
       "secondary": "",
@@ -56,7 +103,7 @@
       "detailPath": "entities/artists/26e44467b06d4163.json"
     },
     {
-      "rank": 5202,
+      "rank": 5203,
       "id": "6cbbd696e3203399",
       "name": "out of the gravity",
       "secondary": "",
@@ -101,7 +148,7 @@
       "detailPath": "entities/artists/6cbbd696e3203399.json"
     },
     {
-      "rank": 5203,
+      "rank": 5204,
       "id": "d06e593b357a8a36",
       "name": "Owl City & Carly Rae Jepsen",
       "secondary": "",
@@ -149,7 +196,7 @@
       "detailPath": "entities/artists/d06e593b357a8a36.json"
     },
     {
-      "rank": 5204,
+      "rank": 5205,
       "id": "9dd83fa19c9223d5",
       "name": "OZWORLD",
       "secondary": "",
@@ -195,7 +242,7 @@
       "detailPath": "entities/artists/9dd83fa19c9223d5.json"
     },
     {
-      "rank": 5205,
+      "rank": 5206,
       "id": "43caf2326d25157c",
       "name": "P!NK",
       "secondary": "",
@@ -240,7 +287,7 @@
       "detailPath": "entities/artists/43caf2326d25157c.json"
     },
     {
-      "rank": 5206,
+      "rank": 5207,
       "id": "cb5164021989af6c",
       "name": "Palette Project",
       "secondary": "",
@@ -286,7 +333,7 @@
       "detailPath": "entities/artists/cb5164021989af6c.json"
     },
     {
-      "rank": 5207,
+      "rank": 5208,
       "id": "84eb24270a4a9691",
       "name": "Papiyon-p",
       "secondary": "",
@@ -331,7 +378,7 @@
       "detailPath": "entities/artists/84eb24270a4a9691.json"
     },
     {
-      "rank": 5208,
+      "rank": 5209,
       "id": "334ba57afa0fb8bf",
       "name": "PARADISE GO!! GO!!",
       "secondary": "",
@@ -376,7 +423,7 @@
       "detailPath": "entities/artists/334ba57afa0fb8bf.json"
     },
     {
-      "rank": 5209,
+      "rank": 5210,
       "id": "ed6f91ca9e33275f",
       "name": "Paramore",
       "secondary": "",
@@ -421,7 +468,7 @@
       "detailPath": "entities/artists/ed6f91ca9e33275f.json"
     },
     {
-      "rank": 5210,
+      "rank": 5211,
       "id": "29f98395f733133a",
       "name": "Peace Sign 米津玄師 / Kenshi Yonezu",
       "secondary": "",
@@ -466,7 +513,7 @@
       "detailPath": "entities/artists/29f98395f733133a.json"
     },
     {
-      "rank": 5211,
+      "rank": 5212,
       "id": "0bb359d984a724ed",
       "name": "PEDRO",
       "secondary": "",
@@ -512,7 +559,7 @@
       "detailPath": "entities/artists/0bb359d984a724ed.json"
     },
     {
-      "rank": 5212,
+      "rank": 5213,
       "id": "a618364b76588b07",
       "name": "Petit Rabit's",
       "secondary": "",
@@ -557,7 +604,7 @@
       "detailPath": "entities/artists/a618364b76588b07.json"
     },
     {
-      "rank": 5213,
+      "rank": 5214,
       "id": "4daa06175beb9c3c",
       "name": "Pharrell Williams",
       "secondary": "",
@@ -602,7 +649,7 @@
       "detailPath": "entities/artists/4daa06175beb9c3c.json"
     },
     {
-      "rank": 5214,
+      "rank": 5215,
       "id": "6d1db867521bdb85",
       "name": "Phil Collins",
       "secondary": "",
@@ -647,7 +694,7 @@
       "detailPath": "entities/artists/6d1db867521bdb85.json"
     },
     {
-      "rank": 5215,
+      "rank": 5216,
       "id": "3cc3f4423013955e",
       "name": "picco,ESHIKARA feat. 初音ミク",
       "secondary": "",
@@ -695,7 +742,7 @@
       "detailPath": "entities/artists/3cc3f4423013955e.json"
     },
     {
-      "rank": 5216,
+      "rank": 5217,
       "id": "ea602d7bb039ad21",
       "name": "picdo",
       "secondary": "",
@@ -740,7 +787,7 @@
       "detailPath": "entities/artists/ea602d7bb039ad21.json"
     },
     {
-      "rank": 5217,
+      "rank": 5218,
       "id": "6b37f2e341545d7e",
       "name": "PIKOTARO",
       "secondary": "",
@@ -786,7 +833,7 @@
       "detailPath": "entities/artists/6b37f2e341545d7e.json"
     },
     {
-      "rank": 5218,
+      "rank": 5219,
       "id": "cdc88061dd506a1d",
       "name": "PinocchioP feat.Hatsune Miku",
       "secondary": "",
@@ -833,7 +880,7 @@
       "detailPath": "entities/artists/cdc88061dd506a1d.json"
     },
     {
-      "rank": 5219,
+      "rank": 5220,
       "id": "98fef455f5b15757",
       "name": "PIZZICATO FIVE",
       "secondary": "",
@@ -881,7 +928,7 @@
       "detailPath": "entities/artists/98fef455f5b15757.json"
     },
     {
-      "rank": 5220,
+      "rank": 5221,
       "id": "754d70ba9065c4ff",
       "name": "Printemps (2011)（ラブライブ！School idol project）",
       "secondary": "",
@@ -923,7 +970,7 @@
       "detailPath": "entities/artists/754d70ba9065c4ff.json"
     },
     {
-      "rank": 5221,
+      "rank": 5222,
       "id": "8aa4d415db5dfaa4",
       "name": "Printemps ～高坂穂乃果(新田恵海)、南ことり(内田彩)、小泉花陽(久保ユリカ) from μ's～ ※JOYSOUND",
       "secondary": "",
@@ -968,7 +1015,7 @@
       "detailPath": "entities/artists/8aa4d415db5dfaa4.json"
     },
     {
-      "rank": 5222,
+      "rank": 5223,
       "id": "71626fcd4cc6de8f",
       "name": "Priscilla Ahn",
       "secondary": "",
@@ -1013,7 +1060,7 @@
       "detailPath": "entities/artists/71626fcd4cc6de8f.json"
     },
     {
-      "rank": 5223,
+      "rank": 5224,
       "id": "a274418e5d80f6c0",
       "name": "Project.R ／ 快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー(2018年)",
       "secondary": "",
@@ -1058,7 +1105,7 @@
       "detailPath": "entities/artists/a274418e5d80f6c0.json"
     },
     {
-      "rank": 5224,
+      "rank": 5225,
       "id": "8d3e173a3b9d1668",
       "name": "PSY・S",
       "secondary": "",
@@ -1103,7 +1150,7 @@
       "detailPath": "entities/artists/8d3e173a3b9d1668.json"
     },
     {
-      "rank": 5225,
+      "rank": 5226,
       "id": "a2163f635fb5c9ab",
       "name": "PSYQUI・Such",
       "secondary": "",
@@ -1148,7 +1195,7 @@
       "detailPath": "entities/artists/a2163f635fb5c9ab.json"
     },
     {
-      "rank": 5226,
+      "rank": 5227,
       "id": "f152cfa512b9efb8",
       "name": "PUNPEE",
       "secondary": "",
@@ -1193,7 +1240,7 @@
       "detailPath": "entities/artists/f152cfa512b9efb8.json"
     },
     {
-      "rank": 5227,
+      "rank": 5228,
       "id": "812eadc97ab1ef25",
       "name": "R Sound Design feat. Hatsune Miku",
       "secondary": "",
@@ -1238,7 +1285,7 @@
       "detailPath": "entities/artists/812eadc97ab1ef25.json"
     },
     {
-      "rank": 5228,
+      "rank": 5229,
       "id": "bcc612e25be8ed14",
       "name": "r-906 feat. 初音ミク",
       "secondary": "",
@@ -1283,7 +1330,7 @@
       "detailPath": "entities/artists/bcc612e25be8ed14.json"
     },
     {
-      "rank": 5229,
+      "rank": 5230,
       "id": "eab14135f063d281",
       "name": "Ra*bits",
       "secondary": "",
@@ -1328,7 +1375,7 @@
       "detailPath": "entities/artists/eab14135f063d281.json"
     },
     {
-      "rank": 5230,
+      "rank": 5231,
       "id": "b8d9b9c220605627",
       "name": "RADIO FISH",
       "secondary": "",
@@ -1373,7 +1420,7 @@
       "detailPath": "entities/artists/b8d9b9c220605627.json"
     },
     {
-      "rank": 5231,
+      "rank": 5232,
       "id": "152c158751ea59b9",
       "name": "Radiohead",
       "secondary": "",
@@ -1421,7 +1468,7 @@
       "detailPath": "entities/artists/152c158751ea59b9.json"
     },
     {
-      "rank": 5232,
+      "rank": 5233,
       "id": "9ac6cdba78ca95e9",
       "name": "RADWIMPS/映画「君の名は」挿入歌/2016",
       "secondary": "",
@@ -1466,7 +1513,7 @@
       "detailPath": "entities/artists/9ac6cdba78ca95e9.json"
     },
     {
-      "rank": 5233,
+      "rank": 5234,
       "id": "33313fc5ff5d3d72",
       "name": "Rainy。",
       "secondary": "",
@@ -1514,7 +1561,7 @@
       "detailPath": "entities/artists/33313fc5ff5d3d72.json"
     },
     {
-      "rank": 5234,
+      "rank": 5235,
       "id": "b64c76a054f18f5c",
       "name": "Re:nG",
       "secondary": "",
@@ -1559,7 +1606,7 @@
       "detailPath": "entities/artists/b64c76a054f18f5c.json"
     },
     {
-      "rank": 5235,
+      "rank": 5236,
       "id": "19d7637fadafacab",
       "name": "Re:ゼロから始める異世界生活 Re:ZERO Starting Life in Another World",
       "secondary": "",
@@ -1604,7 +1651,7 @@
       "detailPath": "entities/artists/19d7637fadafacab.json"
     },
     {
-      "rank": 5236,
+      "rank": 5237,
       "id": "5922d5f63a7e9275",
       "name": "REGALILIA",
       "secondary": "",
@@ -1652,7 +1699,7 @@
       "detailPath": "entities/artists/5922d5f63a7e9275.json"
     },
     {
-      "rank": 5237,
+      "rank": 5238,
       "id": "e0c83e253796d7a1",
       "name": "ReoNa (2020) アニメ「ソードアート・オンライン アリシゼーション War of Underworld」OP",
       "secondary": "",
@@ -1699,7 +1746,7 @@
       "detailPath": "entities/artists/e0c83e253796d7a1.json"
     },
     {
-      "rank": 5238,
+      "rank": 5239,
       "id": "51c2b7d8af5d572c",
       "name": "rerulili",
       "secondary": "",
@@ -1744,7 +1791,7 @@
       "detailPath": "entities/artists/51c2b7d8af5d572c.json"
     },
     {
-      "rank": 5239,
+      "rank": 5240,
       "id": "51ecf854ab63e665",
       "name": "Rhythmic Toy World",
       "secondary": "",
@@ -1789,7 +1836,7 @@
       "detailPath": "entities/artists/51ecf854ab63e665.json"
     },
     {
-      "rank": 5240,
+      "rank": 5241,
       "id": "810c9c188274f84a",
       "name": "RIDER CHIPS Featuring Ricky",
       "secondary": "",
@@ -1834,7 +1881,7 @@
       "detailPath": "entities/artists/810c9c188274f84a.json"
     },
     {
-      "rank": 5241,
+      "rank": 5242,
       "id": "66d16987d6d2e752",
       "name": "Ringo Sheena",
       "secondary": "",
@@ -1882,7 +1929,7 @@
       "detailPath": "entities/artists/66d16987d6d2e752.json"
     },
     {
-      "rank": 5242,
+      "rank": 5243,
       "id": "ba883a2d12fcd4be",
       "name": "rinri feat, 音街ウナSV",
       "secondary": "",
@@ -1929,7 +1976,7 @@
       "detailPath": "entities/artists/ba883a2d12fcd4be.json"
     },
     {
-      "rank": 5243,
+      "rank": 5244,
       "id": "84333b934e312581",
       "name": "RIRIKO",
       "secondary": "",
@@ -1976,7 +2023,7 @@
       "detailPath": "entities/artists/84333b934e312581.json"
     },
     {
-      "rank": 5244,
+      "rank": 5245,
       "id": "f2c127cc1eac96f4",
       "name": "risou feat.初音ミク",
       "secondary": "",
@@ -2022,7 +2069,7 @@
       "detailPath": "entities/artists/f2c127cc1eac96f4.json"
     },
     {
-      "rank": 5245,
+      "rank": 5246,
       "id": "56f2dcc1308f78c2",
       "name": "Ritsuko Kawai",
       "secondary": "",
@@ -2067,7 +2114,7 @@
       "detailPath": "entities/artists/56f2dcc1308f78c2.json"
     },
     {
-      "rank": 5246,
+      "rank": 5247,
       "id": "f931aa8b179876dd",
       "name": "Ritsuko Okazaki",
       "secondary": "",
@@ -2112,7 +2159,7 @@
       "detailPath": "entities/artists/f931aa8b179876dd.json"
     },
     {
-      "rank": 5247,
+      "rank": 5248,
       "id": "2e67e41bd9f1b070",
       "name": "riya ／ CLANNAD(2005年)",
       "secondary": "",
@@ -2154,7 +2201,7 @@
       "detailPath": "entities/artists/2e67e41bd9f1b070.json"
     },
     {
-      "rank": 5248,
+      "rank": 5249,
       "id": "6552dcf7902c2f53",
       "name": "ROOT FIVE",
       "secondary": "",
@@ -2199,7 +2246,7 @@
       "detailPath": "entities/artists/6552dcf7902c2f53.json"
     },
     {
-      "rank": 5249,
+      "rank": 5250,
       "id": "611ce8a31e5d79e0",
       "name": "Rosa Walton & Hallie Coggins",
       "secondary": "",
@@ -2245,51 +2292,6 @@
         }
       ],
       "detailPath": "entities/artists/611ce8a31e5d79e0.json"
-    },
-    {
-      "rank": 5250,
-      "id": "47d2c667a1a9f066",
-      "name": "Rosé",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mawaS5UbE7M",
-          "videoTitle": "【#歌枠】昼からまったり歌枠！ #うたうよしん #karaoke #vsinger",
-          "channelName": "shin",
-          "publishedAt": "2026-10-06T09:07:06.252Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mawaS5UbE7M/hqdefault.jpg",
-          "sourcePath": "sources/ma/mawaS5UbE7M.json",
-          "time": "3:40:41",
-          "seconds": 13241,
-          "songTitle": "toxic till the end",
-          "artist": "ROSÉ"
-        },
-        {
-          "videoId": "PLPDSUYkRqw",
-          "videoTitle": "【歌雜】晚安世界🍥｜七星ナギ・馬來西亞VTuber #雜談 #歌枠",
-          "channelName": "NAGi",
-          "publishedAt": "2026-10-02T16:14:01.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PLPDSUYkRqw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCgh1p3NfvrrT8gfqlTFVJBHz7qBg",
-          "sourcePath": "sources/PL/PLPDSUYkRqw.json",
-          "time": "1:47:39",
-          "seconds": 6459,
-          "songTitle": "number one girl",
-          "artist": "Rosé"
-        }
-      ],
-      "detailPath": "entities/artists/47d2c667a1a9f066.json"
     }
   ]
 }

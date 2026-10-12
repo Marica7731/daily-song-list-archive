@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "items": [
     {
       "id": "540e0c073fd08e36",
@@ -1343,8 +1343,8 @@
       "type": "songs",
       "name": "I believe what you said",
       "secondary": "亜咲花",
-      "occurrenceCount": 7,
-      "videoCount": 7,
+      "occurrenceCount": 8,
+      "videoCount": 8,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -1355,8 +1355,8 @@
       "detailPath": "entities/songs/5dee05fa2c5075a6.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 4,
+          "videoCount": 4
         }
       },
       "text": "ibelievewhatyousaid亜咲花"
@@ -1740,8 +1740,8 @@
       "detailPath": "entities/songs/5fa6e97fed28ade1.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 7,
@@ -2217,8 +2217,8 @@
       "type": "songs",
       "name": "花",
       "secondary": "藤井風",
-      "occurrenceCount": 19,
-      "videoCount": 19,
+      "occurrenceCount": 20,
+      "videoCount": 20,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2232,8 +2232,8 @@
       "detailPath": "entities/songs/5436c4d2e75aafa1.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 10,
-          "videoCount": 10
+          "occurrenceCount": 11,
+          "videoCount": 11
         }
       },
       "text": "花藤井風"
@@ -17577,8 +17577,8 @@
       "type": "songs",
       "name": "IMAWANOKIWA",
       "secondary": "いよわ",
-      "occurrenceCount": 9,
-      "videoCount": 9,
+      "occurrenceCount": 10,
+      "videoCount": 10,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -17591,8 +17591,8 @@
       "detailPath": "entities/songs/5d751a67aaddd454.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 5,
+          "videoCount": 5
         }
       },
       "text": "imawanokiwaいよわ"
@@ -18336,8 +18336,8 @@
       "type": "songs",
       "name": "未来コネクション",
       "secondary": "ЯeaL",
-      "occurrenceCount": 5,
-      "videoCount": 5,
+      "occurrenceCount": 6,
+      "videoCount": 6,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -18349,8 +18349,8 @@
       "detailPath": "entities/songs/58b9f488ca56314a.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 5,
+          "videoCount": 5
         }
       },
       "text": "未来コネクションяeal"
@@ -24514,15 +24514,22 @@
       "type": "songs",
       "name": "Violet snow",
       "secondary": "結城アイラ",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
-        "mygit_today_snapshot"
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/5156f7bc7681fb26.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "violetsnow結城アイラ"
     },
     {
@@ -69224,6 +69231,56 @@
       "text": "ミスターダーリンchicowithhoneyworks"
     },
     {
+      "id": "5beecee13c2cf7a8",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "時の記憶",
+      "secondary": "SEIKA",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/5beecee13c2cf7a8.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "時の記憶seika"
+    },
+    {
+      "id": "526a368f864bbf27",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "Error404♡",
+      "secondary": "CUTIE STREET",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/526a368f864bbf27.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "error404cutiestreet"
+    },
+    {
       "id": "502617c3b35d1077",
       "channelId": "",
       "channelHandle": "",
@@ -73699,8 +73756,8 @@
       "type": "artists",
       "name": "キタニタツヤ",
       "secondary": "",
-      "occurrenceCount": 642,
-      "videoCount": 529,
+      "occurrenceCount": 643,
+      "videoCount": 530,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -73726,8 +73783,8 @@
           "videoCount": 12
         },
         "30d": {
-          "occurrenceCount": 235,
-          "videoCount": 187
+          "occurrenceCount": 236,
+          "videoCount": 188
         }
       },
       "text": "キタニタツヤ"
@@ -73965,8 +74022,8 @@
       "type": "artists",
       "name": "FRUITS ZIPPER",
       "secondary": "",
-      "occurrenceCount": 135,
-      "videoCount": 115,
+      "occurrenceCount": 136,
+      "videoCount": 116,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -73984,8 +74041,8 @@
           "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 56,
-          "videoCount": 42
+          "occurrenceCount": 57,
+          "videoCount": 43
         }
       },
       "text": "fruitszipper"
@@ -73998,8 +74055,8 @@
       "type": "artists",
       "name": "≠ME",
       "secondary": "",
-      "occurrenceCount": 119,
-      "videoCount": 100,
+      "occurrenceCount": 121,
+      "videoCount": 101,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -74016,8 +74073,8 @@
           "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 47,
-          "videoCount": 37
+          "occurrenceCount": 49,
+          "videoCount": 38
         }
       },
       "text": "me"
@@ -74664,8 +74721,8 @@
       "type": "artists",
       "name": "ももいろクローバーZ",
       "secondary": "",
-      "occurrenceCount": 68,
-      "videoCount": 57,
+      "occurrenceCount": 69,
+      "videoCount": 58,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -74682,8 +74739,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 33,
-          "videoCount": 29
+          "occurrenceCount": 34,
+          "videoCount": 30
         }
       },
       "text": "ももいろクローバーz"
@@ -80541,8 +80598,8 @@
       "type": "artists",
       "name": "ユナ（CV:神田沙也加）",
       "secondary": "",
-      "occurrenceCount": 11,
-      "videoCount": 9,
+      "occurrenceCount": 12,
+      "videoCount": 10,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -80559,8 +80616,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 8,
-          "videoCount": 6
+          "occurrenceCount": 9,
+          "videoCount": 7
         }
       },
       "text": "ユナcv神田沙也加"

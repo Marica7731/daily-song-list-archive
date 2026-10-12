@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "all",
   "type": "artists",
   "page": 106,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20013,
+  "totalCount": 20017,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5251,
+      "id": "47d2c667a1a9f066",
+      "name": "Rosé",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "mawaS5UbE7M",
+          "videoTitle": "【#歌枠】昼からまったり歌枠！ #うたうよしん #karaoke #vsinger",
+          "channelName": "shin",
+          "publishedAt": "2026-10-06T09:07:06.252Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mawaS5UbE7M/hqdefault.jpg",
+          "sourcePath": "sources/ma/mawaS5UbE7M.json",
+          "time": "3:40:41",
+          "seconds": 13241,
+          "songTitle": "toxic till the end",
+          "artist": "ROSÉ"
+        },
+        {
+          "videoId": "PLPDSUYkRqw",
+          "videoTitle": "【歌雜】晚安世界🍥｜七星ナギ・馬來西亞VTuber #雜談 #歌枠",
+          "channelName": "NAGi",
+          "publishedAt": "2026-10-02T16:14:01.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PLPDSUYkRqw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCgh1p3NfvrrT8gfqlTFVJBHz7qBg",
+          "sourcePath": "sources/PL/PLPDSUYkRqw.json",
+          "time": "1:47:39",
+          "seconds": 6459,
+          "songTitle": "number one girl",
+          "artist": "Rosé"
+        }
+      ],
+      "detailPath": "entities/artists/47d2c667a1a9f066.json"
+    },
+    {
+      "rank": 5252,
       "id": "1776ba322793aeaf",
       "name": "ROUND TABLE",
       "secondary": "",
@@ -58,7 +103,7 @@
       "detailPath": "entities/artists/1776ba322793aeaf.json"
     },
     {
-      "rank": 5252,
+      "rank": 5253,
       "id": "7401c36718567c87",
       "name": "Royz",
       "secondary": "",
@@ -103,7 +148,7 @@
       "detailPath": "entities/artists/7401c36718567c87.json"
     },
     {
-      "rank": 5253,
+      "rank": 5254,
       "id": "5019e2a5c520d93a",
       "name": "ryo (supercell) feat. Hatsune Miku",
       "secondary": "",
@@ -149,7 +194,7 @@
       "detailPath": "entities/artists/5019e2a5c520d93a.json"
     },
     {
-      "rank": 5254,
+      "rank": 5255,
       "id": "4d637b54d1c1a3f4",
       "name": "ryo (supercell) ft. 初音ミク",
       "secondary": "",
@@ -197,7 +242,7 @@
       "detailPath": "entities/artists/4d637b54d1c1a3f4.json"
     },
     {
-      "rank": 5255,
+      "rank": 5256,
       "id": "08e04e0dbd1bd433",
       "name": "ryo (supercell)，かぐや (cv.夏吉ゆうこ)，月見ヤチヨ (cv.早見沙織) ※JOYSOUND",
       "secondary": "",
@@ -242,7 +287,7 @@
       "detailPath": "entities/artists/08e04e0dbd1bd433.json"
     },
     {
-      "rank": 5256,
+      "rank": 5257,
       "id": "e6b2d1cc8879f695",
       "name": "ryo (supercell),かぐや(CV.夏吉ゆうこ)",
       "secondary": "",
@@ -287,7 +332,7 @@
       "detailPath": "entities/artists/e6b2d1cc8879f695.json"
     },
     {
-      "rank": 5257,
+      "rank": 5258,
       "id": "e1c25fcbd3ce6a34",
       "name": "ryo(supercell) feat.chelly",
       "secondary": "",
@@ -332,7 +377,7 @@
       "detailPath": "entities/artists/e1c25fcbd3ce6a34.json"
     },
     {
-      "rank": 5258,
+      "rank": 5259,
       "id": "0c209a7c0159a2ce",
       "name": "S.E.M",
       "secondary": "",
@@ -377,7 +422,7 @@
       "detailPath": "entities/artists/0c209a7c0159a2ce.json"
     },
     {
-      "rank": 5259,
+      "rank": 5260,
       "id": "932879b679476146",
       "name": "S☆猫",
       "secondary": "",
@@ -422,7 +467,7 @@
       "detailPath": "entities/artists/932879b679476146.json"
     },
     {
-      "rank": 5260,
+      "rank": 5261,
       "id": "83e2f2a76c76ca5d",
       "name": "Saddle Up (WINTER Solo)",
       "secondary": "",
@@ -467,7 +512,7 @@
       "detailPath": "entities/artists/83e2f2a76c76ca5d.json"
     },
     {
-      "rank": 5261,
+      "rank": 5262,
       "id": "c0949fcb935a9a7b",
       "name": "SADS",
       "secondary": "",
@@ -512,7 +557,7 @@
       "detailPath": "entities/artists/c0949fcb935a9a7b.json"
     },
     {
-      "rank": 5262,
+      "rank": 5263,
       "id": "34a8f2996b65e2eb",
       "name": "Sakase ya Sakase",
       "secondary": "",
@@ -558,7 +603,7 @@
       "detailPath": "entities/artists/34a8f2996b65e2eb.json"
     },
     {
-      "rank": 5263,
+      "rank": 5264,
       "id": "c92be0ccbb9589ef",
       "name": "Sako Tomohisa",
       "secondary": "",
@@ -605,7 +650,7 @@
       "detailPath": "entities/artists/c92be0ccbb9589ef.json"
     },
     {
-      "rank": 5264,
+      "rank": 5265,
       "id": "11fdeba0ca73b8d5",
       "name": "Salley",
       "secondary": "",
@@ -651,7 +696,7 @@
       "detailPath": "entities/artists/11fdeba0ca73b8d5.json"
     },
     {
-      "rank": 5265,
+      "rank": 5266,
       "id": "a63c3c0879e37f36",
       "name": "samfree feat. Lily",
       "secondary": "",
@@ -699,7 +744,7 @@
       "detailPath": "entities/artists/a63c3c0879e37f36.json"
     },
     {
-      "rank": 5266,
+      "rank": 5267,
       "id": "8399a6401944cb04",
       "name": "samfree feat. SF-A2 開発コード miki",
       "secondary": "",
@@ -747,7 +792,7 @@
       "detailPath": "entities/artists/8399a6401944cb04.json"
     },
     {
-      "rank": 5267,
+      "rank": 5268,
       "id": "5dcd82de17be5bb1",
       "name": "samfree feat.Megurine Luka",
       "secondary": "",
@@ -792,7 +837,7 @@
       "detailPath": "entities/artists/5dcd82de17be5bb1.json"
     },
     {
-      "rank": 5268,
+      "rank": 5269,
       "id": "fbcd6751663905a4",
       "name": "samfree ft. GUMI",
       "secondary": "",
@@ -840,7 +885,7 @@
       "detailPath": "entities/artists/fbcd6751663905a4.json"
     },
     {
-      "rank": 5269,
+      "rank": 5270,
       "id": "e30b6e1e81a29276",
       "name": "sana",
       "secondary": "",
@@ -885,7 +930,7 @@
       "detailPath": "entities/artists/e30b6e1e81a29276.json"
     },
     {
-      "rank": 5270,
+      "rank": 5271,
       "id": "7800fe6c60369adc",
       "name": "Sarah Brightman",
       "secondary": "",
@@ -932,7 +977,7 @@
       "detailPath": "entities/artists/7800fe6c60369adc.json"
     },
     {
-      "rank": 5271,
+      "rank": 5272,
       "id": "1ee7d1521ca4357a",
       "name": "sasakure. UK feat. GUMI",
       "secondary": "",
@@ -977,7 +1022,7 @@
       "detailPath": "entities/artists/1ee7d1521ca4357a.json"
     },
     {
-      "rank": 5272,
+      "rank": 5273,
       "id": "f54028da4450f9f2",
       "name": "sasakure.UK ※JOYSOUND",
       "secondary": "",
@@ -1022,7 +1067,7 @@
       "detailPath": "entities/artists/f54028da4450f9f2.json"
     },
     {
-      "rank": 5273,
+      "rank": 5274,
       "id": "1cfdd9afc796c40f",
       "name": "sasakure.UK feat. そらこ",
       "secondary": "",
@@ -1070,7 +1115,7 @@
       "detailPath": "entities/artists/1cfdd9afc796c40f.json"
     },
     {
-      "rank": 5274,
+      "rank": 5275,
       "id": "3b5a64f14406f40d",
       "name": "sasakureUK (sasakureUK)",
       "secondary": "",
@@ -1115,7 +1160,7 @@
       "detailPath": "entities/artists/3b5a64f14406f40d.json"
     },
     {
-      "rank": 5275,
+      "rank": 5276,
       "id": "b28906168d68887f",
       "name": "Saucy Dogｻﾝ",
       "secondary": "",
@@ -1162,7 +1207,7 @@
       "detailPath": "entities/artists/b28906168d68887f.json"
     },
     {
-      "rank": 5276,
+      "rank": 5277,
       "id": "a4b24ccedbc8d27a",
       "name": "Saudade ポルノグラフィティ / Porno Graffitti",
       "secondary": "",
@@ -1207,7 +1252,7 @@
       "detailPath": "entities/artists/a4b24ccedbc8d27a.json"
     },
     {
-      "rank": 5277,
+      "rank": 5278,
       "id": "ad5a9472032e2ccb",
       "name": "SawanoHiroyuki[nZk]:LiSA",
       "secondary": "",
@@ -1251,7 +1296,7 @@
       "detailPath": "entities/artists/ad5a9472032e2ccb.json"
     },
     {
-      "rank": 5278,
+      "rank": 5279,
       "id": "841d3f8ef7c780da",
       "name": "SawanoHiroyuki[nZk]:mizuki ※JOYSOUND",
       "secondary": "",
@@ -1296,7 +1341,7 @@
       "detailPath": "entities/artists/841d3f8ef7c780da.json"
     },
     {
-      "rank": 5279,
+      "rank": 5280,
       "id": "f9560f60ff4c53fe",
       "name": "SawanoHiroyuki[nZk]:Tielle & Gemie",
       "secondary": "",
@@ -1341,7 +1386,7 @@
       "detailPath": "entities/artists/f9560f60ff4c53fe.json"
     },
     {
-      "rank": 5280,
+      "rank": 5281,
       "id": "8590fc6db93e0c26",
       "name": "Secret Garden",
       "secondary": "",
@@ -1386,7 +1431,7 @@
       "detailPath": "entities/artists/8590fc6db93e0c26.json"
     },
     {
-      "rank": 5281,
+      "rank": 5282,
       "id": "f83b630616246f3a",
       "name": "See-Saw 様",
       "secondary": "",
@@ -1431,7 +1476,7 @@
       "detailPath": "entities/artists/f83b630616246f3a.json"
     },
     {
-      "rank": 5282,
+      "rank": 5283,
       "id": "32fc2643db61f825",
       "name": "seiza,ねこぼーろ feat. 初音ミク",
       "secondary": "",
@@ -1476,7 +1521,7 @@
       "detailPath": "entities/artists/32fc2643db61f825.json"
     },
     {
-      "rank": 5283,
+      "rank": 5284,
       "id": "e3ad0ab0b4a78d88",
       "name": "SEKAI NO OWARI ※JOYSOUND",
       "secondary": "",
@@ -1521,7 +1566,7 @@
       "detailPath": "entities/artists/e3ad0ab0b4a78d88.json"
     },
     {
-      "rank": 5284,
+      "rank": 5285,
       "id": "ea005514a96a24e7",
       "name": "SEKAI NO OWARI様",
       "secondary": "",
@@ -1567,7 +1612,7 @@
       "detailPath": "entities/artists/ea005514a96a24e7.json"
     },
     {
-      "rank": 5285,
+      "rank": 5286,
       "id": "585a56bc8e5bdf0a",
       "name": "Sekito Kai",
       "secondary": "",
@@ -1609,7 +1654,7 @@
       "detailPath": "entities/artists/585a56bc8e5bdf0a.json"
     },
     {
-      "rank": 5286,
+      "rank": 5287,
       "id": "6c7407c9cdd76d05",
       "name": "SennaRin",
       "secondary": "",
@@ -1654,7 +1699,7 @@
       "detailPath": "entities/artists/6c7407c9cdd76d05.json"
     },
     {
-      "rank": 5287,
+      "rank": 5288,
       "id": "ba1c576fafd249fb",
       "name": "Seven oops **",
       "secondary": "",
@@ -1702,7 +1747,7 @@
       "detailPath": "entities/artists/ba1c576fafd249fb.json"
     },
     {
-      "rank": 5288,
+      "rank": 5289,
       "id": "23c85f9e260583fa",
       "name": "SEVENTEEN",
       "secondary": "",
@@ -1747,7 +1792,7 @@
       "detailPath": "entities/artists/23c85f9e260583fa.json"
     },
     {
-      "rank": 5289,
+      "rank": 5290,
       "id": "718365a1a28a81a0",
       "name": "sh1an",
       "secondary": "",
@@ -1794,7 +1839,7 @@
       "detailPath": "entities/artists/718365a1a28a81a0.json"
     },
     {
-      "rank": 5290,
+      "rank": 5291,
       "id": "b89fea4fb8cf065d",
       "name": "shallm",
       "secondary": "",
@@ -1839,7 +1884,7 @@
       "detailPath": "entities/artists/b89fea4fb8cf065d.json"
     },
     {
-      "rank": 5291,
+      "rank": 5292,
       "id": "9bcded516bab4b47",
       "name": "SHAUN",
       "secondary": "",
@@ -1887,7 +1932,7 @@
       "detailPath": "entities/artists/9bcded516bab4b47.json"
     },
     {
-      "rank": 5292,
+      "rank": 5293,
       "id": "93902b64c036ee0e",
       "name": "SHE IS SUMMER",
       "secondary": "",
@@ -1932,7 +1977,7 @@
       "detailPath": "entities/artists/93902b64c036ee0e.json"
     },
     {
-      "rank": 5293,
+      "rank": 5294,
       "id": "011f2bba7730ab57",
       "name": "Sherina Munaf",
       "secondary": "",
@@ -1977,7 +2022,7 @@
       "detailPath": "entities/artists/011f2bba7730ab57.json"
     },
     {
-      "rank": 5294,
+      "rank": 5295,
       "id": "3e490d315fc2894b",
       "name": "Sheryl Nome starring May'n",
       "secondary": "",
@@ -2022,7 +2067,7 @@
       "detailPath": "entities/artists/3e490d315fc2894b.json"
     },
     {
-      "rank": 5295,
+      "rank": 5296,
       "id": "a3710d5698bd1dfd",
       "name": "Shigure Ui",
       "secondary": "",
@@ -2067,7 +2112,7 @@
       "detailPath": "entities/artists/a3710d5698bd1dfd.json"
     },
     {
-      "rank": 5296,
+      "rank": 5297,
       "id": "832404f86f137f3e",
       "name": "SHIHO",
       "secondary": "",
@@ -2112,7 +2157,7 @@
       "detailPath": "entities/artists/832404f86f137f3e.json"
     },
     {
-      "rank": 5297,
+      "rank": 5298,
       "id": "aedce8d4c730a59f",
       "name": "Shinsei Kamattechan",
       "secondary": "",
@@ -2157,7 +2202,7 @@
       "detailPath": "entities/artists/aedce8d4c730a59f.json"
     },
     {
-      "rank": 5298,
+      "rank": 5299,
       "id": "d0e7cf256583f541",
       "name": "Shuta Sueyoshi",
       "secondary": "",
@@ -2205,7 +2250,7 @@
       "detailPath": "entities/artists/d0e7cf256583f541.json"
     },
     {
-      "rank": 5299,
+      "rank": 5300,
       "id": "2d7ce74f96bc60e3",
       "name": "Sia",
       "secondary": "",
@@ -2248,51 +2293,6 @@
         }
       ],
       "detailPath": "entities/artists/2d7ce74f96bc60e3.json"
-    },
-    {
-      "rank": 5300,
-      "id": "d498c548a1c0efac",
-      "name": "Sixpence None The Richer",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "cp9WCHQKUXU",
-          "videoTitle": "【KARAOKE】cozy fall songs!!🎵🍂 #歌枠",
-          "channelName": "Tomoe Carmine Ch. トモエ・カーマイン【Ephemira】",
-          "publishedAt": "2026-10-04T20:09:32.264Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cp9WCHQKUXU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAj0CE9Mvi_alphAt9QD2V81wqEsA",
-          "sourcePath": "sources/cp/cp9WCHQKUXU.json",
-          "time": "0:36:26",
-          "seconds": 2186,
-          "songTitle": "Kiss Me",
-          "artist": "Sixpence None The Richer"
-        },
-        {
-          "videoId": "gd7U3GSG15M",
-          "videoTitle": "【KARAOKE】Singing for YOU🎤🐟🎶 #karaoke #歌枠",
-          "channelName": "Alpha Betta【V-Dere】",
-          "publishedAt": "2026-09-18T17:29:52.748Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gd7U3GSG15M/hqdefault.jpg",
-          "sourcePath": "sources/gd/gd7U3GSG15M.json",
-          "time": "1:06:03",
-          "seconds": 3963,
-          "songTitle": "Kiss Me",
-          "artist": "Sixpence None The Richer"
-        }
-      ],
-      "detailPath": "entities/artists/d498c548a1c0efac.json"
     }
   ]
 }

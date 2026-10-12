@@ -1,16 +1,58 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "all",
   "type": "artists",
   "page": 118,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20013,
+  "totalCount": 20017,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5851,
+      "id": "e684df1bc160cbb5",
+      "name": "まんが 水戸黄門",
+      "secondary": "",
+      "channelId": "UClB2lFAl1AX3Y9-3QzDl47g",
+      "channelHandle": "@murasakisongs",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "UUIDtO-xxNw",
+          "videoTitle": "【#歌枠】色々歌うよぅ～❣(´▽｀*)",
+          "channelName": "HasegawaYell 長谷川えーるCh",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UUIDtO-xxNw/hqdefault.jpg",
+          "sourcePath": "sources/UU/UUIDtO-xxNw.json",
+          "time": "0:26:56",
+          "seconds": 1616,
+          "songTitle": "ザ・チャンバラ",
+          "artist": "まんが 水戸黄門"
+        },
+        {
+          "videoId": "aObHWWnYLdg",
+          "videoTitle": "9/20 夜 リクエスト歌枠。＜70年代～90年代多め。アニソン特撮ソングレパートリー2200曲＞ #vtuver",
+          "channelName": "murasaki songs",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aObHWWnYLdg/hqdefault.jpg",
+          "sourcePath": "sources/aO/aObHWWnYLdg.json",
+          "time": "0:26:13",
+          "seconds": 1573,
+          "songTitle": "ザ・チャンバラ",
+          "artist": "まんが 水戸黄門"
+        }
+      ],
+      "detailPath": "entities/artists/e684df1bc160cbb5.json"
+    },
+    {
+      "rank": 5852,
       "id": "c3308d00956d291d",
       "name": "みあとりくす",
       "secondary": "",
@@ -52,7 +94,7 @@
       "detailPath": "entities/artists/c3308d00956d291d.json"
     },
     {
-      "rank": 5852,
+      "rank": 5853,
       "id": "5d71a37c64e84b4b",
       "name": "みきと",
       "secondary": "",
@@ -100,7 +142,7 @@
       "detailPath": "entities/artists/5d71a37c64e84b4b.json"
     },
     {
-      "rank": 5853,
+      "rank": 5854,
       "id": "e5c6091c16e5bd91",
       "name": "みきとP fast.初音ミク",
       "secondary": "",
@@ -145,7 +187,7 @@
       "detailPath": "entities/artists/e5c6091c16e5bd91.json"
     },
     {
-      "rank": 5854,
+      "rank": 5855,
       "id": "5174c6be17acb425",
       "name": "みきとP feat. 初音ミク（ピアノ伴奏Ver.）",
       "secondary": "",
@@ -190,7 +232,7 @@
       "detailPath": "entities/artists/5174c6be17acb425.json"
     },
     {
-      "rank": 5855,
+      "rank": 5856,
       "id": "bf239b5a6deec525",
       "name": "みすみ",
       "secondary": "",
@@ -235,7 +277,7 @@
       "detailPath": "entities/artists/bf239b5a6deec525.json"
     },
     {
-      "rank": 5856,
+      "rank": 5857,
       "id": "8ad979dacdf68e1e",
       "name": "ミセカイ",
       "secondary": "",
@@ -280,7 +322,7 @@
       "detailPath": "entities/artists/8ad979dacdf68e1e.json"
     },
     {
-      "rank": 5857,
+      "rank": 5858,
       "id": "d7af84a3e7d8e60c",
       "name": "ミセス",
       "secondary": "",
@@ -327,7 +369,7 @@
       "detailPath": "entities/artists/d7af84a3e7d8e60c.json"
     },
     {
-      "rank": 5858,
+      "rank": 5859,
       "id": "dee2257554244aca",
       "name": "ミテイノハナシ",
       "secondary": "",
@@ -372,7 +414,7 @@
       "detailPath": "entities/artists/dee2257554244aca.json"
     },
     {
-      "rank": 5859,
+      "rank": 5860,
       "id": "601e3f350ca906a5",
       "name": "みなとん。",
       "secondary": "",
@@ -417,7 +459,7 @@
       "detailPath": "entities/artists/601e3f350ca906a5.json"
     },
     {
-      "rank": 5860,
+      "rank": 5861,
       "id": "b86f1c05577946c7",
       "name": "みなみけ",
       "secondary": "",
@@ -462,7 +504,7 @@
       "detailPath": "entities/artists/b86f1c05577946c7.json"
     },
     {
-      "rank": 5861,
+      "rank": 5862,
       "id": "d88c2ca4d79614d3",
       "name": "みなみけ3姉妹",
       "secondary": "",
@@ -507,51 +549,6 @@
         }
       ],
       "detailPath": "entities/artists/d88c2ca4d79614d3.json"
-    },
-    {
-      "rank": 5862,
-      "id": "a8dea4f91226d713",
-      "name": "みほ from AIKATSU☆STARS!",
-      "secondary": "",
-      "channelId": "UCd6XWlOEaRJ9DiWQIAUQlSg",
-      "channelHandle": "@amairoarus",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "MkfVMdwFV_U",
-          "videoTitle": "【#歌枠 / #karaoke】日々の疲れを癒すしっとり歌枠【#白砂シオ】",
-          "channelName": "白砂シオ / Shirosuna Shio",
-          "publishedAt": "2026-10-04T06:11:03.733Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MkfVMdwFV_U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAwjVhEyWkJdR1kiXTobeHjkK8LA",
-          "sourcePath": "sources/Mk/MkfVMdwFV_U.json",
-          "time": "0:56:23",
-          "seconds": 3383,
-          "songTitle": "おねがいメリー",
-          "artist": "みほ from AIKATSU☆STARS!"
-        },
-        {
-          "videoId": "MaylAQUKSXQ",
-          "videoTitle": "【 歌枠┊︎Karaoke 】少しだけ歌います💕久しぶりでうれしすぎいいいいい【vtuber /天彩あるす】",
-          "channelName": "天彩あるす -Amairo Arus-",
-          "publishedAt": "2026-10-03T15:04:33.023Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MaylAQUKSXQ/hqdefault.jpg",
-          "sourcePath": "sources/Ma/MaylAQUKSXQ.json",
-          "time": "0:30:53",
-          "seconds": 1853,
-          "songTitle": "おねがいメリー",
-          "artist": "みほ from AIKATSU☆STARS!"
-        }
-      ],
-      "detailPath": "entities/artists/a8dea4f91226d713.json"
     },
     {
       "rank": 5863,

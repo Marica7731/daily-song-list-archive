@@ -1,82 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "7d",
   "type": "songs",
   "page": 22,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3580,
+  "totalCount": 3578,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1051,
-      "id": "d6b1d32e22b6277f",
-      "name": "Connecting Happy!",
-      "secondary": "ペコリーヌ(M・A・O), コッコロ(伊藤美来), キャル(立花理香)",
-      "channelId": "UCyX06mdxxuimP65G0ElrmMA",
-      "channelHandle": "@nikkoriwatachi",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7H-l9et6_ww",
-          "videoTitle": "【雑談歌枠耐久】高評価３００回収します♪ 初見さん、ROMさん大歓迎 ୨୧ ˖* 元気になれる配信♡【#にっこりわたち / #新人vtuber 】",
-          "channelName": "にっこりわたち^^*",
-          "publishedAt": "2026-10-05T19:00:26.461Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7H-l9et6_ww/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDuwClgMqqfoPCruNBCbpkIcLPUNQ",
-          "sourcePath": "sources/7H/7H-l9et6_ww.json",
-          "time": "8:51:11",
-          "seconds": 31871,
-          "songTitle": "Connecting Happy!",
-          "artist": "ペコリーヌ(M・A・O), コッコロ(伊藤美来), キャル(立花理香)"
-        }
-      ],
-      "detailPath": "entities/songs/d6b1d32e22b6277f.json"
-    },
-    {
-      "rank": 1052,
-      "id": "c6ee4fbbdc5931ec",
-      "name": "courage",
-      "secondary": "戸松遥",
-      "channelId": "UCh7gjyYRqRUmhpw5_EHXieA",
-      "channelHandle": "@LuciaKurosaki",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "YaMFjXgSPQU",
-          "videoTitle": "【#歌枠/karaoke】帰宅中に1曲聴いていきませんか？初見さんROM大歓迎♪ワンマンライブチケット発売中！【黒咲ルシア/#Vsinger】",
-          "channelName": "黒咲ルシア / LUCIA CHANNEL",
-          "publishedAt": "2026-10-09T11:46:31.230Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YaMFjXgSPQU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAx6Dchwxz3o7cOYxa0kuakC6ge2w",
-          "sourcePath": "sources/Ya/YaMFjXgSPQU.json",
-          "time": "0:34:54",
-          "seconds": 2094,
-          "songTitle": "courage",
-          "artist": "戸松遥"
-        }
-      ],
-      "detailPath": "entities/songs/c6ee4fbbdc5931ec.json"
-    },
-    {
-      "rank": 1053,
       "id": "c4f2d82542b755a1",
       "name": "crazy party night〜ぱんぷきんの逆襲〜",
       "secondary": "きゃりーぱみゅぱみゅ",
@@ -109,7 +43,7 @@
       "detailPath": "entities/songs/c4f2d82542b755a1.json"
     },
     {
-      "rank": 1054,
+      "rank": 1052,
       "id": "5d715947faa1bc26",
       "name": "Crazy Party Night～パンプキンの逆襲～",
       "secondary": "きゃりーぱみゅぱみゅ",
@@ -142,7 +76,7 @@
       "detailPath": "entities/songs/5d715947faa1bc26.json"
     },
     {
-      "rank": 1055,
+      "rank": 1053,
       "id": "e29200853a0ac0dd",
       "name": "CRISIS",
       "secondary": "",
@@ -175,7 +109,7 @@
       "detailPath": "entities/songs/e29200853a0ac0dd.json"
     },
     {
-      "rank": 1056,
+      "rank": 1054,
       "id": "caa10544e97576c5",
       "name": "crossing field/SAO",
       "secondary": "ソードアート・オンライン Sword Art Online",
@@ -208,7 +142,7 @@
       "detailPath": "entities/songs/caa10544e97576c5.json"
     },
     {
-      "rank": 1057,
+      "rank": 1055,
       "id": "da954c91a76eab90",
       "name": "crossingdays",
       "secondary": "新谷良子",
@@ -241,7 +175,7 @@
       "detailPath": "entities/songs/da954c91a76eab90.json"
     },
     {
-      "rank": 1058,
+      "rank": 1056,
       "id": "5872d9408d728fbe",
       "name": "Crosswalk",
       "secondary": "鈴木みのり",
@@ -274,7 +208,7 @@
       "detailPath": "entities/songs/5872d9408d728fbe.json"
     },
     {
-      "rank": 1059,
+      "rank": 1057,
       "id": "83210c8d93fb8c31",
       "name": "Crystal Kay",
       "secondary": "Motherland",
@@ -307,7 +241,7 @@
       "detailPath": "entities/songs/83210c8d93fb8c31.json"
     },
     {
-      "rank": 1060,
+      "rank": 1058,
       "id": "0f5fe57e6364b7bd",
       "name": "Crystal Letter",
       "secondary": "水樹奈々",
@@ -340,7 +274,7 @@
       "detailPath": "entities/songs/0f5fe57e6364b7bd.json"
     },
     {
-      "rank": 1061,
+      "rank": 1059,
       "id": "42110b9230850664",
       "name": "CULT",
       "secondary": "DUSTCELL",
@@ -373,7 +307,7 @@
       "detailPath": "entities/songs/42110b9230850664.json"
     },
     {
-      "rank": 1062,
+      "rank": 1060,
       "id": "e6a4c3e1453671f4",
       "name": "D.I.D",
       "secondary": "なきごと",
@@ -406,7 +340,7 @@
       "detailPath": "entities/songs/e6a4c3e1453671f4.json"
     },
     {
-      "rank": 1063,
+      "rank": 1061,
       "id": "fda274dc334b4d86",
       "name": "DADDY ! DADDY ! DO !",
       "secondary": "",
@@ -439,7 +373,7 @@
       "detailPath": "entities/songs/fda274dc334b4d86.json"
     },
     {
-      "rank": 1064,
+      "rank": 1062,
       "id": "309b962a84f443fb",
       "name": "DANZEN!ふたりはプリキュア Ver. Max Heart",
       "secondary": "五條真由美",
@@ -472,7 +406,7 @@
       "detailPath": "entities/songs/309b962a84f443fb.json"
     },
     {
-      "rank": 1065,
+      "rank": 1063,
       "id": "fb62578a43acb731",
       "name": "Darling",
       "secondary": "V6 (2003) ドラマ「きみはペット」主題歌",
@@ -505,7 +439,7 @@
       "detailPath": "entities/songs/fb62578a43acb731.json"
     },
     {
-      "rank": 1066,
+      "rank": 1064,
       "id": "6df21b6f6b298c12",
       "name": "Darling",
       "secondary": "Keina Suda",
@@ -538,7 +472,7 @@
       "detailPath": "entities/songs/6df21b6f6b298c12.json"
     },
     {
-      "rank": 1067,
+      "rank": 1065,
       "id": "675b38a0ca1bb7c6",
       "name": "Darling",
       "secondary": "西野カナ",
@@ -571,7 +505,7 @@
       "detailPath": "entities/songs/675b38a0ca1bb7c6.json"
     },
     {
-      "rank": 1068,
+      "rank": 1066,
       "id": "2b05ea189216cad3",
       "name": "dawn",
       "secondary": "",
@@ -604,7 +538,7 @@
       "detailPath": "entities/songs/2b05ea189216cad3.json"
     },
     {
-      "rank": 1069,
+      "rank": 1067,
       "id": "7aa8baf5aca338b0",
       "name": "Daybreaker",
       "secondary": "メラ・アカル (芽良 燈)",
@@ -637,7 +571,7 @@
       "detailPath": "entities/songs/7aa8baf5aca338b0.json"
     },
     {
-      "rank": 1070,
+      "rank": 1068,
       "id": "0d505e114077fe0f",
       "name": "Daydream café",
       "secondary": "Petit Rabbit's",
@@ -670,7 +604,7 @@
       "detailPath": "entities/songs/0d505e114077fe0f.json"
     },
     {
-      "rank": 1071,
+      "rank": 1069,
       "id": "12a621e18826d94d",
       "name": "Days",
       "secondary": "浜崎あゆみ",
@@ -703,7 +637,7 @@
       "detailPath": "entities/songs/12a621e18826d94d.json"
     },
     {
-      "rank": 1072,
+      "rank": 1070,
       "id": "4f349dea887be4e0",
       "name": "daze",
       "secondary": "じん",
@@ -736,7 +670,7 @@
       "detailPath": "entities/songs/4f349dea887be4e0.json"
     },
     {
-      "rank": 1073,
+      "rank": 1071,
       "id": "c32fade5a8ab60af",
       "name": "Dear",
       "secondary": "中島 美嘉",
@@ -769,7 +703,7 @@
       "detailPath": "entities/songs/c32fade5a8ab60af.json"
     },
     {
-      "rank": 1074,
+      "rank": 1072,
       "id": "165627f6d6deb622",
       "name": "Dear",
       "secondary": "19's Sound Factory",
@@ -802,7 +736,7 @@
       "detailPath": "entities/songs/165627f6d6deb622.json"
     },
     {
-      "rank": 1075,
+      "rank": 1073,
       "id": "2f6b58585ddcbcdd",
       "name": "Dear. Mr「F」",
       "secondary": "ずっと真夜中でいいのに。",
@@ -835,7 +769,7 @@
       "detailPath": "entities/songs/2f6b58585ddcbcdd.json"
     },
     {
-      "rank": 1076,
+      "rank": 1074,
       "id": "4a485832efcba424",
       "name": "Dearest",
       "secondary": "浜崎あゆみ",
@@ -868,7 +802,7 @@
       "detailPath": "entities/songs/4a485832efcba424.json"
     },
     {
-      "rank": 1077,
+      "rank": 1075,
       "id": "ddb3b3d0410a0226",
       "name": "Dearest",
       "secondary": "松澤由実",
@@ -901,7 +835,7 @@
       "detailPath": "entities/songs/ddb3b3d0410a0226.json"
     },
     {
-      "rank": 1078,
+      "rank": 1076,
       "id": "521851a3aad32202",
       "name": "Debut✨",
       "secondary": "",
@@ -934,7 +868,7 @@
       "detailPath": "entities/songs/521851a3aad32202.json"
     },
     {
-      "rank": 1079,
+      "rank": 1077,
       "id": "3d52f59d367835d8",
       "name": "Dec",
       "secondary": "Kanaria",
@@ -967,7 +901,7 @@
       "detailPath": "entities/songs/3d52f59d367835d8.json"
     },
     {
-      "rank": 1080,
+      "rank": 1078,
       "id": "113ca24933cb18db",
       "name": "Deep down",
       "secondary": "Aimer",
@@ -1000,7 +934,7 @@
       "detailPath": "entities/songs/113ca24933cb18db.json"
     },
     {
-      "rank": 1081,
+      "rank": 1079,
       "id": "3f37fbea99d55107",
       "name": "DEEP SHADOW",
       "secondary": "深影",
@@ -1033,7 +967,7 @@
       "detailPath": "entities/songs/3f37fbea99d55107.json"
     },
     {
-      "rank": 1082,
+      "rank": 1080,
       "id": "0e01c1c5a8203cd6",
       "name": "departure",
       "secondary": "小野正利",
@@ -1066,7 +1000,7 @@
       "detailPath": "entities/songs/0e01c1c5a8203cd6.json"
     },
     {
-      "rank": 1083,
+      "rank": 1081,
       "id": "a604b21b351ef320",
       "name": "Departures 〜あなたにおくるアイの歌〜",
       "secondary": "EGOIST",
@@ -1099,7 +1033,7 @@
       "detailPath": "entities/songs/a604b21b351ef320.json"
     },
     {
-      "rank": 1084,
+      "rank": 1082,
       "id": "b519e7826dde38c3",
       "name": "desire",
       "secondary": "中森明菜",
@@ -1132,7 +1066,7 @@
       "detailPath": "entities/songs/b519e7826dde38c3.json"
     },
     {
-      "rank": 1085,
+      "rank": 1083,
       "id": "22e01c8169956860",
       "name": "Desperado",
       "secondary": "Eagles",
@@ -1165,7 +1099,7 @@
       "detailPath": "entities/songs/22e01c8169956860.json"
     },
     {
-      "rank": 1086,
+      "rank": 1084,
       "id": "8ca147f4b9785f97",
       "name": "Destiny's Prelude",
       "secondary": "水樹奈奈",
@@ -1198,7 +1132,7 @@
       "detailPath": "entities/songs/8ca147f4b9785f97.json"
     },
     {
-      "rank": 1087,
+      "rank": 1085,
       "id": "1959e34f01732f49",
       "name": "DE寶的渣男故事(?)",
       "secondary": "",
@@ -1231,7 +1165,7 @@
       "detailPath": "entities/songs/1959e34f01732f49.json"
     },
     {
-      "rank": 1088,
+      "rank": 1086,
       "id": "73ac9174201a9e6d",
       "name": "DE寶和大提琴的愛很糾葛",
       "secondary": "八點檔劇情",
@@ -1264,7 +1198,7 @@
       "detailPath": "entities/songs/73ac9174201a9e6d.json"
     },
     {
-      "rank": 1089,
+      "rank": 1087,
       "id": "8ad54510d9b1e19c",
       "name": "Dialogue",
       "secondary": "ハヤシケイ",
@@ -1297,7 +1231,7 @@
       "detailPath": "entities/songs/8ad54510d9b1e19c.json"
     },
     {
-      "rank": 1090,
+      "rank": 1088,
       "id": "ab781c6e4007d422",
       "name": "Diamonds",
       "secondary": "1989年",
@@ -1330,7 +1264,7 @@
       "detailPath": "entities/songs/ab781c6e4007d422.json"
     },
     {
-      "rank": 1091,
+      "rank": 1089,
       "id": "4f6e5cf7693be52b",
       "name": "Diamonds",
       "secondary": "PRINCESS PRINCESS",
@@ -1363,7 +1297,7 @@
       "detailPath": "entities/songs/4f6e5cf7693be52b.json"
     },
     {
-      "rank": 1092,
+      "rank": 1090,
       "id": "910f0c8672de8358",
       "name": "DISTANCE",
       "secondary": "宇多田ヒカル",
@@ -1396,7 +1330,7 @@
       "detailPath": "entities/songs/910f0c8672de8358.json"
     },
     {
-      "rank": 1093,
+      "rank": 1091,
       "id": "bd55e1ecb9266225",
       "name": "DOGLAND",
       "secondary": "PEOPLE 1",
@@ -1429,7 +1363,7 @@
       "detailPath": "entities/songs/bd55e1ecb9266225.json"
     },
     {
-      "rank": 1094,
+      "rank": 1092,
       "id": "20fa8eeb2dee89c3",
       "name": "don't be discouraged",
       "secondary": "林原めぐみ",
@@ -1462,7 +1396,7 @@
       "detailPath": "entities/songs/20fa8eeb2dee89c3.json"
     },
     {
-      "rank": 1095,
+      "rank": 1093,
       "id": "8477fe0ff10b8c45",
       "name": "Don't be long",
       "secondary": "水樹奈奈",
@@ -1495,7 +1429,7 @@
       "detailPath": "entities/songs/8477fe0ff10b8c45.json"
     },
     {
-      "rank": 1096,
+      "rank": 1094,
       "id": "84a305c21bc0fa1e",
       "name": "Don't Look Back in Anger",
       "secondary": "Oasis",
@@ -1528,7 +1462,7 @@
       "detailPath": "entities/songs/84a305c21bc0fa1e.json"
     },
     {
-      "rank": 1097,
+      "rank": 1095,
       "id": "7c0a302453a7d084",
       "name": "Don't say \"lazy\"",
       "secondary": "放課後ティータイム",
@@ -1561,7 +1495,7 @@
       "detailPath": "entities/songs/7c0a302453a7d084.json"
     },
     {
-      "rank": 1098,
+      "rank": 1096,
       "id": "71eab450b4b284fb",
       "name": "Don't say“lazy”",
       "secondary": "放課後ティータイム(日笠陽子,豊崎愛生,佐藤聡美,寿美菜子)",
@@ -1594,7 +1528,7 @@
       "detailPath": "entities/songs/71eab450b4b284fb.json"
     },
     {
-      "rank": 1099,
+      "rank": 1097,
       "id": "4cc69ba7c8390afc",
       "name": "DRAGON CARNIVAL",
       "secondary": "Acid Black Cherry",
@@ -1627,7 +1561,7 @@
       "detailPath": "entities/songs/4cc69ba7c8390afc.json"
     },
     {
-      "rank": 1100,
+      "rank": 1098,
       "id": "1efbc75912084e87",
       "name": "Dragon Night",
       "secondary": "SEKAI NO OWARI",
@@ -1658,6 +1592,72 @@
         }
       ],
       "detailPath": "entities/songs/1efbc75912084e87.json"
+    },
+    {
+      "rank": 1099,
+      "id": "aded858372bef911",
+      "name": "Dragon Soul",
+      "secondary": "谷本貴義",
+      "channelId": "UC3-d-ftiuWI7AzMoZZafxFA",
+      "channelHandle": "@leviathan.0620",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ktBtS2-VQps",
+          "videoTitle": "10/9 10:00~13:00【 歌枠 】ドラゴンボールメインで歌い魔ス！！！【 レヴィ・アタン 】 #shorts #vtuber",
+          "channelName": "レヴィ・アタン",
+          "publishedAt": "2026-10-09T04:34:41.257Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ktBtS2-VQps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NZ0zf5_lwAzwWa7ZvKirDxnzjQ",
+          "sourcePath": "sources/kt/ktBtS2-VQps.json",
+          "time": "0:01:44",
+          "seconds": 104,
+          "songTitle": "Dragon Soul",
+          "artist": "谷本貴義"
+        }
+      ],
+      "detailPath": "entities/songs/aded858372bef911.json"
+    },
+    {
+      "rank": 1100,
+      "id": "e4ef2247c074b7e0",
+      "name": "DreamRiser",
+      "secondary": "",
+      "channelId": "UC1APdN7qfr0s7r8Y3cy68DA",
+      "channelHandle": "@pina_chi",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "0KmG97CHMVU",
+          "videoTitle": "🌟 #歌枠 🌟 今日ものんびり好きな曲やリクエストの曲を歌っていくよ🎶｜ 20261007🐥",
+          "channelName": "ぴなち",
+          "publishedAt": "2026-10-07T03:20:14.608Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0KmG97CHMVU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCg2Fcu4Z2uoUi06AJZ1SNlUrjzFQ",
+          "sourcePath": "sources/0K/0KmG97CHMVU.json",
+          "time": "0:23:17",
+          "seconds": 1397,
+          "songTitle": "DreamRiser",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/e4ef2247c074b7e0.json"
     }
   ]
 }

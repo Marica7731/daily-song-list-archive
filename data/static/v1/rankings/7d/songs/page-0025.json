@@ -1,82 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "7d",
   "type": "songs",
   "page": 25,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3580,
+  "totalCount": 3578,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1201,
-      "id": "b6521172774e78db",
-      "name": "Haiiro to Ao",
-      "secondary": "Yonezu Kenshi & Suda Masaki",
-      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "channelHandle": "@Unit_B_Pre_Debut",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "shtv2FbPF-w",
-          "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
-          "channelName": "UNIT B (Pre-Debut) - mekPark",
-          "publishedAt": "2026-10-12T11:18:44.700Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
-          "sourcePath": "sources/sh/shtv2FbPF-w.json",
-          "time": "0:24:04",
-          "seconds": 1444,
-          "songTitle": "Haiiro to Ao",
-          "artist": "Yonezu Kenshi & Suda Masaki"
-        }
-      ],
-      "detailPath": "entities/songs/b6521172774e78db.json"
-    },
-    {
-      "rank": 1202,
-      "id": "0ada532411272301",
-      "name": "Ham",
-      "secondary": "ZUTOMAYO",
-      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "channelHandle": "@Unit_B_Pre_Debut",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "shtv2FbPF-w",
-          "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
-          "channelName": "UNIT B (Pre-Debut) - mekPark",
-          "publishedAt": "2026-10-12T11:18:44.700Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
-          "sourcePath": "sources/sh/shtv2FbPF-w.json",
-          "time": "1:16:10",
-          "seconds": 4570,
-          "songTitle": "Ham",
-          "artist": "ZUTOMAYO"
-        }
-      ],
-      "detailPath": "entities/songs/0ada532411272301.json"
-    },
-    {
-      "rank": 1203,
       "id": "c361449f4d8e1172",
       "name": "Happiness",
       "secondary": "Che'Nelle",
@@ -109,7 +43,7 @@
       "detailPath": "entities/songs/c361449f4d8e1172.json"
     },
     {
-      "rank": 1204,
+      "rank": 1202,
       "id": "5ba454f154009a89",
       "name": "Happiness",
       "secondary": "嵐",
@@ -142,7 +76,7 @@
       "detailPath": "entities/songs/5ba454f154009a89.json"
     },
     {
-      "rank": 1205,
+      "rank": 1203,
       "id": "a1d50db6b2d92f97",
       "name": "Happy Halloween",
       "secondary": "Happy Halloween Junky feat. 鏡音リン / Junky feat. Kagamine Rin",
@@ -175,7 +109,7 @@
       "detailPath": "entities/songs/a1d50db6b2d92f97.json"
     },
     {
-      "rank": 1206,
+      "rank": 1204,
       "id": "a4de728f55defd3c",
       "name": "Happy Halloween",
       "secondary": "Junky feat. 鏡音リン",
@@ -208,7 +142,7 @@
       "detailPath": "entities/songs/a4de728f55defd3c.json"
     },
     {
-      "rank": 1207,
+      "rank": 1205,
       "id": "9736ea12bb2377d1",
       "name": "Happy Halloween(Happy Halloween)",
       "secondary": "Junky feat.鏡音リン",
@@ -241,7 +175,7 @@
       "detailPath": "entities/songs/9736ea12bb2377d1.json"
     },
     {
-      "rank": 1208,
+      "rank": 1206,
       "id": "11ecbc74a2899770",
       "name": "HAPPY HAPPY BIRTHDAY",
       "secondary": "DREAMS COME TRUE",
@@ -274,7 +208,7 @@
       "detailPath": "entities/songs/11ecbc74a2899770.json"
     },
     {
-      "rank": 1209,
+      "rank": 1207,
       "id": "f5e91cc703695f2e",
       "name": "HAPPY PARTY TRAIN",
       "secondary": "Aqours",
@@ -307,7 +241,7 @@
       "detailPath": "entities/songs/f5e91cc703695f2e.json"
     },
     {
-      "rank": 1210,
+      "rank": 1208,
       "id": "abf3c201c0a7c571",
       "name": "Heartful Song",
       "secondary": "ほしな歌唄（CV:水樹奈々）",
@@ -340,7 +274,7 @@
       "detailPath": "entities/songs/abf3c201c0a7c571.json"
     },
     {
-      "rank": 1211,
+      "rank": 1209,
       "id": "ce953bbe2fcd16f8",
       "name": "HEAT",
       "secondary": "",
@@ -373,7 +307,7 @@
       "detailPath": "entities/songs/ce953bbe2fcd16f8.json"
     },
     {
-      "rank": 1212,
+      "rank": 1210,
       "id": "e3876c51dda2279c",
       "name": "hello",
       "secondary": "",
@@ -406,7 +340,7 @@
       "detailPath": "entities/songs/e3876c51dda2279c.json"
     },
     {
-      "rank": 1213,
+      "rank": 1211,
       "id": "e84985b0a241d005",
       "name": "Hello",
       "secondary": "Adele",
@@ -439,7 +373,7 @@
       "detailPath": "entities/songs/e84985b0a241d005.json"
     },
     {
-      "rank": 1214,
+      "rank": 1212,
       "id": "f6e748f6db3ae2c8",
       "name": "Hello, Worker",
       "secondary": "KEI",
@@ -472,7 +406,7 @@
       "detailPath": "entities/songs/f6e748f6db3ae2c8.json"
     },
     {
-      "rank": 1215,
+      "rank": 1213,
       "id": "25a30e0db82ad399",
       "name": "Hello,Again ～昔からある場所～",
       "secondary": "1995年",
@@ -505,7 +439,7 @@
       "detailPath": "entities/songs/25a30e0db82ad399.json"
     },
     {
-      "rank": 1216,
+      "rank": 1214,
       "id": "401fbe9e96463ea0",
       "name": "Here",
       "secondary": "JUNNA",
@@ -538,7 +472,7 @@
       "detailPath": "entities/songs/401fbe9e96463ea0.json"
     },
     {
-      "rank": 1217,
+      "rank": 1215,
       "id": "666a5f0c4b61cd7f",
       "name": "HERO～希望の歌～",
       "secondary": "FLOW",
@@ -571,7 +505,7 @@
       "detailPath": "entities/songs/666a5f0c4b61cd7f.json"
     },
     {
-      "rank": 1218,
+      "rank": 1216,
       "id": "09e26cab9950d01c",
       "name": "home",
       "secondary": "木山裕策",
@@ -604,7 +538,7 @@
       "detailPath": "entities/songs/09e26cab9950d01c.json"
     },
     {
-      "rank": 1219,
+      "rank": 1217,
       "id": "c4f3f445dcbad405",
       "name": "Home Sweet Home feat. KMNZ LIZ",
       "secondary": "Neko Hacker",
@@ -637,7 +571,7 @@
       "detailPath": "entities/songs/c4f3f445dcbad405.json"
     },
     {
-      "rank": 1220,
+      "rank": 1218,
       "id": "56240d1665c80961",
       "name": "How Deep Is Your Love",
       "secondary": "Calvin Harris & Disciples",
@@ -670,7 +604,7 @@
       "detailPath": "entities/songs/56240d1665c80961.json"
     },
     {
-      "rank": 1221,
+      "rank": 1219,
       "id": "09933e71f6dbae90",
       "name": "HOWEVER",
       "secondary": "1997年",
@@ -703,7 +637,7 @@
       "detailPath": "entities/songs/09933e71f6dbae90.json"
     },
     {
-      "rank": 1222,
+      "rank": 1220,
       "id": "1e5ecf8ed4ab21a3",
       "name": "https",
       "secondary": "pjblue.zaiko.io/ja/item/383839",
@@ -736,7 +670,7 @@
       "detailPath": "entities/songs/1e5ecf8ed4ab21a3.json"
     },
     {
-      "rank": 1223,
+      "rank": 1221,
       "id": "9b2b5f74fd670389",
       "name": "https",
       "secondary": "eplus.jp/rebon1on1talk",
@@ -769,7 +703,7 @@
       "detailPath": "entities/songs/9b2b5f74fd670389.json"
     },
     {
-      "rank": 1224,
+      "rank": 1222,
       "id": "08015a42dec356e6",
       "name": "https",
       "secondary": "raffle-kuji.jp/lotteries/1483",
@@ -802,7 +736,7 @@
       "detailPath": "entities/songs/08015a42dec356e6.json"
     },
     {
-      "rank": 1225,
+      "rank": 1223,
       "id": "4f3ba043ef0114db",
       "name": "Hug",
       "secondary": "空音",
@@ -835,7 +769,7 @@
       "detailPath": "entities/songs/4f3ba043ef0114db.json"
     },
     {
-      "rank": 1226,
+      "rank": 1224,
       "id": "6ef49e37d1e7bd81",
       "name": "Ｉ",
       "secondary": "僕のヒーローアカデミア",
@@ -868,7 +802,7 @@
       "detailPath": "entities/songs/6ef49e37d1e7bd81.json"
     },
     {
-      "rank": 1227,
+      "rank": 1225,
       "id": "f2a59693c5428aa8",
       "name": "I AM",
       "secondary": "機動戦士ガンダムUC",
@@ -901,7 +835,7 @@
       "detailPath": "entities/songs/f2a59693c5428aa8.json"
     },
     {
-      "rank": 1228,
+      "rank": 1226,
       "id": "b4a8251122430798",
       "name": "I beg you",
       "secondary": "Aimer",
@@ -934,7 +868,7 @@
       "detailPath": "entities/songs/b4a8251122430798.json"
     },
     {
-      "rank": 1229,
+      "rank": 1227,
       "id": "90c49255e95714ac",
       "name": "I LOVE YOU",
       "secondary": "クリス・ハート",
@@ -967,7 +901,7 @@
       "detailPath": "entities/songs/90c49255e95714ac.json"
     },
     {
-      "rank": 1230,
+      "rank": 1228,
       "id": "a03807bf6fb367cc",
       "name": "I Really Want To Stay At Your House",
       "secondary": "Rosa WAlton",
@@ -1000,7 +934,7 @@
       "detailPath": "entities/songs/a03807bf6fb367cc.json"
     },
     {
-      "rank": 1231,
+      "rank": 1229,
       "id": "7aaa72240acec962",
       "name": "I remember you",
       "secondary": "00:08:39",
@@ -1033,7 +967,7 @@
       "detailPath": "entities/songs/7aaa72240acec962.json"
     },
     {
-      "rank": 1232,
+      "rank": 1230,
       "id": "b47ce77db8e32b4b",
       "name": "I Wanna Go To A Place",
       "secondary": "機動戦士ガンダムSEED DESTINY",
@@ -1066,7 +1000,7 @@
       "detailPath": "entities/songs/b47ce77db8e32b4b.json"
     },
     {
-      "rank": 1233,
+      "rank": 1231,
       "id": "f01b3de940a0671c",
       "name": "I Wanna Go To A Place…",
       "secondary": "Rie fu",
@@ -1099,7 +1033,7 @@
       "detailPath": "entities/songs/f01b3de940a0671c.json"
     },
     {
-      "rank": 1234,
+      "rank": 1232,
       "id": "8a8255d0fb19a627",
       "name": "I’m a Believer",
       "secondary": "SPYAIR",
@@ -1132,7 +1066,7 @@
       "detailPath": "entities/songs/8a8255d0fb19a627.json"
     },
     {
-      "rank": 1235,
+      "rank": 1233,
       "id": "c5115f2c2702f559",
       "name": "I'm a mess",
       "secondary": "MY FIRST STORY",
@@ -1165,7 +1099,7 @@
       "detailPath": "entities/songs/c5115f2c2702f559.json"
     },
     {
-      "rank": 1236,
+      "rank": 1234,
       "id": "a255b7b9a2886cc1",
       "name": "I'm not a ghost",
       "secondary": "Acid Black Cherry",
@@ -1198,7 +1132,7 @@
       "detailPath": "entities/songs/a255b7b9a2886cc1.json"
     },
     {
-      "rank": 1237,
+      "rank": 1235,
       "id": "a9e1abe79f021645",
       "name": "I'm proud",
       "secondary": "華原朋美",
@@ -1231,7 +1165,7 @@
       "detailPath": "entities/songs/a9e1abe79f021645.json"
     },
     {
-      "rank": 1238,
+      "rank": 1236,
       "id": "c750d2ff9ddc7062",
       "name": "I'm so free!",
       "secondary": "星井美希(CV:長谷川明子)/三浦あずさ(CV:たかはし智秋)/四条貴音(CV:原由実)",
@@ -1264,7 +1198,7 @@
       "detailPath": "entities/songs/c750d2ff9ddc7062.json"
     },
     {
-      "rank": 1239,
+      "rank": 1237,
       "id": "8a741a5e88e08ad5",
       "name": "if",
       "secondary": "DA PUMP",
@@ -1297,7 +1231,7 @@
       "detailPath": "entities/songs/8a741a5e88e08ad5.json"
     },
     {
-      "rank": 1240,
+      "rank": 1238,
       "id": "113c1a987a080cc4",
       "name": "ignited ーイグナイテッドー",
       "secondary": "",
@@ -1330,7 +1264,7 @@
       "detailPath": "entities/songs/113c1a987a080cc4.json"
     },
     {
-      "rank": 1241,
+      "rank": 1239,
       "id": "37a41b785aac592b",
       "name": "III",
       "secondary": "宝鐘マリン＆こぼ・かなえる",
@@ -1363,7 +1297,7 @@
       "detailPath": "entities/songs/37a41b785aac592b.json"
     },
     {
-      "rank": 1242,
+      "rank": 1240,
       "id": "2370e6707261dde8",
       "name": "Ikenai Borderline",
       "secondary": "Walküre",
@@ -1396,7 +1330,7 @@
       "detailPath": "entities/songs/2370e6707261dde8.json"
     },
     {
-      "rank": 1243,
+      "rank": 1241,
       "id": "bd65170a32b9ab1b",
       "name": "IN MY DREAM",
       "secondary": "",
@@ -1429,7 +1363,7 @@
       "detailPath": "entities/songs/bd65170a32b9ab1b.json"
     },
     {
-      "rank": 1244,
+      "rank": 1242,
       "id": "02b994565cdd6d35",
       "name": "in my room",
       "secondary": "宇多田ヒカル",
@@ -1462,7 +1396,7 @@
       "detailPath": "entities/songs/02b994565cdd6d35.json"
     },
     {
-      "rank": 1245,
+      "rank": 1243,
       "id": "5ad9d780514adb4e",
       "name": "INCUBUS",
       "secondary": "Acid Black Cherry",
@@ -1495,7 +1429,7 @@
       "detailPath": "entities/songs/5ad9d780514adb4e.json"
     },
     {
-      "rank": 1246,
+      "rank": 1244,
       "id": "8f140188939ba54d",
       "name": "INCUBUS",
       "secondary": "",
@@ -1528,7 +1462,7 @@
       "detailPath": "entities/songs/8f140188939ba54d.json"
     },
     {
-      "rank": 1247,
+      "rank": 1245,
       "id": "34f8f905e03be5ab",
       "name": "Infinity Dream！",
       "secondary": "Varium",
@@ -1561,7 +1495,7 @@
       "detailPath": "entities/songs/34f8f905e03be5ab.json"
     },
     {
-      "rank": 1248,
+      "rank": 1246,
       "id": "6c0734f9fa41af5f",
       "name": "Inner Universe（攻殻機動隊　GHOST IN THE SHELL）",
       "secondary": "Origa",
@@ -1594,7 +1528,7 @@
       "detailPath": "entities/songs/6c0734f9fa41af5f.json"
     },
     {
-      "rank": 1249,
+      "rank": 1247,
       "id": "551fc43407b65e72",
       "name": "innocent world",
       "secondary": "Mr.children ※初出し",
@@ -1627,7 +1561,7 @@
       "detailPath": "entities/songs/551fc43407b65e72.json"
     },
     {
-      "rank": 1250,
+      "rank": 1248,
       "id": "eb752d75579418a6",
       "name": "inside you",
       "secondary": "",
@@ -1658,6 +1592,72 @@
         }
       ],
       "detailPath": "entities/songs/eb752d75579418a6.json"
+    },
+    {
+      "rank": 1249,
+      "id": "6b5d8ae43f754ea9",
+      "name": "inside you",
+      "secondary": "初見",
+      "channelId": "UCV6V6YJLO0Zykeq1VD16txg",
+      "channelHandle": "@0hinarysan",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "spFnphSWWUU",
+          "videoTitle": "【歌枠 / Singing Stream】初見さん歓迎◎まったり弾き語り！！【INARI / 新人VTuber】#いなりお使い中",
+          "channelName": "INARI",
+          "publishedAt": "2026-10-08T13:14:33.284Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/spFnphSWWUU/hqdefault.jpg",
+          "sourcePath": "sources/sp/spFnphSWWUU.json",
+          "time": "0:35:50",
+          "seconds": 2150,
+          "songTitle": "inside you",
+          "artist": "初見"
+        }
+      ],
+      "detailPath": "entities/songs/6b5d8ae43f754ea9.json"
+    },
+    {
+      "rank": 1250,
+      "id": "fd318a0f17782bf6",
+      "name": "Instinct",
+      "secondary": "Sheena Ringo",
+      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "channelHandle": "@Unit_B_Pre_Debut",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "shtv2FbPF-w",
+          "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+          "channelName": "UNIT B (Pre-Debut) - mekPark",
+          "publishedAt": "2026-10-12T11:18:44.700Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
+          "sourcePath": "sources/sh/shtv2FbPF-w.json",
+          "time": "1:24:40",
+          "seconds": 5080,
+          "songTitle": "Instinct",
+          "artist": "Sheena Ringo"
+        }
+      ],
+      "detailPath": "entities/songs/fd318a0f17782bf6.json"
     }
   ]
 }

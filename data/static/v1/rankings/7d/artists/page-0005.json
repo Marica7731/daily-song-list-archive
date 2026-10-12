@@ -1,74 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "7d",
   "type": "artists",
   "page": 5,
   "pageSize": 50,
   "pageCount": 36,
-  "totalCount": 1755,
+  "totalCount": 1754,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 201,
-      "id": "e53edec3ea755009",
-      "name": "ヰ世界情緒",
-      "secondary": "",
-      "channelId": "UCQLfrGPnx1Es7WCiRd7Iyeg",
-      "channelHandle": "@yuzzmi0110",
-      "channelUrl": "",
-      "occurrenceCount": 5,
-      "videoCount": 5,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RqCSKC9ZW3M",
-          "videoTitle": "【歌枠/karaoke】しばし、うた【 鈍色聴 / #666666live】",
-          "channelName": "鈍色聴 / Yurushi Nibiiro",
-          "publishedAt": "2026-10-10T10:37:02.622Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RqCSKC9ZW3M/hqdefault.jpg",
-          "sourcePath": "sources/Rq/RqCSKC9ZW3M.json",
-          "time": "0:58:36",
-          "seconds": 3516,
-          "songTitle": "そして白に還る",
-          "artist": "ヰ世界情緒"
-        },
-        {
-          "videoId": "PQ1KuqjXcZA",
-          "videoTitle": "【#歌枠 & 雑談】休日何するの？【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
-          "channelName": "ブランク・ウリカ - Blanc Ulica -",
-          "publishedAt": "2026-10-09T19:32:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PQ1KuqjXcZA/hqdefault.jpg",
-          "sourcePath": "sources/PQ/PQ1KuqjXcZA.json",
-          "time": "1:31:21",
-          "seconds": 5481,
-          "songTitle": "シリウスの心臓",
-          "artist": "ヰ世界情緒"
-        },
-        {
-          "videoId": "UdHJrVCbKiY",
-          "videoTitle": "【 Vtuber 歌枠 】安らぐ夜のお供に／ピアノ弾き語り｜NoiR／NoWorld",
-          "channelName": "NoiR / NoWorld",
-          "publishedAt": "2026-10-09T15:33:03.391Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UdHJrVCbKiY/hqdefault.jpg",
-          "sourcePath": "sources/Ud/UdHJrVCbKiY.json",
-          "time": "1:04:43",
-          "seconds": 3883,
-          "songTitle": "ARCADIA",
-          "artist": "ヰ世界情緒"
-        }
-      ],
-      "detailPath": "entities/artists/e53edec3ea755009.json"
-    },
-    {
-      "rank": 202,
       "id": "c5c7dacfee3ad34c",
       "name": "戸松遥",
       "secondary": "",
@@ -125,7 +67,7 @@
       "detailPath": "entities/artists/c5c7dacfee3ad34c.json"
     },
     {
-      "rank": 203,
+      "rank": 202,
       "id": "e623c3392bcd5e3a",
       "name": "中森明菜",
       "secondary": "",
@@ -183,7 +125,7 @@
       "detailPath": "entities/artists/e623c3392bcd5e3a.json"
     },
     {
-      "rank": 204,
+      "rank": 203,
       "id": "fadccdb7831e18f8",
       "name": "土",
       "secondary": "",
@@ -241,7 +183,7 @@
       "detailPath": "entities/artists/fadccdb7831e18f8.json"
     },
     {
-      "rank": 205,
+      "rank": 204,
       "id": "f902a539e75e44fb",
       "name": "内緒のピアス",
       "secondary": "",
@@ -298,7 +240,7 @@
       "detailPath": "entities/artists/f902a539e75e44fb.json"
     },
     {
-      "rank": 206,
+      "rank": 205,
       "id": "b54032ce52e343e1",
       "name": "宝鐘マリン",
       "secondary": "",
@@ -355,7 +297,7 @@
       "detailPath": "entities/artists/b54032ce52e343e1.json"
     },
     {
-      "rank": 207,
+      "rank": 206,
       "id": "f622568cad23d2a5",
       "name": "牧野由依",
       "secondary": "",
@@ -412,7 +354,7 @@
       "detailPath": "entities/artists/f622568cad23d2a5.json"
     },
     {
-      "rank": 208,
+      "rank": 207,
       "id": "50e1c4d808afc86d",
       "name": "B'z",
       "secondary": "",
@@ -469,7 +411,7 @@
       "detailPath": "entities/artists/50e1c4d808afc86d.json"
     },
     {
-      "rank": 209,
+      "rank": 208,
       "id": "300d7554b6080185",
       "name": "BoA",
       "secondary": "",
@@ -526,7 +468,7 @@
       "detailPath": "entities/artists/300d7554b6080185.json"
     },
     {
-      "rank": 210,
+      "rank": 209,
       "id": "78396c05cbff65f0",
       "name": "Eill",
       "secondary": "",
@@ -583,7 +525,7 @@
       "detailPath": "entities/artists/78396c05cbff65f0.json"
     },
     {
-      "rank": 211,
+      "rank": 210,
       "id": "c7397a1de46ed8bc",
       "name": "miwa",
       "secondary": "",
@@ -640,7 +582,7 @@
       "detailPath": "entities/artists/c7397a1de46ed8bc.json"
     },
     {
-      "rank": 212,
+      "rank": 211,
       "id": "956962469f952a33",
       "name": "My Hair is Bad",
       "secondary": "",
@@ -697,7 +639,7 @@
       "detailPath": "entities/artists/956962469f952a33.json"
     },
     {
-      "rank": 213,
+      "rank": 212,
       "id": "f449c12473fb9333",
       "name": "Tommy heavenly6",
       "secondary": "",
@@ -754,7 +696,7 @@
       "detailPath": "entities/artists/f449c12473fb9333.json"
     },
     {
-      "rank": 214,
+      "rank": 213,
       "id": "ec49446afbddd17e",
       "name": "すりぃ feat.鏡音レン",
       "secondary": "",
@@ -811,7 +753,7 @@
       "detailPath": "entities/artists/ec49446afbddd17e.json"
     },
     {
-      "rank": 215,
+      "rank": 214,
       "id": "8768aeff5426e4ca",
       "name": "ランカ・リー=中島愛",
       "secondary": "",
@@ -868,7 +810,7 @@
       "detailPath": "entities/artists/8768aeff5426e4ca.json"
     },
     {
-      "rank": 216,
+      "rank": 215,
       "id": "96e27cf5c3e6b845",
       "name": "傘村トータ",
       "secondary": "",
@@ -926,7 +868,7 @@
       "detailPath": "entities/artists/96e27cf5c3e6b845.json"
     },
     {
-      "rank": 217,
+      "rank": 216,
       "id": "268042efa9e365cb",
       "name": "西野カナ",
       "secondary": "",
@@ -984,7 +926,7 @@
       "detailPath": "entities/artists/268042efa9e365cb.json"
     },
     {
-      "rank": 218,
+      "rank": 217,
       "id": "f7559d2f56824c30",
       "name": "田村ゆかり",
       "secondary": "",
@@ -1041,7 +983,7 @@
       "detailPath": "entities/artists/f7559d2f56824c30.json"
     },
     {
-      "rank": 219,
+      "rank": 218,
       "id": "f6c1a0945f1bd96d",
       "name": "槇原敬之",
       "secondary": "",
@@ -1099,7 +1041,7 @@
       "detailPath": "entities/artists/f6c1a0945f1bd96d.json"
     },
     {
-      "rank": 220,
+      "rank": 219,
       "id": "9a7bd5149d4db511",
       "name": "ELLEGARDEN",
       "secondary": "",
@@ -1156,7 +1098,7 @@
       "detailPath": "entities/artists/9a7bd5149d4db511.json"
     },
     {
-      "rank": 221,
+      "rank": 220,
       "id": "e3d6a225f78419e4",
       "name": "YUKI",
       "secondary": "",
@@ -1213,7 +1155,7 @@
       "detailPath": "entities/artists/e3d6a225f78419e4.json"
     },
     {
-      "rank": 222,
+      "rank": 221,
       "id": "56a711379cda736f",
       "name": "山口百恵",
       "secondary": "",
@@ -1270,7 +1212,7 @@
       "detailPath": "entities/artists/56a711379cda736f.json"
     },
     {
-      "rank": 223,
+      "rank": 222,
       "id": "ac8a3374b6dd169a",
       "name": "藤原さくら",
       "secondary": "",
@@ -1327,7 +1269,7 @@
       "detailPath": "entities/artists/ac8a3374b6dd169a.json"
     },
     {
-      "rank": 224,
+      "rank": 223,
       "id": "e89d9fe4e9d7b94a",
       "name": "柊キライ",
       "secondary": "",
@@ -1384,7 +1326,7 @@
       "detailPath": "entities/artists/e89d9fe4e9d7b94a.json"
     },
     {
-      "rank": 225,
+      "rank": 224,
       "id": "52166e9a560568cd",
       "name": "米倉千尋",
       "secondary": "",
@@ -1441,7 +1383,7 @@
       "detailPath": "entities/artists/52166e9a560568cd.json"
     },
     {
-      "rank": 226,
+      "rank": 225,
       "id": "835c775ee4767f1a",
       "name": "9Lana",
       "secondary": "",
@@ -1484,6 +1426,51 @@
         }
       ],
       "detailPath": "entities/artists/835c775ee4767f1a.json"
+    },
+    {
+      "rank": 226,
+      "id": "c90dd12c74e471e3",
+      "name": "CUTIE STREET",
+      "secondary": "",
+      "channelId": "UCJ9nuc0p7qXfuQvTE_Y9ZkA",
+      "channelHandle": "@AyumiYua",
+      "channelUrl": "",
+      "occurrenceCount": 5,
+      "videoCount": 2,
+      "songCount": 5,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "v8zQDeXE28E",
+          "videoTitle": "【歌枠/Karaoke】おうたの時間だよ～.ᐟ.ᐟ 初見さん大歓迎っ.ᐟ.ᐟお歌が好きなそこのあなたっ.ᐟ.ᐟ1曲だけでも聴いていきませんか.ᐣ.ᐣ ⸜ ♡ ⸝【愛未ゆあ / 個人Vtuber】",
+          "channelName": "愛未ゆあ⑅ / Yua Ayumi",
+          "publishedAt": "2026-10-07T19:11:47.501Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v8zQDeXE28E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgQDNNiCm8sJgzG1GNVT16fiaivQ",
+          "sourcePath": "sources/v8/v8zQDeXE28E.json",
+          "time": "0:24:44",
+          "seconds": 1484,
+          "songTitle": "かわいいだけじゃだめですか？",
+          "artist": "CUTIE STREET"
+        },
+        {
+          "videoId": "r2sBBmSV4GI",
+          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
+          "channelName": "苺咲べりぃ / Maisaki Berry",
+          "publishedAt": "2026-10-07T16:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/r2sBBmSV4GI/hqdefault.jpg",
+          "sourcePath": "sources/r2/r2sBBmSV4GI.json",
+          "time": "0:32:38",
+          "seconds": 1958,
+          "songTitle": "キュートなキューたい",
+          "artist": "CUTIE STREET"
+        }
+      ],
+      "detailPath": "entities/artists/c90dd12c74e471e3.json"
     },
     {
       "rank": 227,

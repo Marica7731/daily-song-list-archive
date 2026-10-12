@@ -1,82 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:26:16.991Z",
+  "generatedAt": "2026-10-12T14:33:56.333Z",
   "range": "7d",
   "type": "songs",
   "page": 19,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3580,
+  "totalCount": 3578,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 901,
-      "id": "5cfb15bf26489bc9",
-      "name": "1991",
-      "secondary": "米津玄師",
-      "channelId": "UCGKNbtDv8OTa8559buDu-Gw",
-      "channelHandle": "@otodama_hibiku",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "K1-tWs1Tchg",
-          "videoTitle": "〖歌枠〗リクエスト拾う！Chill弾き語り🎸〖Vsinger〗",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-08T15:47:12.988Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/K1-tWs1Tchg/hqdefault.jpg",
-          "sourcePath": "sources/K1/K1-tWs1Tchg.json",
-          "time": "2:01:53",
-          "seconds": 7313,
-          "songTitle": "1991",
-          "artist": "米津玄師"
-        }
-      ],
-      "detailPath": "entities/songs/5cfb15bf26489bc9.json"
-    },
-    {
-      "rank": 902,
-      "id": "b7a1c8391cfd1de4",
-      "name": "1on1",
-      "secondary": "",
-      "channelId": "UCff-GXnwPL0pXwXQnjDZg4w",
-      "channelHandle": "@Sakayoripepa",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "2Tv0J_4Ix38",
-          "videoTitle": "【 #歌枠 】まだ飲み足りないんだよおおお！？？歌、聴いてくれる？初見さん歓迎！ #vtuber #karaoke",
-          "channelName": "酒依 ぺぱ",
-          "publishedAt": "2026-10-08T16:17:51.956Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2Tv0J_4Ix38/hqdefault.jpg",
-          "sourcePath": "sources/2T/2Tv0J_4Ix38.json",
-          "time": "0:15:20",
-          "seconds": 920,
-          "songTitle": "1on1",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/b7a1c8391cfd1de4.json"
-    },
-    {
-      "rank": 903,
       "id": "3db58b234c55618c",
       "name": "1時間",
       "secondary": "ハンバート ハンバート",
@@ -109,7 +43,7 @@
       "detailPath": "entities/songs/3db58b234c55618c.json"
     },
     {
-      "rank": 904,
+      "rank": 902,
       "id": "d9cb46b6bc117098",
       "name": "1度だけの恋なら",
       "secondary": "ワルキューレ",
@@ -142,7 +76,7 @@
       "detailPath": "entities/songs/d9cb46b6bc117098.json"
     },
     {
-      "rank": 905,
+      "rank": 903,
       "id": "973bfceeb1a0c847",
       "name": "2 Bakuretsu Aishiteru",
       "secondary": "M!LK",
@@ -175,7 +109,7 @@
       "detailPath": "entities/songs/973bfceeb1a0c847.json"
     },
     {
-      "rank": 906,
+      "rank": 904,
       "id": "1c6fba1c7738c3d7",
       "name": "20+∞Century Boys",
       "secondary": "",
@@ -208,7 +142,7 @@
       "detailPath": "entities/songs/1c6fba1c7738c3d7.json"
     },
     {
-      "rank": 907,
+      "rank": 905,
       "id": "71010c4759a65146",
       "name": "2026/10",
       "secondary": "月",
@@ -241,7 +175,7 @@
       "detailPath": "entities/songs/71010c4759a65146.json"
     },
     {
-      "rank": 908,
+      "rank": 906,
       "id": "24e2a6c28b690287",
       "name": "22歳の別れ　風　cover",
       "secondary": "",
@@ -274,7 +208,7 @@
       "detailPath": "entities/songs/24e2a6c28b690287.json"
     },
     {
-      "rank": 909,
+      "rank": 907,
       "id": "901b03af2303d6a3",
       "name": "25",
       "secondary": "iri",
@@ -307,7 +241,7 @@
       "detailPath": "entities/songs/901b03af2303d6a3.json"
     },
     {
-      "rank": 910,
+      "rank": 908,
       "id": "de73c690aa4369d9",
       "name": "25コ目の染色体",
       "secondary": "RADWIMPS",
@@ -340,7 +274,7 @@
       "detailPath": "entities/songs/de73c690aa4369d9.json"
     },
     {
-      "rank": 911,
+      "rank": 909,
       "id": "0a719cff577905eb",
       "name": "30minutes night flight",
       "secondary": "坂本真綾",
@@ -373,7 +307,7 @@
       "detailPath": "entities/songs/0a719cff577905eb.json"
     },
     {
-      "rank": 912,
+      "rank": 910,
       "id": "3b7897415c374b5b",
       "name": "35 22",
       "secondary": "Taylor Swift",
@@ -406,7 +340,7 @@
       "detailPath": "entities/songs/3b7897415c374b5b.json"
     },
     {
-      "rank": 913,
+      "rank": 911,
       "id": "09fb8672e586ece8",
       "name": "365日の紙飛行機",
       "secondary": "AKB48",
@@ -439,7 +373,7 @@
       "detailPath": "entities/songs/09fb8672e586ece8.json"
     },
     {
-      "rank": 914,
+      "rank": 912,
       "id": "5111c29f0c88052c",
       "name": "366日",
       "secondary": "",
@@ -472,7 +406,7 @@
       "detailPath": "entities/songs/5111c29f0c88052c.json"
     },
     {
-      "rank": 915,
+      "rank": 913,
       "id": "be28b7c6c309a467",
       "name": "3時のキス",
       "secondary": "ロクデナシ",
@@ -505,7 +439,7 @@
       "detailPath": "entities/songs/be28b7c6c309a467.json"
     },
     {
-      "rank": 916,
+      "rank": 914,
       "id": "5db7544cd1832e1e",
       "name": "4 Glass no Shonen",
       "secondary": "DOMOTO",
@@ -538,7 +472,7 @@
       "detailPath": "entities/songs/5db7544cd1832e1e.json"
     },
     {
-      "rank": 917,
+      "rank": 915,
       "id": "ac7fdba67eb92a1c",
       "name": "46 Re:Re",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -571,7 +505,7 @@
       "detailPath": "entities/songs/ac7fdba67eb92a1c.json"
     },
     {
-      "rank": 918,
+      "rank": 916,
       "id": "00ebac7f2297addb",
       "name": "500マイル",
       "secondary": "忌野清志郎（ピーター・ポール&マリー）",
@@ -604,7 +538,7 @@
       "detailPath": "entities/songs/00ebac7f2297addb.json"
     },
     {
-      "rank": 919,
+      "rank": 917,
       "id": "03f6519f7f8d9aba",
       "name": "66号線",
       "secondary": "BUMP OF CHICKEN",
@@ -637,7 +571,7 @@
       "detailPath": "entities/songs/03f6519f7f8d9aba.json"
     },
     {
-      "rank": 920,
+      "rank": 918,
       "id": "0f75030f92e01ee1",
       "name": "A Perfect Sky",
       "secondary": "BONNIE PINK",
@@ -670,7 +604,7 @@
       "detailPath": "entities/songs/0f75030f92e01ee1.json"
     },
     {
-      "rank": 921,
+      "rank": 919,
       "id": "d356d71cc1f37cf0",
       "name": "A Song for XX",
       "secondary": "浜崎あゆみ",
@@ -703,7 +637,7 @@
       "detailPath": "entities/songs/d356d71cc1f37cf0.json"
     },
     {
-      "rank": 922,
+      "rank": 920,
       "id": "da623f9dc2aa8aed",
       "name": "A Thousand Miles",
       "secondary": "Vanessa Carlton",
@@ -736,7 +670,7 @@
       "detailPath": "entities/songs/da623f9dc2aa8aed.json"
     },
     {
-      "rank": 923,
+      "rank": 921,
       "id": "203894de41c6344e",
       "name": "A Thousand Years",
       "secondary": "Christina Perri",
@@ -769,7 +703,7 @@
       "detailPath": "entities/songs/203894de41c6344e.json"
     },
     {
-      "rank": 924,
+      "rank": 922,
       "id": "5664f2c050314840",
       "name": "A Whole New World",
       "secondary": "アラジン",
@@ -802,7 +736,7 @@
       "detailPath": "entities/songs/5664f2c050314840.json"
     },
     {
-      "rank": 925,
+      "rank": 923,
       "id": "b5a5760dbacfddb4",
       "name": "A・RA・SHI",
       "secondary": "嵐 (1999) フジテレビ「バレーボールワールドカップ1999」テーマソング",
@@ -835,7 +769,7 @@
       "detailPath": "entities/songs/b5a5760dbacfddb4.json"
     },
     {
-      "rank": 926,
+      "rank": 924,
       "id": "458913384a358ad0",
       "name": "Abe Mao",
       "secondary": "Anata no Koibito ni Naritai no Desu",
@@ -868,7 +802,7 @@
       "detailPath": "entities/songs/458913384a358ad0.json"
     },
     {
-      "rank": 927,
+      "rank": 925,
       "id": "6fdedefdf9f174b4",
       "name": "About me",
       "secondary": "蝶々P",
@@ -901,7 +835,7 @@
       "detailPath": "entities/songs/6fdedefdf9f174b4.json"
     },
     {
-      "rank": 928,
+      "rank": 926,
       "id": "b551e679870fc355",
       "name": "ADAMAS",
       "secondary": "LiSA",
@@ -934,7 +868,7 @@
       "detailPath": "entities/songs/b551e679870fc355.json"
     },
     {
-      "rank": 929,
+      "rank": 927,
       "id": "232d276cd20c6ed2",
       "name": "Ado",
       "secondary": "Value",
@@ -967,7 +901,7 @@
       "detailPath": "entities/songs/232d276cd20c6ed2.json"
     },
     {
-      "rank": 930,
+      "rank": 928,
       "id": "a6c9ab9a87b14595",
       "name": "Afterglow",
       "secondary": "今宵、××と夢を見る。",
@@ -1000,7 +934,7 @@
       "detailPath": "entities/songs/a6c9ab9a87b14595.json"
     },
     {
-      "rank": 931,
+      "rank": 929,
       "id": "8ec57e1f205cfebe",
       "name": "again",
       "secondary": "鋼の錬金術師 FULLMETAL ALCHEMIST",
@@ -1033,7 +967,7 @@
       "detailPath": "entities/songs/8ec57e1f205cfebe.json"
     },
     {
-      "rank": 932,
+      "rank": 930,
       "id": "f143b0cdc9eae81d",
       "name": "Agitato",
       "secondary": "初星学園",
@@ -1066,7 +1000,7 @@
       "detailPath": "entities/songs/f143b0cdc9eae81d.json"
     },
     {
-      "rank": 933,
+      "rank": 931,
       "id": "5db6cd0feaa7dd5d",
       "name": "Ahoy!!我ら宝鐘海賊団☆",
       "secondary": "宝鐘マリン",
@@ -1099,7 +1033,7 @@
       "detailPath": "entities/songs/5db6cd0feaa7dd5d.json"
     },
     {
-      "rank": 934,
+      "rank": 932,
       "id": "4bdae686676ab35d",
       "name": "aibo",
       "secondary": "玉置浩二",
@@ -1132,7 +1066,7 @@
       "detailPath": "entities/songs/4bdae686676ab35d.json"
     },
     {
-      "rank": 935,
+      "rank": 933,
       "id": "5c5409576b7c4ecf",
       "name": "aikoi",
       "secondary": "FictionJunction YUUKA",
@@ -1165,7 +1099,7 @@
       "detailPath": "entities/songs/5c5409576b7c4ecf.json"
     },
     {
-      "rank": 936,
+      "rank": 934,
       "id": "b1c45ac224929edf",
       "name": "AIZO",
       "secondary": "呪術廻戦",
@@ -1198,7 +1132,7 @@
       "detailPath": "entities/songs/b1c45ac224929edf.json"
     },
     {
-      "rank": 937,
+      "rank": 935,
       "id": "89363d01998ba8ab",
       "name": "ALI PROJECT様の楽曲を中心に",
       "secondary": "",
@@ -1231,7 +1165,7 @@
       "detailPath": "entities/songs/89363d01998ba8ab.json"
     },
     {
-      "rank": 938,
+      "rank": 936,
       "id": "3477e83618755276",
       "name": "Alice (English ver.)",
       "secondary": "古川本舗 feat. 初音ミク",
@@ -1264,7 +1198,7 @@
       "detailPath": "entities/songs/3477e83618755276.json"
     },
     {
-      "rank": 939,
+      "rank": 937,
       "id": "4d95586c4e8e65c2",
       "name": "Alice in 冷凍庫",
       "secondary": "Orangestar",
@@ -1297,7 +1231,7 @@
       "detailPath": "entities/songs/4d95586c4e8e65c2.json"
     },
     {
-      "rank": 940,
+      "rank": 938,
       "id": "57c2ffb33391f58a",
       "name": "ALIVE",
       "secondary": "ClariS",
@@ -1330,7 +1264,7 @@
       "detailPath": "entities/songs/57c2ffb33391f58a.json"
     },
     {
-      "rank": 941,
+      "rank": 939,
       "id": "9708b7adf7637bfb",
       "name": "Alive A life",
       "secondary": "松本梨香",
@@ -1363,7 +1297,7 @@
       "detailPath": "entities/songs/9708b7adf7637bfb.json"
     },
     {
-      "rank": 942,
+      "rank": 940,
       "id": "526924ffd2a7b561",
       "name": "All Alone With You",
       "secondary": "",
@@ -1396,7 +1330,7 @@
       "detailPath": "entities/songs/526924ffd2a7b561.json"
     },
     {
-      "rank": 943,
+      "rank": 941,
       "id": "75bc3b2789aafa0a",
       "name": "All My Loving",
       "secondary": "The Beatles",
@@ -1429,7 +1363,7 @@
       "detailPath": "entities/songs/75bc3b2789aafa0a.json"
     },
     {
-      "rank": 944,
+      "rank": 942,
       "id": "be016ad4aecc263a",
       "name": "All of Me",
       "secondary": "John Legend｜降key版",
@@ -1462,7 +1396,7 @@
       "detailPath": "entities/songs/be016ad4aecc263a.json"
     },
     {
-      "rank": 945,
+      "rank": 943,
       "id": "4d94416de7905701",
       "name": "ALONES",
       "secondary": "Aqua Timez",
@@ -1495,7 +1429,7 @@
       "detailPath": "entities/songs/4d94416de7905701.json"
     },
     {
-      "rank": 946,
+      "rank": 944,
       "id": "fad1c47b5408d4a9",
       "name": "ALWAYS BE WITH YOU XD",
       "secondary": "Tatsuya Kitani",
@@ -1528,7 +1462,7 @@
       "detailPath": "entities/songs/fad1c47b5408d4a9.json"
     },
     {
-      "rank": 947,
+      "rank": 945,
       "id": "3d65c59b64b86617",
       "name": "AM",
       "secondary": "フリーBGM OpenTracks（旧DOVA-SYNDROME）",
@@ -1561,7 +1495,7 @@
       "detailPath": "entities/songs/3d65c59b64b86617.json"
     },
     {
-      "rank": 948,
+      "rank": 946,
       "id": "b882006fc350da4c",
       "name": "AM」:https",
       "secondary": "commons.nicovideo.jp/material",
@@ -1594,7 +1528,7 @@
       "detailPath": "entities/songs/b882006fc350da4c.json"
     },
     {
-      "rank": 949,
+      "rank": 947,
       "id": "326fc39263555cc3",
       "name": "Ambivalent",
       "secondary": "Uru",
@@ -1627,7 +1561,7 @@
       "detailPath": "entities/songs/326fc39263555cc3.json"
     },
     {
-      "rank": 950,
+      "rank": 948,
       "id": "1e02fe70995aa34c",
       "name": "And I Love You So",
       "secondary": "AK-69",
@@ -1658,6 +1592,72 @@
         }
       ],
       "detailPath": "entities/songs/1e02fe70995aa34c.json"
+    },
+    {
+      "rank": 949,
+      "id": "80535cbe687e0796",
+      "name": "ANGEL VOICE",
+      "secondary": "Fire Bomber",
+      "channelId": "UCpIIJGtpQFkkcjzqxNgyeyg",
+      "channelHandle": "@keserasera68",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "BBC_THDf_b8",
+          "videoTitle": "【#定期歌枠】のんびり歌枠～！｜#けいた実験中 歌枠 KARAOKE",
+          "channelName": "keita ch / けいたの実験室",
+          "publishedAt": "2026-10-09T14:06:20.598Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BBC_THDf_b8/hqdefault.jpg",
+          "sourcePath": "sources/BB/BBC_THDf_b8.json",
+          "time": "0:40:40",
+          "seconds": 2440,
+          "songTitle": "ANGEL VOICE",
+          "artist": "Fire Bomber"
+        }
+      ],
+      "detailPath": "entities/songs/80535cbe687e0796.json"
+    },
+    {
+      "rank": 950,
+      "id": "10ff303efb66e6dc",
+      "name": "Angelic Angel",
+      "secondary": "μ's (2015)（ラブライブ！The School Idol Movie）",
+      "channelId": "UC0Qp3yYXP6yahSG28jEOKng",
+      "channelHandle": "@Momoruri_Seiran",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "HHua4WDa3qA",
+          "videoTitle": "〘 #歌枠 〙チケット販売最終日！ワンマンまであと2日！完売目標🐦初見さんも大歓迎💙 karaoke / singing stream〘 百瑠璃せいらん / #Vtuber 〙",
+          "channelName": "百瑠璃せいらん / MomoruriSeiran CH.",
+          "publishedAt": "2026-10-09T13:21:04.054Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HHua4WDa3qA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPp0RgJPKfWhu6RuRfUtRM98HPjg",
+          "sourcePath": "sources/HH/HHua4WDa3qA.json",
+          "time": "1:01:37",
+          "seconds": 3697,
+          "songTitle": "Angelic Angel",
+          "artist": "μ's (2015)（ラブライブ！The School Idol Movie）"
+        }
+      ],
+      "detailPath": "entities/songs/10ff303efb66e6dc.json"
     }
   ]
 }
