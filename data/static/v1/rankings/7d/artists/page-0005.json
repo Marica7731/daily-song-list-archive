@@ -1,73 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:33:56.333Z",
+  "generatedAt": "2026-10-12T14:42:19.594Z",
   "range": "7d",
   "type": "artists",
   "page": 5,
   "pageSize": 50,
-  "pageCount": 36,
-  "totalCount": 1754,
+  "pageCount": 35,
+  "totalCount": 1750,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 201,
-      "id": "c5c7dacfee3ad34c",
-      "name": "戸松遥",
-      "secondary": "",
-      "channelId": "UCik-SbMUoKOo5psno7ferZg",
-      "channelHandle": "@minagimimi",
-      "channelUrl": "",
-      "occurrenceCount": 5,
-      "videoCount": 5,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "YaMFjXgSPQU",
-          "videoTitle": "【#歌枠/karaoke】帰宅中に1曲聴いていきませんか？初見さんROM大歓迎♪ワンマンライブチケット発売中！【黒咲ルシア/#Vsinger】",
-          "channelName": "黒咲ルシア / LUCIA CHANNEL",
-          "publishedAt": "2026-10-09T11:46:31.230Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YaMFjXgSPQU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAx6Dchwxz3o7cOYxa0kuakC6ge2w",
-          "sourcePath": "sources/Ya/YaMFjXgSPQU.json",
-          "time": "0:34:54",
-          "seconds": 2094,
-          "songTitle": "courage",
-          "artist": "戸松遥"
-        },
-        {
-          "videoId": "6oGJVU5UG5Q",
-          "videoTitle": "【 #耐久歌枠┆#Karaoke 】高評価300耐久歌枠👍❤️‍🔥300 Likes Endurance Karaoke【 #なれたん┆#Vsinger 】",
-          "channelName": "なれたん Naraetan Ch.",
-          "publishedAt": "2026-10-08T13:48:27.829Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6oGJVU5UG5Q/hqdefault.jpg",
-          "sourcePath": "sources/6o/6oGJVU5UG5Q.json",
-          "time": "3:23:31",
-          "seconds": 12211,
-          "songTitle": "Q&A リサイタル！",
-          "artist": "戸松遥"
-        },
-        {
-          "videoId": "uUIqYFEmh6Y",
-          "videoTitle": "【 #歌枠 】突如始まるCH8.5万人耐久歌枠⚡ギャップの歌声見つけて⚡お知らせあり 歌雑 【 yayamugi 】 #karaoke #vtuber",
-          "channelName": "稍 麦 - yayamugi -",
-          "publishedAt": "2026-10-07T18:43:43.576Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/uUIqYFEmh6Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBt_2twaIBxLSTt49V1fJ_Qflrz4Q",
-          "sourcePath": "sources/uU/uUIqYFEmh6Y.json",
-          "time": "1:40:31",
-          "seconds": 6031,
-          "songTitle": "ユメセカイ",
-          "artist": "戸松遥"
-        }
-      ],
-      "detailPath": "entities/artists/c5c7dacfee3ad34c.json"
-    },
-    {
-      "rank": 202,
       "id": "e623c3392bcd5e3a",
       "name": "中森明菜",
       "secondary": "",
@@ -125,7 +68,7 @@
       "detailPath": "entities/artists/e623c3392bcd5e3a.json"
     },
     {
-      "rank": 203,
+      "rank": 202,
       "id": "fadccdb7831e18f8",
       "name": "土",
       "secondary": "",
@@ -183,7 +126,7 @@
       "detailPath": "entities/artists/fadccdb7831e18f8.json"
     },
     {
-      "rank": 204,
+      "rank": 203,
       "id": "f902a539e75e44fb",
       "name": "内緒のピアス",
       "secondary": "",
@@ -240,7 +183,7 @@
       "detailPath": "entities/artists/f902a539e75e44fb.json"
     },
     {
-      "rank": 205,
+      "rank": 204,
       "id": "b54032ce52e343e1",
       "name": "宝鐘マリン",
       "secondary": "",
@@ -297,7 +240,7 @@
       "detailPath": "entities/artists/b54032ce52e343e1.json"
     },
     {
-      "rank": 206,
+      "rank": 205,
       "id": "f622568cad23d2a5",
       "name": "牧野由依",
       "secondary": "",
@@ -354,7 +297,7 @@
       "detailPath": "entities/artists/f622568cad23d2a5.json"
     },
     {
-      "rank": 207,
+      "rank": 206,
       "id": "50e1c4d808afc86d",
       "name": "B'z",
       "secondary": "",
@@ -411,7 +354,7 @@
       "detailPath": "entities/artists/50e1c4d808afc86d.json"
     },
     {
-      "rank": 208,
+      "rank": 207,
       "id": "300d7554b6080185",
       "name": "BoA",
       "secondary": "",
@@ -468,7 +411,7 @@
       "detailPath": "entities/artists/300d7554b6080185.json"
     },
     {
-      "rank": 209,
+      "rank": 208,
       "id": "78396c05cbff65f0",
       "name": "Eill",
       "secondary": "",
@@ -525,7 +468,7 @@
       "detailPath": "entities/artists/78396c05cbff65f0.json"
     },
     {
-      "rank": 210,
+      "rank": 209,
       "id": "c7397a1de46ed8bc",
       "name": "miwa",
       "secondary": "",
@@ -582,7 +525,7 @@
       "detailPath": "entities/artists/c7397a1de46ed8bc.json"
     },
     {
-      "rank": 211,
+      "rank": 210,
       "id": "956962469f952a33",
       "name": "My Hair is Bad",
       "secondary": "",
@@ -639,7 +582,7 @@
       "detailPath": "entities/artists/956962469f952a33.json"
     },
     {
-      "rank": 212,
+      "rank": 211,
       "id": "f449c12473fb9333",
       "name": "Tommy heavenly6",
       "secondary": "",
@@ -696,7 +639,7 @@
       "detailPath": "entities/artists/f449c12473fb9333.json"
     },
     {
-      "rank": 213,
+      "rank": 212,
       "id": "ec49446afbddd17e",
       "name": "すりぃ feat.鏡音レン",
       "secondary": "",
@@ -753,7 +696,7 @@
       "detailPath": "entities/artists/ec49446afbddd17e.json"
     },
     {
-      "rank": 214,
+      "rank": 213,
       "id": "8768aeff5426e4ca",
       "name": "ランカ・リー=中島愛",
       "secondary": "",
@@ -810,7 +753,7 @@
       "detailPath": "entities/artists/8768aeff5426e4ca.json"
     },
     {
-      "rank": 215,
+      "rank": 214,
       "id": "96e27cf5c3e6b845",
       "name": "傘村トータ",
       "secondary": "",
@@ -868,7 +811,7 @@
       "detailPath": "entities/artists/96e27cf5c3e6b845.json"
     },
     {
-      "rank": 216,
+      "rank": 215,
       "id": "268042efa9e365cb",
       "name": "西野カナ",
       "secondary": "",
@@ -926,7 +869,7 @@
       "detailPath": "entities/artists/268042efa9e365cb.json"
     },
     {
-      "rank": 217,
+      "rank": 216,
       "id": "f7559d2f56824c30",
       "name": "田村ゆかり",
       "secondary": "",
@@ -983,7 +926,7 @@
       "detailPath": "entities/artists/f7559d2f56824c30.json"
     },
     {
-      "rank": 218,
+      "rank": 217,
       "id": "f6c1a0945f1bd96d",
       "name": "槇原敬之",
       "secondary": "",
@@ -1041,7 +984,7 @@
       "detailPath": "entities/artists/f6c1a0945f1bd96d.json"
     },
     {
-      "rank": 219,
+      "rank": 218,
       "id": "9a7bd5149d4db511",
       "name": "ELLEGARDEN",
       "secondary": "",
@@ -1098,7 +1041,7 @@
       "detailPath": "entities/artists/9a7bd5149d4db511.json"
     },
     {
-      "rank": 220,
+      "rank": 219,
       "id": "e3d6a225f78419e4",
       "name": "YUKI",
       "secondary": "",
@@ -1155,7 +1098,7 @@
       "detailPath": "entities/artists/e3d6a225f78419e4.json"
     },
     {
-      "rank": 221,
+      "rank": 220,
       "id": "56a711379cda736f",
       "name": "山口百恵",
       "secondary": "",
@@ -1212,7 +1155,7 @@
       "detailPath": "entities/artists/56a711379cda736f.json"
     },
     {
-      "rank": 222,
+      "rank": 221,
       "id": "ac8a3374b6dd169a",
       "name": "藤原さくら",
       "secondary": "",
@@ -1269,7 +1212,7 @@
       "detailPath": "entities/artists/ac8a3374b6dd169a.json"
     },
     {
-      "rank": 223,
+      "rank": 222,
       "id": "e89d9fe4e9d7b94a",
       "name": "柊キライ",
       "secondary": "",
@@ -1326,7 +1269,7 @@
       "detailPath": "entities/artists/e89d9fe4e9d7b94a.json"
     },
     {
-      "rank": 224,
+      "rank": 223,
       "id": "52166e9a560568cd",
       "name": "米倉千尋",
       "secondary": "",
@@ -1383,7 +1326,7 @@
       "detailPath": "entities/artists/52166e9a560568cd.json"
     },
     {
-      "rank": 225,
+      "rank": 224,
       "id": "835c775ee4767f1a",
       "name": "9Lana",
       "secondary": "",
@@ -1428,7 +1371,7 @@
       "detailPath": "entities/artists/835c775ee4767f1a.json"
     },
     {
-      "rank": 226,
+      "rank": 225,
       "id": "c90dd12c74e471e3",
       "name": "CUTIE STREET",
       "secondary": "",
@@ -1473,7 +1416,7 @@
       "detailPath": "entities/artists/c90dd12c74e471e3.json"
     },
     {
-      "rank": 227,
+      "rank": 226,
       "id": "3966fdee9f0bdabf",
       "name": "鬼滅の刃",
       "secondary": "",
@@ -1518,7 +1461,7 @@
       "detailPath": "entities/artists/3966fdee9f0bdabf.json"
     },
     {
-      "rank": 228,
+      "rank": 227,
       "id": "8c83854465dfe1a5",
       "name": "橋本みゆき",
       "secondary": "",
@@ -1551,7 +1494,7 @@
       "detailPath": "entities/artists/8c83854465dfe1a5.json"
     },
     {
-      "rank": 229,
+      "rank": 228,
       "id": "5cb6e716b84ecef2",
       "name": "≠ME",
       "secondary": "",
@@ -1608,7 +1551,7 @@
       "detailPath": "entities/artists/5cb6e716b84ecef2.json"
     },
     {
-      "rank": 230,
+      "rank": 229,
       "id": "82c3e8f81e0124f4",
       "name": "AliA",
       "secondary": "",
@@ -1665,7 +1608,7 @@
       "detailPath": "entities/artists/82c3e8f81e0124f4.json"
     },
     {
-      "rank": 231,
+      "rank": 230,
       "id": "512b123037c9be78",
       "name": "Buono!",
       "secondary": "",
@@ -1722,7 +1665,7 @@
       "detailPath": "entities/artists/512b123037c9be78.json"
     },
     {
-      "rank": 232,
+      "rank": 231,
       "id": "92fe599212c0c92a",
       "name": "DALI",
       "secondary": "",
@@ -1779,7 +1722,7 @@
       "detailPath": "entities/artists/92fe599212c0c92a.json"
     },
     {
-      "rank": 233,
+      "rank": 232,
       "id": "e54dc949dd96164b",
       "name": "DISH//",
       "secondary": "",
@@ -1837,7 +1780,7 @@
       "detailPath": "entities/artists/e54dc949dd96164b.json"
     },
     {
-      "rank": 234,
+      "rank": 233,
       "id": "a20756dbbf2a0aa5",
       "name": "doriko feat. 初音ミク",
       "secondary": "",
@@ -1894,7 +1837,7 @@
       "detailPath": "entities/artists/a20756dbbf2a0aa5.json"
     },
     {
-      "rank": 235,
+      "rank": 234,
       "id": "1aab0b61b6d6f340",
       "name": "fripSide",
       "secondary": "",
@@ -1951,7 +1894,7 @@
       "detailPath": "entities/artists/1aab0b61b6d6f340.json"
     },
     {
-      "rank": 236,
+      "rank": 235,
       "id": "8d63fa73a6d8c468",
       "name": "Girls Dead Monster",
       "secondary": "",
@@ -2008,7 +1951,7 @@
       "detailPath": "entities/artists/8d63fa73a6d8c468.json"
     },
     {
-      "rank": 237,
+      "rank": 236,
       "id": "afa5b252b8da5d8b",
       "name": "iLiFE!",
       "secondary": "",
@@ -2065,7 +2008,7 @@
       "detailPath": "entities/artists/afa5b252b8da5d8b.json"
     },
     {
-      "rank": 238,
+      "rank": 237,
       "id": "77c6ea56f252e897",
       "name": "May'n",
       "secondary": "",
@@ -2122,7 +2065,7 @@
       "detailPath": "entities/artists/77c6ea56f252e897.json"
     },
     {
-      "rank": 239,
+      "rank": 238,
       "id": "a693375e3aa315f7",
       "name": "MISIA",
       "secondary": "",
@@ -2179,7 +2122,7 @@
       "detailPath": "entities/artists/a693375e3aa315f7.json"
     },
     {
-      "rank": 240,
+      "rank": 239,
       "id": "de0a8e8a4de32c21",
       "name": "n-buna feat.初音ミク",
       "secondary": "",
@@ -2237,7 +2180,7 @@
       "detailPath": "entities/artists/de0a8e8a4de32c21.json"
     },
     {
-      "rank": 241,
+      "rank": 240,
       "id": "68ab6cab98707b51",
       "name": "PRINCESS PRINCESS",
       "secondary": "",
@@ -2294,7 +2237,7 @@
       "detailPath": "entities/artists/68ab6cab98707b51.json"
     },
     {
-      "rank": 242,
+      "rank": 241,
       "id": "98c169a2e5bf8225",
       "name": "ryo(supercell) feat. 初音ミク",
       "secondary": "",
@@ -2352,7 +2295,7 @@
       "detailPath": "entities/artists/98c169a2e5bf8225.json"
     },
     {
-      "rank": 243,
+      "rank": 242,
       "id": "498f377add4973cf",
       "name": "Saucy Dog",
       "secondary": "",
@@ -2410,7 +2353,7 @@
       "detailPath": "entities/artists/498f377add4973cf.json"
     },
     {
-      "rank": 244,
+      "rank": 243,
       "id": "2ef515f2ce03689a",
       "name": "Superfly",
       "secondary": "",
@@ -2467,7 +2410,7 @@
       "detailPath": "entities/artists/2ef515f2ce03689a.json"
     },
     {
-      "rank": 245,
+      "rank": 244,
       "id": "0a540f646d07b584",
       "name": "THE ORAL CIGARETTES",
       "secondary": "",
@@ -2524,7 +2467,7 @@
       "detailPath": "entities/artists/0a540f646d07b584.json"
     },
     {
-      "rank": 246,
+      "rank": 245,
       "id": "decdddc7ce47168d",
       "name": "TK from 凛として時雨",
       "secondary": "",
@@ -2581,7 +2524,7 @@
       "detailPath": "entities/artists/decdddc7ce47168d.json"
     },
     {
-      "rank": 247,
+      "rank": 246,
       "id": "95c757ecf02053c8",
       "name": "wowaka",
       "secondary": "",
@@ -2638,7 +2581,7 @@
       "detailPath": "entities/artists/95c757ecf02053c8.json"
     },
     {
-      "rank": 248,
+      "rank": 247,
       "id": "97607820155d50b0",
       "name": "シェリル・ノーム starring May'n",
       "secondary": "",
@@ -2695,7 +2638,7 @@
       "detailPath": "entities/artists/97607820155d50b0.json"
     },
     {
-      "rank": 249,
+      "rank": 248,
       "id": "224398f9704b6ede",
       "name": "ジミーサムP",
       "secondary": "",
@@ -2753,7 +2696,7 @@
       "detailPath": "entities/artists/224398f9704b6ede.json"
     },
     {
-      "rank": 250,
+      "rank": 249,
       "id": "4cbb0d53f150bded",
       "name": "すこっぷ",
       "secondary": "",
@@ -2808,6 +2751,63 @@
         }
       ],
       "detailPath": "entities/artists/4cbb0d53f150bded.json"
+    },
+    {
+      "rank": 250,
+      "id": "03cd35cad3f1e04a",
+      "name": "ぬゆり",
+      "secondary": "",
+      "channelId": "UCd6Wtb_F8H1O3AYKDziJFeg",
+      "channelHandle": "@nanahachi-kyu",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "kNxhOLH5zZ8",
+          "videoTitle": "【定期歌枠 第52回 / Karaoke】初見さん大歓迎！！リクエストだけ歌う歌枠！【#神凪アンナ/Re:AcT】",
+          "channelName": "神凪アンナ - Kannagi Anna -",
+          "publishedAt": "2026-10-10T04:59:07.725Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kNxhOLH5zZ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9UcaP5Ioy_Gr-qnkna_oLZdEozQ",
+          "sourcePath": "sources/kN/kNxhOLH5zZ8.json",
+          "time": "0:20:10",
+          "seconds": 1210,
+          "songTitle": "ロウワー",
+          "artist": "ぬゆり"
+        },
+        {
+          "videoId": "WWI9Bdgn-24",
+          "videoTitle": "【歌枠｜KARAOKE】久しぶりの縦型歌枠！！のんびり歌うよ～！【見習い天使系VTuber｜#星彩らいむ☆ 】#shorts",
+          "channelName": "星彩らいむ☆／SeisaiRaimu",
+          "publishedAt": "2026-10-07T16:24:25.854Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WWI9Bdgn-24/hqdefault.jpg",
+          "sourcePath": "sources/WW/WWI9Bdgn-24.json",
+          "time": "1:27:34",
+          "seconds": 5254,
+          "songTitle": "ロウワー",
+          "artist": "ぬゆり"
+        },
+        {
+          "videoId": "F6deKXIIW_k",
+          "videoTitle": "【#歌枠】ちょ～～っと豪華になった歌枠！【ナナハチキュウ】",
+          "channelName": "ナナハチキュウ / Nanahachi Ch.",
+          "publishedAt": "2026-10-06T15:04:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/F6deKXIIW_k/hqdefault.jpg",
+          "sourcePath": "sources/F6/F6deKXIIW_k.json",
+          "time": "1:51:12",
+          "seconds": 6672,
+          "songTitle": "フラジール",
+          "artist": "ぬゆり"
+        }
+      ],
+      "detailPath": "entities/artists/03cd35cad3f1e04a.json"
     }
   ]
 }

@@ -1,73 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:33:56.333Z",
+  "generatedAt": "2026-10-12T14:42:19.594Z",
   "range": "30d",
   "type": "vtubers",
   "page": 4,
   "pageSize": 50,
   "pageCount": 60,
-  "totalCount": 2969,
+  "totalCount": 2966,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 151,
-      "id": "c4922b25d90dfadb",
-      "name": "Muan ch.茨むあん",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 86,
-      "videoCount": 5,
-      "songCount": 81,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "cyk2Bp5yhDw",
-          "videoTitle": "【 #歌枠 】アニソン・JPOP中心に歌って参るー！初見歓迎！【 茨むあん︙Vsinger 】#vtuber #karaoke",
-          "channelName": "Muan ch.茨むあん",
-          "publishedAt": "2026-10-03T08:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cyk2Bp5yhDw/hqdefault.jpg",
-          "sourcePath": "sources/cy/cyk2Bp5yhDw.json",
-          "time": "0:14:12",
-          "seconds": 852,
-          "songTitle": "1925",
-          "artist": "冨田悠斗(とみー/T-POCKET)"
-        },
-        {
-          "videoId": "2-CS5qcuBUc",
-          "videoTitle": "【 #歌枠 】お久ぶり深夜🌙初見さんもどうぞ【 茨むあん︙Vsinger 】#vtuber #karaoke",
-          "channelName": "Muan ch.茨むあん",
-          "publishedAt": "2026-09-30T19:10:27.551Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2-CS5qcuBUc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuqa66tOB89k1tJnofT29wR-GZGQ",
-          "sourcePath": "sources/2-/2-CS5qcuBUc.json",
-          "time": "1:20:14",
-          "seconds": 4814,
-          "songTitle": "rain stops, good-byeよき",
-          "artist": ""
-        },
-        {
-          "videoId": "8gi7LfdXCG4",
-          "videoTitle": "【 #歌枠 】Vack-ON!!お疲れさまでした！歌いまそ【 茨むあん︙Vsinger 】#vtuber #karaoke",
-          "channelName": "Muan ch.茨むあん",
-          "publishedAt": "2026-09-25T17:21:45.724Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8gi7LfdXCG4/hqdefault.jpg",
-          "sourcePath": "sources/8g/8gi7LfdXCG4.json",
-          "time": "0:16:36",
-          "seconds": 996,
-          "songTitle": "ブラック★ロックシューター",
-          "artist": "supercell"
-        }
-      ],
-      "detailPath": "entities/vtubers/c4922b25d90dfadb.json"
-    },
-    {
-      "rank": 152,
       "id": "e797971724eb4b9f",
       "name": "音鍵めろ / Otokagi Mero",
       "secondary": "",
@@ -124,7 +67,7 @@
       "detailPath": "entities/vtubers/e797971724eb4b9f.json"
     },
     {
-      "rank": 153,
+      "rank": 152,
       "id": "ed894099a79844f6",
       "name": "石垣島からフォークソング【まー先生】",
       "secondary": "",
@@ -179,6 +122,63 @@
         }
       ],
       "detailPath": "entities/vtubers/ed894099a79844f6.json"
+    },
+    {
+      "rank": 153,
+      "id": "c30f46794c6c4a0c",
+      "name": "燈明寺かぐら - Tomyoji Kagura -",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 85,
+      "videoCount": 6,
+      "songCount": 83,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ahs_YVmyhBE",
+          "videoTitle": "【深夜歌枠】しゃべりと歌のギャップで風邪ひいちゃえ✨【Re:AcT / 燈明寺かぐら】#shorts",
+          "channelName": "燈明寺かぐら - Tomyoji Kagura -",
+          "publishedAt": "2026-10-03T17:22:42.614Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ahs_YVmyhBE/hqdefault.jpg",
+          "sourcePath": "sources/ah/ahs_YVmyhBE.json",
+          "time": "0:05:15",
+          "seconds": 315,
+          "songTitle": "きゅうくらりん",
+          "artist": "いよわ"
+        },
+        {
+          "videoId": "k42avv6zRz0",
+          "videoTitle": "【深夜歌枠】今宵も寝るまで一緒に🌙【Re:AcT / 燈明寺かぐら】",
+          "channelName": "燈明寺かぐら - Tomyoji Kagura -",
+          "publishedAt": "2026-09-29T16:40:05.685Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k42avv6zRz0/hqdefault.jpg",
+          "sourcePath": "sources/k4/k42avv6zRz0.json",
+          "time": "0:03:40",
+          "seconds": 220,
+          "songTitle": "世界は恋に落ちている",
+          "artist": "CHiCO with HoneyWorks"
+        },
+        {
+          "videoId": "-6dn_vpMqdM",
+          "videoTitle": "【深夜歌枠】明日のライブに向けて歌う🍶【Re:AcT / 燈明寺かぐら】",
+          "channelName": "燈明寺かぐら - Tomyoji Kagura -",
+          "publishedAt": "2026-09-26T16:48:54.683Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-6dn_vpMqdM/hqdefault.jpg",
+          "sourcePath": "sources/-6/-6dn_vpMqdM.json",
+          "time": "0:07:43",
+          "seconds": 463,
+          "songTitle": "モニタリング",
+          "artist": "DECO*27"
+        }
+      ],
+      "detailPath": "entities/vtubers/c30f46794c6c4a0c.json"
     },
     {
       "rank": 154,

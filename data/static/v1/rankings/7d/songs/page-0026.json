@@ -1,115 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:33:56.333Z",
+  "generatedAt": "2026-10-12T14:42:19.594Z",
   "range": "7d",
   "type": "songs",
   "page": 26,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3578,
+  "totalCount": 3572,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1251,
-      "id": "8fdee481a912b4f4",
-      "name": "into the world",
-      "secondary": "Kalafina",
-      "channelId": "UCqsS32C_llpT2ia5S1Oh44A",
-      "channelHandle": "@suzume_mikagura",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "VMbOY7mANNg",
-          "videoTitle": "【歌枠┊KARAOKE】あなたへ捧ぐ、黄昏のアニソン・J-POP🌇【Vsinger Vtuber┊御神楽すずめ】",
-          "channelName": "御神楽すずめ / Mikagura Suzume",
-          "publishedAt": "2026-10-07T11:26:30.246Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VMbOY7mANNg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8kjsC1MNP44iHmRxjNf_cH0fvvQ",
-          "sourcePath": "sources/VM/VMbOY7mANNg.json",
-          "time": "1:10:49",
-          "seconds": 4249,
-          "songTitle": "into the world",
-          "artist": "Kalafina"
-        }
-      ],
-      "detailPath": "entities/songs/8fdee481a912b4f4.json"
-    },
-    {
-      "rank": 1252,
-      "id": "225e8fb6dcb6e1c4",
-      "name": "Intrusion",
-      "secondary": "ZUTOMAYO",
-      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "channelHandle": "@Unit_B_Pre_Debut",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "shtv2FbPF-w",
-          "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
-          "channelName": "UNIT B (Pre-Debut) - mekPark",
-          "publishedAt": "2026-10-12T11:18:44.700Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
-          "sourcePath": "sources/sh/shtv2FbPF-w.json",
-          "time": "0:31:19",
-          "seconds": 1879,
-          "songTitle": "Intrusion",
-          "artist": "ZUTOMAYO"
-        }
-      ],
-      "detailPath": "entities/songs/225e8fb6dcb6e1c4.json"
-    },
-    {
-      "rank": 1253,
-      "id": "31710203cb073c25",
-      "name": "INVOKE インヴォーク",
-      "secondary": "",
-      "channelId": "UCMPyGnBgm6l0KiLoxPI8x3A",
-      "channelHandle": "@Batsuko825",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RNS4EMAokgc",
-          "videoTitle": "【50曲耐久🔥】歴代ガンダム神曲を歌い尽くす❕ガンダムオンリー歌枠🤖初見歓迎❕【バツ子│個人V│邂逅バツ子ﾁｬﾝ】",
-          "channelName": "合法‼︎バツ子ﾁｬﾝBatsuko",
-          "publishedAt": "2026-10-05T17:13:42.796Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RNS4EMAokgc/hqdefault.jpg",
-          "sourcePath": "sources/RN/RNS4EMAokgc.json",
-          "time": "3:14:46",
-          "seconds": 11686,
-          "songTitle": "INVOKE インヴォーク",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/31710203cb073c25.json"
-    },
-    {
-      "rank": 1254,
       "id": "53fff6fcff7bbc1d",
       "name": "INVOKE-インヴォーク",
       "secondary": "T.M.Revolution",
@@ -142,7 +43,7 @@
       "detailPath": "entities/songs/53fff6fcff7bbc1d.json"
     },
     {
-      "rank": 1255,
+      "rank": 1252,
       "id": "91ba49ae28cd1fa2",
       "name": "IRIS OUT",
       "secondary": "米須玄師",
@@ -175,7 +76,7 @@
       "detailPath": "entities/songs/91ba49ae28cd1fa2.json"
     },
     {
-      "rank": 1256,
+      "rank": 1253,
       "id": "c4c7d6fcd565d85d",
       "name": "JAM",
       "secondary": "",
@@ -208,7 +109,7 @@
       "detailPath": "entities/songs/c4c7d6fcd565d85d.json"
     },
     {
-      "rank": 1257,
+      "rank": 1254,
       "id": "477e6a1238b8bb50",
       "name": "JAM",
       "secondary": "THE YELLOW MONKEY",
@@ -241,7 +142,7 @@
       "detailPath": "entities/songs/477e6a1238b8bb50.json"
     },
     {
-      "rank": 1258,
+      "rank": 1255,
       "id": "cd4c0f7e2b5dd392",
       "name": "JANE DOE",
       "secondary": "宇多田ヒカルと米津玄師",
@@ -274,7 +175,7 @@
       "detailPath": "entities/songs/cd4c0f7e2b5dd392.json"
     },
     {
-      "rank": 1259,
+      "rank": 1256,
       "id": "fe1220c1b00aece7",
       "name": "JOINT",
       "secondary": "川田まみ",
@@ -307,7 +208,7 @@
       "detailPath": "entities/songs/fe1220c1b00aece7.json"
     },
     {
-      "rank": 1260,
+      "rank": 1257,
       "id": "dfd6b87a3c42e6dc",
       "name": "JOY",
       "secondary": "YUKI",
@@ -340,7 +241,7 @@
       "detailPath": "entities/songs/dfd6b87a3c42e6dc.json"
     },
     {
-      "rank": 1261,
+      "rank": 1258,
       "id": "db4a49e5fe0483bb",
       "name": "Joy!!",
       "secondary": "SMAP",
@@ -373,7 +274,7 @@
       "detailPath": "entities/songs/db4a49e5fe0483bb.json"
     },
     {
-      "rank": 1262,
+      "rank": 1259,
       "id": "884790d3e89a62f3",
       "name": "Joyeux Noel ～聖なる夜の贈りもの～",
       "secondary": "野川さくら",
@@ -406,7 +307,7 @@
       "detailPath": "entities/songs/884790d3e89a62f3.json"
     },
     {
-      "rank": 1263,
+      "rank": 1260,
       "id": "45bef800035981bb",
       "name": "Jupiter",
       "secondary": "平原綾香",
@@ -439,7 +340,7 @@
       "detailPath": "entities/songs/45bef800035981bb.json"
     },
     {
-      "rank": 1264,
+      "rank": 1261,
       "id": "319c5024168feaaf",
       "name": "Just Be Friends",
       "secondary": "Dixie",
@@ -472,7 +373,7 @@
       "detailPath": "entities/songs/319c5024168feaaf.json"
     },
     {
-      "rank": 1265,
+      "rank": 1262,
       "id": "f415641fdab98dae",
       "name": "JUST COMMUNICATION",
       "secondary": "新機動戦記ガンダムW",
@@ -505,7 +406,7 @@
       "detailPath": "entities/songs/f415641fdab98dae.json"
     },
     {
-      "rank": 1266,
+      "rank": 1263,
       "id": "41d1683e9c5c0077",
       "name": "Just Fly Away",
       "secondary": "米倉千尋",
@@ -538,7 +439,7 @@
       "detailPath": "entities/songs/41d1683e9c5c0077.json"
     },
     {
-      "rank": 1267,
+      "rank": 1264,
       "id": "04cd24c841a555f9",
       "name": "Justiφ's",
       "secondary": "ISSA",
@@ -571,7 +472,7 @@
       "detailPath": "entities/songs/04cd24c841a555f9.json"
     },
     {
-      "rank": 1268,
+      "rank": 1265,
       "id": "e1d20d73d3eef860",
       "name": "Jutenija",
       "secondary": "DATEKEN feat. 鏡音リン × 鏡音レン",
@@ -604,7 +505,7 @@
       "detailPath": "entities/songs/e1d20d73d3eef860.json"
     },
     {
-      "rank": 1269,
+      "rank": 1266,
       "id": "ccaba4dad0e378cd",
       "name": "K",
       "secondary": "BUMP_OF_CHICKEN [マネ]",
@@ -637,7 +538,7 @@
       "detailPath": "entities/songs/ccaba4dad0e378cd.json"
     },
     {
-      "rank": 1270,
+      "rank": 1267,
       "id": "321a6a6c34ad1c0d",
       "name": "Kataomoi",
       "secondary": "Aimer",
@@ -670,7 +571,7 @@
       "detailPath": "entities/songs/321a6a6c34ad1c0d.json"
     },
     {
-      "rank": 1271,
+      "rank": 1268,
       "id": "4ab1e893708d003b",
       "name": "Katy Perry",
       "secondary": "The One That Got Away",
@@ -703,7 +604,7 @@
       "detailPath": "entities/songs/4ab1e893708d003b.json"
     },
     {
-      "rank": 1272,
+      "rank": 1269,
       "id": "1c43abfb8dd3e72e",
       "name": "KICK BACK",
       "secondary": "KICK BACK 米津玄師 / Kenshi Yonezu",
@@ -736,7 +637,7 @@
       "detailPath": "entities/songs/1c43abfb8dd3e72e.json"
     },
     {
-      "rank": 1273,
+      "rank": 1270,
       "id": "dd812101c82eebff",
       "name": "KICK BACK",
       "secondary": "",
@@ -769,40 +670,7 @@
       "detailPath": "entities/songs/dd812101c82eebff.json"
     },
     {
-      "rank": 1274,
-      "id": "0bc35c3d51dbedc1",
-      "name": "KING",
-      "secondary": "Kanaria feat.GUMI English",
-      "channelId": "UCyrXW6-jatARn9C4pYbJEDg",
-      "channelHandle": "@Kakyo_Yosari",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iDGVdICW4xc",
-          "videoTitle": "【歌枠 / 縦型配信】酒飲みながら歌っても練習になる…よね？🎤スマホ視聴おすすめ！縦型歌枠🍺 #shorts【個人Vtuber / 初見さん大歓迎！】",
-          "channelName": "華鏡よさり・Kakyo Yosari CHANNEL",
-          "publishedAt": "2026-10-05T14:36:18.264Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iDGVdICW4xc/hqdefault.jpg",
-          "sourcePath": "sources/iD/iDGVdICW4xc.json",
-          "time": "0:43:44",
-          "seconds": 2624,
-          "songTitle": "KING",
-          "artist": "Kanaria feat.GUMI English"
-        }
-      ],
-      "detailPath": "entities/songs/0bc35c3d51dbedc1.json"
-    },
-    {
-      "rank": 1275,
+      "rank": 1271,
       "id": "faa00a3ae3e2701d",
       "name": "KIRA☆Power",
       "secondary": "わか,ふうり,すなお from STAR☆ANIS",
@@ -835,7 +703,7 @@
       "detailPath": "entities/songs/faa00a3ae3e2701d.json"
     },
     {
-      "rank": 1276,
+      "rank": 1272,
       "id": "dffcacd0176b78eb",
       "name": "Kiss me before I rise",
       "secondary": "chilldspot",
@@ -868,7 +736,7 @@
       "detailPath": "entities/songs/dffcacd0176b78eb.json"
     },
     {
-      "rank": 1277,
+      "rank": 1273,
       "id": "9d5cbae48951950a",
       "name": "KISS OF DEATH",
       "secondary": "ダーリン・イン・ザ・フランキス DARLING in the FRANXX",
@@ -901,7 +769,7 @@
       "detailPath": "entities/songs/9d5cbae48951950a.json"
     },
     {
-      "rank": 1278,
+      "rank": 1274,
       "id": "c346986922edce0b",
       "name": "KissHug",
       "secondary": "aiko",
@@ -934,7 +802,7 @@
       "detailPath": "entities/songs/c346986922edce0b.json"
     },
     {
-      "rank": 1279,
+      "rank": 1275,
       "id": "b3e0f18588a9addb",
       "name": "KOHAKU",
       "secondary": "下川みくに",
@@ -967,7 +835,7 @@
       "detailPath": "entities/songs/b3e0f18588a9addb.json"
     },
     {
-      "rank": 1280,
+      "rank": 1276,
       "id": "3925315e8bcc4599",
       "name": "KP🍻",
       "secondary": "歓談タイム",
@@ -1000,7 +868,7 @@
       "detailPath": "entities/songs/3925315e8bcc4599.json"
     },
     {
-      "rank": 1281,
+      "rank": 1277,
       "id": "6a9cad4578b812f9",
       "name": "L 間違えた！【",
       "secondary": "",
@@ -1033,7 +901,7 @@
       "detailPath": "entities/songs/6a9cad4578b812f9.json"
     },
     {
-      "rank": 1282,
+      "rank": 1278,
       "id": "18239b0fd8963c23",
       "name": "L-エル",
       "secondary": "",
@@ -1066,7 +934,7 @@
       "detailPath": "entities/songs/18239b0fd8963c23.json"
     },
     {
-      "rank": 1283,
+      "rank": 1279,
       "id": "83192039c6d9e957",
       "name": "L.Miranic",
       "secondary": "",
@@ -1099,7 +967,7 @@
       "detailPath": "entities/songs/83192039c6d9e957.json"
     },
     {
-      "rank": 1284,
+      "rank": 1280,
       "id": "a1ce9c34271540b2",
       "name": "La Fiesta",
       "secondary": "れれれP",
@@ -1132,7 +1000,7 @@
       "detailPath": "entities/songs/a1ce9c34271540b2.json"
     },
     {
-      "rank": 1285,
+      "rank": 1281,
       "id": "64689a0ac03c0b6a",
       "name": "LADY",
       "secondary": "米津玄師",
@@ -1165,7 +1033,7 @@
       "detailPath": "entities/songs/64689a0ac03c0b6a.json"
     },
     {
-      "rank": 1286,
+      "rank": 1282,
       "id": "dd323c307eecd6f0",
       "name": "Lamb",
       "secondary": "GARNiDELiA",
@@ -1198,7 +1066,7 @@
       "detailPath": "entities/songs/dd323c307eecd6f0.json"
     },
     {
-      "rank": 1287,
+      "rank": 1283,
       "id": "68df5949faf76cd6",
       "name": "Last Smile",
       "secondary": "LOVE PSYCHEDELICO",
@@ -1231,7 +1099,7 @@
       "detailPath": "entities/songs/68df5949faf76cd6.json"
     },
     {
-      "rank": 1288,
+      "rank": 1284,
       "id": "12fdd31ff40f30c6",
       "name": "late in autumn",
       "secondary": "fripSide",
@@ -1264,7 +1132,7 @@
       "detailPath": "entities/songs/12fdd31ff40f30c6.json"
     },
     {
-      "rank": 1289,
+      "rank": 1285,
       "id": "c283819e6cf7931c",
       "name": "Laugh away",
       "secondary": "YUI",
@@ -1297,7 +1165,7 @@
       "detailPath": "entities/songs/c283819e6cf7931c.json"
     },
     {
-      "rank": 1290,
+      "rank": 1286,
       "id": "64749db00c44d9f4",
       "name": "Lay Me Down",
       "secondary": "Sam Smith",
@@ -1330,7 +1198,7 @@
       "detailPath": "entities/songs/64749db00c44d9f4.json"
     },
     {
-      "rank": 1291,
+      "rank": 1287,
       "id": "edccef6859e9bb4c",
       "name": "Leaf ticket",
       "secondary": "KOTOKO",
@@ -1363,7 +1231,7 @@
       "detailPath": "entities/songs/edccef6859e9bb4c.json"
     },
     {
-      "rank": 1292,
+      "rank": 1288,
       "id": "7a15e84e2138c692",
       "name": "Leia",
       "secondary": "ゆよゆっぺ",
@@ -1396,7 +1264,7 @@
       "detailPath": "entities/songs/7a15e84e2138c692.json"
     },
     {
-      "rank": 1293,
+      "rank": 1289,
       "id": "5cc2d8b99f542a1b",
       "name": "LEO",
       "secondary": "tacica ※初出し",
@@ -1429,7 +1297,7 @@
       "detailPath": "entities/songs/5cc2d8b99f542a1b.json"
     },
     {
-      "rank": 1294,
+      "rank": 1290,
       "id": "5a921541d84e808c",
       "name": "Let Me Be With You",
       "secondary": "Round Table",
@@ -1462,7 +1330,7 @@
       "detailPath": "entities/songs/5a921541d84e808c.json"
     },
     {
-      "rank": 1295,
+      "rank": 1291,
       "id": "4de95be0e7d9bc5a",
       "name": "Let's GO!! ICHI-NO-NI!!",
       "secondary": "初星学園 1年2組",
@@ -1495,7 +1363,7 @@
       "detailPath": "entities/songs/4de95be0e7d9bc5a.json"
     },
     {
-      "rank": 1296,
+      "rank": 1292,
       "id": "f739f87ee015ef55",
       "name": "letter song",
       "secondary": "doriko feat. 初音ミク",
@@ -1528,7 +1396,7 @@
       "detailPath": "entities/songs/f739f87ee015ef55.json"
     },
     {
-      "rank": 1297,
+      "rank": 1293,
       "id": "d8865df163ff09d5",
       "name": "LEVEL5-Judgelight",
       "secondary": "fripSide",
@@ -1561,7 +1429,7 @@
       "detailPath": "entities/songs/d8865df163ff09d5.json"
     },
     {
-      "rank": 1298,
+      "rank": 1294,
       "id": "e86140ba5d4dd698",
       "name": "LIFE",
       "secondary": "YUI",
@@ -1594,7 +1462,7 @@
       "detailPath": "entities/songs/e86140ba5d4dd698.json"
     },
     {
-      "rank": 1299,
+      "rank": 1295,
       "id": "1700413952ab64ce",
       "name": "Life Goes On",
       "secondary": "有坂美香",
@@ -1627,7 +1495,7 @@
       "detailPath": "entities/songs/1700413952ab64ce.json"
     },
     {
-      "rank": 1300,
+      "rank": 1296,
       "id": "ad7af2fc2238501f",
       "name": "Life Goes On",
       "secondary": "",
@@ -1658,6 +1526,138 @@
         }
       ],
       "detailPath": "entities/songs/ad7af2fc2238501f.json"
+    },
+    {
+      "rank": 1297,
+      "id": "7027135bb38d6836",
+      "name": "Life Gose On",
+      "secondary": "有坂美香",
+      "channelId": "UChpkyQ3O21OnkcMcgCoNHCg",
+      "channelHandle": "@ebakyouka",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "jyYjoSsCi4Q",
+          "videoTitle": "꒰ঌ #歌枠┆初見さん大歓迎！機動戦士ガンダムSEEDシリーズ縛り歌枠【 #江波キョウカ / パレプロ 】",
+          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
+          "publishedAt": "2026-10-09T17:40:51.753Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jyYjoSsCi4Q/hqdefault.jpg",
+          "sourcePath": "sources/jy/jyYjoSsCi4Q.json",
+          "time": "0:36:29",
+          "seconds": 2189,
+          "songTitle": "Life Gose On",
+          "artist": "有坂美香"
+        }
+      ],
+      "detailPath": "entities/songs/7027135bb38d6836.json"
+    },
+    {
+      "rank": 1298,
+      "id": "136a9fb237b6f980",
+      "name": "life hack",
+      "secondary": "Vaundy",
+      "channelId": "UCeKkP16XdaalU0Xn6il_mhw",
+      "channelHandle": "@hajime_alc9",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6f8saMPTP7M",
+          "videoTitle": "【歌枠/Karaoke 】深夜のまったり歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
+          "channelName": "飲酒じめさん【hajime】",
+          "publishedAt": "2026-10-07T19:13:02.895Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6f8saMPTP7M/hqdefault.jpg",
+          "sourcePath": "sources/6f/6f8saMPTP7M.json",
+          "time": "0:04:39",
+          "seconds": 279,
+          "songTitle": "life hack",
+          "artist": "Vaundy"
+        }
+      ],
+      "detailPath": "entities/songs/136a9fb237b6f980.json"
+    },
+    {
+      "rank": 1299,
+      "id": "434c39eadc3c2a81",
+      "name": "Light My Fire",
+      "secondary": "KOTOKO",
+      "channelId": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "channelHandle": "@AZKi",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "OI5bHKtbQ1o",
+          "videoTitle": "【歌枠】歌うよおおおおお！新アプリ「hololive raku」で歌ってみる！Singing Stream【ホロライブ / AZKi】",
+          "channelName": "AZKi Channel",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OI5bHKtbQ1o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBZPJJoZQZnvi6sH9WpyZTVT2dHmw",
+          "sourcePath": "sources/OI/OI5bHKtbQ1o.json",
+          "time": "0:22:19",
+          "seconds": 1339,
+          "songTitle": "Light My Fire",
+          "artist": "KOTOKO"
+        }
+      ],
+      "detailPath": "entities/songs/434c39eadc3c2a81.json"
+    },
+    {
+      "rank": 1300,
+      "id": "59a820db420ec8db",
+      "name": "LilaS",
+      "secondary": "SawanoHiroyuki[nZk]:Honoka Takahashi",
+      "channelId": "UCRQa9FvT-ZlxQrN6B2HjIgQ",
+      "channelHandle": "@NoiR-NoWorld",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "UdHJrVCbKiY",
+          "videoTitle": "【 Vtuber 歌枠 】安らぐ夜のお供に／ピアノ弾き語り｜NoiR／NoWorld",
+          "channelName": "NoiR / NoWorld",
+          "publishedAt": "2026-10-09T15:33:03.391Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UdHJrVCbKiY/hqdefault.jpg",
+          "sourcePath": "sources/Ud/UdHJrVCbKiY.json",
+          "time": "0:48:55",
+          "seconds": 2935,
+          "songTitle": "LilaS",
+          "artist": "SawanoHiroyuki[nZk]:Honoka Takahashi"
+        }
+      ],
+      "detailPath": "entities/songs/59a820db420ec8db.json"
     }
   ]
 }

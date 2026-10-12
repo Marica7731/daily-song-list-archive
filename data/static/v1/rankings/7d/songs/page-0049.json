@@ -1,214 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:33:56.333Z",
+  "generatedAt": "2026-10-12T14:42:19.594Z",
   "range": "7d",
   "type": "songs",
   "page": 49,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3578,
+  "totalCount": 3572,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 2401,
-      "id": "99793d559975e147",
-      "name": "ベルベットの詩",
-      "secondary": "back number",
-      "channelId": "UCbMOtpiy2KDzglpfcmjJImQ",
-      "channelHandle": "@Hey_One_Channel",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7m5R1r8xx2c",
-          "videoTitle": "【#歌枠】いつも楽しい【@へいわん】初見さん歓迎☆",
-          "channelName": "へいわん",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7m5R1r8xx2c/hqdefault.jpg",
-          "sourcePath": "sources/7m/7m5R1r8xx2c.json",
-          "time": "0:43:18",
-          "seconds": 2598,
-          "songTitle": "ベルベットの詩",
-          "artist": "back number"
-        }
-      ],
-      "detailPath": "entities/songs/99793d559975e147.json"
-    },
-    {
-      "rank": 2402,
-      "id": "0c5bd62f5afa0e3c",
-      "name": "ほうき星",
-      "secondary": "ユンナ",
-      "channelId": "UCF0CGQ2oRB_W9dvrKusZJOA",
-      "channelHandle": "@%E3%81%95%E3%81%8D%E3%81%AE%E3%82%93_non",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "gIsmi-5cUt0",
-          "videoTitle": "【縦型歌枠】高評価50目指したい！初見さん◎アニソン・ボカロ歌います！【さきのん/VPL】カラオケJOYSOUND for STREAMER",
-          "channelName": "さきのん-Sakinon-",
-          "publishedAt": "2026-10-06T10:20:29.407Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gIsmi-5cUt0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPryjn4l3hZRJdwOgWu-Jcbo4niw",
-          "sourcePath": "sources/gI/gIsmi-5cUt0.json",
-          "time": "1:00:57",
-          "seconds": 3657,
-          "songTitle": "ほうき星",
-          "artist": "ユンナ"
-        }
-      ],
-      "detailPath": "entities/songs/0c5bd62f5afa0e3c.json"
-    },
-    {
-      "rank": 2403,
-      "id": "99123d1826fa3874",
-      "name": "ぼくはくま",
-      "secondary": "宇多田ヒカル",
-      "channelId": "UCay6Y3oEoiC6ZEE2G0UZu_A",
-      "channelHandle": "@kanaruhanon",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "X4ka0PABvb0",
-          "videoTitle": "【歌枠｜KARAOKE】ひさしぶりの個人配信だよ！！！会いに来て～～～！！！【#パレプロ #香鳴ハノン】",
-          "channelName": "Hanon Ch. 香鳴ハノン【パレプロ】",
-          "publishedAt": "2026-10-07T17:07:28.853Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/X4ka0PABvb0/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAR0yN6fAFxGD24xs-dtOBKbVjz8w",
-          "sourcePath": "sources/X4/X4ka0PABvb0.json",
-          "time": "3:03:06",
-          "seconds": 10986,
-          "songTitle": "ぼくはくま",
-          "artist": "宇多田ヒカル"
-        }
-      ],
-      "detailPath": "entities/songs/99123d1826fa3874.json"
-    },
-    {
-      "rank": 2404,
-      "id": "6baa571b591bbe6d",
-      "name": "ポケットを空にして",
-      "secondary": "坂本真綾",
-      "channelId": "UCup3O-MtmrgkzpAtNefub9A",
-      "channelHandle": "@RinneAdegawa",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "KpL18Odwlds",
-          "videoTitle": "【歌枠/Karaoke】🎤月曜定期歌枠🎧75枠目【阿出川リンネ/VTuber】",
-          "channelName": "阿出川リンネ",
-          "publishedAt": "2026-10-05T16:00:26.461Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KpL18Odwlds/hqdefault.jpg",
-          "sourcePath": "sources/Kp/KpL18Odwlds.json",
-          "time": "1:17:07",
-          "seconds": 4627,
-          "songTitle": "ポケットを空にして",
-          "artist": "坂本真綾"
-        }
-      ],
-      "detailPath": "entities/songs/6baa571b591bbe6d.json"
-    },
-    {
-      "rank": 2405,
-      "id": "71fdb5936af5dba1",
-      "name": "ホシアイ",
-      "secondary": "レフティーモンスターP",
-      "channelId": "UCNQRVwSH7vVkhunhRGe5W6w",
-      "channelHandle": "@Mone_Nynpro",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ncxWsUcL2yE",
-          "videoTitle": "【#弾き語り/노래뱅】夕暮れとアコギ❄君と私！【261006】",
-          "channelName": "氷晶もね",
-          "publishedAt": "2026-10-07T10:59:28.089Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ncxWsUcL2yE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcx3u9S3YAXZdRL_zMh0b3KhTVAg",
-          "sourcePath": "sources/nc/ncxWsUcL2yE.json",
-          "time": "0:13:52",
-          "seconds": 832,
-          "songTitle": "ホシアイ",
-          "artist": "レフティーモンスターP"
-        }
-      ],
-      "detailPath": "entities/songs/71fdb5936af5dba1.json"
-    },
-    {
-      "rank": 2406,
-      "id": "c96e862e7fc8fbf3",
-      "name": "ホシキラ",
-      "secondary": "ランカ・リー(Ranka Lee)/中島愛",
-      "channelId": "UC7A7bGRVdIwo93nqnA3x-OQ",
-      "channelHandle": "@MaisakiBerry",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "4nAZ-1G9_aY",
-          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
-          "channelName": "苺咲べりぃ / Maisaki Berry",
-          "publishedAt": "2026-10-09T15:54:50.012Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4nAZ-1G9_aY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCyOKmZcIUMRoCkttgW9NQ0SAXEA",
-          "sourcePath": "sources/4n/4nAZ-1G9_aY.json",
-          "time": "3:24:58",
-          "seconds": 12298,
-          "songTitle": "ホシキラ",
-          "artist": "ランカ・リー(Ranka Lee)/中島愛"
-        }
-      ],
-      "detailPath": "entities/songs/c96e862e7fc8fbf3.json"
-    },
-    {
-      "rank": 2407,
       "id": "4e97e2e363076333",
       "name": "ポスト春",
       "secondary": "ヨルシカ",
@@ -241,7 +43,7 @@
       "detailPath": "entities/songs/4e97e2e363076333.json"
     },
     {
-      "rank": 2408,
+      "rank": 2402,
       "id": "1c935bd79b04342d",
       "name": "ホタルノヒカリ",
       "secondary": "いきものがかり",
@@ -274,7 +76,7 @@
       "detailPath": "entities/songs/1c935bd79b04342d.json"
     },
     {
-      "rank": 2409,
+      "rank": 2403,
       "id": "f04c0b1cfa7d3458",
       "name": "ボッカデラベリタ",
       "secondary": "柊キライ",
@@ -307,7 +109,7 @@
       "detailPath": "entities/songs/f04c0b1cfa7d3458.json"
     },
     {
-      "rank": 2410,
+      "rank": 2404,
       "id": "94b16502134e7d1e",
       "name": "ポニーテールとシュシュ",
       "secondary": "AKB48",
@@ -340,7 +142,7 @@
       "detailPath": "entities/songs/94b16502134e7d1e.json"
     },
     {
-      "rank": 2411,
+      "rank": 2405,
       "id": "073db7bc5b848f70",
       "name": "ぼよよん行進曲",
       "secondary": "今井ゆうぞう・はいだしょうこ",
@@ -373,7 +175,7 @@
       "detailPath": "entities/songs/073db7bc5b848f70.json"
     },
     {
-      "rank": 2412,
+      "rank": 2406,
       "id": "64678189d85695f9",
       "name": "ポルカ・オ・ドルカ",
       "secondary": "ニャース(犬山イヌコ)＆ノルソル合唱団 ※初出し",
@@ -406,7 +208,7 @@
       "detailPath": "entities/songs/64678189d85695f9.json"
     },
     {
-      "rank": 2413,
+      "rank": 2407,
       "id": "e09d432fd7d78417",
       "name": "ポルカ・オ・ドルカ『おどるポケモンひみつ基地』",
       "secondary": "ニャース(犬山イヌコ)＆ノルソル合唱団",
@@ -439,7 +241,7 @@
       "detailPath": "entities/songs/e09d432fd7d78417.json"
     },
     {
-      "rank": 2414,
+      "rank": 2408,
       "id": "691151fd52518b82",
       "name": "ボルテッカー",
       "secondary": "DECO*27",
@@ -472,7 +274,7 @@
       "detailPath": "entities/songs/691151fd52518b82.json"
     },
     {
-      "rank": 2415,
+      "rank": 2409,
       "id": "e3a6d2752c21c4c0",
       "name": "ボルテッカー",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -505,7 +307,7 @@
       "detailPath": "entities/songs/e3a6d2752c21c4c0.json"
     },
     {
-      "rank": 2416,
+      "rank": 2410,
       "id": "08459d00ca1e7029",
       "name": "ホワイトビーチ",
       "secondary": "HY",
@@ -538,7 +340,7 @@
       "detailPath": "entities/songs/08459d00ca1e7029.json"
     },
     {
-      "rank": 2417,
+      "rank": 2411,
       "id": "e9bdc8e68a43f816",
       "name": "マイ フレンド",
       "secondary": "SLAM DUNK",
@@ -571,7 +373,7 @@
       "detailPath": "entities/songs/e9bdc8e68a43f816.json"
     },
     {
-      "rank": 2418,
+      "rank": 2412,
       "id": "f31c1493a149fc41",
       "name": "マイハートハードピンチ",
       "secondary": "相対性理論",
@@ -604,7 +406,7 @@
       "detailPath": "entities/songs/f31c1493a149fc41.json"
     },
     {
-      "rank": 2419,
+      "rank": 2413,
       "id": "3d4ec511b7251f17",
       "name": "マジックナンバー",
       "secondary": "坂本真綾",
@@ -637,7 +439,7 @@
       "detailPath": "entities/songs/3d4ec511b7251f17.json"
     },
     {
-      "rank": 2420,
+      "rank": 2414,
       "id": "b667172c0be22ce4",
       "name": "また君に恋してる",
       "secondary": "坂本冬美",
@@ -670,7 +472,7 @@
       "detailPath": "entities/songs/b667172c0be22ce4.json"
     },
     {
-      "rank": 2421,
+      "rank": 2415,
       "id": "d752a3965ac85609",
       "name": "まちがいさがし",
       "secondary": "菅田将暉",
@@ -703,7 +505,7 @@
       "detailPath": "entities/songs/d752a3965ac85609.json"
     },
     {
-      "rank": 2422,
+      "rank": 2416,
       "id": "50cc5703fa15ffdb",
       "name": "まちがいさがし",
       "secondary": "00:44:11",
@@ -736,7 +538,7 @@
       "detailPath": "entities/songs/50cc5703fa15ffdb.json"
     },
     {
-      "rank": 2423,
+      "rank": 2417,
       "id": "9375e60a38523dbf",
       "name": "まっがーれ↓スペクタクル/古泉一樹(cv:小野大輔)",
       "secondary": "初出し",
@@ -769,7 +571,7 @@
       "detailPath": "entities/songs/9375e60a38523dbf.json"
     },
     {
-      "rank": 2424,
+      "rank": 2418,
       "id": "5917a3881f19e4a2",
       "name": "マツケンサンバII",
       "secondary": "松平健",
@@ -802,7 +604,7 @@
       "detailPath": "entities/songs/5917a3881f19e4a2.json"
     },
     {
-      "rank": 2425,
+      "rank": 2419,
       "id": "4637829d76082e9e",
       "name": "までの受注販売で",
       "secondary": "",
@@ -835,7 +637,7 @@
       "detailPath": "entities/songs/4637829d76082e9e.json"
     },
     {
-      "rank": 2426,
+      "rank": 2420,
       "id": "89762a93fa40d034",
       "name": "マトリョーシカ",
       "secondary": "あいみょん",
@@ -868,7 +670,7 @@
       "detailPath": "entities/songs/89762a93fa40d034.json"
     },
     {
-      "rank": 2427,
+      "rank": 2421,
       "id": "3acac86a60f5220f",
       "name": "マメシバ",
       "secondary": "坂本真綾",
@@ -901,7 +703,7 @@
       "detailPath": "entities/songs/3acac86a60f5220f.json"
     },
     {
-      "rank": 2428,
+      "rank": 2422,
       "id": "712745927d9812ad",
       "name": "まもりたい ~White Wishes~",
       "secondary": "BoA",
@@ -934,7 +736,7 @@
       "detailPath": "entities/songs/712745927d9812ad.json"
     },
     {
-      "rank": 2429,
+      "rank": 2423,
       "id": "5b0dd1eefe413a2c",
       "name": "まるつけ",
       "secondary": "ギヴン",
@@ -967,7 +769,7 @@
       "detailPath": "entities/songs/5b0dd1eefe413a2c.json"
     },
     {
-      "rank": 2430,
+      "rank": 2424,
       "id": "df6dd0ed332cdbf8",
       "name": "ミ・アモーレ",
       "secondary": "中森明菜 / 95.202点",
@@ -1000,7 +802,7 @@
       "detailPath": "entities/songs/df6dd0ed332cdbf8.json"
     },
     {
-      "rank": 2431,
+      "rank": 2425,
       "id": "6c775765b8ac5535",
       "name": "みくみくにしてあげる♪【してやんよ】",
       "secondary": "ika feat. 初音ミク",
@@ -1033,7 +835,7 @@
       "detailPath": "entities/songs/6c775765b8ac5535.json"
     },
     {
-      "rank": 2432,
+      "rank": 2426,
       "id": "9c80eab1e9259cfd",
       "name": "みちずれ",
       "secondary": "星街すいせい",
@@ -1066,7 +868,7 @@
       "detailPath": "entities/songs/9c80eab1e9259cfd.json"
     },
     {
-      "rank": 2433,
+      "rank": 2427,
       "id": "9e2fcc697f104167",
       "name": "みちづれ",
       "secondary": "星街すいせい",
@@ -1099,7 +901,7 @@
       "detailPath": "entities/songs/9e2fcc697f104167.json"
     },
     {
-      "rank": 2434,
+      "rank": 2428,
       "id": "eb2bb2ee6d64044c",
       "name": "ミックスナッツ",
       "secondary": "Official髭男dism",
@@ -1132,7 +934,7 @@
       "detailPath": "entities/songs/eb2bb2ee6d64044c.json"
     },
     {
-      "rank": 2435,
+      "rank": 2429,
       "id": "1a07ade1dcc3acf8",
       "name": "ミッシングリンク",
       "secondary": "NOVELS",
@@ -1165,7 +967,7 @@
       "detailPath": "entities/songs/1a07ade1dcc3acf8.json"
     },
     {
-      "rank": 2436,
+      "rank": 2430,
       "id": "bb0fa7d463e4ba00",
       "name": "ミッドナイトに猫は笑う",
       "secondary": "ミスミ feat. 初音ミク",
@@ -1198,7 +1000,7 @@
       "detailPath": "entities/songs/bb0fa7d463e4ba00.json"
     },
     {
-      "rank": 2437,
+      "rank": 2431,
       "id": "da9bdad17187f23d",
       "name": "みむかゥわナイストライ",
       "secondary": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
@@ -1231,7 +1033,7 @@
       "detailPath": "entities/songs/da9bdad17187f23d.json"
     },
     {
-      "rank": 2438,
+      "rank": 2432,
       "id": "2f90f557da98cd86",
       "name": "ミラージュソング",
       "secondary": "米津玄師",
@@ -1264,7 +1066,7 @@
       "detailPath": "entities/songs/2f90f557da98cd86.json"
     },
     {
-      "rank": 2439,
+      "rank": 2433,
       "id": "e52ebdf97b430abb",
       "name": "ミラーチューン",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1297,7 +1099,7 @@
       "detailPath": "entities/songs/e52ebdf97b430abb.json"
     },
     {
-      "rank": 2440,
+      "rank": 2434,
       "id": "a9fab3d16911709b",
       "name": "ミライボウル",
       "secondary": "ももいろクローバー",
@@ -1330,7 +1132,7 @@
       "detailPath": "entities/songs/a9fab3d16911709b.json"
     },
     {
-      "rank": 2441,
+      "rank": 2435,
       "id": "b622eb833780fdcd",
       "name": "ミライボウル",
       "secondary": "ももいろクローバー(村野直球,前山田健一,大隅知宇)",
@@ -1363,7 +1165,7 @@
       "detailPath": "entities/songs/b622eb833780fdcd.json"
     },
     {
-      "rank": 2442,
+      "rank": 2436,
       "id": "fddc93c989916fa3",
       "name": "みんな空の下\t絢香",
       "secondary": "",
@@ -1396,7 +1198,7 @@
       "detailPath": "entities/songs/fddc93c989916fa3.json"
     },
     {
-      "rank": 2443,
+      "rank": 2437,
       "id": "7738db5908a00a5b",
       "name": "むすんでひらいて",
       "secondary": "童謡",
@@ -1429,7 +1231,7 @@
       "detailPath": "entities/songs/7738db5908a00a5b.json"
     },
     {
-      "rank": 2444,
+      "rank": 2438,
       "id": "7778064bf42b9584",
       "name": "むんもっしゅさん",
       "secondary": "",
@@ -1462,7 +1264,7 @@
       "detailPath": "entities/songs/7778064bf42b9584.json"
     },
     {
-      "rank": 2445,
+      "rank": 2439,
       "id": "6855e051e8b617dc",
       "name": "㋰責任集合体",
       "secondary": "マサラダ",
@@ -1495,7 +1297,7 @@
       "detailPath": "entities/songs/6855e051e8b617dc.json"
     },
     {
-      "rank": 2446,
+      "rank": 2440,
       "id": "12dc3b950676203d",
       "name": "メイジ・オブ・ヴァイオレット",
       "secondary": "紫咲シオン",
@@ -1528,7 +1330,7 @@
       "detailPath": "entities/songs/12dc3b950676203d.json"
     },
     {
-      "rank": 2447,
+      "rank": 2441,
       "id": "aa284c1820d9ff6a",
       "name": "メーベル",
       "secondary": "バルーン",
@@ -1561,7 +1363,7 @@
       "detailPath": "entities/songs/aa284c1820d9ff6a.json"
     },
     {
-      "rank": 2448,
+      "rank": 2442,
       "id": "827a344e706ad592",
       "name": "メーベル",
       "secondary": "須田景凪",
@@ -1594,7 +1396,7 @@
       "detailPath": "entities/songs/827a344e706ad592.json"
     },
     {
-      "rank": 2449,
+      "rank": 2443,
       "id": "82ae9f0384919c16",
       "name": "メグメグ☆ファイヤーエンドレスナイト",
       "secondary": "samfree feat.GUMI",
@@ -1627,7 +1429,7 @@
       "detailPath": "entities/songs/82ae9f0384919c16.json"
     },
     {
-      "rank": 2450,
+      "rank": 2444,
       "id": "a345af4b664d821d",
       "name": "めぐりあい",
       "secondary": "機動戦士ガンダムIII めぐりあい宇宙編",
@@ -1658,6 +1460,204 @@
         }
       ],
       "detailPath": "entities/songs/a345af4b664d821d.json"
+    },
+    {
+      "rank": 2445,
+      "id": "2950bc314f82460f",
+      "name": "めざせポケモンマスター",
+      "secondary": "松本梨香 / JS",
+      "channelId": "UCXyAitTabBsoRclTn_Gq-eA",
+      "channelHandle": "@xxhacucoxx_Celestial",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-5DKoWAaf58",
+          "videoTitle": "✞ 歌枠だよ ꙳ ✞ 頭暈輕鬆唱唱 ̖́- 已讀亂回請見諒 🥺🥺🥺*. ┊ Square Live 白白虹",
+          "channelName": "xxhacucoxx ch. 白白虹",
+          "publishedAt": "2026-10-11T18:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-5DKoWAaf58/hqdefault.jpg",
+          "sourcePath": "sources/-5/-5DKoWAaf58.json",
+          "time": "0:07:35",
+          "seconds": 455,
+          "songTitle": "めざせポケモンマスター",
+          "artist": "松本梨香 / JS"
+        }
+      ],
+      "detailPath": "entities/songs/2950bc314f82460f.json"
+    },
+    {
+      "rank": 2446,
+      "id": "9250d5f720356136",
+      "name": "メズマライザー",
+      "secondary": "",
+      "channelId": "UC5msrVspI0GkM4QP8veXXPQ",
+      "channelHandle": "@%E3%81%8A%E5%B8%83%E5%9B%A3%E3%81%AB%E3%81%83",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "KM7Q-3E7uSA",
+          "videoTitle": "【歌枠】抜歯後のリハビリ！ゆるっと短時間だけ歌うよ【ROMも歓迎】",
+          "channelName": "お布団にぃ /ofuton ni",
+          "publishedAt": "2026-10-08T03:18:59.930Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KM7Q-3E7uSA/hqdefault.jpg",
+          "sourcePath": "sources/KM/KM7Q-3E7uSA.json",
+          "time": "1:45:16",
+          "seconds": 6316,
+          "songTitle": "メズマライザー",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/9250d5f720356136.json"
+    },
+    {
+      "rank": 2447,
+      "id": "7d249dedc4155af6",
+      "name": "めだかの学校",
+      "secondary": "童謡",
+      "channelId": "UCQYp-Z6dHRdi9c9Cos3XEMw",
+      "channelHandle": "@%E5%A4%A9%E3%83%8E%E7%BE%BD%E3%81%86%E3%82%86_Amanou_uyu",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "kf5dww87ouA",
+          "videoTitle": "【 #歌枠 / KARAOKE 】リベンジ！同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
+          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
+          "publishedAt": "2026-10-12T02:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kf5dww87ouA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3EvtAI3lYUDHH4BYnF4HRZnwRlg",
+          "sourcePath": "sources/kf/kf5dww87ouA.json",
+          "time": "1:17:20",
+          "seconds": 4640,
+          "songTitle": "めだかの学校",
+          "artist": "童謡"
+        }
+      ],
+      "detailPath": "entities/songs/7d249dedc4155af6.json"
+    },
+    {
+      "rank": 2448,
+      "id": "3c6a6f1667066a8a",
+      "name": "メトロノーム",
+      "secondary": "米津玄師",
+      "channelId": "UCnYrx-hDfnlBVuO8D8L2ByQ",
+      "channelHandle": "@SHUNA_MGS",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "449k5EfZPDY",
+          "videoTitle": "【 #歌枠 】しっとり歌枠✨ #shorts #作業用bgm #karaoke【 #無原唱レコード / #朱名 】",
+          "channelName": "朱名 / SHUNA",
+          "publishedAt": "2026-10-06T10:20:29.407Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/449k5EfZPDY/hqdefault.jpg",
+          "sourcePath": "sources/44/449k5EfZPDY.json",
+          "time": "0:20:03",
+          "seconds": 1203,
+          "songTitle": "メトロノーム",
+          "artist": "米津玄師"
+        }
+      ],
+      "detailPath": "entities/songs/3c6a6f1667066a8a.json"
+    },
+    {
+      "rank": 2449,
+      "id": "ccd1bbe8f215a3cc",
+      "name": "メメント",
+      "secondary": "tayori",
+      "channelId": "UCTbEua7o1f8I7EMBQlLjTpQ",
+      "channelHandle": "@Shino_Kasukane",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "g00-7BwFd48",
+          "videoTitle": "【 深夜定期】 #弾き語り 秋の夜長にギターを【幽音しの:ななしいんく】 #shorts #vsinger #歌枠 singing stream",
+          "channelName": "幽音しの Shino Channel - ななしいんく",
+          "publishedAt": "2026-10-08T14:40:09.899Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/g00-7BwFd48/hqdefault.jpg",
+          "sourcePath": "sources/g0/g00-7BwFd48.json",
+          "time": "0:53:58",
+          "seconds": 3238,
+          "songTitle": "メメント",
+          "artist": "tayori"
+        }
+      ],
+      "detailPath": "entities/songs/ccd1bbe8f215a3cc.json"
+    },
+    {
+      "rank": 2450,
+      "id": "74c94374fcb40eb3",
+      "name": "メランコリーキッチン",
+      "secondary": "米津玄師 [マネ]",
+      "channelId": "UCE1AqaEGi6HqCQebHTG_uSQ",
+      "channelHandle": "@Shikisou_Kana",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "5i0hulUn_Ic",
+          "videoTitle": "【歌枠】酔っ払いによるカラオケ二次会 第二弾🎤今日も今日とて好きなお歌を歌うよ～～～🐺🐏【#色想かな / #新人VTuber】",
+          "channelName": "色想かな / Shikisou Kana",
+          "publishedAt": "2026-10-11T19:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5i0hulUn_Ic/hqdefault.jpg",
+          "sourcePath": "sources/5i/5i0hulUn_Ic.json",
+          "time": "0:38:57",
+          "seconds": 2337,
+          "songTitle": "メランコリーキッチン",
+          "artist": "米津玄師 [マネ]"
+        }
+      ],
+      "detailPath": "entities/songs/74c94374fcb40eb3.json"
     }
   ]
 }
