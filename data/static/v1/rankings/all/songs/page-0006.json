@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "all",
   "type": "songs",
   "page": 6,
   "pageSize": 50,
   "pageCount": 1056,
-  "totalCount": 52771,
+  "totalCount": 52789,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1564,6 +1564,67 @@
     },
     {
       "rank": 277,
+      "id": "eddec2dd6b038072",
+      "name": "ただ声一つ",
+      "secondary": "ロクデナシ",
+      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
+      "channelHandle": "@Shichi_Mixstgirls",
+      "channelUrl": "",
+      "occurrenceCount": 85,
+      "videoCount": 84,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "A8uWIrjjK6w",
+          "videoTitle": "【耐久歌枠】初見さん◎ CH登録10101名様目指して歌います！【九九｜#イチジクキュー 】",
+          "channelName": "九九 / ichijiku Q",
+          "publishedAt": "2026-10-09T18:24:54.011Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/A8uWIrjjK6w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzP1rmpqVgYXrD_m7S0XDekU5ErQ",
+          "sourcePath": "sources/A8/A8uWIrjjK6w.json",
+          "time": "3:38:31",
+          "seconds": 13111,
+          "songTitle": "ただ声一つ",
+          "artist": "ロクデナシ"
+        },
+        {
+          "videoId": "FDUuo8HcoeA",
+          "videoTitle": "【10000人耐久歌枠】ついに夢の1万人へ…！？ 歴史的瞬間を刮目せよ！【九九｜Ichijiku Q】",
+          "channelName": "九九 / ichijiku Q",
+          "publishedAt": "2026-10-05T18:10:33.875Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/FDUuo8HcoeA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX8hcTHIipgZU9EAdnXdwA5W4vdw",
+          "sourcePath": "sources/FD/FDUuo8HcoeA.json",
+          "time": "1:39:13",
+          "seconds": 5953,
+          "songTitle": "ただ声一つ",
+          "artist": "ロクデナシ"
+        },
+        {
+          "videoId": "30tgQUdPxL8",
+          "videoTitle": "ラスラン歌枠🎤 #shorts #歌枠",
+          "channelName": "ヴァンパイアップル",
+          "publishedAt": "2026-10-05T15:28:25.696Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/30tgQUdPxL8/hqdefault.jpg",
+          "sourcePath": "sources/30/30tgQUdPxL8.json",
+          "time": "0:09:22",
+          "seconds": 562,
+          "songTitle": "ただ声一つ",
+          "artist": "ロクデナシ"
+        }
+      ],
+      "detailPath": "entities/songs/eddec2dd6b038072.json"
+    },
+    {
+      "rank": 278,
       "id": "e555771be41cd87f",
       "name": "瞬き",
       "secondary": "back number",
@@ -1624,7 +1685,7 @@
       "detailPath": "entities/songs/e555771be41cd87f.json"
     },
     {
-      "rank": 278,
+      "rank": 279,
       "id": "704b6b0a32841f2a",
       "name": "さよーならまたいつか!",
       "secondary": "米津玄師",
@@ -1685,7 +1746,7 @@
       "detailPath": "entities/songs/704b6b0a32841f2a.json"
     },
     {
-      "rank": 279,
+      "rank": 280,
       "id": "1beaee386b504fff",
       "name": "いつも何度でも",
       "secondary": "木村弓",
@@ -1746,7 +1807,7 @@
       "detailPath": "entities/songs/1beaee386b504fff.json"
     },
     {
-      "rank": 280,
+      "rank": 281,
       "id": "0cbe40760f66969b",
       "name": "ヴァンパイア",
       "secondary": "DECO*27",
@@ -1809,7 +1870,7 @@
       "detailPath": "entities/songs/0cbe40760f66969b.json"
     },
     {
-      "rank": 281,
+      "rank": 282,
       "id": "312873b3c675cd43",
       "name": "弱虫モンブラン",
       "secondary": "DECO*27",
@@ -1870,7 +1931,7 @@
       "detailPath": "entities/songs/312873b3c675cd43.json"
     },
     {
-      "rank": 282,
+      "rank": 283,
       "id": "f88e1c1c436b2d97",
       "name": "小夜子",
       "secondary": "みきとP",
@@ -1928,67 +1989,6 @@
         }
       ],
       "detailPath": "entities/songs/f88e1c1c436b2d97.json"
-    },
-    {
-      "rank": 283,
-      "id": "eddec2dd6b038072",
-      "name": "ただ声一つ",
-      "secondary": "ロクデナシ",
-      "channelId": "UCAoKkBp0Qj0xW0NEOp7G4hw",
-      "channelHandle": "@Shichi_Mixstgirls",
-      "channelUrl": "",
-      "occurrenceCount": 84,
-      "videoCount": 83,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "A8uWIrjjK6w",
-          "videoTitle": "【耐久歌枠】初見さん◎ CH登録10101名様目指して歌います！【九九｜#イチジクキュー 】",
-          "channelName": "九九 / ichijiku Q",
-          "publishedAt": "2026-10-09T18:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/A8uWIrjjK6w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzP1rmpqVgYXrD_m7S0XDekU5ErQ",
-          "sourcePath": "sources/A8/A8uWIrjjK6w.json",
-          "time": "3:38:31",
-          "seconds": 13111,
-          "songTitle": "ただ声一つ",
-          "artist": "ロクデナシ"
-        },
-        {
-          "videoId": "FDUuo8HcoeA",
-          "videoTitle": "【10000人耐久歌枠】ついに夢の1万人へ…！？ 歴史的瞬間を刮目せよ！【九九｜Ichijiku Q】",
-          "channelName": "九九 / ichijiku Q",
-          "publishedAt": "2026-10-05T18:10:33.875Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FDUuo8HcoeA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX8hcTHIipgZU9EAdnXdwA5W4vdw",
-          "sourcePath": "sources/FD/FDUuo8HcoeA.json",
-          "time": "1:39:13",
-          "seconds": 5953,
-          "songTitle": "ただ声一つ",
-          "artist": "ロクデナシ"
-        },
-        {
-          "videoId": "30tgQUdPxL8",
-          "videoTitle": "ラスラン歌枠🎤 #shorts #歌枠",
-          "channelName": "ヴァンパイアップル",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/30tgQUdPxL8/hqdefault.jpg",
-          "sourcePath": "sources/30/30tgQUdPxL8.json",
-          "time": "0:09:22",
-          "seconds": 562,
-          "songTitle": "ただ声一つ",
-          "artist": "ロクデナシ"
-        }
-      ],
-      "detailPath": "entities/songs/eddec2dd6b038072.json"
     },
     {
       "rank": 284,
@@ -2479,6 +2479,67 @@
     },
     {
       "rank": 292,
+      "id": "4aef2c43feb46b99",
+      "name": "DAN DAN 心魅かれてく",
+      "secondary": "FIELD OF VIEW",
+      "channelId": "UCGLrsPlc2DpavAxmj1QV1tw",
+      "channelHandle": "@hibanamomose",
+      "channelUrl": "",
+      "occurrenceCount": 81,
+      "videoCount": 81,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ktBtS2-VQps",
+          "videoTitle": "10/9 10:00~13:00【 歌枠 】ドラゴンボールメインで歌い魔ス！！！【 レヴィ・アタン 】 #shorts #vtuber",
+          "channelName": "レヴィ・アタン",
+          "publishedAt": "2026-10-09T04:34:41.257Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ktBtS2-VQps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NZ0zf5_lwAzwWa7ZvKirDxnzjQ",
+          "sourcePath": "sources/kt/ktBtS2-VQps.json",
+          "time": "0:29:53",
+          "seconds": 1793,
+          "songTitle": "DANDAN心魅かれてく",
+          "artist": "FIELD OF VIEW"
+        },
+        {
+          "videoId": "Ic1TwREodgQ",
+          "videoTitle": "【木曜定期歌枠￤高評価50目標】秋の夜長にメロい男はいかがですか？【 #白噛ましゅー 】",
+          "channelName": "白噛ましゅー(村長)",
+          "publishedAt": "2026-10-08T18:00:42.718Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Ic1TwREodgQ/hqdefault.jpg",
+          "sourcePath": "sources/Ic/Ic1TwREodgQ.json",
+          "time": "2:40:50",
+          "seconds": 9650,
+          "songTitle": "DAN DAN心魅かれてく",
+          "artist": "FIELD OF VIEW"
+        },
+        {
+          "videoId": "y3RmA7YkSYQ",
+          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
+          "channelName": "時羽あいの",
+          "publishedAt": "2026-10-06T19:13:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
+          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
+          "time": "0:37:32",
+          "seconds": 2252,
+          "songTitle": "DAN DAN 心魅かれてく",
+          "artist": "FIELD OF VIEW"
+        }
+      ],
+      "detailPath": "entities/songs/4aef2c43feb46b99.json"
+    },
+    {
+      "rank": 293,
       "id": "1db1a487048bfa27",
       "name": "モエチャッカファイア",
       "secondary": "弌誠",
@@ -2539,7 +2600,7 @@
       "detailPath": "entities/songs/1db1a487048bfa27.json"
     },
     {
-      "rank": 293,
+      "rank": 294,
       "id": "4d2cdc4ab30fc065",
       "name": "光るなら",
       "secondary": "Goose house",
@@ -2599,7 +2660,7 @@
       "detailPath": "entities/songs/4d2cdc4ab30fc065.json"
     },
     {
-      "rank": 294,
+      "rank": 295,
       "id": "0c7bc7a9e739a8a4",
       "name": "僕が死のうと思ったのは",
       "secondary": "中島美嘉",
@@ -2660,7 +2721,7 @@
       "detailPath": "entities/songs/0c7bc7a9e739a8a4.json"
     },
     {
-      "rank": 295,
+      "rank": 296,
       "id": "87f05b7f943fcc97",
       "name": "トウキョウ・シャンディ・ランデヴ",
       "secondary": "MAISONdes",
@@ -2721,7 +2782,7 @@
       "detailPath": "entities/songs/87f05b7f943fcc97.json"
     },
     {
-      "rank": 296,
+      "rank": 297,
       "id": "2b5680ed5f596039",
       "name": "ファンサ",
       "secondary": "CV:夏川椎菜",
@@ -2778,67 +2839,6 @@
         }
       ],
       "detailPath": "entities/songs/2b5680ed5f596039.json"
-    },
-    {
-      "rank": 297,
-      "id": "4aef2c43feb46b99",
-      "name": "DAN DAN 心魅かれてく",
-      "secondary": "FIELD OF VIEW",
-      "channelId": "UCGLrsPlc2DpavAxmj1QV1tw",
-      "channelHandle": "@hibanamomose",
-      "channelUrl": "",
-      "occurrenceCount": 80,
-      "videoCount": 80,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ktBtS2-VQps",
-          "videoTitle": "10/9 10:00~13:00【 歌枠 】ドラゴンボールメインで歌い魔ス！！！【 レヴィ・アタン 】 #shorts #vtuber",
-          "channelName": "レヴィ・アタン",
-          "publishedAt": "2026-10-09T04:34:41.257Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ktBtS2-VQps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NZ0zf5_lwAzwWa7ZvKirDxnzjQ",
-          "sourcePath": "sources/kt/ktBtS2-VQps.json",
-          "time": "0:29:53",
-          "seconds": 1793,
-          "songTitle": "DANDAN心魅かれてく",
-          "artist": "FIELD OF VIEW"
-        },
-        {
-          "videoId": "Ic1TwREodgQ",
-          "videoTitle": "【木曜定期歌枠￤高評価50目標】秋の夜長にメロい男はいかがですか？【 #白噛ましゅー 】",
-          "channelName": "白噛ましゅー(村長)",
-          "publishedAt": "2026-10-08T18:00:42.718Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Ic1TwREodgQ/hqdefault.jpg",
-          "sourcePath": "sources/Ic/Ic1TwREodgQ.json",
-          "time": "2:40:50",
-          "seconds": 9650,
-          "songTitle": "DAN DAN心魅かれてく",
-          "artist": "FIELD OF VIEW"
-        },
-        {
-          "videoId": "y3RmA7YkSYQ",
-          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
-          "channelName": "時羽あいの",
-          "publishedAt": "2026-10-06T19:13:46.568Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
-          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
-          "time": "0:37:32",
-          "seconds": 2252,
-          "songTitle": "DAN DAN 心魅かれてく",
-          "artist": "FIELD OF VIEW"
-        }
-      ],
-      "detailPath": "entities/songs/4aef2c43feb46b99.json"
     },
     {
       "rank": 298,

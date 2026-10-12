@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "all",
   "type": "artists",
   "page": 26,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19988,
+  "totalCount": 19991,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1685,6 +1685,64 @@
     },
     {
       "rank": 1279,
+      "id": "d82ee99827c950a2",
+      "name": "フル",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 14,
+      "videoCount": 6,
+      "songCount": 14,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qdWHYN7KPH4",
+          "videoTitle": "弾き語り配信｜初見さん大歓迎！",
+          "channelName": "まにこ (manico)",
+          "publishedAt": "2026-10-04T13:31:27.298Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qdWHYN7KPH4/hqdefault.jpg",
+          "sourcePath": "sources/qd/qdWHYN7KPH4.json",
+          "time": "0:01:33",
+          "seconds": 93,
+          "songTitle": "水平線",
+          "artist": "フル"
+        },
+        {
+          "videoId": "vTFDGW2c0TI",
+          "videoTitle": "新曲「ただそばで」披露｜弾き語り配信（2026/9/27アーカイブ）",
+          "channelName": "まにこ (manico)",
+          "publishedAt": "2026-09-27T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vTFDGW2c0TI/hqdefault.jpg",
+          "sourcePath": "sources/vT/vTFDGW2c0TI.json",
+          "time": "1:57:15",
+          "seconds": 7035,
+          "songTitle": "結",
+          "artist": "フル"
+        },
+        {
+          "videoId": "OC94IWAO0Uk",
+          "videoTitle": "弾き語り配信｜（2026/9/26アーカイブ）",
+          "channelName": "まにこ (manico)",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OC94IWAO0Uk/hqdefault.jpg",
+          "sourcePath": "sources/OC/OC94IWAO0Uk.json",
+          "time": "0:15:54",
+          "seconds": 954,
+          "songTitle": "猫/DISH",
+          "artist": "（フル）"
+        }
+      ],
+      "detailPath": "entities/artists/d82ee99827c950a2.json"
+    },
+    {
+      "rank": 1280,
       "id": "0e01287362e60bf1",
       "name": "04 Limited Sazabys",
       "secondary": "",
@@ -1745,7 +1803,7 @@
       "detailPath": "entities/artists/0e01287362e60bf1.json"
     },
     {
-      "rank": 1280,
+      "rank": 1281,
       "id": "c6450a1bb0aeb7c6",
       "name": "Aqu3ra，月見ヤチヨ (cv.早見沙織)",
       "secondary": "",
@@ -1806,7 +1864,7 @@
       "detailPath": "entities/artists/c6450a1bb0aeb7c6.json"
     },
     {
-      "rank": 1281,
+      "rank": 1282,
       "id": "dc8d5cae0b445519",
       "name": "BE:FIRST",
       "secondary": "",
@@ -1866,7 +1924,7 @@
       "detailPath": "entities/artists/dc8d5cae0b445519.json"
     },
     {
-      "rank": 1282,
+      "rank": 1283,
       "id": "44ee4ed1205cde01",
       "name": "GARDEN",
       "secondary": "",
@@ -1927,7 +1985,7 @@
       "detailPath": "entities/artists/44ee4ed1205cde01.json"
     },
     {
-      "rank": 1283,
+      "rank": 1284,
       "id": "6b4cbf98a5505d65",
       "name": "Kylee",
       "secondary": "",
@@ -1987,7 +2045,7 @@
       "detailPath": "entities/artists/6b4cbf98a5505d65.json"
     },
     {
-      "rank": 1284,
+      "rank": 1285,
       "id": "feb5cc9e39dec601",
       "name": "LONG SHOT PARTY",
       "secondary": "",
@@ -2048,7 +2106,7 @@
       "detailPath": "entities/artists/feb5cc9e39dec601.json"
     },
     {
-      "rank": 1285,
+      "rank": 1286,
       "id": "7aa0e54859a44079",
       "name": "MAN WITH A MISSION×milet",
       "secondary": "",
@@ -2108,7 +2166,7 @@
       "detailPath": "entities/artists/7aa0e54859a44079.json"
     },
     {
-      "rank": 1286,
+      "rank": 1287,
       "id": "7ad524454a45a523",
       "name": "MilkyWay",
       "secondary": "",
@@ -2167,7 +2225,7 @@
       "detailPath": "entities/artists/7ad524454a45a523.json"
     },
     {
-      "rank": 1287,
+      "rank": 1288,
       "id": "00fa12cda6edc24c",
       "name": "millennium parade×椎名林檎",
       "secondary": "",
@@ -2227,7 +2285,7 @@
       "detailPath": "entities/artists/00fa12cda6edc24c.json"
     },
     {
-      "rank": 1288,
+      "rank": 1289,
       "id": "9a607690b3071ff5",
       "name": "mol-74",
       "secondary": "",
@@ -2287,7 +2345,7 @@
       "detailPath": "entities/artists/9a607690b3071ff5.json"
     },
     {
-      "rank": 1289,
+      "rank": 1290,
       "id": "d4116561b0ce9989",
       "name": "PAMELAH",
       "secondary": "",
@@ -2347,7 +2405,7 @@
       "detailPath": "entities/artists/d4116561b0ce9989.json"
     },
     {
-      "rank": 1290,
+      "rank": 1291,
       "id": "36f80b45dd603aaf",
       "name": "RIKKI",
       "secondary": "",
@@ -2408,7 +2466,7 @@
       "detailPath": "entities/artists/36f80b45dd603aaf.json"
     },
     {
-      "rank": 1291,
+      "rank": 1292,
       "id": "5c5c360b367e9534",
       "name": "Spitz",
       "secondary": "",
@@ -2469,7 +2527,7 @@
       "detailPath": "entities/artists/5c5c360b367e9534.json"
     },
     {
-      "rank": 1292,
+      "rank": 1293,
       "id": "4ce64e7216f99c4c",
       "name": "THE BOOM",
       "secondary": "",
@@ -2529,7 +2587,7 @@
       "detailPath": "entities/artists/4ce64e7216f99c4c.json"
     },
     {
-      "rank": 1293,
+      "rank": 1294,
       "id": "e015c1fc1fbc3257",
       "name": "The ROOTLESS",
       "secondary": "",
@@ -2589,7 +2647,7 @@
       "detailPath": "entities/artists/e015c1fc1fbc3257.json"
     },
     {
-      "rank": 1294,
+      "rank": 1295,
       "id": "204d1c4e7dddc43f",
       "name": "WhiteFlame feat.初音ミク",
       "secondary": "",
@@ -2649,7 +2707,7 @@
       "detailPath": "entities/artists/204d1c4e7dddc43f.json"
     },
     {
-      "rank": 1295,
+      "rank": 1296,
       "id": "a45b91c9f378b109",
       "name": "すずきまゆみ",
       "secondary": "",
@@ -2710,7 +2768,7 @@
       "detailPath": "entities/artists/a45b91c9f378b109.json"
     },
     {
-      "rank": 1296,
+      "rank": 1297,
       "id": "e97369860e113b95",
       "name": "ちあきなおみ",
       "secondary": "",
@@ -2770,7 +2828,7 @@
       "detailPath": "entities/artists/e97369860e113b95.json"
     },
     {
-      "rank": 1297,
+      "rank": 1298,
       "id": "d8d6fb56bcebe80a",
       "name": "ヤスオ",
       "secondary": "",
@@ -2830,7 +2888,7 @@
       "detailPath": "entities/artists/d8d6fb56bcebe80a.json"
     },
     {
-      "rank": 1298,
+      "rank": 1299,
       "id": "d192a6e9dcce2d18",
       "name": "ゆうゆ feat. 鏡音リン",
       "secondary": "",
@@ -2890,7 +2948,7 @@
       "detailPath": "entities/artists/d192a6e9dcce2d18.json"
     },
     {
-      "rank": 1299,
+      "rank": 1300,
       "id": "9a51f1d31000dc9c",
       "name": "ライブP",
       "secondary": "",
@@ -2948,66 +3006,6 @@
         }
       ],
       "detailPath": "entities/artists/9a51f1d31000dc9c.json"
-    },
-    {
-      "rank": 1300,
-      "id": "ddbef7adf08d9868",
-      "name": "れるりり、もじゃ",
-      "secondary": "",
-      "channelId": "UCtQwleVyBMjBGNuUQ7a-KYg",
-      "channelHandle": "@Amayo_liz",
-      "channelUrl": "",
-      "occurrenceCount": 13,
-      "videoCount": 13,
-      "songCount": 3,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "yOVG5XSiFl4",
-          "videoTitle": "【同接200目標】年内目標まであと500人?!100曲耐久歌枠🎶【#小向なのか / #歌枠 / KARAOKE / Vtuber 】",
-          "channelName": "小向なのか / Komukai Nanoka",
-          "publishedAt": "2026-10-03T13:02:27.264Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/yOVG5XSiFl4/hqdefault.jpg",
-          "sourcePath": "sources/yO/yOVG5XSiFl4.json",
-          "time": "4:10:46",
-          "seconds": 15046,
-          "songTitle": "ドナーソング",
-          "artist": "れるりり×もじゃ"
-        },
-        {
-          "videoId": "ivpxNjnvrOY",
-          "videoTitle": "【歌枠/Singing Stream】本日も歌わせていただきますねよろしくお願いいたします。※リクエストは概要欄の再生リストから❄【正木雅治/新人Vtuber】",
-          "channelName": "正木雅治(Masaki Masaharu)",
-          "publishedAt": "2026-09-29T13:43:10.608Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ivpxNjnvrOY/hqdefault.jpg",
-          "sourcePath": "sources/iv/ivpxNjnvrOY.json",
-          "time": "0:43:52",
-          "seconds": 2632,
-          "songTitle": "妄想疾患■ガール",
-          "artist": "れるりり&もじゃ"
-        },
-        {
-          "videoId": "KjC80IuLjkQ",
-          "videoTitle": "【歌枠/Singing Stream】本日も歌わせていただきますねよろしくお願いいたします。※リクエストは概要欄の再生リストから❄【正木雅治/新人Vtuber】",
-          "channelName": "正木雅治(Masaki Masaharu)",
-          "publishedAt": "2026-09-26T13:48:54.683Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KjC80IuLjkQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDBaY3mAmflEhtnKmBQJbowYvKjvQ",
-          "sourcePath": "sources/Kj/KjC80IuLjkQ.json",
-          "time": "0:13:34",
-          "seconds": 814,
-          "songTitle": "妄想疾患■ガール",
-          "artist": "れるりり&もじゃ"
-        }
-      ],
-      "detailPath": "entities/artists/ddbef7adf08d9868.json"
     }
   ]
 }

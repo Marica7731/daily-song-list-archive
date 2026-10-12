@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "30d",
   "type": "songs",
   "page": 3,
   "pageSize": 50,
-  "pageCount": 553,
-  "totalCount": 27650,
+  "pageCount": 554,
+  "totalCount": 27675,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1796,6 +1796,63 @@
     },
     {
       "rank": 132,
+      "id": "cae572bc7ba1ccf8",
+      "name": "ANIMA",
+      "secondary": "ReoNa",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 52,
+      "videoCount": 52,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TFwmXZsys5s",
+          "videoTitle": "【#歌枠】アニソンを歌いたい気持ちの歌枠!!【#新人Vtuber】",
+          "channelName": "姫狂くるる-kigurui kururu-",
+          "publishedAt": "2026-10-09T19:35:46.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TFwmXZsys5s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0Htb0TEZnq4xnj1LTUSnJ-dhQGQ",
+          "sourcePath": "sources/TF/TFwmXZsys5s.json",
+          "time": "3:30:48",
+          "seconds": 12648,
+          "songTitle": "ANIMA",
+          "artist": "ReoNa"
+        },
+        {
+          "videoId": "fOex-yn9NBw",
+          "videoTitle": "【#歌枠】1曲いかがですか？ #shorts #vtuber #vsinger",
+          "channelName": "巫てんり / Kannagi Tenri",
+          "publishedAt": "2026-10-09T15:14:25.390Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fOex-yn9NBw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGXrbyFC814ZNljPRYbNjOXKOcDg",
+          "sourcePath": "sources/fO/fOex-yn9NBw.json",
+          "time": "1:09:44",
+          "seconds": 4184,
+          "songTitle": "ANIMA",
+          "artist": "ReoNa"
+        },
+        {
+          "videoId": "rrUpgrClwpM",
+          "videoTitle": "【縦型歌枠 #shorts 】雑談多め歌枠かもしれない【 #無原唱レコード / ＃ルシェルーム 】",
+          "channelName": "宮島ルシェル / LECIEL MIYAJIMA",
+          "publishedAt": "2026-10-09T04:18:40.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rrUpgrClwpM/hqdefault.jpg",
+          "sourcePath": "sources/rr/rrUpgrClwpM.json",
+          "time": "0:40:15",
+          "seconds": 2415,
+          "songTitle": "ANIMA",
+          "artist": "ReoNa"
+        }
+      ],
+      "detailPath": "entities/songs/cae572bc7ba1ccf8.json"
+    },
+    {
+      "rank": 133,
       "id": "a5df4072bd818a1b",
       "name": "CHE.R.RY",
       "secondary": "YUI",
@@ -1853,7 +1910,7 @@
       "detailPath": "entities/songs/a5df4072bd818a1b.json"
     },
     {
-      "rank": 133,
+      "rank": 134,
       "id": "147bdbb36a9c84b4",
       "name": "プロポーズ",
       "secondary": "内緒のピアス",
@@ -1910,7 +1967,7 @@
       "detailPath": "entities/songs/147bdbb36a9c84b4.json"
     },
     {
-      "rank": 134,
+      "rank": 135,
       "id": "20562e4dd7e9ffd7",
       "name": "モザイクロール",
       "secondary": "DECO*27",
@@ -1968,7 +2025,7 @@
       "detailPath": "entities/songs/20562e4dd7e9ffd7.json"
     },
     {
-      "rank": 135,
+      "rank": 136,
       "id": "97a87976ea66a7a0",
       "name": "炎",
       "secondary": "LiSA",
@@ -2025,7 +2082,7 @@
       "detailPath": "entities/songs/97a87976ea66a7a0.json"
     },
     {
-      "rank": 136,
+      "rank": 137,
       "id": "372fced60d80d0e1",
       "name": "水平線",
       "secondary": "back number",
@@ -2083,7 +2140,7 @@
       "detailPath": "entities/songs/372fced60d80d0e1.json"
     },
     {
-      "rank": 137,
+      "rank": 138,
       "id": "745cb6a86feb2077",
       "name": "again",
       "secondary": "YUI",
@@ -2139,63 +2196,6 @@
         }
       ],
       "detailPath": "entities/songs/745cb6a86feb2077.json"
-    },
-    {
-      "rank": 138,
-      "id": "cae572bc7ba1ccf8",
-      "name": "ANIMA",
-      "secondary": "ReoNa",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 51,
-      "videoCount": 51,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "TFwmXZsys5s",
-          "videoTitle": "【#歌枠】アニソンを歌いたい気持ちの歌枠!!【#新人Vtuber】",
-          "channelName": "姫狂くるる-kigurui kururu-",
-          "publishedAt": "2026-10-09T19:35:46.516Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TFwmXZsys5s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0Htb0TEZnq4xnj1LTUSnJ-dhQGQ",
-          "sourcePath": "sources/TF/TFwmXZsys5s.json",
-          "time": "3:30:48",
-          "seconds": 12648,
-          "songTitle": "ANIMA",
-          "artist": "ReoNa"
-        },
-        {
-          "videoId": "fOex-yn9NBw",
-          "videoTitle": "【#歌枠】1曲いかがですか？ #shorts #vtuber #vsinger",
-          "channelName": "巫てんり / Kannagi Tenri",
-          "publishedAt": "2026-10-09T15:14:25.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/fOex-yn9NBw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGXrbyFC814ZNljPRYbNjOXKOcDg",
-          "sourcePath": "sources/fO/fOex-yn9NBw.json",
-          "time": "1:09:44",
-          "seconds": 4184,
-          "songTitle": "ANIMA",
-          "artist": "ReoNa"
-        },
-        {
-          "videoId": "rrUpgrClwpM",
-          "videoTitle": "【縦型歌枠 #shorts 】雑談多め歌枠かもしれない【 #無原唱レコード / ＃ルシェルーム 】",
-          "channelName": "宮島ルシェル / LECIEL MIYAJIMA",
-          "publishedAt": "2026-10-09T04:18:40.733Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rrUpgrClwpM/hqdefault.jpg",
-          "sourcePath": "sources/rr/rrUpgrClwpM.json",
-          "time": "0:40:15",
-          "seconds": 2415,
-          "songTitle": "ANIMA",
-          "artist": "ReoNa"
-        }
-      ],
-      "detailPath": "entities/songs/cae572bc7ba1ccf8.json"
     },
     {
       "rank": 139,

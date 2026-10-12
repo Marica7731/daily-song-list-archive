@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "30d",
   "type": "songs",
   "page": 1,
   "pageSize": 50,
-  "pageCount": 553,
-  "totalCount": 27650,
+  "pageCount": 554,
+  "totalCount": 27675,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -74,8 +74,8 @@
       "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
-      "occurrenceCount": 185,
-      "videoCount": 184,
+      "occurrenceCount": 186,
+      "videoCount": 185,
       "songCount": 1,
       "keywords": [
         "mygit今日快照",
@@ -190,8 +190,8 @@
       "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
-      "occurrenceCount": 174,
-      "videoCount": 173,
+      "occurrenceCount": 175,
+      "videoCount": 174,
       "songCount": 1,
       "keywords": [
         "mygit今日快照",
@@ -248,8 +248,8 @@
       "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
-      "occurrenceCount": 166,
-      "videoCount": 164,
+      "occurrenceCount": 167,
+      "videoCount": 165,
       "songCount": 1,
       "keywords": [
         "mygit今日快照",
@@ -364,8 +364,8 @@
       "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
-      "occurrenceCount": 150,
-      "videoCount": 148,
+      "occurrenceCount": 151,
+      "videoCount": 149,
       "songCount": 1,
       "keywords": [
         "mygit今日快照",
@@ -2671,6 +2671,64 @@
     },
     {
       "rank": 47,
+      "id": "cef32d3dd2ab3a60",
+      "name": "奏",
+      "secondary": "スキマスイッチ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 85,
+      "videoCount": 85,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "8KFed1OEp1U",
+          "videoTitle": "【歌枠 / Singing Stream】夕方の弾き語り🎸明日はバクオンだああああ！！💥【INARI / 新人VTuber】#いなりお使い中",
+          "channelName": "INARI",
+          "publishedAt": "2026-10-10T09:34:50.179Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8KFed1OEp1U/hqdefault.jpg",
+          "sourcePath": "sources/8K/8KFed1OEp1U.json",
+          "time": "0:56:54",
+          "seconds": 3414,
+          "songTitle": "奏",
+          "artist": "スキマスイッチ"
+        },
+        {
+          "videoId": "WenqjD-bDZc",
+          "videoTitle": "【#歌枠】雑談 Chill 作業BGM🎈BGM ながやまめめのギター弾き語り！カラオケ✨ 【SINGING STREAM】#vtuber #karaoke #shorts #歌ってみた",
+          "channelName": "ながやまめめ / Nagayama Meme",
+          "publishedAt": "2026-10-08T17:18:16.451Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WenqjD-bDZc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSLxjEerr2fYw7kWoXE5s7tIfrqQ",
+          "sourcePath": "sources/We/WenqjD-bDZc.json",
+          "time": "0:54:53",
+          "seconds": 3293,
+          "songTitle": "奏",
+          "artist": "スキマスイッチ"
+        },
+        {
+          "videoId": "vpiWIWem7SU",
+          "videoTitle": "【#歌枠 / #karaoke】 初見さん・ROM大歓迎‼✨ゆったり歌う夜があったっていい🎤【白鼬かなで / bond live】",
+          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
+          "publishedAt": "2026-10-05T15:28:49.939Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vpiWIWem7SU/hqdefault.jpg",
+          "sourcePath": "sources/vp/vpiWIWem7SU.json",
+          "time": "1:33:47",
+          "seconds": 5627,
+          "songTitle": "奏",
+          "artist": "スキマスイッチ"
+        }
+      ],
+      "detailPath": "entities/songs/cef32d3dd2ab3a60.json"
+    },
+    {
+      "rank": 48,
       "id": "f09a5bab5852e8f3",
       "name": "夜に駆ける",
       "secondary": "YOASOBI",
@@ -2727,7 +2785,7 @@
       "detailPath": "entities/songs/f09a5bab5852e8f3.json"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "63f78c2606a1358e",
       "name": "魂のルフラン",
       "secondary": "高橋洋子",
@@ -2785,10 +2843,10 @@
       "detailPath": "entities/songs/63f78c2606a1358e.json"
     },
     {
-      "rank": 49,
-      "id": "cef32d3dd2ab3a60",
-      "name": "奏",
-      "secondary": "スキマスイッチ",
+      "rank": 50,
+      "id": "c0ad2bf756980b1e",
+      "name": "星座になれたら",
+      "secondary": "結束バンド",
       "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
@@ -2804,100 +2862,43 @@
       "collectionId": "",
       "sourcesPreview": [
         {
-          "videoId": "8KFed1OEp1U",
-          "videoTitle": "【歌枠 / Singing Stream】夕方の弾き語り🎸明日はバクオンだああああ！！💥【INARI / 新人VTuber】#いなりお使い中",
-          "channelName": "INARI",
-          "publishedAt": "2026-10-10T09:34:50.179Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8KFed1OEp1U/hqdefault.jpg",
-          "sourcePath": "sources/8K/8KFed1OEp1U.json",
-          "time": "0:56:54",
-          "seconds": 3414,
-          "songTitle": "奏",
-          "artist": "スキマスイッチ"
+          "videoId": "kf5dww87ouA",
+          "videoTitle": "【 #歌枠 / KARAOKE 】リベンジ！同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
+          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
+          "publishedAt": "2026-10-12T02:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kf5dww87ouA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3EvtAI3lYUDHH4BYnF4HRZnwRlg",
+          "sourcePath": "sources/kf/kf5dww87ouA.json",
+          "time": "2:35:19",
+          "seconds": 9319,
+          "songTitle": "星座になれたら",
+          "artist": "結束バンド"
         },
         {
-          "videoId": "WenqjD-bDZc",
-          "videoTitle": "【#歌枠】雑談 Chill 作業BGM🎈BGM ながやまめめのギター弾き語り！カラオケ✨ 【SINGING STREAM】#vtuber #karaoke #shorts #歌ってみた",
-          "channelName": "ながやまめめ / Nagayama Meme",
-          "publishedAt": "2026-10-08T17:18:16.451Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/WenqjD-bDZc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSLxjEerr2fYw7kWoXE5s7tIfrqQ",
-          "sourcePath": "sources/We/WenqjD-bDZc.json",
-          "time": "0:54:53",
-          "seconds": 3293,
-          "songTitle": "奏",
-          "artist": "スキマスイッチ"
-        },
-        {
-          "videoId": "vpiWIWem7SU",
-          "videoTitle": "【#歌枠 / #karaoke】 初見さん・ROM大歓迎‼✨ゆったり歌う夜があったっていい🎤【白鼬かなで / bond live】",
-          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
-          "publishedAt": "2026-10-05T15:28:49.939Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vpiWIWem7SU/hqdefault.jpg",
-          "sourcePath": "sources/vp/vpiWIWem7SU.json",
-          "time": "1:33:47",
-          "seconds": 5627,
-          "songTitle": "奏",
-          "artist": "スキマスイッチ"
-        }
-      ],
-      "detailPath": "entities/songs/cef32d3dd2ab3a60.json"
-    },
-    {
-      "rank": 50,
-      "id": "f1da774a42eb7dae",
-      "name": "名前のない怪物",
-      "secondary": "EGOIST",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 84,
-      "videoCount": 84,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "CIWRk72gm_E",
-          "videoTitle": "【2周年記念】デビュー2周年記念1500人耐久歌枠 #singing Stream【#vsinger / #vtuber 】",
-          "channelName": "coconoema ch.心祈エマ",
+          "videoId": "sACzCi8Iqj4",
+          "videoTitle": "【朝活/歌枠/雑談】憂鬱な月曜日の朝に癒しを。「行ってきます」大歓迎！┊#初見さん大歓迎",
+          "channelName": "ねぴん / Nepin ch.",
           "publishedAt": "2026-10-12T00:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/CIWRk72gm_E/hqdefault.jpg",
-          "sourcePath": "sources/CI/CIWRk72gm_E.json",
-          "time": "8:35:10",
-          "seconds": 30910,
-          "songTitle": "名前のない怪物",
-          "artist": "EGOIST"
+          "thumbnailUrl": "https://i.ytimg.com/vi/sACzCi8Iqj4/hqdefault.jpg",
+          "sourcePath": "sources/sA/sACzCi8Iqj4.json",
+          "time": "2:03:05",
+          "seconds": 7385,
+          "songTitle": "星座になれたら",
+          "artist": "結束バンド"
         },
         {
-          "videoId": "awfuZSwP544",
-          "videoTitle": "【縦型歌枠】お昼から歌います！！！【汐鳴みりね / ななしいんく】",
-          "channelName": "汐鳴みりね / Mirine Shionari【ななしいんく】",
-          "publishedAt": "2026-10-10T05:11:57.409Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/awfuZSwP544/hqdefault.jpg",
-          "sourcePath": "sources/aw/awfuZSwP544.json",
-          "time": "0:34:08",
-          "seconds": 2048,
-          "songTitle": "名前のない怪物",
-          "artist": "EGOIST"
-        },
-        {
-          "videoId": "UoV-Mmiv15g",
-          "videoTitle": "【 #歌枠 】 見つけてほしい！ 【 戌月れん/Vsinger 】#vtuber #karaoke",
-          "channelName": "Ren.ch戌月れん",
-          "publishedAt": "2026-10-09T16:27:29.159Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UoV-Mmiv15g/hqdefault.jpg",
-          "sourcePath": "sources/Uo/UoV-Mmiv15g.json",
-          "time": "1:08:26",
-          "seconds": 4106,
-          "songTitle": "名前のない怪物",
-          "artist": "EGOIST"
+          "videoId": "6oGJVU5UG5Q",
+          "videoTitle": "【 #耐久歌枠┆#Karaoke 】高評価300耐久歌枠👍❤️‍🔥300 Likes Endurance Karaoke【 #なれたん┆#Vsinger 】",
+          "channelName": "なれたん Naraetan Ch.",
+          "publishedAt": "2026-10-08T13:48:27.829Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6oGJVU5UG5Q/hqdefault.jpg",
+          "sourcePath": "sources/6o/6oGJVU5UG5Q.json",
+          "time": "0:58:41",
+          "seconds": 3521,
+          "songTitle": "星座になれたら",
+          "artist": "結束バンド"
         }
       ],
-      "detailPath": "entities/songs/f1da774a42eb7dae.json"
+      "detailPath": "entities/songs/c0ad2bf756980b1e.json"
     }
   ]
 }

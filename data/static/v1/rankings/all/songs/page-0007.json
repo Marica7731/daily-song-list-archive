@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "all",
   "type": "songs",
   "page": 7,
   "pageSize": 50,
   "pageCount": 1056,
-  "totalCount": 52771,
+  "totalCount": 52789,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1349,6 +1349,67 @@
     },
     {
       "rank": 323,
+      "id": "9b53b31087cc6031",
+      "name": "永遠のあくる日",
+      "secondary": "Ado",
+      "channelId": "UCkpqb53xiOvOgNYEbNpFSyw",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 74,
+      "videoCount": 74,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vv_2_-B2lCc",
+          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
+          "channelName": "天音",
+          "publishedAt": "2026-10-08T15:40:41.566Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
+          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
+          "time": "2:40:59",
+          "seconds": 9659,
+          "songTitle": "永遠のあくる日",
+          "artist": "Ado"
+        },
+        {
+          "videoId": "3OlvmsJaEy0",
+          "videoTitle": "【 歌雑談 】初見さんに会いたい！初見さんも常連さんも1曲聴いてってー！🎤🎶 【 紅月夢叶 / 新人vtuber 】#縦型配信 #shorts",
+          "channelName": "紅月夢叶 / Akatsuki Yukana",
+          "publishedAt": "2026-10-04T13:26:13.170Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3OlvmsJaEy0/hqdefault.jpg",
+          "sourcePath": "sources/3O/3OlvmsJaEy0.json",
+          "time": "1:24:06",
+          "seconds": 5046,
+          "songTitle": "永遠のあくる日",
+          "artist": "Ado"
+        },
+        {
+          "videoId": "ahs_YVmyhBE",
+          "videoTitle": "【深夜歌枠】しゃべりと歌のギャップで風邪ひいちゃえ✨【Re:AcT / 燈明寺かぐら】#shorts",
+          "channelName": "燈明寺かぐら - Tomyoji Kagura -",
+          "publishedAt": "2026-10-03T17:22:42.614Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ahs_YVmyhBE/hqdefault.jpg",
+          "sourcePath": "sources/ah/ahs_YVmyhBE.json",
+          "time": "0:55:48",
+          "seconds": 3348,
+          "songTitle": "永遠のあくる日",
+          "artist": "Ado"
+        }
+      ],
+      "detailPath": "entities/songs/9b53b31087cc6031.json"
+    },
+    {
+      "rank": 324,
       "id": "f1aa768b39a969c0",
       "name": "逆光",
       "secondary": "Ado",
@@ -1408,7 +1469,7 @@
       "detailPath": "entities/songs/f1aa768b39a969c0.json"
     },
     {
-      "rank": 324,
+      "rank": 325,
       "id": "77c7330008cba98c",
       "name": "二息歩行",
       "secondary": "DECO*27",
@@ -1469,7 +1530,7 @@
       "detailPath": "entities/songs/77c7330008cba98c.json"
     },
     {
-      "rank": 325,
+      "rank": 326,
       "id": "b000ac409589935c",
       "name": "倍倍FIGHT!",
       "secondary": "CANDY TUNE",
@@ -1530,7 +1591,7 @@
       "detailPath": "entities/songs/b000ac409589935c.json"
     },
     {
-      "rank": 326,
+      "rank": 327,
       "id": "10ea1bd9af7de4a7",
       "name": "Catch You Catch Me",
       "secondary": "グミ",
@@ -1592,7 +1653,7 @@
       "detailPath": "entities/songs/10ea1bd9af7de4a7.json"
     },
     {
-      "rank": 327,
+      "rank": 328,
       "id": "08d0c7fa3f39d216",
       "name": "DISCOTHEQUE",
       "secondary": "水樹奈々",
@@ -1655,7 +1716,7 @@
       "detailPath": "entities/songs/08d0c7fa3f39d216.json"
     },
     {
-      "rank": 328,
+      "rank": 329,
       "id": "7b6b73dbcf087772",
       "name": "さよならエレジー",
       "secondary": "菅田将暉",
@@ -1716,7 +1777,7 @@
       "detailPath": "entities/songs/7b6b73dbcf087772.json"
     },
     {
-      "rank": 329,
+      "rank": 330,
       "id": "c291a6196fe45140",
       "name": "それがあなたの幸せとしても",
       "secondary": "Heavenz",
@@ -1777,7 +1838,7 @@
       "detailPath": "entities/songs/c291a6196fe45140.json"
     },
     {
-      "rank": 330,
+      "rank": 331,
       "id": "dd852b421e36d4d2",
       "name": "ノーザンクロス",
       "secondary": "シェリル・ノーム starring May'n",
@@ -1837,7 +1898,7 @@
       "detailPath": "entities/songs/dd852b421e36d4d2.json"
     },
     {
-      "rank": 331,
+      "rank": 332,
       "id": "9ac0988eea813074",
       "name": "ハッピーエンド",
       "secondary": "back number",
@@ -1896,67 +1957,6 @@
         }
       ],
       "detailPath": "entities/songs/9ac0988eea813074.json"
-    },
-    {
-      "rank": 332,
-      "id": "9b53b31087cc6031",
-      "name": "永遠のあくる日",
-      "secondary": "Ado",
-      "channelId": "UCkpqb53xiOvOgNYEbNpFSyw",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 73,
-      "videoCount": 73,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vv_2_-B2lCc",
-          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
-          "channelName": "天音",
-          "publishedAt": "2026-10-08T15:40:41.566Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
-          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
-          "time": "2:40:59",
-          "seconds": 9659,
-          "songTitle": "永遠のあくる日",
-          "artist": "Ado"
-        },
-        {
-          "videoId": "ahs_YVmyhBE",
-          "videoTitle": "【深夜歌枠】しゃべりと歌のギャップで風邪ひいちゃえ✨【Re:AcT / 燈明寺かぐら】#shorts",
-          "channelName": "燈明寺かぐら - Tomyoji Kagura -",
-          "publishedAt": "2026-10-03T17:22:42.614Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ahs_YVmyhBE/hqdefault.jpg",
-          "sourcePath": "sources/ah/ahs_YVmyhBE.json",
-          "time": "0:55:48",
-          "seconds": 3348,
-          "songTitle": "永遠のあくる日",
-          "artist": "Ado"
-        },
-        {
-          "videoId": "M58XCRYBxPs",
-          "videoTitle": "歌枠はいつも唐突に…ゲリラ配信🎤#新人vtuber #vsinger",
-          "channelName": "Cuffy ch. カフィー",
-          "publishedAt": "2026-10-03T09:58:22.698Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/M58XCRYBxPs/hqdefault.jpg",
-          "sourcePath": "sources/M5/M58XCRYBxPs.json",
-          "time": "2:32:03",
-          "seconds": 9123,
-          "songTitle": "永遠のあくる日",
-          "artist": "Ado"
-        }
-      ],
-      "detailPath": "entities/songs/9b53b31087cc6031.json"
     },
     {
       "rank": 333,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "items": [
     {
       "id": "61bbb9e622e8bff4",
@@ -2248,8 +2248,8 @@
       "detailPath": "entities/songs/698574ac21afabb9.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 5,
@@ -2744,8 +2744,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 9,
-          "videoCount": 8
+          "occurrenceCount": 8,
+          "videoCount": 7
         },
         "30d": {
           "occurrenceCount": 85,
@@ -3651,8 +3651,8 @@
       "type": "songs",
       "name": "アスノヨゾラ哨戒班",
       "secondary": "Orangestar",
-      "occurrenceCount": 102,
-      "videoCount": 102,
+      "occurrenceCount": 103,
+      "videoCount": 103,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -3670,8 +3670,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 36,
-          "videoCount": 36
+          "occurrenceCount": 37,
+          "videoCount": 37
         }
       },
       "text": "アスノヨゾラ哨戒班orangestar"
@@ -4234,8 +4234,8 @@
       "type": "songs",
       "name": "愛が灯る",
       "secondary": "ロクデナシ",
-      "occurrenceCount": 35,
-      "videoCount": 35,
+      "occurrenceCount": 36,
+      "videoCount": 36,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -4248,8 +4248,8 @@
       "detailPath": "entities/songs/629e3a74347a9b99.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 12,
-          "videoCount": 12
+          "occurrenceCount": 13,
+          "videoCount": 13
         }
       },
       "text": "愛が灯るロクデナシ"
@@ -10630,10 +10630,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/6f5906c3122f1785.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 9,
           "videoCount": 9
@@ -12491,10 +12487,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/6ea7575343021773.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -46262,10 +46254,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/66d7a61cd84bbbdb.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 2,
           "videoCount": 2
@@ -46600,8 +46588,8 @@
       "type": "songs",
       "name": "雨宿りの人生",
       "secondary": "Onnyomi(Vo.まにこ)フル",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
         "弾き語り"
@@ -46609,7 +46597,12 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/6e3ead70ea555416.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "雨宿りの人生onnyomivoまにこフル"
     },
     {
@@ -49201,8 +49194,8 @@
       "type": "songs",
       "name": "Esperanza",
       "secondary": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -49210,7 +49203,12 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/6f5bb23fd35f78f2.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "esperanza"
     },
     {
@@ -72913,6 +72911,56 @@
       "text": "07monitoringdeco27fthatsunemiku"
     },
     {
+      "id": "6576804ff16c8e3d",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "深影さんからの「大丈夫」",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/6576804ff16c8e3d.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "深影さんからの大丈夫"
+    },
+    {
+      "id": "60269f95ed11296e",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "Believe in you",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/60269f95ed11296e.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "believeinyou"
+    },
+    {
       "id": "6cc9bb6a69d72063",
       "channelId": "",
       "channelHandle": "",
@@ -76390,8 +76438,8 @@
       "type": "artists",
       "name": "Official髭男dism",
       "secondary": "",
-      "occurrenceCount": 745,
-      "videoCount": 605,
+      "occurrenceCount": 746,
+      "videoCount": 606,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76417,8 +76465,8 @@
           "videoCount": 23
         },
         "30d": {
-          "occurrenceCount": 312,
-          "videoCount": 257
+          "occurrenceCount": 313,
+          "videoCount": 258
         }
       },
       "text": "official髭男dism"
@@ -94661,8 +94709,8 @@
       "type": "artists",
       "name": "Onnyomi(Vo.まにこ)フル",
       "secondary": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
         "弾き語り"
@@ -94670,7 +94718,12 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/artists/69fa5e0844efa44b.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "onnyomivoまにこフル"
     },
     {
@@ -102463,10 +102516,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/6655f03aebe66db2.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 3,
           "videoCount": 3
@@ -104285,10 +104334,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/653657d5a3a0fe3c.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -104314,10 +104359,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/6d587f55061924c1.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -111730,10 +111771,6 @@
       "collectionId": "",
       "detailPath": "entities/vtubers/6fe700f130feecf3.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 15,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 15,
           "videoCount": 1

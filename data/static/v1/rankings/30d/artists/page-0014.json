@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "30d",
   "type": "artists",
   "page": 14,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10851,
+  "totalCount": 10857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 651,
+      "id": "ae4c209bbbe71b04",
+      "name": "高橋美佳子",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 14,
+      "videoCount": 14,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-m25jA-fyUU",
+          "videoTitle": "♰ 歌枠 ♰ 久々にお歌と雑談するぞ～♩【 #終末むくろ / #すぺしゃりて 】",
+          "channelName": "終末むくろ / Mukuro Owarino",
+          "publishedAt": "2026-10-07T18:11:43.576Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-m25jA-fyUU/hqdefault.jpg",
+          "sourcePath": "sources/-m/-m25jA-fyUU.json",
+          "time": "3:39:23",
+          "seconds": 13163,
+          "songTitle": "オトメロディー",
+          "artist": "高橋美佳子"
+        },
+        {
+          "videoId": "JsiteUyVb_U",
+          "videoTitle": "【歌枠/飲酒】【花和カヌレ／VTuber】",
+          "channelName": "花和カヌレ",
+          "publishedAt": "2026-10-05T14:28:25.696Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JsiteUyVb_U/hqdefault.jpg",
+          "sourcePath": "sources/Js/JsiteUyVb_U.json",
+          "time": "0:16:04",
+          "seconds": 964,
+          "songTitle": "オトメロディー",
+          "artist": "高橋美佳子"
+        },
+        {
+          "videoId": "IGkub5lRN1E",
+          "videoTitle": "【歌枠】2000年代最強アニソンたっぷり歌う🔥作業用BGMに♡【山吹ここな/とらのあな】",
+          "channelName": "山吹ここな / Yamabuki Cocona",
+          "publishedAt": "2026-10-04T13:10:21.180Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IGkub5lRN1E/hqdefault.jpg",
+          "sourcePath": "sources/IG/IGkub5lRN1E.json",
+          "time": "0:42:31",
+          "seconds": 2551,
+          "songTitle": "オトメロディー",
+          "artist": "高橋美佳子"
+        }
+      ],
+      "detailPath": "entities/artists/ae4c209bbbe71b04.json"
+    },
+    {
+      "rank": 652,
       "id": "5854f36d7587f15c",
       "name": "森山良子",
       "secondary": "",
@@ -68,7 +125,7 @@
       "detailPath": "entities/artists/5854f36d7587f15c.json"
     },
     {
-      "rank": 652,
+      "rank": 653,
       "id": "d224b3fbf9833c6e",
       "name": "茶太",
       "secondary": "",
@@ -125,7 +182,7 @@
       "detailPath": "entities/artists/d224b3fbf9833c6e.json"
     },
     {
-      "rank": 653,
+      "rank": 654,
       "id": "434ef821ba17a6a7",
       "name": "涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子)",
       "secondary": "",
@@ -183,7 +240,7 @@
       "detailPath": "entities/artists/434ef821ba17a6a7.json"
     },
     {
-      "rank": 654,
+      "rank": 655,
       "id": "a5136c4c4681ceaf",
       "name": "BiBi",
       "secondary": "",
@@ -240,7 +297,7 @@
       "detailPath": "entities/artists/a5136c4c4681ceaf.json"
     },
     {
-      "rank": 655,
+      "rank": 656,
       "id": "3e79cf2d2bf7850e",
       "name": "Guiano",
       "secondary": "",
@@ -298,7 +355,7 @@
       "detailPath": "entities/artists/3e79cf2d2bf7850e.json"
     },
     {
-      "rank": 656,
+      "rank": 657,
       "id": "895f7f4ef9c96328",
       "name": "MitchieM",
       "secondary": "",
@@ -355,7 +412,7 @@
       "detailPath": "entities/artists/895f7f4ef9c96328.json"
     },
     {
-      "rank": 657,
+      "rank": 658,
       "id": "cf1911d96d1b8bc4",
       "name": "シグナルP",
       "secondary": "",
@@ -412,7 +469,7 @@
       "detailPath": "entities/artists/cf1911d96d1b8bc4.json"
     },
     {
-      "rank": 658,
+      "rank": 659,
       "id": "1990a07fcecf8fa2",
       "name": "鮎川麻弥",
       "secondary": "",
@@ -469,7 +526,7 @@
       "detailPath": "entities/artists/1990a07fcecf8fa2.json"
     },
     {
-      "rank": 659,
+      "rank": 660,
       "id": "5bb790b5baa8d518",
       "name": "芹澤優",
       "secondary": "",
@@ -526,7 +583,7 @@
       "detailPath": "entities/artists/5bb790b5baa8d518.json"
     },
     {
-      "rank": 660,
+      "rank": 661,
       "id": "24b40eb6b750de09",
       "name": "原口沙輔",
       "secondary": "",
@@ -583,7 +640,7 @@
       "detailPath": "entities/artists/24b40eb6b750de09.json"
     },
     {
-      "rank": 661,
+      "rank": 662,
       "id": "ffac60a4792f24d6",
       "name": "湘南乃風",
       "secondary": "",
@@ -640,7 +697,7 @@
       "detailPath": "entities/artists/ffac60a4792f24d6.json"
     },
     {
-      "rank": 662,
+      "rank": 663,
       "id": "d161250856cb5575",
       "name": "川本真琴",
       "secondary": "",
@@ -697,7 +754,7 @@
       "detailPath": "entities/artists/d161250856cb5575.json"
     },
     {
-      "rank": 663,
+      "rank": 664,
       "id": "510f5c8461c2f4ff",
       "name": "飯島真理",
       "secondary": "",
@@ -754,7 +811,7 @@
       "detailPath": "entities/artists/510f5c8461c2f4ff.json"
     },
     {
-      "rank": 664,
+      "rank": 665,
       "id": "b2a4e78ed3cab874",
       "name": "Belle",
       "secondary": "",
@@ -812,7 +869,7 @@
       "detailPath": "entities/artists/b2a4e78ed3cab874.json"
     },
     {
-      "rank": 665,
+      "rank": 666,
       "id": "47d5da068f6d7527",
       "name": "ウマ娘",
       "secondary": "",
@@ -869,7 +926,7 @@
       "detailPath": "entities/artists/47d5da068f6d7527.json"
     },
     {
-      "rank": 666,
+      "rank": 667,
       "id": "e99e492c5f5aa6d0",
       "name": "くらげP",
       "secondary": "",
@@ -926,7 +983,7 @@
       "detailPath": "entities/artists/e99e492c5f5aa6d0.json"
     },
     {
-      "rank": 667,
+      "rank": 668,
       "id": "361dbf9c2246cf65",
       "name": "ゴダイゴ",
       "secondary": "",
@@ -983,7 +1040,7 @@
       "detailPath": "entities/artists/361dbf9c2246cf65.json"
     },
     {
-      "rank": 668,
+      "rank": 669,
       "id": "092db1e1993e80ed",
       "name": "乃木坂46 *",
       "secondary": "",
@@ -1040,7 +1097,7 @@
       "detailPath": "entities/artists/092db1e1993e80ed.json"
     },
     {
-      "rank": 669,
+      "rank": 670,
       "id": "2b77c8949eb1c241",
       "name": "℃-ute",
       "secondary": "",
@@ -1097,7 +1154,7 @@
       "detailPath": "entities/artists/2b77c8949eb1c241.json"
     },
     {
-      "rank": 670,
+      "rank": 671,
       "id": "341b62cfe076c8dc",
       "name": "バルーン feat.flower",
       "secondary": "",
@@ -1154,7 +1211,7 @@
       "detailPath": "entities/artists/341b62cfe076c8dc.json"
     },
     {
-      "rank": 671,
+      "rank": 672,
       "id": "75e8ba2c49a96064",
       "name": "Ed Sheeran",
       "secondary": "",
@@ -1212,7 +1269,7 @@
       "detailPath": "entities/artists/75e8ba2c49a96064.json"
     },
     {
-      "rank": 672,
+      "rank": 673,
       "id": "1c12d35d6bb816aa",
       "name": "KEYTALK",
       "secondary": "",
@@ -1269,7 +1326,7 @@
       "detailPath": "entities/artists/1c12d35d6bb816aa.json"
     },
     {
-      "rank": 673,
+      "rank": 674,
       "id": "4e3c69932583042c",
       "name": "今野友加里",
       "secondary": "",
@@ -1326,7 +1383,7 @@
       "detailPath": "entities/artists/4e3c69932583042c.json"
     },
     {
-      "rank": 674,
+      "rank": 675,
       "id": "fce48c0ffcd13e34",
       "name": "和楽器バンド",
       "secondary": "",
@@ -1383,7 +1440,7 @@
       "detailPath": "entities/artists/fce48c0ffcd13e34.json"
     },
     {
-      "rank": 675,
+      "rank": 676,
       "id": "646c29a225635281",
       "name": "DECO*27 ※JOYSOUND",
       "secondary": "",
@@ -1440,7 +1497,7 @@
       "detailPath": "entities/artists/646c29a225635281.json"
     },
     {
-      "rank": 676,
+      "rank": 677,
       "id": "b609c34beae9697e",
       "name": "School Food Punishment",
       "secondary": "",
@@ -1498,7 +1555,7 @@
       "detailPath": "entities/artists/b609c34beae9697e.json"
     },
     {
-      "rank": 677,
+      "rank": 678,
       "id": "6a35be411e13341c",
       "name": "21",
       "secondary": "",
@@ -1552,7 +1609,7 @@
       "detailPath": "entities/artists/6a35be411e13341c.json"
     },
     {
-      "rank": 678,
+      "rank": 679,
       "id": "6fa7b3d825241c94",
       "name": "Olivia Rodrigo",
       "secondary": "",
@@ -1609,7 +1666,7 @@
       "detailPath": "entities/artists/6fa7b3d825241c94.json"
     },
     {
-      "rank": 679,
+      "rank": 680,
       "id": "192b5c793b7b8075",
       "name": "夢限大みゅーたいぷ",
       "secondary": "",
@@ -1666,7 +1723,7 @@
       "detailPath": "entities/artists/192b5c793b7b8075.json"
     },
     {
-      "rank": 680,
+      "rank": 681,
       "id": "aea8394f473fade7",
       "name": "25時、ナイトコードで。",
       "secondary": "",
@@ -1723,7 +1780,7 @@
       "detailPath": "entities/artists/aea8394f473fade7.json"
     },
     {
-      "rank": 681,
+      "rank": 682,
       "id": "0bfa614fba2aed62",
       "name": "B.B.クィーンズ",
       "secondary": "",
@@ -1780,7 +1837,7 @@
       "detailPath": "entities/artists/0bfa614fba2aed62.json"
     },
     {
-      "rank": 682,
+      "rank": 683,
       "id": "5d366e288a740854",
       "name": "iroha",
       "secondary": "",
@@ -1837,7 +1894,7 @@
       "detailPath": "entities/artists/5d366e288a740854.json"
     },
     {
-      "rank": 683,
+      "rank": 684,
       "id": "09be939eb4d22feb",
       "name": "こんにちは谷田さん",
       "secondary": "",
@@ -1895,7 +1952,7 @@
       "detailPath": "entities/artists/09be939eb4d22feb.json"
     },
     {
-      "rank": 684,
+      "rank": 685,
       "id": "af4715122bde53ac",
       "name": "チョーキューメイ",
       "secondary": "",
@@ -1952,7 +2009,7 @@
       "detailPath": "entities/artists/af4715122bde53ac.json"
     },
     {
-      "rank": 685,
+      "rank": 686,
       "id": "005043b15faec549",
       "name": "はりーP",
       "secondary": "",
@@ -2010,7 +2067,7 @@
       "detailPath": "entities/artists/005043b15faec549.json"
     },
     {
-      "rank": 686,
+      "rank": 687,
       "id": "4523768e7acc0766",
       "name": "ランカ・リー",
       "secondary": "",
@@ -2067,7 +2124,7 @@
       "detailPath": "entities/artists/4523768e7acc0766.json"
     },
     {
-      "rank": 687,
+      "rank": 688,
       "id": "ddfa0b103301af0f",
       "name": "柿崎ユウタ",
       "secondary": "",
@@ -2124,7 +2181,7 @@
       "detailPath": "entities/artists/ddfa0b103301af0f.json"
     },
     {
-      "rank": 688,
+      "rank": 689,
       "id": "2ad9cc97d17e043d",
       "name": "宮崎 歩",
       "secondary": "",
@@ -2181,7 +2238,7 @@
       "detailPath": "entities/artists/2ad9cc97d17e043d.json"
     },
     {
-      "rank": 689,
+      "rank": 690,
       "id": "5c3c5aa72327ef97",
       "name": "熊田茜音＆増井優花",
       "secondary": "",
@@ -2238,7 +2295,7 @@
       "detailPath": "entities/artists/5c3c5aa72327ef97.json"
     },
     {
-      "rank": 690,
+      "rank": 691,
       "id": "fd2982c7874dee46",
       "name": "篠原涼子",
       "secondary": "",
@@ -2295,7 +2352,7 @@
       "detailPath": "entities/artists/fd2982c7874dee46.json"
     },
     {
-      "rank": 691,
+      "rank": 692,
       "id": "d17c085bd7fd0c33",
       "name": "修二と彰",
       "secondary": "",
@@ -2352,7 +2409,7 @@
       "detailPath": "entities/artists/d17c085bd7fd0c33.json"
     },
     {
-      "rank": 692,
+      "rank": 693,
       "id": "59f8277aa27e01bf",
       "name": "森川美穂",
       "secondary": "",
@@ -2409,7 +2466,7 @@
       "detailPath": "entities/artists/59f8277aa27e01bf.json"
     },
     {
-      "rank": 693,
+      "rank": 694,
       "id": "58c3010eee6d832b",
       "name": "藤岡藤巻と大橋のぞみ",
       "secondary": "",
@@ -2466,7 +2523,7 @@
       "detailPath": "entities/artists/58c3010eee6d832b.json"
     },
     {
-      "rank": 694,
+      "rank": 695,
       "id": "f99ae57d79e687ed",
       "name": "苺咲べりぃ",
       "secondary": "",
@@ -2523,7 +2580,7 @@
       "detailPath": "entities/artists/f99ae57d79e687ed.json"
     },
     {
-      "rank": 695,
+      "rank": 696,
       "id": "1c2f8ef02fa4035d",
       "name": "MY FIRST STORY×HYDE",
       "secondary": "",
@@ -2580,7 +2637,7 @@
       "detailPath": "entities/artists/1c2f8ef02fa4035d.json"
     },
     {
-      "rank": 696,
+      "rank": 697,
       "id": "eaa5a8373d28ba61",
       "name": "shimon",
       "secondary": "",
@@ -2637,7 +2694,7 @@
       "detailPath": "entities/artists/eaa5a8373d28ba61.json"
     },
     {
-      "rank": 697,
+      "rank": 698,
       "id": "42f27d2603bf098c",
       "name": "ST☆RISH",
       "secondary": "",
@@ -2694,7 +2751,7 @@
       "detailPath": "entities/artists/42f27d2603bf098c.json"
     },
     {
-      "rank": 698,
+      "rank": 699,
       "id": "95f9be0f5b769f02",
       "name": "Suara",
       "secondary": "",
@@ -2751,7 +2808,7 @@
       "detailPath": "entities/artists/95f9be0f5b769f02.json"
     },
     {
-      "rank": 699,
+      "rank": 700,
       "id": "dd30559293d272ad",
       "name": "the brilliant green",
       "secondary": "",
@@ -2807,63 +2864,6 @@
         }
       ],
       "detailPath": "entities/artists/dd30559293d272ad.json"
-    },
-    {
-      "rank": 700,
-      "id": "397a4e20b5e64c13",
-      "name": "abingdon boys school",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 13,
-      "videoCount": 11,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "jSYhhlPc1Sc",
-          "videoTitle": "【歌枠】熱血アニソン‼️懐メロ😆一緒に盛り上がろう🎤【雑談】￤1980・1990・2000・2010年代￤邦楽￤",
-          "channelName": "うさぎん🐰レトロゲームを楽しく遊ぶch",
-          "publishedAt": "2026-09-30T16:43:31.213Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jSYhhlPc1Sc/hqdefault.jpg",
-          "sourcePath": "sources/jS/jSYhhlPc1Sc.json",
-          "time": "1:20:20",
-          "seconds": 4820,
-          "songTitle": "INNOCENT SORROW",
-          "artist": "Abingdon boys school"
-        },
-        {
-          "videoId": "7NIHaQVxS54",
-          "videoTitle": "【#歌枠 】初見さん大歓迎！リベンジ！絶唱の高評価300耐久歌枠🔥【 #アカノビャクア】#アカノート #vsinger #karaoke",
-          "channelName": "アカノ☆ビャクア AkanoByakua",
-          "publishedAt": "2026-09-26T18:48:54.683Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7NIHaQVxS54/hqdefault.jpg",
-          "sourcePath": "sources/7N/7NIHaQVxS54.json",
-          "time": "1:31:37",
-          "seconds": 5497,
-          "songTitle": "JAP",
-          "artist": "abingdon boys school"
-        },
-        {
-          "videoId": "xBsyujfT51M",
-          "videoTitle": "#歌枠 ｜アニソン歌います。",
-          "channelName": "依伽といち",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xBsyujfT51M/hqdefault.jpg",
-          "sourcePath": "sources/xB/xBsyujfT51M.json",
-          "time": "0:22:27",
-          "seconds": 1347,
-          "songTitle": "INNOCENT SORROW",
-          "artist": "abingdon boys school"
-        }
-      ],
-      "detailPath": "entities/artists/397a4e20b5e64c13.json"
     }
   ]
 }

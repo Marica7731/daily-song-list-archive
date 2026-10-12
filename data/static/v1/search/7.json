@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "items": [
     {
       "id": "78330f06194d369f",
@@ -2806,10 +2806,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/7166542383ff022b.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 15,
           "videoCount": 15
@@ -28162,8 +28158,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
           "occurrenceCount": 50,
@@ -45903,8 +45899,8 @@
       "type": "songs",
       "name": "冷めたアールグレイ",
       "secondary": "まにこ(オリジナル・フル)",
-      "occurrenceCount": 3,
-      "videoCount": 3,
+      "occurrenceCount": 4,
+      "videoCount": 4,
       "keywords": [
         "mygit今日快照",
         "弾き語り"
@@ -45914,8 +45910,8 @@
       "detailPath": "entities/songs/78f5208f9c93979e.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "冷めたアールグレイまにこオリジナルフル"
@@ -55224,16 +55220,19 @@
       "type": "songs",
       "name": "STAND UP TO THE VICTORY",
       "secondary": "川添智久",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "keywords": [],
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/714667a45f2ccdde.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "standuptothevictory川添智久"
@@ -72505,6 +72504,31 @@
       "text": "02恋愛サーキュレーション千石撫子花澤香菜2010"
     },
     {
+      "id": "7d648be6f772811d",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "アンサー",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/7d648be6f772811d.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "アンサー"
+    },
+    {
       "id": "73c12accd93ff78f",
       "channelId": "",
       "channelHandle": "",
@@ -73342,10 +73366,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/7f2e4e03c78c634d.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -73371,10 +73391,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/79220ee046cff75a.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -73400,10 +73416,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/71fa707e924abcbb.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -73429,10 +73441,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/71a43461f3b29210.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -73458,10 +73466,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/7d3d1be3c277ad23.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -76047,8 +76051,8 @@
           "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 16,
-          "videoCount": 14
+          "occurrenceCount": 15,
+          "videoCount": 13
         },
         "30d": {
           "occurrenceCount": 277,
@@ -76363,8 +76367,8 @@
       "type": "artists",
       "name": "SIAM SHADE",
       "secondary": "",
-      "occurrenceCount": 63,
-      "videoCount": 61,
+      "occurrenceCount": 64,
+      "videoCount": 62,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76389,8 +76393,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 22,
-          "videoCount": 21
+          "occurrenceCount": 23,
+          "videoCount": 22
         }
       },
       "text": "siamshade"
@@ -76812,8 +76816,8 @@
       "detailPath": "entities/artists/7ad03753204a9c9f.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 25,
@@ -78985,8 +78989,8 @@
       "detailPath": "entities/artists/7b558690c4939088.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "30d": {
           "occurrenceCount": 20,
@@ -79155,8 +79159,8 @@
           "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "30d": {
           "occurrenceCount": 27,
@@ -103645,6 +103649,31 @@
         }
       },
       "text": "siren"
+    },
+    {
+      "id": "71ce59dabccd0a7b",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "artists",
+      "name": "シアーギフトほか",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/artists/71ce59dabccd0a7b.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "シアーギフトほか"
     },
     {
       "id": "716858e49c658219",

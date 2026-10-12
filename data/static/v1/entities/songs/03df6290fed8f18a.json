@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "id": "03df6290fed8f18a",
   "type": "songs",
   "name": "主人公",
@@ -8,12 +8,27 @@
   "channelId": "",
   "channelHandle": "",
   "channelUrl": "",
-  "occurrenceCount": 1,
-  "videoCount": 1,
-  "keywords": [],
+  "occurrenceCount": 2,
+  "videoCount": 2,
+  "keywords": [
+    "mygit今日快照",
+    "弾き語り"
+  ],
   "collected": false,
   "collectionId": "",
   "sourcesPreview": [
+    {
+      "videoId": "qdWHYN7KPH4",
+      "videoTitle": "弾き語り配信｜初見さん大歓迎！",
+      "channelName": "まにこ (manico)",
+      "publishedAt": "2026-10-04T13:31:27.298Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qdWHYN7KPH4/hqdefault.jpg",
+      "sourcePath": "sources/qd/qdWHYN7KPH4.json",
+      "time": "1:42:46",
+      "seconds": 6166,
+      "songTitle": "主人公",
+      "artist": "まにこ（オリジナル・フル）"
+    },
     {
       "videoId": "OC94IWAO0Uk",
       "videoTitle": "弾き語り配信｜（2026/9/26アーカイブ）",
@@ -40,6 +55,21 @@
       "sourcePath": "sources/OC/OC94IWAO0Uk.json",
       "time": "1:27:52",
       "seconds": 5272,
+      "songTitle": "主人公",
+      "artist": "まにこ（オリジナル・フル）"
+    },
+    {
+      "videoId": "qdWHYN7KPH4",
+      "videoTitle": "弾き語り配信｜初見さん大歓迎！",
+      "channelName": "まにこ (manico)",
+      "channelId": "UCrF92dEkXiTtexol0yg4Gmw",
+      "channelHandle": "@manico_official",
+      "channelUrl": "",
+      "publishedAt": "2026-10-04T13:31:27.298Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qdWHYN7KPH4/hqdefault.jpg",
+      "sourcePath": "sources/qd/qdWHYN7KPH4.json",
+      "time": "1:42:46",
+      "seconds": 6166,
       "songTitle": "主人公",
       "artist": "まにこ（オリジナル・フル）"
     }

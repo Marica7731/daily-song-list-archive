@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "all",
   "type": "artists",
   "page": 104,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19988,
+  "totalCount": 19991,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1693,6 +1693,51 @@
     },
     {
       "rank": 5188,
+      "id": "69fa5e0844efa44b",
+      "name": "Onnyomi(Vo.まにこ)フル",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qdWHYN7KPH4",
+          "videoTitle": "弾き語り配信｜初見さん大歓迎！",
+          "channelName": "まにこ (manico)",
+          "publishedAt": "2026-10-04T13:31:27.298Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qdWHYN7KPH4/hqdefault.jpg",
+          "sourcePath": "sources/qd/qdWHYN7KPH4.json",
+          "time": "0:50:51",
+          "seconds": 3051,
+          "songTitle": "雨宿りの人生",
+          "artist": "Onnyomi（Vo.まにこ）フル"
+        },
+        {
+          "videoId": "pYXC2j0M0uw",
+          "videoTitle": "弾き語り配信｜初見さん大歓迎！",
+          "channelName": "まにこ (manico)",
+          "publishedAt": "2026-09-10T13:33:29.267Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pYXC2j0M0uw/hqdefault.jpg",
+          "sourcePath": "sources/pY/pYXC2j0M0uw.json",
+          "time": "1:05:10",
+          "seconds": 3910,
+          "songTitle": "雨宿りの人生",
+          "artist": "Onnyomi(Vo.まにこ)フル"
+        }
+      ],
+      "detailPath": "entities/artists/69fa5e0844efa44b.json"
+    },
+    {
+      "rank": 5189,
       "id": "bca7ec8a0963977a",
       "name": "Opalite",
       "secondary": "",
@@ -1737,7 +1782,7 @@
       "detailPath": "entities/artists/bca7ec8a0963977a.json"
     },
     {
-      "rank": 5189,
+      "rank": 5190,
       "id": "fa555478b8dfbd30",
       "name": "Orangestar ／ IA(2014年)",
       "secondary": "",
@@ -1783,7 +1828,7 @@
       "detailPath": "entities/artists/fa555478b8dfbd30.json"
     },
     {
-      "rank": 5190,
+      "rank": 5191,
       "id": "7ed12829f4f4861e",
       "name": "Orangestar,蜜柑星P",
       "secondary": "",
@@ -1828,7 +1873,7 @@
       "detailPath": "entities/artists/7ed12829f4f4861e.json"
     },
     {
-      "rank": 5191,
+      "rank": 5192,
       "id": "c0bca82364f83c88",
       "name": "Orangestar｜IA",
       "secondary": "",
@@ -1874,7 +1919,7 @@
       "detailPath": "entities/artists/c0bca82364f83c88.json"
     },
     {
-      "rank": 5192,
+      "rank": 5193,
       "id": "6d1928d492d13a72",
       "name": "OSTER",
       "secondary": "",
@@ -1919,7 +1964,7 @@
       "detailPath": "entities/artists/6d1928d492d13a72.json"
     },
     {
-      "rank": 5193,
+      "rank": 5194,
       "id": "b53506bedd509f01",
       "name": "OSTER project feat.GUMI",
       "secondary": "",
@@ -1966,7 +2011,7 @@
       "detailPath": "entities/artists/b53506bedd509f01.json"
     },
     {
-      "rank": 5194,
+      "rank": 5195,
       "id": "26e44467b06d4163",
       "name": "OSTER project feat.初音ミク",
       "secondary": "",
@@ -2012,7 +2057,7 @@
       "detailPath": "entities/artists/26e44467b06d4163.json"
     },
     {
-      "rank": 5195,
+      "rank": 5196,
       "id": "6cbbd696e3203399",
       "name": "out of the gravity",
       "secondary": "",
@@ -2057,7 +2102,7 @@
       "detailPath": "entities/artists/6cbbd696e3203399.json"
     },
     {
-      "rank": 5196,
+      "rank": 5197,
       "id": "d06e593b357a8a36",
       "name": "Owl City & Carly Rae Jepsen",
       "secondary": "",
@@ -2105,7 +2150,7 @@
       "detailPath": "entities/artists/d06e593b357a8a36.json"
     },
     {
-      "rank": 5197,
+      "rank": 5198,
       "id": "9dd83fa19c9223d5",
       "name": "OZWORLD",
       "secondary": "",
@@ -2151,7 +2196,7 @@
       "detailPath": "entities/artists/9dd83fa19c9223d5.json"
     },
     {
-      "rank": 5198,
+      "rank": 5199,
       "id": "43caf2326d25157c",
       "name": "P!NK",
       "secondary": "",
@@ -2196,7 +2241,7 @@
       "detailPath": "entities/artists/43caf2326d25157c.json"
     },
     {
-      "rank": 5199,
+      "rank": 5200,
       "id": "cb5164021989af6c",
       "name": "Palette Project",
       "secondary": "",
@@ -2240,51 +2285,6 @@
         }
       ],
       "detailPath": "entities/artists/cb5164021989af6c.json"
-    },
-    {
-      "rank": 5200,
-      "id": "84eb24270a4a9691",
-      "name": "Papiyon-p",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "kETXLbqMztQ",
-          "videoTitle": "【KARAOKE】Request Songs for Feesh!🐟🎶 #karaoke #歌枠",
-          "channelName": "Alpha Betta【V-Dere】",
-          "publishedAt": "2026-09-20T06:21:54.661Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kETXLbqMztQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkLKJJunJzJ6mjccYKOYetAvt0_Q",
-          "sourcePath": "sources/kE/kETXLbqMztQ.json",
-          "time": "0:36:33",
-          "seconds": 2193,
-          "songTitle": "Kokoronashi",
-          "artist": "Papiyon-p"
-        },
-        {
-          "videoId": "89KaPD6GxzQ",
-          "videoTitle": "【KARAOKE】Fridays Are For Singing!🎤🐟🎶 #karaoke #歌枠",
-          "channelName": "Alpha Betta【V-Dere】",
-          "publishedAt": "2026-09-11T17:39:32.489Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/89KaPD6GxzQ/hqdefault.jpg",
-          "sourcePath": "sources/89/89KaPD6GxzQ.json",
-          "time": "1:53:20",
-          "seconds": 6800,
-          "songTitle": "Kokoronashi",
-          "artist": "Papiyon-p"
-        }
-      ],
-      "detailPath": "entities/artists/84eb24270a4a9691.json"
     }
   ]
 }

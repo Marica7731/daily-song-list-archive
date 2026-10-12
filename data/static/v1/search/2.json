@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "items": [
     {
       "id": "27dcb84e7dea1864",
@@ -1316,8 +1316,8 @@
           "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 6,
-          "videoCount": 6
+          "occurrenceCount": 5,
+          "videoCount": 5
         },
         "30d": {
           "occurrenceCount": 40,
@@ -1588,8 +1588,8 @@
           "videoCount": 3
         },
         "7d": {
-          "occurrenceCount": 7,
-          "videoCount": 7
+          "occurrenceCount": 6,
+          "videoCount": 6
         },
         "30d": {
           "occurrenceCount": 64,
@@ -2206,10 +2206,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/2e5f2ee772f04b10.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 4,
           "videoCount": 4
@@ -2486,8 +2482,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 6,
-          "videoCount": 6
+          "occurrenceCount": 5,
+          "videoCount": 5
         },
         "30d": {
           "occurrenceCount": 66,
@@ -5430,8 +5426,8 @@
       "detailPath": "entities/songs/20372ff407d9ceda.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "30d": {
           "occurrenceCount": 27,
@@ -6082,8 +6078,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
           "occurrenceCount": 22,
@@ -6582,8 +6578,8 @@
       "type": "songs",
       "name": "JUST COMMUNICATION",
       "secondary": "TWO-MIX",
-      "occurrenceCount": 44,
-      "videoCount": 44,
+      "occurrenceCount": 45,
+      "videoCount": 45,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -6596,8 +6592,8 @@
       "detailPath": "entities/songs/2bd76f46e01c33b6.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 23,
-          "videoCount": 23
+          "occurrenceCount": 24,
+          "videoCount": 24
         }
       },
       "text": "justcommunicationtwomix"
@@ -7736,8 +7732,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 15,
@@ -30271,16 +30267,22 @@
       "type": "songs",
       "name": "恋人ごっこ",
       "secondary": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
-        "弾き語り"
+        "弾き語り",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/2f5f49b440162984.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "恋人ごっこ"
     },
     {
@@ -42995,10 +42997,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/2053f05f49094458.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -49559,10 +49557,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/20be66c39afb1168.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 3,
           "videoCount": 3
@@ -71154,6 +71148,31 @@
       "text": "05onegaidarlinnanahoshikangengakudanftone"
     },
     {
+      "id": "22015997457b9ffb",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "MY DAER",
+      "secondary": "まにこ（オリジナル・フル）",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/22015997457b9ffb.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "mydaerまにこオリジナルフル"
+    },
+    {
       "id": "24b2ab058f50fc36",
       "channelId": "",
       "channelHandle": "",
@@ -72262,10 +72281,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/27840b750d8cbd3f.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -72291,10 +72306,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/28be085a68ef765c.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -72320,10 +72331,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/257e92b939280fbb.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -75218,8 +75225,8 @@
       "type": "artists",
       "name": "ロクデナシ",
       "secondary": "",
-      "occurrenceCount": 263,
-      "videoCount": 217,
+      "occurrenceCount": 265,
+      "videoCount": 219,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -75241,8 +75248,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 91,
-          "videoCount": 74
+          "occurrenceCount": 93,
+          "videoCount": 76
         }
       },
       "text": "ロクデナシ"
@@ -75442,8 +75449,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
           "occurrenceCount": 36,
@@ -75868,8 +75875,8 @@
           "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 13,
-          "videoCount": 7
+          "occurrenceCount": 12,
+          "videoCount": 6
         },
         "30d": {
           "occurrenceCount": 68,
@@ -76031,8 +76038,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 4,
+          "videoCount": 4
         },
         "30d": {
           "occurrenceCount": 114,
@@ -76284,8 +76291,8 @@
           "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 13,
-          "videoCount": 8
+          "occurrenceCount": 10,
+          "videoCount": 6
         },
         "30d": {
           "occurrenceCount": 74,
@@ -76739,10 +76746,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/2bdabe224f421bd8.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 2,
           "videoCount": 2
@@ -77808,10 +77811,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/2d4e183c36be90e2.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 16,
           "videoCount": 15
@@ -105034,19 +105033,21 @@
       "type": "vtubers",
       "name": "まにこ (manico)",
       "secondary": "",
-      "occurrenceCount": 126,
-      "videoCount": 7,
+      "occurrenceCount": 147,
+      "videoCount": 8,
       "keywords": [
         "month",
-        "today"
+        "mygit今日快照",
+        "today",
+        "弾き語り"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/vtubers/2ef51b8009f178b0.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 69,
-          "videoCount": 4
+          "occurrenceCount": 90,
+          "videoCount": 5
         }
       },
       "text": "まにこmanico"
@@ -106310,10 +106311,6 @@
       "collectionId": "",
       "detailPath": "entities/vtubers/205997d84f65c165.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 12,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 12,
           "videoCount": 1
@@ -112086,6 +112083,31 @@
         }
       },
       "text": "ゆらまよいyuramayoi"
+    },
+    {
+      "id": "25f3ecbcedcff866",
+      "channelId": "UClXNlJ2ez59yCEIZinyv7tA",
+      "channelHandle": "@MinamoAlice",
+      "channelUrl": "",
+      "type": "vtubers",
+      "name": "水面ありす / Alice CH.",
+      "secondary": "",
+      "occurrenceCount": 15,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/vtubers/25f3ecbcedcff866.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 15,
+          "videoCount": 1
+        }
+      },
+      "text": "水面ありすalicech"
     },
     {
       "id": "27056003bf458b7a",

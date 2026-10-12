@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "items": [
     {
       "id": "051d4f00cb91d2f5",
@@ -683,8 +683,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "30d": {
           "occurrenceCount": 20,
@@ -1627,8 +1627,8 @@
           "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "30d": {
           "occurrenceCount": 12,
@@ -3250,8 +3250,8 @@
       "type": "songs",
       "name": "またね",
       "secondary": "まにこ",
-      "occurrenceCount": 8,
-      "videoCount": 8,
+      "occurrenceCount": 9,
+      "videoCount": 9,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -3263,8 +3263,8 @@
       "detailPath": "entities/songs/03ca2d97fb845fcd.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "またねまにこ"
@@ -3967,10 +3967,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/035a33010c468e9c.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 61,
           "videoCount": 61
@@ -4155,8 +4151,8 @@
       "detailPath": "entities/songs/06f329212ea19589.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 51,
@@ -4730,8 +4726,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 4,
+          "videoCount": 4
         },
         "30d": {
           "occurrenceCount": 27,
@@ -29449,10 +29445,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/0dbc60038a1fdb64.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 4,
           "videoCount": 4
@@ -36832,8 +36824,8 @@
       "detailPath": "entities/songs/0157d09cb3325c75.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 6,
@@ -56026,8 +56018,8 @@
       "type": "songs",
       "name": "LilaS",
       "secondary": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -56037,8 +56029,8 @@
       "detailPath": "entities/songs/033a045400a411f9.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "lilas"
@@ -60619,10 +60611,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/061733f40715fdc0.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 2,
           "videoCount": 2
@@ -65471,16 +65459,19 @@
       "type": "songs",
       "name": "主人公",
       "secondary": "まにこ（オリジナル・フル）",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "keywords": [],
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/03df6290fed8f18a.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "主人公まにこオリジナルフル"
@@ -72745,6 +72736,56 @@
       "text": "そしていま瀬戸麻沙美"
     },
     {
+      "id": "06880226eb3f2332",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "ただそばで",
+      "secondary": "まにこ（オリジナル・フル）",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/06880226eb3f2332.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "ただそばでまにこオリジナルフル"
+    },
+    {
+      "id": "0b4d6385760fc1a7",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "ぐるぐる",
+      "secondary": "まにこ",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/0b4d6385760fc1a7.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "ぐるぐるまにこ"
+    },
+    {
       "id": "04c269959bce4fef",
       "channelId": "",
       "channelHandle": "",
@@ -73735,10 +73776,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/0f15251537a70a24.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -73764,10 +73801,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/04457c9e1f12b796.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -76658,8 +76691,8 @@
       "type": "artists",
       "name": "FIELD OF VIEW",
       "secondary": "",
-      "occurrenceCount": 110,
-      "videoCount": 107,
+      "occurrenceCount": 111,
+      "videoCount": 108,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76677,8 +76710,8 @@
           "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 42,
-          "videoCount": 40
+          "occurrenceCount": 43,
+          "videoCount": 41
         }
       },
       "text": "fieldofview"
@@ -77190,10 +77223,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/0300597c31a8ade2.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 4,
           "videoCount": 4
@@ -77552,8 +77581,8 @@
       "type": "artists",
       "name": "未知歌手",
       "secondary": "",
-      "occurrenceCount": 13498,
-      "videoCount": 3606,
+      "occurrenceCount": 13516,
+      "videoCount": 3609,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -77574,12 +77603,12 @@
           "videoCount": 18
         },
         "7d": {
-          "occurrenceCount": 388,
-          "videoCount": 126
+          "occurrenceCount": 361,
+          "videoCount": 121
         },
         "30d": {
-          "occurrenceCount": 7395,
-          "videoCount": 2084
+          "occurrenceCount": 7413,
+          "videoCount": 2087
         }
       },
       "text": "未知歌手"
@@ -77921,8 +77950,8 @@
       "type": "artists",
       "name": "まにこ",
       "secondary": "",
-      "occurrenceCount": 57,
-      "videoCount": 9,
+      "occurrenceCount": 60,
+      "videoCount": 10,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -77934,8 +77963,8 @@
       "detailPath": "entities/artists/0344ebc1b3d84e34.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 19,
-          "videoCount": 3
+          "occurrenceCount": 22,
+          "videoCount": 4
         }
       },
       "text": "まにこ"
@@ -78090,8 +78119,8 @@
       "type": "artists",
       "name": "ひろえ純",
       "secondary": "",
-      "occurrenceCount": 28,
-      "videoCount": 27,
+      "occurrenceCount": 29,
+      "videoCount": 28,
       "keywords": [
         "karaoke",
         "month",
@@ -78111,8 +78140,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 17,
-          "videoCount": 16
+          "occurrenceCount": 18,
+          "videoCount": 17
         }
       },
       "text": "ひろえ純"
@@ -88455,10 +88484,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/0bea5d00b6f6f87a.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 2,
           "videoCount": 2
@@ -90459,10 +90484,6 @@
       "collectionId": "",
       "detailPath": "entities/artists/0dce7184006fd0e4.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 2,
           "videoCount": 2
@@ -107189,8 +107210,8 @@
       "detailPath": "entities/vtubers/0a8f4ae0f16f9198.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 19,
-          "videoCount": 2
+          "occurrenceCount": 10,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 137,
@@ -111281,10 +111302,6 @@
       "collectionId": "",
       "detailPath": "entities/vtubers/042b159a7358dcbc.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 13,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 13,
           "videoCount": 1

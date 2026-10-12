@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "all",
   "type": "songs",
   "page": 4,
   "pageSize": 50,
   "pageCount": 1056,
-  "totalCount": 52771,
+  "totalCount": 52789,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -564,6 +564,67 @@
     },
     {
       "rank": 160,
+      "id": "cae572bc7ba1ccf8",
+      "name": "ANIMA",
+      "secondary": "ReoNa",
+      "channelId": "UCZtjTxFDan4ORyt1x6oQ6qA",
+      "channelHandle": "@chacha_pulamumu",
+      "channelUrl": "",
+      "occurrenceCount": 118,
+      "videoCount": 118,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TFwmXZsys5s",
+          "videoTitle": "【#歌枠】アニソンを歌いたい気持ちの歌枠!!【#新人Vtuber】",
+          "channelName": "姫狂くるる-kigurui kururu-",
+          "publishedAt": "2026-10-09T19:35:46.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TFwmXZsys5s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0Htb0TEZnq4xnj1LTUSnJ-dhQGQ",
+          "sourcePath": "sources/TF/TFwmXZsys5s.json",
+          "time": "3:30:48",
+          "seconds": 12648,
+          "songTitle": "ANIMA",
+          "artist": "ReoNa"
+        },
+        {
+          "videoId": "fOex-yn9NBw",
+          "videoTitle": "【#歌枠】1曲いかがですか？ #shorts #vtuber #vsinger",
+          "channelName": "巫てんり / Kannagi Tenri",
+          "publishedAt": "2026-10-09T15:14:25.390Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fOex-yn9NBw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGXrbyFC814ZNljPRYbNjOXKOcDg",
+          "sourcePath": "sources/fO/fOex-yn9NBw.json",
+          "time": "1:09:44",
+          "seconds": 4184,
+          "songTitle": "ANIMA",
+          "artist": "ReoNa"
+        },
+        {
+          "videoId": "rrUpgrClwpM",
+          "videoTitle": "【縦型歌枠 #shorts 】雑談多め歌枠かもしれない【 #無原唱レコード / ＃ルシェルーム 】",
+          "channelName": "宮島ルシェル / LECIEL MIYAJIMA",
+          "publishedAt": "2026-10-09T04:18:40.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rrUpgrClwpM/hqdefault.jpg",
+          "sourcePath": "sources/rr/rrUpgrClwpM.json",
+          "time": "0:40:15",
+          "seconds": 2415,
+          "songTitle": "ANIMA",
+          "artist": "ReoNa"
+        }
+      ],
+      "detailPath": "entities/songs/cae572bc7ba1ccf8.json"
+    },
+    {
+      "rank": 161,
       "id": "eb2bb2ee6d64044c",
       "name": "ミックスナッツ",
       "secondary": "Official髭男dism",
@@ -624,7 +685,7 @@
       "detailPath": "entities/songs/eb2bb2ee6d64044c.json"
     },
     {
-      "rank": 161,
+      "rank": 162,
       "id": "6e2b8037a14e2657",
       "name": "空も飛べるはず",
       "secondary": "スピッツ",
@@ -685,7 +746,7 @@
       "detailPath": "entities/songs/6e2b8037a14e2657.json"
     },
     {
-      "rank": 162,
+      "rank": 163,
       "id": "fc9f762d51189d9d",
       "name": "盛れ！ミ・アモーレ",
       "secondary": "Juice=Juice",
@@ -744,67 +805,6 @@
         }
       ],
       "detailPath": "entities/songs/fc9f762d51189d9d.json"
-    },
-    {
-      "rank": 163,
-      "id": "cae572bc7ba1ccf8",
-      "name": "ANIMA",
-      "secondary": "ReoNa",
-      "channelId": "UCZtjTxFDan4ORyt1x6oQ6qA",
-      "channelHandle": "@chacha_pulamumu",
-      "channelUrl": "",
-      "occurrenceCount": 117,
-      "videoCount": 117,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "TFwmXZsys5s",
-          "videoTitle": "【#歌枠】アニソンを歌いたい気持ちの歌枠!!【#新人Vtuber】",
-          "channelName": "姫狂くるる-kigurui kururu-",
-          "publishedAt": "2026-10-09T19:35:46.516Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TFwmXZsys5s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0Htb0TEZnq4xnj1LTUSnJ-dhQGQ",
-          "sourcePath": "sources/TF/TFwmXZsys5s.json",
-          "time": "3:30:48",
-          "seconds": 12648,
-          "songTitle": "ANIMA",
-          "artist": "ReoNa"
-        },
-        {
-          "videoId": "fOex-yn9NBw",
-          "videoTitle": "【#歌枠】1曲いかがですか？ #shorts #vtuber #vsinger",
-          "channelName": "巫てんり / Kannagi Tenri",
-          "publishedAt": "2026-10-09T15:14:25.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/fOex-yn9NBw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGXrbyFC814ZNljPRYbNjOXKOcDg",
-          "sourcePath": "sources/fO/fOex-yn9NBw.json",
-          "time": "1:09:44",
-          "seconds": 4184,
-          "songTitle": "ANIMA",
-          "artist": "ReoNa"
-        },
-        {
-          "videoId": "rrUpgrClwpM",
-          "videoTitle": "【縦型歌枠 #shorts 】雑談多め歌枠かもしれない【 #無原唱レコード / ＃ルシェルーム 】",
-          "channelName": "宮島ルシェル / LECIEL MIYAJIMA",
-          "publishedAt": "2026-10-09T04:18:40.733Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rrUpgrClwpM/hqdefault.jpg",
-          "sourcePath": "sources/rr/rrUpgrClwpM.json",
-          "time": "0:40:15",
-          "seconds": 2415,
-          "songTitle": "ANIMA",
-          "artist": "ReoNa"
-        }
-      ],
-      "detailPath": "entities/songs/cae572bc7ba1ccf8.json"
     },
     {
       "rank": 164,
@@ -2947,6 +2947,67 @@
     },
     {
       "rank": 199,
+      "id": "696586609c9ef755",
+      "name": "アスノヨゾラ哨戒班",
+      "secondary": "Orangestar",
+      "channelId": "UC5SSy3julTJHzmExQJjLUkw",
+      "channelHandle": "@Akubi.demonspade",
+      "channelUrl": "",
+      "occurrenceCount": 103,
+      "videoCount": 103,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "aWyU7kSXxMU",
+          "videoTitle": "【今日はリクエスト曲限定】森で弾き語り、続編です🌳【 #UNIT_B / #清澄ライラ】",
+          "channelName": "UNIT B (Pre-Debut) - mekPark",
+          "publishedAt": "2026-10-07T06:42:49.802Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aWyU7kSXxMU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmRp0Pfm4WcC3VU5TyjpOE-HA3DA&usqp=CBQ",
+          "sourcePath": "sources/aW/aWyU7kSXxMU.json",
+          "time": "1:27:21",
+          "seconds": 5241,
+          "songTitle": "アスノヨゾラ哨戒班",
+          "artist": "Orangestar"
+        },
+        {
+          "videoId": "jPIrY0p0jtc",
+          "videoTitle": "┆#歌枠 / #KARAOKE┆泥酔カラオケ.ᐟ.ᐣ 酔っ払い、元気に歌います.ᐟ.ᐟ〖#東雲うる 〗",
+          "channelName": "東雲うる - Uru Shinonome -",
+          "publishedAt": "2026-10-05T15:28:25.696Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jPIrY0p0jtc/hqdefault.jpg",
+          "sourcePath": "sources/jP/jPIrY0p0jtc.json",
+          "time": "2:37:53",
+          "seconds": 9473,
+          "songTitle": "┆ アスノヨゾラ哨戒班",
+          "artist": "Orangestar"
+        },
+        {
+          "videoId": "3OlvmsJaEy0",
+          "videoTitle": "【 歌雑談 】初見さんに会いたい！初見さんも常連さんも1曲聴いてってー！🎤🎶 【 紅月夢叶 / 新人vtuber 】#縦型配信 #shorts",
+          "channelName": "紅月夢叶 / Akatsuki Yukana",
+          "publishedAt": "2026-10-04T13:26:13.170Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3OlvmsJaEy0/hqdefault.jpg",
+          "sourcePath": "sources/3O/3OlvmsJaEy0.json",
+          "time": "0:41:23",
+          "seconds": 2483,
+          "songTitle": "アスノヨゾラ哨戒班",
+          "artist": "Orangestar"
+        }
+      ],
+      "detailPath": "entities/songs/696586609c9ef755.json"
+    },
+    {
+      "rank": 200,
       "id": "6b2f09e591596605",
       "name": "YUME日和",
       "secondary": "島谷ひとみ",
@@ -3005,67 +3066,6 @@
         }
       ],
       "detailPath": "entities/songs/6b2f09e591596605.json"
-    },
-    {
-      "rank": 200,
-      "id": "696586609c9ef755",
-      "name": "アスノヨゾラ哨戒班",
-      "secondary": "Orangestar",
-      "channelId": "UC5SSy3julTJHzmExQJjLUkw",
-      "channelHandle": "@Akubi.demonspade",
-      "channelUrl": "",
-      "occurrenceCount": 102,
-      "videoCount": 102,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "aWyU7kSXxMU",
-          "videoTitle": "【今日はリクエスト曲限定】森で弾き語り、続編です🌳【 #UNIT_B / #清澄ライラ】",
-          "channelName": "UNIT B (Pre-Debut) - mekPark",
-          "publishedAt": "2026-10-07T06:42:49.802Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/aWyU7kSXxMU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmRp0Pfm4WcC3VU5TyjpOE-HA3DA&usqp=CBQ",
-          "sourcePath": "sources/aW/aWyU7kSXxMU.json",
-          "time": "1:27:21",
-          "seconds": 5241,
-          "songTitle": "アスノヨゾラ哨戒班",
-          "artist": "Orangestar"
-        },
-        {
-          "videoId": "jPIrY0p0jtc",
-          "videoTitle": "┆#歌枠 / #KARAOKE┆泥酔カラオケ.ᐟ.ᐣ 酔っ払い、元気に歌います.ᐟ.ᐟ〖#東雲うる 〗",
-          "channelName": "東雲うる - Uru Shinonome -",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jPIrY0p0jtc/hqdefault.jpg",
-          "sourcePath": "sources/jP/jPIrY0p0jtc.json",
-          "time": "2:37:53",
-          "seconds": 9473,
-          "songTitle": "┆ アスノヨゾラ哨戒班",
-          "artist": "Orangestar"
-        },
-        {
-          "videoId": "nJid99pOoeU",
-          "videoTitle": "🔴【 #歌枠 】初見さん歓迎！ビンゴ埋まるまで終われません💦 #すみらいぶ #耐久配信 #singingstream",
-          "channelName": "花咲すみれch ‐hanasaku sumire ch‐",
-          "publishedAt": "2026-10-03T18:07:01.745Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nJid99pOoeU/hqdefault.jpg",
-          "sourcePath": "sources/nJ/nJid99pOoeU.json",
-          "time": "0:28:13",
-          "seconds": 1693,
-          "songTitle": "アスノヨゾラ哨戒班",
-          "artist": "orangestar"
-        }
-      ],
-      "detailPath": "entities/songs/696586609c9ef755.json"
     }
   ]
 }

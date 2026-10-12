@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "30d",
   "type": "songs",
   "page": 6,
   "pageSize": 50,
-  "pageCount": 553,
-  "totalCount": 27650,
+  "pageCount": 554,
+  "totalCount": 27675,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1108,6 +1108,63 @@
     },
     {
       "rank": 270,
+      "id": "4aef2c43feb46b99",
+      "name": "DAN DAN 心魅かれてく",
+      "secondary": "FIELD OF VIEW",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 33,
+      "videoCount": 33,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ktBtS2-VQps",
+          "videoTitle": "10/9 10:00~13:00【 歌枠 】ドラゴンボールメインで歌い魔ス！！！【 レヴィ・アタン 】 #shorts #vtuber",
+          "channelName": "レヴィ・アタン",
+          "publishedAt": "2026-10-09T04:34:41.257Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ktBtS2-VQps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NZ0zf5_lwAzwWa7ZvKirDxnzjQ",
+          "sourcePath": "sources/kt/ktBtS2-VQps.json",
+          "time": "0:29:53",
+          "seconds": 1793,
+          "songTitle": "DANDAN心魅かれてく",
+          "artist": "FIELD OF VIEW"
+        },
+        {
+          "videoId": "Ic1TwREodgQ",
+          "videoTitle": "【木曜定期歌枠￤高評価50目標】秋の夜長にメロい男はいかがですか？【 #白噛ましゅー 】",
+          "channelName": "白噛ましゅー(村長)",
+          "publishedAt": "2026-10-08T18:00:42.718Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Ic1TwREodgQ/hqdefault.jpg",
+          "sourcePath": "sources/Ic/Ic1TwREodgQ.json",
+          "time": "2:40:50",
+          "seconds": 9650,
+          "songTitle": "DAN DAN心魅かれてく",
+          "artist": "FIELD OF VIEW"
+        },
+        {
+          "videoId": "y3RmA7YkSYQ",
+          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
+          "channelName": "時羽あいの",
+          "publishedAt": "2026-10-06T19:13:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
+          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
+          "time": "0:37:32",
+          "seconds": 2252,
+          "songTitle": "DAN DAN 心魅かれてく",
+          "artist": "FIELD OF VIEW"
+        }
+      ],
+      "detailPath": "entities/songs/4aef2c43feb46b99.json"
+    },
+    {
+      "rank": 271,
       "id": "8df9ae4975ebf0d2",
       "name": "かわいいだけじゃだめですか？",
       "secondary": "CUTIE STREET",
@@ -1165,7 +1222,7 @@
       "detailPath": "entities/songs/8df9ae4975ebf0d2.json"
     },
     {
-      "rank": 271,
+      "rank": 272,
       "id": "956a1bd4577352f5",
       "name": "ゆずれない願い",
       "secondary": "田村直美",
@@ -1222,7 +1279,7 @@
       "detailPath": "entities/songs/956a1bd4577352f5.json"
     },
     {
-      "rank": 272,
+      "rank": 273,
       "id": "dc501ddf871fc328",
       "name": "茜さす",
       "secondary": "Aimer",
@@ -1280,7 +1337,7 @@
       "detailPath": "entities/songs/dc501ddf871fc328.json"
     },
     {
-      "rank": 273,
+      "rank": 274,
       "id": "856d2749190f0aec",
       "name": "一度だけの恋なら",
       "secondary": "ワルキューレ",
@@ -1337,7 +1394,7 @@
       "detailPath": "entities/songs/856d2749190f0aec.json"
     },
     {
-      "rank": 274,
+      "rank": 275,
       "id": "4882d5d08ed6638a",
       "name": "季節は次々死んでいく",
       "secondary": "amazarashi",
@@ -1395,7 +1452,7 @@
       "detailPath": "entities/songs/4882d5d08ed6638a.json"
     },
     {
-      "rank": 275,
+      "rank": 276,
       "id": "94a800a4db9cee1b",
       "name": "少年時代",
       "secondary": "井上 陽水",
@@ -1453,7 +1510,7 @@
       "detailPath": "entities/songs/94a800a4db9cee1b.json"
     },
     {
-      "rank": 276,
+      "rank": 277,
       "id": "a8c416c459fb0e08",
       "name": "世界は恋に落ちている",
       "secondary": "CHiCO with HoneyWorks",
@@ -1510,7 +1567,7 @@
       "detailPath": "entities/songs/a8c416c459fb0e08.json"
     },
     {
-      "rank": 277,
+      "rank": 278,
       "id": "4543de42539352f4",
       "name": "点描の唄",
       "secondary": "Mrs. GREEN APPLE",
@@ -1568,7 +1625,7 @@
       "detailPath": "entities/songs/4543de42539352f4.json"
     },
     {
-      "rank": 278,
+      "rank": 279,
       "id": "2d1ca8b9ac4cca4e",
       "name": "曇天",
       "secondary": "DOES",
@@ -1625,7 +1682,7 @@
       "detailPath": "entities/songs/2d1ca8b9ac4cca4e.json"
     },
     {
-      "rank": 279,
+      "rank": 280,
       "id": "94bb98209144eba0",
       "name": "10月無口な君を忘れる",
       "secondary": "あたらよ",
@@ -1683,7 +1740,7 @@
       "detailPath": "entities/songs/94bb98209144eba0.json"
     },
     {
-      "rank": 280,
+      "rank": 281,
       "id": "d4cd55d5940162cc",
       "name": "All Alone With You",
       "secondary": "EGOIST",
@@ -1738,63 +1795,6 @@
         }
       ],
       "detailPath": "entities/songs/d4cd55d5940162cc.json"
-    },
-    {
-      "rank": 281,
-      "id": "4aef2c43feb46b99",
-      "name": "DAN DAN 心魅かれてく",
-      "secondary": "FIELD OF VIEW",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 32,
-      "videoCount": 32,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ktBtS2-VQps",
-          "videoTitle": "10/9 10:00~13:00【 歌枠 】ドラゴンボールメインで歌い魔ス！！！【 レヴィ・アタン 】 #shorts #vtuber",
-          "channelName": "レヴィ・アタン",
-          "publishedAt": "2026-10-09T04:34:41.257Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ktBtS2-VQps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NZ0zf5_lwAzwWa7ZvKirDxnzjQ",
-          "sourcePath": "sources/kt/ktBtS2-VQps.json",
-          "time": "0:29:53",
-          "seconds": 1793,
-          "songTitle": "DANDAN心魅かれてく",
-          "artist": "FIELD OF VIEW"
-        },
-        {
-          "videoId": "Ic1TwREodgQ",
-          "videoTitle": "【木曜定期歌枠￤高評価50目標】秋の夜長にメロい男はいかがですか？【 #白噛ましゅー 】",
-          "channelName": "白噛ましゅー(村長)",
-          "publishedAt": "2026-10-08T18:00:42.718Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Ic1TwREodgQ/hqdefault.jpg",
-          "sourcePath": "sources/Ic/Ic1TwREodgQ.json",
-          "time": "2:40:50",
-          "seconds": 9650,
-          "songTitle": "DAN DAN心魅かれてく",
-          "artist": "FIELD OF VIEW"
-        },
-        {
-          "videoId": "y3RmA7YkSYQ",
-          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
-          "channelName": "時羽あいの",
-          "publishedAt": "2026-10-06T19:13:46.568Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
-          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
-          "time": "0:37:32",
-          "seconds": 2252,
-          "songTitle": "DAN DAN 心魅かれてく",
-          "artist": "FIELD OF VIEW"
-        }
-      ],
-      "detailPath": "entities/songs/4aef2c43feb46b99.json"
     },
     {
       "rank": 282,
@@ -2715,6 +2715,64 @@
     },
     {
       "rank": 298,
+      "id": "9b53b31087cc6031",
+      "name": "永遠のあくる日",
+      "secondary": "Ado",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 31,
+      "videoCount": 31,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vv_2_-B2lCc",
+          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
+          "channelName": "天音",
+          "publishedAt": "2026-10-08T15:40:41.566Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
+          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
+          "time": "2:40:59",
+          "seconds": 9659,
+          "songTitle": "永遠のあくる日",
+          "artist": "Ado"
+        },
+        {
+          "videoId": "3OlvmsJaEy0",
+          "videoTitle": "【 歌雑談 】初見さんに会いたい！初見さんも常連さんも1曲聴いてってー！🎤🎶 【 紅月夢叶 / 新人vtuber 】#縦型配信 #shorts",
+          "channelName": "紅月夢叶 / Akatsuki Yukana",
+          "publishedAt": "2026-10-04T13:26:13.170Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3OlvmsJaEy0/hqdefault.jpg",
+          "sourcePath": "sources/3O/3OlvmsJaEy0.json",
+          "time": "1:24:06",
+          "seconds": 5046,
+          "songTitle": "永遠のあくる日",
+          "artist": "Ado"
+        },
+        {
+          "videoId": "ahs_YVmyhBE",
+          "videoTitle": "【深夜歌枠】しゃべりと歌のギャップで風邪ひいちゃえ✨【Re:AcT / 燈明寺かぐら】#shorts",
+          "channelName": "燈明寺かぐら - Tomyoji Kagura -",
+          "publishedAt": "2026-10-03T17:22:42.614Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ahs_YVmyhBE/hqdefault.jpg",
+          "sourcePath": "sources/ah/ahs_YVmyhBE.json",
+          "time": "0:55:48",
+          "seconds": 3348,
+          "songTitle": "永遠のあくる日",
+          "artist": "Ado"
+        }
+      ],
+      "detailPath": "entities/songs/9b53b31087cc6031.json"
+    },
+    {
+      "rank": 299,
       "id": "e49f073aaf739e55",
       "name": "葛飾ラプソディー",
       "secondary": "堂島孝平",
@@ -2772,7 +2830,7 @@
       "detailPath": "entities/songs/e49f073aaf739e55.json"
     },
     {
-      "rank": 299,
+      "rank": 300,
       "id": "312873b3c675cd43",
       "name": "弱虫モンブラン",
       "secondary": "DECO*27",
@@ -2828,63 +2886,6 @@
         }
       ],
       "detailPath": "entities/songs/312873b3c675cd43.json"
-    },
-    {
-      "rank": 300,
-      "id": "3332e4a35a46f106",
-      "name": "レオ",
-      "secondary": "優里",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 31,
-      "videoCount": 30,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "PigXOJ-kSGA",
-          "videoTitle": "【#歌枠 】一曲聴いていきませんか🎶木曜定期歌枠🍂初見さん、ROM歓迎🌟リクエストOK◎🐿️🎤✨️【#Singing #karaoke 】",
-          "channelName": "冬星おそら / Osora",
-          "publishedAt": "2026-10-08T14:23:52.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PigXOJ-kSGA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5_biNYpjIBQMPdvxpys9DAIa-8w",
-          "sourcePath": "sources/Pi/PigXOJ-kSGA.json",
-          "time": "2:19:40",
-          "seconds": 8380,
-          "songTitle": "レオ",
-          "artist": "優里"
-        },
-        {
-          "videoId": "hv8WjN5IkJ8",
-          "videoTitle": "【歌枠】週三晚上輕鬆唱唱🎵🦊水曜は楽な気持ちで歌っていく！✨#初見歓迎🎤【浠Mizuki Karaoke】",
-          "channelName": "浠Mizuki Channel",
-          "publishedAt": "2026-10-07T16:06:49.511Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/hv8WjN5IkJ8/hqdefault.jpg",
-          "sourcePath": "sources/hv/hv8WjN5IkJ8.json",
-          "time": "0:32:51",
-          "seconds": 1971,
-          "songTitle": "レオ",
-          "artist": "優里"
-        },
-        {
-          "videoId": "vpiWIWem7SU",
-          "videoTitle": "【#歌枠 / #karaoke】 初見さん・ROM大歓迎‼✨ゆったり歌う夜があったっていい🎤【白鼬かなで / bond live】",
-          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
-          "publishedAt": "2026-10-05T15:28:49.939Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vpiWIWem7SU/hqdefault.jpg",
-          "sourcePath": "sources/vp/vpiWIWem7SU.json",
-          "time": "0:07:09",
-          "seconds": 429,
-          "songTitle": "レオ",
-          "artist": "優里"
-        }
-      ],
-      "detailPath": "entities/songs/3332e4a35a46f106.json"
     }
   ]
 }

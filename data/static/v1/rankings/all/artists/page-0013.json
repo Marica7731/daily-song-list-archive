@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:22:24.121Z",
+  "generatedAt": "2026-10-12T13:36:27.177Z",
   "range": "all",
   "type": "artists",
   "page": 13,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19988,
+  "totalCount": 19991,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2072,6 +2072,67 @@
     },
     {
       "rank": 635,
+      "id": "f1067a09f647d98f",
+      "name": "WANIMA",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 37,
+      "videoCount": 31,
+      "songCount": 12,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "3OlvmsJaEy0",
+          "videoTitle": "【 歌雑談 】初見さんに会いたい！初見さんも常連さんも1曲聴いてってー！🎤🎶 【 紅月夢叶 / 新人vtuber 】#縦型配信 #shorts",
+          "channelName": "紅月夢叶 / Akatsuki Yukana",
+          "publishedAt": "2026-10-04T13:26:13.170Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3OlvmsJaEy0/hqdefault.jpg",
+          "sourcePath": "sources/3O/3OlvmsJaEy0.json",
+          "time": "1:32:44",
+          "seconds": 5564,
+          "songTitle": "ともに",
+          "artist": "WANIMA"
+        },
+        {
+          "videoId": "5jRq6GCi9ko",
+          "videoTitle": "【歌枠 / 雑談】秋の曲ってあるか？【烏丸ぴょこ/#ぶいぱい】",
+          "channelName": "烏丸ぴょこ / Karasuma Pyoco",
+          "publishedAt": "2026-10-03T06:25:16.406Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5jRq6GCi9ko/hqdefault.jpg",
+          "sourcePath": "sources/5j/5jRq6GCi9ko.json",
+          "time": "0:49:54",
+          "seconds": 2994,
+          "songTitle": "夏のどこかへ",
+          "artist": "WANIMA"
+        },
+        {
+          "videoId": "AoKWtHJy4dY",
+          "videoTitle": "【歌枠 】朝は歌でしょ！な歌枠【鬼ヶ谷テン/ネオポルテ】",
+          "channelName": "鬼ヶ谷 テン / Onigaya Ten",
+          "publishedAt": "2026-10-02T01:38:19.775Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AoKWtHJy4dY/hqdefault.jpg",
+          "sourcePath": "sources/Ao/AoKWtHJy4dY.json",
+          "time": "1:31:20",
+          "seconds": 5480,
+          "songTitle": "シグナル",
+          "artist": "WANIMA"
+        }
+      ],
+      "detailPath": "entities/artists/f1067a09f647d98f.json"
+    },
+    {
+      "rank": 636,
       "id": "1cf702d372334239",
       "name": "バルーン feat. v flower",
       "secondary": "",
@@ -2131,7 +2192,7 @@
       "detailPath": "entities/artists/1cf702d372334239.json"
     },
     {
-      "rank": 636,
+      "rank": 637,
       "id": "a429e3ceadf0c174",
       "name": "アンダーグラフ",
       "secondary": "",
@@ -2192,7 +2253,7 @@
       "detailPath": "entities/artists/a429e3ceadf0c174.json"
     },
     {
-      "rank": 637,
+      "rank": 638,
       "id": "08dc974585c7f115",
       "name": "のぼる↑ feat.初音ミク",
       "secondary": "",
@@ -2252,7 +2313,7 @@
       "detailPath": "entities/artists/08dc974585c7f115.json"
     },
     {
-      "rank": 638,
+      "rank": 639,
       "id": "f1b00da81e8f5ff6",
       "name": "カラスヤサボウ",
       "secondary": "",
@@ -2312,7 +2373,7 @@
       "detailPath": "entities/artists/f1b00da81e8f5ff6.json"
     },
     {
-      "rank": 639,
+      "rank": 640,
       "id": "47d5da068f6d7527",
       "name": "ウマ娘",
       "secondary": "",
@@ -2372,7 +2433,7 @@
       "detailPath": "entities/artists/47d5da068f6d7527.json"
     },
     {
-      "rank": 640,
+      "rank": 641,
       "id": "175b048d6791ac6b",
       "name": "きゅるりんってしてみて",
       "secondary": "",
@@ -2432,7 +2493,7 @@
       "detailPath": "entities/artists/175b048d6791ac6b.json"
     },
     {
-      "rank": 641,
+      "rank": 642,
       "id": "5854f36d7587f15c",
       "name": "森山良子",
       "secondary": "",
@@ -2493,7 +2554,7 @@
       "detailPath": "entities/artists/5854f36d7587f15c.json"
     },
     {
-      "rank": 642,
+      "rank": 643,
       "id": "21fa7fa4b6953d59",
       "name": "Kenshi Yonezu",
       "secondary": "",
@@ -2552,67 +2613,6 @@
         }
       ],
       "detailPath": "entities/artists/21fa7fa4b6953d59.json"
-    },
-    {
-      "rank": 643,
-      "id": "f1067a09f647d98f",
-      "name": "WANIMA",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 36,
-      "videoCount": 30,
-      "songCount": 12,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "5jRq6GCi9ko",
-          "videoTitle": "【歌枠 / 雑談】秋の曲ってあるか？【烏丸ぴょこ/#ぶいぱい】",
-          "channelName": "烏丸ぴょこ / Karasuma Pyoco",
-          "publishedAt": "2026-10-03T06:25:16.406Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5jRq6GCi9ko/hqdefault.jpg",
-          "sourcePath": "sources/5j/5jRq6GCi9ko.json",
-          "time": "0:49:54",
-          "seconds": 2994,
-          "songTitle": "夏のどこかへ",
-          "artist": "WANIMA"
-        },
-        {
-          "videoId": "AoKWtHJy4dY",
-          "videoTitle": "【歌枠 】朝は歌でしょ！な歌枠【鬼ヶ谷テン/ネオポルテ】",
-          "channelName": "鬼ヶ谷 テン / Onigaya Ten",
-          "publishedAt": "2026-10-02T01:38:19.775Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AoKWtHJy4dY/hqdefault.jpg",
-          "sourcePath": "sources/Ao/AoKWtHJy4dY.json",
-          "time": "1:31:20",
-          "seconds": 5480,
-          "songTitle": "シグナル",
-          "artist": "WANIMA"
-        },
-        {
-          "videoId": "YDlZP13QP1k",
-          "videoTitle": "【歌枠】お昼下がりのお歌！休憩や作業のおともにごゆっくり！【Vtuber/天乃るあ】",
-          "channelName": "天乃るあ / Amano Lua",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YDlZP13QP1k/hqdefault.jpg",
-          "sourcePath": "sources/YD/YDlZP13QP1k.json",
-          "time": "4:26:51",
-          "seconds": 16011,
-          "songTitle": "いいから",
-          "artist": "WANIMA"
-        }
-      ],
-      "detailPath": "entities/artists/f1067a09f647d98f.json"
     },
     {
       "rank": 644,
