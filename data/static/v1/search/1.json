@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "items": [
     {
       "id": "1f545e0f54808dff",
@@ -670,8 +670,8 @@
       "type": "songs",
       "name": "ギブス",
       "secondary": "椎名林檎",
-      "occurrenceCount": 90,
-      "videoCount": 90,
+      "occurrenceCount": 91,
+      "videoCount": 91,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -684,17 +684,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/17d604a2aca478f9.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 5,
+          "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 38,
-          "videoCount": 38
+          "occurrenceCount": 39,
+          "videoCount": 39
         }
       },
       "text": "ギブス椎名林檎"
@@ -707,8 +711,8 @@
       "type": "songs",
       "name": "新宝島",
       "secondary": "サカナクション",
-      "occurrenceCount": 139,
-      "videoCount": 139,
+      "occurrenceCount": 140,
+      "videoCount": 140,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -721,13 +725,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/11ab7e7b17b2b2bf.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 6,
+          "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 56,
-          "videoCount": 56
+          "occurrenceCount": 57,
+          "videoCount": 57
         }
       },
       "text": "新宝島サカナクション"
@@ -2136,8 +2148,8 @@
       "type": "songs",
       "name": "ロミオとシンデレラ",
       "secondary": "doriko",
-      "occurrenceCount": 181,
-      "videoCount": 180,
+      "occurrenceCount": 182,
+      "videoCount": 181,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2150,17 +2162,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/1f32085348a226b0.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "3d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 6,
+          "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 76,
-          "videoCount": 76
+          "occurrenceCount": 77,
+          "videoCount": 77
         }
       },
       "text": "ロミオとシンデレラdoriko"
@@ -2592,8 +2608,8 @@
       "type": "songs",
       "name": "いつも何度でも",
       "secondary": "木村弓",
-      "occurrenceCount": 84,
-      "videoCount": 84,
+      "occurrenceCount": 85,
+      "videoCount": 85,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2606,13 +2622,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/1beaee386b504fff.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 31,
-          "videoCount": 31
+          "occurrenceCount": 32,
+          "videoCount": 32
         }
       },
       "text": "いつも何度でも木村弓"
@@ -6751,8 +6775,8 @@
       "type": "songs",
       "name": "バレリーコ",
       "secondary": "みきとP",
-      "occurrenceCount": 37,
-      "videoCount": 37,
+      "occurrenceCount": 38,
+      "videoCount": 38,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -6765,9 +6789,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/1940666127ec5af1.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 12,
-          "videoCount": 12
+          "occurrenceCount": 13,
+          "videoCount": 13
         }
       },
       "text": "バレリーコみきとp"
@@ -7122,30 +7158,35 @@
       "type": "songs",
       "name": "Ham",
       "secondary": "ずっと真夜中でいいのに。",
-      "occurrenceCount": 20,
-      "videoCount": 20,
+      "occurrenceCount": 21,
+      "videoCount": 21,
       "keywords": [
         "month",
         "mygit_today_snapshot",
         "mygit今日快照",
         "today",
+        "弾き語り",
         "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/1df328d7042867cd.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 11,
-          "videoCount": 11
+          "occurrenceCount": 12,
+          "videoCount": 12
         }
       },
       "text": "hamずっと真夜中でいいのに"
@@ -26039,8 +26080,8 @@
       "type": "songs",
       "name": "火",
       "secondary": "",
-      "occurrenceCount": 11,
-      "videoCount": 11,
+      "occurrenceCount": 12,
+      "videoCount": 12,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -26049,13 +26090,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/19db0f2d262f92ef.json",
       "rangeMetrics": {
-        "7d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
-        "30d": {
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
           "occurrenceCount": 2,
           "videoCount": 2
+        },
+        "30d": {
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "火"
@@ -72952,10 +73001,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/1f13a4a5d5b7625e.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1
@@ -75555,8 +75600,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 48,
-          "videoCount": 44
+          "occurrenceCount": 47,
+          "videoCount": 43
         }
       },
       "text": "ゆず"
@@ -75569,8 +75614,8 @@
       "type": "artists",
       "name": "みきとP",
       "secondary": "",
-      "occurrenceCount": 1439,
-      "videoCount": 1208,
+      "occurrenceCount": 1440,
+      "videoCount": 1209,
       "keywords": [
         "karaoke",
         "month",
@@ -75585,17 +75630,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/14c64446903752bc.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "3d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "7d": {
-          "occurrenceCount": 22,
-          "videoCount": 20
+          "occurrenceCount": 23,
+          "videoCount": 21
         },
         "30d": {
-          "occurrenceCount": 458,
-          "videoCount": 381
+          "occurrenceCount": 457,
+          "videoCount": 380
         }
       },
       "text": "みきとp"
@@ -75824,8 +75873,8 @@
           "videoCount": 8
         },
         "30d": {
-          "occurrenceCount": 157,
-          "videoCount": 128
+          "occurrenceCount": 156,
+          "videoCount": 127
         }
       },
       "text": "chicowithhoneyworks"
@@ -76453,8 +76502,8 @@
       "type": "artists",
       "name": "梅とら",
       "secondary": "",
-      "occurrenceCount": 67,
-      "videoCount": 54,
+      "occurrenceCount": 70,
+      "videoCount": 55,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76466,13 +76515,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/1edf00555e09a36d.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 3,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 3,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 3
+          "occurrenceCount": 7,
+          "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 29,
-          "videoCount": 20
+          "occurrenceCount": 32,
+          "videoCount": 21
         }
       },
       "text": "梅とら"
@@ -76954,8 +77011,8 @@
       "type": "artists",
       "name": "木村弓",
       "secondary": "",
-      "occurrenceCount": 326,
-      "videoCount": 295,
+      "occurrenceCount": 327,
+      "videoCount": 296,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76968,17 +77025,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/187c88b697c0ccbd.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "7d": {
-          "occurrenceCount": 8,
-          "videoCount": 6
+          "occurrenceCount": 9,
+          "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 121,
-          "videoCount": 108
+          "occurrenceCount": 122,
+          "videoCount": 109
         }
       },
       "text": "木村弓"
@@ -96643,12 +96704,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/artists/11e42e64c4ca6fc7.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "シェリルノームstarringmayn替え玉"
     },
     {
@@ -105238,8 +105294,8 @@
       "type": "artists",
       "name": "えーび君は死んだ海老",
       "secondary": "",
-      "occurrenceCount": 2,
-      "videoCount": 1,
+      "occurrenceCount": 8,
+      "videoCount": 4,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -105248,9 +105304,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/10e1ae590de85408.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 6,
+          "videoCount": 3
+        },
+        "3d": {
+          "occurrenceCount": 6,
+          "videoCount": 3
+        },
+        "7d": {
+          "occurrenceCount": 6,
+          "videoCount": 3
+        },
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 1
+          "occurrenceCount": 8,
+          "videoCount": 4
         }
       },
       "text": "えーび君は死んだ海老"
@@ -105912,6 +105980,43 @@
         }
       },
       "text": "maho堂マネかな"
+    },
+    {
+      "id": "1087418cf7b51fb3",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "artists",
+      "name": "ネタバレ",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/artists/1087418cf7b51fb3.json",
+      "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "ネタバレ"
     },
     {
       "id": "1b44215c663bf420",

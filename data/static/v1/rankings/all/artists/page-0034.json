@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "artists",
   "page": 34,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19991,
+  "totalCount": 19998,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -852,6 +852,65 @@
     },
     {
       "rank": 1665,
+      "id": "410280dac86ffe6a",
+      "name": "Tatsuya Kitani",
+      "secondary": "",
+      "channelId": "UCO5MA_Dr1o6I0IPQZ6tp_6w",
+      "channelHandle": "@323channel",
+      "channelUrl": "",
+      "occurrenceCount": 10,
+      "videoCount": 7,
+      "songCount": 9,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "shtv2FbPF-w",
+          "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+          "channelName": "UNIT B (Pre-Debut) - mekPark",
+          "publishedAt": "2026-10-12T11:18:44.700Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
+          "sourcePath": "sources/sh/shtv2FbPF-w.json",
+          "time": "1:07:30",
+          "seconds": 4050,
+          "songTitle": "ALWAYS BE WITH YOU XD",
+          "artist": "Tatsuya Kitani"
+        },
+        {
+          "videoId": "EyMzFkoZnAU",
+          "videoTitle": "【 #弾き語り】ライブで出会ったきみへ。夜の癒し歌枠 初見さん大歓迎【 #323みすみ 】#Vtuber",
+          "channelName": "323(みすみ) -Misumi-",
+          "publishedAt": "2026-09-27T19:03:05.009Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/EyMzFkoZnAU/hqdefault.jpg",
+          "sourcePath": "sources/Ey/EyMzFkoZnAU.json",
+          "time": "0:51:26",
+          "seconds": 3086,
+          "songTitle": "Hidane",
+          "artist": "Tatsuya Kitani"
+        },
+        {
+          "videoId": "O4RUOp9n8RQ",
+          "videoTitle": "【歌枠】明日はぶいかふぇ！あなたの魂を揺らすVsinger✨【VTuber/配信中】",
+          "channelName": "Shitora ch. 涼風しとら",
+          "publishedAt": "2026-09-04T11:17:33.662Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/O4RUOp9n8RQ/hqdefault.jpg",
+          "sourcePath": "sources/O4/O4RUOp9n8RQ.json",
+          "time": "2:14:07",
+          "seconds": 8047,
+          "songTitle": "Anata no Koto wo Oshiete",
+          "artist": "Tatsuya Kitani"
+        }
+      ],
+      "detailPath": "entities/artists/410280dac86ffe6a.json"
+    },
+    {
+      "rank": 1666,
       "id": "c45a28a8af7b4765",
       "name": "二宮和也(嵐)",
       "secondary": "",
@@ -911,7 +970,7 @@
       "detailPath": "entities/artists/c45a28a8af7b4765.json"
     },
     {
-      "rank": 1666,
+      "rank": 1667,
       "id": "ec7a97301989e71c",
       "name": "鄧紫棋",
       "secondary": "",
@@ -971,7 +1030,7 @@
       "detailPath": "entities/artists/ec7a97301989e71c.json"
     },
     {
-      "rank": 1667,
+      "rank": 1668,
       "id": "e8371a64a425beac",
       "name": "DOMOTO",
       "secondary": "",
@@ -1030,7 +1089,7 @@
       "detailPath": "entities/artists/e8371a64a425beac.json"
     },
     {
-      "rank": 1668,
+      "rank": 1669,
       "id": "59ec696045e425ea",
       "name": "Hi-STANDARD",
       "secondary": "",
@@ -1091,7 +1150,7 @@
       "detailPath": "entities/artists/59ec696045e425ea.json"
     },
     {
-      "rank": 1669,
+      "rank": 1670,
       "id": "b505e45a1cd86a97",
       "name": "milkyTrap",
       "secondary": "",
@@ -1152,7 +1211,7 @@
       "detailPath": "entities/artists/b505e45a1cd86a97.json"
     },
     {
-      "rank": 1670,
+      "rank": 1671,
       "id": "b41cc6317ecdce8d",
       "name": "Mrs. GREEN APPLEｻﾝ",
       "secondary": "",
@@ -1212,7 +1271,7 @@
       "detailPath": "entities/artists/b41cc6317ecdce8d.json"
     },
     {
-      "rank": 1671,
+      "rank": 1672,
       "id": "a6f08031c48d967a",
       "name": "MyGO!!!!!",
       "secondary": "",
@@ -1270,7 +1329,7 @@
       "detailPath": "entities/artists/a6f08031c48d967a.json"
     },
     {
-      "rank": 1672,
+      "rank": 1673,
       "id": "1d8350e64a705d5c",
       "name": "NSP",
       "secondary": "",
@@ -1324,7 +1383,7 @@
       "detailPath": "entities/artists/1d8350e64a705d5c.json"
     },
     {
-      "rank": 1673,
+      "rank": 1674,
       "id": "c601e4c1f752ca82",
       "name": "ウタ(歌唱:Ado)",
       "secondary": "",
@@ -1384,7 +1443,7 @@
       "detailPath": "entities/artists/c601e4c1f752ca82.json"
     },
     {
-      "rank": 1674,
+      "rank": 1675,
       "id": "e0d7d297a26411d6",
       "name": "お試し",
       "secondary": "",
@@ -1443,7 +1502,7 @@
       "detailPath": "entities/artists/e0d7d297a26411d6.json"
     },
     {
-      "rank": 1675,
+      "rank": 1676,
       "id": "02467a38fffc0872",
       "name": "ドラゴンボール Z",
       "secondary": "",
@@ -1503,7 +1562,7 @@
       "detailPath": "entities/artists/02467a38fffc0872.json"
     },
     {
-      "rank": 1676,
+      "rank": 1677,
       "id": "291c2a9e78e7b9a4",
       "name": "黒間タクト",
       "secondary": "",
@@ -1564,7 +1623,7 @@
       "detailPath": "entities/artists/291c2a9e78e7b9a4.json"
     },
     {
-      "rank": 1677,
+      "rank": 1678,
       "id": "876f0d0f5ca71209",
       "name": "25",
       "secondary": "",
@@ -1618,7 +1677,7 @@
       "detailPath": "entities/artists/876f0d0f5ca71209.json"
     },
     {
-      "rank": 1678,
+      "rank": 1679,
       "id": "c0b8336f5ceca35d",
       "name": "AiM",
       "secondary": "",
@@ -1678,7 +1737,7 @@
       "detailPath": "entities/artists/c0b8336f5ceca35d.json"
     },
     {
-      "rank": 1679,
+      "rank": 1680,
       "id": "c6fa05061f56b1ce",
       "name": "じゃんがりあん",
       "secondary": "",
@@ -1735,7 +1794,7 @@
       "detailPath": "entities/artists/c6fa05061f56b1ce.json"
     },
     {
-      "rank": 1680,
+      "rank": 1681,
       "id": "93b447ea6a96b320",
       "name": "ねくすとぴあ",
       "secondary": "",
@@ -1789,7 +1848,7 @@
       "detailPath": "entities/artists/93b447ea6a96b320.json"
     },
     {
-      "rank": 1681,
+      "rank": 1682,
       "id": "b384366b8bb5d8cf",
       "name": "Resonecia 🆕",
       "secondary": "",
@@ -1848,7 +1907,7 @@
       "detailPath": "entities/artists/b384366b8bb5d8cf.json"
     },
     {
-      "rank": 1682,
+      "rank": 1683,
       "id": "991bcd23cfebaa22",
       "name": "火",
       "secondary": "",
@@ -1902,7 +1961,7 @@
       "detailPath": "entities/artists/991bcd23cfebaa22.json"
     },
     {
-      "rank": 1683,
+      "rank": 1684,
       "id": "2e49d4833bd5a6aa",
       "name": "巫てんり",
       "secondary": "",
@@ -1962,7 +2021,7 @@
       "detailPath": "entities/artists/2e49d4833bd5a6aa.json"
     },
     {
-      "rank": 1684,
+      "rank": 1685,
       "id": "8d17a26adb0eeb1d",
       "name": "EMI EVANS",
       "secondary": "",
@@ -2019,7 +2078,7 @@
       "detailPath": "entities/artists/8d17a26adb0eeb1d.json"
     },
     {
-      "rank": 1685,
+      "rank": 1686,
       "id": "d55530330a5abd40",
       "name": "あまねもも",
       "secondary": "",
@@ -2079,7 +2138,7 @@
       "detailPath": "entities/artists/d55530330a5abd40.json"
     },
     {
-      "rank": 1686,
+      "rank": 1687,
       "id": "a1bea3e75bb4c4f8",
       "name": "After the Rain（そらる×まふまふ）",
       "secondary": "",
@@ -2139,7 +2198,7 @@
       "detailPath": "entities/artists/a1bea3e75bb4c4f8.json"
     },
     {
-      "rank": 1687,
+      "rank": 1688,
       "id": "beaaf6cddb3ee568",
       "name": "Alicia Keys",
       "secondary": "",
@@ -2197,7 +2256,7 @@
       "detailPath": "entities/artists/beaaf6cddb3ee568.json"
     },
     {
-      "rank": 1688,
+      "rank": 1689,
       "id": "5ca059d26041815e",
       "name": "Audrey Hepburn",
       "secondary": "",
@@ -2257,7 +2316,7 @@
       "detailPath": "entities/artists/5ca059d26041815e.json"
     },
     {
-      "rank": 1689,
+      "rank": 1690,
       "id": "29840fc872ff7d50",
       "name": "BACK-ON",
       "secondary": "",
@@ -2317,7 +2376,7 @@
       "detailPath": "entities/artists/29840fc872ff7d50.json"
     },
     {
-      "rank": 1690,
+      "rank": 1691,
       "id": "b8b2ca165c749dec",
       "name": "CECILE CORBEL",
       "secondary": "",
@@ -2378,7 +2437,7 @@
       "detailPath": "entities/artists/b8b2ca165c749dec.json"
     },
     {
-      "rank": 1691,
+      "rank": 1692,
       "id": "94f1287fe73b30ac",
       "name": "Christina Perri",
       "secondary": "",
@@ -2438,7 +2497,7 @@
       "detailPath": "entities/artists/94f1287fe73b30ac.json"
     },
     {
-      "rank": 1692,
+      "rank": 1693,
       "id": "17cb99d0515e6c8e",
       "name": "CreepHyp",
       "secondary": "",
@@ -2499,7 +2558,7 @@
       "detailPath": "entities/artists/17cb99d0515e6c8e.json"
     },
     {
-      "rank": 1693,
+      "rank": 1694,
       "id": "0b9ea32fe0b3ce5f",
       "name": "Hearts Grow",
       "secondary": "",
@@ -2559,7 +2618,7 @@
       "detailPath": "entities/artists/0b9ea32fe0b3ce5f.json"
     },
     {
-      "rank": 1694,
+      "rank": 1695,
       "id": "e5df9b2750940d69",
       "name": "hide",
       "secondary": "",
@@ -2619,7 +2678,7 @@
       "detailPath": "entities/artists/e5df9b2750940d69.json"
     },
     {
-      "rank": 1695,
+      "rank": 1696,
       "id": "fff4305a5a866da4",
       "name": "HoneyWorks & かぐや(cv.夏吉ゆうこ)",
       "secondary": "",
@@ -2679,7 +2738,7 @@
       "detailPath": "entities/artists/fff4305a5a866da4.json"
     },
     {
-      "rank": 1696,
+      "rank": 1697,
       "id": "76f7c89c4236fd0b",
       "name": "HoneyWorks meets TrySail",
       "secondary": "",
@@ -2740,7 +2799,7 @@
       "detailPath": "entities/artists/76f7c89c4236fd0b.json"
     },
     {
-      "rank": 1697,
+      "rank": 1698,
       "id": "16be07f7b3bbd7d5",
       "name": "illion",
       "secondary": "",
@@ -2800,7 +2859,7 @@
       "detailPath": "entities/artists/16be07f7b3bbd7d5.json"
     },
     {
-      "rank": 1698,
+      "rank": 1699,
       "id": "ba71b6131e50b1d5",
       "name": "john",
       "secondary": "",
@@ -2860,7 +2919,7 @@
       "detailPath": "entities/artists/ba71b6131e50b1d5.json"
     },
     {
-      "rank": 1699,
+      "rank": 1700,
       "id": "860a15486e5b9f9c",
       "name": "JY",
       "secondary": "",
@@ -2918,67 +2977,6 @@
         }
       ],
       "detailPath": "entities/artists/860a15486e5b9f9c.json"
-    },
-    {
-      "rank": 1700,
-      "id": "055d27f6f0ba47c4",
-      "name": "K",
-      "secondary": "",
-      "channelId": "UCJABeTIKrhExlG6tBTov_ZA",
-      "channelHandle": "@blanc_ulica",
-      "channelUrl": "",
-      "occurrenceCount": 9,
-      "videoCount": 9,
-      "songCount": 2,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "BnjPnuzE66k",
-          "videoTitle": "【歌枠】バラード縛りで歌います！【 鴉紋ゆうく/Vtuber 】",
-          "channelName": "鴉紋ゆうく / Amon Yuuku",
-          "publishedAt": "2026-09-28T14:55:45.212Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BnjPnuzE66k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAW-kIcDFnT-wmlfjBRVo8H_f91KA",
-          "sourcePath": "sources/Bn/BnjPnuzE66k.json",
-          "time": "0:16:17",
-          "seconds": 977,
-          "songTitle": "Only Human（ﾋﾟｱﾉ）",
-          "artist": "K"
-        },
-        {
-          "videoId": "-46L8vOniYw",
-          "videoTitle": "平成過ぎる選曲で！ #歌枠 #KARAOKE",
-          "channelName": "おとなすてぃー",
-          "publishedAt": "2026-09-24T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-46L8vOniYw/hqdefault.jpg",
-          "sourcePath": "sources/-4/-46L8vOniYw.json",
-          "time": "1:05:55",
-          "seconds": 3955,
-          "songTitle": "Only Human",
-          "artist": "K"
-        },
-        {
-          "videoId": "jVIAzxvmVOQ",
-          "videoTitle": "【#歌枠 * song】最近雨ばかりですが、お元気ですか☔【ぱわーぼいすVtuber／彷徨鈴】",
-          "channelName": "彷徨 鈴【Samayoi Suzu】",
-          "publishedAt": "2026-09-10T17:57:02.073Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jVIAzxvmVOQ/hqdefault.jpg",
-          "sourcePath": "sources/jV/jVIAzxvmVOQ.json",
-          "time": "2:16:15",
-          "seconds": 8175,
-          "songTitle": "Only Human",
-          "artist": "K"
-        }
-      ],
-      "detailPath": "entities/artists/055d27f6f0ba47c4.json"
     }
   ]
 }

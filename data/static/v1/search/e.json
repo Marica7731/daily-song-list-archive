@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "items": [
     {
       "id": "e89cb83a3a553c44",
@@ -10,8 +10,8 @@
       "type": "songs",
       "name": "群青",
       "secondary": "YOASOBI",
-      "occurrenceCount": 107,
-      "videoCount": 107,
+      "occurrenceCount": 108,
+      "videoCount": 108,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -25,20 +25,20 @@
       "detailPath": "entities/songs/e89cb83a3a553c44.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "3d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 7,
-          "videoCount": 7
+          "occurrenceCount": 8,
+          "videoCount": 8
         },
         "30d": {
-          "occurrenceCount": 43,
-          "videoCount": 43
+          "occurrenceCount": 44,
+          "videoCount": 44
         }
       },
       "text": "群青yoasobi"
@@ -793,8 +793,8 @@
       "type": "songs",
       "name": "Lemon",
       "secondary": "米津玄師",
-      "occurrenceCount": 206,
-      "videoCount": 200,
+      "occurrenceCount": 207,
+      "videoCount": 201,
       "keywords": [
         "karaoke",
         "month",
@@ -809,13 +809,17 @@
       "collectionId": "",
       "detailPath": "entities/songs/e3ad6ac3646e0201.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "7d": {
-          "occurrenceCount": 7,
-          "videoCount": 7
+          "occurrenceCount": 8,
+          "videoCount": 8
         },
         "30d": {
           "occurrenceCount": 89,
@@ -1480,8 +1484,8 @@
       "type": "songs",
       "name": "初恋サイダー",
       "secondary": "Buono!",
-      "occurrenceCount": 174,
-      "videoCount": 173,
+      "occurrenceCount": 175,
+      "videoCount": 174,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -1493,13 +1497,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/e9f08a6781c18454.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 4,
+          "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 84,
-          "videoCount": 83
+          "occurrenceCount": 85,
+          "videoCount": 84
         }
       },
       "text": "初恋サイダーbuono"
@@ -1555,8 +1567,8 @@
       "type": "songs",
       "name": "丸ノ内サディスティック",
       "secondary": "椎名林檎",
-      "occurrenceCount": 106,
-      "videoCount": 106,
+      "occurrenceCount": 107,
+      "videoCount": 107,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -1569,13 +1581,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/eb466e149dd8fe10.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 6,
-          "videoCount": 6
+          "occurrenceCount": 7,
+          "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 41,
-          "videoCount": 41
+          "occurrenceCount": 42,
+          "videoCount": 42
         }
       },
       "text": "丸ノ内サディスティック椎名林檎"
@@ -2395,8 +2415,8 @@
       "type": "songs",
       "name": "輝きは君の中に",
       "secondary": "鈴木結女",
-      "occurrenceCount": 14,
-      "videoCount": 14,
+      "occurrenceCount": 15,
+      "videoCount": 15,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2408,9 +2428,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/ed84ecab7ef14fdd.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 6,
+          "videoCount": 6
         }
       },
       "text": "輝きは君の中に鈴木結女"
@@ -2520,8 +2552,8 @@
       "detailPath": "entities/songs/e4a94569854a2d4f.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 18,
-          "videoCount": 18
+          "occurrenceCount": 17,
+          "videoCount": 17
         }
       },
       "text": "ありがとういきものがかり"
@@ -3016,8 +3048,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 50,
-          "videoCount": 49
+          "occurrenceCount": 49,
+          "videoCount": 48
         }
       },
       "text": "bunnygirlakasaki"
@@ -4345,8 +4377,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 11,
-          "videoCount": 11
+          "occurrenceCount": 10,
+          "videoCount": 10
         }
       },
       "text": "ヒカリへmiwa"
@@ -4426,8 +4458,8 @@
       "detailPath": "entities/songs/e8858b3951c8322e.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 17,
-          "videoCount": 17
+          "occurrenceCount": 16,
+          "videoCount": 16
         }
       },
       "text": "奏かなでスキマスイッチ"
@@ -4598,8 +4630,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 31,
-          "videoCount": 31
+          "occurrenceCount": 30,
+          "videoCount": 30
         }
       },
       "text": "葛飾ラプソディー堂島孝平"
@@ -5085,8 +5117,8 @@
       "detailPath": "entities/songs/e6dec5fe1c1d17d2.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 17,
-          "videoCount": 17
+          "occurrenceCount": 16,
+          "videoCount": 16
         }
       },
       "text": "popstar平井堅"
@@ -7781,8 +7813,8 @@
       "type": "songs",
       "name": "君のこころは輝いてるかい？",
       "secondary": "Aqours",
-      "occurrenceCount": 5,
-      "videoCount": 5,
+      "occurrenceCount": 6,
+      "videoCount": 6,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -7793,7 +7825,24 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/ef6f469ceb6c2675.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "君のこころは輝いてるかいaqours"
     },
     {
@@ -19748,8 +19797,8 @@
       "type": "songs",
       "name": "それでも明日はやってくる",
       "secondary": "鈴木結女",
-      "occurrenceCount": 11,
-      "videoCount": 11,
+      "occurrenceCount": 12,
+      "videoCount": 12,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -19760,9 +19809,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/ec1b476b2444756a.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 6,
-          "videoCount": 6
+          "occurrenceCount": 7,
+          "videoCount": 7
         }
       },
       "text": "それでも明日はやってくる鈴木結女"
@@ -27392,8 +27453,8 @@
       "type": "songs",
       "name": "開演",
       "secondary": "",
-      "occurrenceCount": 51,
-      "videoCount": 46,
+      "occurrenceCount": 52,
+      "videoCount": 47,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -27402,17 +27463,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/e409477fb5ee93eb.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "7d": {
-          "occurrenceCount": 8,
-          "videoCount": 6
+          "occurrenceCount": 9,
+          "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 28,
-          "videoCount": 23
+          "occurrenceCount": 29,
+          "videoCount": 24
         }
       },
       "text": "開演"
@@ -49324,12 +49389,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/e3aa3c0337064c3f.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "風のゆくえウタfromonepiecefilmred歌唱ado"
     },
     {
@@ -74500,6 +74560,44 @@
       "text": "stepzerotooneaqours"
     },
     {
+      "id": "e3569e08cba44e6d",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "手のひらを太陽に",
+      "secondary": "童謡",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/e3569e08cba44e6d.json",
+      "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "手のひらを太陽に童謡"
+    },
+    {
       "id": "ef7366fc970fc0db",
       "channelId": "",
       "channelHandle": "",
@@ -75981,8 +76079,8 @@
       "type": "artists",
       "name": "秦基博",
       "secondary": "",
-      "occurrenceCount": 412,
-      "videoCount": 374,
+      "occurrenceCount": 413,
+      "videoCount": 375,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -75996,16 +76094,16 @@
       "detailPath": "entities/artists/e404c8bc58b6bcd1.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "3d": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 4,
+          "videoCount": 4
         },
         "7d": {
-          "occurrenceCount": 12,
-          "videoCount": 12
+          "occurrenceCount": 13,
+          "videoCount": 13
         },
         "30d": {
           "occurrenceCount": 140,
@@ -76142,8 +76240,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 56,
-          "videoCount": 51
+          "occurrenceCount": 55,
+          "videoCount": 50
         }
       },
       "text": "smap"
@@ -76690,8 +76788,8 @@
       "type": "artists",
       "name": "WANDS",
       "secondary": "",
-      "occurrenceCount": 68,
-      "videoCount": 65,
+      "occurrenceCount": 69,
+      "videoCount": 66,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76704,20 +76802,20 @@
       "detailPath": "entities/artists/ed23d60d076463b1.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "3d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 5,
+          "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 26,
-          "videoCount": 25
+          "occurrenceCount": 27,
+          "videoCount": 26
         }
       },
       "text": "wands"
@@ -83843,8 +83941,8 @@
       "type": "artists",
       "name": "羽月うずな",
       "secondary": "",
-      "occurrenceCount": 15,
-      "videoCount": 14,
+      "occurrenceCount": 16,
+      "videoCount": 15,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -83856,9 +83954,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/e30923d888036897.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 6,
-          "videoCount": 6
+          "occurrenceCount": 7,
+          "videoCount": 7
         }
       },
       "text": "羽月うずな"
@@ -91120,8 +91230,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 7,
-          "videoCount": 7
+          "occurrenceCount": 6,
+          "videoCount": 6
         }
       },
       "text": "木山裕策"
@@ -93537,12 +93647,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/artists/ea65ab402454a8cb.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "イディナメンゼル"
     },
     {
@@ -106919,8 +107024,8 @@
       "detailPath": "entities/vtubers/e0f3d96681d260d6.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 18,
-          "videoCount": 2
+          "occurrenceCount": 9,
+          "videoCount": 1
         }
       },
       "text": "天導ライカtendouraika"
@@ -108754,8 +108859,8 @@
       "detailPath": "entities/vtubers/e1aa3ac4cbd42d77.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 22,
-          "videoCount": 2
+          "occurrenceCount": 13,
+          "videoCount": 1
         }
       },
       "text": "鳴鬼ルナnarukiluna"

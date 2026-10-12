@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "30d",
   "type": "songs",
   "page": 44,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27675,
+  "totalCount": 27698,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2123,6 +2123,63 @@
     },
     {
       "rank": 2188,
+      "id": "09e26cab9950d01c",
+      "name": "home",
+      "secondary": "木山裕策",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 5,
+      "videoCount": 5,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vpiWIWem7SU",
+          "videoTitle": "【#歌枠 / #karaoke】 初見さん・ROM大歓迎‼✨ゆったり歌う夜があったっていい🎤【白鼬かなで / bond live】",
+          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
+          "publishedAt": "2026-10-05T15:28:49.939Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vpiWIWem7SU/hqdefault.jpg",
+          "sourcePath": "sources/vp/vpiWIWem7SU.json",
+          "time": "1:00:11",
+          "seconds": 3611,
+          "songTitle": "home",
+          "artist": "木山裕策"
+        },
+        {
+          "videoId": "TuypgAZwEgM",
+          "videoTitle": "【#歌枠 / #karaoke】 初見さん・ROM大歓迎‼✨ゆったりしていかない⁇【白鼬かなで / bond live】",
+          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
+          "publishedAt": "2026-09-28T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TuypgAZwEgM/hqdefault.jpg",
+          "sourcePath": "sources/Tu/TuypgAZwEgM.json",
+          "time": "0:11:28",
+          "seconds": 688,
+          "songTitle": "home",
+          "artist": "木山裕策"
+        },
+        {
+          "videoId": "qy4DdMSDuXs",
+          "videoTitle": "【#歌枠 / #karaoke】初見さん・ROM大歓迎‼✨朝からチル歌枠‼【白鼬かなで / bond live】",
+          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qy4DdMSDuXs/hqdefault.jpg",
+          "sourcePath": "sources/qy/qy4DdMSDuXs.json",
+          "time": "2:13:34",
+          "seconds": 8014,
+          "songTitle": "home",
+          "artist": "木山裕策"
+        }
+      ],
+      "detailPath": "entities/songs/09e26cab9950d01c.json"
+    },
+    {
+      "rank": 2189,
       "id": "63bd100cc0e10c66",
       "name": "I wonder",
       "secondary": "Da-iCE",
@@ -2179,7 +2236,7 @@
       "detailPath": "entities/songs/63bd100cc0e10c66.json"
     },
     {
-      "rank": 2189,
+      "rank": 2190,
       "id": "311a0e5723cead03",
       "name": "if",
       "secondary": "西野カナ",
@@ -2236,7 +2293,7 @@
       "detailPath": "entities/songs/311a0e5723cead03.json"
     },
     {
-      "rank": 2190,
+      "rank": 2191,
       "id": "68e5e4ea386a75d4",
       "name": "Just a game",
       "secondary": "takamatt",
@@ -2293,7 +2350,7 @@
       "detailPath": "entities/songs/68e5e4ea386a75d4.json"
     },
     {
-      "rank": 2191,
+      "rank": 2192,
       "id": "44d04458057ec572",
       "name": "Just Be Friends",
       "secondary": "",
@@ -2350,7 +2407,7 @@
       "detailPath": "entities/songs/44d04458057ec572.json"
     },
     {
-      "rank": 2192,
+      "rank": 2193,
       "id": "a585c7b0d3aa281c",
       "name": "LEVEL 4",
       "secondary": "T.M.Revolution",
@@ -2407,7 +2464,7 @@
       "detailPath": "entities/songs/a585c7b0d3aa281c.json"
     },
     {
-      "rank": 2193,
+      "rank": 2194,
       "id": "d8865df163ff09d5",
       "name": "LEVEL5－judgelight－",
       "secondary": "fripSide",
@@ -2464,7 +2521,7 @@
       "detailPath": "entities/songs/d8865df163ff09d5.json"
     },
     {
-      "rank": 2194,
+      "rank": 2195,
       "id": "b5b533ae9ad83bd9",
       "name": "LIFE",
       "secondary": "中島美嘉",
@@ -2521,7 +2578,7 @@
       "detailPath": "entities/songs/b5b533ae9ad83bd9.json"
     },
     {
-      "rank": 2195,
+      "rank": 2196,
       "id": "136a9fb237b6f980",
       "name": "life hack",
       "secondary": "vaundy",
@@ -2579,7 +2636,7 @@
       "detailPath": "entities/songs/136a9fb237b6f980.json"
     },
     {
-      "rank": 2196,
+      "rank": 2197,
       "id": "9c4d0f959162a677",
       "name": "Love marginal",
       "secondary": "Printemps",
@@ -2636,7 +2693,7 @@
       "detailPath": "entities/songs/9c4d0f959162a677.json"
     },
     {
-      "rank": 2197,
+      "rank": 2198,
       "id": "3827aaaf919cdf76",
       "name": "Luna say maybe",
       "secondary": "初星学園",
@@ -2693,7 +2750,7 @@
       "detailPath": "entities/songs/3827aaaf919cdf76.json"
     },
     {
-      "rank": 2198,
+      "rank": 2199,
       "id": "1501f1527b9664a3",
       "name": "Luna say maybe",
       "secondary": "月村手毬(cv.小鹿なお)",
@@ -2750,7 +2807,7 @@
       "detailPath": "entities/songs/1501f1527b9664a3.json"
     },
     {
-      "rank": 2199,
+      "rank": 2200,
       "id": "adf8588980f734d8",
       "name": "Luna say maybe",
       "secondary": "月村手毬(小鹿なお)",
@@ -2805,63 +2862,6 @@
         }
       ],
       "detailPath": "entities/songs/adf8588980f734d8.json"
-    },
-    {
-      "rank": 2200,
-      "id": "867d246ae870346d",
-      "name": "Mermaid festa vol.1",
-      "secondary": "μ's",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 5,
-      "videoCount": 5,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "pIbDquGehDw",
-          "videoTitle": "【 #KARAOKE / #歌枠 】連休最終日も盛り上がってまいりましょう～！【 #vtuber / #Vsinger 】",
-          "channelName": "戌峯 ひぐれ",
-          "publishedAt": "2026-09-23T06:32:27.386Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pIbDquGehDw/hqdefault.jpg",
-          "sourcePath": "sources/pI/pIbDquGehDw.json",
-          "time": "2:23:03",
-          "seconds": 8583,
-          "songTitle": "⭐Mermaid festa vol.1",
-          "artist": "μ's"
-        },
-        {
-          "videoId": "zBwsGbAj6-I",
-          "videoTitle": "🧸: 歌枠┊︎突発ゲリラ！歌いたい曲全力で歌う夜🌃✨初見さんもおいで🌙.*〖 #咲真あきら #べあーどきゃすと #縦横同時配信 〗",
-          "channelName": "咲真あきら / Sakuma Akira",
-          "publishedAt": "2026-09-21T16:55:48.240Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zBwsGbAj6-I/hqdefault.jpg",
-          "sourcePath": "sources/zB/zBwsGbAj6-I.json",
-          "time": "0:13:23",
-          "seconds": 803,
-          "songTitle": "Mermaid festa vol.1",
-          "artist": "μ's"
-        },
-        {
-          "videoId": "MfHgxpg8-tI",
-          "videoTitle": "【初歌枠！】はじめてのうたわく、すみんちゃん、できるかな？ 【Sum!n / すみん】",
-          "channelName": "Sum!n - すみん",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MfHgxpg8-tI/hqdefault.jpg",
-          "sourcePath": "sources/Mf/MfHgxpg8-tI.json",
-          "time": "0:39:33",
-          "seconds": 2373,
-          "songTitle": "Mermaid festa vol.1",
-          "artist": "μ's"
-        }
-      ],
-      "detailPath": "entities/songs/867d246ae870346d.json"
     }
   ]
 }

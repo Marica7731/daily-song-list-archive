@@ -1,16 +1,133 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "songs",
   "page": 84,
   "pageSize": 50,
-  "pageCount": 1056,
-  "totalCount": 52789,
+  "pageCount": 1057,
+  "totalCount": 52815,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4151,
+      "id": "5531b80da077e992",
+      "name": "NG",
+      "secondary": "ちゃんみな",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "wq-FPGcq0e0",
+          "videoTitle": "【歌枠】夕暮れと、帰り道と、歌。【XIDEN/RK Music】#作業用bgm",
+          "channelName": "XIDEN",
+          "publishedAt": "2026-10-01T10:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wq-FPGcq0e0/hqdefault.jpg",
+          "sourcePath": "sources/wq/wq-FPGcq0e0.json",
+          "time": "1:25:50",
+          "seconds": 5150,
+          "songTitle": "NG",
+          "artist": "ちゃんみな"
+        },
+        {
+          "videoId": "9LI-zgrdXQQ",
+          "videoTitle": "【歌枠🎤ゲリラ】ぶちアゲ⤴で元気注入しよ.ᐟ.ᐟ⚡✨パワフルなVsinger【 ＃葉山翠 / Vtuber / ＃Short 】中低音女子/ ボカロ/アニソン / 初見歓迎",
+          "channelName": "H.Midori Ch🍃葉山翠",
+          "publishedAt": "2026-09-15T10:23:49.947Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9LI-zgrdXQQ/hqdefault.jpg",
+          "sourcePath": "sources/9L/9LI-zgrdXQQ.json",
+          "time": "1:33:39",
+          "seconds": 5619,
+          "songTitle": "NG",
+          "artist": "ちゃんみな"
+        },
+        {
+          "videoId": "7yo7je76Bo8",
+          "videoTitle": "【歌枠】むじな概念曲で打線組んだ #あおぎり高校 ／#八十科むじな】",
+          "channelName": "むじなch / あおぎり高校",
+          "publishedAt": "2026-09-08T17:36:44.719Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7yo7je76Bo8/hqdefault.jpg",
+          "sourcePath": "sources/7y/7yo7je76Bo8.json",
+          "time": "0:38:19",
+          "seconds": 2299,
+          "songTitle": "NG",
+          "artist": "ちゃんみな"
+        }
+      ],
+      "detailPath": "entities/songs/5531b80da077e992.json"
+    },
+    {
+      "rank": 4152,
+      "id": "fe21b7009f036699",
+      "name": "NightmaRe",
+      "secondary": "SNoW",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "c-8MHqNjuWM",
+          "videoTitle": "〖 #歌枠｜#KARAOKE 〗歌い杉田玄白。ほにゃっと歌枠！リクエストしてください！😤アニソン、ゲーソン、JPOP等😤〖 カラオケJOYSOUND for STREAMER 〗",
+          "channelName": "繭玉 ザクロ / Mayutama Zakuro",
+          "publishedAt": "2026-09-30T15:17:27.551Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/c-8MHqNjuWM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDa3sg0z6hLdzfGlWTB40740D5Sg",
+          "sourcePath": "sources/c-/c-8MHqNjuWM.json",
+          "time": "2:55:20",
+          "seconds": 10520,
+          "songTitle": "NightmaRe",
+          "artist": "SNoW"
+        },
+        {
+          "videoId": "BqjVMfRypUo",
+          "videoTitle": "〖 歌枠 〗大好きな気持ちを大切に歌うよ〖 Singing Stream┊安眠┊作業用BGM 〗",
+          "channelName": "真綿スピカ / Mawata Spica",
+          "publishedAt": "2026-09-28T14:21:46.017Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BqjVMfRypUo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzQWFmhv3z1hZfnRbziFgIM2lu5g",
+          "sourcePath": "sources/Bq/BqjVMfRypUo.json",
+          "time": "2:06:12",
+          "seconds": 7572,
+          "songTitle": "NightmaRe",
+          "artist": "SNoW"
+        },
+        {
+          "videoId": "_d2r0vOxj5g",
+          "videoTitle": "歌う #初見さん歓迎 (*´ω｀*)【#歌枠】 -Singing stream-JPVtuber #歌枠 #初見歓迎 #joysound",
+          "channelName": "みかみ茉姫 /Maki Mikami",
+          "publishedAt": "2026-09-22T18:57:08.104Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_d2r0vOxj5g/hqdefault.jpg",
+          "sourcePath": "sources/_d/_d2r0vOxj5g.json",
+          "time": "3:35:52",
+          "seconds": 12952,
+          "songTitle": "NightmaRe",
+          "artist": "SNoW"
+        }
+      ],
+      "detailPath": "entities/songs/fe21b7009f036699.json"
+    },
+    {
+      "rank": 4153,
       "id": "040fc690311bce0e",
       "name": "No Logic",
       "secondary": "ジミーサムP feat. 巡音ルカ",
@@ -70,7 +187,7 @@
       "detailPath": "entities/songs/040fc690311bce0e.json"
     },
     {
-      "rank": 4152,
+      "rank": 4154,
       "id": "9fc08286bdb073ba",
       "name": "nuit",
       "secondary": "春野",
@@ -127,7 +244,7 @@
       "detailPath": "entities/songs/9fc08286bdb073ba.json"
     },
     {
-      "rank": 4153,
+      "rank": 4155,
       "id": "efff91240273754b",
       "name": "ODDS&ENDS",
       "secondary": "ryo(supercell) feat.初音ミク",
@@ -184,7 +301,7 @@
       "detailPath": "entities/songs/efff91240273754b.json"
     },
     {
-      "rank": 4154,
+      "rank": 4156,
       "id": "d34e0bd21eae8c97",
       "name": "Oh! クラウディア",
       "secondary": "サザンオールスターズ",
@@ -245,7 +362,7 @@
       "detailPath": "entities/songs/d34e0bd21eae8c97.json"
     },
     {
-      "rank": 4155,
+      "rank": 4157,
       "id": "3c2537bfe781bb90",
       "name": "on the rocks",
       "secondary": "OSTER project",
@@ -304,7 +421,7 @@
       "detailPath": "entities/songs/3c2537bfe781bb90.json"
     },
     {
-      "rank": 4156,
+      "rank": 4158,
       "id": "ea22006053afa779",
       "name": "ONE",
       "secondary": "Aimer",
@@ -365,7 +482,7 @@
       "detailPath": "entities/songs/ea22006053afa779.json"
     },
     {
-      "rank": 4157,
+      "rank": 4159,
       "id": "153bc87263783f59",
       "name": "Ordinary Days",
       "secondary": "milet",
@@ -424,7 +541,7 @@
       "detailPath": "entities/songs/153bc87263783f59.json"
     },
     {
-      "rank": 4158,
+      "rank": 4160,
       "id": "34ece3bde905d0f1",
       "name": "Over the clouds",
       "secondary": "alan",
@@ -484,7 +601,7 @@
       "detailPath": "entities/songs/34ece3bde905d0f1.json"
     },
     {
-      "rank": 4159,
+      "rank": 4161,
       "id": "2668c43887c230ad",
       "name": "PINK BLOOD",
       "secondary": "宇多田ヒカル",
@@ -544,7 +661,7 @@
       "detailPath": "entities/songs/2668c43887c230ad.json"
     },
     {
-      "rank": 4160,
+      "rank": 4162,
       "id": "e0cef974aeece970",
       "name": "pink Monsoon",
       "secondary": "シェリル・ノーム starring May'n",
@@ -604,7 +721,7 @@
       "detailPath": "entities/songs/e0cef974aeece970.json"
     },
     {
-      "rank": 4161,
+      "rank": 4163,
       "id": "4751599d627238f3",
       "name": "Pray",
       "secondary": "",
@@ -661,7 +778,7 @@
       "detailPath": "entities/songs/4751599d627238f3.json"
     },
     {
-      "rank": 4162,
+      "rank": 4164,
       "id": "f958f76864074a0b",
       "name": "Presto",
       "secondary": "KOTOKO",
@@ -718,7 +835,7 @@
       "detailPath": "entities/songs/f958f76864074a0b.json"
     },
     {
-      "rank": 4163,
+      "rank": 4165,
       "id": "d3f741db49665bdf",
       "name": "PRIDE OF GLORY",
       "secondary": "水樹奈々",
@@ -778,7 +895,7 @@
       "detailPath": "entities/songs/d3f741db49665bdf.json"
     },
     {
-      "rank": 4164,
+      "rank": 4166,
       "id": "409c82e279eb6320",
       "name": "Q・P・O・N",
       "secondary": "九九",
@@ -837,7 +954,7 @@
       "detailPath": "entities/songs/409c82e279eb6320.json"
     },
     {
-      "rank": 4165,
+      "rank": 4167,
       "id": "93b4ef83499680f0",
       "name": "quantum jump",
       "secondary": "真里歌",
@@ -894,7 +1011,7 @@
       "detailPath": "entities/songs/93b4ef83499680f0.json"
     },
     {
-      "rank": 4166,
+      "rank": 4168,
       "id": "048cce25359bf1d4",
       "name": "QUARTET★NIGHT",
       "secondary": "うたのプリンスさまっ",
@@ -954,7 +1071,7 @@
       "detailPath": "entities/songs/048cce25359bf1d4.json"
     },
     {
-      "rank": 4167,
+      "rank": 4169,
       "id": "620a8f71d7b4fce5",
       "name": "ray",
       "secondary": "かぐや (cv.夏吉ゆうこ)，月見ヤチヨ (cv.早見沙織)",
@@ -1014,7 +1131,7 @@
       "detailPath": "entities/songs/620a8f71d7b4fce5.json"
     },
     {
-      "rank": 4168,
+      "rank": 4170,
       "id": "55d257c689b4a33b",
       "name": "ray",
       "secondary": "BUMP OF CHICKEN feat. HATSUNE MIKU ／ 初音ミク(2014年)",
@@ -1071,7 +1188,7 @@
       "detailPath": "entities/songs/55d257c689b4a33b.json"
     },
     {
-      "rank": 4169,
+      "rank": 4171,
       "id": "bac3ba1becb0eb50",
       "name": "RAY OF LIGHT",
       "secondary": "中川翔子",
@@ -1131,7 +1248,7 @@
       "detailPath": "entities/songs/bac3ba1becb0eb50.json"
     },
     {
-      "rank": 4170,
+      "rank": 4172,
       "id": "8bbb7109eb68ede8",
       "name": "Reckless fire",
       "secondary": "井出泰彰",
@@ -1188,7 +1305,7 @@
       "detailPath": "entities/songs/8bbb7109eb68ede8.json"
     },
     {
-      "rank": 4171,
+      "rank": 4173,
       "id": "d0772135783101fd",
       "name": "Reweave",
       "secondary": "鈴木このみ",
@@ -1247,7 +1364,7 @@
       "detailPath": "entities/songs/d0772135783101fd.json"
     },
     {
-      "rank": 4172,
+      "rank": 4174,
       "id": "339712559142c2c1",
       "name": "Ribbon",
       "secondary": "sabio feat.重音テト",
@@ -1307,7 +1424,7 @@
       "detailPath": "entities/songs/339712559142c2c1.json"
     },
     {
-      "rank": 4173,
+      "rank": 4175,
       "id": "9b4e5c635f3ee6f6",
       "name": "Rolling Star",
       "secondary": "",
@@ -1364,7 +1481,7 @@
       "detailPath": "entities/songs/9b4e5c635f3ee6f6.json"
     },
     {
-      "rank": 4174,
+      "rank": 4176,
       "id": "45ab9bd7990127a0",
       "name": "Scarlet Ballet",
       "secondary": "May'n",
@@ -1423,7 +1540,7 @@
       "detailPath": "entities/songs/45ab9bd7990127a0.json"
     },
     {
-      "rank": 4175,
+      "rank": 4177,
       "id": "e0e9e0846a688f4f",
       "name": "secret base ～君がくれたもの～",
       "secondary": "Silent Siren",
@@ -1483,7 +1600,7 @@
       "detailPath": "entities/songs/e0e9e0846a688f4f.json"
     },
     {
-      "rank": 4176,
+      "rank": 4178,
       "id": "e6175c96ac9501be",
       "name": "Shadow Shadow",
       "secondary": "Azari（full）",
@@ -1543,7 +1660,7 @@
       "detailPath": "entities/songs/e6175c96ac9501be.json"
     },
     {
-      "rank": 4177,
+      "rank": 4179,
       "id": "21ff2768b27051bf",
       "name": "Sincerely",
       "secondary": "",
@@ -1600,7 +1717,7 @@
       "detailPath": "entities/songs/21ff2768b27051bf.json"
     },
     {
-      "rank": 4178,
+      "rank": 4180,
       "id": "88e6376d1149e14d",
       "name": "Slow&Easy",
       "secondary": "平井 大",
@@ -1659,7 +1776,7 @@
       "detailPath": "entities/songs/88e6376d1149e14d.json"
     },
     {
-      "rank": 4179,
+      "rank": 4181,
       "id": "dea00334a781e892",
       "name": "SNOW",
       "secondary": "松澤由美",
@@ -1716,7 +1833,7 @@
       "detailPath": "entities/songs/dea00334a781e892.json"
     },
     {
-      "rank": 4180,
+      "rank": 4182,
       "id": "ae663719c6ac8ed2",
       "name": "Snow halation",
       "secondary": "",
@@ -1773,7 +1890,7 @@
       "detailPath": "entities/songs/ae663719c6ac8ed2.json"
     },
     {
-      "rank": 4181,
+      "rank": 4183,
       "id": "1d96421b49d53dd8",
       "name": "SOUVENIR",
       "secondary": "BUMP OF CHICKEN",
@@ -1833,7 +1950,7 @@
       "detailPath": "entities/songs/1d96421b49d53dd8.json"
     },
     {
-      "rank": 4182,
+      "rank": 4184,
       "id": "a6bbb46d5ec7651e",
       "name": "spiral",
       "secondary": "LONGMAN",
@@ -1892,7 +2009,7 @@
       "detailPath": "entities/songs/a6bbb46d5ec7651e.json"
     },
     {
-      "rank": 4183,
+      "rank": 4185,
       "id": "3c417faa8fdf5b58",
       "name": "Squall",
       "secondary": "松本英子",
@@ -1952,7 +2069,7 @@
       "detailPath": "entities/songs/3c417faa8fdf5b58.json"
     },
     {
-      "rank": 4184,
+      "rank": 4186,
       "id": "be3ab955619d76ca",
       "name": "Starry Wish",
       "secondary": "水瀬いのり",
@@ -2010,7 +2127,7 @@
       "detailPath": "entities/songs/be3ab955619d76ca.json"
     },
     {
-      "rank": 4185,
+      "rank": 4187,
       "id": "895c5aeec31cd8e1",
       "name": "STARS",
       "secondary": "中島美嘉",
@@ -2068,7 +2185,7 @@
       "detailPath": "entities/songs/895c5aeec31cd8e1.json"
     },
     {
-      "rank": 4186,
+      "rank": 4188,
       "id": "a8d91a9a5b798ef8",
       "name": "Step",
       "secondary": "a・chi-a・chi",
@@ -2128,7 +2245,7 @@
       "detailPath": "entities/songs/a8d91a9a5b798ef8.json"
     },
     {
-      "rank": 4187,
+      "rank": 4189,
       "id": "148278f2dbbe392c",
       "name": "Storyteller",
       "secondary": "TRUE",
@@ -2188,7 +2305,7 @@
       "detailPath": "entities/songs/148278f2dbbe392c.json"
     },
     {
-      "rank": 4188,
+      "rank": 4190,
       "id": "3fbcff106a09738d",
       "name": "Successful Mission",
       "secondary": "林原めぐみ",
@@ -2248,7 +2365,7 @@
       "detailPath": "entities/songs/3fbcff106a09738d.json"
     },
     {
-      "rank": 4189,
+      "rank": 4191,
       "id": "c8488ce4172e0439",
       "name": "Sunflower",
       "secondary": "Orangestar",
@@ -2305,7 +2422,7 @@
       "detailPath": "entities/songs/c8488ce4172e0439.json"
     },
     {
-      "rank": 4190,
+      "rank": 4192,
       "id": "22599d485dcf7f7e",
       "name": "Supernova",
       "secondary": "ELLEGARDEN",
@@ -2365,7 +2482,7 @@
       "detailPath": "entities/songs/22599d485dcf7f7e.json"
     },
     {
-      "rank": 4191,
+      "rank": 4193,
       "id": "ce80d1234a443a94",
       "name": "SWEET TWEET",
       "secondary": "Official髭男dism",
@@ -2425,7 +2542,7 @@
       "detailPath": "entities/songs/ce80d1234a443a94.json"
     },
     {
-      "rank": 4192,
+      "rank": 4194,
       "id": "6df19805ca82c08f",
       "name": "Take a shot",
       "secondary": "水樹奈々",
@@ -2485,7 +2602,7 @@
       "detailPath": "entities/songs/6df19805ca82c08f.json"
     },
     {
-      "rank": 4193,
+      "rank": 4195,
       "id": "ee6426c2bc08697d",
       "name": "Tell Your World",
       "secondary": "kz",
@@ -2545,7 +2662,7 @@
       "detailPath": "entities/songs/ee6426c2bc08697d.json"
     },
     {
-      "rank": 4194,
+      "rank": 4196,
       "id": "9204422aba061d33",
       "name": "TERMINATED",
       "secondary": "茅原実里",
@@ -2605,7 +2722,7 @@
       "detailPath": "entities/songs/9204422aba061d33.json"
     },
     {
-      "rank": 4195,
+      "rank": 4197,
       "id": "98cdc3764e595fcd",
       "name": "This game",
       "secondary": "",
@@ -2663,7 +2780,7 @@
       "detailPath": "entities/songs/98cdc3764e595fcd.json"
     },
     {
-      "rank": 4196,
+      "rank": 4198,
       "id": "be3172c4b2c2f4c7",
       "name": "This Is Love",
       "secondary": "宇多田ヒカル",
@@ -2723,7 +2840,7 @@
       "detailPath": "entities/songs/be3172c4b2c2f4c7.json"
     },
     {
-      "rank": 4197,
+      "rank": 4199,
       "id": "69b58b8bd7857ff9",
       "name": "Thrill, Risk, Heartless",
       "secondary": "LiSA",
@@ -2783,7 +2900,7 @@
       "detailPath": "entities/songs/69b58b8bd7857ff9.json"
     },
     {
-      "rank": 4198,
+      "rank": 4200,
       "id": "72f1163255ef1eaf",
       "name": "Tiger",
       "secondary": "HANA",
@@ -2841,126 +2958,6 @@
         }
       ],
       "detailPath": "entities/songs/72f1163255ef1eaf.json"
-    },
-    {
-      "rank": 4199,
-      "id": "60c0df758790f9ed",
-      "name": "TOKIO",
-      "secondary": "沢田研二",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "I5AaylTbgzw",
-          "videoTitle": "【 #寒暖差歌枠リレー 】ドSエンタメアイドル ルナちゃんがしっとり清楚で純粋沼にズブっと漬け込んであげるね♡",
-          "channelName": "歌う 三ツ星ルナちゃん",
-          "publishedAt": "2026-09-13T10:06:34.776Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/I5AaylTbgzw/hqdefault.jpg",
-          "sourcePath": "sources/I5/I5AaylTbgzw.json",
-          "time": "0:14:15",
-          "seconds": 855,
-          "songTitle": "TOKIO",
-          "artist": "沢田研二"
-        },
-        {
-          "videoId": "tTeHG_5FlaE",
-          "videoTitle": "【 歌枠 】ピアノでしっとり♪30代40代50代 大歓迎 ★初見ROM大歓迎～！",
-          "channelName": "歌う 三ツ星ルナちゃん",
-          "publishedAt": "2026-08-31T21:33:35.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tTeHG_5FlaE/hqdefault.jpg",
-          "sourcePath": "sources/tT/tTeHG_5FlaE.json",
-          "time": "1:59:24",
-          "seconds": 7164,
-          "songTitle": "TOKIO",
-          "artist": "沢田研二"
-        },
-        {
-          "videoId": "m175onvOL0g",
-          "videoTitle": "【 歌枠 】懐メロで盛り上がろう♪30代４０代５０代 大歓迎 ★初見ROM大歓迎～！",
-          "channelName": "歌う 三ツ星ルナちゃん",
-          "publishedAt": "2026-08-31T12:33:35.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/m175onvOL0g/hqdefault.jpg",
-          "sourcePath": "sources/m1/m175onvOL0g.json",
-          "time": "0:43:45",
-          "seconds": 2625,
-          "songTitle": "TOKIO",
-          "artist": "沢田研二"
-        }
-      ],
-      "detailPath": "entities/songs/60c0df758790f9ed.json"
-    },
-    {
-      "rank": 4200,
-      "id": "9861eb206151ce7f",
-      "name": "Tómur",
-      "secondary": "におP",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oxtDgfSxxZo",
-          "videoTitle": "【#歌枠】のんびりまったりしていってください！🎤✨【出穂おみ/re;BON】",
-          "channelName": "出穂おみ / Izuho omi",
-          "publishedAt": "2026-09-19T14:31:25.020Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oxtDgfSxxZo/hqdefault.jpg",
-          "sourcePath": "sources/ox/oxtDgfSxxZo.json",
-          "time": "0:27:45",
-          "seconds": 1665,
-          "songTitle": "Tómur",
-          "artist": "におP"
-        },
-        {
-          "videoId": "D5tnOD3fcuw",
-          "videoTitle": "【#歌枠】3年目一発目はお歌！🎤✨【出穂おみ/re;BON】",
-          "channelName": "出穂おみ / Izuho omi",
-          "publishedAt": "2026-09-08T14:39:03.883Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/D5tnOD3fcuw/hqdefault.jpg",
-          "sourcePath": "sources/D5/D5tnOD3fcuw.json",
-          "time": "1:10:45",
-          "seconds": 4245,
-          "songTitle": "Tómur",
-          "artist": "におP"
-        },
-        {
-          "videoId": "QQZ6Op0C_jk",
-          "videoTitle": "【#歌枠】明日で活動開始から2年！歌うぞ！🎤✨【出穂おみ/re;BON】",
-          "channelName": "出穂おみ / Izuho omi",
-          "publishedAt": "2026-09-06T10:03:58.128Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QQZ6Op0C_jk/hqdefault.jpg",
-          "sourcePath": "sources/QQ/QQZ6Op0C_jk.json",
-          "time": "1:15:33",
-          "seconds": 4533,
-          "songTitle": "Tómur",
-          "artist": "におP"
-        }
-      ],
-      "detailPath": "entities/songs/9861eb206151ce7f.json"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "id": "d6dfb8471dcdea41",
   "type": "artists",
   "name": "ロス",
@@ -8,8 +8,8 @@
   "channelId": "",
   "channelHandle": "",
   "channelUrl": "",
-  "occurrenceCount": 18,
-  "videoCount": 16,
+  "occurrenceCount": 19,
+  "videoCount": 17,
   "keywords": [
     "month",
     "mygit_today_snapshot",
@@ -21,6 +21,18 @@
   "collected": false,
   "collectionId": "",
   "sourcesPreview": [
+    {
+      "videoId": "iRuynqpvJL0",
+      "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+      "channelName": "音魂ヒビク / Otodama Hibiku",
+      "publishedAt": "2026-10-12T09:45:02.567Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+      "sourcePath": "sources/iR/iRuynqpvJL0.json",
+      "time": "2:12:08",
+      "seconds": 7928,
+      "songTitle": "Bitter",
+      "artist": "ロス"
+    },
     {
       "videoId": "jw7X0SKdPvk",
       "videoTitle": "【歌枠/Karaoke 】週末の深夜歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
@@ -43,18 +55,6 @@
       "time": "3:04:25",
       "seconds": 11065,
       "songTitle": "Bitter",
-      "artist": "ロス"
-    },
-    {
-      "videoId": "7t7g8OxXzbU",
-      "videoTitle": "【 コラボ歌枠 】二人で奏でる和を、どうぞご堪能あれ🌸🪶【 稲守サクヤ×羽緒 】#さくはお #歌枠 #vtuber #vsinger #karaoke",
-      "channelName": "羽緒、稲守サクヤ / Sakuya Inamori",
-      "publishedAt": "2026-09-29T15:40:05.685Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/7t7g8OxXzbU/hqdefault.jpg",
-      "sourcePath": "sources/7t/7t7g8OxXzbU.json",
-      "time": "0:19:31",
-      "seconds": 1171,
-      "songTitle": "身売り",
       "artist": "ロス"
     }
   ],
@@ -326,6 +326,21 @@
       "sourcePath": "sources/KW/KWqw4s_yOIA.json",
       "time": "3:04:25",
       "seconds": 11065,
+      "songTitle": "Bitter",
+      "artist": "ロス"
+    },
+    {
+      "videoId": "iRuynqpvJL0",
+      "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+      "channelName": "音魂ヒビク / Otodama Hibiku",
+      "channelId": "UCGKNbtDv8OTa8559buDu-Gw",
+      "channelHandle": "@otodama_hibiku",
+      "channelUrl": "",
+      "publishedAt": "2026-10-12T09:45:02.567Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+      "sourcePath": "sources/iR/iRuynqpvJL0.json",
+      "time": "2:12:08",
+      "seconds": 7928,
       "songTitle": "Bitter",
       "artist": "ロス"
     }

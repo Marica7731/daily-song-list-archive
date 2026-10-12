@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "vtubers",
   "page": 4,
   "pageSize": 50,
-  "pageCount": 94,
-  "totalCount": 4699,
+  "pageCount": 95,
+  "totalCount": 4703,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1365,6 +1365,67 @@
     },
     {
       "rank": 174,
+      "id": "91e99bae4b9612fc",
+      "name": "音魂ヒビク / Otodama Hibiku",
+      "secondary": "",
+      "channelId": "UCGKNbtDv8OTa8559buDu-Gw",
+      "channelHandle": "@otodama_hibiku",
+      "channelUrl": "",
+      "occurrenceCount": 185,
+      "videoCount": 16,
+      "songCount": 146,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "0:07:20",
+          "seconds": 440,
+          "songTitle": "蕾",
+          "artist": "コブクロ"
+        },
+        {
+          "videoId": "KWqw4s_yOIA",
+          "videoTitle": "【#歌枠】週末癒しの弾き語り / Singing stream【 #vtuber 】",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-09T18:24:54.011Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KWqw4s_yOIA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdnv_b5-lMZ05zRj99M8AV9-KRCA",
+          "sourcePath": "sources/KW/KWqw4s_yOIA.json",
+          "time": "0:04:14",
+          "seconds": 254,
+          "songTitle": "ギブス",
+          "artist": "椎名林檎"
+        },
+        {
+          "videoId": "K1-tWs1Tchg",
+          "videoTitle": "〖歌枠〗リクエスト拾う！Chill弾き語り🎸〖Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-08T15:47:12.988Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/K1-tWs1Tchg/hqdefault.jpg",
+          "sourcePath": "sources/K1/K1-tWs1Tchg.json",
+          "time": "0:17:24",
+          "seconds": 1044,
+          "songTitle": "FLY ME TO THE MOON",
+          "artist": "クレア"
+        }
+      ],
+      "detailPath": "entities/vtubers/91e99bae4b9612fc.json"
+    },
+    {
+      "rank": 175,
       "id": "cb0a0ce7553dc756",
       "name": "ふぇりしあ / Felicia Ch",
       "secondary": "",
@@ -1421,7 +1482,7 @@
       "detailPath": "entities/vtubers/cb0a0ce7553dc756.json"
     },
     {
-      "rank": 175,
+      "rank": 176,
       "id": "cf83ebcb558a3c3e",
       "name": "メーメントヴァニタス / MEMENTOVANITAS",
       "secondary": "",
@@ -1481,7 +1542,7 @@
       "detailPath": "entities/vtubers/cf83ebcb558a3c3e.json"
     },
     {
-      "rank": 176,
+      "rank": 177,
       "id": "9d6ea3c1a133c381",
       "name": "神輿たらん - Taran Mikoshi - Unofficial Archive 🍭🔆",
       "secondary": "",
@@ -1538,7 +1599,7 @@
       "detailPath": "entities/vtubers/9d6ea3c1a133c381.json"
     },
     {
-      "rank": 177,
+      "rank": 178,
       "id": "791392aaeb2c8355",
       "name": "Ellise Ch.",
       "secondary": "",
@@ -1598,7 +1659,7 @@
       "detailPath": "entities/vtubers/791392aaeb2c8355.json"
     },
     {
-      "rank": 178,
+      "rank": 179,
       "id": "cbc361a390f2a547",
       "name": "久遠なつめ natsume channel",
       "secondary": "",
@@ -1655,7 +1716,7 @@
       "detailPath": "entities/vtubers/cbc361a390f2a547.json"
     },
     {
-      "rank": 179,
+      "rank": 180,
       "id": "e95ca1c65a6e0c40",
       "name": "アカノ☆ビャクア AkanoByakua",
       "secondary": "",
@@ -1715,7 +1776,7 @@
       "detailPath": "entities/vtubers/e95ca1c65a6e0c40.json"
     },
     {
-      "rank": 180,
+      "rank": 181,
       "id": "630c7fbbb00bcae0",
       "name": "巫てんり / Kannagi Tenri",
       "secondary": "",
@@ -1774,7 +1835,7 @@
       "detailPath": "entities/vtubers/630c7fbbb00bcae0.json"
     },
     {
-      "rank": 181,
+      "rank": 182,
       "id": "368cd39eb8e63cc8",
       "name": "小鳥遊ゆとは -Yutoha Takanashi-",
       "secondary": "",
@@ -1834,7 +1895,7 @@
       "detailPath": "entities/vtubers/368cd39eb8e63cc8.json"
     },
     {
-      "rank": 182,
+      "rank": 183,
       "id": "68d8a05616f30e69",
       "name": "紅玉カレン",
       "secondary": "",
@@ -1893,7 +1954,7 @@
       "detailPath": "entities/vtubers/68d8a05616f30e69.json"
     },
     {
-      "rank": 183,
+      "rank": 184,
       "id": "1cdf0031cb62c6d4",
       "name": "ukuna ch.うくな",
       "secondary": "",
@@ -1953,7 +2014,7 @@
       "detailPath": "entities/vtubers/1cdf0031cb62c6d4.json"
     },
     {
-      "rank": 184,
+      "rank": 185,
       "id": "c85e142ea6ceb6a3",
       "name": "神凪アンナ - Kannagi Anna -",
       "secondary": "",
@@ -2010,7 +2071,7 @@
       "detailPath": "entities/vtubers/c85e142ea6ceb6a3.json"
     },
     {
-      "rank": 185,
+      "rank": 186,
       "id": "c087e94fb094a6c4",
       "name": "Yohira ch. 渉海よひら",
       "secondary": "",
@@ -2070,7 +2131,7 @@
       "detailPath": "entities/vtubers/c087e94fb094a6c4.json"
     },
     {
-      "rank": 186,
+      "rank": 187,
       "id": "d415dde10d90aa0a",
       "name": "ばに団長 -Vanita Scarlet-",
       "secondary": "",
@@ -2129,7 +2190,7 @@
       "detailPath": "entities/vtubers/d415dde10d90aa0a.json"
     },
     {
-      "rank": 187,
+      "rank": 188,
       "id": "c82dc62e7593d35c",
       "name": "Kyoka Ch. -響架-",
       "secondary": "",
@@ -2189,7 +2250,7 @@
       "detailPath": "entities/vtubers/c82dc62e7593d35c.json"
     },
     {
-      "rank": 188,
+      "rank": 189,
       "id": "f9e1113483a07984",
       "name": "合法‼︎バツ子ﾁｬﾝBatsuko",
       "secondary": "",
@@ -2249,7 +2310,7 @@
       "detailPath": "entities/vtubers/f9e1113483a07984.json"
     },
     {
-      "rank": 189,
+      "rank": 190,
       "id": "06742ac754422343",
       "name": "じゅだ@ボカロP",
       "secondary": "",
@@ -2309,7 +2370,7 @@
       "detailPath": "entities/vtubers/06742ac754422343.json"
     },
     {
-      "rank": 190,
+      "rank": 191,
       "id": "7c6419e359560b47",
       "name": "狼谷はるか / Kamiya Haruka ch.",
       "secondary": "",
@@ -2369,7 +2430,7 @@
       "detailPath": "entities/vtubers/7c6419e359560b47.json"
     },
     {
-      "rank": 191,
+      "rank": 192,
       "id": "d8497420759257b0",
       "name": "dosanco",
       "secondary": "",
@@ -2426,7 +2487,7 @@
       "detailPath": "entities/vtubers/d8497420759257b0.json"
     },
     {
-      "rank": 192,
+      "rank": 193,
       "id": "b95a62050bc58f8a",
       "name": "ながやまめめ / Nagayama Meme",
       "secondary": "",
@@ -2484,7 +2545,7 @@
       "detailPath": "entities/vtubers/b95a62050bc58f8a.json"
     },
     {
-      "rank": 193,
+      "rank": 194,
       "id": "c91e5c630afd4373",
       "name": "Rain ch.雨宿れいん",
       "secondary": "",
@@ -2538,7 +2599,7 @@
       "detailPath": "entities/vtubers/c91e5c630afd4373.json"
     },
     {
-      "rank": 194,
+      "rank": 195,
       "id": "fc8131b0d6d1b1d9",
       "name": "INARI",
       "secondary": "",
@@ -2596,7 +2657,7 @@
       "detailPath": "entities/vtubers/fc8131b0d6d1b1d9.json"
     },
     {
-      "rank": 195,
+      "rank": 196,
       "id": "3f968982ee69aa93",
       "name": "XXX",
       "secondary": "",
@@ -2654,7 +2715,7 @@
       "detailPath": "entities/vtubers/3f968982ee69aa93.json"
     },
     {
-      "rank": 196,
+      "rank": 197,
       "id": "ff5890f09b614241",
       "name": "杣菜つくも / Somana ch.",
       "secondary": "",
@@ -2711,7 +2772,7 @@
       "detailPath": "entities/vtubers/ff5890f09b614241.json"
     },
     {
-      "rank": 197,
+      "rank": 198,
       "id": "3099e4ee92d3cece",
       "name": "人鳥アデリ / Hitori Adelie",
       "secondary": "",
@@ -2765,7 +2826,7 @@
       "detailPath": "entities/vtubers/3099e4ee92d3cece.json"
     },
     {
-      "rank": 198,
+      "rank": 199,
       "id": "3bfd42542a6e19c1",
       "name": "柳井鹿目 - かなめは弾き語る📻",
       "secondary": "",
@@ -2822,7 +2883,7 @@
       "detailPath": "entities/vtubers/3bfd42542a6e19c1.json"
     },
     {
-      "rank": 199,
+      "rank": 200,
       "id": "b7434f11921cf91e",
       "name": "沫雪ゆうり Yuri_awayuki",
       "secondary": "",
@@ -2878,66 +2939,6 @@
         }
       ],
       "detailPath": "entities/vtubers/b7434f11921cf91e.json"
-    },
-    {
-      "rank": 200,
-      "id": "203fe95c2b5639c3",
-      "name": "波宵かなで / Namiyoi Kanade【そらびん】",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 174,
-      "videoCount": 13,
-      "songCount": 144,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "atTNx8g5EJM",
-          "videoTitle": "【 #歌枠 】天気が悪い時はチルい曲💙【#かなでる時間 / #そらびん /#波宵かなで】#vtuber #作業bgm #karaoke",
-          "channelName": "波宵かなで / Namiyoi Kanade【そらびん】",
-          "publishedAt": "2026-09-29T10:34:40.506Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/atTNx8g5EJM/hqdefault.jpg",
-          "sourcePath": "sources/at/atTNx8g5EJM.json",
-          "time": "0:11:24",
-          "seconds": 684,
-          "songTitle": "紡ぐ",
-          "artist": "とた"
-        },
-        {
-          "videoId": "6HeGD2SVFn8",
-          "videoTitle": "【 #歌枠 】さぁ、歌枠はじまりますよ～💙【#かなでる時間 / #そらびん /#波宵かなで】#vtuber #作業bgm #karaoke",
-          "channelName": "波宵かなで / Namiyoi Kanade【そらびん】",
-          "publishedAt": "2026-09-23T14:55:04.472Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6HeGD2SVFn8/hqdefault.jpg",
-          "sourcePath": "sources/6H/6HeGD2SVFn8.json",
-          "time": "0:10:47",
-          "seconds": 647,
-          "songTitle": "First Love",
-          "artist": "宇多田ヒカル"
-        },
-        {
-          "videoId": "an1NGUqBYSY",
-          "videoTitle": "【 #歌枠 】今日はなんか元気！！💙【#かなでる時間 / #そらびん /#波宵かなで】#vtuber #作業bgm #karaoke",
-          "channelName": "波宵かなで / Namiyoi Kanade【そらびん】",
-          "publishedAt": "2026-09-17T11:06:50.180Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/an1NGUqBYSY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCieJkOStAA1uUJaTX8a8zP1gNEKg",
-          "sourcePath": "sources/an/an1NGUqBYSY.json",
-          "time": "0:12:15",
-          "seconds": 735,
-          "songTitle": "イマジネーション",
-          "artist": "SPYAIR"
-        }
-      ],
-      "detailPath": "entities/vtubers/203fe95c2b5639c3.json"
     }
   ]
 }

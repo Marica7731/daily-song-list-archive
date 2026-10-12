@@ -1,16 +1,154 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "artists",
   "page": 124,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19991,
+  "totalCount": 19998,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6151,
+      "id": "2f5dcc03ee5e0014",
+      "name": "雑談と炙り",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "DtmiP5NssKM",
+          "videoTitle": "【 歌枠 】10/1 🌙 20:00 うたわく/雑談と炙り 【 #すみれが咲きました 】",
+          "channelName": "菫ヨスガ",
+          "publishedAt": "2026-10-01T13:44:03.376Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DtmiP5NssKM/hqdefault.jpg",
+          "sourcePath": "sources/Dt/DtmiP5NssKM.json",
+          "time": "0:20:00",
+          "seconds": 1200,
+          "songTitle": "うたわく",
+          "artist": "雑談と炙り"
+        },
+        {
+          "videoId": "UDnFjzuwces",
+          "videoTitle": "【※雑な配信】小声でぐだぐだするやつ #vtuber #雑談 #歌枠 cover",
+          "channelName": "せう -céu channel-",
+          "publishedAt": "2026-09-30T19:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UDnFjzuwces/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqERQpP2X75LxcQCRiRT5TUMhhQg",
+          "sourcePath": "sources/UD/UDnFjzuwces.json",
+          "time": "0:20:00",
+          "seconds": 1200,
+          "songTitle": "うたわく",
+          "artist": "雑談と炙り"
+        }
+      ],
+      "detailPath": "entities/artists/2f5dcc03ee5e0014.json"
+    },
+    {
+      "rank": 6152,
+      "id": "6f0e432e9dcdc258",
+      "name": "三枝夕夏 IN db",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "YJZj4RcgU_I",
+          "videoTitle": "【歌枠 / KARAOKE】名探偵コナン縛りで歌います👓🎀⚽ #響け咲良【心響咲良 / UniVIRTUAL】",
+          "channelName": "KOKONE Ch.心響咲良",
+          "publishedAt": "2026-09-24T15:09:07.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YJZj4RcgU_I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDezIXLeX1sbOigxM_BhdrgNnGQOg",
+          "sourcePath": "sources/YJ/YJZj4RcgU_I.json",
+          "time": "1:49:52",
+          "seconds": 6592,
+          "songTitle": "君と約束した優しいあの場所まで",
+          "artist": "三枝夕夏 IN db"
+        },
+        {
+          "videoId": "XxS2goLqWsw",
+          "videoTitle": "【#歌枠】雨の憂鬱さを吹き飛ばせ歌枠【#猫又めいど】",
+          "channelName": "猫又めいど",
+          "publishedAt": "2026-09-04T14:17:33.662Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XxS2goLqWsw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBneaSx1Nc4f9CtObMHh3LQJ9NA8Q",
+          "sourcePath": "sources/Xx/XxS2goLqWsw.json",
+          "time": "2:08:50",
+          "seconds": 7730,
+          "songTitle": "（14）君と約束した優しいあの場所まで",
+          "artist": "三枝夕夏 IN db"
+        }
+      ],
+      "detailPath": "entities/artists/6f0e432e9dcdc258.json"
+    },
+    {
+      "rank": 6153,
+      "id": "7464a7a7b6767918",
+      "name": "三石琴乃(kotono mitsuishi), 富沢美智恵(michie tomizawa),久川綾(aya hisakawa),篠原恵美(emi shinohara),深見梨加",
+      "secondary": "",
+      "channelId": "UC7A7bGRVdIwo93nqnA3x-OQ",
+      "channelHandle": "@MaisakiBerry",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "VaNXP5nuc2k",
+          "videoTitle": "【 歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
+          "channelName": "苺咲べりぃ / Maisaki Berry",
+          "publishedAt": "2026-09-24T15:09:07.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VaNXP5nuc2k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDP7HI_LISck1Lop7f9t-jLhnBb1A",
+          "sourcePath": "sources/Va/VaNXP5nuc2k.json",
+          "time": "2:03:05",
+          "seconds": 7385,
+          "songTitle": "タキシード・ミラージュ",
+          "artist": "三石琴乃(kotono mitsuishi), 富沢美智恵(michie tomizawa),久川綾(aya hisakawa),篠原恵美(emi shinohara),深見梨加"
+        },
+        {
+          "videoId": "f7d3kkjQ0IY",
+          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！まったり歌うよ！ - Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
+          "channelName": "苺咲べりぃ / Maisaki Berry",
+          "publishedAt": "2026-08-05T16:15:13.503Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/f7d3kkjQ0IY/hqdefault.jpg",
+          "sourcePath": "sources/f7/f7d3kkjQ0IY.json",
+          "time": "0:49:09",
+          "seconds": 2949,
+          "songTitle": "タキシード・ミラージュ",
+          "artist": "三石琴乃(kotono mitsuishi), 富沢美智恵(michie tomizawa),久川綾(aya hisakawa),篠原恵美(emi shinohara),深見梨加"
+        }
+      ],
+      "detailPath": "entities/artists/7464a7a7b6767918.json"
+    },
+    {
+      "rank": 6154,
       "id": "f7f3f59d6dcd8689",
       "name": "三日月ちゆる 1stオリジナルソング",
       "secondary": "",
@@ -58,7 +196,7 @@
       "detailPath": "entities/artists/f7f3f59d6dcd8689.json"
     },
     {
-      "rank": 6152,
+      "rank": 6155,
       "id": "24508f5e183f074b",
       "name": "三木露風、山田耕筰",
       "secondary": "",
@@ -105,7 +243,7 @@
       "detailPath": "entities/artists/24508f5e183f074b.json"
     },
     {
-      "rank": 6153,
+      "rank": 6156,
       "id": "e6cc14da34c6eeff",
       "name": "山形ユキオ、坂部悟",
       "secondary": "",
@@ -150,7 +288,7 @@
       "detailPath": "entities/artists/e6cc14da34c6eeff.json"
     },
     {
-      "rank": 6154,
+      "rank": 6157,
       "id": "8060e5bcf5d9cadb",
       "name": "山根康広",
       "secondary": "",
@@ -198,7 +336,7 @@
       "detailPath": "entities/artists/8060e5bcf5d9cadb.json"
     },
     {
-      "rank": 6155,
+      "rank": 6158,
       "id": "096b97446ba461e1",
       "name": "山本譲二",
       "secondary": "",
@@ -243,7 +381,7 @@
       "detailPath": "entities/artists/096b97446ba461e1.json"
     },
     {
-      "rank": 6156,
+      "rank": 6159,
       "id": "ca73795965d25677",
       "name": "山野さと子,大山のぶ代",
       "secondary": "",
@@ -288,7 +426,7 @@
       "detailPath": "entities/artists/ca73795965d25677.json"
     },
     {
-      "rank": 6157,
+      "rank": 6160,
       "id": "216c382f02efc9ec",
       "name": "四ノ宮那月",
       "secondary": "",
@@ -334,7 +472,7 @@
       "detailPath": "entities/artists/216c382f02efc9ec.json"
     },
     {
-      "rank": 6158,
+      "rank": 6161,
       "id": "9554a71c9311a0ea",
       "name": "四ノ宮那月(谷山紀章)",
       "secondary": "",
@@ -379,7 +517,7 @@
       "detailPath": "entities/artists/9554a71c9311a0ea.json"
     },
     {
-      "rank": 6159,
+      "rank": 6162,
       "id": "048dabd87e9cec43",
       "name": "紫雲清夏",
       "secondary": "",
@@ -424,7 +562,7 @@
       "detailPath": "entities/artists/048dabd87e9cec43.json"
     },
     {
-      "rank": 6160,
+      "rank": 6163,
       "id": "4ca3dce37f42990c",
       "name": "紫京院ひびき(斎賀みつき)",
       "secondary": "",
@@ -469,7 +607,7 @@
       "detailPath": "entities/artists/4ca3dce37f42990c.json"
     },
     {
-      "rank": 6161,
+      "rank": 6164,
       "id": "21229b29ce42e75b",
       "name": "詩乃原しの",
       "secondary": "",
@@ -514,7 +652,7 @@
       "detailPath": "entities/artists/21229b29ce42e75b.json"
     },
     {
-      "rank": 6162,
+      "rank": 6165,
       "id": "9630dca8ee94f69c",
       "name": "寺島拓篤",
       "secondary": "",
@@ -559,7 +697,7 @@
       "detailPath": "entities/artists/9630dca8ee94f69c.json"
     },
     {
-      "rank": 6163,
+      "rank": 6166,
       "id": "519b6db72f4b7886",
       "name": "時音ありす",
       "secondary": "",
@@ -606,7 +744,7 @@
       "detailPath": "entities/artists/519b6db72f4b7886.json"
     },
     {
-      "rank": 6164,
+      "rank": 6167,
       "id": "974a63cf5a991e65",
       "name": "次長課長",
       "secondary": "",
@@ -651,7 +789,7 @@
       "detailPath": "entities/artists/974a63cf5a991e65.json"
     },
     {
-      "rank": 6165,
+      "rank": 6168,
       "id": "2952add8dd0cca63",
       "name": "自然の敵P",
       "secondary": "",
@@ -696,7 +834,7 @@
       "detailPath": "entities/artists/2952add8dd0cca63.json"
     },
     {
-      "rank": 6166,
+      "rank": 6169,
       "id": "43a9190754013ab6",
       "name": "汐Seki",
       "secondary": "",
@@ -741,7 +879,7 @@
       "detailPath": "entities/artists/43a9190754013ab6.json"
     },
     {
-      "rank": 6167,
+      "rank": 6170,
       "id": "086957176fa79823",
       "name": "鹿",
       "secondary": "",
@@ -786,7 +924,7 @@
       "detailPath": "entities/artists/086957176fa79823.json"
     },
     {
-      "rank": 6168,
+      "rank": 6171,
       "id": "d80d954f8a497c5f",
       "name": "式浦。",
       "secondary": "",
@@ -831,7 +969,7 @@
       "detailPath": "entities/artists/d80d954f8a497c5f.json"
     },
     {
-      "rank": 6169,
+      "rank": 6172,
       "id": "50a02032c5d7082f",
       "name": "七つの大罪",
       "secondary": "",
@@ -876,7 +1014,7 @@
       "detailPath": "entities/artists/50a02032c5d7082f.json"
     },
     {
-      "rank": 6170,
+      "rank": 6173,
       "id": "1ecac84aa37a5b80",
       "name": "七海るちあ・宝生波音・洞院リナ",
       "secondary": "",
@@ -921,7 +1059,7 @@
       "detailPath": "entities/artists/1ecac84aa37a5b80.json"
     },
     {
-      "rank": 6171,
+      "rank": 6174,
       "id": "04c09ac360c6d588",
       "name": "七詩ムメイ",
       "secondary": "",
@@ -969,7 +1107,7 @@
       "detailPath": "entities/artists/04c09ac360c6d588.json"
     },
     {
-      "rank": 6172,
+      "rank": 6175,
       "id": "6c78d10a513ced5e",
       "name": "実羽ゆうき",
       "secondary": "",
@@ -1014,7 +1152,7 @@
       "detailPath": "entities/artists/6c78d10a513ced5e.json"
     },
     {
-      "rank": 6173,
+      "rank": 6176,
       "id": "6c907cdce72ec22c",
       "name": "篠澤広（学園アイドルマスター）",
       "secondary": "",
@@ -1056,7 +1194,7 @@
       "detailPath": "entities/artists/6c907cdce72ec22c.json"
     },
     {
-      "rank": 6174,
+      "rank": 6177,
       "id": "0499aa3411cf9428",
       "name": "煮ル果実 feat. v flower",
       "secondary": "",
@@ -1101,7 +1239,7 @@
       "detailPath": "entities/artists/0499aa3411cf9428.json"
     },
     {
-      "rank": 6175,
+      "rank": 6178,
       "id": "94791a302266aab2",
       "name": "煮ル果実様",
       "secondary": "",
@@ -1143,7 +1281,7 @@
       "detailPath": "entities/artists/94791a302266aab2.json"
     },
     {
-      "rank": 6176,
+      "rank": 6179,
       "id": "2be73f403b561194",
       "name": "紗倉ひびき（ファイルーズあい）と街雄鳴造（石川界人）",
       "secondary": "",
@@ -1188,7 +1326,7 @@
       "detailPath": "entities/artists/2be73f403b561194.json"
     },
     {
-      "rank": 6177,
+      "rank": 6180,
       "id": "c64efd412497c361",
       "name": "謝謝P",
       "secondary": "",
@@ -1233,7 +1371,7 @@
       "detailPath": "entities/artists/c64efd412497c361.json"
     },
     {
-      "rank": 6178,
+      "rank": 6181,
       "id": "6d22bf338375fa59",
       "name": "若干P",
       "secondary": "",
@@ -1278,7 +1416,7 @@
       "detailPath": "entities/artists/6d22bf338375fa59.json"
     },
     {
-      "rank": 6179,
+      "rank": 6182,
       "id": "2dba730b89af0415",
       "name": "若葉まぁく",
       "secondary": "",
@@ -1323,7 +1461,7 @@
       "detailPath": "entities/artists/2dba730b89af0415.json"
     },
     {
-      "rank": 6180,
+      "rank": 6183,
       "id": "b92d6f8d506dfa40",
       "name": "手嶌葵 (アカペラ)",
       "secondary": "",
@@ -1365,7 +1503,7 @@
       "detailPath": "entities/artists/b92d6f8d506dfa40.json"
     },
     {
-      "rank": 6181,
+      "rank": 6184,
       "id": "40711bf2315e6700",
       "name": "手嶌葵 ／ コクリコ坂から(2011年)",
       "secondary": "",
@@ -1410,7 +1548,7 @@
       "detailPath": "entities/artists/40711bf2315e6700.json"
     },
     {
-      "rank": 6182,
+      "rank": 6185,
       "id": "2bb65d9c172dd99c",
       "name": "手嶌葵 ※JOYSOUND",
       "secondary": "",
@@ -1455,7 +1593,7 @@
       "detailPath": "entities/artists/2bb65d9c172dd99c.json"
     },
     {
-      "rank": 6183,
+      "rank": 6186,
       "id": "c329401280b81f08",
       "name": "酒井ミキオ",
       "secondary": "",
@@ -1500,7 +1638,7 @@
       "detailPath": "entities/artists/c329401280b81f08.json"
     },
     {
-      "rank": 6184,
+      "rank": 6187,
       "id": "7d09534ab1d29038",
       "name": "宗谷いちか10thオリジナルソング",
       "secondary": "",
@@ -1545,7 +1683,7 @@
       "detailPath": "entities/artists/7d09534ab1d29038.json"
     },
     {
-      "rank": 6185,
+      "rank": 6188,
       "id": "0d790cd645f766d4",
       "name": "十王星南",
       "secondary": "",
@@ -1593,7 +1731,7 @@
       "detailPath": "entities/artists/0d790cd645f766d4.json"
     },
     {
-      "rank": 6186,
+      "rank": 6189,
       "id": "9d4e50d385d28aa5",
       "name": "十二国記 The Twelve Kingdoms",
       "secondary": "",
@@ -1641,7 +1779,7 @@
       "detailPath": "entities/artists/9d4e50d385d28aa5.json"
     },
     {
-      "rank": 6187,
+      "rank": 6190,
       "id": "0e9009ad51eab993",
       "name": "十明",
       "secondary": "",
@@ -1687,7 +1825,7 @@
       "detailPath": "entities/artists/0e9009ad51eab993.json"
     },
     {
-      "rank": 6188,
+      "rank": 6191,
       "id": "7e8c2a7c13cac4bf",
       "name": "渋谷凛、早坂美玲、木村夏樹、小日向美穂、塩見周子",
       "secondary": "",
@@ -1732,7 +1870,7 @@
       "detailPath": "entities/artists/7e8c2a7c13cac4bf.json"
     },
     {
-      "rank": 6189,
+      "rank": 6192,
       "id": "81254fa0b7cb0cce",
       "name": "春河あかり&小春めう&華憐",
       "secondary": "",
@@ -1776,7 +1914,7 @@
       "detailPath": "entities/artists/81254fa0b7cb0cce.json"
     },
     {
-      "rank": 6190,
+      "rank": 6193,
       "id": "860f1b55cb4b44fc",
       "name": "春風まゆき",
       "secondary": "",
@@ -1821,7 +1959,7 @@
       "detailPath": "entities/artists/860f1b55cb4b44fc.json"
     },
     {
-      "rank": 6191,
+      "rank": 6194,
       "id": "a46e9c13276c6c4c",
       "name": "準備仕事 (約3分)",
       "secondary": "",
@@ -1866,7 +2004,7 @@
       "detailPath": "entities/artists/a46e9c13276c6c4c.json"
     },
     {
-      "rank": 6192,
+      "rank": 6195,
       "id": "7eefe83de2b78a65",
       "name": "初音ミク(ツミキ)",
       "secondary": "",
@@ -1911,7 +2049,7 @@
       "detailPath": "entities/artists/7eefe83de2b78a65.json"
     },
     {
-      "rank": 6193,
+      "rank": 6196,
       "id": "f142eff417072b51",
       "name": "初音ミク（のぼる↑）",
       "secondary": "",
@@ -1958,7 +2096,7 @@
       "detailPath": "entities/artists/f142eff417072b51.json"
     },
     {
-      "rank": 6194,
+      "rank": 6197,
       "id": "c39bb5d4718c126f",
       "name": "初星学園 (篠澤 広・十王星南・姫崎莉波)",
       "secondary": "",
@@ -2003,7 +2141,7 @@
       "detailPath": "entities/artists/c39bb5d4718c126f.json"
     },
     {
-      "rank": 6195,
+      "rank": 6198,
       "id": "6aae26e2c81f3767",
       "name": "初星学園 花海咲季(CV:長月あおい)",
       "secondary": "",
@@ -2048,7 +2186,7 @@
       "detailPath": "entities/artists/6aae26e2c81f3767.json"
     },
     {
-      "rank": 6196,
+      "rank": 6199,
       "id": "d81ed68e149480a2",
       "name": "初星学園 葛城リーリヤ(CV:花岩香奈)",
       "secondary": "",
@@ -2093,7 +2231,7 @@
       "detailPath": "entities/artists/d81ed68e149480a2.json"
     },
     {
-      "rank": 6197,
+      "rank": 6200,
       "id": "8d78cbb6c23d6d6d",
       "name": "初星学園,月村手毬 (小鹿なお)",
       "secondary": "",
@@ -2136,138 +2274,6 @@
         }
       ],
       "detailPath": "entities/artists/8d78cbb6c23d6d6d.json"
-    },
-    {
-      "rank": 6198,
-      "id": "fe724d6be0c43960",
-      "name": "初星学園(倉本千奈,篠澤広,月村手毬)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "5SKv5Rfppps",
-          "videoTitle": "【 歌枠 】10月ものんびり進んでいこう~！✦【 #新人vtuber / 宵月れゆり 】",
-          "channelName": "宵月れゆり / Yoiragi Reyuri",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5SKv5Rfppps/hqdefault.jpg",
-          "sourcePath": "sources/5S/5SKv5Rfppps.json",
-          "time": "0:46:48",
-          "seconds": 2808,
-          "songTitle": "仮装狂騒曲",
-          "artist": "初星学園(倉本千奈・篠澤広・月村手毬)"
-        },
-        {
-          "videoId": "2zCQPQyp9cU",
-          "videoTitle": "【 #歌枠 】初見さん大歓迎 ♡￤1曲だけでも聴いていかない？【 鈴神うたね/ぱらすと！】#shorts #VTuber #Vsinger",
-          "channelName": "鈴神うたね / Suzukami Utane",
-          "publishedAt": "2026-09-02T15:41:39.439Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2zCQPQyp9cU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAjZqIJNHXGUIu8z3o2-FOaVbfxw",
-          "sourcePath": "sources/2z/2zCQPQyp9cU.json",
-          "time": "0:19:33",
-          "seconds": 1173,
-          "songTitle": "仮装狂騒曲",
-          "artist": "初星学園(倉本千奈,篠澤広,月村手毬)"
-        }
-      ],
-      "detailPath": "entities/artists/fe724d6be0c43960.json"
-    },
-    {
-      "rank": 6199,
-      "id": "617d84bd04c9bf59",
-      "name": "緒方恵美",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XUBdJTAw2Ms",
-          "videoTitle": "【#歌枠￤#Vsinger】シルバーウィークですわね🦋 ￤たっぷりお届け♡￤#のえみゅ異聞録 【歌枠┊︎karaoke】",
-          "channelName": "ノエル・ミュージック",
-          "publishedAt": "2026-09-20T09:53:54.430Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XUBdJTAw2Ms/hqdefault.jpg",
-          "sourcePath": "sources/XU/XUBdJTAw2Ms.json",
-          "time": "4:07:50",
-          "seconds": 14870,
-          "songTitle": "キミの記憶",
-          "artist": "緒方恵美"
-        },
-        {
-          "videoId": "IL8xiKgw1rc",
-          "videoTitle": "#歌枠 ｜【#CSP歌枠バトル】最終日！最後まで楽しく歌い切ります！！🎶14日目！【#karaoke #少年vtuber ｜ #宝掟なつる 】",
-          "channelName": "宝掟なつる / Hojo Natsuru │ 少年VTuber",
-          "publishedAt": "2026-08-25T15:06:00.389Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/IL8xiKgw1rc/hqdefault.jpg",
-          "sourcePath": "sources/IL/IL8xiKgw1rc.json",
-          "time": "1:32:29",
-          "seconds": 5549,
-          "songTitle": "桜刻（はなどき）",
-          "artist": "緒方恵美"
-        }
-      ],
-      "detailPath": "entities/artists/617d84bd04c9bf59.json"
-    },
-    {
-      "rank": 6200,
-      "id": "5199777a9eb737c1",
-      "name": "女王蜂様",
-      "secondary": "",
-      "channelId": "UCa_cBSjE_pUaZFkHNdG3ZtQ",
-      "channelHandle": "@HitoriAdelie_VTuber",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "jPlEbtIRf_8",
-          "videoTitle": "【#歌枠｜KARAOKE】初見さんが来ないと\"１曲も\"!?歌えない恐怖の限界歌枠🐧【人鳥アデリ｜#新人VTuber】#VSinger",
-          "channelName": "人鳥アデリ / Hitori Adelie",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jPlEbtIRf_8/hqdefault.jpg",
-          "sourcePath": "sources/jP/jPlEbtIRf_8.json",
-          "time": "0:56:30",
-          "seconds": 3390,
-          "songTitle": "No.5🎶 メフィスト",
-          "artist": "女王蜂様"
-        },
-        {
-          "videoId": "sVpxaI1PESQ",
-          "videoTitle": "【歌枠｜KARAOKE】初見さんが来ないと\"１曲も\"!?歌えないので怖い歌枠🐧【人鳥アデリ｜#新人VTuber】#歌枠 #VSinger",
-          "channelName": "人鳥アデリ / Hitori Adelie",
-          "publishedAt": "2026-09-04T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sVpxaI1PESQ/hqdefault.jpg",
-          "sourcePath": "sources/sV/sVpxaI1PESQ.json",
-          "time": "0:33:23",
-          "seconds": 2003,
-          "songTitle": "No.4🎶 聖戦",
-          "artist": "女王蜂様"
-        }
-      ],
-      "detailPath": "entities/artists/5199777a9eb737c1.json"
     }
   ]
 }

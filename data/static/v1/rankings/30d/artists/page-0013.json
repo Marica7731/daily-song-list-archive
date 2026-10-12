@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "30d",
   "type": "artists",
   "page": 13,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10857,
+  "totalCount": 10864,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2421,6 +2421,63 @@
     },
     {
       "rank": 643,
+      "id": "9ae834863df9f3b4",
+      "name": "鈴木結女",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 15,
+      "videoCount": 11,
+      "songCount": 4,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "a6kB4HgDThs",
+          "videoTitle": "⸜ #歌枠 #耐久⸝ 同接30目標!!好きな歌を歌います!! ᎒ #羽月うずな #逃げやがったぞおぃ #Vtuber ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-10-12T11:41:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a6kB4HgDThs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTvgo8qdZvBidXhiWX45tGCnsI7A",
+          "sourcePath": "sources/a6/a6kB4HgDThs.json",
+          "time": "0:17:22",
+          "seconds": 1042,
+          "songTitle": "それでも明日はやってくる",
+          "artist": "鈴木結女"
+        },
+        {
+          "videoId": "bKIyD8Z46XI",
+          "videoTitle": "【#歌枠】昭和平成アニソン！男子の歌枠・第15回 12曲【#男性Vtuber/#karaoke/#懐メロ】",
+          "channelName": "ほりぽに / horiponi",
+          "publishedAt": "2026-10-04T13:36:05.391Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bKIyD8Z46XI/hqdefault.jpg",
+          "sourcePath": "sources/bK/bKIyD8Z46XI.json",
+          "time": "0:47:20",
+          "seconds": 2840,
+          "songTitle": "それでも明日はやってくる",
+          "artist": "鈴木結女"
+        },
+        {
+          "videoId": "-acxUgFIRYk",
+          "videoTitle": "【歌枠 / KARAOKE】９０年代アニソン！甘い声でストレートに心に響く曲を！【 #もかん #vtuber #vsinger】",
+          "channelName": "もかん ch / Mokan",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-acxUgFIRYk/hqdefault.jpg",
+          "sourcePath": "sources/-a/-acxUgFIRYk.json",
+          "time": "1:00:57",
+          "seconds": 3657,
+          "songTitle": "それでも明日はやってくる",
+          "artist": "鈴木結女"
+        }
+      ],
+      "detailPath": "entities/artists/9ae834863df9f3b4.json"
+    },
+    {
+      "rank": 644,
       "id": "ac8a3374b6dd169a",
       "name": "藤原さくら",
       "secondary": "",
@@ -2478,7 +2535,7 @@
       "detailPath": "entities/artists/ac8a3374b6dd169a.json"
     },
     {
-      "rank": 644,
+      "rank": 645,
       "id": "f30b2947c6e793ee",
       "name": "AI",
       "secondary": "",
@@ -2536,7 +2593,7 @@
       "detailPath": "entities/artists/f30b2947c6e793ee.json"
     },
     {
-      "rank": 645,
+      "rank": 646,
       "id": "a8760c688f9c4ecf",
       "name": "dream",
       "secondary": "",
@@ -2593,7 +2650,7 @@
       "detailPath": "entities/artists/a8760c688f9c4ecf.json"
     },
     {
-      "rank": 646,
+      "rank": 647,
       "id": "130f47c8f65e1edb",
       "name": "millennium parade × Belle",
       "secondary": "",
@@ -2651,7 +2708,7 @@
       "detailPath": "entities/artists/130f47c8f65e1edb.json"
     },
     {
-      "rank": 647,
+      "rank": 648,
       "id": "7e7669df0de392b6",
       "name": "イルカ",
       "secondary": "",
@@ -2709,7 +2766,7 @@
       "detailPath": "entities/artists/7e7669df0de392b6.json"
     },
     {
-      "rank": 648,
+      "rank": 649,
       "id": "b9f17e0934b5c5c7",
       "name": "のりぴー",
       "secondary": "",
@@ -2766,7 +2823,7 @@
       "detailPath": "entities/artists/b9f17e0934b5c5c7.json"
     },
     {
-      "rank": 649,
+      "rank": 650,
       "id": "92e6b705a1349db7",
       "name": "ぽわぽわP",
       "secondary": "",
@@ -2822,63 +2879,6 @@
         }
       ],
       "detailPath": "entities/artists/92e6b705a1349db7.json"
-    },
-    {
-      "rank": 650,
-      "id": "d492ddc67ffc3095",
-      "name": "伊藤由奈",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 14,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "VMbOY7mANNg",
-          "videoTitle": "【歌枠┊KARAOKE】あなたへ捧ぐ、黄昏のアニソン・J-POP🌇【Vsinger Vtuber┊御神楽すずめ】",
-          "channelName": "御神楽すずめ / Mikagura Suzume",
-          "publishedAt": "2026-10-07T11:26:30.246Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VMbOY7mANNg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8kjsC1MNP44iHmRxjNf_cH0fvvQ",
-          "sourcePath": "sources/VM/VMbOY7mANNg.json",
-          "time": "2:05:08",
-          "seconds": 7508,
-          "songTitle": "Precious",
-          "artist": "伊藤由奈"
-        },
-        {
-          "videoId": "BqZCXGHG_xs",
-          "videoTitle": "【#歌枠】歌ったり雑談したり♪ #癒し #みいなのおふとん #vtuber #shorts",
-          "channelName": "みいなのおふとん_channel",
-          "publishedAt": "2026-10-06T15:21:45.510Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BqZCXGHG_xs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAai3iEc6RgKsDUM7Rt4WINZYEY0g",
-          "sourcePath": "sources/Bq/BqZCXGHG_xs.json",
-          "time": "0:42:11",
-          "seconds": 2531,
-          "songTitle": "Precious",
-          "artist": "伊藤由奈"
-        },
-        {
-          "videoId": "yhMxCAtUQcw",
-          "videoTitle": "【 #歌枠 ⋮ 元メジャー歌手Vtuber 】初見さん10人耐久！坂本真綾 様多め＋ アニソン #リクエストok ( English / 繁體中文 / Español / 한국어 Lyrics )",
-          "channelName": "Aromaの音楽",
-          "publishedAt": "2026-10-03T19:57:48.324Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/yhMxCAtUQcw/hqdefault.jpg",
-          "sourcePath": "sources/yh/yhMxCAtUQcw.json",
-          "time": "4:20:35",
-          "seconds": 15635,
-          "songTitle": "Precious",
-          "artist": "伊藤由奈"
-        }
-      ],
-      "detailPath": "entities/artists/d492ddc67ffc3095.json"
     }
   ]
 }

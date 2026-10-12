@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "songs",
   "page": 40,
   "pageSize": 50,
-  "pageCount": 1056,
-  "totalCount": 52789,
+  "pageCount": 1057,
+  "totalCount": 52815,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1951,
+      "id": "1011f629395758c2",
+      "name": "メンタルチェンソー",
+      "secondary": "P丸様。",
+      "channelId": "UCZtjTxFDan4ORyt1x6oQ6qA",
+      "channelHandle": "@chacha_pulamumu",
+      "channelUrl": "",
+      "occurrenceCount": 14,
+      "videoCount": 14,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vTxIai_cOcM",
+          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
+          "channelName": "冬萌ここな",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vTxIai_cOcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5T4vUDv-Vk57R-82lKsYiBvcC6A",
+          "sourcePath": "sources/vT/vTxIai_cOcM.json",
+          "time": "1:01:13",
+          "seconds": 3673,
+          "songTitle": "メンタルチェンソー",
+          "artist": "P丸様。"
+        },
+        {
+          "videoId": "At1N_8_lQTQ",
+          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
+          "channelName": "冬萌ここな",
+          "publishedAt": "2026-10-03T10:26:15.499Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/At1N_8_lQTQ/hqdefault.jpg",
+          "sourcePath": "sources/At/At1N_8_lQTQ.json",
+          "time": "2:48:19",
+          "seconds": 10099,
+          "songTitle": "メンタルチェンソー",
+          "artist": "P丸様。"
+        },
+        {
+          "videoId": "NjBFCGqwoBk",
+          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
+          "channelName": "冬萌ここな",
+          "publishedAt": "2026-10-02T11:14:01.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NjBFCGqwoBk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6x2oxo1_PhVvjcn-PR0SE2fDfFw",
+          "sourcePath": "sources/Nj/NjBFCGqwoBk.json",
+          "time": "1:23:13",
+          "seconds": 4993,
+          "songTitle": "メンタルチェンソー",
+          "artist": "P丸様。"
+        }
+      ],
+      "detailPath": "entities/songs/1011f629395758c2.json"
+    },
+    {
+      "rank": 1952,
       "id": "0b2d955bb58d4050",
       "name": "やさしさに包まれたなら",
       "secondary": "荒井由実（松任谷由実）",
@@ -70,7 +130,7 @@
       "detailPath": "entities/songs/0b2d955bb58d4050.json"
     },
     {
-      "rank": 1952,
+      "rank": 1953,
       "id": "6c4da9c4eed0231e",
       "name": "ユーフォリア",
       "secondary": "牧野由依",
@@ -132,7 +192,7 @@
       "detailPath": "entities/songs/6c4da9c4eed0231e.json"
     },
     {
-      "rank": 1953,
+      "rank": 1954,
       "id": "baad99c10e2f1dc3",
       "name": "ようかい体操第一",
       "secondary": "Dream5",
@@ -192,7 +252,7 @@
       "detailPath": "entities/songs/baad99c10e2f1dc3.json"
     },
     {
-      "rank": 1954,
+      "rank": 1955,
       "id": "97b310b4e15a175a",
       "name": "ヨワネハキ",
       "secondary": "MAISONdes",
@@ -252,7 +312,7 @@
       "detailPath": "entities/songs/97b310b4e15a175a.json"
     },
     {
-      "rank": 1955,
+      "rank": 1956,
       "id": "443a7de2e6f8a042",
       "name": "ラグトレイン",
       "secondary": "稲葉曇",
@@ -310,7 +370,7 @@
       "detailPath": "entities/songs/443a7de2e6f8a042.json"
     },
     {
-      "rank": 1956,
+      "rank": 1957,
       "id": "a510bf60f9a87d92",
       "name": "ロマンス",
       "secondary": "PENICILLIN",
@@ -370,7 +430,7 @@
       "detailPath": "entities/songs/a510bf60f9a87d92.json"
     },
     {
-      "rank": 1957,
+      "rank": 1958,
       "id": "2a5d05f5883f6947",
       "name": "愛燦燦",
       "secondary": "美空ひばり",
@@ -430,7 +490,7 @@
       "detailPath": "entities/songs/2a5d05f5883f6947.json"
     },
     {
-      "rank": 1958,
+      "rank": 1959,
       "id": "a99b05ac8692ed32",
       "name": "運命のルーレット廻して",
       "secondary": "ZARD",
@@ -491,7 +551,7 @@
       "detailPath": "entities/songs/a99b05ac8692ed32.json"
     },
     {
-      "rank": 1959,
+      "rank": 1960,
       "id": "30a41bbdbb180803",
       "name": "往け",
       "secondary": "LiSA",
@@ -551,7 +611,7 @@
       "detailPath": "entities/songs/30a41bbdbb180803.json"
     },
     {
-      "rank": 1960,
+      "rank": 1961,
       "id": "65c854fef4af0555",
       "name": "灰色と青",
       "secondary": "米津玄師",
@@ -612,7 +672,7 @@
       "detailPath": "entities/songs/65c854fef4af0555.json"
     },
     {
-      "rank": 1961,
+      "rank": 1962,
       "id": "37edc2d27817eea1",
       "name": "革命道中",
       "secondary": "",
@@ -667,66 +727,6 @@
         }
       ],
       "detailPath": "entities/songs/37edc2d27817eea1.json"
-    },
-    {
-      "rank": 1962,
-      "id": "ed84ecab7ef14fdd",
-      "name": "輝きは君の中に",
-      "secondary": "鈴木結女",
-      "channelId": "UCt5-0i4AVHXaWJrL8Wql3mw",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 14,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oxIxNA4xiAo",
-          "videoTitle": "【 歌枠 】🌕艦長のお気に入り平成アニソン大発表！【 #月城ティータイム 】",
-          "channelName": "Cecil Ch.月城セシル【セシんもーZ】",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oxIxNA4xiAo/hqdefault.jpg",
-          "sourcePath": "sources/ox/oxIxNA4xiAo.json",
-          "time": "0:52:58",
-          "seconds": 3178,
-          "songTitle": "輝きは君の中に",
-          "artist": "鈴木結女"
-        },
-        {
-          "videoId": "_2OCV6MVTDc",
-          "videoTitle": "【 #歌枠 / KARAOKE 】1時間のゆったりアニソン歌枠♪初見さんROM専さんも大歓迎♡【 Vsinger / #織夢りちぇ 】",
-          "channelName": "織夢りちぇ🦄🐰- Riche Ch.",
-          "publishedAt": "2026-09-22T03:30:37.501Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_2OCV6MVTDc/hqdefault.jpg",
-          "sourcePath": "sources/_2/_2OCV6MVTDc.json",
-          "time": "0:37:02",
-          "seconds": 2222,
-          "songTitle": "輝きは君の中に",
-          "artist": "鈴木結女"
-        },
-        {
-          "videoId": "P4bUO2YoybQ",
-          "videoTitle": "【歌枠】アニソン老人会で優勝してこ～～✊🏻🏆🔥初見さんも大歓迎🍀【#皇美緒奈 / #MIONA_LIVE】",
-          "channelName": "皇 美緒奈 / MIONA SUMERAGI",
-          "publishedAt": "2026-09-21T15:44:51.595Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/P4bUO2YoybQ/hqdefault.jpg",
-          "sourcePath": "sources/P4/P4bUO2YoybQ.json",
-          "time": "0:47:55",
-          "seconds": 2875,
-          "songTitle": "輝きは君の中に",
-          "artist": "鈴木 結女"
-        }
-      ],
-      "detailPath": "entities/songs/ed84ecab7ef14fdd.json"
     },
     {
       "rank": 1963,

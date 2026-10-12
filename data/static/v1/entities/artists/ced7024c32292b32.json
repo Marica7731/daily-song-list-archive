@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "id": "ced7024c32292b32",
   "type": "artists",
   "name": "米津玄師 & 菅田 将暉",
@@ -8,18 +8,31 @@
   "channelId": "",
   "channelHandle": "",
   "channelUrl": "",
-  "occurrenceCount": 25,
-  "videoCount": 25,
+  "occurrenceCount": 26,
+  "videoCount": 26,
   "keywords": [
     "month",
     "mygit_today_snapshot",
     "mygit今日快照",
     "today",
+    "弾き語り",
     "歌枠"
   ],
   "collected": false,
   "collectionId": "",
   "sourcesPreview": [
+    {
+      "videoId": "shtv2FbPF-w",
+      "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+      "channelName": "UNIT B (Pre-Debut) - mekPark",
+      "publishedAt": "2026-10-12T11:18:44.700Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
+      "sourcePath": "sources/sh/shtv2FbPF-w.json",
+      "time": "0:24:04",
+      "seconds": 1444,
+      "songTitle": "灰色と青",
+      "artist": "米津玄師＆菅田将暉"
+    },
     {
       "videoId": "kDXL-o9Lt94",
       "videoTitle": "【990人目標！】ボカロもJPOPも歌っちゃう縦型歌枠！【縦型配信/雑談】",
@@ -43,18 +56,6 @@
       "seconds": 5026,
       "songTitle": "灰色と青",
       "artist": "米津玄師＋菅田将暉"
-    },
-    {
-      "videoId": "BnjPnuzE66k",
-      "videoTitle": "【歌枠】バラード縛りで歌います！【 鴉紋ゆうく/Vtuber 】",
-      "channelName": "鴉紋ゆうく / Amon Yuuku",
-      "publishedAt": "2026-09-28T14:55:45.212Z",
-      "thumbnailUrl": "https://i.ytimg.com/vi/BnjPnuzE66k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAW-kIcDFnT-wmlfjBRVo8H_f91KA",
-      "sourcePath": "sources/Bn/BnjPnuzE66k.json",
-      "time": "1:14:38",
-      "seconds": 4478,
-      "songTitle": "灰色と青",
-      "artist": "米津玄師（+菅田将暉）"
     }
   ],
   "occurrences": [
@@ -432,6 +433,21 @@
       "seconds": 4537,
       "songTitle": "灰色と青 ( + 菅田将暉)",
       "artist": "米津玄師・菅田将暉"
+    },
+    {
+      "videoId": "shtv2FbPF-w",
+      "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+      "channelName": "UNIT B (Pre-Debut) - mekPark",
+      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "channelHandle": "@Unit_B_Pre_Debut",
+      "channelUrl": "",
+      "publishedAt": "2026-10-12T11:18:44.700Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
+      "sourcePath": "sources/sh/shtv2FbPF-w.json",
+      "time": "0:24:04",
+      "seconds": 1444,
+      "songTitle": "灰色と青",
+      "artist": "米津玄師＆菅田将暉"
     }
   ]
 }

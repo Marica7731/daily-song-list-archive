@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "items": [
     {
       "id": "81a52c3f4501a495",
@@ -836,8 +836,8 @@
           "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 71,
-          "videoCount": 71
+          "occurrenceCount": 70,
+          "videoCount": 70
         }
       },
       "text": "ひまわりの約束秦基博"
@@ -1510,8 +1510,8 @@
       "type": "songs",
       "name": "ずうっといっしょ！",
       "secondary": "キタニタツヤ",
-      "occurrenceCount": 125,
-      "videoCount": 125,
+      "occurrenceCount": 126,
+      "videoCount": 126,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -1525,20 +1525,20 @@
       "detailPath": "entities/songs/8665b08039505172.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
-        "3d": {
           "occurrenceCount": 2,
           "videoCount": 2
         },
+        "3d": {
+          "occurrenceCount": 3,
+          "videoCount": 3
+        },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 6,
+          "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 48,
-          "videoCount": 48
+          "occurrenceCount": 49,
+          "videoCount": 49
         }
       },
       "text": "ずうっといっしょキタニタツヤ"
@@ -2458,8 +2458,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 11,
-          "videoCount": 11
+          "occurrenceCount": 10,
+          "videoCount": 10
         }
       },
       "text": "点描の唄feat井上苑子mrsgreenapple"
@@ -4449,8 +4449,8 @@
       "type": "songs",
       "name": "雪の華",
       "secondary": "中島美嘉",
-      "occurrenceCount": 97,
-      "videoCount": 96,
+      "occurrenceCount": 98,
+      "videoCount": 97,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -4463,17 +4463,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/84d59bb50f51bf36.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 6,
+          "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 46,
-          "videoCount": 46
+          "occurrenceCount": 47,
+          "videoCount": 47
         }
       },
       "text": "雪の華中島美嘉"
@@ -5611,8 +5615,8 @@
           "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 27,
-          "videoCount": 27
+          "occurrenceCount": 26,
+          "videoCount": 26
         }
       },
       "text": "sun星野源"
@@ -43100,16 +43104,31 @@
       "type": "songs",
       "name": "ALI PROJECT様の楽曲を中心に",
       "secondary": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "keywords": [],
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/89363d01998ba8ab.json",
       "rangeMetrics": {
-        "30d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "aliproject様の楽曲を中心に"
@@ -49889,12 +49908,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/881b703261478321.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "ノーザンクロスシェリルノームstarringmayn替え玉"
     },
     {
@@ -49914,12 +49928,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/85bc249fdc9d14f5.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "東京スプリングセッションhoneyworks"
     },
     {
@@ -76781,6 +76790,80 @@
       "text": "エメラルドシティtokotoko"
     },
     {
+      "id": "8c3e65dd3f7c36cc",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "お願いマッスル",
+      "secondary": "ネタバレ",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/8c3e65dd3f7c36cc.json",
+      "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "お願いマッスルネタバレ"
+    },
+    {
+      "id": "8c010313c4c1ff39",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "年輪菓子",
+      "secondary": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/8c010313c4c1ff39.json",
+      "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
+        "7d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
+        "30d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        }
+      },
+      "text": "年輪菓子"
+    },
+    {
       "id": "84d86a71fba9502d",
       "channelId": "",
       "channelHandle": "",
@@ -77646,8 +77729,8 @@
       "type": "artists",
       "name": "ナユタン星人",
       "secondary": "",
-      "occurrenceCount": 265,
-      "videoCount": 230,
+      "occurrenceCount": 266,
+      "videoCount": 231,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77660,17 +77743,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/8ba961bf1462f841.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 6,
+          "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 89,
-          "videoCount": 77
+          "occurrenceCount": 90,
+          "videoCount": 78
         }
       },
       "text": "ナユタン星人"
@@ -77683,8 +77770,8 @@
       "type": "artists",
       "name": "Mrs. GREEN APPLE",
       "secondary": "",
-      "occurrenceCount": 1883,
-      "videoCount": 1249,
+      "occurrenceCount": 1884,
+      "videoCount": 1250,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77698,19 +77785,19 @@
       "detailPath": "entities/artists/872e0af93794d640.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 3,
-          "videoCount": 3
+          "occurrenceCount": 4,
+          "videoCount": 4
         },
         "3d": {
-          "occurrenceCount": 11,
-          "videoCount": 9
+          "occurrenceCount": 12,
+          "videoCount": 10
         },
         "7d": {
-          "occurrenceCount": 48,
-          "videoCount": 31
+          "occurrenceCount": 49,
+          "videoCount": 32
         },
         "30d": {
-          "occurrenceCount": 672,
+          "occurrenceCount": 670,
           "videoCount": 450
         }
       },
@@ -77797,8 +77884,8 @@
       "type": "artists",
       "name": "大塚 愛",
       "secondary": "",
-      "occurrenceCount": 662,
-      "videoCount": 571,
+      "occurrenceCount": 663,
+      "videoCount": 572,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77813,20 +77900,20 @@
       "detailPath": "entities/artists/87e6370ede2a019c.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "3d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 6,
+          "videoCount": 6
         },
         "7d": {
-          "occurrenceCount": 15,
-          "videoCount": 15
+          "occurrenceCount": 16,
+          "videoCount": 16
         },
         "30d": {
-          "occurrenceCount": 217,
-          "videoCount": 186
+          "occurrenceCount": 218,
+          "videoCount": 187
         }
       },
       "text": "大塚愛"
@@ -77839,8 +77926,8 @@
       "type": "artists",
       "name": "宇多田ヒカル",
       "secondary": "",
-      "occurrenceCount": 811,
-      "videoCount": 586,
+      "occurrenceCount": 812,
+      "videoCount": 587,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77854,20 +77941,20 @@
       "detailPath": "entities/artists/8854f92813afea65.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "3d": {
-          "occurrenceCount": 4,
-          "videoCount": 3
+          "occurrenceCount": 5,
+          "videoCount": 4
         },
         "7d": {
-          "occurrenceCount": 32,
-          "videoCount": 22
+          "occurrenceCount": 33,
+          "videoCount": 23
         },
         "30d": {
-          "occurrenceCount": 358,
-          "videoCount": 255
+          "occurrenceCount": 359,
+          "videoCount": 256
         }
       },
       "text": "宇多田ヒカル"
@@ -77915,8 +78002,8 @@
       "type": "artists",
       "name": "ワルキューレ",
       "secondary": "",
-      "occurrenceCount": 587,
-      "videoCount": 400,
+      "occurrenceCount": 588,
+      "videoCount": 401,
       "keywords": [
         "karaoke",
         "month",
@@ -77931,16 +78018,16 @@
       "detailPath": "entities/artists/86e3f4eaa314866b.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "3d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         },
         "7d": {
-          "occurrenceCount": 12,
-          "videoCount": 8
+          "occurrenceCount": 13,
+          "videoCount": 9
         },
         "30d": {
           "occurrenceCount": 234,
@@ -77957,8 +78044,8 @@
       "type": "artists",
       "name": "中島美嘉",
       "secondary": "",
-      "occurrenceCount": 371,
-      "videoCount": 311,
+      "occurrenceCount": 372,
+      "videoCount": 312,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77972,20 +78059,20 @@
       "detailPath": "entities/artists/819087ee0eeca5a2.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
-        "3d": {
           "occurrenceCount": 2,
           "videoCount": 2
         },
+        "3d": {
+          "occurrenceCount": 3,
+          "videoCount": 3
+        },
         "7d": {
-          "occurrenceCount": 26,
-          "videoCount": 14
+          "occurrenceCount": 27,
+          "videoCount": 15
         },
         "30d": {
-          "occurrenceCount": 173,
-          "videoCount": 140
+          "occurrenceCount": 174,
+          "videoCount": 141
         }
       },
       "text": "中島美嘉"
@@ -78064,8 +78151,8 @@
       "type": "artists",
       "name": "米津玄師",
       "secondary": "",
-      "occurrenceCount": 2499,
-      "videoCount": 1786,
+      "occurrenceCount": 2502,
+      "videoCount": 1789,
       "keywords": [
         "karaoke",
         "month",
@@ -78081,20 +78168,20 @@
       "detailPath": "entities/artists/81cf678b9ae58b89.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 14,
-          "videoCount": 4
+          "occurrenceCount": 17,
+          "videoCount": 7
         },
         "3d": {
-          "occurrenceCount": 25,
-          "videoCount": 13
+          "occurrenceCount": 28,
+          "videoCount": 16
         },
         "7d": {
-          "occurrenceCount": 74,
-          "videoCount": 50
+          "occurrenceCount": 77,
+          "videoCount": 53
         },
         "30d": {
-          "occurrenceCount": 1057,
-          "videoCount": 750
+          "occurrenceCount": 1059,
+          "videoCount": 752
         }
       },
       "text": "米津玄師"
@@ -78430,8 +78517,8 @@
           "videoCount": 8
         },
         "30d": {
-          "occurrenceCount": 119,
-          "videoCount": 89
+          "occurrenceCount": 118,
+          "videoCount": 88
         }
       },
       "text": "akb48"
@@ -78614,8 +78701,8 @@
       "type": "artists",
       "name": "岩崎良美",
       "secondary": "",
-      "occurrenceCount": 151,
-      "videoCount": 150,
+      "occurrenceCount": 152,
+      "videoCount": 151,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78628,13 +78715,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/84fd62b7ce03a988.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 7,
-          "videoCount": 7
+          "occurrenceCount": 8,
+          "videoCount": 8
         },
         "30d": {
-          "occurrenceCount": 65,
-          "videoCount": 65
+          "occurrenceCount": 66,
+          "videoCount": 66
         }
       },
       "text": "岩崎良美"
@@ -78647,8 +78742,8 @@
       "type": "artists",
       "name": "いよわ",
       "secondary": "",
-      "occurrenceCount": 183,
-      "videoCount": 161,
+      "occurrenceCount": 184,
+      "videoCount": 162,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78661,17 +78756,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/87bd122de12b646e.json",
       "rangeMetrics": {
-        "3d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "7d": {
-          "occurrenceCount": 8,
-          "videoCount": 8
+          "occurrenceCount": 9,
+          "videoCount": 9
         },
         "30d": {
-          "occurrenceCount": 74,
-          "videoCount": 64
+          "occurrenceCount": 75,
+          "videoCount": 65
         }
       },
       "text": "いよわ"
@@ -78850,8 +78949,8 @@
       "type": "artists",
       "name": "BAAD",
       "secondary": "",
-      "occurrenceCount": 30,
-      "videoCount": 28,
+      "occurrenceCount": 31,
+      "videoCount": 29,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78863,9 +78962,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/86cb34fe752b2ff6.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 9,
-          "videoCount": 9
+          "occurrenceCount": 10,
+          "videoCount": 10
         }
       },
       "text": "baad"
@@ -79697,8 +79808,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 35,
-          "videoCount": 35
+          "occurrenceCount": 34,
+          "videoCount": 34
         }
       },
       "text": "サスケ"
@@ -79918,8 +80029,8 @@
       "type": "artists",
       "name": "どうぶつビスケッツ",
       "secondary": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
+      "occurrenceCount": 7,
+      "videoCount": 7,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -79932,20 +80043,20 @@
       "detailPath": "entities/artists/87a170e847b57c1b.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
-        "3d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
-        "30d": {
           "occurrenceCount": 2,
           "videoCount": 2
+        },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
+        "7d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
+        "30d": {
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "どうぶつビスケッツ"
@@ -81120,8 +81231,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 11,
-          "videoCount": 9
+          "occurrenceCount": 9,
+          "videoCount": 8
         }
       },
       "text": "エレファントカシマシ"
@@ -113096,6 +113207,43 @@
         }
       },
       "text": "愛世らびぃ私を見つけて"
+    },
+    {
+      "id": "89970366fb514dd1",
+      "channelId": "UCIjZBUCo5fVO7GjXWve_jMg",
+      "channelHandle": "@Nenringashi",
+      "channelUrl": "",
+      "type": "vtubers",
+      "name": "年輪菓子",
+      "secondary": "",
+      "occurrenceCount": 10,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/vtubers/89970366fb514dd1.json",
+      "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 10,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 10,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 10,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 10,
+          "videoCount": 1
+        }
+      },
+      "text": "年輪菓子"
     }
   ]
 }

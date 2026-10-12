@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "30d",
   "type": "vtubers",
   "page": 18,
   "pageSize": 50,
-  "pageCount": 59,
-  "totalCount": 2948,
+  "pageCount": 60,
+  "totalCount": 2953,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -897,6 +897,51 @@
     },
     {
       "rank": 873,
+      "id": "afc25f44de01d368",
+      "name": "NONOA Ch.華美雲ののあ",
+      "secondary": "",
+      "channelId": "UCej-l58FGEB9-9OMeFdX5mg",
+      "channelHandle": "@KAMIKUMONONOA",
+      "channelUrl": "",
+      "occurrenceCount": 25,
+      "videoCount": 2,
+      "songCount": 25,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "BqH8_ziKeJQ",
+          "videoTitle": "【歌枠】秋は寂しい気持ちになるよね…？【#生ののあらいぶ / #KARAOKE】",
+          "channelName": "NONOA Ch.華美雲ののあ",
+          "publishedAt": "2026-10-12T11:21:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BqH8_ziKeJQ/hqdefault.jpg",
+          "sourcePath": "sources/Bq/BqH8_ziKeJQ.json",
+          "time": "0:10:32",
+          "seconds": 632,
+          "songTitle": "明日への扉",
+          "artist": "I WiSH"
+        },
+        {
+          "videoId": "2XuZgvqaQas",
+          "videoTitle": "【歌枠】みんなはYOASOBIさんの曲で好きな曲なんですか？【#生ののあらいぶ / #KARAOKE】",
+          "channelName": "NONOA Ch.華美雲ののあ",
+          "publishedAt": "2026-10-07T11:26:30.246Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2XuZgvqaQas/hqdefault.jpg",
+          "sourcePath": "sources/2X/2XuZgvqaQas.json",
+          "time": "0:12:28",
+          "seconds": 748,
+          "songTitle": "祝福",
+          "artist": "YOASOBI"
+        }
+      ],
+      "detailPath": "entities/vtubers/afc25f44de01d368.json"
+    },
+    {
+      "rank": 874,
       "id": "861619ca96ba4129",
       "name": "suimin.",
       "secondary": "",
@@ -941,7 +986,7 @@
       "detailPath": "entities/vtubers/861619ca96ba4129.json"
     },
     {
-      "rank": 874,
+      "rank": 875,
       "id": "5b85b82570986c3c",
       "name": "こまくらなの Nano Komakura",
       "secondary": "",
@@ -986,7 +1031,7 @@
       "detailPath": "entities/vtubers/5b85b82570986c3c.json"
     },
     {
-      "rank": 875,
+      "rank": 876,
       "id": "ce74dae26805d70e",
       "name": "なつかしちゃん",
       "secondary": "",
@@ -1031,7 +1076,7 @@
       "detailPath": "entities/vtubers/ce74dae26805d70e.json"
     },
     {
-      "rank": 876,
+      "rank": 877,
       "id": "48f84098c1c660bd",
       "name": "みやぢっきょう!ちゃんねる",
       "secondary": "",
@@ -1076,7 +1121,7 @@
       "detailPath": "entities/vtubers/48f84098c1c660bd.json"
     },
     {
-      "rank": 877,
+      "rank": 878,
       "id": "1e3c09a1d9b7a09b",
       "name": "ロマニードットアイオー / ROMANY. io",
       "secondary": "",
@@ -1121,7 +1166,7 @@
       "detailPath": "entities/vtubers/1e3c09a1d9b7a09b.json"
     },
     {
-      "rank": 878,
+      "rank": 879,
       "id": "3afb617d9323957b",
       "name": "狐母梨 九日 / Komori Kokonoka",
       "secondary": "",
@@ -1163,7 +1208,7 @@
       "detailPath": "entities/vtubers/3afb617d9323957b.json"
     },
     {
-      "rank": 879,
+      "rank": 880,
       "id": "bdcd67de7b3ffbbf",
       "name": "五木つかさ -Itsuki Tsukasa -",
       "secondary": "",
@@ -1208,7 +1253,7 @@
       "detailPath": "entities/vtubers/bdcd67de7b3ffbbf.json"
     },
     {
-      "rank": 880,
+      "rank": 881,
       "id": "36c818eadf4b6b02",
       "name": "深月そると:shinzuki soruto",
       "secondary": "",
@@ -1250,7 +1295,7 @@
       "detailPath": "entities/vtubers/36c818eadf4b6b02.json"
     },
     {
-      "rank": 881,
+      "rank": 882,
       "id": "4677707650894537",
       "name": "奏ヰ ラゼル",
       "secondary": "",
@@ -1295,7 +1340,7 @@
       "detailPath": "entities/vtubers/4677707650894537.json"
     },
     {
-      "rank": 882,
+      "rank": 883,
       "id": "32a28147ec97f8ef",
       "name": "藤音カナデ-Fujioto Kanade-",
       "secondary": "",
@@ -1340,7 +1385,7 @@
       "detailPath": "entities/vtubers/32a28147ec97f8ef.json"
     },
     {
-      "rank": 883,
+      "rank": 884,
       "id": "5b29f6eb4d48bc4c",
       "name": "日向ぽかり Pokari Hinata",
       "secondary": "",
@@ -1385,7 +1430,7 @@
       "detailPath": "entities/vtubers/5b29f6eb4d48bc4c.json"
     },
     {
-      "rank": 884,
+      "rank": 885,
       "id": "1d3c0121baaa6e6a",
       "name": "姫宮ゆのん",
       "secondary": "",
@@ -1430,7 +1475,7 @@
       "detailPath": "entities/vtubers/1d3c0121baaa6e6a.json"
     },
     {
-      "rank": 885,
+      "rank": 886,
       "id": "450ba13afdeb6001",
       "name": "akari Ch. 火挟あかり【エアプロ】",
       "secondary": "",
@@ -1460,7 +1505,7 @@
       "detailPath": "entities/vtubers/450ba13afdeb6001.json"
     },
     {
-      "rank": 886,
+      "rank": 887,
       "id": "adeb97ed3109f026",
       "name": "KiLA",
       "secondary": "",
@@ -1493,7 +1538,7 @@
       "detailPath": "entities/vtubers/adeb97ed3109f026.json"
     },
     {
-      "rank": 887,
+      "rank": 888,
       "id": "1358a7bfaeb45267",
       "name": "Sen†Sational/センセーショナル",
       "secondary": "",
@@ -1526,7 +1571,7 @@
       "detailPath": "entities/vtubers/1358a7bfaeb45267.json"
     },
     {
-      "rank": 888,
+      "rank": 889,
       "id": "ed5ca8eda23acc4f",
       "name": "Ten Ch. てんちゃん先生",
       "secondary": "",
@@ -1559,7 +1604,7 @@
       "detailPath": "entities/vtubers/ed5ca8eda23acc4f.json"
     },
     {
-      "rank": 889,
+      "rank": 890,
       "id": "af941fa6c8f155f3",
       "name": "逢瀬夢々 -Ohse Mumu-",
       "secondary": "",
@@ -1592,7 +1637,7 @@
       "detailPath": "entities/vtubers/af941fa6c8f155f3.json"
     },
     {
-      "rank": 890,
+      "rank": 891,
       "id": "957a1b05cbd3928b",
       "name": "雨原ゆま / Amahara Yuma",
       "secondary": "",
@@ -1625,7 +1670,7 @@
       "detailPath": "entities/vtubers/957a1b05cbd3928b.json"
     },
     {
-      "rank": 891,
+      "rank": 892,
       "id": "e614d0ec6ba3aec2",
       "name": "佳宵わおん / Kasyou Waon",
       "secondary": "",
@@ -1655,7 +1700,7 @@
       "detailPath": "entities/vtubers/e614d0ec6ba3aec2.json"
     },
     {
-      "rank": 892,
+      "rank": 893,
       "id": "ca6058005f857365",
       "name": "輝常うどん",
       "secondary": "",
@@ -1688,7 +1733,7 @@
       "detailPath": "entities/vtubers/ca6058005f857365.json"
     },
     {
-      "rank": 893,
+      "rank": 894,
       "id": "1905ac77d0c8a4a0",
       "name": "江波キョウカのぴよぴよch. / パレプロ",
       "secondary": "",
@@ -1721,7 +1766,7 @@
       "detailPath": "entities/vtubers/1905ac77d0c8a4a0.json"
     },
     {
-      "rank": 894,
+      "rank": 895,
       "id": "cbc7b6dfeee03baa",
       "name": "咲真あきら / Sakuma Akira",
       "secondary": "",
@@ -1754,7 +1799,7 @@
       "detailPath": "entities/vtubers/cbc7b6dfeee03baa.json"
     },
     {
-      "rank": 895,
+      "rank": 896,
       "id": "30e901df22f401bd",
       "name": "心寄せいな / Seina Koyori",
       "secondary": "",
@@ -1784,7 +1829,7 @@
       "detailPath": "entities/vtubers/30e901df22f401bd.json"
     },
     {
-      "rank": 896,
+      "rank": 897,
       "id": "5c3f4b0ec000803d",
       "name": "雪平エリナ",
       "secondary": "",
@@ -1817,7 +1862,7 @@
       "detailPath": "entities/vtubers/5c3f4b0ec000803d.json"
     },
     {
-      "rank": 897,
+      "rank": 898,
       "id": "4b7d1dc278cc800e",
       "name": "知悠 - Chiyutori -",
       "secondary": "",
@@ -1850,7 +1895,7 @@
       "detailPath": "entities/vtubers/4b7d1dc278cc800e.json"
     },
     {
-      "rank": 898,
+      "rank": 899,
       "id": "a3ece19688365018",
       "name": "超御天かぷら / Mechagoten Kapura【じだらくかんぱに〜!】",
       "secondary": "",
@@ -1880,7 +1925,7 @@
       "detailPath": "entities/vtubers/a3ece19688365018.json"
     },
     {
-      "rank": 899,
+      "rank": 900,
       "id": "6aa4854cbeb23a83",
       "name": "天音",
       "secondary": "",
@@ -1911,36 +1956,6 @@
         }
       ],
       "detailPath": "entities/vtubers/6aa4854cbeb23a83.json"
-    },
-    {
-      "rank": 900,
-      "id": "8e46f3a7110fb58d",
-      "name": "天下統一",
-      "secondary": "",
-      "channelId": "UCLzC0b7jllwztm5ytO2PMVQ",
-      "channelHandle": "@amakudari_uni",
-      "channelUrl": "",
-      "occurrenceCount": 25,
-      "videoCount": 1,
-      "songCount": 25,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XxmBQrNSZTU",
-          "videoTitle": "【#歌枠】掃除は諦めた【#ゆにステージ】",
-          "channelName": "天下統一",
-          "publishedAt": "2026-09-13T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XxmBQrNSZTU/hqdefault.jpg",
-          "sourcePath": "sources/Xx/XxmBQrNSZTU.json",
-          "time": "0:05:58",
-          "seconds": 358,
-          "songTitle": "• 【カラオケ】アゲハ蝶",
-          "artist": "ポルノグラフィティ"
-        }
-      ],
-      "detailPath": "entities/vtubers/8e46f3a7110fb58d.json"
     }
   ]
 }

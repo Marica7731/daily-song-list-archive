@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "id": "fd318a0f17782bf6",
   "type": "songs",
   "name": "Instinct",
@@ -8,14 +8,28 @@
   "channelId": "",
   "channelHandle": "",
   "channelUrl": "",
-  "occurrenceCount": 1,
-  "videoCount": 1,
+  "occurrenceCount": 2,
+  "videoCount": 2,
   "keywords": [
-    "month"
+    "month",
+    "mygit今日快照",
+    "弾き語り"
   ],
   "collected": false,
   "collectionId": "",
   "sourcesPreview": [
+    {
+      "videoId": "shtv2FbPF-w",
+      "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+      "channelName": "UNIT B (Pre-Debut) - mekPark",
+      "publishedAt": "2026-10-12T11:18:44.700Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
+      "sourcePath": "sources/sh/shtv2FbPF-w.json",
+      "time": "1:24:40",
+      "seconds": 5080,
+      "songTitle": "Instinct",
+      "artist": "Sheena Ringo"
+    },
     {
       "videoId": "ElzjB001UAo",
       "videoTitle": "【弾き語り】作曲家を目指した理由【 #UNIT_B / #清澄ライラ 】",
@@ -42,6 +56,21 @@
       "sourcePath": "sources/El/ElzjB001UAo.json",
       "time": "1:06:24",
       "seconds": 3984,
+      "songTitle": "Instinct",
+      "artist": "Sheena Ringo"
+    },
+    {
+      "videoId": "shtv2FbPF-w",
+      "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+      "channelName": "UNIT B (Pre-Debut) - mekPark",
+      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "channelHandle": "@Unit_B_Pre_Debut",
+      "channelUrl": "",
+      "publishedAt": "2026-10-12T11:18:44.700Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
+      "sourcePath": "sources/sh/shtv2FbPF-w.json",
+      "time": "1:24:40",
+      "seconds": 5080,
       "songTitle": "Instinct",
       "artist": "Sheena Ringo"
     }

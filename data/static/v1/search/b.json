@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "items": [
     {
       "id": "b9c0b1d013fc22a1",
@@ -112,8 +112,8 @@
       "type": "songs",
       "name": "フリージア",
       "secondary": "Uru",
-      "occurrenceCount": 105,
-      "videoCount": 104,
+      "occurrenceCount": 106,
+      "videoCount": 105,
       "keywords": [
         "karaoke",
         "month",
@@ -128,9 +128,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b4539e9ba568691b.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 38,
-          "videoCount": 38
+          "occurrenceCount": 39,
+          "videoCount": 39
         }
       },
       "text": "フリージアuru"
@@ -262,8 +274,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 89,
-          "videoCount": 89
+          "occurrenceCount": 88,
+          "videoCount": 88
         }
       },
       "text": "ライラックmrsgreenapple"
@@ -304,8 +316,8 @@
       "type": "songs",
       "name": "罪と罰",
       "secondary": "椎名林檎",
-      "occurrenceCount": 54,
-      "videoCount": 53,
+      "occurrenceCount": 55,
+      "videoCount": 54,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -318,13 +330,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b3ff0f58f1a00237.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 19,
-          "videoCount": 19
+          "occurrenceCount": 20,
+          "videoCount": 20
         }
       },
       "text": "罪と罰椎名林檎"
@@ -337,8 +357,8 @@
       "type": "songs",
       "name": "Mela!",
       "secondary": "緑黄色社会",
-      "occurrenceCount": 171,
-      "videoCount": 168,
+      "occurrenceCount": 172,
+      "videoCount": 169,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -351,20 +371,20 @@
       "detailPath": "entities/songs/b2f48f7228f139b5.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 2,
-          "videoCount": 2
-        },
-        "3d": {
           "occurrenceCount": 3,
           "videoCount": 3
         },
+        "3d": {
+          "occurrenceCount": 4,
+          "videoCount": 4
+        },
         "7d": {
-          "occurrenceCount": 8,
-          "videoCount": 8
+          "occurrenceCount": 9,
+          "videoCount": 9
         },
         "30d": {
-          "occurrenceCount": 75,
-          "videoCount": 73
+          "occurrenceCount": 76,
+          "videoCount": 74
         }
       },
       "text": "mela緑黄色社会"
@@ -529,8 +549,8 @@
       "type": "songs",
       "name": "チャイナアドバイス",
       "secondary": "相対性理論",
-      "occurrenceCount": 37,
-      "videoCount": 37,
+      "occurrenceCount": 38,
+      "videoCount": 38,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -543,13 +563,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b6f14ae5888e3757.json",
       "rangeMetrics": {
-        "7d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "30d": {
-          "occurrenceCount": 15,
-          "videoCount": 15
+          "occurrenceCount": 16,
+          "videoCount": 16
         }
       },
       "text": "チャイナアドバイス相対性理論"
@@ -1136,8 +1164,8 @@
       "type": "songs",
       "name": "天使にふれたよ!",
       "secondary": "放課後ティータイム",
-      "occurrenceCount": 46,
-      "videoCount": 46,
+      "occurrenceCount": 47,
+      "videoCount": 47,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -1151,9 +1179,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b268ae7497deb9b2.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 17,
-          "videoCount": 17
+          "occurrenceCount": 18,
+          "videoCount": 18
         }
       },
       "text": "天使にふれたよ放課後ティータイム"
@@ -2038,8 +2078,8 @@
       "type": "songs",
       "name": "ラブソングに襲われる",
       "secondary": "=LOVE",
-      "occurrenceCount": 37,
-      "videoCount": 36,
+      "occurrenceCount": 38,
+      "videoCount": 37,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2051,13 +2091,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b09f5f1eaa544c38.json",
       "rangeMetrics": {
-        "7d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "30d": {
-          "occurrenceCount": 15,
-          "videoCount": 15
+          "occurrenceCount": 16,
+          "videoCount": 16
         }
       },
       "text": "ラブソングに襲われるlove"
@@ -2210,8 +2258,8 @@
           "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 64,
-          "videoCount": 64
+          "occurrenceCount": 63,
+          "videoCount": 63
         }
       },
       "text": "いけないボーダーラインワルキューレ"
@@ -2266,8 +2314,8 @@
       "detailPath": "entities/songs/b55c2ff0ea52ee87.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 12,
-          "videoCount": 12
+          "occurrenceCount": 11,
+          "videoCount": 11
         }
       },
       "text": "summersongyui"
@@ -4090,8 +4138,8 @@
       "detailPath": "entities/songs/b242898e0c6d7d96.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 9,
-          "videoCount": 9
+          "occurrenceCount": 8,
+          "videoCount": 8
         }
       },
       "text": "東京サマーセッションhoneyworks"
@@ -4822,8 +4870,8 @@
       "type": "songs",
       "name": "限界突破×サバイバー",
       "secondary": "氷川きよし",
-      "occurrenceCount": 43,
-      "videoCount": 43,
+      "occurrenceCount": 44,
+      "videoCount": 44,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -4835,13 +4883,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b325828fd397b16e.json",
       "rangeMetrics": {
-        "7d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
         },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
         "30d": {
-          "occurrenceCount": 17,
-          "videoCount": 17
+          "occurrenceCount": 18,
+          "videoCount": 18
         }
       },
       "text": "限界突破サバイバー氷川きよし"
@@ -6658,8 +6714,8 @@
       "type": "songs",
       "name": "食虫植物",
       "secondary": "理芽",
-      "occurrenceCount": 61,
-      "videoCount": 61,
+      "occurrenceCount": 62,
+      "videoCount": 62,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -6672,13 +6728,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b3bac5de57a5fc95.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 24,
-          "videoCount": 24
+          "occurrenceCount": 25,
+          "videoCount": 25
         }
       },
       "text": "食虫植物理芽"
@@ -11895,8 +11959,8 @@
       "type": "songs",
       "name": "鱗",
       "secondary": "秦基博",
-      "occurrenceCount": 50,
-      "videoCount": 49,
+      "occurrenceCount": 51,
+      "videoCount": 50,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -11910,20 +11974,20 @@
       "detailPath": "entities/songs/b659cf09cbc73af3.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
-        "3d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
-        "7d": {
           "occurrenceCount": 2,
           "videoCount": 2
         },
+        "3d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
+        },
+        "7d": {
+          "occurrenceCount": 3,
+          "videoCount": 3
+        },
         "30d": {
-          "occurrenceCount": 24,
-          "videoCount": 23
+          "occurrenceCount": 25,
+          "videoCount": 24
         }
       },
       "text": "鱗秦基博"
@@ -14594,19 +14658,33 @@
       "type": "songs",
       "name": "アタシのドレス",
       "secondary": "ねぐせ。",
-      "occurrenceCount": 2,
-      "videoCount": 2,
+      "occurrenceCount": 3,
+      "videoCount": 3,
       "keywords": [
         "month",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/be4499435d3c17b5.json",
       "rangeMetrics": {
-        "30d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "アタシのドレスねぐせ"
@@ -17247,8 +17325,8 @@
       "type": "songs",
       "name": "ヒカリアレ",
       "secondary": "BURNOUT SYNDROMES",
-      "occurrenceCount": 3,
-      "videoCount": 3,
+      "occurrenceCount": 4,
+      "videoCount": 4,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -17260,9 +17338,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/bc8894ab50e2af58.json",
       "rangeMetrics": {
-        "30d": {
+        "today": {
           "occurrenceCount": 1,
           "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "ヒカリアレburnoutsyndromes"
@@ -20119,8 +20209,8 @@
       "type": "songs",
       "name": "SpiralNights",
       "secondary": "羽月うずな",
-      "occurrenceCount": 15,
-      "videoCount": 14,
+      "occurrenceCount": 16,
+      "videoCount": 15,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -20132,9 +20222,21 @@
       "collectionId": "",
       "detailPath": "entities/songs/b8630a8296c2ce41.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "30d": {
-          "occurrenceCount": 6,
-          "videoCount": 6
+          "occurrenceCount": 7,
+          "videoCount": 7
         }
       },
       "text": "spiralnights羽月うずな"
@@ -48979,12 +49081,7 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/b95bda6592bccfc1.json",
-      "rangeMetrics": {
-        "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        }
-      },
+      "rangeMetrics": {},
       "text": "レットイットゴーイディナメンゼル"
     },
     {
@@ -74986,6 +75083,43 @@
       "text": "今日の日はさよなら合唱verハチワレcv田中誠人シーサーcv島袋美由利島二郎cv最上嗣生島民"
     },
     {
+      "id": "b6521172774e78db",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "Haiiro to Ao",
+      "secondary": "Yonezu Kenshi & Suda Masaki",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/b6521172774e78db.json",
+      "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "7d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "haiirotoaoyonezukenshisudamasaki"
+    },
+    {
       "id": "b5a8b0fe661c690d",
       "channelId": "",
       "channelHandle": "",
@@ -76038,8 +76172,8 @@
       "type": "artists",
       "name": "奥華子",
       "secondary": "",
-      "occurrenceCount": 662,
-      "videoCount": 565,
+      "occurrenceCount": 663,
+      "videoCount": 566,
       "keywords": [
         "karaoke",
         "month",
@@ -76055,16 +76189,16 @@
       "detailPath": "entities/artists/ba1e1cac344cbfb5.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 4,
-          "videoCount": 3
+          "occurrenceCount": 5,
+          "videoCount": 4
         },
         "3d": {
-          "occurrenceCount": 6,
-          "videoCount": 5
+          "occurrenceCount": 7,
+          "videoCount": 6
         },
         "7d": {
-          "occurrenceCount": 15,
-          "videoCount": 13
+          "occurrenceCount": 16,
+          "videoCount": 14
         },
         "30d": {
           "occurrenceCount": 214,
@@ -76373,8 +76507,8 @@
           "videoCount": 9
         },
         "30d": {
-          "occurrenceCount": 157,
-          "videoCount": 125
+          "occurrenceCount": 156,
+          "videoCount": 124
         }
       },
       "text": "星野源"
@@ -76414,8 +76548,8 @@
           "videoCount": 22
         },
         "30d": {
-          "occurrenceCount": 348,
-          "videoCount": 251
+          "occurrenceCount": 345,
+          "videoCount": 250
         }
       },
       "text": "backnumber"
@@ -76812,8 +76946,8 @@
       "type": "artists",
       "name": "結束バンド🪟🫶，",
       "secondary": "",
-      "occurrenceCount": 467,
-      "videoCount": 387,
+      "occurrenceCount": 468,
+      "videoCount": 388,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76828,20 +76962,20 @@
       "detailPath": "entities/artists/b21d96b308f3934a.json",
       "rangeMetrics": {
         "today": {
-          "occurrenceCount": 6,
-          "videoCount": 3
+          "occurrenceCount": 7,
+          "videoCount": 4
         },
         "3d": {
-          "occurrenceCount": 6,
-          "videoCount": 3
+          "occurrenceCount": 7,
+          "videoCount": 4
         },
         "7d": {
-          "occurrenceCount": 20,
-          "videoCount": 12
+          "occurrenceCount": 21,
+          "videoCount": 13
         },
         "30d": {
-          "occurrenceCount": 191,
-          "videoCount": 153
+          "occurrenceCount": 192,
+          "videoCount": 154
         }
       },
       "text": "結束バンド"
@@ -77534,8 +77668,8 @@
       "type": "artists",
       "name": "氷川きよし",
       "secondary": "",
-      "occurrenceCount": 53,
-      "videoCount": 53,
+      "occurrenceCount": 54,
+      "videoCount": 54,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77547,13 +77681,21 @@
       "collectionId": "",
       "detailPath": "entities/artists/bd0f5ac179e5d658.json",
       "rangeMetrics": {
+        "today": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
+        "3d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        },
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 21,
-          "videoCount": 21
+          "occurrenceCount": 22,
+          "videoCount": 22
         }
       },
       "text": "氷川きよし"
@@ -110129,8 +110271,8 @@
       "detailPath": "entities/vtubers/baeca8a4f55a38cc.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 16,
-          "videoCount": 2
+          "occurrenceCount": 9,
+          "videoCount": 1
         }
       },
       "text": "泉れいizumirei"
@@ -111298,10 +111440,6 @@
       "collectionId": "",
       "detailPath": "entities/vtubers/b5182e9b6e859ce9.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 1,
           "videoCount": 1

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "REVIEW_ONLY_NO_AUTO_DELETION",
-  "generatedAt": "2026-10-12T13:36:27.177Z",
-  "scannedVideoCount": 14163,
-  "scannedOccurrenceCount": 187528,
+  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "scannedVideoCount": 14184,
+  "scannedOccurrenceCount": 187691,
   "scannedDays": [
     {
       "date": "2022-10-07",
@@ -612,13 +612,13 @@
     },
     {
       "date": "2026-10-12",
-      "occurrences": 186,
+      "occurrences": 349,
       "quarantinedOccurrences": 0
     }
   ],
   "byReason": {
     "possible_unparsed_credits": 207,
-    "possible_date_as_artist": 276,
+    "possible_date_as_artist": 277,
     "possible_release_metadata_as_artist": 82,
     "possible_activity_chapter": 40,
     "possible_spoken_section": 9,

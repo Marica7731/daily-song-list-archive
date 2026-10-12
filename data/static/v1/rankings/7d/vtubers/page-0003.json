@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "7d",
   "type": "vtubers",
   "page": 3,
   "pageSize": 50,
   "pageCount": 7,
-  "totalCount": 314,
+  "totalCount": 326,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 101,
+      "id": "4928993d52e33db5",
+      "name": "芽森ひより",
+      "secondary": "",
+      "channelId": "UCittiKi2_Ziweog7CQVkQ5g",
+      "channelHandle": "@memori_hiyori",
+      "channelUrl": "",
+      "occurrenceCount": 20,
+      "videoCount": 1,
+      "songCount": 20,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6eiU70mwsms",
+          "videoTitle": "【 歌枠 】深夜の歌枠雑談🪽初見さん・ROM勢さんも大歓迎◎【 #新人vtuber / 芽森ひより 】【 #夜活 】【 #歌枠 】",
+          "channelName": "芽森ひより",
+          "publishedAt": "2026-10-11T19:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6eiU70mwsms/hqdefault.jpg",
+          "sourcePath": "sources/6e/6eiU70mwsms.json",
+          "time": "0:35:19",
+          "seconds": 2119,
+          "songTitle": "𝟎𝟏. 🆕Bunny Girl",
+          "artist": "AKASAKI"
+        }
+      ],
+      "detailPath": "entities/vtubers/4928993d52e33db5.json"
+    },
+    {
+      "rank": 102,
+      "id": "577ef7f618836229",
+      "name": "解 -Kai-",
+      "secondary": "",
+      "channelId": "UCn96OplCt4OcK7uj9yxS_cw",
+      "channelHandle": "@kaixyui",
+      "channelUrl": "",
+      "occurrenceCount": 20,
+      "videoCount": 1,
+      "songCount": 20,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "91OdueaGwYQ",
+          "videoTitle": "【#歌枠】初見さんリクエスト歓迎！ JPOP、アニソン、平成から昭和まで色々歌うよ【解 #VTuber】",
+          "channelName": "解 -Kai-",
+          "publishedAt": "2026-10-07T11:21:22.431Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/91OdueaGwYQ/hqdefault.jpg",
+          "sourcePath": "sources/91/91OdueaGwYQ.json",
+          "time": "0:04:16",
+          "seconds": 256,
+          "songTitle": "真夏のシューメイカー",
+          "artist": "Manatsu no Shoemaker THE PINBALLS / THE PINBALLS"
+        }
+      ],
+      "detailPath": "entities/vtubers/577ef7f618836229.json"
+    },
+    {
+      "rank": 103,
       "id": "ef74de8ded3e49be",
       "name": "姫咲ゆめの - Himesaki Yumeno - / vortex Artist",
       "secondary": "",
@@ -55,7 +121,7 @@
       "detailPath": "entities/vtubers/ef74de8ded3e49be.json"
     },
     {
-      "rank": 102,
+      "rank": 104,
       "id": "79703c2633198c0b",
       "name": "Earendel ch.エアレンデル",
       "secondary": "",
@@ -88,7 +154,7 @@
       "detailPath": "entities/vtubers/79703c2633198c0b.json"
     },
     {
-      "rank": 103,
+      "rank": 105,
       "id": "13ecbe3bfdec0566",
       "name": "天音 彩🫧Amane Iro",
       "secondary": "",
@@ -121,7 +187,7 @@
       "detailPath": "entities/vtubers/13ecbe3bfdec0566.json"
     },
     {
-      "rank": 104,
+      "rank": 106,
       "id": "f3a7262d414f4f1f",
       "name": "姫狂くるる-kigurui kururu-",
       "secondary": "",
@@ -154,7 +220,7 @@
       "detailPath": "entities/vtubers/f3a7262d414f4f1f.json"
     },
     {
-      "rank": 105,
+      "rank": 107,
       "id": "236dcd47d823baac",
       "name": "惑世いと - wakuse ito-",
       "secondary": "",
@@ -187,7 +253,7 @@
       "detailPath": "entities/vtubers/236dcd47d823baac.json"
     },
     {
-      "rank": 106,
+      "rank": 108,
       "id": "56a9fff5cc30f744",
       "name": "浠Mizuki Channel",
       "secondary": "",
@@ -220,7 +286,7 @@
       "detailPath": "entities/vtubers/56a9fff5cc30f744.json"
     },
     {
-      "rank": 107,
+      "rank": 109,
       "id": "7325d706465f69b0",
       "name": "ヴァンパイアップル",
       "secondary": "",
@@ -253,7 +319,7 @@
       "detailPath": "entities/vtubers/7325d706465f69b0.json"
     },
     {
-      "rank": 108,
+      "rank": 110,
       "id": "6e6c0dc93d6045c3",
       "name": "きなこ。",
       "secondary": "",
@@ -286,7 +352,7 @@
       "detailPath": "entities/vtubers/6e6c0dc93d6045c3.json"
     },
     {
-      "rank": 109,
+      "rank": 111,
       "id": "0a2f94ccb7dd3d44",
       "name": "さざなみセレナ Serena Sazanami",
       "secondary": "",
@@ -319,7 +385,7 @@
       "detailPath": "entities/vtubers/0a2f94ccb7dd3d44.json"
     },
     {
-      "rank": 110,
+      "rank": 112,
       "id": "e0857ab1db697134",
       "name": "それゆけゆめこ / GOGO Yumeko",
       "secondary": "",
@@ -352,7 +418,7 @@
       "detailPath": "entities/vtubers/e0857ab1db697134.json"
     },
     {
-      "rank": 111,
+      "rank": 113,
       "id": "21cf9cbed75838a8",
       "name": "ねぴん / Nepin ch.",
       "secondary": "",
@@ -385,7 +451,7 @@
       "detailPath": "entities/vtubers/21cf9cbed75838a8.json"
     },
     {
-      "rank": 112,
+      "rank": 114,
       "id": "2edfa96676e646e0",
       "name": "ハッチャン",
       "secondary": "",
@@ -418,7 +484,7 @@
       "detailPath": "entities/vtubers/2edfa96676e646e0.json"
     },
     {
-      "rank": 113,
+      "rank": 115,
       "id": "c0207808e8551a65",
       "name": "ラティオ・ユィリスOfficial",
       "secondary": "",
@@ -451,7 +517,7 @@
       "detailPath": "entities/vtubers/c0207808e8551a65.json"
     },
     {
-      "rank": 114,
+      "rank": 116,
       "id": "c075fa1def9f1446",
       "name": "焔魔るり CH. / Ruri Enma",
       "secondary": "",
@@ -484,7 +550,7 @@
       "detailPath": "entities/vtubers/c075fa1def9f1446.json"
     },
     {
-      "rank": 115,
+      "rank": 117,
       "id": "3f41fe9cf1898aca",
       "name": "星瑠璃メロウ / Hoshiruri Mellow",
       "secondary": "",
@@ -517,7 +583,7 @@
       "detailPath": "entities/vtubers/3f41fe9cf1898aca.json"
     },
     {
-      "rank": 116,
+      "rank": 118,
       "id": "b8b24150c16e41b4",
       "name": "彷徨 鈴【Samayoi Suzu】",
       "secondary": "",
@@ -550,7 +616,7 @@
       "detailPath": "entities/vtubers/b8b24150c16e41b4.json"
     },
     {
-      "rank": 117,
+      "rank": 119,
       "id": "9dae6dc965feccec",
       "name": "KMNZ",
       "secondary": "",
@@ -595,7 +661,7 @@
       "detailPath": "entities/vtubers/9dae6dc965feccec.json"
     },
     {
-      "rank": 118,
+      "rank": 120,
       "id": "3e236b2c5f081086",
       "name": "けものさん",
       "secondary": "",
@@ -640,7 +706,7 @@
       "detailPath": "entities/vtubers/3e236b2c5f081086.json"
     },
     {
-      "rank": 119,
+      "rank": 121,
       "id": "19068eac7e300ce2",
       "name": "ヨノ-Yono",
       "secondary": "",
@@ -673,7 +739,7 @@
       "detailPath": "entities/vtubers/19068eac7e300ce2.json"
     },
     {
-      "rank": 120,
+      "rank": 122,
       "id": "35e1f93e1b2eab84",
       "name": "華白あらみ / Arami ch.",
       "secondary": "",
@@ -706,7 +772,7 @@
       "detailPath": "entities/vtubers/35e1f93e1b2eab84.json"
     },
     {
-      "rank": 121,
+      "rank": 123,
       "id": "4dd6340d5be58c28",
       "name": "月詠命こん",
       "secondary": "",
@@ -739,7 +805,7 @@
       "detailPath": "entities/vtubers/4dd6340d5be58c28.json"
     },
     {
-      "rank": 122,
+      "rank": 124,
       "id": "952e62d793b7ce97",
       "name": "朱名 / SHUNA",
       "secondary": "",
@@ -772,7 +838,7 @@
       "detailPath": "entities/vtubers/952e62d793b7ce97.json"
     },
     {
-      "rank": 123,
+      "rank": 125,
       "id": "05f603e485fe903d",
       "name": "鈍色聴 / Yurushi Nibiiro",
       "secondary": "",
@@ -805,7 +871,7 @@
       "detailPath": "entities/vtubers/05f603e485fe903d.json"
     },
     {
-      "rank": 124,
+      "rank": 126,
       "id": "a29288cad673f805",
       "name": "夕凪潮 | yunagi ushio",
       "secondary": "",
@@ -838,7 +904,52 @@
       "detailPath": "entities/vtubers/a29288cad673f805.json"
     },
     {
-      "rank": 125,
+      "rank": 127,
+      "id": "7f720148cf3f417d",
+      "name": "朝ノ姉妹ぷろじぇくと",
+      "secondary": "",
+      "channelId": "UCODNLyn3L83wEmC0DLL0cxA",
+      "channelHandle": "@%E6%9C%9D%E3%83%8E%E5%A7%89%E5%A6%B9%E3%81%B7%E3%82%8D%E3%81%98%E3%81%87%E3%81%8F%E3%81%A8",
+      "channelUrl": "",
+      "occurrenceCount": 16,
+      "videoCount": 2,
+      "songCount": 16,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "j688MAu0JNM",
+          "videoTitle": "【#スポソン歌枠リレー】本当にぶちかましていいんですね？！？！？朝ノ、いっきまーす！！！",
+          "channelName": "朝ノ姉妹ぷろじぇくと",
+          "publishedAt": "2026-10-12T09:23:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/j688MAu0JNM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAVXlDpeKJGDJBk5t50GL6SEsgXw",
+          "sourcePath": "sources/j6/j688MAu0JNM.json",
+          "time": "0:03:06",
+          "seconds": 186,
+          "songTitle": "世界が終るまでは…",
+          "artist": "WANDS"
+        },
+        {
+          "videoId": "Q1vA4yFBOKA",
+          "videoTitle": "【歌枠】Acid Black Cherryばっか歌う枠【#朝ノ瑠璃】",
+          "channelName": "朝ノ姉妹ぷろじぇくと",
+          "publishedAt": "2026-10-06T14:31:07.546Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Q1vA4yFBOKA/hqdefault.jpg",
+          "sourcePath": "sources/Q1/Q1vA4yFBOKA.json",
+          "time": "0:02:43",
+          "seconds": 163,
+          "songTitle": "I'm not a ghost",
+          "artist": "Acid Black Cherry"
+        }
+      ],
+      "detailPath": "entities/vtubers/7f720148cf3f417d.json"
+    },
+    {
+      "rank": 128,
       "id": "b3898c4c31954f44",
       "name": "dosanco",
       "secondary": "",
@@ -871,7 +982,7 @@
       "detailPath": "entities/vtubers/b3898c4c31954f44.json"
     },
     {
-      "rank": 126,
+      "rank": 129,
       "id": "7a31aac8fcbfb754",
       "name": "Mio Ch. 猫月みお【あみゅどる】",
       "secondary": "",
@@ -904,7 +1015,7 @@
       "detailPath": "entities/vtubers/7a31aac8fcbfb754.json"
     },
     {
-      "rank": 127,
+      "rank": 130,
       "id": "f8b6346815f581b0",
       "name": "みいなのおふとん_channel",
       "secondary": "",
@@ -937,7 +1048,7 @@
       "detailPath": "entities/vtubers/f8b6346815f581b0.json"
     },
     {
-      "rank": 128,
+      "rank": 131,
       "id": "5546ca0d378ce133",
       "name": "れもね",
       "secondary": "",
@@ -970,7 +1081,7 @@
       "detailPath": "entities/vtubers/5546ca0d378ce133.json"
     },
     {
-      "rank": 129,
+      "rank": 132,
       "id": "906951d3e2598199",
       "name": "阿出川リンネ",
       "secondary": "",
@@ -1003,7 +1114,7 @@
       "detailPath": "entities/vtubers/906951d3e2598199.json"
     },
     {
-      "rank": 130,
+      "rank": 133,
       "id": "27aefc362363f68f",
       "name": "愛未ゆあ⑅ / Yua Ayumi",
       "secondary": "",
@@ -1036,7 +1147,40 @@
       "detailPath": "entities/vtubers/27aefc362363f68f.json"
     },
     {
-      "rank": 131,
+      "rank": 134,
+      "id": "f60e86b106e3d7b8",
+      "name": "羽月うずな / Hazuki Uzuna",
+      "secondary": "",
+      "channelId": "UCnTDWKkIrZnUbOj7p2rDLNg",
+      "channelHandle": "@uzunahazuki",
+      "channelUrl": "",
+      "occurrenceCount": 16,
+      "videoCount": 1,
+      "songCount": 16,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "a6kB4HgDThs",
+          "videoTitle": "⸜ #歌枠 #耐久⸝ 同接30目標!!好きな歌を歌います!! ᎒ #羽月うずな #逃げやがったぞおぃ #Vtuber ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-10-12T11:41:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a6kB4HgDThs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTvgo8qdZvBidXhiWX45tGCnsI7A",
+          "sourcePath": "sources/a6/a6kB4HgDThs.json",
+          "time": "0:17:22",
+          "seconds": 1042,
+          "songTitle": "それでも明日はやってくる",
+          "artist": "鈴木結女"
+        }
+      ],
+      "detailPath": "entities/vtubers/f60e86b106e3d7b8.json"
+    },
+    {
+      "rank": 135,
       "id": "d882e5f6069ff709",
       "name": "歌月えん",
       "secondary": "",
@@ -1069,7 +1213,7 @@
       "detailPath": "entities/vtubers/d882e5f6069ff709.json"
     },
     {
-      "rank": 132,
+      "rank": 136,
       "id": "8625d2ce1a10729f",
       "name": "花百合ちゅみ / Hanayuri Chumi",
       "secondary": "",
@@ -1102,7 +1246,40 @@
       "detailPath": "entities/vtubers/8625d2ce1a10729f.json"
     },
     {
-      "rank": 133,
+      "rank": 137,
+      "id": "794e1e0806d3c502",
+      "name": "糸街 / Itomachi",
+      "secondary": "",
+      "channelId": "UC4N4PikgcfKxARbY_GF_o0Q",
+      "channelHandle": "@itomachi",
+      "channelUrl": "",
+      "occurrenceCount": 16,
+      "videoCount": 1,
+      "songCount": 16,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "duVXmdHBFH4",
+          "videoTitle": "【#推し前／歌枠リレー】PONはしていないと信じて👀【 #糸街つむぎ 】",
+          "channelName": "糸街 / Itomachi",
+          "publishedAt": "2026-10-12T09:02:17.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/duVXmdHBFH4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDFv2USL0x4tHjNsx0yEsvIhTwwA",
+          "sourcePath": "sources/du/duVXmdHBFH4.json",
+          "time": "0:00:02",
+          "seconds": 2,
+          "songTitle": "ようこそジャパリパークへ",
+          "artist": "どうぶつビスケッツ"
+        }
+      ],
+      "detailPath": "entities/vtubers/794e1e0806d3c502.json"
+    },
+    {
+      "rank": 138,
       "id": "5e9b873d780912fb",
       "name": "心恋音むいる / Kokone Muiru【ベルプロ】",
       "secondary": "",
@@ -1135,7 +1312,7 @@
       "detailPath": "entities/vtubers/5e9b873d780912fb.json"
     },
     {
-      "rank": 134,
+      "rank": 139,
       "id": "640d51f649822a75",
       "name": "翠雨 しの",
       "secondary": "",
@@ -1168,7 +1345,7 @@
       "detailPath": "entities/vtubers/640d51f649822a75.json"
     },
     {
-      "rank": 135,
+      "rank": 140,
       "id": "e1e98b8d8d12ba86",
       "name": "赤石グラナ",
       "secondary": "",
@@ -1201,7 +1378,7 @@
       "detailPath": "entities/vtubers/e1e98b8d8d12ba86.json"
     },
     {
-      "rank": 136,
+      "rank": 141,
       "id": "2a0275af51f15749",
       "name": "漣 悠葵 / Sazanami Yuki",
       "secondary": "",
@@ -1234,7 +1411,7 @@
       "detailPath": "entities/vtubers/2a0275af51f15749.json"
     },
     {
-      "rank": 137,
+      "rank": 142,
       "id": "fb8621faf11baf45",
       "name": "DELUTAYA Δ.",
       "secondary": "",
@@ -1267,7 +1444,7 @@
       "detailPath": "entities/vtubers/fb8621faf11baf45.json"
     },
     {
-      "rank": 138,
+      "rank": 143,
       "id": "6b3583eefe10b295",
       "name": "Molf Ch. 海汐もるふ",
       "secondary": "",
@@ -1300,7 +1477,7 @@
       "detailPath": "entities/vtubers/6b3583eefe10b295.json"
     },
     {
-      "rank": 139,
+      "rank": 144,
       "id": "94165f8949d3eef8",
       "name": "Shairu.chしゃいる",
       "secondary": "",
@@ -1333,7 +1510,7 @@
       "detailPath": "entities/vtubers/94165f8949d3eef8.json"
     },
     {
-      "rank": 140,
+      "rank": 145,
       "id": "c13a1980627d32f7",
       "name": "wouca",
       "secondary": "",
@@ -1366,7 +1543,7 @@
       "detailPath": "entities/vtubers/c13a1980627d32f7.json"
     },
     {
-      "rank": 141,
+      "rank": 146,
       "id": "6006a009dbbd8221",
       "name": "アイリナ・ゼファリオ【StellArt.】",
       "secondary": "",
@@ -1399,7 +1576,7 @@
       "detailPath": "entities/vtubers/6006a009dbbd8221.json"
     },
     {
-      "rank": 142,
+      "rank": 147,
       "id": "b97426ea58d8d1b9",
       "name": "ヤヅキ / やづけん",
       "secondary": "",
@@ -1432,7 +1609,7 @@
       "detailPath": "entities/vtubers/b97426ea58d8d1b9.json"
     },
     {
-      "rank": 143,
+      "rank": 148,
       "id": "098c8a998efe7088",
       "name": "杏夜 くもり - Anya Kumori -",
       "secondary": "",
@@ -1465,7 +1642,7 @@
       "detailPath": "entities/vtubers/098c8a998efe7088.json"
     },
     {
-      "rank": 144,
+      "rank": 149,
       "id": "a732e2be85b65b21",
       "name": "甘萬つもり【ヴアーチヤル喫茶甘萬】",
       "secondary": "",
@@ -1498,7 +1675,7 @@
       "detailPath": "entities/vtubers/a732e2be85b65b21.json"
     },
     {
-      "rank": 145,
+      "rank": 150,
       "id": "13a0ddfa95752c90",
       "name": "砂糖さん",
       "secondary": "",
@@ -1529,195 +1706,6 @@
         }
       ],
       "detailPath": "entities/vtubers/13a0ddfa95752c90.json"
-    },
-    {
-      "rank": 146,
-      "id": "e13f9946321498b1",
-      "name": "妃玖 - kisaki",
-      "secondary": "",
-      "channelId": "UCFBc8kuCtTwmtdsBcJoZ3qA",
-      "channelHandle": "@%E5%A6%83%E7%8E%96-kisaki",
-      "channelUrl": "",
-      "occurrenceCount": 15,
-      "videoCount": 1,
-      "songCount": 15,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "k87HSQoIcvw",
-          "videoTitle": "【歌枠】沢山歩くと足のいたるところが弾ける音、しませんか？ #妃玖ノ記録【妃玖/RKmusic/Fused】",
-          "channelName": "妃玖 - kisaki",
-          "publishedAt": "2026-10-07T16:06:49.511Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/k87HSQoIcvw/hqdefault.jpg",
-          "sourcePath": "sources/k8/k87HSQoIcvw.json",
-          "time": "0:09:28",
-          "seconds": 568,
-          "songTitle": "砂の惑星",
-          "artist": "ハチ"
-        }
-      ],
-      "detailPath": "entities/vtubers/e13f9946321498b1.json"
-    },
-    {
-      "rank": 147,
-      "id": "bfb48d4ac3bae170",
-      "name": "藤鈴呼",
-      "secondary": "",
-      "channelId": "UCKjj1k2_AiIZeL8ZI3PduNQ",
-      "channelHandle": "@%E8%97%A4%E9%88%B4%E5%91%BC",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 14,
-      "songCount": 13,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XpES6fQCq-c",
-          "videoTitle": "おしゃべりすずこ 1557回目 2026.10.9",
-          "channelName": "藤鈴呼",
-          "publishedAt": "2026-10-09T13:13:19.559Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XpES6fQCq-c/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gNigTMA8=&rs=AOn4CLD3TS0NHtpHfKjSXi7jyc4dVQ8jtg",
-          "sourcePath": "sources/Xp/XpES6fQCq-c.json",
-          "time": "0:00:00",
-          "seconds": 0,
-          "songTitle": "1557",
-          "artist": ""
-        },
-        {
-          "videoId": "3FqBcikw_Ow",
-          "videoTitle": "おしゃべりすずこ 1556回目 2026.10.9",
-          "channelName": "藤鈴呼",
-          "publishedAt": "2026-10-09T13:11:19.559Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/3FqBcikw_Ow/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gUCggMA8=&rs=AOn4CLBpHBWXgUeOS9cr-EgtuktnHRz4rQ",
-          "sourcePath": "sources/3F/3FqBcikw_Ow.json",
-          "time": "0:00:00",
-          "seconds": 0,
-          "songTitle": "1556",
-          "artist": ""
-        },
-        {
-          "videoId": "v_PqHQ81eUI",
-          "videoTitle": "おしゃべりすずこ 1548回目 2026.10.8",
-          "channelName": "藤鈴呼",
-          "publishedAt": "2026-10-08T13:30:45.486Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/v_PqHQ81eUI/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGAgZShBMA8=&rs=AOn4CLDFbONPiQ8yu2A8760QakpczDznZw",
-          "sourcePath": "sources/v_/v_PqHQ81eUI.json",
-          "time": "0:00:00",
-          "seconds": 0,
-          "songTitle": "1548",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/vtubers/bfb48d4ac3bae170.json"
-    },
-    {
-      "rank": 148,
-      "id": "b66e9ac198e4f995",
-      "name": "Draminas Curiousードラミナス・キュリオスー",
-      "secondary": "",
-      "channelId": "UC1b2WCeEc08FG5Jh8Cfhm7g",
-      "channelHandle": "@DraminasCurious",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 1,
-      "songCount": 14,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Fgix-mFWnKQ",
-          "videoTitle": "【歌枠】低音ボイス熟女龍魔が歌う歌枠🌟🌟聴き専さんも大歓迎～💜 【#ドラミナス】#Vtuber",
-          "channelName": "Draminas Curiousードラミナス・キュリオスー",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Fgix-mFWnKQ/hqdefault.jpg",
-          "sourcePath": "sources/Fg/Fgix-mFWnKQ.json",
-          "time": "0:05:44",
-          "seconds": 344,
-          "songTitle": "もう恋なんてしない",
-          "artist": "槇原敬之"
-        }
-      ],
-      "detailPath": "entities/vtubers/b66e9ac198e4f995.json"
-    },
-    {
-      "rank": 149,
-      "id": "19f73f98646a8ef4",
-      "name": "Miu Ch.儚羽みう",
-      "secondary": "",
-      "channelId": "UCXJU6BfIN_y4XzESpNLADOg",
-      "channelHandle": "@hakanaumiu",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 1,
-      "songCount": 14,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "S6eq8uq2jrM",
-          "videoTitle": "【 歌枠┊︎初見さんおいで】癒しの歌をお届けします🌙ピアノ伴奏縛り【 #儚羽みう┊︎新人vtubar 】",
-          "channelName": "Miu Ch.儚羽みう",
-          "publishedAt": "2026-10-09T14:12:20.598Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/S6eq8uq2jrM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-zNNCsQVKUak5qctl9aidPXZreA",
-          "sourcePath": "sources/S6/S6eq8uq2jrM.json",
-          "time": "0:12:51",
-          "seconds": 771,
-          "songTitle": "奏",
-          "artist": "スキマスイッチ（ピアノ伴奏Ver.）"
-        }
-      ],
-      "detailPath": "entities/vtubers/19f73f98646a8ef4.json"
-    },
-    {
-      "rank": 150,
-      "id": "afc25f44de01d368",
-      "name": "NONOA Ch.華美雲ののあ",
-      "secondary": "",
-      "channelId": "UCej-l58FGEB9-9OMeFdX5mg",
-      "channelHandle": "@KAMIKUMONONOA",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 1,
-      "songCount": 14,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "2XuZgvqaQas",
-          "videoTitle": "【歌枠】みんなはYOASOBIさんの曲で好きな曲なんですか？【#生ののあらいぶ / #KARAOKE】",
-          "channelName": "NONOA Ch.華美雲ののあ",
-          "publishedAt": "2026-10-07T11:26:30.246Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2XuZgvqaQas/hqdefault.jpg",
-          "sourcePath": "sources/2X/2XuZgvqaQas.json",
-          "time": "0:12:28",
-          "seconds": 748,
-          "songTitle": "祝福",
-          "artist": "YOASOBI"
-        }
-      ],
-      "detailPath": "entities/vtubers/afc25f44de01d368.json"
     }
   ]
 }

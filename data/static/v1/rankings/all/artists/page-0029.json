@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "artists",
   "page": 29,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19991,
+  "totalCount": 19998,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1401,
+      "id": "1c485bbdc8af02aa",
+      "name": "Plastic Tree",
+      "secondary": "",
+      "channelId": "UCNqMMySfJRSOeZRqUG-gJIg",
+      "channelHandle": "@maryu_hekigaku",
+      "channelUrl": "",
+      "occurrenceCount": 12,
+      "videoCount": 11,
+      "songCount": 7,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "i6TTKXT9fkQ",
+          "videoTitle": "【歌枠/雑談】夜空を眺めながら 歌雑【 宵桜燐 / #Vtuber 】",
+          "channelName": "宵桜 燐/Rin Yozakra",
+          "publishedAt": "2026-09-22T13:32:27.386Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/i6TTKXT9fkQ/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLD0Rvg8EBOjsQXrowALSWCH07HSeA",
+          "sourcePath": "sources/i6/i6TTKXT9fkQ.json",
+          "time": "0:27:27",
+          "seconds": 1647,
+          "songTitle": "真っ赤な糸",
+          "artist": "Plastic Tree"
+        },
+        {
+          "videoId": "4Zc6Fea8C9Q",
+          "videoTitle": "【#karaoke/定期歌枠】V系初心者でも歌える⁉猫又魔女が歌う月魅の夜☪️第49夜【#ずご生/魅璃亞】",
+          "channelName": "ずごっくゲームス！",
+          "publishedAt": "2026-09-21T12:46:16.140Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4Zc6Fea8C9Q/hqdefault.jpg",
+          "sourcePath": "sources/4Z/4Zc6Fea8C9Q.json",
+          "time": "1:02:06",
+          "seconds": 3726,
+          "songTitle": "真っ赤な糸",
+          "artist": "Plastic Tree"
+        },
+        {
+          "videoId": "UcVvOLzvHBU",
+          "videoTitle": "【 #夜に聴きたいV系歌枠リレー 】夢に見る夜、美化された夢【夕照禮音/#Vtuber】",
+          "channelName": "夕照禮音 / Sekisyou Light",
+          "publishedAt": "2026-09-19T10:05:32.382Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UcVvOLzvHBU/hqdefault.jpg",
+          "sourcePath": "sources/Uc/UcVvOLzvHBU.json",
+          "time": "0:23:17",
+          "seconds": 1397,
+          "songTitle": "記憶行き",
+          "artist": "Plastic Tree"
+        }
+      ],
+      "detailPath": "entities/artists/1c485bbdc8af02aa.json"
+    },
+    {
+      "rank": 1402,
       "id": "0f3a2e51478a4477",
       "name": "Ryokuoushoku Shakai",
       "secondary": "",
@@ -70,7 +130,7 @@
       "detailPath": "entities/artists/0f3a2e51478a4477.json"
     },
     {
-      "rank": 1402,
+      "rank": 1403,
       "id": "1292b3a8f9ca3a51",
       "name": "ウタ",
       "secondary": "",
@@ -130,7 +190,7 @@
       "detailPath": "entities/artists/1292b3a8f9ca3a51.json"
     },
     {
-      "rank": 1403,
+      "rank": 1404,
       "id": "73adb04d805bdf7e",
       "name": "ケツメイシ",
       "secondary": "",
@@ -190,7 +250,7 @@
       "detailPath": "entities/artists/73adb04d805bdf7e.json"
     },
     {
-      "rank": 1404,
+      "rank": 1405,
       "id": "8402e113834589da",
       "name": "リーガルリリー",
       "secondary": "",
@@ -251,7 +311,7 @@
       "detailPath": "entities/artists/8402e113834589da.json"
     },
     {
-      "rank": 1405,
+      "rank": 1406,
       "id": "4783b79b3cdfeb9d",
       "name": "綾香",
       "secondary": "",
@@ -311,7 +371,7 @@
       "detailPath": "entities/artists/4783b79b3cdfeb9d.json"
     },
     {
-      "rank": 1406,
+      "rank": 1407,
       "id": "979210c61edc2cf5",
       "name": "喜多修平",
       "secondary": "",
@@ -372,7 +432,7 @@
       "detailPath": "entities/artists/979210c61edc2cf5.json"
     },
     {
-      "rank": 1407,
+      "rank": 1408,
       "id": "0fb860d0d9f5d7a1",
       "name": "月見ヤチヨ",
       "secondary": "",
@@ -432,7 +492,7 @@
       "detailPath": "entities/artists/0fb860d0d9f5d7a1.json"
     },
     {
-      "rank": 1408,
+      "rank": 1409,
       "id": "c52a1de512c60780",
       "name": "青葉りんご",
       "secondary": "",
@@ -489,7 +549,7 @@
       "detailPath": "entities/artists/c52a1de512c60780.json"
     },
     {
-      "rank": 1409,
+      "rank": 1410,
       "id": "436de928e7c27a12",
       "name": "椿屋四重奏",
       "secondary": "",
@@ -550,7 +610,7 @@
       "detailPath": "entities/artists/436de928e7c27a12.json"
     },
     {
-      "rank": 1410,
+      "rank": 1411,
       "id": "78f4e9cb996f6e2b",
       "name": "米津玄師 ※JOYSOUND",
       "secondary": "",
@@ -610,7 +670,7 @@
       "detailPath": "entities/artists/78f4e9cb996f6e2b.json"
     },
     {
-      "rank": 1411,
+      "rank": 1412,
       "id": "6d597ac0982f2463",
       "name": "藍月なくる",
       "secondary": "",
@@ -669,7 +729,7 @@
       "detailPath": "entities/artists/6d597ac0982f2463.json"
     },
     {
-      "rank": 1412,
+      "rank": 1413,
       "id": "5341c4d09bdca0c2",
       "name": "Girls Dead Monster STARRING LiSA",
       "secondary": "",
@@ -729,7 +789,7 @@
       "detailPath": "entities/artists/5341c4d09bdca0c2.json"
     },
     {
-      "rank": 1413,
+      "rank": 1414,
       "id": "2d41d4612d5e2bd8",
       "name": "KIRINJI",
       "secondary": "",
@@ -789,7 +849,7 @@
       "detailPath": "entities/artists/2d41d4612d5e2bd8.json"
     },
     {
-      "rank": 1414,
+      "rank": 1415,
       "id": "b17d0a0fbd770365",
       "name": "ONEPIECE",
       "secondary": "",
@@ -845,66 +905,6 @@
         }
       ],
       "detailPath": "entities/artists/b17d0a0fbd770365.json"
-    },
-    {
-      "rank": 1415,
-      "id": "6ec1140dc97cef0e",
-      "name": "ZUTOMAYO",
-      "secondary": "",
-      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "channelHandle": "@Unit_B_Pre_Debut",
-      "channelUrl": "",
-      "occurrenceCount": 12,
-      "videoCount": 10,
-      "songCount": 8,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "bFQLxgzEBhI",
-          "videoTitle": "【歌枠】今週もおつかれさま！あなたの魂を揺らすVsinger―【VTuber/配信中】",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-09-25T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bFQLxgzEBhI/hqdefault.jpg",
-          "sourcePath": "sources/bF/bFQLxgzEBhI.json",
-          "time": "1:59:18",
-          "seconds": 7158,
-          "songTitle": "MILABO",
-          "artist": "ZUTOMAYO"
-        },
-        {
-          "videoId": "bVSLb2a9DR8",
-          "videoTitle": "🐥【縦型歌枠】おうち3D✨1曲聴いていって！ SINGING STREAM【VTuber/配信中】#縦型配信 #shorts #vtuber",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bVSLb2a9DR8/hqdefault.jpg",
-          "sourcePath": "sources/bV/bVSLb2a9DR8.json",
-          "time": "0:40:35",
-          "seconds": 2435,
-          "songTitle": "Humanoid",
-          "artist": "ZUTOMAYO"
-        },
-        {
-          "videoId": "EmlRK808eO8",
-          "videoTitle": "🐥【縦型歌枠】おうち3D✨1曲聴いていって！ SINGING STREAM【VTuber/配信中】#縦型配信 #shorts #vtuber",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-09-16T11:53:50.175Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EmlRK808eO8/hqdefault.jpg",
-          "sourcePath": "sources/Em/EmlRK808eO8.json",
-          "time": "2:31:10",
-          "seconds": 9070,
-          "songTitle": "MILABO",
-          "artist": "ZUTOMAYO"
-        }
-      ],
-      "detailPath": "entities/artists/6ec1140dc97cef0e.json"
     },
     {
       "rank": 1416,

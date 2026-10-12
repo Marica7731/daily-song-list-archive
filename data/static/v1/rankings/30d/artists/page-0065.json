@@ -1,16 +1,241 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "30d",
   "type": "artists",
   "page": 65,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10857,
+  "totalCount": 10864,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3201,
+      "id": "9a1e300790338aea",
+      "name": "伊藤奈央 in FIX",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "cjMLjIUes2E",
+          "videoTitle": "【#karaoke 】相棒の設定を一新した！お試し歌枠🎤【うさぎのショタコンVTuber】 #みてみてみぃる",
+          "channelName": "歌伝みぃる / Utatte Miru ch.",
+          "publishedAt": "2026-09-13T13:06:34.776Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cjMLjIUes2E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWpzaCScKC-KndJdFIBtVTsDNOAA",
+          "sourcePath": "sources/cj/cjMLjIUes2E.json",
+          "time": "2:01:54",
+          "seconds": 7314,
+          "songTitle": "Go－Round",
+          "artist": "伊藤奈央 in FIX"
+        },
+        {
+          "videoId": "9ANhNXnS3bU",
+          "videoTitle": "【#歌枠 】2000年初期のアニソン中心歌枠とする！！【#冬至調査中 #vtuber #SingingStream】",
+          "channelName": "冬至ミキ / Toji Miki",
+          "publishedAt": "2026-09-13T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9ANhNXnS3bU/hqdefault.jpg",
+          "sourcePath": "sources/9A/9ANhNXnS3bU.json",
+          "time": "0:29:30",
+          "seconds": 1770,
+          "songTitle": "Go-Round",
+          "artist": "伊藤奈央 in FIX"
+        }
+      ],
+      "detailPath": "entities/artists/9a1e300790338aea.json"
+    },
+    {
+      "rank": 3202,
+      "id": "07bfbf72b7497735",
+      "name": "井口裕香",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "rp-VguOqOzc",
+          "videoTitle": "【高評価100耐久】歌枠雑談耐久配信！風邪から復帰したので気合い入れるぞ〜！ #歌枠 #雑談",
+          "channelName": "外飼イヌヌ / Sotogai Inunu",
+          "publishedAt": "2026-10-08T14:48:52.975Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rp-VguOqOzc/hqdefault.jpg",
+          "sourcePath": "sources/rp/rp-VguOqOzc.json",
+          "time": "1:32:27",
+          "seconds": 5547,
+          "songTitle": "白金ディスコ",
+          "artist": "井口裕香"
+        },
+        {
+          "videoId": "SVHFljvt-S8",
+          "videoTitle": "【 #歌枠 / #karaoke 】 定期歌枠🤍🫧好きな曲を好きなだけ歌うぞ～🎤 #NegaOA",
+          "channelName": "瀬川 ネガ - segawa nega -",
+          "publishedAt": "2026-09-13T13:53:27.606Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SVHFljvt-S8/hqdefault.jpg",
+          "sourcePath": "sources/SV/SVHFljvt-S8.json",
+          "time": "2:04:08",
+          "seconds": 7448,
+          "songTitle": "白金ディスコ",
+          "artist": "井口裕香"
+        }
+      ],
+      "detailPath": "entities/artists/07bfbf72b7497735.json"
+    },
+    {
+      "rank": 3203,
+      "id": "d138ad529e32dca2",
+      "name": "井上ジョー",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "r1YrloR2o8s",
+          "videoTitle": "【 #歌枠 / KARAOKE】あなたの好きなアニソン歌いますっ！【 #しのの仕立て屋 / vsinger 】",
+          "channelName": "翠雨 しの",
+          "publishedAt": "2026-10-01T13:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/r1YrloR2o8s/hqdefault.jpg",
+          "sourcePath": "sources/r1/r1YrloR2o8s.json",
+          "time": "1:12:07",
+          "seconds": 4327,
+          "songTitle": "CLOSER",
+          "artist": "井上ジョー"
+        },
+        {
+          "videoId": "UDZel3TJrFg",
+          "videoTitle": "🏮 実写 歌枠｜NARUTO多め♡シルバーウィーク真っ只中なので歌います👆 #shorts #Vtuber ∞ 響架",
+          "channelName": "Kyoka Ch. -響架-",
+          "publishedAt": "2026-09-22T16:32:27.386Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UDZel3TJrFg/hqdefault.jpg",
+          "sourcePath": "sources/UD/UDZel3TJrFg.json",
+          "time": "1:00:09",
+          "seconds": 3609,
+          "songTitle": "CLOSER",
+          "artist": "井上ジョー"
+        }
+      ],
+      "detailPath": "entities/artists/d138ad529e32dca2.json"
+    },
+    {
+      "rank": 3204,
+      "id": "37fa21bda4ce2891",
+      "name": "磯P",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6Rv0Yfke9MI",
+          "videoTitle": "〖#歌枠/初見様常連様大歓迎〗10月最初の歌枠をまったりと～！〖佳宵わおん/個人Vtuber〗",
+          "channelName": "佳宵わおん / Kasyou Waon",
+          "publishedAt": "2026-10-03T06:14:01.753Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6Rv0Yfke9MI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpY3E0zH2DayBB1M4m6huE5sjSeg",
+          "sourcePath": "sources/6R/6Rv0Yfke9MI.json",
+          "time": "0:18:51",
+          "seconds": 1131,
+          "songTitle": "キンクマブルース",
+          "artist": "磯P"
+        },
+        {
+          "videoId": "ubE7vTSYBJ8",
+          "videoTitle": "【#歌枠 #KARAOKE 】ゲリラ歌枠！すっかり涼しくなってきたね【メリ埜 #Vtuber #メリメLink】",
+          "channelName": "メリ埜 / Merino",
+          "publishedAt": "2026-09-18T12:09:15.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ubE7vTSYBJ8/hqdefault.jpg",
+          "sourcePath": "sources/ub/ubE7vTSYBJ8.json",
+          "time": "0:20:40",
+          "seconds": 1240,
+          "songTitle": "袖触れ合うも他生の縁",
+          "artist": "磯P"
+        }
+      ],
+      "detailPath": "entities/artists/37fa21bda4ce2891.json"
+    },
+    {
+      "rank": 3205,
+      "id": "04dfce38a0fb8644",
+      "name": "一番のみ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qX2hzS_VA54",
+          "videoTitle": "【#歌枠/#karaoke 】定期うたわく～！！【#個人勢vtuber/しゃいる】",
+          "channelName": "Shairu.chしゃいる",
+          "publishedAt": "2026-10-01T18:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qX2hzS_VA54/hqdefault.jpg",
+          "sourcePath": "sources/qX/qX2hzS_VA54.json",
+          "time": "1:51:49",
+          "seconds": 6709,
+          "songTitle": "カウントダウンラブ",
+          "artist": "一番のみ"
+        },
+        {
+          "videoId": "mFPteRVJgq4",
+          "videoTitle": "【歌枠】片思い・失恋ソング縛りの切ない心に寄り添う歌枠【白城ネロ/#新人Vtuber】",
+          "channelName": "白城ネロ",
+          "publishedAt": "2026-09-28T02:13:07.807Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mFPteRVJgq4/hqdefault.jpg",
+          "sourcePath": "sources/mF/mFPteRVJgq4.json",
+          "time": "1:13:37",
+          "seconds": 4417,
+          "songTitle": "側にいて",
+          "artist": "一番のみ"
+        }
+      ],
+      "detailPath": "entities/artists/04dfce38a0fb8644.json"
+    },
+    {
+      "rank": 3206,
       "id": "085af4d195fb8266",
       "name": "一靑 窈",
       "secondary": "",
@@ -52,7 +277,7 @@
       "detailPath": "entities/artists/085af4d195fb8266.json"
     },
     {
-      "rank": 3202,
+      "rank": 3207,
       "id": "dfe836f6c9ef1013",
       "name": "因幡晃",
       "secondary": "",
@@ -97,7 +322,7 @@
       "detailPath": "entities/artists/dfe836f6c9ef1013.json"
     },
     {
-      "rank": 3203,
+      "rank": 3208,
       "id": "c9ce9c3707abab0a",
       "name": "陰陽座 ※JOYSOUND",
       "secondary": "",
@@ -142,7 +367,7 @@
       "detailPath": "entities/artists/c9ce9c3707abab0a.json"
     },
     {
-      "rank": 3204,
+      "rank": 3209,
       "id": "48715c85de433260",
       "name": "宇多田ヒカル featuring 椎名林檎",
       "secondary": "",
@@ -187,7 +412,7 @@
       "detailPath": "entities/artists/48715c85de433260.json"
     },
     {
-      "rank": 3205,
+      "rank": 3210,
       "id": "9cb186ee24c673c2",
       "name": "宇多田ヒカルと米津玄師",
       "secondary": "",
@@ -232,7 +457,7 @@
       "detailPath": "entities/artists/9cb186ee24c673c2.json"
     },
     {
-      "rank": 3206,
+      "rank": 3211,
       "id": "16f68b4c0eb40099",
       "name": "宇多田光",
       "secondary": "",
@@ -277,7 +502,7 @@
       "detailPath": "entities/artists/16f68b4c0eb40099.json"
     },
     {
-      "rank": 3207,
+      "rank": 3212,
       "id": "b3454313ec5927e1",
       "name": "宇徳敬子",
       "secondary": "",
@@ -322,7 +547,7 @@
       "detailPath": "entities/artists/b3454313ec5927e1.json"
     },
     {
-      "rank": 3208,
+      "rank": 3213,
       "id": "28c5f7207e9eee96",
       "name": "羽入 ( CV : 堀江 由衣 )",
       "secondary": "",
@@ -367,7 +592,7 @@
       "detailPath": "entities/artists/28c5f7207e9eee96.json"
     },
     {
-      "rank": 3209,
+      "rank": 3214,
       "id": "f5efabcb33b83f3e",
       "name": "卯花ロク",
       "secondary": "",
@@ -412,7 +637,7 @@
       "detailPath": "entities/artists/f5efabcb33b83f3e.json"
     },
     {
-      "rank": 3210,
+      "rank": 3215,
       "id": "9faca3a7656e2a21",
       "name": "卯木千景(CV:羽多野渉)",
       "secondary": "",
@@ -457,7 +682,7 @@
       "detailPath": "entities/artists/9faca3a7656e2a21.json"
     },
     {
-      "rank": 3211,
+      "rank": 3216,
       "id": "73e008ec745917e1",
       "name": "雲浩影",
       "secondary": "",
@@ -502,7 +727,7 @@
       "detailPath": "entities/artists/73e008ec745917e1.json"
     },
     {
-      "rank": 3212,
+      "rank": 3217,
       "id": "c6cc35b2f8a856b5",
       "name": "影山ヒロノブ（ドラゴンボールZ ED）",
       "secondary": "",
@@ -547,7 +772,7 @@
       "detailPath": "entities/artists/c6cc35b2f8a856b5.json"
     },
     {
-      "rank": 3213,
+      "rank": 3218,
       "id": "f9be9b8ea08f28bc",
       "name": "詠音ガト",
       "secondary": "",
@@ -592,7 +817,7 @@
       "detailPath": "entities/artists/f9be9b8ea08f28bc.json"
     },
     {
-      "rank": 3214,
+      "rank": 3219,
       "id": "e4e98f6388cf1f6b",
       "name": "越路吹雪",
       "secondary": "",
@@ -637,7 +862,7 @@
       "detailPath": "entities/artists/e4e98f6388cf1f6b.json"
     },
     {
-      "rank": 3215,
+      "rank": 3220,
       "id": "17aeca63fd0a4942",
       "name": "園田智代子（白石晴香）",
       "secondary": "",
@@ -682,7 +907,7 @@
       "detailPath": "entities/artists/17aeca63fd0a4942.json"
     },
     {
-      "rank": 3216,
+      "rank": 3221,
       "id": "e62f1fd1c77bc9b4",
       "name": "奥華子 (時をかける少女)",
       "secondary": "",
@@ -727,7 +952,7 @@
       "detailPath": "entities/artists/e62f1fd1c77bc9b4.json"
     },
     {
-      "rank": 3217,
+      "rank": 3222,
       "id": "fa7a1b92b308f955",
       "name": "横山だいすけ・三谷たくみ",
       "secondary": "",
@@ -769,7 +994,7 @@
       "detailPath": "entities/artists/fa7a1b92b308f955.json"
     },
     {
-      "rank": 3218,
+      "rank": 3223,
       "id": "138ba7b95e2e5bed",
       "name": "横山智佐&帝国歌劇団",
       "secondary": "",
@@ -814,7 +1039,7 @@
       "detailPath": "entities/artists/138ba7b95e2e5bed.json"
     },
     {
-      "rank": 3219,
+      "rank": 3224,
       "id": "a884121248a8e8c2",
       "name": "王艷薇",
       "secondary": "",
@@ -859,7 +1084,7 @@
       "detailPath": "entities/artists/a884121248a8e8c2.json"
     },
     {
-      "rank": 3220,
+      "rank": 3225,
       "id": "05018634bfe58a18",
       "name": "岡部啓一 feat. 河野万里奈",
       "secondary": "",
@@ -904,7 +1129,7 @@
       "detailPath": "entities/artists/05018634bfe58a18.json"
     },
     {
-      "rank": 3221,
+      "rank": 3226,
       "id": "bde3f012414bf55f",
       "name": "岡林信康",
       "secondary": "",
@@ -950,7 +1175,7 @@
       "detailPath": "entities/artists/bde3f012414bf55f.json"
     },
     {
-      "rank": 3222,
+      "rank": 3227,
       "id": "e96a737d0ef5cb3e",
       "name": "音羽奏來",
       "secondary": "",
@@ -995,7 +1220,7 @@
       "detailPath": "entities/artists/e96a737d0ef5cb3e.json"
     },
     {
-      "rank": 3223,
+      "rank": 3228,
       "id": "3efadefb4feedb81",
       "name": "音莉飴",
       "secondary": "",
@@ -1037,7 +1262,7 @@
       "detailPath": "entities/artists/3efadefb4feedb81.json"
     },
     {
-      "rank": 3224,
+      "rank": 3229,
       "id": "b8f114313f462e81",
       "name": "仮面ライダー響鬼",
       "secondary": "",
@@ -1082,7 +1307,7 @@
       "detailPath": "entities/artists/b8f114313f462e81.json"
     },
     {
-      "rank": 3225,
+      "rank": 3230,
       "id": "00fc88faeea09a8f",
       "name": "加山雄三",
       "secondary": "",
@@ -1127,7 +1352,7 @@
       "detailPath": "entities/artists/00fc88faeea09a8f.json"
     },
     {
-      "rank": 3226,
+      "rank": 3231,
       "id": "5b5d9c41a8dfcf3a",
       "name": "可憐なアイボリー",
       "secondary": "",
@@ -1172,7 +1397,7 @@
       "detailPath": "entities/artists/5b5d9c41a8dfcf3a.json"
     },
     {
-      "rank": 3227,
+      "rank": 3232,
       "id": "db7f976814368f40",
       "name": "夏山よつぎ feat. 初音ミク",
       "secondary": "",
@@ -1217,7 +1442,7 @@
       "detailPath": "entities/artists/db7f976814368f40.json"
     },
     {
-      "rank": 3228,
+      "rank": 3233,
       "id": "f10201679bda34ef",
       "name": "夏代孝明 feat. 初音ミク",
       "secondary": "",
@@ -1262,7 +1487,7 @@
       "detailPath": "entities/artists/f10201679bda34ef.json"
     },
     {
-      "rank": 3229,
+      "rank": 3234,
       "id": "9d6e96cb99881cbf",
       "name": "歌愛ユキ",
       "secondary": "",
@@ -1307,7 +1532,7 @@
       "detailPath": "entities/artists/9d6e96cb99881cbf.json"
     },
     {
-      "rank": 3230,
+      "rank": 3235,
       "id": "5eb71d7ca2ddf769",
       "name": "河邉千恵子",
       "secondary": "",
@@ -1352,7 +1577,7 @@
       "detailPath": "entities/artists/5eb71d7ca2ddf769.json"
     },
     {
-      "rank": 3231,
+      "rank": 3236,
       "id": "a85d618ec41600ce",
       "name": "花海咲季(長月あおい)",
       "secondary": "",
@@ -1397,7 +1622,7 @@
       "detailPath": "entities/artists/a85d618ec41600ce.json"
     },
     {
-      "rank": 3232,
+      "rank": 3237,
       "id": "a3c4b39fde45c6aa",
       "name": "花咲くいろは",
       "secondary": "",
@@ -1442,7 +1667,7 @@
       "detailPath": "entities/artists/a3c4b39fde45c6aa.json"
     },
     {
-      "rank": 3233,
+      "rank": 3238,
       "id": "9ad3ce83290b531c",
       "name": "花譜, ツミキ",
       "secondary": "",
@@ -1487,7 +1712,7 @@
       "detailPath": "entities/artists/9ad3ce83290b531c.json"
     },
     {
-      "rank": 3234,
+      "rank": 3239,
       "id": "66180ff80b2e8d6b",
       "name": "海援隊",
       "secondary": "",
@@ -1532,7 +1757,7 @@
       "detailPath": "entities/artists/66180ff80b2e8d6b.json"
     },
     {
-      "rank": 3235,
+      "rank": 3240,
       "id": "b8988abcccb7decb",
       "name": "開演:12:30",
       "secondary": "",
@@ -1574,7 +1799,7 @@
       "detailPath": "entities/artists/b8988abcccb7decb.json"
     },
     {
-      "rank": 3236,
+      "rank": 3241,
       "id": "bbd4a5aec6adc2fe",
       "name": "開演挨拶",
       "secondary": "",
@@ -1619,7 +1844,52 @@
       "detailPath": "entities/artists/bbd4a5aec6adc2fe.json"
     },
     {
-      "rank": 3237,
+      "rank": 3242,
+      "id": "f01623f82003d96d",
+      "name": "葛城リーリヤ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "duVXmdHBFH4",
+          "videoTitle": "【#推し前／歌枠リレー】PONはしていないと信じて👀【 #糸街つむぎ 】",
+          "channelName": "糸街 / Itomachi",
+          "publishedAt": "2026-10-12T09:02:17.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/duVXmdHBFH4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDFv2USL0x4tHjNsx0yEsvIhTwwA",
+          "sourcePath": "sources/du/duVXmdHBFH4.json",
+          "time": "0:09:51",
+          "seconds": 591,
+          "songTitle": "白線",
+          "artist": "葛城リーリヤ"
+        },
+        {
+          "videoId": "uJ4LUYB65gw",
+          "videoTitle": "【#歌枠】初見さんも１曲きいていきませんかっ【＃karaoke #ドドドメテオ #VTuber】",
+          "channelName": "ドドドメテオ",
+          "publishedAt": "2026-09-18T16:50:52.262Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uJ4LUYB65gw/hqdefault.jpg",
+          "sourcePath": "sources/uJ/uJ4LUYB65gw.json",
+          "time": "0:04:07",
+          "seconds": 247,
+          "songTitle": "白線",
+          "artist": "葛城リーリヤ"
+        }
+      ],
+      "detailPath": "entities/artists/f01623f82003d96d.json"
+    },
+    {
+      "rank": 3243,
       "id": "09837cb525aba93b",
       "name": "茅原実里 ／ ヴァイオレット・エヴァーガーデン(2018年)",
       "secondary": "",
@@ -1661,7 +1931,7 @@
       "detailPath": "entities/artists/09837cb525aba93b.json"
     },
     {
-      "rank": 3238,
+      "rank": 3244,
       "id": "cd22bf925f6c46f4",
       "name": "岩崎良美（アニメ「タッチ」OP）",
       "secondary": "",
@@ -1703,7 +1973,7 @@
       "detailPath": "entities/artists/cd22bf925f6c46f4.json"
     },
     {
-      "rank": 3239,
+      "rank": 3245,
       "id": "e53d0936a82bda84",
       "name": "幾多りら",
       "secondary": "",
@@ -1748,7 +2018,7 @@
       "detailPath": "entities/artists/e53d0936a82bda84.json"
     },
     {
-      "rank": 3240,
+      "rank": 3246,
       "id": "b5b1208362cd8f76",
       "name": "機動戦士ガンダム0080 ポケットの中の戦争",
       "secondary": "",
@@ -1793,7 +2063,7 @@
       "detailPath": "entities/artists/b5b1208362cd8f76.json"
     },
     {
-      "rank": 3241,
+      "rank": 3247,
       "id": "ea23f97a0a91b6af",
       "name": "機動武闘伝Gガンダム",
       "secondary": "",
@@ -1835,7 +2105,7 @@
       "detailPath": "entities/artists/ea23f97a0a91b6af.json"
     },
     {
-      "rank": 3242,
+      "rank": 3248,
       "id": "a772519273dbb50f",
       "name": "鬼束ちひろ ※JOYSOUND",
       "secondary": "",
@@ -1880,7 +2150,7 @@
       "detailPath": "entities/artists/a772519273dbb50f.json"
     },
     {
-      "rank": 3243,
+      "rank": 3249,
       "id": "6b1eda5cdb0ee409",
       "name": "鬼滅の刃 Demon Slayer",
       "secondary": "",
@@ -1925,7 +2195,7 @@
       "detailPath": "entities/artists/6b1eda5cdb0ee409.json"
     },
     {
-      "rank": 3244,
+      "rank": 3250,
       "id": "ef769ca2bf45772f",
       "name": "吉本おじさん",
       "secondary": "",
@@ -1968,276 +2238,6 @@
         }
       ],
       "detailPath": "entities/artists/ef769ca2bf45772f.json"
-    },
-    {
-      "rank": 3245,
-      "id": "b93ca2ded9a67228",
-      "name": "久石譲",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "fuynP37AwKQ",
-          "videoTitle": "🎤〘 #雑談 #歌枠 〙楽しく歌ったり話したりしよう！🫸🏻🎤🫷🏻🤍 Talking/Karaoke〘 花百合ちゅみ/ぶいぱい 〙",
-          "channelName": "花百合ちゅみ / Hanayuri Chumi",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/fuynP37AwKQ/hqdefault.jpg",
-          "sourcePath": "sources/fu/fuynP37AwKQ.json",
-          "time": "3:20:41",
-          "seconds": 12041,
-          "songTitle": "君をのせて",
-          "artist": "久石譲"
-        },
-        {
-          "videoId": "9iWfcis8L9k",
-          "videoTitle": "【 歌枠 / Karaoke 】日曜定期歌枠𝜗𝜚.⋆ 朝から後輩ちゃんの歌声をお届け🎀🔔‎🤍Singing Stream【 #鈴花いのり 】",
-          "channelName": "鈴花いのり - Suzuhana Inori -",
-          "publishedAt": "2026-09-20T04:00:46.232Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9iWfcis8L9k/hqdefault.jpg",
-          "sourcePath": "sources/9i/9iWfcis8L9k.json",
-          "time": "0:42:31",
-          "seconds": 2551,
-          "songTitle": "崖の上のポニョ",
-          "artist": "久石譲"
-        }
-      ],
-      "detailPath": "entities/artists/b93ca2ded9a67228.json"
-    },
-    {
-      "rank": 3246,
-      "id": "83a57a690026db3a",
-      "name": "久保田利伸 with ナオミ・キャンベル",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "g8c4g7XBub0",
-          "videoTitle": "【 #歌枠 】縛らなくても懐メロ縛り歌枠になるメイドの懐メロ縛り歌枠🎵月曜定例歌枠【#望月うとと / #新人vtuber 】",
-          "channelName": "望月うとと",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/g8c4g7XBub0/hqdefault.jpg",
-          "sourcePath": "sources/g8/g8c4g7XBub0.json",
-          "time": "2:00:47",
-          "seconds": 7247,
-          "songTitle": "LA・LA・LA LOVE SONG",
-          "artist": "久保田利伸 with ナオミ・キャンベル"
-        },
-        {
-          "videoId": "9g8spxhfnZI",
-          "videoTitle": "【#歌枠 】6周年前のワクワク配信！サプライズあるかも？！【ボイトレVTuber / みかん先生】",
-          "channelName": "みかんとボーカルノート",
-          "publishedAt": "2026-09-16T15:53:50.175Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9g8spxhfnZI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCRp6xB45ue9Fvr3w2rBl9vb4tHQA",
-          "sourcePath": "sources/9g/9g8spxhfnZI.json",
-          "time": "0:32:01",
-          "seconds": 1921,
-          "songTitle": "LA･LA･LA LOVESONG",
-          "artist": "久保田利伸 with ナオミ・キャンベル"
-        }
-      ],
-      "detailPath": "entities/artists/83a57a690026db3a.json"
-    },
-    {
-      "rank": 3247,
-      "id": "38eb23d684e09695",
-      "name": "久宝留理子",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vEd8dbSBYYI",
-          "videoTitle": "55ヶ月記念 歌枠 お待たせリクエスト版",
-          "channelName": "ちひろ",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vEd8dbSBYYI/hqdefault.jpg",
-          "sourcePath": "sources/vE/vEd8dbSBYYI.json",
-          "time": "0:05:28",
-          "seconds": 328,
-          "songTitle": "男",
-          "artist": "久宝留理子"
-        },
-        {
-          "videoId": "MpcGz3chlGI",
-          "videoTitle": "【#懐メロ歌枠 #らんちぅ寿希】「ただいま」を聞かせて！2時間ノンストップ歌枠！70、80、90年代のヒット曲をお届け【#Vtuber #KARAOKE】",
-          "channelName": "らんちぅ寿希Live",
-          "publishedAt": "2026-09-16T10:53:28.881Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MpcGz3chlGI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpLA2845mLGKag1mk-PdwX3fjIDg",
-          "sourcePath": "sources/Mp/MpcGz3chlGI.json",
-          "time": "0:26:08",
-          "seconds": 1568,
-          "songTitle": "男",
-          "artist": "久宝留理子"
-        }
-      ],
-      "detailPath": "entities/artists/38eb23d684e09695.json"
-    },
-    {
-      "rank": 3248,
-      "id": "8661e80057ba5e1d",
-      "name": "宮永咲(植田佳奈)・原村和(小清水亜美)・片岡優希(釘宮理恵)・染谷まこ(白石涼子)・竹井久(伊藤静)",
-      "secondary": "",
-      "channelId": "UC0k94teBw8DAU0WCN_B-5LA",
-      "channelHandle": "@utaekokaze",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "qK_AZkoq3gI",
-          "videoTitle": "【縦型歌枠】高評価50→80目指したい！初見さん◎アニソン・ボカロ歌います！【さきのん/VPL】カラオケJOYSOUND for STREAMER",
-          "channelName": "さきのん-Sakinon-",
-          "publishedAt": "2026-10-07T23:12:38.288Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qK_AZkoq3gI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOS9sfUmL1vIsHtlq_4hM1aLLulA",
-          "sourcePath": "sources/qK/qK_AZkoq3gI.json",
-          "time": "1:43:53",
-          "seconds": 6233,
-          "songTitle": "熱烈歓迎わんだーらんど",
-          "artist": "宮永咲(植田佳奈)・原村和(小清水亜美)・片岡優希(釘宮理恵)・染谷まこ(白石涼子)・竹井久(伊藤静)"
-        },
-        {
-          "videoId": "edjnbKEUGU0",
-          "videoTitle": "【歌枠/Singing Stream】ドカ食い気絶界隈の歌枠【歌枝小風/Vtuber 】",
-          "channelName": "歌枝小風🎐🍃Utae Kokaze",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/edjnbKEUGU0/hqdefault.jpg",
-          "sourcePath": "sources/ed/edjnbKEUGU0.json",
-          "time": "0:07:48",
-          "seconds": 468,
-          "songTitle": "熱烈歓迎わんだーらんど",
-          "artist": "宮永咲(植田佳奈)・原村和(小清水亜美)・片岡優希(釘宮理恵)・染谷まこ(白石涼子)・竹井久(伊藤静)"
-        }
-      ],
-      "detailPath": "entities/artists/8661e80057ba5e1d.json"
-    },
-    {
-      "rank": 3249,
-      "id": "b43a02cd049ccce8",
-      "name": "宮守文学",
-      "secondary": "",
-      "channelId": "UCWng1u1hgW6pJ6VLyypDl5A",
-      "channelHandle": "@CoCoLuce_44",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "e0wICP4cRnc",
-          "videoTitle": "【#歌枠 /karaoke】10月がはじまったので突発深夜歌枠【月季折まふゆ/ #個人勢Vtuber 】",
-          "channelName": "月季折まふゆ -Tsukiori Mafuyu-",
-          "publishedAt": "2026-09-30T19:14:17.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/e0wICP4cRnc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZxbhRGlLVuFnHESkANnSp1-mVHg",
-          "sourcePath": "sources/e0/e0wICP4cRnc.json",
-          "time": "2:01:13",
-          "seconds": 7273,
-          "songTitle": "main dishが足りてない",
-          "artist": "宮守文学"
-        },
-        {
-          "videoId": "Z3LExPMIIEs",
-          "videoTitle": "【 #歌枠 】1時間で高評価50チャレンジ✨よろしければ一曲いかがですか🎤【 #彼誰海澄 / #新人VTuber 】",
-          "channelName": "・*♢CoCoLuce♢*・",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Z3LExPMIIEs/hqdefault.jpg",
-          "sourcePath": "sources/Z3/Z3LExPMIIEs.json",
-          "time": "0:43:58",
-          "seconds": 2638,
-          "songTitle": "パリィ",
-          "artist": "宮守文学"
-        }
-      ],
-      "detailPath": "entities/artists/b43a02cd049ccce8.json"
-    },
-    {
-      "rank": 3250,
-      "id": "144ec662bcdfce15",
-      "name": "宮内れんげ(小岩井ことり)・一条蛍(村川梨衣)・越谷夏海(佐倉綾音)・越谷小鞠(阿澄佳奈)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RNQBJ-jwfyM",
-          "videoTitle": "【歌枠/karaoke】即終了あり！癒しの歌枠🎤✨#新人vtuber #歌枠",
-          "channelName": "鏡愛しゅくり",
-          "publishedAt": "2026-09-15T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RNQBJ-jwfyM/hqdefault.jpg",
-          "sourcePath": "sources/RN/RNQBJ-jwfyM.json",
-          "time": "0:23:53",
-          "seconds": 1433,
-          "songTitle": "おかえり",
-          "artist": "宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)"
-        },
-        {
-          "videoId": "vhdTWvX106A",
-          "videoTitle": "【歌枠】日曜日が恒例になりつつあるアニソン歌枠【ぶいすぽ/花芽なずな】",
-          "channelName": "花芽なずな / Nazuna Kaga",
-          "publishedAt": "2026-09-13T15:02:52.759Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vhdTWvX106A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDB8Vo3WovK6FueYHoRJ7eCv2gUTA",
-          "sourcePath": "sources/vh/vhdTWvX106A.json",
-          "time": "1:10:30",
-          "seconds": 4230,
-          "songTitle": "のんのん日和",
-          "artist": "宮内れんげ(小岩井ことり)・一条蛍(村川梨衣)・越谷夏海(佐倉綾音)・越谷小鞠(阿澄佳奈)"
-        }
-      ],
-      "detailPath": "entities/artists/144ec662bcdfce15.json"
     }
   ]
 }

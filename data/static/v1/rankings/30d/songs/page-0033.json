@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "30d",
   "type": "songs",
   "page": 33,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27675,
+  "totalCount": 27698,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1601,
+      "id": "7e7cc7316fa1e541",
+      "name": "My Heart Will Go On",
+      "secondary": "Celine Dion",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 7,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "04wkHSYPUNQ",
+          "videoTitle": "【 歌枠 】夜の落ち着く歌枠【アイドル目指す #Vtuber】",
+          "channelName": "彩水凛兎 / Riu Ch.",
+          "publishedAt": "2026-10-03T16:04:35.198Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/04wkHSYPUNQ/hqdefault.jpg",
+          "sourcePath": "sources/04/04wkHSYPUNQ.json",
+          "time": "0:54:21",
+          "seconds": 3261,
+          "songTitle": "MY HEART WILL GO ON",
+          "artist": "Celine Dion"
+        },
+        {
+          "videoId": "oR5gR8HB18w",
+          "videoTitle": "「 ＃マスコット大集合歌枠リレー 」ぶっとびてんしょんなライオンはココにいるよ👀✨ #もふもふれいあ🐾",
+          "channelName": "もふもふれいあ🐾",
+          "publishedAt": "2026-09-27T21:55:45.212Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oR5gR8HB18w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC68-_-ZhZU6J1AByMcKie_873Hxg",
+          "sourcePath": "sources/oR/oR5gR8HB18w.json",
+          "time": "0:03:44",
+          "seconds": 224,
+          "songTitle": "My Heart Will Go On",
+          "artist": "Celine Dion"
+        },
+        {
+          "videoId": "WTpwTUnto4s",
+          "videoTitle": "#歌枠｜初見さん大歓迎🌟ボカロ・JPOP・アニソン・懐メロ！ #個人勢vtuber",
+          "channelName": "nil ch. ニル〖一緒に、今日を楽しんで〗",
+          "publishedAt": "2026-09-25T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WTpwTUnto4s/hqdefault.jpg",
+          "sourcePath": "sources/WT/WTpwTUnto4s.json",
+          "time": "1:50:01",
+          "seconds": 6601,
+          "songTitle": "My Heart Will Go On",
+          "artist": "Celine Dion"
+        }
+      ],
+      "detailPath": "entities/songs/7e7cc7316fa1e541.json"
+    },
+    {
+      "rank": 1602,
       "id": "e7be7fc5717d6e8a",
       "name": "My song",
       "secondary": "角巻わため",
@@ -67,7 +124,7 @@
       "detailPath": "entities/songs/e7be7fc5717d6e8a.json"
     },
     {
-      "rank": 1602,
+      "rank": 1603,
       "id": "4c602a2dd62c00df",
       "name": "Precious",
       "secondary": "伊藤由奈",
@@ -124,7 +181,7 @@
       "detailPath": "entities/songs/4c602a2dd62c00df.json"
     },
     {
-      "rank": 1603,
+      "rank": 1604,
       "id": "b3a8fcd397ef74ac",
       "name": "RAGE OF DUST",
       "secondary": "SPYAIR",
@@ -181,7 +238,7 @@
       "detailPath": "entities/songs/b3a8fcd397ef74ac.json"
     },
     {
-      "rank": 1604,
+      "rank": 1605,
       "id": "843fe2345286b6e4",
       "name": "rain stops, good-bye",
       "secondary": "におP feat. 初音ミク",
@@ -239,7 +296,7 @@
       "detailPath": "entities/songs/843fe2345286b6e4.json"
     },
     {
-      "rank": 1605,
+      "rank": 1606,
       "id": "853ccdc52ba3767c",
       "name": "Shuffle",
       "secondary": "奥井雅美",
@@ -296,7 +353,7 @@
       "detailPath": "entities/songs/853ccdc52ba3767c.json"
     },
     {
-      "rank": 1606,
+      "rank": 1607,
       "id": "a87c5294a18d6296",
       "name": "Silly-Go-Round",
       "secondary": "FictionJunction YUUKA",
@@ -353,7 +410,7 @@
       "detailPath": "entities/songs/a87c5294a18d6296.json"
     },
     {
-      "rank": 1607,
+      "rank": 1608,
       "id": "aaa3615451e95803",
       "name": "Snow fairy",
       "secondary": "FUNKIST",
@@ -410,7 +467,7 @@
       "detailPath": "entities/songs/aaa3615451e95803.json"
     },
     {
-      "rank": 1608,
+      "rank": 1609,
       "id": "744f1dd7d0e55f90",
       "name": "Sparkling Daydream",
       "secondary": "ZAQ",
@@ -467,7 +524,64 @@
       "detailPath": "entities/songs/744f1dd7d0e55f90.json"
     },
     {
-      "rank": 1609,
+      "rank": 1610,
+      "id": "b8630a8296c2ce41",
+      "name": "SpiralNights",
+      "secondary": "羽月うずな",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 7,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "a6kB4HgDThs",
+          "videoTitle": "⸜ #歌枠 #耐久⸝ 同接30目標!!好きな歌を歌います!! ᎒ #羽月うずな #逃げやがったぞおぃ #Vtuber ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-10-12T11:41:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a6kB4HgDThs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTvgo8qdZvBidXhiWX45tGCnsI7A",
+          "sourcePath": "sources/a6/a6kB4HgDThs.json",
+          "time": "2:28:51",
+          "seconds": 8931,
+          "songTitle": "SpiralNights",
+          "artist": "羽月うずな"
+        },
+        {
+          "videoId": "lxZlvvUId0k",
+          "videoTitle": "⸜ #歌枠 ⸝ ただいま!!夜のリハビリ歌枠🌙高評価50以上目指そう。 ᎒ #羽月うずな #逃げやがったぞおぃ #Vtuber ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-10-03T15:15:28.694Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/lxZlvvUId0k/hqdefault.jpg",
+          "sourcePath": "sources/lx/lxZlvvUId0k.json",
+          "time": "2:00:46",
+          "seconds": 7246,
+          "songTitle": "SpiralNights",
+          "artist": "羽月うずな"
+        },
+        {
+          "videoId": "ZOXX1F1PuDg",
+          "videoTitle": "⸜ #歌枠 #耐久 ⸝ 高評価100❤ 激レア!!低音ボイスで歌い、喋ります。 ᎒ #羽月うずな #逃げやがったぞおぃ ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-09-26T12:58:23.814Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZOXX1F1PuDg/hqdefault.jpg",
+          "sourcePath": "sources/ZO/ZOXX1F1PuDg.json",
+          "time": "3:20:14",
+          "seconds": 12014,
+          "songTitle": "SpiralNights",
+          "artist": "羽月うずな"
+        }
+      ],
+      "detailPath": "entities/songs/b8630a8296c2ce41.json"
+    },
+    {
+      "rank": 1611,
       "id": "cbaa71948c571f3a",
       "name": "SPIRIT",
       "secondary": "PAMELAH",
@@ -524,7 +638,7 @@
       "detailPath": "entities/songs/cbaa71948c571f3a.json"
     },
     {
-      "rank": 1610,
+      "rank": 1612,
       "id": "7d6bc4eb1d0e81cc",
       "name": "SSW",
       "secondary": "コレサワ",
@@ -582,7 +696,7 @@
       "detailPath": "entities/songs/7d6bc4eb1d0e81cc.json"
     },
     {
-      "rank": 1611,
+      "rank": 1613,
       "id": "f5462213ba41619f",
       "name": "STAY AWAY",
       "secondary": "L'Arc〜en〜Ciel",
@@ -639,7 +753,7 @@
       "detailPath": "entities/songs/f5462213ba41619f.json"
     },
     {
-      "rank": 1612,
+      "rank": 1614,
       "id": "d12d8d99d52e2e4f",
       "name": "SUNNY DAY SONG",
       "secondary": "μ's",
@@ -696,7 +810,7 @@
       "detailPath": "entities/songs/d12d8d99d52e2e4f.json"
     },
     {
-      "rank": 1613,
+      "rank": 1615,
       "id": "1bd7e543e6e75676",
       "name": "The Bravery",
       "secondary": "supercell",
@@ -753,7 +867,7 @@
       "detailPath": "entities/songs/1bd7e543e6e75676.json"
     },
     {
-      "rank": 1614,
+      "rank": 1616,
       "id": "0b71cf2966c5e550",
       "name": "The Rumbling",
       "secondary": "SiM",
@@ -810,7 +924,7 @@
       "detailPath": "entities/songs/0b71cf2966c5e550.json"
     },
     {
-      "rank": 1615,
+      "rank": 1617,
       "id": "a909981522d6b28c",
       "name": "TRUE LOVE",
       "secondary": "藤井フミヤ",
@@ -867,7 +981,7 @@
       "detailPath": "entities/songs/a909981522d6b28c.json"
     },
     {
-      "rank": 1616,
+      "rank": 1618,
       "id": "0d2c505fe9115d13",
       "name": "tune the rainbow",
       "secondary": "坂本真綾",
@@ -924,7 +1038,7 @@
       "detailPath": "entities/songs/0d2c505fe9115d13.json"
     },
     {
-      "rank": 1617,
+      "rank": 1619,
       "id": "3ac1aafb71921ef0",
       "name": "Unravel",
       "secondary": "",
@@ -981,7 +1095,7 @@
       "detailPath": "entities/songs/3ac1aafb71921ef0.json"
     },
     {
-      "rank": 1618,
+      "rank": 1620,
       "id": "5cf8c3ded067c54a",
       "name": "VALENTI",
       "secondary": "BoA",
@@ -1038,7 +1152,7 @@
       "detailPath": "entities/songs/5cf8c3ded067c54a.json"
     },
     {
-      "rank": 1619,
+      "rank": 1621,
       "id": "3cac63d0d12b8d3f",
       "name": "Yes! 東京",
       "secondary": "EBiDAN",
@@ -1095,7 +1209,7 @@
       "detailPath": "entities/songs/3cac63d0d12b8d3f.json"
     },
     {
-      "rank": 1620,
+      "rank": 1622,
       "id": "e7a1526c5aaafaf0",
       "name": "あいさつ",
       "secondary": "",
@@ -1152,7 +1266,7 @@
       "detailPath": "entities/songs/e7a1526c5aaafaf0.json"
     },
     {
-      "rank": 1621,
+      "rank": 1623,
       "id": "6bd718ceab93a5f0",
       "name": "アイドルライフスターターパック",
       "secondary": "iLiFE!",
@@ -1209,7 +1323,7 @@
       "detailPath": "entities/songs/6bd718ceab93a5f0.json"
     },
     {
-      "rank": 1622,
+      "rank": 1624,
       "id": "e490c4f22ee5a1b8",
       "name": "アゲハ蝶",
       "secondary": "",
@@ -1266,7 +1380,7 @@
       "detailPath": "entities/songs/e490c4f22ee5a1b8.json"
     },
     {
-      "rank": 1623,
+      "rank": 1625,
       "id": "619eaa96568bc20d",
       "name": "アスノヨゾラ哨戒班",
       "secondary": "",
@@ -1323,7 +1437,7 @@
       "detailPath": "entities/songs/619eaa96568bc20d.json"
     },
     {
-      "rank": 1624,
+      "rank": 1626,
       "id": "e04b69b83ec51c98",
       "name": "あなたに逢いたくて~Missing You~",
       "secondary": "松田聖子",
@@ -1380,7 +1494,7 @@
       "detailPath": "entities/songs/e04b69b83ec51c98.json"
     },
     {
-      "rank": 1625,
+      "rank": 1627,
       "id": "4e4bec31b0b7e67f",
       "name": "アンパンマンたいそう",
       "secondary": "ドリーミング",
@@ -1438,7 +1552,7 @@
       "detailPath": "entities/songs/4e4bec31b0b7e67f.json"
     },
     {
-      "rank": 1626,
+      "rank": 1628,
       "id": "631fb2846ba56acd",
       "name": "いーあるふぁんくらぶ",
       "secondary": "",
@@ -1495,7 +1609,7 @@
       "detailPath": "entities/songs/631fb2846ba56acd.json"
     },
     {
-      "rank": 1627,
+      "rank": 1629,
       "id": "665594d53cc5b593",
       "name": "いさな",
       "secondary": "ヨルシカ",
@@ -1553,7 +1667,7 @@
       "detailPath": "entities/songs/665594d53cc5b593.json"
     },
     {
-      "rank": 1628,
+      "rank": 1630,
       "id": "49d74622be1723e3",
       "name": "イザナギ・エルヴァ",
       "secondary": "IZANAGI ELVA",
@@ -1607,7 +1721,7 @@
       "detailPath": "entities/songs/49d74622be1723e3.json"
     },
     {
-      "rank": 1629,
+      "rank": 1631,
       "id": "66f747c942a8d264",
       "name": "インフェルノ",
       "secondary": "",
@@ -1664,7 +1778,7 @@
       "detailPath": "entities/songs/66f747c942a8d264.json"
     },
     {
-      "rank": 1630,
+      "rank": 1632,
       "id": "e19840fd8bbdb8f1",
       "name": "インモラリスト",
       "secondary": "堀江由衣",
@@ -1721,7 +1835,7 @@
       "detailPath": "entities/songs/e19840fd8bbdb8f1.json"
     },
     {
-      "rank": 1631,
+      "rank": 1633,
       "id": "bd5f6fd1d5056aef",
       "name": "ウィーアー",
       "secondary": "",
@@ -1778,7 +1892,7 @@
       "detailPath": "entities/songs/bd5f6fd1d5056aef.json"
     },
     {
-      "rank": 1632,
+      "rank": 1634,
       "id": "e1ab4641196a832b",
       "name": "ウェカピポ",
       "secondary": "SOUL'd OUT",
@@ -1835,7 +1949,7 @@
       "detailPath": "entities/songs/e1ab4641196a832b.json"
     },
     {
-      "rank": 1633,
+      "rank": 1635,
       "id": "64d58c0ed2801eab",
       "name": "うそつき",
       "secondary": "めざめP",
@@ -1893,7 +2007,7 @@
       "detailPath": "entities/songs/64d58c0ed2801eab.json"
     },
     {
-      "rank": 1634,
+      "rank": 1636,
       "id": "a9a718ee40c7c765",
       "name": "ウミユリ海底譚",
       "secondary": "n-buna feat. 初音ミク",
@@ -1950,7 +2064,7 @@
       "detailPath": "entities/songs/a9a718ee40c7c765.json"
     },
     {
-      "rank": 1635,
+      "rank": 1637,
       "id": "bf424eb019de6149",
       "name": "うりん",
       "secondary": "Urin",
@@ -2004,7 +2118,7 @@
       "detailPath": "entities/songs/bf424eb019de6149.json"
     },
     {
-      "rank": 1636,
+      "rank": 1638,
       "id": "b2fa095cef0fc587",
       "name": "ウンディーネ",
       "secondary": "牧野由依",
@@ -2061,7 +2175,7 @@
       "detailPath": "entities/songs/b2fa095cef0fc587.json"
     },
     {
-      "rank": 1637,
+      "rank": 1639,
       "id": "137bdecbe6e3fe94",
       "name": "エンゼルフィッシュ",
       "secondary": "パトリチェフ",
@@ -2118,7 +2232,7 @@
       "detailPath": "entities/songs/137bdecbe6e3fe94.json"
     },
     {
-      "rank": 1638,
+      "rank": 1640,
       "id": "b669fad1db7190f9",
       "name": "オーバーライド",
       "secondary": "吉田夜世 feat. 重音テト",
@@ -2175,7 +2289,7 @@
       "detailPath": "entities/songs/b669fad1db7190f9.json"
     },
     {
-      "rank": 1639,
+      "rank": 1641,
       "id": "7a64ee7178ca5c31",
       "name": "おじゃま虫",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -2232,7 +2346,7 @@
       "detailPath": "entities/songs/7a64ee7178ca5c31.json"
     },
     {
-      "rank": 1640,
+      "rank": 1642,
       "id": "f36b7ca7ecb2e2b9",
       "name": "おジャ魔女カーニバル",
       "secondary": "",
@@ -2289,7 +2403,7 @@
       "detailPath": "entities/songs/f36b7ca7ecb2e2b9.json"
     },
     {
-      "rank": 1641,
+      "rank": 1643,
       "id": "433dce5f633ee6c7",
       "name": "おねがいダーリン",
       "secondary": "ナナホシ管弦楽団",
@@ -2346,7 +2460,7 @@
       "detailPath": "entities/songs/433dce5f633ee6c7.json"
     },
     {
-      "rank": 1642,
+      "rank": 1644,
       "id": "c733e131cd4b5734",
       "name": "オンリー ロンリー グローリー",
       "secondary": "BUMP OF CHICKEN",
@@ -2404,7 +2518,7 @@
       "detailPath": "entities/songs/c733e131cd4b5734.json"
     },
     {
-      "rank": 1643,
+      "rank": 1645,
       "id": "370bc197f2a989e1",
       "name": "カオスが極まる",
       "secondary": "UNISON SQUARE GARDEN",
@@ -2461,7 +2575,7 @@
       "detailPath": "entities/songs/370bc197f2a989e1.json"
     },
     {
-      "rank": 1644,
+      "rank": 1646,
       "id": "80ef34430c84cfa6",
       "name": "カガリビト",
       "secondary": "millstones",
@@ -2518,7 +2632,7 @@
       "detailPath": "entities/songs/80ef34430c84cfa6.json"
     },
     {
-      "rank": 1645,
+      "rank": 1647,
       "id": "6e40007cd63b90b7",
       "name": "カトラリー",
       "secondary": "有機酸",
@@ -2575,7 +2689,7 @@
       "detailPath": "entities/songs/6e40007cd63b90b7.json"
     },
     {
-      "rank": 1646,
+      "rank": 1648,
       "id": "9fe6112570633700",
       "name": "カヌレ",
       "secondary": "CHiCO with HoneyWorks",
@@ -2632,7 +2746,7 @@
       "detailPath": "entities/songs/9fe6112570633700.json"
     },
     {
-      "rank": 1647,
+      "rank": 1649,
       "id": "424617fd94bb706b",
       "name": "がらくた",
       "secondary": "米津玄師",
@@ -2689,7 +2803,7 @@
       "detailPath": "entities/songs/424617fd94bb706b.json"
     },
     {
-      "rank": 1648,
+      "rank": 1650,
       "id": "75018219fbd72ab6",
       "name": "キミシダイ列車",
       "secondary": "ONE OK ROCK",
@@ -2744,120 +2858,6 @@
         }
       ],
       "detailPath": "entities/songs/75018219fbd72ab6.json"
-    },
-    {
-      "rank": 1649,
-      "id": "e72c7d9c710e4abd",
-      "name": "キャットラビング",
-      "secondary": "香椎モイミ feat. 可不",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 7,
-      "videoCount": 7,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ZB3CMk-PgVM",
-          "videoTitle": "【#歌枠】初見さん大歓迎◎声良し！ビジュ良し！歌良し！ボカロ縛り歌枠【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-09-27T15:13:07.807Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZB3CMk-PgVM/hqdefault.jpg",
-          "sourcePath": "sources/ZB/ZB3CMk-PgVM.json",
-          "time": "1:12:32",
-          "seconds": 4352,
-          "songTitle": "キャットラビング",
-          "artist": "香椎モイミ feat.可不"
-        },
-        {
-          "videoId": "RXbMZ1Kxtow",
-          "videoTitle": "【#歌枠 】コメント数500耐久歌枠！(縦型配信) #VTuber",
-          "channelName": "あーるくん / R is Vtuber",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RXbMZ1Kxtow/hqdefault.jpg",
-          "sourcePath": "sources/RX/RXbMZ1Kxtow.json",
-          "time": "2:05:58",
-          "seconds": 7558,
-          "songTitle": "キャットラビング",
-          "artist": "香椎モイミ feat.可不"
-        },
-        {
-          "videoId": "guz3d1oKOe0",
-          "videoTitle": "【#歌枠】初見さん大歓迎✧声良し！歌良し！ビジュ良し！見つけた君は勝ち組！【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-09-18T06:29:52.748Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/guz3d1oKOe0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDUwnTASVfi6740SDm4-wTLUR6mEQ",
-          "sourcePath": "sources/gu/guz3d1oKOe0.json",
-          "time": "0:36:13",
-          "seconds": 2173,
-          "songTitle": "キャットラビング",
-          "artist": "香椎モイミ feat.可不"
-        }
-      ],
-      "detailPath": "entities/songs/e72c7d9c710e4abd.json"
-    },
-    {
-      "rank": 1650,
-      "id": "5fa6e97fed28ade1",
-      "name": "キュートなキューたい",
-      "secondary": "CUTIE STREET",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 7,
-      "videoCount": 7,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "r2sBBmSV4GI",
-          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
-          "channelName": "苺咲べりぃ / Maisaki Berry",
-          "publishedAt": "2026-10-07T16:06:49.511Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/r2sBBmSV4GI/hqdefault.jpg",
-          "sourcePath": "sources/r2/r2sBBmSV4GI.json",
-          "time": "0:32:38",
-          "seconds": 1958,
-          "songTitle": "キュートなキューたい",
-          "artist": "CUTIE STREET"
-        },
-        {
-          "videoId": "JsiteUyVb_U",
-          "videoTitle": "【歌枠/飲酒】【花和カヌレ／VTuber】",
-          "channelName": "花和カヌレ",
-          "publishedAt": "2026-10-05T14:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JsiteUyVb_U/hqdefault.jpg",
-          "sourcePath": "sources/Js/JsiteUyVb_U.json",
-          "time": "0:22:32",
-          "seconds": 1352,
-          "songTitle": "キュートなキューたい",
-          "artist": "CUTIE STREET"
-        },
-        {
-          "videoId": "CjGyNU-h-Vc",
-          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！やっとグッズを発売する日！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
-          "channelName": "苺咲べりぃ / Maisaki Berry",
-          "publishedAt": "2026-10-03T16:58:22.698Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/CjGyNU-h-Vc/hqdefault.jpg",
-          "sourcePath": "sources/Cj/CjGyNU-h-Vc.json",
-          "time": "1:37:05",
-          "seconds": 5825,
-          "songTitle": "キュートなキューたい",
-          "artist": "CUTIE STREET"
-        }
-      ],
-      "detailPath": "entities/songs/5fa6e97fed28ade1.json"
     }
   ]
 }

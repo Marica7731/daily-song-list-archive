@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "artists",
   "page": 7,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19991,
+  "totalCount": 19998,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2149,6 +2149,67 @@
     },
     {
       "rank": 336,
+      "id": "2a952221ffe2e3ab",
+      "name": "コブクロ",
+      "secondary": "",
+      "channelId": "UCnYrx-hDfnlBVuO8D8L2ByQ",
+      "channelHandle": "@SHUNA_MGS",
+      "channelUrl": "",
+      "occurrenceCount": 87,
+      "videoCount": 75,
+      "songCount": 27,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "0:07:20",
+          "seconds": 440,
+          "songTitle": "蕾",
+          "artist": "コブクロ"
+        },
+        {
+          "videoId": "u44611FuMOc",
+          "videoTitle": "【#歌枠 】ゲリラ！歌枠するよ～ リクエスト◎ #狐橙明音成長中 #vtuber",
+          "channelName": "狐橙明音",
+          "publishedAt": "2026-10-12T05:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/u44611FuMOc/hqdefault.jpg",
+          "sourcePath": "sources/u4/u44611FuMOc.json",
+          "time": "0:27:53",
+          "seconds": 1673,
+          "songTitle": "蕾",
+          "artist": "コブクロ"
+        },
+        {
+          "videoId": "vTxIai_cOcM",
+          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
+          "channelName": "冬萌ここな",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vTxIai_cOcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5T4vUDv-Vk57R-82lKsYiBvcC6A",
+          "sourcePath": "sources/vT/vTxIai_cOcM.json",
+          "time": "0:50:18",
+          "seconds": 3018,
+          "songTitle": "蕾",
+          "artist": "コブクロ"
+        }
+      ],
+      "detailPath": "entities/artists/2a952221ffe2e3ab.json"
+    },
+    {
+      "rank": 337,
       "id": "d7f2ff28cbfa386c",
       "name": "森口博子",
       "secondary": "",
@@ -2210,15 +2271,15 @@
       "detailPath": "entities/artists/d7f2ff28cbfa386c.json"
     },
     {
-      "rank": 337,
+      "rank": 338,
       "id": "2f24575c8f901c18",
       "name": "福山雅治",
       "secondary": "",
       "channelId": "UC_lfOFwTCIvZsuaSvJQpNXg",
       "channelHandle": "@asuto_suiboshi",
       "channelUrl": "",
-      "occurrenceCount": 86,
-      "videoCount": 74,
+      "occurrenceCount": 87,
+      "videoCount": 75,
       "songCount": 26,
       "keywords": [
         "month",
@@ -2231,6 +2292,18 @@
       "collected": false,
       "collectionId": "",
       "sourcesPreview": [
+        {
+          "videoId": "ec90atfE9E8",
+          "videoTitle": "【#スポソン歌枠リレー】熱血🔥お笑い担当主催お姉さんです。様子がおかしいと言われますが頑張って歌います!!🎤熱いスポーツソングを召し上がれ!! 【アップランド /ぶいぱい】",
+          "channelName": "ベルモット・ベルーナ / Vermouth Belluna【APP LAND】",
+          "publishedAt": "2026-10-12T11:18:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ec90atfE9E8/hqdefault.jpg",
+          "sourcePath": "sources/ec/ec90atfE9E8.json",
+          "time": "0:23:43",
+          "seconds": 1423,
+          "songTitle": "虹",
+          "artist": "福山雅治"
+        },
         {
           "videoId": "6eiU70mwsms",
           "videoTitle": "【 歌枠 】深夜の歌枠雑談🪽初見さん・ROM勢さんも大歓迎◎【 #新人vtuber / 芽森ひより 】【 #夜活 】【 #歌枠 】",
@@ -2254,24 +2327,12 @@
           "seconds": 817,
           "songTitle": "虹",
           "artist": "福山雅治"
-        },
-        {
-          "videoId": "kNxhOLH5zZ8",
-          "videoTitle": "【定期歌枠 第52回 / Karaoke】初見さん大歓迎！！リクエストだけ歌う歌枠！【#神凪アンナ/Re:AcT】",
-          "channelName": "神凪アンナ - Kannagi Anna -",
-          "publishedAt": "2026-10-10T04:59:07.725Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kNxhOLH5zZ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9UcaP5Ioy_Gr-qnkna_oLZdEozQ",
-          "sourcePath": "sources/kN/kNxhOLH5zZ8.json",
-          "time": "0:35:17",
-          "seconds": 2117,
-          "songTitle": "家族になろうよ",
-          "artist": "福山雅治"
         }
       ],
       "detailPath": "entities/artists/2f24575c8f901c18.json"
     },
     {
-      "rank": 338,
+      "rank": 339,
       "id": "ea17eb6b99da7ebb",
       "name": "オリジナル曲",
       "secondary": "",
@@ -2331,7 +2392,7 @@
       "detailPath": "entities/artists/ea17eb6b99da7ebb.json"
     },
     {
-      "rank": 339,
+      "rank": 340,
       "id": "2ae0f434bed1dfb7",
       "name": "sasakure.UK",
       "secondary": "",
@@ -2390,67 +2451,6 @@
         }
       ],
       "detailPath": "entities/artists/2ae0f434bed1dfb7.json"
-    },
-    {
-      "rank": 340,
-      "id": "2a952221ffe2e3ab",
-      "name": "コブクロ",
-      "secondary": "",
-      "channelId": "UCnYrx-hDfnlBVuO8D8L2ByQ",
-      "channelHandle": "@SHUNA_MGS",
-      "channelUrl": "",
-      "occurrenceCount": 85,
-      "videoCount": 74,
-      "songCount": 27,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "u44611FuMOc",
-          "videoTitle": "【#歌枠 】ゲリラ！歌枠するよ～ リクエスト◎ #狐橙明音成長中 #vtuber",
-          "channelName": "狐橙明音",
-          "publishedAt": "2026-10-12T05:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/u44611FuMOc/hqdefault.jpg",
-          "sourcePath": "sources/u4/u44611FuMOc.json",
-          "time": "0:27:53",
-          "seconds": 1673,
-          "songTitle": "蕾",
-          "artist": "コブクロ"
-        },
-        {
-          "videoId": "vTxIai_cOcM",
-          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
-          "channelName": "冬萌ここな",
-          "publishedAt": "2026-10-11T20:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vTxIai_cOcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5T4vUDv-Vk57R-82lKsYiBvcC6A",
-          "sourcePath": "sources/vT/vTxIai_cOcM.json",
-          "time": "0:50:18",
-          "seconds": 3018,
-          "songTitle": "蕾",
-          "artist": "コブクロ"
-        },
-        {
-          "videoId": "4nAZ-1G9_aY",
-          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
-          "channelName": "苺咲べりぃ / Maisaki Berry",
-          "publishedAt": "2026-10-09T15:54:50.012Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4nAZ-1G9_aY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCyOKmZcIUMRoCkttgW9NQ0SAXEA",
-          "sourcePath": "sources/4n/4nAZ-1G9_aY.json",
-          "time": "2:20:14",
-          "seconds": 8414,
-          "songTitle": "蕾",
-          "artist": "コブクロ"
-        }
-      ],
-      "detailPath": "entities/artists/2a952221ffe2e3ab.json"
     },
     {
       "rank": 341,
@@ -2697,6 +2697,67 @@
     },
     {
       "rank": 345,
+      "id": "57dd5387e46cd40b",
+      "name": "理芽",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 82,
+      "videoCount": 79,
+      "songCount": 17,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "0:37:07",
+          "seconds": 2227,
+          "songTitle": "食虫植物",
+          "artist": "理芽"
+        },
+        {
+          "videoId": "hyCNSRNPEnw",
+          "videoTitle": "【 弾き語り 】 夕方はここでしょ？ 【 歌枠 】 #菜鳥ひなた",
+          "channelName": "菜鳥ひなた / Hinata Natori",
+          "publishedAt": "2026-10-06T09:56:46.798Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hyCNSRNPEnw/hqdefault.jpg",
+          "sourcePath": "sources/hy/hyCNSRNPEnw.json",
+          "time": "1:18:41",
+          "seconds": 4721,
+          "songTitle": "食虫植物",
+          "artist": "理芽"
+        },
+        {
+          "videoId": "AJQzN-Sp4_U",
+          "videoTitle": "【 #歌枠 】全力で貴方に届ける歌枠🌙🎵┊︎✦作業用BGM ✦ 【#日向ぽかり / #ぽかはむちゃん /Vsinger/Vtuber】",
+          "channelName": "日向ぽかり Pokari Hinata",
+          "publishedAt": "2026-10-05T15:35:46.109Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AJQzN-Sp4_U/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCWTExPlXZgKTn0AxM9jCfEaCrrsQ",
+          "sourcePath": "sources/AJ/AJQzN-Sp4_U.json",
+          "time": "1:32:55",
+          "seconds": 5575,
+          "songTitle": "食虫植物",
+          "artist": "理芽"
+        }
+      ],
+      "detailPath": "entities/artists/57dd5387e46cd40b.json"
+    },
+    {
+      "rank": 346,
       "id": "68ab6cab98707b51",
       "name": "PRINCESS PRINCESS",
       "secondary": "",
@@ -2757,7 +2818,7 @@
       "detailPath": "entities/artists/68ab6cab98707b51.json"
     },
     {
-      "rank": 346,
+      "rank": 347,
       "id": "772f351b1d69126e",
       "name": "ステレオポニー",
       "secondary": "",
@@ -2819,7 +2880,7 @@
       "detailPath": "entities/artists/772f351b1d69126e.json"
     },
     {
-      "rank": 347,
+      "rank": 348,
       "id": "8b0be66df50d616b",
       "name": "山崎まさよし",
       "secondary": "",
@@ -2880,7 +2941,7 @@
       "detailPath": "entities/artists/8b0be66df50d616b.json"
     },
     {
-      "rank": 348,
+      "rank": 349,
       "id": "384b17e2dfd0a624",
       "name": "ゴールデンボンバー",
       "secondary": "",
@@ -2941,7 +3002,7 @@
       "detailPath": "entities/artists/384b17e2dfd0a624.json"
     },
     {
-      "rank": 349,
+      "rank": 350,
       "id": "fbaba73ffeea6929",
       "name": "月島きらり starring 久住小春(モーニング娘。)",
       "secondary": "",
@@ -2999,67 +3060,6 @@
         }
       ],
       "detailPath": "entities/artists/fbaba73ffeea6929.json"
-    },
-    {
-      "rank": 350,
-      "id": "57dd5387e46cd40b",
-      "name": "理芽",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 81,
-      "videoCount": 78,
-      "songCount": 17,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "hyCNSRNPEnw",
-          "videoTitle": "【 弾き語り 】 夕方はここでしょ？ 【 歌枠 】 #菜鳥ひなた",
-          "channelName": "菜鳥ひなた / Hinata Natori",
-          "publishedAt": "2026-10-06T09:56:46.798Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/hyCNSRNPEnw/hqdefault.jpg",
-          "sourcePath": "sources/hy/hyCNSRNPEnw.json",
-          "time": "1:18:41",
-          "seconds": 4721,
-          "songTitle": "食虫植物",
-          "artist": "理芽"
-        },
-        {
-          "videoId": "AJQzN-Sp4_U",
-          "videoTitle": "【 #歌枠 】全力で貴方に届ける歌枠🌙🎵┊︎✦作業用BGM ✦ 【#日向ぽかり / #ぽかはむちゃん /Vsinger/Vtuber】",
-          "channelName": "日向ぽかり Pokari Hinata",
-          "publishedAt": "2026-10-05T15:35:46.109Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AJQzN-Sp4_U/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCWTExPlXZgKTn0AxM9jCfEaCrrsQ",
-          "sourcePath": "sources/AJ/AJQzN-Sp4_U.json",
-          "time": "1:32:55",
-          "seconds": 5575,
-          "songTitle": "食虫植物",
-          "artist": "理芽"
-        },
-        {
-          "videoId": "YHzgCORMW2M",
-          "videoTitle": "【 歌枠/KARAOKE 】弾き語り練習会🌙🎼【 #ヨノ / RK Music】",
-          "channelName": "ヨノ-Yono",
-          "publishedAt": "2026-10-04T11:54:50.576Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YHzgCORMW2M/hqdefault.jpg",
-          "sourcePath": "sources/YH/YHzgCORMW2M.json",
-          "time": "0:18:24",
-          "seconds": 1104,
-          "songTitle": "食虫植物",
-          "artist": "理芽"
-        }
-      ],
-      "detailPath": "entities/artists/57dd5387e46cd40b.json"
     }
   ]
 }

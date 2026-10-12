@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "30d",
   "type": "artists",
   "page": 3,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10857,
+  "totalCount": 10864,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -762,6 +762,64 @@
     },
     {
       "rank": 114,
+      "id": "512b123037c9be78",
+      "name": "Buono!",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 97,
+      "videoCount": 93,
+      "songCount": 9,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-gMBG-ZyJnk",
+          "videoTitle": "【 #歌枠 】同接50人達成で巡る！47都道府県ツアー💛中国地方編Day４【 #ゆらいぶ 】",
+          "channelName": "夢眠ゆらめ -Yumemi Yurame-",
+          "publishedAt": "2026-10-12T08:43:17.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-gMBG-ZyJnk/hqdefault.jpg",
+          "sourcePath": "sources/-g/-gMBG-ZyJnk.json",
+          "time": "0:31:11",
+          "seconds": 1871,
+          "songTitle": "初恋サイダー",
+          "artist": "Buono!"
+        },
+        {
+          "videoId": "iF2FVEhEoQM",
+          "videoTitle": "【#歌枠】1時間だけ歌うよ #shorts #作業用bgm #karaoke【アニソン / ボカロ】",
+          "channelName": "Sakura CH.餅々さくら",
+          "publishedAt": "2026-10-08T16:18:16.451Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iF2FVEhEoQM/hqdefault.jpg",
+          "sourcePath": "sources/iF/iF2FVEhEoQM.json",
+          "time": "0:58:45",
+          "seconds": 3525,
+          "songTitle": "初恋サイダー",
+          "artist": "Buono!"
+        },
+        {
+          "videoId": "sj-N_UEZik0",
+          "videoTitle": "【 #歌枠 】夜な夜なお歌好きさんが集まるところ🎤🌙 #Vsinger",
+          "channelName": "歌月えん",
+          "publishedAt": "2026-10-08T15:22:56.308Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sj-N_UEZik0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBatQsXU9UJvtuFWIXMjHh0PnXbqQ",
+          "sourcePath": "sources/sj/sj-N_UEZik0.json",
+          "time": "1:18:59",
+          "seconds": 4739,
+          "songTitle": "初恋サイダー",
+          "artist": "Buono!"
+        }
+      ],
+      "detailPath": "entities/artists/512b123037c9be78.json"
+    },
+    {
+      "rank": 115,
       "id": "a0f2a445ba85c9be",
       "name": "柊マグネタイト",
       "secondary": "",
@@ -816,64 +874,6 @@
         }
       ],
       "detailPath": "entities/artists/a0f2a445ba85c9be.json"
-    },
-    {
-      "rank": 115,
-      "id": "512b123037c9be78",
-      "name": "Buono!",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 96,
-      "videoCount": 92,
-      "songCount": 9,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iF2FVEhEoQM",
-          "videoTitle": "【#歌枠】1時間だけ歌うよ #shorts #作業用bgm #karaoke【アニソン / ボカロ】",
-          "channelName": "Sakura CH.餅々さくら",
-          "publishedAt": "2026-10-08T16:18:16.451Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iF2FVEhEoQM/hqdefault.jpg",
-          "sourcePath": "sources/iF/iF2FVEhEoQM.json",
-          "time": "0:58:45",
-          "seconds": 3525,
-          "songTitle": "初恋サイダー",
-          "artist": "Buono!"
-        },
-        {
-          "videoId": "sj-N_UEZik0",
-          "videoTitle": "【 #歌枠 】夜な夜なお歌好きさんが集まるところ🎤🌙 #Vsinger",
-          "channelName": "歌月えん",
-          "publishedAt": "2026-10-08T15:22:56.308Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sj-N_UEZik0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBatQsXU9UJvtuFWIXMjHh0PnXbqQ",
-          "sourcePath": "sources/sj/sj-N_UEZik0.json",
-          "time": "1:18:59",
-          "seconds": 4739,
-          "songTitle": "初恋サイダー",
-          "artist": "Buono!"
-        },
-        {
-          "videoId": "LM5ZGnVwa8c",
-          "videoTitle": "【高評価123を目指す！】癒しを求めてる方へ！歌枠配信いかがですか？初見さん大歓迎！💛【新人VTuberの雑談／歌枠】🐻",
-          "channelName": "桜庭 羽奈【パレデミア学園】",
-          "publishedAt": "2026-10-06T14:21:45.510Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LM5ZGnVwa8c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXZoOXAR48xyMcr9z1V69VUv48oA",
-          "sourcePath": "sources/LM/LM5ZGnVwa8c.json",
-          "time": "0:28:31",
-          "seconds": 1711,
-          "songTitle": "初恋サイダー",
-          "artist": "Buono!"
-        }
-      ],
-      "detailPath": "entities/artists/512b123037c9be78.json"
     },
     {
       "rank": 116,
@@ -1107,6 +1107,64 @@
     },
     {
       "rank": 120,
+      "id": "aad0393717db21bd",
+      "name": "40mP feat.初音ミク",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 95,
+      "videoCount": 74,
+      "songCount": 21,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-gMBG-ZyJnk",
+          "videoTitle": "【 #歌枠 】同接50人達成で巡る！47都道府県ツアー💛中国地方編Day４【 #ゆらいぶ 】",
+          "channelName": "夢眠ゆらめ -Yumemi Yurame-",
+          "publishedAt": "2026-10-12T08:43:17.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-gMBG-ZyJnk/hqdefault.jpg",
+          "sourcePath": "sources/-g/-gMBG-ZyJnk.json",
+          "time": "0:21:53",
+          "seconds": 1313,
+          "songTitle": "恋愛裁判",
+          "artist": "40mP feat.初音ミク"
+        },
+        {
+          "videoId": "oolrdDiQK5s",
+          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
+          "channelName": "赤石グラナ",
+          "publishedAt": "2026-10-10T01:51:53.498Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
+          "sourcePath": "sources/oo/oolrdDiQK5s.json",
+          "time": "0:22:48",
+          "seconds": 1368,
+          "songTitle": "からくりピエロ",
+          "artist": "40mP feat. 初音ミク"
+        },
+        {
+          "videoId": "ND-WOAa3e88",
+          "videoTitle": "【歌枠 / karaoke 】初見様、ROM勢、作業用BGM◎ 自己満足したいので歌います！ 【#武田玄愛 / ゆにふぃ！】#shortsfeed #shorts",
+          "channelName": "武田玄愛 / Takeda kuroa",
+          "publishedAt": "2026-10-09T14:51:25.390Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ND-WOAa3e88/hqdefault.jpg",
+          "sourcePath": "sources/ND/ND-WOAa3e88.json",
+          "time": "1:23:08",
+          "seconds": 4988,
+          "songTitle": "からくりピエロ",
+          "artist": "40mP feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/artists/aad0393717db21bd.json"
+    },
+    {
+      "rank": 121,
       "id": "dbd70cdfc6b7eda4",
       "name": "電ポルP",
       "secondary": "",
@@ -1163,7 +1221,7 @@
       "detailPath": "entities/artists/dbd70cdfc6b7eda4.json"
     },
     {
-      "rank": 121,
+      "rank": 122,
       "id": "dc2083ff9efcbbed",
       "name": "松任谷由実",
       "secondary": "",
@@ -1219,64 +1277,6 @@
         }
       ],
       "detailPath": "entities/artists/dc2083ff9efcbbed.json"
-    },
-    {
-      "rank": 122,
-      "id": "aad0393717db21bd",
-      "name": "40mP feat.初音ミク",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 94,
-      "videoCount": 73,
-      "songCount": 21,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oolrdDiQK5s",
-          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-10-10T01:51:53.498Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
-          "sourcePath": "sources/oo/oolrdDiQK5s.json",
-          "time": "0:22:48",
-          "seconds": 1368,
-          "songTitle": "からくりピエロ",
-          "artist": "40mP feat. 初音ミク"
-        },
-        {
-          "videoId": "ND-WOAa3e88",
-          "videoTitle": "【歌枠 / karaoke 】初見様、ROM勢、作業用BGM◎ 自己満足したいので歌います！ 【#武田玄愛 / ゆにふぃ！】#shortsfeed #shorts",
-          "channelName": "武田玄愛 / Takeda kuroa",
-          "publishedAt": "2026-10-09T14:51:25.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ND-WOAa3e88/hqdefault.jpg",
-          "sourcePath": "sources/ND/ND-WOAa3e88.json",
-          "time": "1:23:08",
-          "seconds": 4988,
-          "songTitle": "からくりピエロ",
-          "artist": "40mP feat. 初音ミク"
-        },
-        {
-          "videoId": "UlvucGHIAWc",
-          "videoTitle": "【ラジオ歌枠】40mP縛り！朝の歌枠～🎶【錦煙梨/新人Vtuber】#shorts",
-          "channelName": "錦 煙梨【KonEnri】",
-          "publishedAt": "2026-10-08T01:22:18.289Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UlvucGHIAWc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMt1QGY9O8r6mkgyi2VVnO8UKeNA",
-          "sourcePath": "sources/Ul/UlvucGHIAWc.json",
-          "time": "0:12:08",
-          "seconds": 728,
-          "songTitle": "純情スカート",
-          "artist": "40mP feat. 初音ミク"
-        }
-      ],
-      "detailPath": "entities/artists/aad0393717db21bd.json"
     },
     {
       "rank": 123,
@@ -1576,8 +1576,8 @@
       "channelId": "",
       "channelHandle": "",
       "channelUrl": "",
-      "occurrenceCount": 89,
-      "videoCount": 77,
+      "occurrenceCount": 90,
+      "videoCount": 78,
       "songCount": 13,
       "keywords": [
         "mygit今日快照",
@@ -1587,6 +1587,18 @@
       "collected": false,
       "collectionId": "",
       "sourcesPreview": [
+        {
+          "videoId": "a6kB4HgDThs",
+          "videoTitle": "⸜ #歌枠 #耐久⸝ 同接30目標!!好きな歌を歌います!! ᎒ #羽月うずな #逃げやがったぞおぃ #Vtuber ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-10-12T11:41:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a6kB4HgDThs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTvgo8qdZvBidXhiWX45tGCnsI7A",
+          "sourcePath": "sources/a6/a6kB4HgDThs.json",
+          "time": "1:16:13",
+          "seconds": 4573,
+          "songTitle": "惑星ループ",
+          "artist": "ナユタン星人"
+        },
         {
           "videoId": "jw7X0SKdPvk",
           "videoTitle": "【歌枠/Karaoke 】週末の深夜歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
@@ -1608,18 +1620,6 @@
           "sourcePath": "sources/fO/fOex-yn9NBw.json",
           "time": "1:14:18",
           "seconds": 4458,
-          "songTitle": "太陽系デスコ",
-          "artist": "ナユタン星人"
-        },
-        {
-          "videoId": "tOD_O0-wI0c",
-          "videoTitle": "【歌枠/karaoke】高評価111&同接30人目標！！1曲聴いていって～～！ 久遠なつめ【#9on_air 】 #vtuber",
-          "channelName": "久遠なつめ natsume channel",
-          "publishedAt": "2026-10-06T15:28:06.554Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tOD_O0-wI0c/hqdefault.jpg",
-          "sourcePath": "sources/tO/tOD_O0-wI0c.json",
-          "time": "1:35:04",
-          "seconds": 5704,
           "songTitle": "太陽系デスコ",
           "artist": "ナユタン星人"
         }
@@ -1858,64 +1858,6 @@
     },
     {
       "rank": 133,
-      "id": "2ef515f2ce03689a",
-      "name": "Superfly",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 85,
-      "videoCount": 81,
-      "songCount": 23,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Vehc_2FkwwY",
-          "videoTitle": "【歌枠】オフイベまであとちょっと…スナック向けの歌枠配信です🎤✨【まにきゅあ】",
-          "channelName": "まにきゅあ manicure",
-          "publishedAt": "2026-10-09T15:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Vehc_2FkwwY/hqdefault.jpg",
-          "sourcePath": "sources/Ve/Vehc_2FkwwY.json",
-          "time": "2:20:36",
-          "seconds": 8436,
-          "songTitle": "やさしい気持ちで",
-          "artist": "Superfly"
-        },
-        {
-          "videoId": "mG_mjxSPUA8",
-          "videoTitle": "【#歌枠】雑談 Chill 作業BGM🎈BGM ながやまめめのギター弾き語り！カラオケ✨ 【SINGING STREAM】#vtuber #karaoke #shorts #歌ってみた",
-          "channelName": "ながやまめめ / Nagayama Meme",
-          "publishedAt": "2026-10-07T20:13:02.895Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mG_mjxSPUA8/hqdefault.jpg",
-          "sourcePath": "sources/mG/mG_mjxSPUA8.json",
-          "time": "2:52:39",
-          "seconds": 10359,
-          "songTitle": "愛をこめて花束を",
-          "artist": "Superfly"
-        },
-        {
-          "videoId": "0izbBUeI0U4",
-          "videoTitle": "【縦型歌枠 /#karaoke 】丸く収まれ【深影 / RK Music】#ghostreaming #歌枠",
-          "channelName": "深影",
-          "publishedAt": "2026-10-06T19:14:07.546Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0izbBUeI0U4/hqdefault.jpg",
-          "sourcePath": "sources/0i/0izbBUeI0U4.json",
-          "time": "3:55:35",
-          "seconds": 14135,
-          "songTitle": "タマシイレボリューション",
-          "artist": "Superfly"
-        }
-      ],
-      "detailPath": "entities/artists/2ef515f2ce03689a.json"
-    },
-    {
-      "rank": 134,
       "id": "f0c2f93994ea4a42",
       "name": "ヒグチアイ",
       "secondary": "",
@@ -1973,7 +1915,7 @@
       "detailPath": "entities/artists/f0c2f93994ea4a42.json"
     },
     {
-      "rank": 135,
+      "rank": 134,
       "id": "f7559d2f56824c30",
       "name": "田村ゆかり",
       "secondary": "",
@@ -2028,6 +1970,64 @@
         }
       ],
       "detailPath": "entities/artists/f7559d2f56824c30.json"
+    },
+    {
+      "rank": 135,
+      "id": "2ef515f2ce03689a",
+      "name": "Superfly",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 84,
+      "videoCount": 80,
+      "songCount": 22,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Vehc_2FkwwY",
+          "videoTitle": "【歌枠】オフイベまであとちょっと…スナック向けの歌枠配信です🎤✨【まにきゅあ】",
+          "channelName": "まにきゅあ manicure",
+          "publishedAt": "2026-10-09T15:24:54.011Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Vehc_2FkwwY/hqdefault.jpg",
+          "sourcePath": "sources/Ve/Vehc_2FkwwY.json",
+          "time": "2:20:36",
+          "seconds": 8436,
+          "songTitle": "やさしい気持ちで",
+          "artist": "Superfly"
+        },
+        {
+          "videoId": "mG_mjxSPUA8",
+          "videoTitle": "【#歌枠】雑談 Chill 作業BGM🎈BGM ながやまめめのギター弾き語り！カラオケ✨ 【SINGING STREAM】#vtuber #karaoke #shorts #歌ってみた",
+          "channelName": "ながやまめめ / Nagayama Meme",
+          "publishedAt": "2026-10-07T20:13:02.895Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mG_mjxSPUA8/hqdefault.jpg",
+          "sourcePath": "sources/mG/mG_mjxSPUA8.json",
+          "time": "2:52:39",
+          "seconds": 10359,
+          "songTitle": "愛をこめて花束を",
+          "artist": "Superfly"
+        },
+        {
+          "videoId": "0izbBUeI0U4",
+          "videoTitle": "【縦型歌枠 /#karaoke 】丸く収まれ【深影 / RK Music】#ghostreaming #歌枠",
+          "channelName": "深影",
+          "publishedAt": "2026-10-06T19:14:07.546Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0izbBUeI0U4/hqdefault.jpg",
+          "sourcePath": "sources/0i/0izbBUeI0U4.json",
+          "time": "3:55:35",
+          "seconds": 14135,
+          "songTitle": "タマシイレボリューション",
+          "artist": "Superfly"
+        }
+      ],
+      "detailPath": "entities/artists/2ef515f2ce03689a.json"
     },
     {
       "rank": 136,
@@ -2724,6 +2724,63 @@
     },
     {
       "rank": 148,
+      "id": "dd27321815412def",
+      "name": "湊あくあ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 79,
+      "videoCount": 73,
+      "songCount": 10,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-gMBG-ZyJnk",
+          "videoTitle": "【 #歌枠 】同接50人達成で巡る！47都道府県ツアー💛中国地方編Day４【 #ゆらいぶ 】",
+          "channelName": "夢眠ゆらめ -Yumemi Yurame-",
+          "publishedAt": "2026-10-12T08:43:17.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-gMBG-ZyJnk/hqdefault.jpg",
+          "sourcePath": "sources/-g/-gMBG-ZyJnk.json",
+          "time": "2:25:13",
+          "seconds": 8713,
+          "songTitle": "あくあ色ぱれっと",
+          "artist": "湊あくあ"
+        },
+        {
+          "videoId": "V88T_9GNMps",
+          "videoTitle": "【縦型歌枠】高評価50目指したい！初見さん◎アニソン・ボカロ歌います！【さきのん/VPL】カラオケJOYSOUND for STREAMER",
+          "channelName": "さきのん-Sakinon-",
+          "publishedAt": "2026-10-12T00:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/V88T_9GNMps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfq5O6bPmzVBwVM5g9rZa7WiQwVw",
+          "sourcePath": "sources/V8/V88T_9GNMps.json",
+          "time": "2:06:35",
+          "seconds": 7595,
+          "songTitle": "#あくあ色ぱれっと",
+          "artist": "湊あくあ"
+        },
+        {
+          "videoId": "pQ7F3RUh9vc",
+          "videoTitle": "ෆ #愛らゔ歌枠リレー ෆ らびぃのご主人様になってくれたら､世界でいちばん大きな愛をあげる...ෆ【 #新人VTuber / #愛世らびぃ 】",
+          "channelName": "愛世らびぃ【私を見つけて。】",
+          "publishedAt": "2026-10-10T11:32:28.221Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pQ7F3RUh9vc/hqdefault.jpg",
+          "sourcePath": "sources/pQ/pQ7F3RUh9vc.json",
+          "time": "0:27:28",
+          "seconds": 1648,
+          "songTitle": "#あくあ色ぱれっと",
+          "artist": "湊あくあ"
+        }
+      ],
+      "detailPath": "entities/artists/dd27321815412def.json"
+    },
+    {
+      "rank": 149,
       "id": "0ec39143b8fea980",
       "name": "かいりきベア",
       "secondary": "",
@@ -2780,7 +2837,7 @@
       "detailPath": "entities/artists/0ec39143b8fea980.json"
     },
     {
-      "rank": 149,
+      "rank": 150,
       "id": "1aab0b61b6d6f340",
       "name": "fripSide",
       "secondary": "",
@@ -2838,63 +2895,6 @@
         }
       ],
       "detailPath": "entities/artists/1aab0b61b6d6f340.json"
-    },
-    {
-      "rank": 150,
-      "id": "c707c94b2401e200",
-      "name": "syudou",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 79,
-      "videoCount": 63,
-      "songCount": 16,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7H-3wzjml74",
-          "videoTitle": "【#愛らゔ歌枠リレー】お歌で君にたくさんの「愛」を届けますっ！🎀✨【#星乃りむ / #ミクスト】",
-          "channelName": "星乃りむ / Rimu Channel【ミクスト】",
-          "publishedAt": "2026-10-10T11:00:02.622Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7H-3wzjml74/hqdefault.jpg",
-          "sourcePath": "sources/7H/7H-3wzjml74.json",
-          "time": "0:04:25",
-          "seconds": 265,
-          "songTitle": "キュートなカノジョ",
-          "artist": "syudou"
-        },
-        {
-          "videoId": "jt08YK6n8a0",
-          "videoTitle": "【#耐久/#歌枠】高評価40❕￤かわいいとかっこいいが反復横跳びする歌枠🎤【#睡眠導入/#新人Vtuber/#Vsinger/#ぬこ式魔法研究所】",
-          "channelName": "碧乃らる",
-          "publishedAt": "2026-10-09T16:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jt08YK6n8a0/hqdefault.jpg",
-          "sourcePath": "sources/jt/jt08YK6n8a0.json",
-          "time": "2:03:12",
-          "seconds": 7392,
-          "songTitle": "コールボーイ",
-          "artist": "syudou"
-        },
-        {
-          "videoId": "-m25jA-fyUU",
-          "videoTitle": "♰ 歌枠 ♰ 久々にお歌と雑談するぞ～♩【 #終末むくろ / #すぺしゃりて 】",
-          "channelName": "終末むくろ / Mukuro Owarino",
-          "publishedAt": "2026-10-07T18:11:43.576Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-m25jA-fyUU/hqdefault.jpg",
-          "sourcePath": "sources/-m/-m25jA-fyUU.json",
-          "time": "1:12:58",
-          "seconds": 4378,
-          "songTitle": "キュートなカノジョ",
-          "artist": "Syudou"
-        }
-      ],
-      "detailPath": "entities/artists/c707c94b2401e200.json"
     }
   ]
 }

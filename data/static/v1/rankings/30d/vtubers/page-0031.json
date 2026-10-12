@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "30d",
   "type": "vtubers",
   "page": 31,
   "pageSize": 50,
-  "pageCount": 59,
-  "totalCount": 2948,
+  "pageCount": 60,
+  "totalCount": 2953,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1646,39 +1646,6 @@
     },
     {
       "rank": 1544,
-      "id": "afc25f44de01d368",
-      "name": "NONOA Ch.華美雲ののあ",
-      "secondary": "",
-      "channelId": "UCej-l58FGEB9-9OMeFdX5mg",
-      "channelHandle": "@KAMIKUMONONOA",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 1,
-      "songCount": 14,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "2XuZgvqaQas",
-          "videoTitle": "【歌枠】みんなはYOASOBIさんの曲で好きな曲なんですか？【#生ののあらいぶ / #KARAOKE】",
-          "channelName": "NONOA Ch.華美雲ののあ",
-          "publishedAt": "2026-10-07T11:26:30.246Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2XuZgvqaQas/hqdefault.jpg",
-          "sourcePath": "sources/2X/2XuZgvqaQas.json",
-          "time": "0:12:28",
-          "seconds": 748,
-          "songTitle": "祝福",
-          "artist": "YOASOBI"
-        }
-      ],
-      "detailPath": "entities/vtubers/afc25f44de01d368.json"
-    },
-    {
-      "rank": 1545,
       "id": "4415344f4b09cafa",
       "name": "Oto Ch. 透乃 おと",
       "secondary": "",
@@ -1711,7 +1678,7 @@
       "detailPath": "entities/vtubers/4415344f4b09cafa.json"
     },
     {
-      "rank": 1546,
+      "rank": 1545,
       "id": "474eedbb0ef98f87",
       "name": "Petann Stunn",
       "secondary": "",
@@ -1741,7 +1708,7 @@
       "detailPath": "entities/vtubers/474eedbb0ef98f87.json"
     },
     {
-      "rank": 1547,
+      "rank": 1546,
       "id": "f1ee8a060adf1e46",
       "name": "Rieru Ch. 我部りえる /あおぎり高校",
       "secondary": "",
@@ -1774,7 +1741,7 @@
       "detailPath": "entities/vtubers/f1ee8a060adf1e46.json"
     },
     {
-      "rank": 1548,
+      "rank": 1547,
       "id": "0a08d28faa112639",
       "name": "Solitude Web",
       "secondary": "",
@@ -1804,7 +1771,7 @@
       "detailPath": "entities/vtubers/0a08d28faa112639.json"
     },
     {
-      "rank": 1549,
+      "rank": 1548,
       "id": "69a1e90df42b0803",
       "name": "yuzzmi Ch. 有・柚実",
       "secondary": "",
@@ -1837,7 +1804,7 @@
       "detailPath": "entities/vtubers/69a1e90df42b0803.json"
     },
     {
-      "rank": 1550,
+      "rank": 1549,
       "id": "1c69290520e84c5b",
       "name": "おさでい【すにすて】",
       "secondary": "",
@@ -1868,6 +1835,39 @@
         }
       ],
       "detailPath": "entities/vtubers/1c69290520e84c5b.json"
+    },
+    {
+      "rank": 1550,
+      "id": "b403dc104f1491d8",
+      "name": "こすけ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 14,
+      "videoCount": 1,
+      "songCount": 14,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "JKYyfml3G7M",
+          "videoTitle": "【歌枠】お試しにやってみる歌枠【雑談】",
+          "channelName": "こすけ",
+          "publishedAt": "2026-09-25T13:21:45.724Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JKYyfml3G7M/hqdefault.jpg",
+          "sourcePath": "sources/JK/JKYyfml3G7M.json",
+          "time": "0:12:40",
+          "seconds": 760,
+          "songTitle": "最強○×計画",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/vtubers/b403dc104f1491d8.json"
     }
   ]
 }

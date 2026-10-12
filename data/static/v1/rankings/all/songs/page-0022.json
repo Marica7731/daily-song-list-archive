@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "songs",
   "page": 22,
   "pageSize": 50,
-  "pageCount": 1056,
-  "totalCount": 52789,
+  "pageCount": 1057,
+  "totalCount": 52815,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1277,6 +1277,66 @@
     },
     {
       "rank": 1072,
+      "id": "09b10d0cf94f3e7c",
+      "name": "BOW AND ARROW",
+      "secondary": "米津玄師",
+      "channelId": "UCAUicVZlApAIhcdL9df3gWw",
+      "channelHandle": "@Otokado_Ruki",
+      "channelUrl": "",
+      "occurrenceCount": 26,
+      "videoCount": 26,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "D9FrydPD1C0",
+          "videoTitle": "【#スポソン歌枠リレー】幼少期、スポーツを規制されていた枠【#神楽すず 】",
+          "channelName": "神楽すず",
+          "publishedAt": "2026-10-12T10:17:23.044Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/D9FrydPD1C0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDbgHu0aojM05PLmK0VDacbT6KpA",
+          "sourcePath": "sources/D9/D9FrydPD1C0.json",
+          "time": "0:13:34",
+          "seconds": 814,
+          "songTitle": "BOW AND ARROW",
+          "artist": "米津玄師"
+        },
+        {
+          "videoId": "LY4tCMQ7FDs",
+          "videoTitle": "【 歌枠 】米津玄師さんの曲をいっぱい歌うお姉さんですよ～💚【 #そらびん / #四季森ことり 】",
+          "channelName": "四季森ことり / Shikimori Kotori【そらびん】",
+          "publishedAt": "2026-10-01T14:52:43.986Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LY4tCMQ7FDs/hqdefault.jpg",
+          "sourcePath": "sources/LY/LY4tCMQ7FDs.json",
+          "time": "0:53:42",
+          "seconds": 3222,
+          "songTitle": "BOW AND ARROW",
+          "artist": "米津玄師"
+        },
+        {
+          "videoId": "mLXPIzbHuRA",
+          "videoTitle": "【#秋を彩るバ美音祭】 ボイチェン勢限定歌枠リレー 【愛須どらい】2026/9/27(日) 21:00～",
+          "channelName": "愛須どらいコンピュータカレッジ",
+          "publishedAt": "2026-09-27T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mLXPIzbHuRA/hqdefault.jpg",
+          "sourcePath": "sources/mL/mLXPIzbHuRA.json",
+          "time": "0:18:43",
+          "seconds": 1123,
+          "songTitle": "BOW AND ARROW",
+          "artist": "米津玄師"
+        }
+      ],
+      "detailPath": "entities/songs/09b10d0cf94f3e7c.json"
+    },
+    {
+      "rank": 1073,
       "id": "9a7e379c794546b4",
       "name": "Caramel Pain",
       "secondary": "星街すいせい",
@@ -1337,7 +1397,7 @@
       "detailPath": "entities/songs/9a7e379c794546b4.json"
     },
     {
-      "rank": 1073,
+      "rank": 1074,
       "id": "3c2c0667f157dd52",
       "name": "D-tecnoLife",
       "secondary": "UVERworld",
@@ -1397,7 +1457,7 @@
       "detailPath": "entities/songs/3c2c0667f157dd52.json"
     },
     {
-      "rank": 1074,
+      "rank": 1075,
       "id": "1e6baafae0b21c35",
       "name": "I LOVE",
       "secondary": "Official髭男dism",
@@ -1458,7 +1518,7 @@
       "detailPath": "entities/songs/1e6baafae0b21c35.json"
     },
     {
-      "rank": 1075,
+      "rank": 1076,
       "id": "44e672ec63baa293",
       "name": "PHANTOM MINDS",
       "secondary": "水樹奈々",
@@ -1519,7 +1579,7 @@
       "detailPath": "entities/songs/44e672ec63baa293.json"
     },
     {
-      "rank": 1076,
+      "rank": 1077,
       "id": "2a7f5c1d448b7a69",
       "name": "RHYTHM EMOTION",
       "secondary": "TWO-MIX",
@@ -1579,7 +1639,7 @@
       "detailPath": "entities/songs/2a7f5c1d448b7a69.json"
     },
     {
-      "rank": 1077,
+      "rank": 1078,
       "id": "e3e6107227b018fe",
       "name": "SEASONS",
       "secondary": "浜崎あゆみ",
@@ -1639,7 +1699,7 @@
       "detailPath": "entities/songs/e3e6107227b018fe.json"
     },
     {
-      "rank": 1078,
+      "rank": 1079,
       "id": "56aeca22cc38a3c8",
       "name": "Tot Musica",
       "secondary": "Ado",
@@ -1699,7 +1759,7 @@
       "detailPath": "entities/songs/56aeca22cc38a3c8.json"
     },
     {
-      "rank": 1079,
+      "rank": 1080,
       "id": "9014ed9b87cb7edd",
       "name": "Yeah! めっちゃホリディ",
       "secondary": "松浦亜弥",
@@ -1759,7 +1819,7 @@
       "detailPath": "entities/songs/9014ed9b87cb7edd.json"
     },
     {
-      "rank": 1080,
+      "rank": 1081,
       "id": "183cc893c77edd7d",
       "name": "アイロニ",
       "secondary": "すこっぷ feat.初音ミク",
@@ -1820,7 +1880,7 @@
       "detailPath": "entities/songs/183cc893c77edd7d.json"
     },
     {
-      "rank": 1081,
+      "rank": 1082,
       "id": "347e784da7c3242a",
       "name": "あたしを彼女にしたいなら",
       "secondary": "コレサワ",
@@ -1881,7 +1941,7 @@
       "detailPath": "entities/songs/347e784da7c3242a.json"
     },
     {
-      "rank": 1082,
+      "rank": 1083,
       "id": "726c510d49c103d3",
       "name": "いとしのエリー",
       "secondary": "サザンオールスターズ",
@@ -1942,7 +2002,7 @@
       "detailPath": "entities/songs/726c510d49c103d3.json"
     },
     {
-      "rank": 1083,
+      "rank": 1084,
       "id": "a14d755cedd44998",
       "name": "イマジネーション",
       "secondary": "SPYAIR",
@@ -2002,7 +2062,7 @@
       "detailPath": "entities/songs/a14d755cedd44998.json"
     },
     {
-      "rank": 1084,
+      "rank": 1085,
       "id": "c9b798312386d07d",
       "name": "クリスマスソング",
       "secondary": "back number",
@@ -2062,7 +2122,7 @@
       "detailPath": "entities/songs/c9b798312386d07d.json"
     },
     {
-      "rank": 1085,
+      "rank": 1086,
       "id": "cf72fd98de67a796",
       "name": "こちら、幸福安心委員会です",
       "secondary": "うたたP",
@@ -2122,7 +2182,7 @@
       "detailPath": "entities/songs/cf72fd98de67a796.json"
     },
     {
-      "rank": 1086,
+      "rank": 1087,
       "id": "e89bac6befcfbb28",
       "name": "ダーリン",
       "secondary": "",
@@ -2179,7 +2239,7 @@
       "detailPath": "entities/songs/e89bac6befcfbb28.json"
     },
     {
-      "rank": 1087,
+      "rank": 1088,
       "id": "672a94144b450f41",
       "name": "ダンデライオン",
       "secondary": "BUMP OF CHICKEN",
@@ -2239,7 +2299,7 @@
       "detailPath": "entities/songs/672a94144b450f41.json"
     },
     {
-      "rank": 1088,
+      "rank": 1089,
       "id": "eae8f7bcf0d4fc13",
       "name": "はいよろこんで",
       "secondary": "こっちのけんと",
@@ -2299,7 +2359,7 @@
       "detailPath": "entities/songs/eae8f7bcf0d4fc13.json"
     },
     {
-      "rank": 1089,
+      "rank": 1090,
       "id": "6f78e2dbb233831a",
       "name": "プラネタリウム",
       "secondary": "BUMP OF CHICKEN",
@@ -2359,7 +2419,7 @@
       "detailPath": "entities/songs/6f78e2dbb233831a.json"
     },
     {
-      "rank": 1090,
+      "rank": 1091,
       "id": "61b84513f1d8eca2",
       "name": "ペガサス幻想",
       "secondary": "MAKE-UP",
@@ -2419,7 +2479,7 @@
       "detailPath": "entities/songs/61b84513f1d8eca2.json"
     },
     {
-      "rank": 1091,
+      "rank": 1092,
       "id": "76a8348ddb17da6c",
       "name": "ライオン -May'n",
       "secondary": "中島愛",
@@ -2478,7 +2538,7 @@
       "detailPath": "entities/songs/76a8348ddb17da6c.json"
     },
     {
-      "rank": 1092,
+      "rank": 1093,
       "id": "7897fe96f3f5fc41",
       "name": "レム",
       "secondary": "BUMP OF CHICKEN",
@@ -2539,7 +2599,7 @@
       "detailPath": "entities/songs/7897fe96f3f5fc41.json"
     },
     {
-      "rank": 1093,
+      "rank": 1094,
       "id": "b9bc6bc1c683bd8b",
       "name": "ワールドイズマイン",
       "secondary": "ryo(supercell)",
@@ -2599,7 +2659,7 @@
       "detailPath": "entities/songs/b9bc6bc1c683bd8b.json"
     },
     {
-      "rank": 1094,
+      "rank": 1095,
       "id": "a9f316106de8b433",
       "name": "夏の幻",
       "secondary": "GARNET CROW",
@@ -2660,7 +2720,7 @@
       "detailPath": "entities/songs/a9f316106de8b433.json"
     },
     {
-      "rank": 1095,
+      "rank": 1096,
       "id": "2dab56d086a8af0b",
       "name": "火種",
       "secondary": "キタニタツヤ",
@@ -2721,7 +2781,7 @@
       "detailPath": "entities/songs/2dab56d086a8af0b.json"
     },
     {
-      "rank": 1096,
+      "rank": 1097,
       "id": "0014d062ab9edb9f",
       "name": "廻廻奇譚",
       "secondary": "Eve",
@@ -2782,7 +2842,7 @@
       "detailPath": "entities/songs/0014d062ab9edb9f.json"
     },
     {
-      "rank": 1097,
+      "rank": 1098,
       "id": "a4aa790989467ca6",
       "name": "決戦スピリット",
       "secondary": "CHiCO with HoneyWorks",
@@ -2842,7 +2902,7 @@
       "detailPath": "entities/songs/a4aa790989467ca6.json"
     },
     {
-      "rank": 1098,
+      "rank": 1099,
       "id": "c09b5ab3cebad50e",
       "name": "紅蓮の弓矢",
       "secondary": "Linked Horizon",
@@ -2902,7 +2962,7 @@
       "detailPath": "entities/songs/c09b5ab3cebad50e.json"
     },
     {
-      "rank": 1099,
+      "rank": 1100,
       "id": "231c87091cd487a8",
       "name": "初音ミクの消失",
       "secondary": "cosMo@暴走P *",
@@ -2961,66 +3021,6 @@
         }
       ],
       "detailPath": "entities/songs/231c87091cd487a8.json"
-    },
-    {
-      "rank": 1100,
-      "id": "29454d4535abc96b",
-      "name": "真赤な誓い",
-      "secondary": "福山芳樹",
-      "channelId": "UC18XNciU_vM14spGlpHJlHw",
-      "channelHandle": "@hibikichan3150",
-      "channelUrl": "",
-      "occurrenceCount": 26,
-      "videoCount": 26,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "KsOrBMxD5H0",
-          "videoTitle": "【歌枠】ROCKなアニソン縛り🎙🔥初見さんも大歓迎💚【#皇美緒奈 / #MIONA_LIVE】",
-          "channelName": "皇 美緒奈 / MIONA SUMERAGI",
-          "publishedAt": "2026-10-03T15:48:36.542Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KsOrBMxD5H0/hqdefault.jpg",
-          "sourcePath": "sources/Ks/KsOrBMxD5H0.json",
-          "time": "0:14:46",
-          "seconds": 886,
-          "songTitle": "真赤な誓い",
-          "artist": "福山 芳樹"
-        },
-        {
-          "videoId": "dpFyJOedHYc",
-          "videoTitle": "【歌枠】ウタノンの中に漢気を感じる歌枠(？) #ウタノライブ 【KARAOKE/VTuber】",
-          "channelName": "UTANO ch. 白玖ウタノ",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/dpFyJOedHYc/hqdefault.jpg",
-          "sourcePath": "sources/dp/dpFyJOedHYc.json",
-          "time": "1:14:38",
-          "seconds": 4478,
-          "songTitle": "真赤な誓い",
-          "artist": "福山芳樹"
-        },
-        {
-          "videoId": "e1oYI1NrIpE",
-          "videoTitle": "【#VS歌枠リレー】歌枠リレー開会式&琥珀ひなたのターン🔥最高に熱くなれ🔥【 #琥珀ひなた / #チームVS 】",
-          "channelName": "琥珀ひなた",
-          "publishedAt": "2026-09-23T14:55:04.472Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/e1oYI1NrIpE/hqdefault.jpg",
-          "sourcePath": "sources/e1/e1oYI1NrIpE.json",
-          "time": "0:13:00",
-          "seconds": 780,
-          "songTitle": "真赤な誓い",
-          "artist": "福山芳樹"
-        }
-      ],
-      "detailPath": "entities/songs/29454d4535abc96b.json"
     }
   ]
 }

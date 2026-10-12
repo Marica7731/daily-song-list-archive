@@ -1,16 +1,360 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "7d",
   "type": "artists",
   "page": 6,
   "pageSize": 50,
-  "pageCount": 35,
-  "totalCount": 1735,
+  "pageCount": 36,
+  "totalCount": 1763,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 251,
+      "id": "224398f9704b6ede",
+      "name": "ジミーサムP",
+      "secondary": "",
+      "channelId": "UCV5fHI5euR7ZC4ZqhYqlwYw",
+      "channelHandle": "@OHGARUKIch",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 3,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "UyAnwGniVV0",
+          "videoTitle": "【#歌枠】え、3連休なんですか？深夜歌枠🌙🌃【#儚音ルイ/Vsinger】",
+          "channelName": "儚音ルイ Hakana Rui",
+          "publishedAt": "2026-10-11T18:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UyAnwGniVV0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBN8yeoZepCbFs2ZVpqwuyQRmYm5A",
+          "sourcePath": "sources/Uy/UyAnwGniVV0.json",
+          "time": "0:36:03",
+          "seconds": 2163,
+          "songTitle": "from Y to Y",
+          "artist": "ジミーサムP"
+        },
+        {
+          "videoId": "Jo9RXkMerac",
+          "videoTitle": "【縦型歌枠/KARAOKE】爆速帰宅アコギ弾き語り(短めしっとり)🐺#Shorts #VSinger【水瀬 凪/RK Musicライブユニオン】",
+          "channelName": "水瀬 凪/MINASE Nagi",
+          "publishedAt": "2026-10-08T15:06:09.899Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Jo9RXkMerac/hqdefault.jpg",
+          "sourcePath": "sources/Jo/Jo9RXkMerac.json",
+          "time": "0:36:49",
+          "seconds": 2209,
+          "songTitle": "Starduster",
+          "artist": "ジミーサムP"
+        },
+        {
+          "videoId": "ncxWsUcL2yE",
+          "videoTitle": "【#弾き語り/노래뱅】夕暮れとアコギ❄君と私！【261006】",
+          "channelName": "氷晶もね",
+          "publishedAt": "2026-10-07T10:59:28.089Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ncxWsUcL2yE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcx3u9S3YAXZdRL_zMh0b3KhTVAg",
+          "sourcePath": "sources/nc/ncxWsUcL2yE.json",
+          "time": "0:52:24",
+          "seconds": 3144,
+          "songTitle": "No Logic",
+          "artist": "ジミーサムP"
+        }
+      ],
+      "detailPath": "entities/artists/224398f9704b6ede.json"
+    },
+    {
+      "rank": 252,
+      "id": "4cbb0d53f150bded",
+      "name": "すこっぷ",
+      "secondary": "",
+      "channelId": "UC2daHxnuJJBM5NWci1RRkeA",
+      "channelHandle": "@Mikage_RKMusic",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 3,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "HQTNxLfqpvg",
+          "videoTitle": "【 歌枠 】寝る前のまつたりアカペラ歌枠です【 甘萬つもり｜#個人Vtuber 】",
+          "channelName": "甘萬つもり【ヴアーチヤル喫茶甘萬】",
+          "publishedAt": "2026-10-07T16:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HQTNxLfqpvg/hqdefault.jpg",
+          "sourcePath": "sources/HQ/HQTNxLfqpvg.json",
+          "time": "1:52:28",
+          "seconds": 6748,
+          "songTitle": "ドミノ倒シ",
+          "artist": "すこっぷ"
+        },
+        {
+          "videoId": "EpB7s-kYhIY",
+          "videoTitle": "【歌枠】今日も1日お疲れ様！🦋#蝶羽ヘレナ #vsinger",
+          "channelName": "蝶羽 ヘレナ / ageha helena",
+          "publishedAt": "2026-10-06T18:36:47.887Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/EpB7s-kYhIY/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAC_lkUjs115BUT0PpObx6z80jfPQ",
+          "sourcePath": "sources/Ep/EpB7s-kYhIY.json",
+          "time": "4:19:48",
+          "seconds": 15588,
+          "songTitle": "アイロニ",
+          "artist": "すこっぷ"
+        },
+        {
+          "videoId": "lRsHWTkK-0o",
+          "videoTitle": "【歌枠】デビュー21ヶ月！ルーレットで歌うよんっ！【 #紫雨るか / PROJECT NEBULA 】",
+          "channelName": "紫雨るか / Ruka Shigure",
+          "publishedAt": "2026-10-06T15:47:12.854Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/lRsHWTkK-0o/hqdefault.jpg",
+          "sourcePath": "sources/lR/lRsHWTkK-0o.json",
+          "time": "0:43:02",
+          "seconds": 2582,
+          "songTitle": "アイロニ",
+          "artist": "すこっぷ"
+        }
+      ],
+      "detailPath": "entities/artists/4cbb0d53f150bded.json"
+    },
+    {
+      "rank": 253,
+      "id": "03cd35cad3f1e04a",
+      "name": "ぬゆり",
+      "secondary": "",
+      "channelId": "UCd6Wtb_F8H1O3AYKDziJFeg",
+      "channelHandle": "@nanahachi-kyu",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "kNxhOLH5zZ8",
+          "videoTitle": "【定期歌枠 第52回 / Karaoke】初見さん大歓迎！！リクエストだけ歌う歌枠！【#神凪アンナ/Re:AcT】",
+          "channelName": "神凪アンナ - Kannagi Anna -",
+          "publishedAt": "2026-10-10T04:59:07.725Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kNxhOLH5zZ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9UcaP5Ioy_Gr-qnkna_oLZdEozQ",
+          "sourcePath": "sources/kN/kNxhOLH5zZ8.json",
+          "time": "0:20:10",
+          "seconds": 1210,
+          "songTitle": "ロウワー",
+          "artist": "ぬゆり"
+        },
+        {
+          "videoId": "WWI9Bdgn-24",
+          "videoTitle": "【歌枠｜KARAOKE】久しぶりの縦型歌枠！！のんびり歌うよ～！【見習い天使系VTuber｜#星彩らいむ☆ 】#shorts",
+          "channelName": "星彩らいむ☆／SeisaiRaimu",
+          "publishedAt": "2026-10-07T16:24:25.854Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WWI9Bdgn-24/hqdefault.jpg",
+          "sourcePath": "sources/WW/WWI9Bdgn-24.json",
+          "time": "1:27:34",
+          "seconds": 5254,
+          "songTitle": "ロウワー",
+          "artist": "ぬゆり"
+        },
+        {
+          "videoId": "F6deKXIIW_k",
+          "videoTitle": "【#歌枠】ちょ～～っと豪華になった歌枠！【ナナハチキュウ】",
+          "channelName": "ナナハチキュウ / Nanahachi Ch.",
+          "publishedAt": "2026-10-06T15:04:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/F6deKXIIW_k/hqdefault.jpg",
+          "sourcePath": "sources/F6/F6deKXIIW_k.json",
+          "time": "1:51:12",
+          "seconds": 6672,
+          "songTitle": "フラジール",
+          "artist": "ぬゆり"
+        }
+      ],
+      "detailPath": "entities/artists/03cd35cad3f1e04a.json"
+    },
+    {
+      "rank": 254,
+      "id": "ea78bcbf4937fb21",
+      "name": "のぼる↑",
+      "secondary": "",
+      "channelId": "UCF0CGQ2oRB_W9dvrKusZJOA",
+      "channelHandle": "@%E3%81%95%E3%81%8D%E3%81%AE%E3%82%93_non",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "V88T_9GNMps",
+          "videoTitle": "【縦型歌枠】高評価50目指したい！初見さん◎アニソン・ボカロ歌います！【さきのん/VPL】カラオケJOYSOUND for STREAMER",
+          "channelName": "さきのん-Sakinon-",
+          "publishedAt": "2026-10-12T00:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/V88T_9GNMps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfq5O6bPmzVBwVM5g9rZa7WiQwVw",
+          "sourcePath": "sources/V8/V88T_9GNMps.json",
+          "time": "1:29:13",
+          "seconds": 5353,
+          "songTitle": "白い雪のプリンセスは",
+          "artist": "のぼる↑"
+        },
+        {
+          "videoId": "UyrBSmA5HaI",
+          "videoTitle": "【 縦型歌枠 】ボカロ曲縛り歌枠🕊✨1曲聴いていってね！ singing stream 【 #しらせライブ / #無原唱レコード 】 #shorts #Vtuber #Vsinger",
+          "channelName": "白河しらせ / SHIRASE SHIRAKAWA",
+          "publishedAt": "2026-10-10T06:31:54.787Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UyrBSmA5HaI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDV8WLPPbv65n5Nd9OVpLS2T47vug",
+          "sourcePath": "sources/Uy/UyrBSmA5HaI.json",
+          "time": "1:45:48",
+          "seconds": 6348,
+          "songTitle": "白い雪のプリンセスは",
+          "artist": "のぼる↑"
+        },
+        {
+          "videoId": "fq11ZemsyHE",
+          "videoTitle": "ゆったりお歌 #歌枠",
+          "channelName": "空ノsorano",
+          "publishedAt": "2026-10-09T16:38:08.715Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fq11ZemsyHE/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAsqI96X84-SyhtnPhkUB8Lk5Jfaw",
+          "sourcePath": "sources/fq/fq11ZemsyHE.json",
+          "time": "3:08:48",
+          "seconds": 11328,
+          "songTitle": "白い雪のプリンセスは",
+          "artist": "のぼる↑"
+        }
+      ],
+      "detailPath": "entities/artists/ea78bcbf4937fb21.json"
+    },
+    {
+      "rank": 255,
+      "id": "039fd06d254d9c5d",
+      "name": "ハチ",
+      "secondary": "",
+      "channelId": "UChxErvpRO-qLsCrAid3Qnfw",
+      "channelHandle": "@%E8%9D%B6%E7%BE%BD%E3%83%98%E3%83%AC%E3%83%8A",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 3,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "bZVaPGgu-AU",
+          "videoTitle": "〖#歌枠〗V系好き、低音女子好きに刺され♡ #凰牙人類攻略〖アニソン￤V系￤JPOP￤サンホラ〗",
+          "channelName": "RUKI Ch. 凰牙るき",
+          "publishedAt": "2026-10-09T20:51:58.336Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bZVaPGgu-AU/hqdefault.jpg",
+          "sourcePath": "sources/bZ/bZVaPGgu-AU.json",
+          "time": "5:04:13",
+          "seconds": 18253,
+          "songTitle": "Mrs.Pumpkinの滑稽な夢",
+          "artist": "ハチ"
+        },
+        {
+          "videoId": "k87HSQoIcvw",
+          "videoTitle": "【歌枠】沢山歩くと足のいたるところが弾ける音、しませんか？ #妃玖ノ記録【妃玖/RKmusic/Fused】",
+          "channelName": "妃玖 - kisaki",
+          "publishedAt": "2026-10-07T16:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k87HSQoIcvw/hqdefault.jpg",
+          "sourcePath": "sources/k8/k87HSQoIcvw.json",
+          "time": "0:09:28",
+          "seconds": 568,
+          "songTitle": "砂の惑星",
+          "artist": "ハチ"
+        },
+        {
+          "videoId": "EpB7s-kYhIY",
+          "videoTitle": "【歌枠】今日も1日お疲れ様！🦋#蝶羽ヘレナ #vsinger",
+          "channelName": "蝶羽 ヘレナ / ageha helena",
+          "publishedAt": "2026-10-06T18:36:47.887Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/EpB7s-kYhIY/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAC_lkUjs115BUT0PpObx6z80jfPQ",
+          "sourcePath": "sources/Ep/EpB7s-kYhIY.json",
+          "time": "0:46:39",
+          "seconds": 2799,
+          "songTitle": "パンダヒーロー",
+          "artist": "ハチ"
+        }
+      ],
+      "detailPath": "entities/artists/039fd06d254d9c5d.json"
+    },
+    {
+      "rank": 256,
+      "id": "3636ffa01ca80409",
+      "name": "ハチワレ(CV:田中誠人)",
+      "secondary": "",
+      "channelId": "UCWfF0DB6m_t2CE3KcOOOX7g",
+      "channelHandle": "@arale_yumemita",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "zsHjZraF_jY",
+          "videoTitle": "〖 #歌枠￤KARAOKE 〗アニソン￤JPOP LIVE前日の短め歌枠✨ギャップボイスで歌います.ᐟ #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+          "channelName": "魔ノむえる -Mano Mueru-",
+          "publishedAt": "2026-10-10T11:26:28.221Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zsHjZraF_jY/hqdefault.jpg",
+          "sourcePath": "sources/zs/zsHjZraF_jY.json",
+          "time": "1:36:23",
+          "seconds": 5783,
+          "songTitle": "ひとりごつ",
+          "artist": "ハチワレ（CV:田中 誠人）"
+        },
+        {
+          "videoId": "spFnphSWWUU",
+          "videoTitle": "【歌枠 / Singing Stream】初見さん歓迎◎まったり弾き語り！！【INARI / 新人VTuber】#いなりお使い中",
+          "channelName": "INARI",
+          "publishedAt": "2026-10-08T13:14:33.284Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/spFnphSWWUU/hqdefault.jpg",
+          "sourcePath": "sources/sp/spFnphSWWUU.json",
+          "time": "0:42:08",
+          "seconds": 2528,
+          "songTitle": "ひとりごつ",
+          "artist": "ハチワレ(CV.田中誠人)"
+        },
+        {
+          "videoId": "y4sjmETSP3w",
+          "videoTitle": "【歌枠 / Singing Stream】夜のまったり弾き語り🌙リクエスト拾う！【INARI / 新人VTuber】#いなりお使い中",
+          "channelName": "INARI",
+          "publishedAt": "2026-10-06T14:10:35.976Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y4sjmETSP3w/hqdefault.jpg",
+          "sourcePath": "sources/y4/y4sjmETSP3w.json",
+          "time": "0:59:36",
+          "seconds": 3576,
+          "songTitle": "ひとりごつ",
+          "artist": "ハチワレ(CV.田中誠人)"
+        }
+      ],
+      "detailPath": "entities/artists/3636ffa01ca80409.json"
+    },
+    {
+      "rank": 257,
       "id": "53c0b8935c43789d",
       "name": "杏里",
       "secondary": "",
@@ -67,7 +411,7 @@
       "detailPath": "entities/artists/53c0b8935c43789d.json"
     },
     {
-      "rank": 252,
+      "rank": 258,
       "id": "e23414928f65abd1",
       "name": "久保田早紀",
       "secondary": "",
@@ -124,7 +468,7 @@
       "detailPath": "entities/artists/e23414928f65abd1.json"
     },
     {
-      "rank": 253,
+      "rank": 259,
       "id": "897cedc2a279da1e",
       "name": "橋本潮",
       "secondary": "",
@@ -181,7 +525,7 @@
       "detailPath": "entities/artists/897cedc2a279da1e.json"
     },
     {
-      "rank": 254,
+      "rank": 260,
       "id": "14483747dd9d87ae",
       "name": "黒うさP",
       "secondary": "",
@@ -238,7 +582,7 @@
       "detailPath": "entities/artists/14483747dd9d87ae.json"
     },
     {
-      "rank": 255,
+      "rank": 261,
       "id": "8b0be66df50d616b",
       "name": "山崎まさよし",
       "secondary": "",
@@ -295,7 +639,7 @@
       "detailPath": "entities/artists/8b0be66df50d616b.json"
     },
     {
-      "rank": 256,
+      "rank": 262,
       "id": "0e837118d0a21397",
       "name": "真宮寺さくら(横山智佐)＆帝国歌劇団",
       "secondary": "",
@@ -352,7 +696,7 @@
       "detailPath": "entities/artists/0e837118d0a21397.json"
     },
     {
-      "rank": 257,
+      "rank": 263,
       "id": "93e0674b6ebed3da",
       "name": "想太 feat.歌愛ユキ",
       "secondary": "",
@@ -410,7 +754,7 @@
       "detailPath": "entities/artists/93e0674b6ebed3da.json"
     },
     {
-      "rank": 258,
+      "rank": 264,
       "id": "933c797d230dfc42",
       "name": "相川七瀬",
       "secondary": "",
@@ -467,65 +811,7 @@
       "detailPath": "entities/artists/933c797d230dfc42.json"
     },
     {
-      "rank": 259,
-      "id": "fadccdb7831e18f8",
-      "name": "土",
-      "secondary": "",
-      "channelId": "UCaF1P4dW4prd5oIgpJtRwDw",
-      "channelHandle": "@SaotomeOtoha",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 4,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "0iIY9M8YIws",
-          "videoTitle": "【弾き語り】おひさしチル歌枠🎸おしゃべりもチルにできたい人生であった【 空跳つもり / re;BON1期生 】Singing Stream",
-          "channelName": "空跳つもり / Soratobu Tsumori 【 re;BON 】",
-          "publishedAt": "2026-10-08T14:23:52.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0iIY9M8YIws/hqdefault.jpg",
-          "sourcePath": "sources/0i/0iIY9M8YIws.json",
-          "time": "0:12:00",
-          "seconds": 720,
-          "songTitle": "つもり枠は【12/5",
-          "artist": "土"
-        },
-        {
-          "videoId": "ry7chj_R79k",
-          "videoTitle": "【 定期歌枠 / KARAOKE 】好きな歌うたう！BDライブ続報もあるよ！ #水槽夜会 suisouyakai Vol.129【 瀬戸乃とと / RK Music / ライブユニオン 】",
-          "channelName": "瀬戸乃とと",
-          "publishedAt": "2026-10-07T15:06:49.511Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ry7chj_R79k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnwW3rJw4WyPnEL5B0zEhmRBdlXg",
-          "sourcePath": "sources/ry/ry7chj_R79k.json",
-          "time": "0:21:00",
-          "seconds": 1260,
-          "songTitle": "～10",
-          "artist": "土"
-        },
-        {
-          "videoId": "RjlY2cM8IEs",
-          "videoTitle": "【#歌枠/KARAOKE】3.5周年カウントダウンだ～！まったりしてって💛 #早乙女乙葉 #VTuber #初見さん大歓迎",
-          "channelName": "早乙女乙葉-SaotomeOtoha-",
-          "publishedAt": "2026-10-06T16:12:43.206Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RjlY2cM8IEs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUABovOX_wMOCK_xktYGGODqBCDgqAE=&rs=AOn4CLDvohqCyAGRO-N-NkwuLNW2mo3w5Q&usqp=CBU",
-          "sourcePath": "sources/Rj/RjlY2cM8IEs.json",
-          "time": "0:12:00",
-          "seconds": 720,
-          "songTitle": "10月31日",
-          "artist": "土"
-        }
-      ],
-      "detailPath": "entities/artists/fadccdb7831e18f8.json"
-    },
-    {
-      "rank": 260,
+      "rank": 265,
       "id": "3965ebd902a4ae3f",
       "name": "倍賞千恵子",
       "secondary": "",
@@ -583,7 +869,64 @@
       "detailPath": "entities/artists/3965ebd902a4ae3f.json"
     },
     {
-      "rank": 261,
+      "rank": 266,
+      "id": "2f24575c8f901c18",
+      "name": "福山雅治",
+      "secondary": "",
+      "channelId": "UCaXvh8Umz9xhjv_O6g9oGWg",
+      "channelHandle": "@nichinami_sayu_23",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 3,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ec90atfE9E8",
+          "videoTitle": "【#スポソン歌枠リレー】熱血🔥お笑い担当主催お姉さんです。様子がおかしいと言われますが頑張って歌います!!🎤熱いスポーツソングを召し上がれ!! 【アップランド /ぶいぱい】",
+          "channelName": "ベルモット・ベルーナ / Vermouth Belluna【APP LAND】",
+          "publishedAt": "2026-10-12T11:18:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ec90atfE9E8/hqdefault.jpg",
+          "sourcePath": "sources/ec/ec90atfE9E8.json",
+          "time": "0:23:43",
+          "seconds": 1423,
+          "songTitle": "虹",
+          "artist": "福山雅治"
+        },
+        {
+          "videoId": "6eiU70mwsms",
+          "videoTitle": "【 歌枠 】深夜の歌枠雑談🪽初見さん・ROM勢さんも大歓迎◎【 #新人vtuber / 芽森ひより 】【 #夜活 】【 #歌枠 】",
+          "channelName": "芽森ひより",
+          "publishedAt": "2026-10-11T19:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6eiU70mwsms/hqdefault.jpg",
+          "sourcePath": "sources/6e/6eiU70mwsms.json",
+          "time": "2:45:12",
+          "seconds": 9912,
+          "songTitle": "𝟏𝟏. 最愛",
+          "artist": "福山雅治"
+        },
+        {
+          "videoId": "SKfSkj_5qck",
+          "videoTitle": "【#歌枠】✨🎤10月10日の定期お歌雑談！初見さんも大歓迎🎵【#新人Vtuber/日波さゆ/#shorts 】",
+          "channelName": "日波 さゆ(Nichinami Sayu)",
+          "publishedAt": "2026-10-10T09:37:02.622Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SKfSkj_5qck/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoVlRHl27Jvh600gTCyoDfEuUEbQ",
+          "sourcePath": "sources/SK/SKfSkj_5qck.json",
+          "time": "0:13:37",
+          "seconds": 817,
+          "songTitle": "虹",
+          "artist": "福山雅治"
+        }
+      ],
+      "detailPath": "entities/artists/2f24575c8f901c18.json"
+    },
+    {
+      "rank": 267,
       "id": "388e1521662dcbb3",
       "name": "本名陽子",
       "secondary": "",
@@ -640,7 +983,7 @@
       "detailPath": "entities/artists/388e1521662dcbb3.json"
     },
     {
-      "rank": 262,
+      "rank": 268,
       "id": "e8c45206cdbc68f4",
       "name": "buzzG",
       "secondary": "",
@@ -697,7 +1040,7 @@
       "detailPath": "entities/artists/e8c45206cdbc68f4.json"
     },
     {
-      "rank": 263,
+      "rank": 269,
       "id": "a341fc80d2c89d52",
       "name": "CHEMISTRY",
       "secondary": "",
@@ -754,7 +1097,7 @@
       "detailPath": "entities/artists/a341fc80d2c89d52.json"
     },
     {
-      "rank": 264,
+      "rank": 270,
       "id": "75a471202bb2749e",
       "name": "DATEKEN",
       "secondary": "",
@@ -811,7 +1154,7 @@
       "detailPath": "entities/artists/75a471202bb2749e.json"
     },
     {
-      "rank": 265,
+      "rank": 271,
       "id": "a35d44a74156a786",
       "name": "KOTOKO",
       "secondary": "",
@@ -868,64 +1211,7 @@
       "detailPath": "entities/artists/a35d44a74156a786.json"
     },
     {
-      "rank": 266,
-      "id": "f449c12473fb9333",
-      "name": "Tommy heavenly6",
-      "secondary": "",
-      "channelId": "UCwuS0uY-Z2Gr_5OV2oFybFA",
-      "channelHandle": "@KMNZOFFICIAL_NEROS",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 3,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "SKfSkj_5qck",
-          "videoTitle": "【#歌枠】✨🎤10月10日の定期お歌雑談！初見さんも大歓迎🎵【#新人Vtuber/日波さゆ/#shorts 】",
-          "channelName": "日波 さゆ(Nichinami Sayu)",
-          "publishedAt": "2026-10-10T09:37:02.622Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SKfSkj_5qck/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoVlRHl27Jvh600gTCyoDfEuUEbQ",
-          "sourcePath": "sources/SK/SKfSkj_5qck.json",
-          "time": "3:09:30",
-          "seconds": 11370,
-          "songTitle": "Pray",
-          "artist": "Tommy Heavenly6"
-        },
-        {
-          "videoId": "l_opwSwnJbA",
-          "videoTitle": "《 アニソン縛り #歌枠 / KARAOKE 》今日も歌いたい💃💃💃《 焔魔るり/RK Musicライブユニオン 》 #作業用BGM",
-          "channelName": "焔魔るり CH. / Ruri Enma",
-          "publishedAt": "2026-10-08T15:52:16.783Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/l_opwSwnJbA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAbUoRTu_AaTOyc3LSj7KgSW59-g&usqp=CBQ",
-          "sourcePath": "sources/l_/l_opwSwnJbA.json",
-          "time": "1:01:19",
-          "seconds": 3679,
-          "songTitle": "PAPERMOON",
-          "artist": "Tommy heavenly6"
-        },
-        {
-          "videoId": "IQk0Gn2xHhA",
-          "videoTitle": "【3Dコラボ歌枠】#バビネロ やりたい放題SP #KMNZNERO #HTH",
-          "channelName": "KMNZ",
-          "publishedAt": "2026-10-07T12:38:31.019Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/IQk0Gn2xHhA/hqdefault.jpg",
-          "sourcePath": "sources/IQ/IQk0Gn2xHhA.json",
-          "time": "0:41:56",
-          "seconds": 2516,
-          "songTitle": "Pray",
-          "artist": "Tommy heavenly6"
-        }
-      ],
-      "detailPath": "entities/artists/f449c12473fb9333.json"
-    },
-    {
-      "rank": 267,
+      "rank": 272,
       "id": "739f1112df983e2c",
       "name": "あきよしふみえ",
       "secondary": "",
@@ -982,7 +1268,7 @@
       "detailPath": "entities/artists/739f1112df983e2c.json"
     },
     {
-      "rank": 268,
+      "rank": 273,
       "id": "47f6f3d5ae0c0efa",
       "name": "すこっぷ feat. 初音ミク",
       "secondary": "",
@@ -1039,7 +1325,7 @@
       "detailPath": "entities/artists/47f6f3d5ae0c0efa.json"
     },
     {
-      "rank": 269,
+      "rank": 274,
       "id": "d176f73d9313a8a5",
       "name": "夏川椎菜",
       "secondary": "",
@@ -1096,7 +1382,7 @@
       "detailPath": "entities/artists/d176f73d9313a8a5.json"
     },
     {
-      "rank": 270,
+      "rank": 275,
       "id": "4d377af956648b18",
       "name": "玉置成実",
       "secondary": "",
@@ -1153,7 +1439,7 @@
       "detailPath": "entities/artists/4d377af956648b18.json"
     },
     {
-      "rank": 271,
+      "rank": 276,
       "id": "24b40eb6b750de09",
       "name": "原口沙輔",
       "secondary": "",
@@ -1210,7 +1496,7 @@
       "detailPath": "entities/artists/24b40eb6b750de09.json"
     },
     {
-      "rank": 272,
+      "rank": 277,
       "id": "ab658bbfb63e3331",
       "name": "荒井由実",
       "secondary": "",
@@ -1268,7 +1554,7 @@
       "detailPath": "entities/artists/ab658bbfb63e3331.json"
     },
     {
-      "rank": 273,
+      "rank": 278,
       "id": "8329949a04927e08",
       "name": "中西保志",
       "secondary": "",
@@ -1325,64 +1611,7 @@
       "detailPath": "entities/artists/8329949a04927e08.json"
     },
     {
-      "rank": 274,
-      "id": "1edf00555e09a36d",
-      "name": "梅とら",
-      "secondary": "",
-      "channelId": "UCyZiOun3GWF8MQIkhSIHwgw",
-      "channelHandle": "@wolf__Shinonome",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 3,
-      "songCount": 3,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Nofrve7K0Nw",
-          "videoTitle": "【歌枠/Karaoke 】今宵も深夜のまったり歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-10-08T19:22:00.845Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Nofrve7K0Nw/hqdefault.jpg",
-          "sourcePath": "sources/No/Nofrve7K0Nw.json",
-          "time": "0:45:21",
-          "seconds": 2721,
-          "songTitle": "威風堂々",
-          "artist": "梅とら"
-        },
-        {
-          "videoId": "XX9w5HG4zJA",
-          "videoTitle": "【#karaoke #歌枠 / singing stream 】⚡カッコイイ電子音マイクで歌う⚡ボカロ中心歌枠🎤✨【Δ.DELUTAYA】",
-          "channelName": "DELUTAYA Δ.",
-          "publishedAt": "2026-10-08T17:00:41.851Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XX9w5HG4zJA/hqdefault.jpg",
-          "sourcePath": "sources/XX/XX9w5HG4zJA.json",
-          "time": "1:17:00",
-          "seconds": 4620,
-          "songTitle": "狂喜乱舞",
-          "artist": "梅とら"
-        },
-        {
-          "videoId": "jPIrY0p0jtc",
-          "videoTitle": "┆#歌枠 / #KARAOKE┆泥酔カラオケ.ᐟ.ᐣ 酔っ払い、元気に歌います.ᐟ.ᐟ〖#東雲うる 〗",
-          "channelName": "東雲うる - Uru Shinonome -",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jPIrY0p0jtc/hqdefault.jpg",
-          "sourcePath": "sources/jP/jPIrY0p0jtc.json",
-          "time": "0:54:28",
-          "seconds": 3268,
-          "songTitle": "┆ 威風堂々",
-          "artist": "梅とら"
-        }
-      ],
-      "detailPath": "entities/artists/1edf00555e09a36d.json"
-    },
-    {
-      "rank": 275,
+      "rank": 279,
       "id": "298cada336be4053",
       "name": "友成空",
       "secondary": "",
@@ -1439,7 +1668,7 @@
       "detailPath": "entities/artists/298cada336be4053.json"
     },
     {
-      "rank": 276,
+      "rank": 280,
       "id": "8fb233054bb2eb7f",
       "name": "和ぬか",
       "secondary": "",
@@ -1496,7 +1725,7 @@
       "detailPath": "entities/artists/8fb233054bb2eb7f.json"
     },
     {
-      "rank": 277,
+      "rank": 281,
       "id": "4964147bd3f164f6",
       "name": "40mP feat.GUMI",
       "secondary": "",
@@ -1541,7 +1770,7 @@
       "detailPath": "entities/artists/4964147bd3f164f6.json"
     },
     {
-      "rank": 278,
+      "rank": 282,
       "id": "47db1457e96e5b54",
       "name": "DUSTCELL",
       "secondary": "",
@@ -1586,7 +1815,7 @@
       "detailPath": "entities/artists/47db1457e96e5b54.json"
     },
     {
-      "rank": 279,
+      "rank": 283,
       "id": "b1bce919720e9a6a",
       "name": "GLAY",
       "secondary": "",
@@ -1632,7 +1861,7 @@
       "detailPath": "entities/artists/b1bce919720e9a6a.json"
     },
     {
-      "rank": 280,
+      "rank": 284,
       "id": "b1b6f04ea0b644dc",
       "name": "JUJU",
       "secondary": "",
@@ -1677,52 +1906,7 @@
       "detailPath": "entities/artists/b1b6f04ea0b644dc.json"
     },
     {
-      "rank": 281,
-      "id": "5495573e47304c93",
-      "name": "Kiroro",
-      "secondary": "",
-      "channelId": "UCnYrx-hDfnlBVuO8D8L2ByQ",
-      "channelHandle": "@SHUNA_MGS",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "TbuTnYYHe6s",
-          "videoTitle": "【 #歌枠 】初見大歓迎💡デビュー1ヵ月！CH登録4000人✨初耐久歌枠！【 #新人Vtuber｜ #白叉ねむ 】",
-          "channelName": "白叉ねむ / Shiramata Nemu",
-          "publishedAt": "2026-10-11T20:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TbuTnYYHe6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIUGXJrMCjk2bz5ybJ0K-vncuilQ",
-          "sourcePath": "sources/Tb/TbuTnYYHe6s.json",
-          "time": "7:26:43",
-          "seconds": 26803,
-          "songTitle": "長い間",
-          "artist": "Kiroro"
-        },
-        {
-          "videoId": "449k5EfZPDY",
-          "videoTitle": "【 #歌枠 】しっとり歌枠✨ #shorts #作業用bgm #karaoke【 #無原唱レコード / #朱名 】",
-          "channelName": "朱名 / SHUNA",
-          "publishedAt": "2026-10-06T10:20:29.407Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/449k5EfZPDY/hqdefault.jpg",
-          "sourcePath": "sources/44/449k5EfZPDY.json",
-          "time": "1:11:00",
-          "seconds": 4260,
-          "songTitle": "Best Friend",
-          "artist": "Kiroro"
-        }
-      ],
-      "detailPath": "entities/artists/5495573e47304c93.json"
-    },
-    {
-      "rank": 282,
+      "rank": 285,
       "id": "9576449aa985be14",
       "name": "トーマ",
       "secondary": "",
@@ -1768,7 +1952,7 @@
       "detailPath": "entities/artists/9576449aa985be14.json"
     },
     {
-      "rank": 283,
+      "rank": 286,
       "id": "02467a38fffc0872",
       "name": "ドラゴンボールZ",
       "secondary": "",
@@ -1813,7 +1997,7 @@
       "detailPath": "entities/artists/02467a38fffc0872.json"
     },
     {
-      "rank": 284,
+      "rank": 287,
       "id": "9c01f325c30357b3",
       "name": "ラクス・クライン（田中理恵）",
       "secondary": "",
@@ -1858,7 +2042,7 @@
       "detailPath": "entities/artists/9c01f325c30357b3.json"
     },
     {
-      "rank": 285,
+      "rank": 288,
       "id": "f4fdfca56a4ee580",
       "name": "奥井亜紀",
       "secondary": "",
@@ -1903,7 +2087,7 @@
       "detailPath": "entities/artists/f4fdfca56a4ee580.json"
     },
     {
-      "rank": 286,
+      "rank": 289,
       "id": "b376d3cdacd8c47d",
       "name": "名探偵コナン",
       "secondary": "",
@@ -1948,7 +2132,7 @@
       "detailPath": "entities/artists/b376d3cdacd8c47d.json"
     },
     {
-      "rank": 287,
+      "rank": 290,
       "id": "62a835807a24332f",
       "name": "Keina Suda",
       "secondary": "",
@@ -1981,7 +2165,7 @@
       "detailPath": "entities/artists/62a835807a24332f.json"
     },
     {
-      "rank": 288,
+      "rank": 291,
       "id": "4f544e766ac966bc",
       "name": "黒咲ルシア",
       "secondary": "",
@@ -2014,7 +2198,7 @@
       "detailPath": "entities/artists/4f544e766ac966bc.json"
     },
     {
-      "rank": 289,
+      "rank": 292,
       "id": "648ce230ae311bf5",
       "name": "164 feat.GUMI",
       "secondary": "",
@@ -2071,7 +2255,7 @@
       "detailPath": "entities/artists/648ce230ae311bf5.json"
     },
     {
-      "rank": 290,
+      "rank": 293,
       "id": "2b1d295b636e9493",
       "name": "40㍍P",
       "secondary": "",
@@ -2128,7 +2312,7 @@
       "detailPath": "entities/artists/2b1d295b636e9493.json"
     },
     {
-      "rank": 291,
+      "rank": 294,
       "id": "4da58243b44691e0",
       "name": "AKASAKI",
       "secondary": "",
@@ -2185,64 +2369,7 @@
       "detailPath": "entities/artists/4da58243b44691e0.json"
     },
     {
-      "rank": 292,
-      "id": "512b123037c9be78",
-      "name": "Buono!",
-      "secondary": "",
-      "channelId": "UCPgg_A08ksSYP-VivJGniRw",
-      "channelHandle": "@%E6%A1%9C%E5%BA%AD%E7%BE%BD%E5%A5%88",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iF2FVEhEoQM",
-          "videoTitle": "【#歌枠】1時間だけ歌うよ #shorts #作業用bgm #karaoke【アニソン / ボカロ】",
-          "channelName": "Sakura CH.餅々さくら",
-          "publishedAt": "2026-10-08T16:18:16.451Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iF2FVEhEoQM/hqdefault.jpg",
-          "sourcePath": "sources/iF/iF2FVEhEoQM.json",
-          "time": "0:58:45",
-          "seconds": 3525,
-          "songTitle": "初恋サイダー",
-          "artist": "Buono!"
-        },
-        {
-          "videoId": "sj-N_UEZik0",
-          "videoTitle": "【 #歌枠 】夜な夜なお歌好きさんが集まるところ🎤🌙 #Vsinger",
-          "channelName": "歌月えん",
-          "publishedAt": "2026-10-08T15:22:56.308Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sj-N_UEZik0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBatQsXU9UJvtuFWIXMjHh0PnXbqQ",
-          "sourcePath": "sources/sj/sj-N_UEZik0.json",
-          "time": "1:18:59",
-          "seconds": 4739,
-          "songTitle": "初恋サイダー",
-          "artist": "Buono!"
-        },
-        {
-          "videoId": "LM5ZGnVwa8c",
-          "videoTitle": "【高評価123を目指す！】癒しを求めてる方へ！歌枠配信いかがですか？初見さん大歓迎！💛【新人VTuberの雑談／歌枠】🐻",
-          "channelName": "桜庭 羽奈【パレデミア学園】",
-          "publishedAt": "2026-10-06T14:21:45.510Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LM5ZGnVwa8c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXZoOXAR48xyMcr9z1V69VUv48oA",
-          "sourcePath": "sources/LM/LM5ZGnVwa8c.json",
-          "time": "0:28:31",
-          "seconds": 1711,
-          "songTitle": "初恋サイダー",
-          "artist": "Buono!"
-        }
-      ],
-      "detailPath": "entities/artists/512b123037c9be78.json"
-    },
-    {
-      "rank": 293,
+      "rank": 295,
       "id": "93f4f67e010c1c70",
       "name": "C-C-B",
       "secondary": "",
@@ -2299,7 +2426,7 @@
       "detailPath": "entities/artists/93f4f67e010c1c70.json"
     },
     {
-      "rank": 294,
+      "rank": 296,
       "id": "a6c4abee9e6b03dc",
       "name": "CANDY TUNE",
       "secondary": "",
@@ -2357,7 +2484,7 @@
       "detailPath": "entities/artists/a6c4abee9e6b03dc.json"
     },
     {
-      "rank": 295,
+      "rank": 297,
       "id": "bdabeaf33367a879",
       "name": "Do As Infinity",
       "secondary": "",
@@ -2414,7 +2541,7 @@
       "detailPath": "entities/artists/bdabeaf33367a879.json"
     },
     {
-      "rank": 296,
+      "rank": 298,
       "id": "031895646aaa5450",
       "name": "FIELD OF VIEW",
       "secondary": "",
@@ -2471,7 +2598,7 @@
       "detailPath": "entities/artists/031895646aaa5450.json"
     },
     {
-      "rank": 297,
+      "rank": 299,
       "id": "508dcde6fef7f3cf",
       "name": "FRUITS ZIPPER",
       "secondary": "",
@@ -2529,7 +2656,7 @@
       "detailPath": "entities/artists/508dcde6fef7f3cf.json"
     },
     {
-      "rank": 298,
+      "rank": 300,
       "id": "066ab5882803c052",
       "name": "GARNiDELiA",
       "secondary": "",
@@ -2584,121 +2711,6 @@
         }
       ],
       "detailPath": "entities/artists/066ab5882803c052.json"
-    },
-    {
-      "rank": 299,
-      "id": "9c0c2fccc24236c4",
-      "name": "Goose house",
-      "secondary": "",
-      "channelId": "UCg4x4QmjPx0I1HNQp9h1xvg",
-      "channelHandle": "@inuzukiren",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "xyPK3yh0cNg",
-          "videoTitle": "【 #朝活 #歌枠 ┆sing 】歌聴いてく? 縦型朝歌の時間☀初見さん大歓迎☁【 杏夜くもり / Re:AcT 】",
-          "channelName": "杏夜 くもり - Anya Kumori -",
-          "publishedAt": "2026-10-12T03:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xyPK3yh0cNg/hqdefault.jpg",
-          "sourcePath": "sources/xy/xyPK3yh0cNg.json",
-          "time": "0:41:43",
-          "seconds": 2503,
-          "songTitle": "光るなら",
-          "artist": "Goose house"
-        },
-        {
-          "videoId": "ND-WOAa3e88",
-          "videoTitle": "【歌枠 / karaoke 】初見様、ROM勢、作業用BGM◎ 自己満足したいので歌います！ 【#武田玄愛 / ゆにふぃ！】#shortsfeed #shorts",
-          "channelName": "武田玄愛 / Takeda kuroa",
-          "publishedAt": "2026-10-09T14:51:25.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ND-WOAa3e88/hqdefault.jpg",
-          "sourcePath": "sources/ND/ND-WOAa3e88.json",
-          "time": "0:19:31",
-          "seconds": 1171,
-          "songTitle": "光るなら",
-          "artist": "Goose house"
-        },
-        {
-          "videoId": "O6M1KUa2VkM",
-          "videoTitle": "【 #歌枠 】 ５万人まで４２７人！初見さん来てー！ 【 戌月れん/Vsinger 】#vtuber #karaoke",
-          "channelName": "Ren.ch戌月れん",
-          "publishedAt": "2026-10-07T09:08:11.663Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/O6M1KUa2VkM/hqdefault.jpg",
-          "sourcePath": "sources/O6/O6M1KUa2VkM.json",
-          "time": "0:56:25",
-          "seconds": 3385,
-          "songTitle": "光るなら",
-          "artist": "Goose house"
-        }
-      ],
-      "detailPath": "entities/artists/9c0c2fccc24236c4.json"
-    },
-    {
-      "rank": 300,
-      "id": "7d570e1e19a3e53c",
-      "name": "GReeeeN",
-      "secondary": "",
-      "channelId": "UCv72evf2OghRQ_VZz8rSYzA",
-      "channelHandle": "@kaonya5",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "JdjheWpnE8M",
-          "videoTitle": "【 #歌枠 #karaoke 】高評価100目指して自由に歌う🍀【#vtuber 】 #みうみうライブ",
-          "channelName": "かわしろみう(みうみう)",
-          "publishedAt": "2026-10-08T16:18:16.451Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JdjheWpnE8M/hqdefault.jpg",
-          "sourcePath": "sources/Jd/JdjheWpnE8M.json",
-          "time": "0:03:31",
-          "seconds": 211,
-          "songTitle": "愛唄",
-          "artist": "GReeeeN"
-        },
-        {
-          "videoId": "k8P2_zOC5XE",
-          "videoTitle": "【 縦型歌枠 】ランチタイム歌枠🕊✨1曲聴いていってね！ singing stream 【 #しらせライブ / #無原唱レコード 】 #shorts #Vtuber #Vsinger",
-          "channelName": "白河しらせ / SHIRASE SHIRAKAWA",
-          "publishedAt": "2026-10-07T05:28:42.803Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/k8P2_zOC5XE/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLDYA-WmftljRs3TS_nhGhdzxWy7Yw",
-          "sourcePath": "sources/k8/k8P2_zOC5XE.json",
-          "time": "1:36:14",
-          "seconds": 5774,
-          "songTitle": "愛唄",
-          "artist": "GReeeeN"
-        },
-        {
-          "videoId": "ga0ESgPvpRM",
-          "videoTitle": "【歌枠/弾き語り】皆様の夜のお供に《Vtuber/訛音屋》 #vtuber #jpvtuber #歌枠 #ボカロ #アニソン #shorts",
-          "channelName": "訛音屋 / Kaonya",
-          "publishedAt": "2026-10-06T15:08:35.242Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ga0ESgPvpRM/hqdefault.jpg",
-          "sourcePath": "sources/ga/ga0ESgPvpRM.json",
-          "time": "0:17:46",
-          "seconds": 1066,
-          "songTitle": "03_キセキ",
-          "artist": "GReeeeN"
-        }
-      ],
-      "detailPath": "entities/artists/7d570e1e19a3e53c.json"
     }
   ]
 }

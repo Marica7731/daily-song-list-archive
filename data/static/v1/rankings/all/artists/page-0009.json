@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "artists",
   "page": 9,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19991,
+  "totalCount": 19998,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 401,
+      "id": "f6a3b7a250785f52",
+      "name": "かぐや（CV.夏吉ゆうこ）、月見ヤチヨ（CV.早見沙織）",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 68,
+      "videoCount": 65,
+      "songCount": 6,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ZvYj1_mwKRg",
+          "videoTitle": "〘 #歌枠 / #singing 〙ライム復活のリハビリ歌枠！#karaoke 〘 紫電ライム /Varium 〙",
+          "channelName": "Lime Ch. 紫電ライム",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZvYj1_mwKRg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXNp0RSSbEjpm-H5NAiEi9jai5_Q",
+          "sourcePath": "sources/Zv/ZvYj1_mwKRg.json",
+          "time": "0:47:01",
+          "seconds": 2821,
+          "songTitle": "ray 超かぐや姫！Version",
+          "artist": "かぐや (cv.夏吉ゆうこ)&月見ヤチヨ (cv.早見沙織)"
+        },
+        {
+          "videoId": "6JmU7-RRCZw",
+          "videoTitle": "【#歌枠/#朝活】いとちゃんといっしょ♪ #3【#VTuber/#涼乃衣兎】",
+          "channelName": "涼乃 衣兎 / Suzushino Ito",
+          "publishedAt": "2026-10-07T00:20:14.608Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6JmU7-RRCZw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcDi5vfQtmDykVNw3MBxDmRQ0bRw",
+          "sourcePath": "sources/6J/6JmU7-RRCZw.json",
+          "time": "0:19:04",
+          "seconds": 1144,
+          "songTitle": "ray 超かぐや姫! Version",
+          "artist": "かぐや(CV.夏吉ゆうこ)、月見ヤチヨ(CV.早見沙織)"
+        },
+        {
+          "videoId": "5SKv5Rfppps",
+          "videoTitle": "【 歌枠 】10月ものんびり進んでいこう~！✦【 #新人vtuber / 宵月れゆり 】",
+          "channelName": "宵月れゆり / Yoiragi Reyuri",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5SKv5Rfppps/hqdefault.jpg",
+          "sourcePath": "sources/5S/5SKv5Rfppps.json",
+          "time": "0:28:12",
+          "seconds": 1692,
+          "songTitle": "ray 超かぐや姫！Version",
+          "artist": "かぐや (cv.夏吉ゆうこ)、月見ヤチヨ (cv.早見沙織)"
+        }
+      ],
+      "detailPath": "entities/artists/f6a3b7a250785f52.json"
+    },
+    {
+      "rank": 402,
       "id": "dd56cae2908ad5e0",
       "name": "煮ル果実",
       "secondary": "",
@@ -71,7 +131,7 @@
       "detailPath": "entities/artists/dd56cae2908ad5e0.json"
     },
     {
-      "rank": 402,
+      "rank": 403,
       "id": "d87c0e934825f233",
       "name": "欅坂46",
       "secondary": "",
@@ -132,7 +192,7 @@
       "detailPath": "entities/artists/d87c0e934825f233.json"
     },
     {
-      "rank": 403,
+      "rank": 404,
       "id": "199d1a9bf7fa7283",
       "name": "チャットモンチー",
       "secondary": "",
@@ -193,7 +253,7 @@
       "detailPath": "entities/artists/199d1a9bf7fa7283.json"
     },
     {
-      "rank": 404,
+      "rank": 405,
       "id": "d5a48690d4f6e8f2",
       "name": "榊原ゆい",
       "secondary": "",
@@ -255,7 +315,7 @@
       "detailPath": "entities/artists/d5a48690d4f6e8f2.json"
     },
     {
-      "rank": 405,
+      "rank": 406,
       "id": "4cf5fe24b4694070",
       "name": "亜沙",
       "secondary": "",
@@ -315,7 +375,7 @@
       "detailPath": "entities/artists/4cf5fe24b4694070.json"
     },
     {
-      "rank": 406,
+      "rank": 407,
       "id": "06a2286b0c61ba8c",
       "name": "MY FIRST STORY",
       "secondary": "",
@@ -375,7 +435,7 @@
       "detailPath": "entities/artists/06a2286b0c61ba8c.json"
     },
     {
-      "rank": 407,
+      "rank": 408,
       "id": "185b540121f4249f",
       "name": "やくしまるえつこ",
       "secondary": "",
@@ -437,7 +497,7 @@
       "detailPath": "entities/artists/185b540121f4249f.json"
     },
     {
-      "rank": 408,
+      "rank": 409,
       "id": "88d55b12b390e83a",
       "name": "花澤香菜",
       "secondary": "",
@@ -498,7 +558,7 @@
       "detailPath": "entities/artists/88d55b12b390e83a.json"
     },
     {
-      "rank": 409,
+      "rank": 410,
       "id": "51f06c2fd20e9782",
       "name": "ももいろクローバーZ",
       "secondary": "",
@@ -556,66 +616,6 @@
         }
       ],
       "detailPath": "entities/artists/51f06c2fd20e9782.json"
-    },
-    {
-      "rank": 410,
-      "id": "1edf00555e09a36d",
-      "name": "梅とら",
-      "secondary": "",
-      "channelId": "UCa_QYqKVEOE_EIZWgiOEZ5A",
-      "channelHandle": "@H.Midori-Ch-%E8%91%89%E5%B1%B1%E7%BF%A0",
-      "channelUrl": "",
-      "occurrenceCount": 67,
-      "videoCount": 54,
-      "songCount": 11,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Nofrve7K0Nw",
-          "videoTitle": "【歌枠/Karaoke 】今宵も深夜のまったり歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-10-08T19:22:00.845Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Nofrve7K0Nw/hqdefault.jpg",
-          "sourcePath": "sources/No/Nofrve7K0Nw.json",
-          "time": "0:45:21",
-          "seconds": 2721,
-          "songTitle": "威風堂々",
-          "artist": "梅とら"
-        },
-        {
-          "videoId": "XX9w5HG4zJA",
-          "videoTitle": "【#karaoke #歌枠 / singing stream 】⚡カッコイイ電子音マイクで歌う⚡ボカロ中心歌枠🎤✨【Δ.DELUTAYA】",
-          "channelName": "DELUTAYA Δ.",
-          "publishedAt": "2026-10-08T17:00:41.851Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XX9w5HG4zJA/hqdefault.jpg",
-          "sourcePath": "sources/XX/XX9w5HG4zJA.json",
-          "time": "1:17:00",
-          "seconds": 4620,
-          "songTitle": "狂喜乱舞",
-          "artist": "梅とら"
-        },
-        {
-          "videoId": "jPIrY0p0jtc",
-          "videoTitle": "┆#歌枠 / #KARAOKE┆泥酔カラオケ.ᐟ.ᐣ 酔っ払い、元気に歌います.ᐟ.ᐟ〖#東雲うる 〗",
-          "channelName": "東雲うる - Uru Shinonome -",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jPIrY0p0jtc/hqdefault.jpg",
-          "sourcePath": "sources/jP/jPIrY0p0jtc.json",
-          "time": "0:54:28",
-          "seconds": 3268,
-          "songTitle": "┆ 威風堂々",
-          "artist": "梅とら"
-        }
-      ],
-      "detailPath": "entities/artists/1edf00555e09a36d.json"
     },
     {
       "rank": 411,
@@ -861,6 +861,66 @@
     },
     {
       "rank": 415,
+      "id": "761f2894570e176a",
+      "name": "大黒摩季",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 66,
+      "videoCount": 62,
+      "songCount": 9,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "j688MAu0JNM",
+          "videoTitle": "【#スポソン歌枠リレー】本当にぶちかましていいんですね？！？！？朝ノ、いっきまーす！！！",
+          "channelName": "朝ノ姉妹ぷろじぇくと",
+          "publishedAt": "2026-10-12T09:23:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/j688MAu0JNM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAVXlDpeKJGDJBk5t50GL6SEsgXw",
+          "sourcePath": "sources/j6/j688MAu0JNM.json",
+          "time": "0:08:38",
+          "seconds": 518,
+          "songTitle": "あなただけ見つめてる",
+          "artist": "大黒摩季"
+        },
+        {
+          "videoId": "zsHjZraF_jY",
+          "videoTitle": "〖 #歌枠￤KARAOKE 〗アニソン￤JPOP LIVE前日の短め歌枠✨ギャップボイスで歌います.ᐟ #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+          "channelName": "魔ノむえる -Mano Mueru-",
+          "publishedAt": "2026-10-10T11:26:28.221Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zsHjZraF_jY/hqdefault.jpg",
+          "sourcePath": "sources/zs/zsHjZraF_jY.json",
+          "time": "1:20:13",
+          "seconds": 4813,
+          "songTitle": "Anything Goes!",
+          "artist": "大黒摩季"
+        },
+        {
+          "videoId": "XjkwWy6FmcA",
+          "videoTitle": "【高評価50目指して！】#歌枠✨🐻‍❄️＃初見さん歓迎 ＃配信 🌸＃雑談 ＃新人vtuber #vtuber ＃vsinger #縦型 #japan #talk #縦型配信 ＃日本 ＃配信",
+          "channelName": "漣 悠葵 / Sazanami Yuki",
+          "publishedAt": "2026-10-10T09:03:50.179Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XjkwWy6FmcA/hqdefault.jpg",
+          "sourcePath": "sources/Xj/XjkwWy6FmcA.json",
+          "time": "0:57:16",
+          "seconds": 3436,
+          "songTitle": "あなただけ見つめてる",
+          "artist": "大黒摩季"
+        }
+      ],
+      "detailPath": "entities/artists/761f2894570e176a.json"
+    },
+    {
+      "rank": 416,
       "id": "d110efb43e016d4e",
       "name": "Orangestar feat. IA",
       "secondary": "",
@@ -921,7 +981,7 @@
       "detailPath": "entities/artists/d110efb43e016d4e.json"
     },
     {
-      "rank": 416,
+      "rank": 417,
       "id": "3c7b5d16f8fb35b0",
       "name": "day after tomorrow",
       "secondary": "",
@@ -981,7 +1041,7 @@
       "detailPath": "entities/artists/3c7b5d16f8fb35b0.json"
     },
     {
-      "rank": 417,
+      "rank": 418,
       "id": "95f9be0f5b769f02",
       "name": "Suara",
       "secondary": "",
@@ -1043,7 +1103,7 @@
       "detailPath": "entities/artists/95f9be0f5b769f02.json"
     },
     {
-      "rank": 418,
+      "rank": 419,
       "id": "469e7a2b0a0c92b5",
       "name": "マキシマム ザ ホルモン",
       "secondary": "",
@@ -1103,7 +1163,7 @@
       "detailPath": "entities/artists/469e7a2b0a0c92b5.json"
     },
     {
-      "rank": 419,
+      "rank": 420,
       "id": "2107888ecc0d63ce",
       "name": "林明日香",
       "secondary": "",
@@ -1162,66 +1222,6 @@
         }
       ],
       "detailPath": "entities/artists/2107888ecc0d63ce.json"
-    },
-    {
-      "rank": 420,
-      "id": "761f2894570e176a",
-      "name": "大黒摩季",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 65,
-      "videoCount": 61,
-      "songCount": 9,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "zsHjZraF_jY",
-          "videoTitle": "〖 #歌枠￤KARAOKE 〗アニソン￤JPOP LIVE前日の短め歌枠✨ギャップボイスで歌います.ᐟ #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
-          "channelName": "魔ノむえる -Mano Mueru-",
-          "publishedAt": "2026-10-10T11:26:28.221Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zsHjZraF_jY/hqdefault.jpg",
-          "sourcePath": "sources/zs/zsHjZraF_jY.json",
-          "time": "1:20:13",
-          "seconds": 4813,
-          "songTitle": "Anything Goes!",
-          "artist": "大黒摩季"
-        },
-        {
-          "videoId": "XjkwWy6FmcA",
-          "videoTitle": "【高評価50目指して！】#歌枠✨🐻‍❄️＃初見さん歓迎 ＃配信 🌸＃雑談 ＃新人vtuber #vtuber ＃vsinger #縦型 #japan #talk #縦型配信 ＃日本 ＃配信",
-          "channelName": "漣 悠葵 / Sazanami Yuki",
-          "publishedAt": "2026-10-10T09:03:50.179Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XjkwWy6FmcA/hqdefault.jpg",
-          "sourcePath": "sources/Xj/XjkwWy6FmcA.json",
-          "time": "0:57:16",
-          "seconds": 3436,
-          "songTitle": "あなただけ見つめてる",
-          "artist": "大黒摩季"
-        },
-        {
-          "videoId": "3MWCPBRW6Yc",
-          "videoTitle": "【 #歌枠 / KARAOKE 】平成アニソン歌枠！初見さん5人に会いたいな！プチお知らせあり！元気になる歌を届ける！〈 #新人vtuber ＞",
-          "channelName": "音蓮みずの / Otoha Mizuno",
-          "publishedAt": "2026-10-05T13:35:46.109Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/3MWCPBRW6Yc/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLDc0o1eNIYLHnqjB4npxDe6a7qffg",
-          "sourcePath": "sources/3M/3MWCPBRW6Yc.json",
-          "time": "1:42:38",
-          "seconds": 6158,
-          "songTitle": "あなただけ見つめてる",
-          "artist": "大黒摩季"
-        }
-      ],
-      "detailPath": "entities/artists/761f2894570e176a.json"
     },
     {
       "rank": 421,

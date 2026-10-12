@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "songs",
   "page": 10,
   "pageSize": 50,
-  "pageCount": 1056,
-  "totalCount": 52789,
+  "pageCount": 1057,
+  "totalCount": 52815,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1654,6 +1654,67 @@
     },
     {
       "rank": 478,
+      "id": "2a2af842c3ae108c",
+      "name": "恋愛裁判",
+      "secondary": "40mP feat.初音ミク",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 56,
+      "videoCount": 56,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-gMBG-ZyJnk",
+          "videoTitle": "【 #歌枠 】同接50人達成で巡る！47都道府県ツアー💛中国地方編Day４【 #ゆらいぶ 】",
+          "channelName": "夢眠ゆらめ -Yumemi Yurame-",
+          "publishedAt": "2026-10-12T08:43:17.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-gMBG-ZyJnk/hqdefault.jpg",
+          "sourcePath": "sources/-g/-gMBG-ZyJnk.json",
+          "time": "0:21:53",
+          "seconds": 1313,
+          "songTitle": "恋愛裁判",
+          "artist": "40mP feat.初音ミク"
+        },
+        {
+          "videoId": "oolrdDiQK5s",
+          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
+          "channelName": "赤石グラナ",
+          "publishedAt": "2026-10-10T01:51:53.498Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
+          "sourcePath": "sources/oo/oolrdDiQK5s.json",
+          "time": "0:28:45",
+          "seconds": 1725,
+          "songTitle": "恋愛裁判",
+          "artist": "40mP feat. 初音ミク"
+        },
+        {
+          "videoId": "WWI9Bdgn-24",
+          "videoTitle": "【歌枠｜KARAOKE】久しぶりの縦型歌枠！！のんびり歌うよ～！【見習い天使系VTuber｜#星彩らいむ☆ 】#shorts",
+          "channelName": "星彩らいむ☆／SeisaiRaimu",
+          "publishedAt": "2026-10-07T16:24:25.854Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WWI9Bdgn-24/hqdefault.jpg",
+          "sourcePath": "sources/WW/WWI9Bdgn-24.json",
+          "time": "1:17:02",
+          "seconds": 4622,
+          "songTitle": "恋愛裁判",
+          "artist": "40mP feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/2a2af842c3ae108c.json"
+    },
+    {
+      "rank": 479,
       "id": "cf2b866296141d65",
       "name": "ultra soul",
       "secondary": "B'z",
@@ -1713,7 +1774,7 @@
       "detailPath": "entities/songs/cf2b866296141d65.json"
     },
     {
-      "rank": 479,
+      "rank": 480,
       "id": "16d3d39591e7d85b",
       "name": "COLORS",
       "secondary": "FLOW",
@@ -1773,7 +1834,7 @@
       "detailPath": "entities/songs/16d3d39591e7d85b.json"
     },
     {
-      "rank": 480,
+      "rank": 481,
       "id": "73b07b60f6fd0d9d",
       "name": "ヴァンパイア",
       "secondary": "Janne Da Arc",
@@ -1833,7 +1894,7 @@
       "detailPath": "entities/songs/73b07b60f6fd0d9d.json"
     },
     {
-      "rank": 481,
+      "rank": 482,
       "id": "a2e6eff98ed7624c",
       "name": "カワキヲアメク",
       "secondary": "美波",
@@ -1894,7 +1955,7 @@
       "detailPath": "entities/songs/a2e6eff98ed7624c.json"
     },
     {
-      "rank": 482,
+      "rank": 483,
       "id": "206ca7cb304f7d83",
       "name": "シャンティ",
       "secondary": "wotaku",
@@ -1955,7 +2016,7 @@
       "detailPath": "entities/songs/206ca7cb304f7d83.json"
     },
     {
-      "rank": 483,
+      "rank": 484,
       "id": "368f542925f4ad80",
       "name": "フィクサー",
       "secondary": "ぬゆり",
@@ -2015,7 +2076,7 @@
       "detailPath": "entities/songs/368f542925f4ad80.json"
     },
     {
-      "rank": 484,
+      "rank": 485,
       "id": "8b4d33d1420eb973",
       "name": "ラプンツェル",
       "secondary": "n-buna",
@@ -2076,7 +2137,7 @@
       "detailPath": "entities/songs/8b4d33d1420eb973.json"
     },
     {
-      "rank": 485,
+      "rank": 486,
       "id": "f897865db7896255",
       "name": "女々しくて",
       "secondary": "ゴールデンボンバー",
@@ -2137,7 +2198,7 @@
       "detailPath": "entities/songs/f897865db7896255.json"
     },
     {
-      "rank": 486,
+      "rank": 487,
       "id": "97a56e627b179c69",
       "name": "白日",
       "secondary": "King Gnu",
@@ -2195,67 +2256,6 @@
         }
       ],
       "detailPath": "entities/songs/97a56e627b179c69.json"
-    },
-    {
-      "rank": 487,
-      "id": "2a2af842c3ae108c",
-      "name": "恋愛裁判",
-      "secondary": "40mP feat.初音ミク",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 55,
-      "videoCount": 55,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oolrdDiQK5s",
-          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-10-10T01:51:53.498Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
-          "sourcePath": "sources/oo/oolrdDiQK5s.json",
-          "time": "0:28:45",
-          "seconds": 1725,
-          "songTitle": "恋愛裁判",
-          "artist": "40mP feat. 初音ミク"
-        },
-        {
-          "videoId": "WWI9Bdgn-24",
-          "videoTitle": "【歌枠｜KARAOKE】久しぶりの縦型歌枠！！のんびり歌うよ～！【見習い天使系VTuber｜#星彩らいむ☆ 】#shorts",
-          "channelName": "星彩らいむ☆／SeisaiRaimu",
-          "publishedAt": "2026-10-07T16:24:25.854Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/WWI9Bdgn-24/hqdefault.jpg",
-          "sourcePath": "sources/WW/WWI9Bdgn-24.json",
-          "time": "1:17:02",
-          "seconds": 4622,
-          "songTitle": "恋愛裁判",
-          "artist": "40mP feat. 初音ミク"
-        },
-        {
-          "videoId": "jPIrY0p0jtc",
-          "videoTitle": "┆#歌枠 / #KARAOKE┆泥酔カラオケ.ᐟ.ᐣ 酔っ払い、元気に歌います.ᐟ.ᐟ〖#東雲うる 〗",
-          "channelName": "東雲うる - Uru Shinonome -",
-          "publishedAt": "2026-10-05T15:28:25.696Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jPIrY0p0jtc/hqdefault.jpg",
-          "sourcePath": "sources/jP/jPIrY0p0jtc.json",
-          "time": "2:21:50",
-          "seconds": 8510,
-          "songTitle": "┆ 恋愛裁判",
-          "artist": "40mP feat.初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/2a2af842c3ae108c.json"
     },
     {
       "rank": 488,
@@ -2320,6 +2320,67 @@
     },
     {
       "rank": 489,
+      "id": "b3ff0f58f1a00237",
+      "name": "罪と罰",
+      "secondary": "椎名林檎",
+      "channelId": "UCV5fHI5euR7ZC4ZqhYqlwYw",
+      "channelHandle": "@OHGARUKIch",
+      "channelUrl": "",
+      "occurrenceCount": 55,
+      "videoCount": 54,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "a6kB4HgDThs",
+          "videoTitle": "⸜ #歌枠 #耐久⸝ 同接30目標!!好きな歌を歌います!! ᎒ #羽月うずな #逃げやがったぞおぃ #Vtuber ᎒",
+          "channelName": "羽月うずな / Hazuki Uzuna",
+          "publishedAt": "2026-10-12T11:41:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a6kB4HgDThs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTvgo8qdZvBidXhiWX45tGCnsI7A",
+          "sourcePath": "sources/a6/a6kB4HgDThs.json",
+          "time": "1:41:54",
+          "seconds": 6114,
+          "songTitle": "罪と罰",
+          "artist": "椎名林檎"
+        },
+        {
+          "videoId": "vv_2_-B2lCc",
+          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
+          "channelName": "天音",
+          "publishedAt": "2026-10-08T15:40:41.566Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
+          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
+          "time": "2:47:09",
+          "seconds": 10029,
+          "songTitle": "罪と罰",
+          "artist": "椎名林檎"
+        },
+        {
+          "videoId": "2aZaok5IvBE",
+          "videoTitle": "【#歌枠】ゆったりと弾き語ります【 あらと / alat 】#vtuber #生らと",
+          "channelName": "あらと / alat",
+          "publishedAt": "2026-10-07T17:35:57.477Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2aZaok5IvBE/hqdefault.jpg",
+          "sourcePath": "sources/2a/2aZaok5IvBE.json",
+          "time": "1:05:15",
+          "seconds": 3915,
+          "songTitle": "罪と罰",
+          "artist": "椎名林檎"
+        }
+      ],
+      "detailPath": "entities/songs/b3ff0f58f1a00237.json"
+    },
+    {
+      "rank": 490,
       "id": "ce133d785d991cc2",
       "name": "裸の心",
       "secondary": "あいみょん",
@@ -2380,7 +2441,7 @@
       "detailPath": "entities/songs/ce133d785d991cc2.json"
     },
     {
-      "rank": 490,
+      "rank": 491,
       "id": "9f67db943d1a0627",
       "name": "1/3の純情な感情",
       "secondary": "SIAM SHADE",
@@ -2440,7 +2501,7 @@
       "detailPath": "entities/songs/9f67db943d1a0627.json"
     },
     {
-      "rank": 491,
+      "rank": 492,
       "id": "fd3e5d73b2e66290",
       "name": "Rain",
       "secondary": "秦基博",
@@ -2501,7 +2562,7 @@
       "detailPath": "entities/songs/fd3e5d73b2e66290.json"
     },
     {
-      "rank": 492,
+      "rank": 493,
       "id": "6225e8360e351e0f",
       "name": "群青日和",
       "secondary": "東京事変",
@@ -2562,7 +2623,7 @@
       "detailPath": "entities/songs/6225e8360e351e0f.json"
     },
     {
-      "rank": 493,
+      "rank": 494,
       "id": "a70ac25b57e84875",
       "name": "深海少女",
       "secondary": "ゆうゆ feat. 初音ミク",
@@ -2622,7 +2683,7 @@
       "detailPath": "entities/songs/a70ac25b57e84875.json"
     },
     {
-      "rank": 494,
+      "rank": 495,
       "id": "557b88166abaac2e",
       "name": "千本桜",
       "secondary": "黒うさP feat. 初音ミク",
@@ -2683,7 +2744,7 @@
       "detailPath": "entities/songs/557b88166abaac2e.json"
     },
     {
-      "rank": 495,
+      "rank": 496,
       "id": "d913e931e561e550",
       "name": "優しい彗星",
       "secondary": "YOASOBI",
@@ -2742,67 +2803,6 @@
         }
       ],
       "detailPath": "entities/songs/d913e931e561e550.json"
-    },
-    {
-      "rank": 496,
-      "id": "b3ff0f58f1a00237",
-      "name": "罪と罰",
-      "secondary": "椎名林檎",
-      "channelId": "UCV5fHI5euR7ZC4ZqhYqlwYw",
-      "channelHandle": "@OHGARUKIch",
-      "channelUrl": "",
-      "occurrenceCount": 54,
-      "videoCount": 53,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vv_2_-B2lCc",
-          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
-          "channelName": "天音",
-          "publishedAt": "2026-10-08T15:40:41.566Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
-          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
-          "time": "2:47:09",
-          "seconds": 10029,
-          "songTitle": "罪と罰",
-          "artist": "椎名林檎"
-        },
-        {
-          "videoId": "2aZaok5IvBE",
-          "videoTitle": "【#歌枠】ゆったりと弾き語ります【 あらと / alat 】#vtuber #生らと",
-          "channelName": "あらと / alat",
-          "publishedAt": "2026-10-07T17:35:57.477Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2aZaok5IvBE/hqdefault.jpg",
-          "sourcePath": "sources/2a/2aZaok5IvBE.json",
-          "time": "1:05:15",
-          "seconds": 3915,
-          "songTitle": "罪と罰",
-          "artist": "椎名林檎"
-        },
-        {
-          "videoId": "Q3-xIYtPtKs",
-          "videoTitle": "【自己紹介 #あいうえお作文歌枠リレー 】 元気いっぱいポンコツおねえさん♩【#まあいっか放送 #singing 】",
-          "channelName": "おもや いっか -Omoya Icca-",
-          "publishedAt": "2026-10-04T12:18:12.722Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Q3-xIYtPtKs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPJ0scO-A7itGjU_gzV-ZnEx83hg&usqp=CBQ",
-          "sourcePath": "sources/Q3/Q3-xIYtPtKs.json",
-          "time": "0:30:22",
-          "seconds": 1822,
-          "songTitle": "罪と罰",
-          "artist": "椎名林檎"
-        }
-      ],
-      "detailPath": "entities/songs/b3ff0f58f1a00237.json"
     },
     {
       "rank": 497,

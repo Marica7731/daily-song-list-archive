@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:36:27.177Z",
+  "generatedAt": "2026-10-12T13:45:28.449Z",
   "range": "all",
   "type": "artists",
   "page": 6,
   "pageSize": 50,
   "pageCount": 400,
-  "totalCount": 19991,
+  "totalCount": 19998,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1176,6 +1176,67 @@
     },
     {
       "rank": 270,
+      "id": "58fff61b773e636b",
+      "name": "童謡",
+      "secondary": "",
+      "channelId": "UCxOTQ01cBN86_QX3jbNnW7g",
+      "channelHandle": "@KomaiUme",
+      "channelUrl": "",
+      "occurrenceCount": 110,
+      "videoCount": 77,
+      "songCount": 52,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "1:42:36",
+          "seconds": 6156,
+          "songTitle": "手のひらを太陽に",
+          "artist": "童謡"
+        },
+        {
+          "videoId": "kf5dww87ouA",
+          "videoTitle": "【 #歌枠 / KARAOKE 】リベンジ！同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
+          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
+          "publishedAt": "2026-10-12T02:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kf5dww87ouA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3EvtAI3lYUDHH4BYnF4HRZnwRlg",
+          "sourcePath": "sources/kf/kf5dww87ouA.json",
+          "time": "1:09:58",
+          "seconds": 4198,
+          "songTitle": "むすんでひらいて",
+          "artist": "童謡"
+        },
+        {
+          "videoId": "zsoT-lQqmvk",
+          "videoTitle": "【 #歌枠 / KARAOKE 】4時間以内に同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
+          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
+          "publishedAt": "2026-10-10T01:21:46.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zsoT-lQqmvk/hqdefault.jpg",
+          "sourcePath": "sources/zs/zsoT-lQqmvk.json",
+          "time": "0:57:36",
+          "seconds": 3456,
+          "songTitle": "ジングルベル",
+          "artist": "童謡"
+        }
+      ],
+      "detailPath": "entities/artists/58fff61b773e636b.json"
+    },
+    {
+      "rank": 271,
       "id": "a56f2cd551caf7e3",
       "name": "女王蜂",
       "secondary": "",
@@ -1234,67 +1295,6 @@
         }
       ],
       "detailPath": "entities/artists/a56f2cd551caf7e3.json"
-    },
-    {
-      "rank": 271,
-      "id": "58fff61b773e636b",
-      "name": "童謡",
-      "secondary": "",
-      "channelId": "UCxOTQ01cBN86_QX3jbNnW7g",
-      "channelHandle": "@KomaiUme",
-      "channelUrl": "",
-      "occurrenceCount": 109,
-      "videoCount": 76,
-      "songCount": 51,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "kf5dww87ouA",
-          "videoTitle": "【 #歌枠 / KARAOKE 】リベンジ！同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
-          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
-          "publishedAt": "2026-10-12T02:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kf5dww87ouA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3EvtAI3lYUDHH4BYnF4HRZnwRlg",
-          "sourcePath": "sources/kf/kf5dww87ouA.json",
-          "time": "1:09:58",
-          "seconds": 4198,
-          "songTitle": "むすんでひらいて",
-          "artist": "童謡"
-        },
-        {
-          "videoId": "zsoT-lQqmvk",
-          "videoTitle": "【 #歌枠 / KARAOKE 】4時間以内に同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
-          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
-          "publishedAt": "2026-10-10T01:21:46.516Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zsoT-lQqmvk/hqdefault.jpg",
-          "sourcePath": "sources/zs/zsoT-lQqmvk.json",
-          "time": "0:57:36",
-          "seconds": 3456,
-          "songTitle": "ジングルベル",
-          "artist": "童謡"
-        },
-        {
-          "videoId": "DIqQgdQqIpQ",
-          "videoTitle": "【歌枠/弾き語り】男性ボーカル縛り歌枠🦋🎤まったり歌います🎶 | Singing Stream 【#すとらてぃあ/#vsinger】",
-          "channelName": "すとらてぃあ-Stratia",
-          "publishedAt": "2026-10-09T12:27:48.314Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/DIqQgdQqIpQ/hqdefault.jpg",
-          "sourcePath": "sources/DI/DIqQgdQqIpQ.json",
-          "time": "1:12:37",
-          "seconds": 4357,
-          "songTitle": "きらきら星",
-          "artist": "童謡"
-        }
-      ],
-      "detailPath": "entities/artists/58fff61b773e636b.json"
     },
     {
       "rank": 272,
@@ -1852,6 +1852,67 @@
     },
     {
       "rank": 281,
+      "id": "5495573e47304c93",
+      "name": "Kiroro",
+      "secondary": "",
+      "channelId": "UCjKPgy9YPt16z8AFMi-TLeA",
+      "channelHandle": "@_YuraYuragi",
+      "channelUrl": "",
+      "occurrenceCount": 104,
+      "videoCount": 88,
+      "songCount": 12,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "BqH8_ziKeJQ",
+          "videoTitle": "【歌枠】秋は寂しい気持ちになるよね…？【#生ののあらいぶ / #KARAOKE】",
+          "channelName": "NONOA Ch.華美雲ののあ",
+          "publishedAt": "2026-10-12T11:21:28.379Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BqH8_ziKeJQ/hqdefault.jpg",
+          "sourcePath": "sources/Bq/BqH8_ziKeJQ.json",
+          "time": "0:39:13",
+          "seconds": 2353,
+          "songTitle": "未来へ",
+          "artist": "Kiroro"
+        },
+        {
+          "videoId": "TbuTnYYHe6s",
+          "videoTitle": "【 #歌枠 】初見大歓迎💡デビュー1ヵ月！CH登録4000人✨初耐久歌枠！【 #新人Vtuber｜ #白叉ねむ 】",
+          "channelName": "白叉ねむ / Shiramata Nemu",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TbuTnYYHe6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIUGXJrMCjk2bz5ybJ0K-vncuilQ",
+          "sourcePath": "sources/Tb/TbuTnYYHe6s.json",
+          "time": "7:26:43",
+          "seconds": 26803,
+          "songTitle": "長い間",
+          "artist": "Kiroro"
+        },
+        {
+          "videoId": "449k5EfZPDY",
+          "videoTitle": "【 #歌枠 】しっとり歌枠✨ #shorts #作業用bgm #karaoke【 #無原唱レコード / #朱名 】",
+          "channelName": "朱名 / SHUNA",
+          "publishedAt": "2026-10-06T10:20:29.407Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/449k5EfZPDY/hqdefault.jpg",
+          "sourcePath": "sources/44/449k5EfZPDY.json",
+          "time": "1:11:00",
+          "seconds": 4260,
+          "songTitle": "Best Friend",
+          "artist": "Kiroro"
+        }
+      ],
+      "detailPath": "entities/artists/5495573e47304c93.json"
+    },
+    {
+      "rank": 282,
       "id": "285ad7d991a2537b",
       "name": "川崎鷹也",
       "secondary": "",
@@ -1912,7 +1973,7 @@
       "detailPath": "entities/artists/285ad7d991a2537b.json"
     },
     {
-      "rank": 282,
+      "rank": 283,
       "id": "ebb2edddca746209",
       "name": "きのこ帝国",
       "secondary": "",
@@ -1973,7 +2034,7 @@
       "detailPath": "entities/artists/ebb2edddca746209.json"
     },
     {
-      "rank": 283,
+      "rank": 284,
       "id": "1eab9adc509ac40a",
       "name": "田村直美",
       "secondary": "",
@@ -2033,67 +2094,6 @@
         }
       ],
       "detailPath": "entities/artists/1eab9adc509ac40a.json"
-    },
-    {
-      "rank": 284,
-      "id": "5495573e47304c93",
-      "name": "Kiroro",
-      "secondary": "",
-      "channelId": "UCjKPgy9YPt16z8AFMi-TLeA",
-      "channelHandle": "@_YuraYuragi",
-      "channelUrl": "",
-      "occurrenceCount": 102,
-      "videoCount": 87,
-      "songCount": 12,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "TbuTnYYHe6s",
-          "videoTitle": "【 #歌枠 】初見大歓迎💡デビュー1ヵ月！CH登録4000人✨初耐久歌枠！【 #新人Vtuber｜ #白叉ねむ 】",
-          "channelName": "白叉ねむ / Shiramata Nemu",
-          "publishedAt": "2026-10-11T20:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TbuTnYYHe6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIUGXJrMCjk2bz5ybJ0K-vncuilQ",
-          "sourcePath": "sources/Tb/TbuTnYYHe6s.json",
-          "time": "7:26:43",
-          "seconds": 26803,
-          "songTitle": "長い間",
-          "artist": "Kiroro"
-        },
-        {
-          "videoId": "449k5EfZPDY",
-          "videoTitle": "【 #歌枠 】しっとり歌枠✨ #shorts #作業用bgm #karaoke【 #無原唱レコード / #朱名 】",
-          "channelName": "朱名 / SHUNA",
-          "publishedAt": "2026-10-06T10:20:29.407Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/449k5EfZPDY/hqdefault.jpg",
-          "sourcePath": "sources/44/449k5EfZPDY.json",
-          "time": "1:11:00",
-          "seconds": 4260,
-          "songTitle": "Best Friend",
-          "artist": "Kiroro"
-        },
-        {
-          "videoId": "zRHn6hDzzFs",
-          "videoTitle": "[泥酔歌枠] エモい後味を残したいの俺は！ [男性Vtuber]",
-          "channelName": "キャプテン・ジョーさん / Captain Joe-san",
-          "publishedAt": "2026-10-04T10:27:18.810Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zRHn6hDzzFs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYo3wshNb724oQmQHUbDMIhwOmXQ",
-          "sourcePath": "sources/zR/zRHn6hDzzFs.json",
-          "time": "0:08:26",
-          "seconds": 506,
-          "songTitle": "長い間",
-          "artist": "Kiroro"
-        }
-      ],
-      "detailPath": "entities/artists/5495573e47304c93.json"
     },
     {
       "rank": 285,
