@@ -1,73 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "30d",
   "type": "songs",
   "page": 19,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27690,
+  "totalCount": 27665,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 901,
-      "id": "60bfa754bf097cc9",
-      "name": "ラヴ・イズ・オーヴァー",
-      "secondary": "欧陽菲菲",
-      "channelId": "UCkfAkgtsDLCt66zWjjppeXQ",
-      "channelHandle": "@Shoncho_Tofu",
-      "channelUrl": "",
-      "occurrenceCount": 13,
-      "videoCount": 13,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "B5oVyxW0OGg",
-          "videoTitle": "【#歌枠 】安眠を促すピアノ伴奏のみ睡眠導入歌枠🌃 初見さんも大歓迎✨【華白あらみ】#shorts #karaoke",
-          "channelName": "華白あらみ / Arami ch.",
-          "publishedAt": "2026-10-07T18:25:21.672Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/B5oVyxW0OGg/hqdefault.jpg",
-          "sourcePath": "sources/B5/B5oVyxW0OGg.json",
-          "time": "0:59:56",
-          "seconds": 3596,
-          "songTitle": "ラヴ・イズ・オーヴァー",
-          "artist": "欧陽菲菲"
-        },
-        {
-          "videoId": "3pt7lNP9D50",
-          "videoTitle": "【#歌枠】睡眠にはこの歌枠が効くらしい┆作業BGM #karaoke 【MEDA / RK Music】",
-          "channelName": "MEDA",
-          "publishedAt": "2026-10-06T15:46:12.854Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/3pt7lNP9D50/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTnRz1Tpq-_62pMXmz1Kf39KUSrg",
-          "sourcePath": "sources/3p/3pt7lNP9D50.json",
-          "time": "1:53:59",
-          "seconds": 6839,
-          "songTitle": "ラヴ・イズ・オーヴァー",
-          "artist": "欧陽菲菲"
-        },
-        {
-          "videoId": "upkOzzTcdD0",
-          "videoTitle": "【 #歌枠 】低音女子好きを探している歌枠雑談🎙🍀 初見さんも大歓迎♪ #響かさね",
-          "channelName": "響かさね / Hibiki Kasane",
-          "publishedAt": "2026-10-02T15:51:11.612Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/upkOzzTcdD0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfM8V3zvZaueM3yIhDepRY4Fcxbg",
-          "sourcePath": "sources/up/upkOzzTcdD0.json",
-          "time": "0:58:40",
-          "seconds": 3520,
-          "songTitle": "ラヴ・イズ・オーヴァー",
-          "artist": "欧陽菲菲"
-        }
-      ],
-      "detailPath": "entities/songs/60bfa754bf097cc9.json"
-    },
-    {
-      "rank": 902,
       "id": "2b4ebf4e14236b54",
       "name": "レイニーブルー",
       "secondary": "徳永英明",
@@ -125,7 +68,7 @@
       "detailPath": "entities/songs/2b4ebf4e14236b54.json"
     },
     {
-      "rank": 903,
+      "rank": 902,
       "id": "018af87e45eb3050",
       "name": "レイン",
       "secondary": "シド",
@@ -182,7 +125,7 @@
       "detailPath": "entities/songs/018af87e45eb3050.json"
     },
     {
-      "rank": 904,
+      "rank": 903,
       "id": "52bd0f7ba9c7477f",
       "name": "ワインレッドの心",
       "secondary": "安全地帯",
@@ -240,7 +183,7 @@
       "detailPath": "entities/songs/52bd0f7ba9c7477f.json"
     },
     {
-      "rank": 905,
+      "rank": 904,
       "id": "629e3a74347a9b99",
       "name": "愛が灯る",
       "secondary": "ロクデナシ",
@@ -297,7 +240,7 @@
       "detailPath": "entities/songs/629e3a74347a9b99.json"
     },
     {
-      "rank": 906,
+      "rank": 905,
       "id": "6398bce6d6965bd9",
       "name": "愛のうた",
       "secondary": "ストロベリー・フラワー",
@@ -355,7 +298,7 @@
       "detailPath": "entities/songs/6398bce6d6965bd9.json"
     },
     {
-      "rank": 907,
+      "rank": 906,
       "id": "fec3668dd487f105",
       "name": "愛のうた",
       "secondary": "倖田來未",
@@ -412,7 +355,7 @@
       "detailPath": "entities/songs/fec3668dd487f105.json"
     },
     {
-      "rank": 908,
+      "rank": 907,
       "id": "c29bbc1b0390229e",
       "name": "愛言葉",
       "secondary": "DECO*27",
@@ -469,64 +412,7 @@
       "detailPath": "entities/songs/c29bbc1b0390229e.json"
     },
     {
-      "rank": 909,
-      "id": "6c7b5a089a539aa2",
-      "name": "愛言葉Ⅲ",
-      "secondary": "DECO*27",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 13,
-      "videoCount": 13,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ngrMQQCw-7c",
-          "videoTitle": "【 #歌枠 】寝る前にちょっとだけ歌うからきて？💙【#猫月みお/ #Vtuber / #karaoke 】",
-          "channelName": "Mio Ch. 猫月みお【あみゅどる】",
-          "publishedAt": "2026-10-06T17:13:42.999Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ngrMQQCw-7c/hqdefault.jpg",
-          "sourcePath": "sources/ng/ngrMQQCw-7c.json",
-          "time": "1:12:07",
-          "seconds": 4327,
-          "songTitle": "愛言葉Ⅲ",
-          "artist": "DECO*27"
-        },
-        {
-          "videoId": "jtX6uIpPIwY",
-          "videoTitle": "【歌枠】ボカロ縛りで歌ってみる！聴きに来てね【音琴かなみ/VTuber 】",
-          "channelName": "音琴かなみ Kanami ch.",
-          "publishedAt": "2026-10-05T14:00:50.452Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jtX6uIpPIwY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCskG6c_hzia1UV5h3qQ2jkBKwNhg&usqp=CBQ",
-          "sourcePath": "sources/jt/jtX6uIpPIwY.json",
-          "time": "0:11:59",
-          "seconds": 719,
-          "songTitle": "愛言葉Ⅲ",
-          "artist": "DECO*27"
-        },
-        {
-          "videoId": "H4qgdOQ7374",
-          "videoTitle": "【雑談メイン＆歌枠】半年経つの早いなぁ【桜雨ゆら / #新人Vtuber】",
-          "channelName": "桜雨ゆら",
-          "publishedAt": "2026-10-02T12:14:01.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/H4qgdOQ7374/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHKTdN5LMNjpJdCWHOlhI5lpL2Bw",
-          "sourcePath": "sources/H4/H4qgdOQ7374.json",
-          "time": "2:07:10",
-          "seconds": 7630,
-          "songTitle": "愛言葉ⅲ",
-          "artist": "DECO*27"
-        }
-      ],
-      "detailPath": "entities/songs/6c7b5a089a539aa2.json"
-    },
-    {
-      "rank": 910,
+      "rank": 908,
       "id": "eb3661f505d38b9f",
       "name": "愛包ダンスホール",
       "secondary": "HIMEHINA",
@@ -583,7 +469,7 @@
       "detailPath": "entities/songs/eb3661f505d38b9f.json"
     },
     {
-      "rank": 911,
+      "rank": 909,
       "id": "181186b8cc1a0a5b",
       "name": "茜色の約束",
       "secondary": "いきものがかり",
@@ -641,7 +527,7 @@
       "detailPath": "entities/songs/181186b8cc1a0a5b.json"
     },
     {
-      "rank": 912,
+      "rank": 910,
       "id": "aa589732b1c13809",
       "name": "右肩の蝶",
       "secondary": "のりぴー",
@@ -698,7 +584,7 @@
       "detailPath": "entities/songs/aa589732b1c13809.json"
     },
     {
-      "rank": 913,
+      "rank": 911,
       "id": "20cc0d8c816b48a7",
       "name": "歌に形はないけれど",
       "secondary": "doriko",
@@ -755,7 +641,7 @@
       "detailPath": "entities/songs/20cc0d8c816b48a7.json"
     },
     {
-      "rank": 914,
+      "rank": 912,
       "id": "ee7eb86d89bc862c",
       "name": "花の名",
       "secondary": "BUMP OF CHICKEN",
@@ -813,7 +699,7 @@
       "detailPath": "entities/songs/ee7eb86d89bc862c.json"
     },
     {
-      "rank": 915,
+      "rank": 913,
       "id": "da2077e1406f509f",
       "name": "花人局",
       "secondary": "ヨルシカ",
@@ -871,7 +757,7 @@
       "detailPath": "entities/songs/da2077e1406f509f.json"
     },
     {
-      "rank": 916,
+      "rank": 914,
       "id": "ff8c0a237c000b8c",
       "name": "会場",
       "secondary": "",
@@ -929,7 +815,7 @@
       "detailPath": "entities/songs/ff8c0a237c000b8c.json"
     },
     {
-      "rank": 917,
+      "rank": 915,
       "id": "61b3931432aacd44",
       "name": "開場",
       "secondary": "",
@@ -987,7 +873,7 @@
       "detailPath": "entities/songs/61b3931432aacd44.json"
     },
     {
-      "rank": 918,
+      "rank": 916,
       "id": "6aaf601033a11258",
       "name": "丸の内サディスティック",
       "secondary": "",
@@ -1044,7 +930,7 @@
       "detailPath": "entities/songs/6aaf601033a11258.json"
     },
     {
-      "rank": 919,
+      "rank": 917,
       "id": "8bfa5b55b1c04a89",
       "name": "強風オールバック",
       "secondary": "ゆこぴ",
@@ -1101,7 +987,7 @@
       "detailPath": "entities/songs/8bfa5b55b1c04a89.json"
     },
     {
-      "rank": 920,
+      "rank": 918,
       "id": "c8fdd3a05ca8eea5",
       "name": "決意の朝に",
       "secondary": "Aqua Timez",
@@ -1159,7 +1045,7 @@
       "detailPath": "entities/songs/c8fdd3a05ca8eea5.json"
     },
     {
-      "rank": 921,
+      "rank": 919,
       "id": "cd117d3af3842492",
       "name": "月のしずく",
       "secondary": "柴咲コウ",
@@ -1216,7 +1102,7 @@
       "detailPath": "entities/songs/cd117d3af3842492.json"
     },
     {
-      "rank": 922,
+      "rank": 920,
       "id": "9c5da61becbd7444",
       "name": "今はいいんだよ。",
       "secondary": "MIMI",
@@ -1274,7 +1160,7 @@
       "detailPath": "entities/songs/9c5da61becbd7444.json"
     },
     {
-      "rank": 923,
+      "rank": 921,
       "id": "463e9b5448157ac3",
       "name": "今夜このまま",
       "secondary": "あいみょん",
@@ -1332,7 +1218,7 @@
       "detailPath": "entities/songs/463e9b5448157ac3.json"
     },
     {
-      "rank": 924,
+      "rank": 922,
       "id": "6a0bdad18c856cc5",
       "name": "時の流れに身をまかせ",
       "secondary": "テレサ・テン",
@@ -1390,7 +1276,7 @@
       "detailPath": "entities/songs/6a0bdad18c856cc5.json"
     },
     {
-      "rank": 925,
+      "rank": 923,
       "id": "83f780202af25326",
       "name": "春ひさぎ",
       "secondary": "ヨルシカ",
@@ -1447,7 +1333,7 @@
       "detailPath": "entities/songs/83f780202af25326.json"
     },
     {
-      "rank": 926,
+      "rank": 924,
       "id": "4b3e8cc01ca4b610",
       "name": "春よ、来い",
       "secondary": "松任谷由実",
@@ -1505,7 +1391,7 @@
       "detailPath": "entities/songs/4b3e8cc01ca4b610.json"
     },
     {
-      "rank": 927,
+      "rank": 925,
       "id": "f9411e72b3030955",
       "name": "初恋サイダー",
       "secondary": "",
@@ -1562,7 +1448,7 @@
       "detailPath": "entities/songs/f9411e72b3030955.json"
     },
     {
-      "rank": 928,
+      "rank": 926,
       "id": "ebd26ca35e5c46e4",
       "name": "人間みたいね",
       "secondary": "キタニタツヤ",
@@ -1619,7 +1505,7 @@
       "detailPath": "entities/songs/ebd26ca35e5c46e4.json"
     },
     {
-      "rank": 929,
+      "rank": 927,
       "id": "d0827b0efbaeec5b",
       "name": "創聖のアクエリオン",
       "secondary": "AKINO from bless4",
@@ -1676,7 +1562,7 @@
       "detailPath": "entities/songs/d0827b0efbaeec5b.json"
     },
     {
-      "rank": 930,
+      "rank": 928,
       "id": "9b44de8b6f7f4bf3",
       "name": "透明人間",
       "secondary": "東京事変",
@@ -1733,7 +1619,7 @@
       "detailPath": "entities/songs/9b44de8b6f7f4bf3.json"
     },
     {
-      "rank": 931,
+      "rank": 929,
       "id": "9561947daa725112",
       "name": "猫/DISH//",
       "secondary": "",
@@ -1790,7 +1676,7 @@
       "detailPath": "entities/songs/9561947daa725112.json"
     },
     {
-      "rank": 932,
+      "rank": 930,
       "id": "5d17a49b52a1c603",
       "name": "脳漿炸裂ガール",
       "secondary": "れるりり",
@@ -1847,7 +1733,7 @@
       "detailPath": "entities/songs/5d17a49b52a1c603.json"
     },
     {
-      "rank": 933,
+      "rank": 931,
       "id": "d36ddb99a86a05b4",
       "name": "八月、某、月明かり",
       "secondary": "ヨルシカ",
@@ -1904,7 +1790,65 @@
       "detailPath": "entities/songs/d36ddb99a86a05b4.json"
     },
     {
-      "rank": 934,
+      "rank": 932,
+      "id": "71d608f893c15549",
+      "name": "満ちてゆく",
+      "secondary": "藤井 風",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 13,
+      "videoCount": 13,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "wl49vsNaw_Y",
+          "videoTitle": "歌枠⌇華金は癒しソングがうたいたいっ☕🌿⟡ ̖́-#花鹿める / ななはぴ",
+          "channelName": "花鹿 める / Kajica Mel",
+          "publishedAt": "2026-10-09T15:49:10.815Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wl49vsNaw_Y/hqdefault.jpg",
+          "sourcePath": "sources/wl/wl49vsNaw_Y.json",
+          "time": "0:40:42",
+          "seconds": 2442,
+          "songTitle": "満ちてゆく",
+          "artist": "藤井風"
+        },
+        {
+          "videoId": "UT0EJiLJqEs",
+          "videoTitle": "【 歌枠/Karaoke 】今日も一日おつかれちゃん！華金ゲリラ歌枠【 男性VTuber 】",
+          "channelName": "御崎陽炎",
+          "publishedAt": "2026-10-02T11:09:11.932Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UT0EJiLJqEs/hqdefault.jpg",
+          "sourcePath": "sources/UT/UT0EJiLJqEs.json",
+          "time": "0:39:48",
+          "seconds": 2388,
+          "songTitle": "満ちてゆく",
+          "artist": "藤井風"
+        },
+        {
+          "videoId": "LdpVtaIm1pQ",
+          "videoTitle": "【定期】睡眠導入🌙寝かしつけ歌枠 #106【 #水魚みぃむ / #おんえあみぃむ】",
+          "channelName": "水魚みぃむ / Mio Miim",
+          "publishedAt": "2026-09-30T15:43:31.213Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LdpVtaIm1pQ/hqdefault.jpg",
+          "sourcePath": "sources/Ld/LdpVtaIm1pQ.json",
+          "time": "1:50:07",
+          "seconds": 6607,
+          "songTitle": "満ちてゆく",
+          "artist": "藤井風"
+        }
+      ],
+      "detailPath": "entities/songs/71d608f893c15549.json"
+    },
+    {
+      "rank": 933,
       "id": "2b74bffc1d132210",
       "name": "恋人ごっこ",
       "secondary": "マカロニえんぴつ",
@@ -1962,7 +1906,7 @@
       "detailPath": "entities/songs/2b74bffc1d132210.json"
     },
     {
-      "rank": 935,
+      "rank": 934,
       "id": "177601cff0a09097",
       "name": "炉心融解",
       "secondary": "iroha",
@@ -2019,7 +1963,7 @@
       "detailPath": "entities/songs/177601cff0a09097.json"
     },
     {
-      "rank": 936,
+      "rank": 935,
       "id": "138dd9c2a03182e2",
       "name": "睨めっ娘",
       "secondary": "友成空",
@@ -2076,7 +2020,7 @@
       "detailPath": "entities/songs/138dd9c2a03182e2.json"
     },
     {
-      "rank": 937,
+      "rank": 936,
       "id": "54e1c7f71ca6704f",
       "name": "NIGHT DANCER",
       "secondary": "imase",
@@ -2133,7 +2077,7 @@
       "detailPath": "entities/songs/54e1c7f71ca6704f.json"
     },
     {
-      "rank": 938,
+      "rank": 937,
       "id": "90212ba826351810",
       "name": "アスノヨゾラ哨戒班",
       "secondary": "Orangestar feat. IA",
@@ -2190,7 +2134,7 @@
       "detailPath": "entities/songs/90212ba826351810.json"
     },
     {
-      "rank": 939,
+      "rank": 938,
       "id": "5de74bf2d60c0957",
       "name": "ラブ・ストーリーは突然に",
       "secondary": "小田和正",
@@ -2248,7 +2192,7 @@
       "detailPath": "entities/songs/5de74bf2d60c0957.json"
     },
     {
-      "rank": 940,
+      "rank": 939,
       "id": "3d75c713a1e32588",
       "name": "夢幻",
       "secondary": "MY FIRST STORY×HYDE",
@@ -2305,7 +2249,7 @@
       "detailPath": "entities/songs/3d75c713a1e32588.json"
     },
     {
-      "rank": 941,
+      "rank": 940,
       "id": "680b820bd5a7e041",
       "name": "〜 今宵、月が見えずとも",
       "secondary": "ポルノグラフィティ",
@@ -2360,6 +2304,63 @@
         }
       ],
       "detailPath": "entities/songs/680b820bd5a7e041.json"
+    },
+    {
+      "rank": 941,
+      "id": "6c7b5a089a539aa2",
+      "name": "～ 愛言葉Ⅲ",
+      "secondary": "DECO*27",
+      "channelId": "UCaCzlHGIXUv1KvAsJ6Sizxw",
+      "channelHandle": "@%E3%81%AD%E3%82%80%E3%81%AE%E3%81%8D%E3%81%AD%E3%82%80",
+      "channelUrl": "",
+      "occurrenceCount": 12,
+      "videoCount": 12,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ngrMQQCw-7c",
+          "videoTitle": "【 #歌枠 】寝る前にちょっとだけ歌うからきて？💙【#猫月みお/ #Vtuber / #karaoke 】",
+          "channelName": "Mio Ch. 猫月みお【あみゅどる】",
+          "publishedAt": "2026-10-06T17:13:42.999Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ngrMQQCw-7c/hqdefault.jpg",
+          "sourcePath": "sources/ng/ngrMQQCw-7c.json",
+          "time": "1:12:07",
+          "seconds": 4327,
+          "songTitle": "愛言葉Ⅲ",
+          "artist": "DECO*27"
+        },
+        {
+          "videoId": "jtX6uIpPIwY",
+          "videoTitle": "【歌枠】ボカロ縛りで歌ってみる！聴きに来てね【音琴かなみ/VTuber 】",
+          "channelName": "音琴かなみ Kanami ch.",
+          "publishedAt": "2026-10-05T14:00:50.452Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jtX6uIpPIwY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCskG6c_hzia1UV5h3qQ2jkBKwNhg&usqp=CBQ",
+          "sourcePath": "sources/jt/jtX6uIpPIwY.json",
+          "time": "0:11:59",
+          "seconds": 719,
+          "songTitle": "愛言葉Ⅲ",
+          "artist": "DECO*27"
+        },
+        {
+          "videoId": "H4qgdOQ7374",
+          "videoTitle": "【雑談メイン＆歌枠】半年経つの早いなぁ【桜雨ゆら / #新人Vtuber】",
+          "channelName": "桜雨ゆら",
+          "publishedAt": "2026-10-02T12:14:01.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/H4qgdOQ7374/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHKTdN5LMNjpJdCWHOlhI5lpL2Bw",
+          "sourcePath": "sources/H4/H4qgdOQ7374.json",
+          "time": "2:07:10",
+          "seconds": 7630,
+          "songTitle": "愛言葉ⅲ",
+          "artist": "DECO*27"
+        }
+      ],
+      "detailPath": "entities/songs/6c7b5a089a539aa2.json"
     },
     {
       "rank": 942,

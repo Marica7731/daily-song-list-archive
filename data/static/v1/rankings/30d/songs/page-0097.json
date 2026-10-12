@@ -1,193 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "30d",
   "type": "songs",
   "page": 97,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27690,
+  "totalCount": 27665,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4801,
-      "id": "3fa091d01f074f84",
-      "name": "Butterfly Kiss",
-      "secondary": "米倉千尋",
-      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
-      "channelHandle": "@urameshi_conta",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "u2UtWHBygg8",
-          "videoTitle": "【歌枠 / KARAOKE】2000年代アニソンの名曲をいっぱい歌おう🍪✨【 #もかん #vtuber #vsinger】",
-          "channelName": "もかん ch / Mokan",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/u2UtWHBygg8/hqdefault.jpg",
-          "sourcePath": "sources/u2/u2UtWHBygg8.json",
-          "time": "1:55:40",
-          "seconds": 6940,
-          "songTitle": "Butterfly Kiss",
-          "artist": "米倉千尋"
-        },
-        {
-          "videoId": "QsbQ4WyX_xM",
-          "videoTitle": "【 #歌枠 #karaoke 】日曜日定期歌枠🩵癒しのお歌いかがですか🎤初見様大歓迎✨【うら飯紺汰 #vtuber #vsinger 】",
-          "channelName": "うら飯 紺汰 - Conta Urameshi -",
-          "publishedAt": "2026-09-20T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QsbQ4WyX_xM/hqdefault.jpg",
-          "sourcePath": "sources/Qs/QsbQ4WyX_xM.json",
-          "time": "1:54:36",
-          "seconds": 6876,
-          "songTitle": "Butterfly Kiss",
-          "artist": "米倉千尋"
-        }
-      ],
-      "detailPath": "entities/songs/3fa091d01f074f84.json"
-    },
-    {
-      "rank": 4802,
-      "id": "c7fd1dbb55e5a58a",
-      "name": "B級",
-      "secondary": "デュエット",
-      "channelId": "UC6FdB_b3iZ2GCOjiAHpXp4A",
-      "channelHandle": "@vt_tsumimitu",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mHlFk6XkzLI",
-          "videoTitle": "【歌枠】高校生男女デュオが早口曲特集を歌うよ！初見さん歓迎！【罪蜜】#39",
-          "channelName": "罪ちゃんと蜜くん",
-          "publishedAt": "2026-10-03T12:14:24.147Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mHlFk6XkzLI/hqdefault.jpg",
-          "sourcePath": "sources/mH/mHlFk6XkzLI.json",
-          "time": "0:06:41",
-          "seconds": 401,
-          "songTitle": "B級",
-          "artist": "デュエット"
-        },
-        {
-          "videoId": "m_2G3XIMcgc",
-          "videoTitle": "【歌枠】高校生男女デュオが得意曲特集を歌うよ！初見さん歓迎！【罪蜜】#38",
-          "channelName": "罪ちゃんと蜜くん",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/m_2G3XIMcgc/hqdefault.jpg",
-          "sourcePath": "sources/m_/m_2G3XIMcgc.json",
-          "time": "0:05:21",
-          "seconds": 321,
-          "songTitle": "B級",
-          "artist": "デュエット"
-        }
-      ],
-      "detailPath": "entities/songs/c7fd1dbb55e5a58a.json"
-    },
-    {
-      "rank": 4803,
-      "id": "321a2859890e538d",
-      "name": "Cagayake!GIRLS",
-      "secondary": "桜高軽音部",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Bz0PvzyvBLc",
-          "videoTitle": "【#歌枠 】平成アニメソングでシルバーウィークを楽しむ！🌺【#メーレv 】",
-          "channelName": "メーレ-mele-",
-          "publishedAt": "2026-09-21T14:55:48.240Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Bz0PvzyvBLc/hqdefault.jpg",
-          "sourcePath": "sources/Bz/Bz0PvzyvBLc.json",
-          "time": "0:17:50",
-          "seconds": 1070,
-          "songTitle": "Cagayake!GIRLS",
-          "artist": "桜高軽音部"
-        },
-        {
-          "videoId": "qtkrCvvf_x8",
-          "videoTitle": "【初歌枠】楽しく歌枠！【天音なる】",
-          "channelName": "天音なる Naru Amane Ch.",
-          "publishedAt": "2026-09-14T14:17:07.173Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qtkrCvvf_x8/hqdefault.jpg",
-          "sourcePath": "sources/qt/qtkrCvvf_x8.json",
-          "time": "2:19:33",
-          "seconds": 8373,
-          "songTitle": "Cagayake!GIRLS",
-          "artist": "桜高軽音部"
-        }
-      ],
-      "detailPath": "entities/songs/321a2859890e538d.json"
-    },
-    {
-      "rank": 4804,
-      "id": "822f600cc36ef622",
-      "name": "Cage",
-      "secondary": "DIR EN GREY",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "gLog-9rHCXQ",
-          "videoTitle": "【LIVE】歌枠 / Sing Stream カラオケJOYSOUND for STREAMER【梵人】",
-          "channelName": "Bonjin-Music Channel-",
-          "publishedAt": "2026-09-14T12:53:27.606Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gLog-9rHCXQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBG3-A9YFj_eb6YTNxBZUUGYhYDyw",
-          "sourcePath": "sources/gL/gLog-9rHCXQ.json",
-          "time": "1:23:26",
-          "seconds": 5006,
-          "songTitle": "Cage",
-          "artist": "DIR EN GREY"
-        },
-        {
-          "videoId": "_z73DO_gnVY",
-          "videoTitle": "#歌枠 いろいろ歌っていくよ！！！初見さん大歓迎！！",
-          "channelName": "じゅだ@ボカロP",
-          "publishedAt": "2026-09-13T10:06:34.776Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_z73DO_gnVY/hqdefault.jpg",
-          "sourcePath": "sources/_z/_z73DO_gnVY.json",
-          "time": "0:23:18",
-          "seconds": 1398,
-          "songTitle": "Cage",
-          "artist": "DIR EN GREY"
-        }
-      ],
-      "detailPath": "entities/songs/822f600cc36ef622.json"
-    },
-    {
-      "rank": 4805,
       "id": "99ec4619782118eb",
       "name": "Cage",
       "secondary": "",
@@ -232,7 +55,7 @@
       "detailPath": "entities/songs/99ec4619782118eb.json"
     },
     {
-      "rank": 4806,
+      "rank": 4802,
       "id": "aa078933107968e8",
       "name": "Calc",
       "secondary": "伊東歌詞太郎",
@@ -277,7 +100,7 @@
       "detailPath": "entities/songs/aa078933107968e8.json"
     },
     {
-      "rank": 4807,
+      "rank": 4803,
       "id": "91b10e3ab36d0839",
       "name": "calling",
       "secondary": "美郷あき",
@@ -324,7 +147,7 @@
       "detailPath": "entities/songs/91b10e3ab36d0839.json"
     },
     {
-      "rank": 4808,
+      "rank": 4804,
       "id": "352993aa12c8b039",
       "name": "Calling",
       "secondary": "B'z",
@@ -369,7 +192,7 @@
       "detailPath": "entities/songs/352993aa12c8b039.json"
     },
     {
-      "rank": 4809,
+      "rank": 4805,
       "id": "811a7ac8f6fd2e31",
       "name": "CALLING",
       "secondary": "",
@@ -414,7 +237,7 @@
       "detailPath": "entities/songs/811a7ac8f6fd2e31.json"
     },
     {
-      "rank": 4810,
+      "rank": 4806,
       "id": "894b192c1630c652",
       "name": "CANDY CANDY",
       "secondary": "きゃりーぱみゅぱみゅ",
@@ -459,7 +282,7 @@
       "detailPath": "entities/songs/894b192c1630c652.json"
     },
     {
-      "rank": 4811,
+      "rank": 4807,
       "id": "d56b2dbb3608fce7",
       "name": "candy Smile",
       "secondary": "田村ゆかり",
@@ -504,7 +327,7 @@
       "detailPath": "entities/songs/d56b2dbb3608fce7.json"
     },
     {
-      "rank": 4812,
+      "rank": 4808,
       "id": "270dcbf57a382f46",
       "name": "CANDY☆POP☆SWEET☆HEART",
       "secondary": "新谷良子",
@@ -549,7 +372,7 @@
       "detailPath": "entities/songs/270dcbf57a382f46.json"
     },
     {
-      "rank": 4813,
+      "rank": 4809,
       "id": "18f9193d4b0c3695",
       "name": "Catch you Catch me",
       "secondary": "丹下桜",
@@ -594,7 +417,7 @@
       "detailPath": "entities/songs/18f9193d4b0c3695.json"
     },
     {
-      "rank": 4814,
+      "rank": 4810,
       "id": "0e06c9e77c88504a",
       "name": "Catch You Catch Me",
       "secondary": "グミ(日向めぐみ)",
@@ -639,7 +462,7 @@
       "detailPath": "entities/songs/0e06c9e77c88504a.json"
     },
     {
-      "rank": 4815,
+      "rank": 4811,
       "id": "3a0fd3c91f2de9f2",
       "name": "CatchUp,Latency",
       "secondary": "UNISON SQUARE GARDEN",
@@ -681,7 +504,7 @@
       "detailPath": "entities/songs/3a0fd3c91f2de9f2.json"
     },
     {
-      "rank": 4816,
+      "rank": 4812,
       "id": "fc09e5487fff536d",
       "name": "celluloid",
       "secondary": "baker feat.初音ミク",
@@ -726,7 +549,7 @@
       "detailPath": "entities/songs/fc09e5487fff536d.json"
     },
     {
-      "rank": 4817,
+      "rank": 4813,
       "id": "344ff27f6d617c10",
       "name": "CH4NGE",
       "secondary": "ギガP",
@@ -771,7 +594,7 @@
       "detailPath": "entities/songs/344ff27f6d617c10.json"
     },
     {
-      "rank": 4818,
+      "rank": 4814,
       "id": "221f937f656bd452",
       "name": "CH4NGE",
       "secondary": "Giga ※JOYSOUND",
@@ -816,7 +639,7 @@
       "detailPath": "entities/songs/221f937f656bd452.json"
     },
     {
-      "rank": 4819,
+      "rank": 4815,
       "id": "50f01c62bb1bc737",
       "name": "CH4NGE",
       "secondary": "",
@@ -858,7 +681,7 @@
       "detailPath": "entities/songs/50f01c62bb1bc737.json"
     },
     {
-      "rank": 4820,
+      "rank": 4816,
       "id": "3c24f96683814be9",
       "name": "CHA-CHA-CHA",
       "secondary": "石井明美",
@@ -903,7 +726,7 @@
       "detailPath": "entities/songs/3c24f96683814be9.json"
     },
     {
-      "rank": 4821,
+      "rank": 4817,
       "id": "7fb09332419863f7",
       "name": "Chaining Intention",
       "secondary": "ELECTROCUTICA",
@@ -948,7 +771,7 @@
       "detailPath": "entities/songs/7fb09332419863f7.json"
     },
     {
-      "rank": 4822,
+      "rank": 4818,
       "id": "aaeb72e6747e10e7",
       "name": "Change my Style ～あなた好みの私に～",
       "secondary": "KOTOKO",
@@ -993,7 +816,7 @@
       "detailPath": "entities/songs/aaeb72e6747e10e7.json"
     },
     {
-      "rank": 4823,
+      "rank": 4819,
       "id": "6b3b62f9e3fed9d7",
       "name": "Chasing Daylight",
       "secondary": "Mars Atlas",
@@ -1038,7 +861,7 @@
       "detailPath": "entities/songs/6b3b62f9e3fed9d7.json"
     },
     {
-      "rank": 4824,
+      "rank": 4820,
       "id": "7c1b2b42e745a212",
       "name": "Chatter Chatter",
       "secondary": "宝鐘マリン & 星街すいせい",
@@ -1083,7 +906,7 @@
       "detailPath": "entities/songs/7c1b2b42e745a212.json"
     },
     {
-      "rank": 4825,
+      "rank": 4821,
       "id": "0727a0a906c356bb",
       "name": "CHE.R.RY",
       "secondary": "",
@@ -1128,7 +951,7 @@
       "detailPath": "entities/songs/0727a0a906c356bb.json"
     },
     {
-      "rank": 4826,
+      "rank": 4822,
       "id": "9fd87bb133c3215c",
       "name": "CHICKS",
       "secondary": "すいみん不足",
@@ -1170,7 +993,7 @@
       "detailPath": "entities/songs/9fd87bb133c3215c.json"
     },
     {
-      "rank": 4827,
+      "rank": 4823,
       "id": "538639d27bccbb22",
       "name": "CHOCOLATE",
       "secondary": "ちゃんみな",
@@ -1215,7 +1038,7 @@
       "detailPath": "entities/songs/538639d27bccbb22.json"
     },
     {
-      "rank": 4828,
+      "rank": 4824,
       "id": "41fa8b1fcd9d6691",
       "name": "chocolate insomnia",
       "secondary": "羽川翼 (堀江由衣)",
@@ -1260,7 +1083,7 @@
       "detailPath": "entities/songs/41fa8b1fcd9d6691.json"
     },
     {
-      "rank": 4829,
+      "rank": 4825,
       "id": "18ce734de50f7a14",
       "name": "chocolatebox",
       "secondary": "dezzy(一億円P) feat. 鏡音リン,鏡音レン",
@@ -1305,7 +1128,7 @@
       "detailPath": "entities/songs/18ce734de50f7a14.json"
     },
     {
-      "rank": 4830,
+      "rank": 4826,
       "id": "b11608c56b4a511a",
       "name": "CHOIR JAIL",
       "secondary": "鈴木このみ",
@@ -1350,7 +1173,7 @@
       "detailPath": "entities/songs/b11608c56b4a511a.json"
     },
     {
-      "rank": 4831,
+      "rank": 4827,
       "id": "712d2fd2dedd3668",
       "name": "Chop Suey",
       "secondary": "System of a Down",
@@ -1395,7 +1218,7 @@
       "detailPath": "entities/songs/712d2fd2dedd3668.json"
     },
     {
-      "rank": 4832,
+      "rank": 4828,
       "id": "bfd1e29ac15acc5d",
       "name": "Cinnamon",
       "secondary": "YUI",
@@ -1440,7 +1263,7 @@
       "detailPath": "entities/songs/bfd1e29ac15acc5d.json"
     },
     {
-      "rank": 4833,
+      "rank": 4829,
       "id": "14a61d62195bc75e",
       "name": "Cinnamon",
       "secondary": "キタニタツヤ",
@@ -1485,7 +1308,7 @@
       "detailPath": "entities/songs/14a61d62195bc75e.json"
     },
     {
-      "rank": 4834,
+      "rank": 4830,
       "id": "3b9f733da064d9ef",
       "name": "CIRCE",
       "secondary": "SennaRin",
@@ -1530,7 +1353,7 @@
       "detailPath": "entities/songs/3b9f733da064d9ef.json"
     },
     {
-      "rank": 4835,
+      "rank": 4831,
       "id": "7be856bb3ff32bca",
       "name": "CITRUS",
       "secondary": "",
@@ -1575,7 +1398,7 @@
       "detailPath": "entities/songs/7be856bb3ff32bca.json"
     },
     {
-      "rank": 4836,
+      "rank": 4832,
       "id": "258fbf8a840fce50",
       "name": "City Hunter〜愛よ消えないで〜",
       "secondary": "小比類巻かほる",
@@ -1620,7 +1443,7 @@
       "detailPath": "entities/songs/258fbf8a840fce50.json"
     },
     {
-      "rank": 4837,
+      "rank": 4833,
       "id": "4c131728b64c699e",
       "name": "CITY LIGHTS",
       "secondary": "andymori",
@@ -1665,7 +1488,7 @@
       "detailPath": "entities/songs/4c131728b64c699e.json"
     },
     {
-      "rank": 4838,
+      "rank": 4834,
       "id": "33634314029a10fc",
       "name": "CLICK",
       "secondary": "ClariS",
@@ -1710,7 +1533,7 @@
       "detailPath": "entities/songs/33634314029a10fc.json"
     },
     {
-      "rank": 4839,
+      "rank": 4835,
       "id": "e8015338b7665c4a",
       "name": "Climax Jump",
       "secondary": "AAA DEN-O form",
@@ -1755,7 +1578,7 @@
       "detailPath": "entities/songs/e8015338b7665c4a.json"
     },
     {
-      "rank": 4840,
+      "rank": 4836,
       "id": "7ccce1d406f3c60f",
       "name": "clock lock works",
       "secondary": "",
@@ -1797,7 +1620,7 @@
       "detailPath": "entities/songs/7ccce1d406f3c60f.json"
     },
     {
-      "rank": 4841,
+      "rank": 4837,
       "id": "cc616fc348908e20",
       "name": "Close to you",
       "secondary": "Carpenters",
@@ -1843,7 +1666,7 @@
       "detailPath": "entities/songs/cc616fc348908e20.json"
     },
     {
-      "rank": 4842,
+      "rank": 4838,
       "id": "2fcd4e9078157429",
       "name": "CLOSER",
       "secondary": "井上ジョー",
@@ -1888,7 +1711,7 @@
       "detailPath": "entities/songs/2fcd4e9078157429.json"
     },
     {
-      "rank": 4843,
+      "rank": 4839,
       "id": "1e124d7577da68f9",
       "name": "clumsy trick",
       "secondary": "",
@@ -1933,7 +1756,7 @@
       "detailPath": "entities/songs/1e124d7577da68f9.json"
     },
     {
-      "rank": 4844,
+      "rank": 4840,
       "id": "2c035383914d1b02",
       "name": "clumsy trick",
       "secondary": "初星学園",
@@ -1978,7 +1801,7 @@
       "detailPath": "entities/songs/2c035383914d1b02.json"
     },
     {
-      "rank": 4845,
+      "rank": 4841,
       "id": "6ef838f81b897a6f",
       "name": "CM",
       "secondary": "",
@@ -2023,7 +1846,7 @@
       "detailPath": "entities/songs/6ef838f81b897a6f.json"
     },
     {
-      "rank": 4846,
+      "rank": 4842,
       "id": "d3804d8fb3c9cf6d",
       "name": "Coffee",
       "secondary": "Mrs. GREEN APPLE",
@@ -2068,7 +1891,7 @@
       "detailPath": "entities/songs/d3804d8fb3c9cf6d.json"
     },
     {
-      "rank": 4847,
+      "rank": 4843,
       "id": "9b165c7a3b891f48",
       "name": "COLORS",
       "secondary": "コードギアス 反逆のルルーシュ",
@@ -2113,7 +1936,7 @@
       "detailPath": "entities/songs/9b165c7a3b891f48.json"
     },
     {
-      "rank": 4848,
+      "rank": 4844,
       "id": "95299709611c2b22",
       "name": "come again",
       "secondary": "m-flo",
@@ -2158,7 +1981,7 @@
       "detailPath": "entities/songs/95299709611c2b22.json"
     },
     {
-      "rank": 4849,
+      "rank": 4845,
       "id": "27bd4b54db876b97",
       "name": "COSMOS",
       "secondary": "合唱",
@@ -2203,7 +2026,7 @@
       "detailPath": "entities/songs/27bd4b54db876b97.json"
     },
     {
-      "rank": 4850,
+      "rank": 4846,
       "id": "acb1abc27286445a",
       "name": "COUNTDOWN",
       "secondary": "hyde",
@@ -2246,6 +2069,186 @@
         }
       ],
       "detailPath": "entities/songs/acb1abc27286445a.json"
+    },
+    {
+      "rank": 4847,
+      "id": "bc2e2b6862b8e4aa",
+      "name": "CRIMSON BULLET",
+      "secondary": "水樹奈々",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "UYINoL36oXI",
+          "videoTitle": "【チケット1枚＆同接70耐久🎤🔥】奈々さまSongいっぱい歌います💜👑🎶【#ひめてぃライブ】",
+          "channelName": "夢羽ヒメ",
+          "publishedAt": "2026-09-30T13:43:31.213Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UYINoL36oXI/hqdefault.jpg",
+          "sourcePath": "sources/UY/UYINoL36oXI.json",
+          "time": "1:32:37",
+          "seconds": 5557,
+          "songTitle": "CRIMSON BULLET",
+          "artist": "水樹奈々"
+        },
+        {
+          "videoId": "t2nMjW7b-h4",
+          "videoTitle": "【#沼る中毒性歌枠リレー】水樹奈々さまSongに沼っちゃいましょう🎤👑💜【#夢羽ヒメ】",
+          "channelName": "夢羽ヒメ",
+          "publishedAt": "2026-09-23T12:41:15.489Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/t2nMjW7b-h4/hqdefault.jpg",
+          "sourcePath": "sources/t2/t2nMjW7b-h4.json",
+          "time": "0:25:11",
+          "seconds": 1511,
+          "songTitle": "CRIMSON BULLET",
+          "artist": "水樹奈々"
+        }
+      ],
+      "detailPath": "entities/songs/bc2e2b6862b8e4aa.json"
+    },
+    {
+      "rank": 4848,
+      "id": "f2297dc1e0b40c58",
+      "name": "CROSS",
+      "secondary": "BAND-MAID",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "MvCKauAVF2g",
+          "videoTitle": "【歌枠＆ギター練習276日目】新導入したアンプシミュで遊ぼうの回 J-Rock・アニソン・J-POP etc...【弾き語り＆エレキギター/ひで】",
+          "channelName": "ひでチャンネル",
+          "publishedAt": "2026-10-02T14:26:15.499Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MvCKauAVF2g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHGZQZ7Ztzw0OBCuXTzPlWFSvQ_g",
+          "sourcePath": "sources/Mv/MvCKauAVF2g.json",
+          "time": "1:54:22",
+          "seconds": 6862,
+          "songTitle": "CROSS",
+          "artist": "BAND-MAID"
+        },
+        {
+          "videoId": "irWMeeibmdA",
+          "videoTitle": "【歌枠＆ギター練習275日目】いろいろ＆BAND-MAIDさんの歌メロを少し覚える会 J-Rock・アニソン・J-POP etc...【弾き語り＆エレキギター/ひで】",
+          "channelName": "ひでチャンネル",
+          "publishedAt": "2026-10-01T08:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/irWMeeibmdA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtMRXfXz7bvaRHETnQHYDKMySsJg",
+          "sourcePath": "sources/ir/irWMeeibmdA.json",
+          "time": "1:18:40",
+          "seconds": 4720,
+          "songTitle": "CROSS",
+          "artist": "BAND-MAID"
+        }
+      ],
+      "detailPath": "entities/songs/f2297dc1e0b40c58.json"
+    },
+    {
+      "rank": 4849,
+      "id": "f12ee9e0afe8a613",
+      "name": "crossing field(ソードアート・オンライン)",
+      "secondary": "LiSA",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Fh7oBKM7eio",
+          "videoTitle": "【#歌枠】晴れたので歌うやよ！【エチェ】",
+          "channelName": "エチェ / Eche",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fh7oBKM7eio/hqdefault.jpg",
+          "sourcePath": "sources/Fh/Fh7oBKM7eio.json",
+          "time": "1:25:28",
+          "seconds": 5128,
+          "songTitle": "crossing field(ソードアート・オンライン)",
+          "artist": "LiSA"
+        },
+        {
+          "videoId": "Wg2Z8RGbrOo",
+          "videoTitle": "【#歌枠】雨が続くけれど歌うやよ！【エチェ】",
+          "channelName": "エチェ / Eche",
+          "publishedAt": "2026-09-19T06:59:51.059Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wg2Z8RGbrOo/hqdefault.jpg",
+          "sourcePath": "sources/Wg/Wg2Z8RGbrOo.json",
+          "time": "1:08:20",
+          "seconds": 4100,
+          "songTitle": "crossing field(ソードアート・オンライン)",
+          "artist": "LiSA"
+        }
+      ],
+      "detailPath": "entities/songs/f12ee9e0afe8a613.json"
+    },
+    {
+      "rank": 4850,
+      "id": "5872d9408d728fbe",
+      "name": "Crosswalk",
+      "secondary": "鈴木みのり",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "4nAZ-1G9_aY",
+          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
+          "channelName": "苺咲べりぃ / Maisaki Berry",
+          "publishedAt": "2026-10-09T15:54:50.012Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4nAZ-1G9_aY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCyOKmZcIUMRoCkttgW9NQ0SAXEA",
+          "sourcePath": "sources/4n/4nAZ-1G9_aY.json",
+          "time": "1:05:00",
+          "seconds": 3900,
+          "songTitle": "Crosswalk",
+          "artist": "鈴木みのり"
+        },
+        {
+          "videoId": "_2OCV6MVTDc",
+          "videoTitle": "【 #歌枠 / KARAOKE 】1時間のゆったりアニソン歌枠♪初見さんROM専さんも大歓迎♡【 Vsinger / #織夢りちぇ 】",
+          "channelName": "織夢りちぇ🦄🐰- Riche Ch.",
+          "publishedAt": "2026-09-22T03:30:37.501Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_2OCV6MVTDc/hqdefault.jpg",
+          "sourcePath": "sources/_2/_2OCV6MVTDc.json",
+          "time": "0:43:48",
+          "seconds": 2628,
+          "songTitle": "Crosswalk",
+          "artist": "鈴木みのり"
+        }
+      ],
+      "detailPath": "entities/songs/5872d9408d728fbe.json"
     }
   ]
 }

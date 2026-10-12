@@ -1,16 +1,75 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "all",
   "type": "songs",
   "page": 190,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52828,
+  "totalCount": 52829,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9451,
+      "id": "c45f3228b2a78975",
+      "name": "無敵のガールフレンド",
+      "secondary": "大原櫻子",
+      "channelId": "UC1JuhRTsFgZvi2ie2dTUxbg",
+      "channelHandle": "/channel/UC1JuhRTsFgZvi2ie2dTUxbg",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "JqiHjtNkmcU",
+          "videoTitle": "【#歌枠】10月ですね🎃元プロが歌う歌枠へようこそ【ボイトレVTuber / みかん先生】",
+          "channelName": "みかんとボーカルノート",
+          "publishedAt": "2026-10-03T15:48:36.542Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JqiHjtNkmcU/hqdefault.jpg",
+          "sourcePath": "sources/Jq/JqiHjtNkmcU.json",
+          "time": "0:11:40",
+          "seconds": 700,
+          "songTitle": "無敵のガールフレンド",
+          "artist": "大原櫻子"
+        },
+        {
+          "videoId": "WVB7HGnvzYc",
+          "videoTitle": "【#歌枠】みかん先生おしゃべり自販機収録前のワクワク歌枠☺️【ボイトレVTuber / みかん先生】",
+          "channelName": "みかんとボーカルノート",
+          "publishedAt": "2026-09-05T15:12:20.431Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WVB7HGnvzYc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDeM_UcTDDUGnYsP5yTzfqz-8Zjrg",
+          "sourcePath": "sources/WV/WVB7HGnvzYc.json",
+          "time": "0:21:03",
+          "seconds": 1263,
+          "songTitle": "無敵のガールフレンド",
+          "artist": "大原櫻子"
+        },
+        {
+          "videoId": "1PP__LNIRBU",
+          "videoTitle": "【#歌枠】ついに⚪︎⚪︎追加！?一緒に歌が学べる歌配信楽しも〜🍊【ボイトレVTuber / みかん先生】",
+          "channelName": "みかんとボーカルノート",
+          "publishedAt": "2026-07-11T16:27:33.698Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1PP__LNIRBU/hqdefault.jpg",
+          "sourcePath": "sources/1P/1PP__LNIRBU.json",
+          "time": "0:12:19",
+          "seconds": 739,
+          "songTitle": "無敵のガールフレンド",
+          "artist": "大原櫻子"
+        }
+      ],
+      "detailPath": "entities/songs/c45f3228b2a78975.json"
+    },
+    {
+      "rank": 9452,
       "id": "b3859d3c636de360",
       "name": "名古屋なも",
       "secondary": "閉会式",
@@ -67,7 +126,7 @@
       "detailPath": "entities/songs/b3859d3c636de360.json"
     },
     {
-      "rank": 9452,
+      "rank": 9453,
       "id": "f6f7cf05ae1193d5",
       "name": "名前のない怪物",
       "secondary": "EGOIST ※JOYSOUND",
@@ -124,7 +183,7 @@
       "detailPath": "entities/songs/f6f7cf05ae1193d5.json"
     },
     {
-      "rank": 9453,
+      "rank": 9454,
       "id": "f995ca44398211e8",
       "name": "命にふさわしい",
       "secondary": "Aimer",
@@ -184,7 +243,7 @@
       "detailPath": "entities/songs/f995ca44398211e8.json"
     },
     {
-      "rank": 9454,
+      "rank": 9455,
       "id": "4526bbaeb458a90c",
       "name": "命に嫌われてる",
       "secondary": "カンザキイオリ",
@@ -242,7 +301,7 @@
       "detailPath": "entities/songs/4526bbaeb458a90c.json"
     },
     {
-      "rank": 9455,
+      "rank": 9456,
       "id": "596a623ab0afc730",
       "name": "命ばっかり",
       "secondary": "ぬゆり feat.flower, 結月ゆかり",
@@ -302,7 +361,7 @@
       "detailPath": "entities/songs/596a623ab0afc730.json"
     },
     {
-      "rank": 9456,
+      "rank": 9457,
       "id": "3048090339ff2f9d",
       "name": "明日への手紙",
       "secondary": "未記載",
@@ -360,7 +419,7 @@
       "detailPath": "entities/songs/3048090339ff2f9d.json"
     },
     {
-      "rank": 9457,
+      "rank": 9458,
       "id": "a202954063a4814e",
       "name": "明日への扉",
       "secondary": "川嶋あい",
@@ -420,7 +479,7 @@
       "detailPath": "entities/songs/a202954063a4814e.json"
     },
     {
-      "rank": 9458,
+      "rank": 9459,
       "id": "de442b82d0ba3fc8",
       "name": "明日も",
       "secondary": "大原櫻子",
@@ -478,7 +537,7 @@
       "detailPath": "entities/songs/de442b82d0ba3fc8.json"
     },
     {
-      "rank": 9459,
+      "rank": 9460,
       "id": "562937ce62873ea1",
       "name": "明日も",
       "secondary": "MUSH&Co.",
@@ -538,7 +597,7 @@
       "detailPath": "entities/songs/562937ce62873ea1.json"
     },
     {
-      "rank": 9460,
+      "rank": 9461,
       "id": "ecbf3b57f7f1cc40",
       "name": "明日公園で",
       "secondary": "MONOEYES",
@@ -596,7 +655,7 @@
       "detailPath": "entities/songs/ecbf3b57f7f1cc40.json"
     },
     {
-      "rank": 9461,
+      "rank": 9462,
       "id": "591e1a3ff7b4396c",
       "name": "迷宮バタフライ",
       "secondary": "ほしな歌唄(cv:水樹奈々)",
@@ -653,7 +712,7 @@
       "detailPath": "entities/songs/591e1a3ff7b4396c.json"
     },
     {
-      "rank": 9462,
+      "rank": 9463,
       "id": "66a1eb9201fb7432",
       "name": "迷彩",
       "secondary": "椎名林檎",
@@ -713,7 +772,7 @@
       "detailPath": "entities/songs/66a1eb9201fb7432.json"
     },
     {
-      "rank": 9463,
+      "rank": 9464,
       "id": "6adc55fc80c7e877",
       "name": "迷星叫",
       "secondary": "MyGO!!!!!",
@@ -770,7 +829,7 @@
       "detailPath": "entities/songs/6adc55fc80c7e877.json"
     },
     {
-      "rank": 9464,
+      "rank": 9465,
       "id": "cc7e98eccfb93e53",
       "name": "妄想疾患■ガール",
       "secondary": "大柴広己",
@@ -829,7 +888,7 @@
       "detailPath": "entities/songs/cc7e98eccfb93e53.json"
     },
     {
-      "rank": 9465,
+      "rank": 9466,
       "id": "0195e0802a486fbd",
       "name": "妄想疾患■ガール",
       "secondary": "もじゃ feat.GUMI",
@@ -886,7 +945,7 @@
       "detailPath": "entities/songs/0195e0802a486fbd.json"
     },
     {
-      "rank": 9466,
+      "rank": 9467,
       "id": "3b59f73dd3491209",
       "name": "木蘭の涙",
       "secondary": "STARDUST REVUE",
@@ -946,7 +1005,7 @@
       "detailPath": "entities/songs/3b59f73dd3491209.json"
     },
     {
-      "rank": 9467,
+      "rank": 9468,
       "id": "5fb2af1b3b021fe0",
       "name": "木蓮の涙",
       "secondary": "スターダストレビュー",
@@ -1006,7 +1065,7 @@
       "detailPath": "entities/songs/5fb2af1b3b021fe0.json"
     },
     {
-      "rank": 9468,
+      "rank": 9469,
       "id": "b1345670d20e0eb1",
       "name": "目覚め",
       "secondary": "梶浦由記",
@@ -1066,7 +1125,7 @@
       "detailPath": "entities/songs/b1345670d20e0eb1.json"
     },
     {
-      "rank": 9469,
+      "rank": 9470,
       "id": "444bbd81a613af5c",
       "name": "餅付ぬるぽ",
       "secondary": "",
@@ -1123,7 +1182,7 @@
       "detailPath": "entities/songs/444bbd81a613af5c.json"
     },
     {
-      "rank": 9470,
+      "rank": 9471,
       "id": "374e1a5a0c754972",
       "name": "紋白蝶",
       "secondary": "東京スカパラダイスオーケストラ feat . 石原 慎也",
@@ -1183,7 +1242,7 @@
       "detailPath": "entities/songs/374e1a5a0c754972.json"
     },
     {
-      "rank": 9471,
+      "rank": 9472,
       "id": "3de4eae63a7375f5",
       "name": "紋白蝶feat.石原慎也",
       "secondary": "東京ｽｶﾊﾟﾗﾀﾞｲｽｵｰｹｽﾄﾗ",
@@ -1240,7 +1299,7 @@
       "detailPath": "entities/songs/3de4eae63a7375f5.json"
     },
     {
-      "rank": 9472,
+      "rank": 9473,
       "id": "e203876a0b1fb396",
       "name": "夜が明ける",
       "secondary": "ギヴン",
@@ -1299,7 +1358,7 @@
       "detailPath": "entities/songs/e203876a0b1fb396.json"
     },
     {
-      "rank": 9473,
+      "rank": 9474,
       "id": "1b009d8cc3f08a37",
       "name": "夜に咲く",
       "secondary": "星街すいせい",
@@ -1357,7 +1416,7 @@
       "detailPath": "entities/songs/1b009d8cc3f08a37.json"
     },
     {
-      "rank": 9474,
+      "rank": 9475,
       "id": "f900791b6d15263a",
       "name": "夜のピエロ",
       "secondary": "",
@@ -1414,7 +1473,7 @@
       "detailPath": "entities/songs/f900791b6d15263a.json"
     },
     {
-      "rank": 9475,
+      "rank": 9476,
       "id": "490a0f73cf0297c6",
       "name": "夜もすがら君思ふ",
       "secondary": "西沢さんP",
@@ -1471,7 +1530,7 @@
       "detailPath": "entities/songs/490a0f73cf0297c6.json"
     },
     {
-      "rank": 9476,
+      "rank": 9477,
       "id": "b27ca5402123a23a",
       "name": "夜もすがら君想ふ",
       "secondary": "TOKOTOKO(西沢さんP) feat.GUMI ※JOYSOUND",
@@ -1530,7 +1589,7 @@
       "detailPath": "entities/songs/b27ca5402123a23a.json"
     },
     {
-      "rank": 9477,
+      "rank": 9478,
       "id": "4c1efedecbacd547",
       "name": "夜空。feat.ハジ→",
       "secondary": "miwa",
@@ -1586,7 +1645,7 @@
       "detailPath": "entities/songs/4c1efedecbacd547.json"
     },
     {
-      "rank": 9478,
+      "rank": 9479,
       "id": "d244afa9dbd83844",
       "name": "夜空にふたつ",
       "secondary": "電ポルP",
@@ -1646,7 +1705,7 @@
       "detailPath": "entities/songs/d244afa9dbd83844.json"
     },
     {
-      "rank": 9479,
+      "rank": 9480,
       "id": "18af61ca360fdfca",
       "name": "夜空ノムコウ",
       "secondary": "スガシカオ",
@@ -1704,7 +1763,7 @@
       "detailPath": "entities/songs/18af61ca360fdfca.json"
     },
     {
-      "rank": 9480,
+      "rank": 9481,
       "id": "12a260502304b007",
       "name": "夜行",
       "secondary": "",
@@ -1761,7 +1820,7 @@
       "detailPath": "entities/songs/12a260502304b007.json"
     },
     {
-      "rank": 9481,
+      "rank": 9482,
       "id": "1f54b2f167753779",
       "name": "夜行性ハイズ",
       "secondary": "DECO*27",
@@ -1821,7 +1880,7 @@
       "detailPath": "entities/songs/1f54b2f167753779.json"
     },
     {
-      "rank": 9482,
+      "rank": 9483,
       "id": "c50ee027a02c1fe8",
       "name": "夜鷹",
       "secondary": "米津玄師",
@@ -1878,7 +1937,7 @@
       "detailPath": "entities/songs/c50ee027a02c1fe8.json"
     },
     {
-      "rank": 9483,
+      "rank": 9484,
       "id": "a3b4039fa85c7560",
       "name": "夜明けと蛍",
       "secondary": "n-buna (n-buna)",
@@ -1938,7 +1997,7 @@
       "detailPath": "entities/songs/a3b4039fa85c7560.json"
     },
     {
-      "rank": 9484,
+      "rank": 9485,
       "id": "59146c838e535fec",
       "name": "夜明けと蛍 - piano ver",
       "secondary": "n-buna feat.初音ミク",
@@ -1995,7 +2054,7 @@
       "detailPath": "entities/songs/59146c838e535fec.json"
     },
     {
-      "rank": 9485,
+      "rank": 9486,
       "id": "ec026bf63c4c45cf",
       "name": "夜明けと蛍 Piano ver",
       "secondary": "n-buna",
@@ -2054,7 +2113,7 @@
       "detailPath": "entities/songs/ec026bf63c4c45cf.json"
     },
     {
-      "rank": 9486,
+      "rank": 9487,
       "id": "cf92c9bb94ecc7e9",
       "name": "夜明けのShooting Star",
       "secondary": "林原めぐみ",
@@ -2110,7 +2169,7 @@
       "detailPath": "entities/songs/cf92c9bb94ecc7e9.json"
     },
     {
-      "rank": 9487,
+      "rank": 9488,
       "id": "200f77472c20f99a",
       "name": "夜明けの歌",
       "secondary": "M2U",
@@ -2171,7 +2230,7 @@
       "detailPath": "entities/songs/200f77472c20f99a.json"
     },
     {
-      "rank": 9488,
+      "rank": 9489,
       "id": "41c56126073a263e",
       "name": "夜明けの星空",
       "secondary": "片霧烈火",
@@ -2228,7 +2287,7 @@
       "detailPath": "entities/songs/41c56126073a263e.json"
     },
     {
-      "rank": 9489,
+      "rank": 9490,
       "id": "61c85b1f5c9c99a5",
       "name": "野に咲く花のように",
       "secondary": "ダ・カーポ",
@@ -2288,7 +2347,7 @@
       "detailPath": "entities/songs/61c85b1f5c9c99a5.json"
     },
     {
-      "rank": 9490,
+      "rank": 9491,
       "id": "91bc31f4da88e882",
       "name": "野菜シスターズ",
       "secondary": "AKB48",
@@ -2345,7 +2404,7 @@
       "detailPath": "entities/songs/91bc31f4da88e882.json"
     },
     {
-      "rank": 9491,
+      "rank": 9492,
       "id": "3a24516d9b4f0422",
       "name": "約束",
       "secondary": "如月千早(今井麻美)",
@@ -2404,7 +2463,7 @@
       "detailPath": "entities/songs/3a24516d9b4f0422.json"
     },
     {
-      "rank": 9492,
+      "rank": 9493,
       "id": "7c75e36fac8cb57e",
       "name": "約束",
       "secondary": "如月千早 (CV:今井麻美)",
@@ -2461,7 +2520,7 @@
       "detailPath": "entities/songs/7c75e36fac8cb57e.json"
     },
     {
-      "rank": 9493,
+      "rank": 9494,
       "id": "5493eda59f8eebd2",
       "name": "優しい夜明け",
       "secondary": "See-Saw",
@@ -2520,7 +2579,7 @@
       "detailPath": "entities/songs/5493eda59f8eebd2.json"
     },
     {
-      "rank": 9494,
+      "rank": 9495,
       "id": "abe573a485aa9caa",
       "name": "優しくLAST SMILE",
       "secondary": "ずっと真夜中でいいのに。",
@@ -2578,7 +2637,7 @@
       "detailPath": "entities/songs/abe573a485aa9caa.json"
     },
     {
-      "rank": 9495,
+      "rank": 9496,
       "id": "d9381fca300d7cbd",
       "name": "勇気100％",
       "secondary": "忍たま乱太郎",
@@ -2638,7 +2697,7 @@
       "detailPath": "entities/songs/d9381fca300d7cbd.json"
     },
     {
-      "rank": 9496,
+      "rank": 9497,
       "id": "49d7a16812258b25",
       "name": "勇魚",
       "secondary": "岩見拓馬",
@@ -2696,7 +2755,7 @@
       "detailPath": "entities/songs/49d7a16812258b25.json"
     },
     {
-      "rank": 9497,
+      "rank": 9498,
       "id": "ced59c13139ac45c",
       "name": "友達の詩",
       "secondary": "中村中",
@@ -2753,7 +2812,7 @@
       "detailPath": "entities/songs/ced59c13139ac45c.json"
     },
     {
-      "rank": 9498,
+      "rank": 9499,
       "id": "834a184dd417bae4",
       "name": "有頂天ビバーチェ",
       "secondary": "Last note.",
@@ -2812,7 +2871,7 @@
       "detailPath": "entities/songs/834a184dd417bae4.json"
     },
     {
-      "rank": 9499,
+      "rank": 9500,
       "id": "efcaf1d1bbdbcb0b",
       "name": "雄叫びボーイ WAO!",
       "secondary": "Berryz工房",
@@ -2869,64 +2928,6 @@
         }
       ],
       "detailPath": "entities/songs/efcaf1d1bbdbcb0b.json"
-    },
-    {
-      "rank": 9500,
-      "id": "57b527ec148614e1",
-      "name": "融解sink",
-      "secondary": "Vaundy",
-      "channelId": "UCqe0-vqZwAvZUb22wCMu1fA",
-      "channelHandle": "/channel/UCqe0-vqZwAvZUb22wCMu1fA",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "l1nlYepHfyc",
-          "videoTitle": "🔴【歌枠】今夜も好き勝手に歌う【Sen†Sational】",
-          "channelName": "Sen†Sational/センセーショナル",
-          "publishedAt": "2026-09-18T17:46:48.956Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/l1nlYepHfyc/hqdefault.jpg",
-          "sourcePath": "sources/l1/l1nlYepHfyc.json",
-          "time": "0:35:46",
-          "seconds": 2146,
-          "songTitle": "融解sink",
-          "artist": "Vaundy"
-        },
-        {
-          "videoId": "_Pp1Q9hJaI4",
-          "videoTitle": "歌枠｜睡眠導入、疲れた体を癒しに来てね✨作業BGMにも♡ଓ初見さんも大歓迎 【 白波瀬ソル / YUMENOS】",
-          "channelName": "白波瀬ソル / Sol Shirahase",
-          "publishedAt": "2026-07-06T07:35:47.693Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_Pp1Q9hJaI4/hqdefault.jpg",
-          "sourcePath": "sources/_P/_Pp1Q9hJaI4.json",
-          "time": "0:50:24",
-          "seconds": 3024,
-          "songTitle": "融解sink",
-          "artist": "Vaundy"
-        },
-        {
-          "videoId": "-iOsziIkWtw",
-          "videoTitle": "【歌枠】ちるちる┊︎#音ノ乃のの #ののん家",
-          "channelName": "音ノ乃のの / NononoNono",
-          "publishedAt": "2026-07-02T21:13:05.244Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-iOsziIkWtw/hqdefault.jpg",
-          "sourcePath": "sources/-i/-iOsziIkWtw.json",
-          "time": "0:41:00",
-          "seconds": 2460,
-          "songTitle": "融解sink",
-          "artist": "Vaundy"
-        }
-      ],
-      "detailPath": "entities/songs/57b527ec148614e1.json"
     }
   ]
 }

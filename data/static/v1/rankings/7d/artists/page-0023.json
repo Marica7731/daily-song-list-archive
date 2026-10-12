@@ -1,82 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "7d",
   "type": "artists",
   "page": 23,
   "pageSize": 50,
   "pageCount": 36,
-  "totalCount": 1761,
+  "totalCount": 1759,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1101,
-      "id": "f6d0b5ad1839ab63",
-      "name": "ウルフルズ",
-      "secondary": "",
-      "channelId": "UCp8CHA-WElj1ukHPq9q8acA",
-      "channelHandle": "@manimanicurered",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Vehc_2FkwwY",
-          "videoTitle": "【歌枠】オフイベまであとちょっと…スナック向けの歌枠配信です🎤✨【まにきゅあ】",
-          "channelName": "まにきゅあ manicure",
-          "publishedAt": "2026-10-09T15:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Vehc_2FkwwY/hqdefault.jpg",
-          "sourcePath": "sources/Ve/Vehc_2FkwwY.json",
-          "time": "2:25:51",
-          "seconds": 8751,
-          "songTitle": "サムライソウル",
-          "artist": "ウルフルズ"
-        }
-      ],
-      "detailPath": "entities/artists/f6d0b5ad1839ab63.json"
-    },
-    {
-      "rank": 1102,
-      "id": "6b7a9d7aef00a7e9",
-      "name": "うろ覚え",
-      "secondary": "",
-      "channelId": "UCm6NmXO5dxpdk-AxG3qyZRQ",
-      "channelHandle": "@ZashikiWarabi",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Rijs_PLEnBc",
-          "videoTitle": "【 歌枠｜KARAOKE 】疲れたカラダに元気をチャージ💛久しぶりの夕方歌枠！#お座敷てれび【 座敷わらび/個人VTuber 】#shorts",
-          "channelName": "座敷わらび / Zashiki Warabi",
-          "publishedAt": "2026-10-07T11:42:33.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Rijs_PLEnBc/hqdefault.jpg",
-          "sourcePath": "sources/Ri/Rijs_PLEnBc.json",
-          "time": "1:38:19",
-          "seconds": 5899,
-          "songTitle": "ハートの主張",
-          "artist": "うろ覚え"
-        }
-      ],
-      "detailPath": "entities/artists/6b7a9d7aef00a7e9.json"
-    },
-    {
-      "rank": 1103,
       "id": "4411a5c8b0adb473",
       "name": "エアリープロダクション",
       "secondary": "",
@@ -109,7 +43,7 @@
       "detailPath": "entities/artists/4411a5c8b0adb473.json"
     },
     {
-      "rank": 1104,
+      "rank": 1102,
       "id": "6673fa25370b3390",
       "name": "えなこ feat. P丸様。",
       "secondary": "",
@@ -142,7 +76,7 @@
       "detailPath": "entities/artists/6673fa25370b3390.json"
     },
     {
-      "rank": 1105,
+      "rank": 1103,
       "id": "8e347cdd1440daea",
       "name": "エレファントカシマシ",
       "secondary": "",
@@ -175,7 +109,7 @@
       "detailPath": "entities/artists/8e347cdd1440daea.json"
     },
     {
-      "rank": 1106,
+      "rank": 1104,
       "id": "b12705c757d0c2d2",
       "name": "おじゃる丸",
       "secondary": "",
@@ -208,7 +142,7 @@
       "detailPath": "entities/artists/b12705c757d0c2d2.json"
     },
     {
-      "rank": 1107,
+      "rank": 1105,
       "id": "6dea53b600bcf743",
       "name": "おニャン子クラブ",
       "secondary": "",
@@ -241,7 +175,7 @@
       "detailPath": "entities/artists/6dea53b600bcf743.json"
     },
     {
-      "rank": 1108,
+      "rank": 1106,
       "id": "012a79faa21c80af",
       "name": "オレンジスパイニクラブ",
       "secondary": "",
@@ -274,7 +208,7 @@
       "detailPath": "entities/artists/012a79faa21c80af.json"
     },
     {
-      "rank": 1109,
+      "rank": 1107,
       "id": "610fa759ee0ff2cf",
       "name": "オワタ (息切れ)",
       "secondary": "",
@@ -307,7 +241,7 @@
       "detailPath": "entities/artists/610fa759ee0ff2cf.json"
     },
     {
-      "rank": 1110,
+      "rank": 1108,
       "id": "7b03d5ba8d07ad35",
       "name": "オワタP feat. 初音ミク",
       "secondary": "",
@@ -340,7 +274,7 @@
       "detailPath": "entities/artists/7b03d5ba8d07ad35.json"
     },
     {
-      "rank": 1111,
+      "rank": 1109,
       "id": "6ddc7f3e3dbcfea5",
       "name": "ガーネット",
       "secondary": "",
@@ -373,7 +307,7 @@
       "detailPath": "entities/artists/6ddc7f3e3dbcfea5.json"
     },
     {
-      "rank": 1112,
+      "rank": 1110,
       "id": "83b99a9af1bf9c92",
       "name": "かぐや (夏吉ゆうこ)",
       "secondary": "",
@@ -406,7 +340,7 @@
       "detailPath": "entities/artists/83b99a9af1bf9c92.json"
     },
     {
-      "rank": 1113,
+      "rank": 1111,
       "id": "31934f5a6456c7fc",
       "name": "かぐや、月見ヤチヨ",
       "secondary": "",
@@ -439,7 +373,7 @@
       "detailPath": "entities/artists/31934f5a6456c7fc.json"
     },
     {
-      "rank": 1114,
+      "rank": 1112,
       "id": "d2468e72ed6134f0",
       "name": "カヒミ・カリィ（1996年）",
       "secondary": "",
@@ -472,7 +406,7 @@
       "detailPath": "entities/artists/d2468e72ed6134f0.json"
     },
     {
-      "rank": 1115,
+      "rank": 1113,
       "id": "768a17fa3b59a410",
       "name": "からくりんね",
       "secondary": "",
@@ -506,7 +440,7 @@
       "detailPath": "entities/artists/768a17fa3b59a410.json"
     },
     {
-      "rank": 1116,
+      "rank": 1114,
       "id": "f1b00da81e8f5ff6",
       "name": "カラスヤサボウ",
       "secondary": "",
@@ -539,7 +473,7 @@
       "detailPath": "entities/artists/f1b00da81e8f5ff6.json"
     },
     {
-      "rank": 1117,
+      "rank": 1115,
       "id": "64560025ebbe78d4",
       "name": "かわいい",
       "secondary": "",
@@ -573,7 +507,7 @@
       "detailPath": "entities/artists/64560025ebbe78d4.json"
     },
     {
-      "rank": 1118,
+      "rank": 1116,
       "id": "d43b92ecce8805b3",
       "name": "ガンダム Gのレコンギスタ",
       "secondary": "",
@@ -606,7 +540,7 @@
       "detailPath": "entities/artists/d43b92ecce8805b3.json"
     },
     {
-      "rank": 1119,
+      "rank": 1117,
       "id": "c8b006bb7d94532a",
       "name": "ギガP",
       "secondary": "",
@@ -639,7 +573,7 @@
       "detailPath": "entities/artists/c8b006bb7d94532a.json"
     },
     {
-      "rank": 1120,
+      "rank": 1118,
       "id": "85a2a6f0f61b1cd5",
       "name": "きのこオールスターズ",
       "secondary": "",
@@ -672,7 +606,7 @@
       "detailPath": "entities/artists/85a2a6f0f61b1cd5.json"
     },
     {
-      "rank": 1121,
+      "rank": 1119,
       "id": "eefdd3b40b7da722",
       "name": "キャナァーリ倶楽部",
       "secondary": "",
@@ -705,7 +639,7 @@
       "detailPath": "entities/artists/eefdd3b40b7da722.json"
     },
     {
-      "rank": 1122,
+      "rank": 1120,
       "id": "3875ba77682174fe",
       "name": "きゃりーぱみゅぱみゅ (2011) 「バンタン」CMソング",
       "secondary": "",
@@ -738,7 +672,7 @@
       "detailPath": "entities/artists/3875ba77682174fe.json"
     },
     {
-      "rank": 1123,
+      "rank": 1121,
       "id": "2394514b9c44eae2",
       "name": "きらりん☆レボリューション KIRARIN REVOLUTION",
       "secondary": "",
@@ -771,7 +705,7 @@
       "detailPath": "entities/artists/2394514b9c44eae2.json"
     },
     {
-      "rank": 1124,
+      "rank": 1122,
       "id": "95b12c4b8f8677c6",
       "name": "ギルドの受付嬢ですが残業は嫌なのでボスをソロ討伐しようと思います",
       "secondary": "",
@@ -804,7 +738,7 @@
       "detailPath": "entities/artists/95b12c4b8f8677c6.json"
     },
     {
-      "rank": 1125,
+      "rank": 1123,
       "id": "e99e492c5f5aa6d0",
       "name": "くらげP",
       "secondary": "",
@@ -837,7 +771,7 @@
       "detailPath": "entities/artists/e99e492c5f5aa6d0.json"
     },
     {
-      "rank": 1126,
+      "rank": 1124,
       "id": "aa92a243679c942e",
       "name": "クリープハイプ ※少しだけ",
       "secondary": "",
@@ -870,7 +804,7 @@
       "detailPath": "entities/artists/aa92a243679c942e.json"
     },
     {
-      "rank": 1127,
+      "rank": 1125,
       "id": "fa8b7bb101826b72",
       "name": "クリス・ハート",
       "secondary": "",
@@ -903,7 +837,7 @@
       "detailPath": "entities/artists/fa8b7bb101826b72.json"
     },
     {
-      "rank": 1128,
+      "rank": 1126,
       "id": "ad7322416bf6e7af",
       "name": "クリティクリスタ",
       "secondary": "",
@@ -936,7 +870,7 @@
       "detailPath": "entities/artists/ad7322416bf6e7af.json"
     },
     {
-      "rank": 1129,
+      "rank": 1127,
       "id": "b097425bf614b0d6",
       "name": "クレア",
       "secondary": "",
@@ -969,7 +903,7 @@
       "detailPath": "entities/artists/b097425bf614b0d6.json"
     },
     {
-      "rank": 1130,
+      "rank": 1128,
       "id": "1ffc6569a92c8034",
       "name": "クワガタP feat. 巡音ルカ",
       "secondary": "",
@@ -1002,7 +936,7 @@
       "detailPath": "entities/artists/1ffc6569a92c8034.json"
     },
     {
-      "rank": 1131,
+      "rank": 1129,
       "id": "73adb04d805bdf7e",
       "name": "ケツメイシ",
       "secondary": "",
@@ -1035,7 +969,7 @@
       "detailPath": "entities/artists/73adb04d805bdf7e.json"
     },
     {
-      "rank": 1132,
+      "rank": 1130,
       "id": "30b4a46574939a07",
       "name": "ケロロ軍曹",
       "secondary": "",
@@ -1068,7 +1002,7 @@
       "detailPath": "entities/artists/30b4a46574939a07.json"
     },
     {
-      "rank": 1133,
+      "rank": 1131,
       "id": "a4fc7b6d0b354f37",
       "name": "ころん",
       "secondary": "",
@@ -1101,7 +1035,7 @@
       "detailPath": "entities/artists/a4fc7b6d0b354f37.json"
     },
     {
-      "rank": 1134,
+      "rank": 1132,
       "id": "09be939eb4d22feb",
       "name": "こんにちは谷田さん",
       "secondary": "",
@@ -1134,7 +1068,7 @@
       "detailPath": "entities/artists/09be939eb4d22feb.json"
     },
     {
-      "rank": 1135,
+      "rank": 1133,
       "id": "c1bb8a3c53964e33",
       "name": "ザ・フォーク・クルセダーズ",
       "secondary": "",
@@ -1167,7 +1101,7 @@
       "detailPath": "entities/artists/c1bb8a3c53964e33.json"
     },
     {
-      "rank": 1136,
+      "rank": 1134,
       "id": "c29a02c96af58138",
       "name": "サイキックラバー",
       "secondary": "",
@@ -1200,7 +1134,7 @@
       "detailPath": "entities/artists/c29a02c96af58138.json"
     },
     {
-      "rank": 1137,
+      "rank": 1135,
       "id": "ecc086c437d984a4",
       "name": "さかいゆう",
       "secondary": "",
@@ -1233,7 +1167,7 @@
       "detailPath": "entities/artists/ecc086c437d984a4.json"
     },
     {
-      "rank": 1138,
+      "rank": 1136,
       "id": "a52b4b9381455a02",
       "name": "サカナクション [かな]",
       "secondary": "",
@@ -1266,7 +1200,7 @@
       "detailPath": "entities/artists/a52b4b9381455a02.json"
     },
     {
-      "rank": 1139,
+      "rank": 1137,
       "id": "8cadd69de93a0354",
       "name": "サスケ",
       "secondary": "",
@@ -1299,7 +1233,7 @@
       "detailPath": "entities/artists/8cadd69de93a0354.json"
     },
     {
-      "rank": 1140,
+      "rank": 1138,
       "id": "e16e016a40fe78e1",
       "name": "さユり（ピアノ伴奏Ver.）",
       "secondary": "",
@@ -1332,7 +1266,7 @@
       "detailPath": "entities/artists/e16e016a40fe78e1.json"
     },
     {
-      "rank": 1141,
+      "rank": 1139,
       "id": "33329e6a8efc940f",
       "name": "ざらめ",
       "secondary": "",
@@ -1365,7 +1299,7 @@
       "detailPath": "entities/artists/33329e6a8efc940f.json"
     },
     {
-      "rank": 1142,
+      "rank": 1140,
       "id": "df1f49ee9a974c96",
       "name": "さんひ",
       "secondary": "",
@@ -1399,7 +1333,7 @@
       "detailPath": "entities/artists/df1f49ee9a974c96.json"
     },
     {
-      "rank": 1143,
+      "rank": 1141,
       "id": "403a4c09a0abdb55",
       "name": "じーざすP",
       "secondary": "",
@@ -1432,7 +1366,7 @@
       "detailPath": "entities/artists/403a4c09a0abdb55.json"
     },
     {
-      "rank": 1144,
+      "rank": 1142,
       "id": "ba60646e816a89f4",
       "name": "シェシェ(土屋実紀)・ミミ(下屋則子)",
       "secondary": "",
@@ -1465,7 +1399,7 @@
       "detailPath": "entities/artists/ba60646e816a89f4.json"
     },
     {
-      "rank": 1145,
+      "rank": 1143,
       "id": "2f9041dd2377ca28",
       "name": "ジェニーハイ",
       "secondary": "",
@@ -1498,7 +1432,7 @@
       "detailPath": "entities/artists/2f9041dd2377ca28.json"
     },
     {
-      "rank": 1146,
+      "rank": 1144,
       "id": "698f34a43bbee0c3",
       "name": "ジェニーハイ feat. ちゃんみな",
       "secondary": "",
@@ -1531,7 +1465,7 @@
       "detailPath": "entities/artists/698f34a43bbee0c3.json"
     },
     {
-      "rank": 1147,
+      "rank": 1145,
       "id": "53c1528326290956",
       "name": "シェネル",
       "secondary": "",
@@ -1564,7 +1498,7 @@
       "detailPath": "entities/artists/53c1528326290956.json"
     },
     {
-      "rank": 1148,
+      "rank": 1146,
       "id": "ea60eeff57f28dc6",
       "name": "シェリル・ノーム",
       "secondary": "",
@@ -1597,7 +1531,7 @@
       "detailPath": "entities/artists/ea60eeff57f28dc6.json"
     },
     {
-      "rank": 1149,
+      "rank": 1147,
       "id": "6cf6b2890d6f4dea",
       "name": "シェリル・ノーム starring May'n、ランカ・リー＝中島愛",
       "secondary": "",
@@ -1630,7 +1564,7 @@
       "detailPath": "entities/artists/6cf6b2890d6f4dea.json"
     },
     {
-      "rank": 1150,
+      "rank": 1148,
       "id": "0690135a97fb3800",
       "name": "シグナルP feat.初音ミク、KAITO",
       "secondary": "",
@@ -1661,6 +1595,72 @@
         }
       ],
       "detailPath": "entities/artists/0690135a97fb3800.json"
+    },
+    {
+      "rank": 1149,
+      "id": "58883173645bb313",
+      "name": "ジミーサム(後半修行中)",
+      "secondary": "",
+      "channelId": "UC53iUi6icSME4tFA-bR6Rig",
+      "channelHandle": "@yomogich.6303",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "NVPcWvTH490",
+          "videoTitle": "【#歌枠 / karaoke 】どれくらい知ってるかな？古ボカロ歌うよ！！【#vtuber / 歌喰猫よもぎ 】",
+          "channelName": "Yomogi Ch.歌喰猫よもぎ",
+          "publishedAt": "2026-10-08T14:09:56.308Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NVPcWvTH490/hqdefault.jpg",
+          "sourcePath": "sources/NV/NVPcWvTH490.json",
+          "time": "1:45:25",
+          "seconds": 6325,
+          "songTitle": "Calc",
+          "artist": "ジミーサム(後半修行中)"
+        }
+      ],
+      "detailPath": "entities/artists/58883173645bb313.json"
+    },
+    {
+      "rank": 1150,
+      "id": "dfa90938d635883c",
+      "name": "ジミーサムP feat. 初音ミク",
+      "secondary": "",
+      "channelId": "UCqsS32C_llpT2ia5S1Oh44A",
+      "channelHandle": "@suzume_mikagura",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "VMbOY7mANNg",
+          "videoTitle": "【歌枠┊KARAOKE】あなたへ捧ぐ、黄昏のアニソン・J-POP🌇【Vsinger Vtuber┊御神楽すずめ】",
+          "channelName": "御神楽すずめ / Mikagura Suzume",
+          "publishedAt": "2026-10-07T11:26:30.246Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VMbOY7mANNg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8kjsC1MNP44iHmRxjNf_cH0fvvQ",
+          "sourcePath": "sources/VM/VMbOY7mANNg.json",
+          "time": "2:31:22",
+          "seconds": 9082,
+          "songTitle": "Calc",
+          "artist": "ジミーサムP feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/artists/dfa90938d635883c.json"
     }
   ]
 }

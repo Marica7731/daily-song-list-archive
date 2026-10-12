@@ -1,16 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "all",
   "type": "songs",
   "page": 846,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52828,
+  "totalCount": 52829,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 42251,
+      "id": "84d88f45841fdb54",
+      "name": "花屋の娘",
+      "secondary": "フジファブリック",
+      "channelId": "UC4oB9i4ZXTUFDQa4nulSdzA",
+      "channelHandle": "@Fugukara",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "60_0baTuDA8",
+          "videoTitle": "#85【アコギ弾き語り練習｜歌枠 】 めちゃめちゃ歌う練習枠 【ギター練習】",
+          "channelName": "ふぐのからあげ / Fugukara",
+          "publishedAt": "2026-09-09T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/60_0baTuDA8/hqdefault.jpg",
+          "sourcePath": "sources/60/60_0baTuDA8.json",
+          "time": "1:21:04",
+          "seconds": 4864,
+          "songTitle": "花屋の娘",
+          "artist": "フジファブリック"
+        }
+      ],
+      "detailPath": "entities/songs/84d88f45841fdb54.json"
+    },
+    {
+      "rank": 42252,
       "id": "fafd43e130d5e6b2",
       "name": "花火",
       "secondary": "奥華子（アカペラ）",
@@ -44,7 +74,7 @@
       "detailPath": "entities/songs/fafd43e130d5e6b2.json"
     },
     {
-      "rank": 42252,
+      "rank": 42253,
       "id": "37dccb3fd77b10ce",
       "name": "花火",
       "secondary": "サビ",
@@ -77,7 +107,7 @@
       "detailPath": "entities/songs/37dccb3fd77b10ce.json"
     },
     {
-      "rank": 42253,
+      "rank": 42254,
       "id": "270f063c4484d416",
       "name": "花火",
       "secondary": "ちゃんみなさん",
@@ -110,7 +140,7 @@
       "detailPath": "entities/songs/270f063c4484d416.json"
     },
     {
-      "rank": 42254,
+      "rank": 42255,
       "id": "4d2e6cc37b8d0c15",
       "name": "花火",
       "secondary": "リクエスト曲",
@@ -140,7 +170,7 @@
       "detailPath": "entities/songs/4d2e6cc37b8d0c15.json"
     },
     {
-      "rank": 42255,
+      "rank": 42256,
       "id": "f85ae61ee3d987b2",
       "name": "花火 - aiko（ • 【カラオケ】花火",
       "secondary": "aiko",
@@ -170,7 +200,7 @@
       "detailPath": "entities/songs/f85ae61ee3d987b2.json"
     },
     {
-      "rank": 42256,
+      "rank": 42257,
       "id": "a4525ed1f8aae986",
       "name": "花火（元気ver）",
       "secondary": "aiko",
@@ -203,7 +233,7 @@
       "detailPath": "entities/songs/a4525ed1f8aae986.json"
     },
     {
-      "rank": 42257,
+      "rank": 42258,
       "id": "eb9ce947700b0f4e",
       "name": "花火大会",
       "secondary": "梓川",
@@ -236,7 +266,7 @@
       "detailPath": "entities/songs/eb9ce947700b0f4e.json"
     },
     {
-      "rank": 42258,
+      "rank": 42259,
       "id": "d6c7defe9471e80e",
       "name": "花火布蕾亞 #GGRIP #winners",
       "secondary": "",
@@ -269,7 +299,7 @@
       "detailPath": "entities/songs/d6c7defe9471e80e.json"
     },
     {
-      "rank": 42259,
+      "rank": 42260,
       "id": "f3e51f1d4b71c282",
       "name": "花火布蕾亞 #VAVA #我的新衣",
       "secondary": "",
@@ -302,7 +332,7 @@
       "detailPath": "entities/songs/f3e51f1d4b71c282.json"
     },
     {
-      "rank": 42260,
+      "rank": 42261,
       "id": "52919f331ef456bd",
       "name": "花火布蕾亞 #爆炎鬼皇",
       "secondary": "原創曲",
@@ -335,7 +365,7 @@
       "detailPath": "entities/songs/52919f331ef456bd.json"
     },
     {
-      "rank": 42261,
+      "rank": 42262,
       "id": "d3c982b872f4407e",
       "name": "花火布蕾亞 #羅志祥 #精舞門",
       "secondary": "",
@@ -368,7 +398,7 @@
       "detailPath": "entities/songs/d3c982b872f4407e.json"
     },
     {
-      "rank": 42262,
+      "rank": 42263,
       "id": "7fe30d46f8ecaa4e",
       "name": "花火布蕾亞 #潘瑋柏 #24個比利",
       "secondary": "",
@@ -401,7 +431,7 @@
       "detailPath": "entities/songs/7fe30d46f8ecaa4e.json"
     },
     {
-      "rank": 42263,
+      "rank": 42264,
       "id": "f1f79c89e8eec86b",
       "name": "花火布蕾亞and花陸万宵 #林俊傑 #五月天 #黑暗騎士",
       "secondary": "",
@@ -434,7 +464,7 @@
       "detailPath": "entities/songs/f1f79c89e8eec86b.json"
     },
     {
-      "rank": 42264,
+      "rank": 42265,
       "id": "026b743a371c4c5e",
       "name": "花丸◎日和！",
       "secondary": "大和守安定・加州清光",
@@ -467,7 +497,7 @@
       "detailPath": "entities/songs/026b743a371c4c5e.json"
     },
     {
-      "rank": 42265,
+      "rank": 42266,
       "id": "45752e1230889403",
       "name": "花丸◎日和!",
       "secondary": "大和守安定(市来光弘),加州清光(増田俊樹)",
@@ -500,7 +530,7 @@
       "detailPath": "entities/songs/45752e1230889403.json"
     },
     {
-      "rank": 42266,
+      "rank": 42267,
       "id": "b16318558c50b1c8",
       "name": "花京院ちえり",
       "secondary": "@chierikakyoin",
@@ -530,7 +560,7 @@
       "detailPath": "entities/songs/b16318558c50b1c8.json"
     },
     {
-      "rank": 42267,
+      "rank": 42268,
       "id": "967bda9c61103c64",
       "name": "花月成雙",
       "secondary": "閃溥心",
@@ -563,7 +593,7 @@
       "detailPath": "entities/songs/967bda9c61103c64.json"
     },
     {
-      "rank": 42268,
+      "rank": 42269,
       "id": "8b0b1b2a1c4925de",
       "name": "花降らし",
       "secondary": "未記載",
@@ -595,7 +625,7 @@
       "detailPath": "entities/songs/8b0b1b2a1c4925de.json"
     },
     {
-      "rank": 42269,
+      "rank": 42270,
       "id": "8d9fe4b37393beac",
       "name": "花降らし",
       "secondary": "n-bunaへ",
@@ -628,7 +658,7 @@
       "detailPath": "entities/songs/8d9fe4b37393beac.json"
     },
     {
-      "rank": 42270,
+      "rank": 42271,
       "id": "bea05bec43d801aa",
       "name": "花降らし／n-buna",
       "secondary": "Acoustic ver. ，一番のみ",
@@ -658,7 +688,7 @@
       "detailPath": "entities/songs/bea05bec43d801aa.json"
     },
     {
-      "rank": 42271,
+      "rank": 42272,
       "id": "326cd78fb3353798",
       "name": "花痕 -shirushi",
       "secondary": "河野万里奈",
@@ -692,7 +722,7 @@
       "detailPath": "entities/songs/326cd78fb3353798.json"
     },
     {
-      "rank": 42272,
+      "rank": 42273,
       "id": "b2969bcd8edfdb6c",
       "name": "花咲か唄(約束のレヴュー)",
       "secondary": "石動双葉、花柳香子",
@@ -725,7 +755,7 @@
       "detailPath": "entities/songs/b2969bcd8edfdb6c.json"
     },
     {
-      "rank": 42273,
+      "rank": 42274,
       "id": "7356146f841b7a00",
       "name": "花咲く土手で",
       "secondary": "玉置浩二",
@@ -755,7 +785,7 @@
       "detailPath": "entities/songs/7356146f841b7a00.json"
     },
     {
-      "rank": 42274,
+      "rank": 42275,
       "id": "1aba00903b703619",
       "name": "花咲く土手に",
       "secondary": "玉置浩二",
@@ -785,7 +815,7 @@
       "detailPath": "entities/songs/1aba00903b703619.json"
     },
     {
-      "rank": 42275,
+      "rank": 42276,
       "id": "defb1d72bb3a1de4",
       "name": "花咲く命ある限り",
       "secondary": "Raphael",
@@ -818,7 +848,7 @@
       "detailPath": "entities/songs/defb1d72bb3a1de4.json"
     },
     {
-      "rank": 42276,
+      "rank": 42277,
       "id": "68482f4fa234820b",
       "name": "花咲く旅路",
       "secondary": "原由子",
@@ -848,7 +878,7 @@
       "detailPath": "entities/songs/68482f4fa234820b.json"
     },
     {
-      "rank": 42277,
+      "rank": 42278,
       "id": "3220f5445999932f",
       "name": "花餐症",
       "secondary": "",
@@ -881,7 +911,7 @@
       "detailPath": "entities/songs/3220f5445999932f.json"
     },
     {
-      "rank": 42278,
+      "rank": 42279,
       "id": "741cf24e514a4701",
       "name": "花時計",
       "secondary": "yoin",
@@ -914,7 +944,7 @@
       "detailPath": "entities/songs/741cf24e514a4701.json"
     },
     {
-      "rank": 42279,
+      "rank": 42280,
       "id": "c9d484b4ce3a23a2",
       "name": "花守の丘",
       "secondary": "",
@@ -944,7 +974,7 @@
       "detailPath": "entities/songs/c9d484b4ce3a23a2.json"
     },
     {
-      "rank": 42280,
+      "rank": 42281,
       "id": "e3e4a3c0b1db6240",
       "name": "花守の丘",
       "secondary": "真救世主伝説 北斗の拳 ZERO トキ伝",
@@ -977,7 +1007,7 @@
       "detailPath": "entities/songs/e3e4a3c0b1db6240.json"
     },
     {
-      "rank": 42281,
+      "rank": 42282,
       "id": "93ebba5e7f558c61",
       "name": "花守の丘",
       "secondary": "FictionJunction",
@@ -1010,7 +1040,7 @@
       "detailPath": "entities/songs/93ebba5e7f558c61.json"
     },
     {
-      "rank": 42282,
+      "rank": 42283,
       "id": "0371a94a68a98c6d",
       "name": "花心",
       "secondary": "周華健(娜比)",
@@ -1043,7 +1073,7 @@
       "detailPath": "entities/songs/0371a94a68a98c6d.json"
     },
     {
-      "rank": 42283,
+      "rank": 42284,
       "id": "7892e1dfde31280a",
       "name": "花数え",
       "secondary": "新居昭乃",
@@ -1075,7 +1105,7 @@
       "detailPath": "entities/songs/7892e1dfde31280a.json"
     },
     {
-      "rank": 42284,
+      "rank": 42285,
       "id": "585d382dda0fb28d",
       "name": "花盛りWeekend",
       "secondary": "4Luxury",
@@ -1108,7 +1138,7 @@
       "detailPath": "entities/songs/585d382dda0fb28d.json"
     },
     {
-      "rank": 42285,
+      "rank": 42286,
       "id": "48586cd08963cea6",
       "name": "花雪",
       "secondary": "",
@@ -1141,7 +1171,7 @@
       "detailPath": "entities/songs/48586cd08963cea6.json"
     },
     {
-      "rank": 42286,
+      "rank": 42287,
       "id": "226ad1978b36c0c3",
       "name": "花占い",
       "secondary": "未記載",
@@ -1174,7 +1204,7 @@
       "detailPath": "entities/songs/226ad1978b36c0c3.json"
     },
     {
-      "rank": 42287,
+      "rank": 42288,
       "id": "44f1532f87fb3e88",
       "name": "花占い",
       "secondary": "vaundy/ドラマ「ボクの殺意が恋をした」主題歌/2021",
@@ -1208,7 +1238,7 @@
       "detailPath": "entities/songs/44f1532f87fb3e88.json"
     },
     {
-      "rank": 42288,
+      "rank": 42289,
       "id": "5ed490fa745d8801",
       "name": "花占い",
       "secondary": "",
@@ -1238,7 +1268,7 @@
       "detailPath": "entities/songs/5ed490fa745d8801.json"
     },
     {
-      "rank": 42289,
+      "rank": 42290,
       "id": "20d4973c5e7ffb89",
       "name": "花占い",
       "secondary": "Vaundy様",
@@ -1271,7 +1301,7 @@
       "detailPath": "entities/songs/20d4973c5e7ffb89.json"
     },
     {
-      "rank": 42290,
+      "rank": 42291,
       "id": "b2355a70f34ed77b",
       "name": "花葬",
       "secondary": "",
@@ -1304,7 +1334,7 @@
       "detailPath": "entities/songs/b2355a70f34ed77b.json"
     },
     {
-      "rank": 42291,
+      "rank": 42292,
       "id": "6f1df4bb3aa59a46",
       "name": "花束",
       "secondary": "ヨノ",
@@ -1337,7 +1367,7 @@
       "detailPath": "entities/songs/6f1df4bb3aa59a46.json"
     },
     {
-      "rank": 42292,
+      "rank": 42293,
       "id": "e8e30d399d317cd1",
       "name": "花束",
       "secondary": "backnumber (1コーラス)",
@@ -1370,7 +1400,7 @@
       "detailPath": "entities/songs/e8e30d399d317cd1.json"
     },
     {
-      "rank": 42293,
+      "rank": 42294,
       "id": "d4e896b32a260b04",
       "name": "花束",
       "secondary": "未記載",
@@ -1404,7 +1434,7 @@
       "detailPath": "entities/songs/d4e896b32a260b04.json"
     },
     {
-      "rank": 42294,
+      "rank": 42295,
       "id": "b8aef4e56101616d",
       "name": "花束",
       "secondary": "中島美嘉",
@@ -1437,7 +1467,7 @@
       "detailPath": "entities/songs/b8aef4e56101616d.json"
     },
     {
-      "rank": 42295,
+      "rank": 42296,
       "id": "ffd96aaa64900087",
       "name": "花束",
       "secondary": "",
@@ -1470,7 +1500,7 @@
       "detailPath": "entities/songs/ffd96aaa64900087.json"
     },
     {
-      "rank": 42296,
+      "rank": 42297,
       "id": "8a5431bf19f9672d",
       "name": "花束 71曲目",
       "secondary": "未記載",
@@ -1503,7 +1533,7 @@
       "detailPath": "entities/songs/8a5431bf19f9672d.json"
     },
     {
-      "rank": 42297,
+      "rank": 42298,
       "id": "9fd4745208a60c36",
       "name": "花束じゃなくキミといたい",
       "secondary": "絢香 （NEW) ※",
@@ -1536,7 +1566,7 @@
       "detailPath": "entities/songs/9fd4745208a60c36.json"
     },
     {
-      "rank": 42298,
+      "rank": 42299,
       "id": "d12404f9f1a77fdc",
       "name": "花束のかわりにメロディーを",
       "secondary": "清水翔太 (アカペラでちょっとだけ)",
@@ -1566,7 +1596,7 @@
       "detailPath": "entities/songs/d12404f9f1a77fdc.json"
     },
     {
-      "rank": 42299,
+      "rank": 42300,
       "id": "6cfad3634ddd8f65",
       "name": "花束のような人生を君に",
       "secondary": "Penthouse",
@@ -1594,36 +1624,6 @@
         }
       ],
       "detailPath": "entities/songs/6cfad3634ddd8f65.json"
-    },
-    {
-      "rank": 42300,
-      "id": "a34cb90b659333cd",
-      "name": "花溺れ",
-      "secondary": "shikisai",
-      "channelId": "UCSBEnELOnKNtkjENIko0Q8A",
-      "channelHandle": "@hanasakusumire",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "yFQRcJmBNFQ",
-          "videoTitle": "【 #歌枠 】初見さん歓迎！ビンゴ埋まるまで終われません💦 #すみらいぶ #耐久配信 #singingstream",
-          "channelName": "花咲すみれch ‐hanasaku sumire ch‐",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/yFQRcJmBNFQ/hqdefault.jpg",
-          "sourcePath": "sources/yF/yFQRcJmBNFQ.json",
-          "time": "3:26:12",
-          "seconds": 12372,
-          "songTitle": "花溺れ",
-          "artist": "shikisai"
-        }
-      ],
-      "detailPath": "entities/songs/a34cb90b659333cd.json"
     }
   ]
 }

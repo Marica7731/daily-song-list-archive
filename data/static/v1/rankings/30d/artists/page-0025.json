@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "30d",
   "type": "artists",
   "page": 25,
   "pageSize": 50,
-  "pageCount": 218,
-  "totalCount": 10857,
+  "pageCount": 217,
+  "totalCount": 10846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1201,
+      "id": "fd07157b3526d26c",
+      "name": "Carpenters",
+      "secondary": "",
+      "channelId": "UC0MGSywWRcVtilL89oEe3Mg",
+      "channelHandle": "@nokunoku_",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 4,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "hv8WjN5IkJ8",
+          "videoTitle": "【歌枠】週三晚上輕鬆唱唱🎵🦊水曜は楽な気持ちで歌っていく！✨#初見歓迎🎤【浠Mizuki Karaoke】",
+          "channelName": "浠Mizuki Channel",
+          "publishedAt": "2026-10-07T16:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hv8WjN5IkJ8/hqdefault.jpg",
+          "sourcePath": "sources/hv/hv8WjN5IkJ8.json",
+          "time": "0:06:25",
+          "seconds": 385,
+          "songTitle": "Top Of The World",
+          "artist": "Carpenters"
+        },
+        {
+          "videoId": "mawaS5UbE7M",
+          "videoTitle": "【#歌枠】昼からまったり歌枠！ #うたうよしん #karaoke #vsinger",
+          "channelName": "shin",
+          "publishedAt": "2026-10-06T09:07:06.252Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mawaS5UbE7M/hqdefault.jpg",
+          "sourcePath": "sources/ma/mawaS5UbE7M.json",
+          "time": "3:53:10",
+          "seconds": 13990,
+          "songTitle": "Close To You「遙かなる影」",
+          "artist": "Carpenters"
+        },
+        {
+          "videoId": "DkzkUHeU2NU",
+          "videoTitle": "【歌枠】お洒落な天使の歌を聴いてくれますか？ SINGING【高評価200目標/#ノアポラリス】#vsinger #歌枠",
+          "channelName": "ノア・ポラリス -Noa Polaris-",
+          "publishedAt": "2026-09-19T14:59:51.059Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DkzkUHeU2NU/hqdefault.jpg",
+          "sourcePath": "sources/Dk/DkzkUHeU2NU.json",
+          "time": "1:26:08",
+          "seconds": 5168,
+          "songTitle": "Close to You",
+          "artist": "Carpenters"
+        }
+      ],
+      "detailPath": "entities/artists/fd07157b3526d26c.json"
+    },
+    {
+      "rank": 1202,
       "id": "a8c14c010ca4c2f5",
       "name": "Eight feat.初音ミク",
       "secondary": "",
@@ -67,7 +125,7 @@
       "detailPath": "entities/artists/a8c14c010ca4c2f5.json"
     },
     {
-      "rank": 1202,
+      "rank": 1203,
       "id": "0b9ea32fe0b3ce5f",
       "name": "Hearts Grow",
       "secondary": "",
@@ -124,7 +182,7 @@
       "detailPath": "entities/artists/0b9ea32fe0b3ce5f.json"
     },
     {
-      "rank": 1203,
+      "rank": 1204,
       "id": "59c60e006d4e8f79",
       "name": "HIGH and MIGHTY COLOR",
       "secondary": "",
@@ -181,7 +239,7 @@
       "detailPath": "entities/artists/59c60e006d4e8f79.json"
     },
     {
-      "rank": 1204,
+      "rank": 1205,
       "id": "ede05f188d53c095",
       "name": "hitomi",
       "secondary": "",
@@ -238,7 +296,7 @@
       "detailPath": "entities/artists/ede05f188d53c095.json"
     },
     {
-      "rank": 1205,
+      "rank": 1206,
       "id": "371e37b2f32583f9",
       "name": "HoneyWorks feat. かぴ",
       "secondary": "",
@@ -295,7 +353,7 @@
       "detailPath": "entities/artists/371e37b2f32583f9.json"
     },
     {
-      "rank": 1206,
+      "rank": 1207,
       "id": "4865cca38c8ffbc4",
       "name": "HYDE",
       "secondary": "",
@@ -352,7 +410,7 @@
       "detailPath": "entities/artists/4865cca38c8ffbc4.json"
     },
     {
-      "rank": 1207,
+      "rank": 1208,
       "id": "1a771ea7a44fd40f",
       "name": "ika",
       "secondary": "",
@@ -409,7 +467,7 @@
       "detailPath": "entities/artists/1a771ea7a44fd40f.json"
     },
     {
-      "rank": 1208,
+      "rank": 1209,
       "id": "40f54b937fb64fbf",
       "name": "iroha(sasaki)",
       "secondary": "",
@@ -466,7 +524,7 @@
       "detailPath": "entities/artists/40f54b937fb64fbf.json"
     },
     {
-      "rank": 1209,
+      "rank": 1210,
       "id": "2001049b876b13b4",
       "name": "Kai feat.初音ミク",
       "secondary": "",
@@ -523,7 +581,7 @@
       "detailPath": "entities/artists/2001049b876b13b4.json"
     },
     {
-      "rank": 1210,
+      "rank": 1211,
       "id": "2d41d4612d5e2bd8",
       "name": "KIRINJI",
       "secondary": "",
@@ -581,7 +639,7 @@
       "detailPath": "entities/artists/2d41d4612d5e2bd8.json"
     },
     {
-      "rank": 1211,
+      "rank": 1212,
       "id": "0c768b4b3ac65566",
       "name": "LiSA ※JOYSOUND",
       "secondary": "",
@@ -638,7 +696,7 @@
       "detailPath": "entities/artists/0c768b4b3ac65566.json"
     },
     {
-      "rank": 1212,
+      "rank": 1213,
       "id": "41ff5ae8d606e1b4",
       "name": "livetune feat. 初音ミク",
       "secondary": "",
@@ -695,7 +753,7 @@
       "detailPath": "entities/artists/41ff5ae8d606e1b4.json"
     },
     {
-      "rank": 1213,
+      "rank": 1214,
       "id": "f431c988a8496076",
       "name": "meiyo",
       "secondary": "",
@@ -752,7 +810,7 @@
       "detailPath": "entities/artists/f431c988a8496076.json"
     },
     {
-      "rank": 1214,
+      "rank": 1215,
       "id": "7ad524454a45a523",
       "name": "MilkyWay",
       "secondary": "",
@@ -809,7 +867,7 @@
       "detailPath": "entities/artists/7ad524454a45a523.json"
     },
     {
-      "rank": 1215,
+      "rank": 1216,
       "id": "00fa12cda6edc24c",
       "name": "millennium parade × 椎名林檎",
       "secondary": "",
@@ -866,7 +924,7 @@
       "detailPath": "entities/artists/00fa12cda6edc24c.json"
     },
     {
-      "rank": 1216,
+      "rank": 1217,
       "id": "9a607690b3071ff5",
       "name": "mol-74",
       "secondary": "",
@@ -924,7 +982,7 @@
       "detailPath": "entities/artists/9a607690b3071ff5.json"
     },
     {
-      "rank": 1217,
+      "rank": 1218,
       "id": "b05997e1cb5f1f20",
       "name": "monet feat. 花隈千冬",
       "secondary": "",
@@ -981,7 +1039,7 @@
       "detailPath": "entities/artists/b05997e1cb5f1f20.json"
     },
     {
-      "rank": 1218,
+      "rank": 1219,
       "id": "9ea0342158a7b9e5",
       "name": "n.k",
       "secondary": "",
@@ -1038,7 +1096,7 @@
       "detailPath": "entities/artists/9ea0342158a7b9e5.json"
     },
     {
-      "rank": 1219,
+      "rank": 1220,
       "id": "564488a3216b7d50",
       "name": "Omoi",
       "secondary": "",
@@ -1095,7 +1153,7 @@
       "detailPath": "entities/artists/564488a3216b7d50.json"
     },
     {
-      "rank": 1220,
+      "rank": 1221,
       "id": "31ed62aa79f44958",
       "name": "savage genius",
       "secondary": "",
@@ -1152,7 +1210,7 @@
       "detailPath": "entities/artists/31ed62aa79f44958.json"
     },
     {
-      "rank": 1221,
+      "rank": 1222,
       "id": "1e034c893691568e",
       "name": "See-Saw ※JOYSOUND",
       "secondary": "",
@@ -1209,7 +1267,7 @@
       "detailPath": "entities/artists/1e034c893691568e.json"
     },
     {
-      "rank": 1222,
+      "rank": 1223,
       "id": "42af356ab0dee6fc",
       "name": "SIX LOUNGE",
       "secondary": "",
@@ -1267,7 +1325,7 @@
       "detailPath": "entities/artists/42af356ab0dee6fc.json"
     },
     {
-      "rank": 1223,
+      "rank": 1224,
       "id": "0d238681b00691b2",
       "name": "takamatt",
       "secondary": "",
@@ -1324,7 +1382,7 @@
       "detailPath": "entities/artists/0d238681b00691b2.json"
     },
     {
-      "rank": 1224,
+      "rank": 1225,
       "id": "9ebdebdd1a67c790",
       "name": "THE HIGH-LOWS",
       "secondary": "",
@@ -1382,7 +1440,7 @@
       "detailPath": "entities/artists/9ebdebdd1a67c790.json"
     },
     {
-      "rank": 1225,
+      "rank": 1226,
       "id": "2f6dda430de6ccc6",
       "name": "Vanessa Carlton",
       "secondary": "",
@@ -1439,7 +1497,7 @@
       "detailPath": "entities/artists/2f6dda430de6ccc6.json"
     },
     {
-      "rank": 1226,
+      "rank": 1227,
       "id": "142b19b8a78ecef1",
       "name": "with 坂本千恵 P",
       "secondary": "",
@@ -1496,7 +1554,7 @@
       "detailPath": "entities/artists/142b19b8a78ecef1.json"
     },
     {
-      "rank": 1227,
+      "rank": 1228,
       "id": "f939af4b5cafe760",
       "name": "with 谷川賢作 P、峰岸慶典 Gt",
       "secondary": "",
@@ -1553,7 +1611,7 @@
       "detailPath": "entities/artists/f939af4b5cafe760.json"
     },
     {
-      "rank": 1228,
+      "rank": 1229,
       "id": "bfaa6e9ca1d92c80",
       "name": "wotaku feat. 初音ミク",
       "secondary": "",
@@ -1610,7 +1668,7 @@
       "detailPath": "entities/artists/bfaa6e9ca1d92c80.json"
     },
     {
-      "rank": 1229,
+      "rank": 1230,
       "id": "c3d945abf2918b4e",
       "name": "Yuuri",
       "secondary": "",
@@ -1668,7 +1726,7 @@
       "detailPath": "entities/artists/c3d945abf2918b4e.json"
     },
     {
-      "rank": 1230,
+      "rank": 1231,
       "id": "360f9333f3a9bf1d",
       "name": "アゴアニキ",
       "secondary": "",
@@ -1725,7 +1783,7 @@
       "detailPath": "entities/artists/360f9333f3a9bf1d.json"
     },
     {
-      "rank": 1231,
+      "rank": 1232,
       "id": "ae21f4db370b8612",
       "name": "あの",
       "secondary": "",
@@ -1783,7 +1841,7 @@
       "detailPath": "entities/artists/ae21f4db370b8612.json"
     },
     {
-      "rank": 1232,
+      "rank": 1233,
       "id": "fcf32dda22f8fdb0",
       "name": "いぎなり東北産",
       "secondary": "",
@@ -1840,7 +1898,7 @@
       "detailPath": "entities/artists/fcf32dda22f8fdb0.json"
     },
     {
-      "rank": 1233,
+      "rank": 1234,
       "id": "28c2cb295fc7077b",
       "name": "ウマ娘 プリティーダービー",
       "secondary": "",
@@ -1897,7 +1955,7 @@
       "detailPath": "entities/artists/28c2cb295fc7077b.json"
     },
     {
-      "rank": 1234,
+      "rank": 1235,
       "id": "fee58be2f69c7d08",
       "name": "オワタP",
       "secondary": "",
@@ -1954,7 +2012,7 @@
       "detailPath": "entities/artists/fee58be2f69c7d08.json"
     },
     {
-      "rank": 1235,
+      "rank": 1236,
       "id": "4f865666ce77d23f",
       "name": "かぐや（CV:夏吉ゆうこ",
       "secondary": "",
@@ -2011,7 +2069,7 @@
       "detailPath": "entities/artists/4f865666ce77d23f.json"
     },
     {
-      "rank": 1236,
+      "rank": 1237,
       "id": "c2a006114b6a1a8f",
       "name": "クレイジーウォウウォ!!",
       "secondary": "",
@@ -2068,7 +2126,7 @@
       "detailPath": "entities/artists/c2a006114b6a1a8f.json"
     },
     {
-      "rank": 1237,
+      "rank": 1238,
       "id": "c3a1677b999ac278",
       "name": "さユり×MY FIRST STORY",
       "secondary": "",
@@ -2125,7 +2183,7 @@
       "detailPath": "entities/artists/c3a1677b999ac278.json"
     },
     {
-      "rank": 1238,
+      "rank": 1239,
       "id": "1197a4883ea07b3d",
       "name": "ジン",
       "secondary": "",
@@ -2182,7 +2240,7 @@
       "detailPath": "entities/artists/1197a4883ea07b3d.json"
     },
     {
-      "rank": 1239,
+      "rank": 1240,
       "id": "93ecf6b22f5b4239",
       "name": "スガ シカオ",
       "secondary": "",
@@ -2239,7 +2297,7 @@
       "detailPath": "entities/artists/93ecf6b22f5b4239.json"
     },
     {
-      "rank": 1240,
+      "rank": 1241,
       "id": "dc1f2c2ab4fa347f",
       "name": "スズム",
       "secondary": "",
@@ -2296,7 +2354,7 @@
       "detailPath": "entities/artists/dc1f2c2ab4fa347f.json"
     },
     {
-      "rank": 1241,
+      "rank": 1242,
       "id": "e97369860e113b95",
       "name": "ちあきなおみ",
       "secondary": "",
@@ -2353,7 +2411,7 @@
       "detailPath": "entities/artists/e97369860e113b95.json"
     },
     {
-      "rank": 1242,
+      "rank": 1243,
       "id": "6c149715502180a0",
       "name": "ちいかわ",
       "secondary": "",
@@ -2410,7 +2468,7 @@
       "detailPath": "entities/artists/6c149715502180a0.json"
     },
     {
-      "rank": 1243,
+      "rank": 1244,
       "id": "cec3699313a22c06",
       "name": "チーム“ハナヤマタ”",
       "secondary": "",
@@ -2467,7 +2525,7 @@
       "detailPath": "entities/artists/cec3699313a22c06.json"
     },
     {
-      "rank": 1244,
+      "rank": 1245,
       "id": "4e1d059cbc117f46",
       "name": "てにをは feat. v flower",
       "secondary": "",
@@ -2524,7 +2582,7 @@
       "detailPath": "entities/artists/4e1d059cbc117f46.json"
     },
     {
-      "rank": 1245,
+      "rank": 1246,
       "id": "d853665fe2daf96e",
       "name": "ナノウ(ほえほえP)",
       "secondary": "",
@@ -2581,7 +2639,7 @@
       "detailPath": "entities/artists/d853665fe2daf96e.json"
     },
     {
-      "rank": 1246,
+      "rank": 1247,
       "id": "5d30a5233775f77d",
       "name": "ひとしずく × やま△",
       "secondary": "",
@@ -2638,7 +2696,7 @@
       "detailPath": "entities/artists/5d30a5233775f77d.json"
     },
     {
-      "rank": 1247,
+      "rank": 1248,
       "id": "0c36200811a9266b",
       "name": "ミルキィホームズ",
       "secondary": "",
@@ -2695,7 +2753,7 @@
       "detailPath": "entities/artists/0c36200811a9266b.json"
     },
     {
-      "rank": 1248,
+      "rank": 1249,
       "id": "dc78b45c7fc8f891",
       "name": "モーニング娘。'16",
       "secondary": "",
@@ -2749,7 +2807,7 @@
       "detailPath": "entities/artists/dc78b45c7fc8f891.json"
     },
     {
-      "rank": 1249,
+      "rank": 1250,
       "id": "5beb7aadddc8acef",
       "name": "もじゃ",
       "secondary": "",
@@ -2804,63 +2862,6 @@
         }
       ],
       "detailPath": "entities/artists/5beb7aadddc8acef.json"
-    },
-    {
-      "rank": 1250,
-      "id": "d8d6fb56bcebe80a",
-      "name": "ヤスオ",
-      "secondary": "",
-      "channelId": "UCrOpDFlde498ub61UMBVdSQ",
-      "channelHandle": "@HinahanaBotan",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 3,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "zAHb-Gzek2o",
-          "videoTitle": "【#歌枠/#KARAOKE】10月最初のおうた！リクエスト◎初見さん大歓迎❤︎【#月姫ゆあん/#新人Vtuber】",
-          "channelName": "Yuan Ch. 月姫ゆあん",
-          "publishedAt": "2026-10-03T16:31:07.155Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zAHb-Gzek2o/hqdefault.jpg",
-          "sourcePath": "sources/zA/zAHb-Gzek2o.json",
-          "time": "1:57:38",
-          "seconds": 7058,
-          "songTitle": "えれくとりっく･えんじぇぅ",
-          "artist": "ヤスオ"
-        },
-        {
-          "videoId": "ARpSBtiicNs",
-          "videoTitle": "【耐久歌枠 / Singing】登録者1万人達成！？みんなと歌って迎えたい！耐久配信にゃ！✨/KARAOKE【新人Vtuber/猫音こまり】JOYSOUND for STREAMER",
-          "channelName": "猫音こまりKomari Ch.",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ARpSBtiicNs/hqdefault.jpg",
-          "sourcePath": "sources/AR/ARpSBtiicNs.json",
-          "time": "1:06:28",
-          "seconds": 3988,
-          "songTitle": "えれくとりっく･えんじぇぅ",
-          "artist": "ヤスオ"
-        },
-        {
-          "videoId": "XT0zI0LT7fQ",
-          "videoTitle": "#歌枠 🍀気ままにカラオケ🍀 #里音流美 #アニソン #ボカロ #Vtuber",
-          "channelName": "里音 流美 games",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XT0zI0LT7fQ/hqdefault.jpg",
-          "sourcePath": "sources/XT/XT0zI0LT7fQ.json",
-          "time": "2:11:49",
-          "seconds": 7909,
-          "songTitle": "えれくとりっく・えんじぇぅ",
-          "artist": "ヤスオ"
-        }
-      ],
-      "detailPath": "entities/artists/d8d6fb56bcebe80a.json"
     }
   ]
 }

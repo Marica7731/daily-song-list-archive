@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "all",
   "type": "artists",
   "page": 23,
@@ -11,6 +11,67 @@
   "items": [
     {
       "rank": 1101,
+      "id": "e49a79494cf16d61",
+      "name": "SAYURI",
+      "secondary": "",
+      "channelId": "UCLOnKw76ypBM5PeYr4OdkJQ",
+      "channelHandle": "@Sakura_mochimochi",
+      "channelUrl": "",
+      "occurrenceCount": 17,
+      "videoCount": 10,
+      "songCount": 9,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "HUy57NS0zqQ",
+          "videoTitle": "【 歌枠 / #karaoke 】今宵も、１曲いかがですか？🦉│#羽緒集魂中 143【 羽緒 / RK Music 】",
+          "channelName": "羽緒",
+          "publishedAt": "2026-10-01T16:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HUy57NS0zqQ/hqdefault.jpg",
+          "sourcePath": "sources/HU/HUy57NS0zqQ.json",
+          "time": "1:25:20",
+          "seconds": 5120,
+          "songTitle": "ウイスキーが、お好きでしょ",
+          "artist": "SAYURI"
+        },
+        {
+          "videoId": "pE_B6pva-Wo",
+          "videoTitle": "【 #弾き語り 】初見さん15名様に出会いたい！深夜の弾き語り【 #323みすみ 】#Vtuber",
+          "channelName": "323(みすみ) -Misumi-",
+          "publishedAt": "2026-09-29T21:19:11.605Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pE_B6pva-Wo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlwsEFToYBL7kZIjppEnVDryiLng",
+          "sourcePath": "sources/pE/pE_B6pva-Wo.json",
+          "time": "3:55:34",
+          "seconds": 14134,
+          "songTitle": "Mikazuki",
+          "artist": "Sayuri"
+        },
+        {
+          "videoId": "NaBeLB_h0j0",
+          "videoTitle": "【#歌枠/ KARAOKE】気圧を吹き飛ばすおうたまつり #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+          "channelName": "メーメントヴァニタス / MEMENTOVANITAS",
+          "publishedAt": "2026-09-23T13:41:15.489Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NaBeLB_h0j0/hqdefault.jpg",
+          "sourcePath": "sources/Na/NaBeLB_h0j0.json",
+          "time": "0:34:18",
+          "seconds": 2058,
+          "songTitle": "Mikazuki",
+          "artist": "Sayuri"
+        }
+      ],
+      "detailPath": "entities/artists/e49a79494cf16d61.json"
+    },
+    {
+      "rank": 1102,
       "id": "885eaa8a46856108",
       "name": "ムック",
       "secondary": "",
@@ -71,7 +132,7 @@
       "detailPath": "entities/artists/885eaa8a46856108.json"
     },
     {
-      "rank": 1102,
+      "rank": 1103,
       "id": "010e89afa21b616d",
       "name": "ロマニードットアイオー",
       "secondary": "",
@@ -131,7 +192,7 @@
       "detailPath": "entities/artists/010e89afa21b616d.json"
     },
     {
-      "rank": 1103,
+      "rank": 1104,
       "id": "db77e05b94f474dc",
       "name": "1995年",
       "secondary": "",
@@ -189,7 +250,7 @@
       "detailPath": "entities/artists/db77e05b94f474dc.json"
     },
     {
-      "rank": 1104,
+      "rank": 1105,
       "id": "1285030f0bf3a5c8",
       "name": "フラガリアメモリーズ",
       "secondary": "",
@@ -246,7 +307,7 @@
       "detailPath": "entities/artists/1285030f0bf3a5c8.json"
     },
     {
-      "rank": 1105,
+      "rank": 1106,
       "id": "b43d8ff860c5e319",
       "name": "水魚みぃむ",
       "secondary": "",
@@ -306,7 +367,7 @@
       "detailPath": "entities/artists/b43d8ff860c5e319.json"
     },
     {
-      "rank": 1106,
+      "rank": 1107,
       "id": "f783b34295e59456",
       "name": "Aqu3ra & 月見ヤチヨ(早見沙織)",
       "secondary": "",
@@ -367,7 +428,7 @@
       "detailPath": "entities/artists/f783b34295e59456.json"
     },
     {
-      "rank": 1107,
+      "rank": 1108,
       "id": "a8f7e5a1c296a483",
       "name": "baker",
       "secondary": "",
@@ -427,7 +488,7 @@
       "detailPath": "entities/artists/a8f7e5a1c296a483.json"
     },
     {
-      "rank": 1108,
+      "rank": 1109,
       "id": "6d9e677f583af260",
       "name": "EGO-WRAPPIN'",
       "secondary": "",
@@ -487,7 +548,7 @@
       "detailPath": "entities/artists/6d9e677f583af260.json"
     },
     {
-      "rank": 1109,
+      "rank": 1110,
       "id": "e19c35d8e1a34f9a",
       "name": "Giga feat. 可不",
       "secondary": "",
@@ -545,66 +606,6 @@
         }
       ],
       "detailPath": "entities/artists/e19c35d8e1a34f9a.json"
-    },
-    {
-      "rank": 1110,
-      "id": "e621226c1769e6a4",
-      "name": "minato(流星P) feat.初音ミク,巡音ルカ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 16,
-      "videoCount": 16,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ZB3CMk-PgVM",
-          "videoTitle": "【#歌枠】初見さん大歓迎◎声良し！ビジュ良し！歌良し！ボカロ縛り歌枠【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-09-27T15:13:07.807Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZB3CMk-PgVM/hqdefault.jpg",
-          "sourcePath": "sources/ZB/ZB3CMk-PgVM.json",
-          "time": "0:58:34",
-          "seconds": 3514,
-          "songTitle": "magnet",
-          "artist": "minato(流星P)feat.初音ミク&巡音ルカ"
-        },
-        {
-          "videoId": "XJiyAeO2Pn4",
-          "videoTitle": "【歌枠】何曲分かる？いにしえのボカロ歌枠！老人会するぞ✨【 #音沙汰あんな / VTuber 】#karaoke #vocaloid",
-          "channelName": "音沙汰あんな / Anna Otosata",
-          "publishedAt": "2026-09-22T16:43:01.034Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XJiyAeO2Pn4/hqdefault.jpg",
-          "sourcePath": "sources/XJ/XJiyAeO2Pn4.json",
-          "time": "1:27:17",
-          "seconds": 5237,
-          "songTitle": "magnet",
-          "artist": "minato(流星P) feat.初音ミク、巡音ルカ"
-        },
-        {
-          "videoId": "d8PK-K6otW4",
-          "videoTitle": "【歌枠】寝ると明日が来ちゃうから、ちょっと悪あがきの深夜配信【#新人vtuber #うたたねゆゆ 】",
-          "channelName": "うたたね ゆゆ",
-          "publishedAt": "2026-09-13T22:06:34.776Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/d8PK-K6otW4/hqdefault.jpg",
-          "sourcePath": "sources/d8/d8PK-K6otW4.json",
-          "time": "2:39:57",
-          "seconds": 9597,
-          "songTitle": "〜 magnet",
-          "artist": "minato(流星P) feat. 初音ミク,巡音ルカ"
-        }
-      ],
-      "detailPath": "entities/artists/e621226c1769e6a4.json"
     },
     {
       "rank": 1111,

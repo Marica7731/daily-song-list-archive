@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "all",
   "type": "songs",
   "page": 273,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52828,
+  "totalCount": 52829,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 13601,
+      "id": "f00e0a9827602eb0",
+      "name": "愛してない",
+      "secondary": "",
+      "channelId": "UCV5fHI5euR7ZC4ZqhYqlwYw",
+      "channelHandle": "@OHGARUKIch",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "bZVaPGgu-AU",
+          "videoTitle": "〖#歌枠〗V系好き、低音女子好きに刺され♡ #凰牙人類攻略〖アニソン￤V系￤JPOP￤サンホラ〗",
+          "channelName": "RUKI Ch. 凰牙るき",
+          "publishedAt": "2026-10-09T20:51:58.336Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bZVaPGgu-AU/hqdefault.jpg",
+          "sourcePath": "sources/bZ/bZVaPGgu-AU.json",
+          "time": "1:45:35",
+          "seconds": 6335,
+          "songTitle": "愛してない",
+          "artist": ""
+        },
+        {
+          "videoId": "6biO3T-Xc_Y",
+          "videoTitle": "〖#歌枠〗 同接350名耐久🔥この歌声でどれだけの人類に愛してもらうことができるのか試したい #凰牙人類攻略",
+          "channelName": "RUKI Ch. 凰牙るき",
+          "publishedAt": "2026-09-27T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6biO3T-Xc_Y/hqdefault.jpg",
+          "sourcePath": "sources/6b/6biO3T-Xc_Y.json",
+          "time": "4:06:53",
+          "seconds": 14813,
+          "songTitle": "愛してない",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/f00e0a9827602eb0.json"
+    },
+    {
+      "rank": 13602,
       "id": "88cb0c57780a5900",
       "name": "愛してる",
       "secondary": "Base Ball Bear",
@@ -58,7 +103,7 @@
       "detailPath": "entities/songs/88cb0c57780a5900.json"
     },
     {
-      "rank": 13602,
+      "rank": 13603,
       "id": "6071d1723d12a21b",
       "name": "愛し君へ",
       "secondary": "森山直太朗",
@@ -103,7 +148,7 @@
       "detailPath": "entities/songs/6071d1723d12a21b.json"
     },
     {
-      "rank": 13603,
+      "rank": 13604,
       "id": "c6591cf7377d6a24",
       "name": "愛とU",
       "secondary": "Mega Shinnosuke",
@@ -148,7 +193,7 @@
       "detailPath": "entities/songs/c6591cf7377d6a24.json"
     },
     {
-      "rank": 13604,
+      "rank": 13605,
       "id": "c1ee909046554474",
       "name": "愛と誠",
       "secondary": "ALI PROJECT",
@@ -193,7 +238,7 @@
       "detailPath": "entities/songs/c1ee909046554474.json"
     },
     {
-      "rank": 13605,
+      "rank": 13606,
       "id": "6dff0e1d40d99f16",
       "name": "愛にできることはまだあるかい",
       "secondary": "RADWINPS",
@@ -240,7 +285,7 @@
       "detailPath": "entities/songs/6dff0e1d40d99f16.json"
     },
     {
-      "rank": 13606,
+      "rank": 13607,
       "id": "dcba348e6009bae3",
       "name": "愛のかたまり",
       "secondary": "DOMOTO(KinKi Kids)",
@@ -288,7 +333,7 @@
       "detailPath": "entities/songs/dcba348e6009bae3.json"
     },
     {
-      "rank": 13607,
+      "rank": 13608,
       "id": "cf72e8404cef1fea",
       "name": "愛のままに",
       "secondary": "BASI",
@@ -334,7 +379,7 @@
       "detailPath": "entities/songs/cf72e8404cef1fea.json"
     },
     {
-      "rank": 13608,
+      "rank": 13609,
       "id": "a6fae4407e591fc8",
       "name": "愛のレンタル",
       "secondary": "私立恵比寿中学",
@@ -380,7 +425,7 @@
       "detailPath": "entities/songs/a6fae4407e591fc8.json"
     },
     {
-      "rank": 13609,
+      "rank": 13610,
       "id": "0007b654f6715932",
       "name": "愛の歌",
       "secondary": "川崎鷹也",
@@ -426,7 +471,7 @@
       "detailPath": "entities/songs/0007b654f6715932.json"
     },
     {
-      "rank": 13610,
+      "rank": 13611,
       "id": "5a62eb987d810cf8",
       "name": "愛の金字塔",
       "secondary": "六神合体ゴッドマーズ",
@@ -471,7 +516,7 @@
       "detailPath": "entities/songs/5a62eb987d810cf8.json"
     },
     {
-      "rank": 13611,
+      "rank": 13612,
       "id": "e3665b8c809ef85b",
       "name": "愛の病",
       "secondary": "aiko",
@@ -517,7 +562,7 @@
       "detailPath": "entities/songs/e3665b8c809ef85b.json"
     },
     {
-      "rank": 13612,
+      "rank": 13613,
       "id": "fe150bb451e15a6e",
       "name": "愛の病",
       "secondary": "",
@@ -559,7 +604,7 @@
       "detailPath": "entities/songs/fe150bb451e15a6e.json"
     },
     {
-      "rank": 13613,
+      "rank": 13614,
       "id": "9eab9ed2bada3e0a",
       "name": "愛は勝つ",
       "secondary": "",
@@ -604,7 +649,7 @@
       "detailPath": "entities/songs/9eab9ed2bada3e0a.json"
     },
     {
-      "rank": 13614,
+      "rank": 13615,
       "id": "f67fe875e6422f6a",
       "name": "愛は勝つ",
       "secondary": "Ai wa Katsu KAN / KAN",
@@ -649,7 +694,7 @@
       "detailPath": "entities/songs/f67fe875e6422f6a.json"
     },
     {
-      "rank": 13615,
+      "rank": 13616,
       "id": "ca70918e936d39b0",
       "name": "愛ゆえに",
       "secondary": "さとうもか",
@@ -695,7 +740,7 @@
       "detailPath": "entities/songs/ca70918e936d39b0.json"
     },
     {
-      "rank": 13616,
+      "rank": 13617,
       "id": "034ae55706da2e7d",
       "name": "愛よファラウェイ",
       "secondary": "藤原理恵",
@@ -740,7 +785,7 @@
       "detailPath": "entities/songs/034ae55706da2e7d.json"
     },
     {
-      "rank": 13617,
+      "rank": 13618,
       "id": "ca4a0501cfcbe657",
       "name": "愛よ消えないで",
       "secondary": "小比類巻かほる",
@@ -788,7 +833,7 @@
       "detailPath": "entities/songs/ca4a0501cfcbe657.json"
     },
     {
-      "rank": 13618,
+      "rank": 13619,
       "id": "3419c7bf381e4cd7",
       "name": "愛をこめて花束",
       "secondary": "Superfly",
@@ -833,7 +878,7 @@
       "detailPath": "entities/songs/3419c7bf381e4cd7.json"
     },
     {
-      "rank": 13619,
+      "rank": 13620,
       "id": "03ec0f9245ba4259",
       "name": "愛をこめて花束を(エジソンの母)",
       "secondary": "Superfly",
@@ -878,7 +923,7 @@
       "detailPath": "entities/songs/03ec0f9245ba4259.json"
     },
     {
-      "rank": 13620,
+      "rank": 13621,
       "id": "b477b335b2b956d5",
       "name": "愛をとりもどせ!!",
       "secondary": "北斗の拳",
@@ -924,7 +969,7 @@
       "detailPath": "entities/songs/b477b335b2b956d5.json"
     },
     {
-      "rank": 13621,
+      "rank": 13622,
       "id": "cfd67089f6b174ad",
       "name": "愛をとりもどせ！！",
       "secondary": "",
@@ -969,7 +1014,7 @@
       "detailPath": "entities/songs/cfd67089f6b174ad.json"
     },
     {
-      "rank": 13622,
+      "rank": 13623,
       "id": "542422f5e1609f09",
       "name": "愛をとりもどせ!!",
       "secondary": "クリスタルキング（アニメ『北斗の拳』OP）",
@@ -1014,7 +1059,7 @@
       "detailPath": "entities/songs/542422f5e1609f09.json"
     },
     {
-      "rank": 13623,
+      "rank": 13624,
       "id": "7acdf9ea759508bf",
       "name": "愛を伝えたいんだとか",
       "secondary": "あいみょん",
@@ -1060,7 +1105,7 @@
       "detailPath": "entities/songs/7acdf9ea759508bf.json"
     },
     {
-      "rank": 13624,
+      "rank": 13625,
       "id": "4f7f71539697dc3e",
       "name": "愛唄",
       "secondary": "GRe4N BOYZ(GReeeeN)",
@@ -1108,7 +1153,7 @@
       "detailPath": "entities/songs/4f7f71539697dc3e.json"
     },
     {
-      "rank": 13625,
+      "rank": 13626,
       "id": "e70510c4e24ed013",
       "name": "愛唄",
       "secondary": "GReeeeN（GRe4N BOYZ）",
@@ -1156,7 +1201,7 @@
       "detailPath": "entities/songs/e70510c4e24ed013.json"
     },
     {
-      "rank": 13626,
+      "rank": 13627,
       "id": "87b3f20e5749b93b",
       "name": "愛唄",
       "secondary": "Ai Uta GReeeeN（現:GRe4N BOYZ） / GReeeeN",
@@ -1201,7 +1246,7 @@
       "detailPath": "entities/songs/87b3f20e5749b93b.json"
     },
     {
-      "rank": 13627,
+      "rank": 13628,
       "id": "a3f2a3fc6d586641",
       "name": "愛及屋烏",
       "secondary": "バルーン",
@@ -1249,7 +1294,7 @@
       "detailPath": "entities/songs/a3f2a3fc6d586641.json"
     },
     {
-      "rank": 13628,
+      "rank": 13629,
       "id": "3981eb6ac2ff7198",
       "name": "愛言葉",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -1296,7 +1341,7 @@
       "detailPath": "entities/songs/3981eb6ac2ff7198.json"
     },
     {
-      "rank": 13629,
+      "rank": 13630,
       "id": "179e8b7ec82ad992",
       "name": "愛言葉III",
       "secondary": "DECO*27 ※JOYSOUND",
@@ -1341,7 +1386,7 @@
       "detailPath": "entities/songs/179e8b7ec82ad992.json"
     },
     {
-      "rank": 13630,
+      "rank": 13631,
       "id": "a6e95cb12255aa3c",
       "name": "愛証",
       "secondary": "倖田來未",
@@ -1386,7 +1431,7 @@
       "detailPath": "entities/songs/a6e95cb12255aa3c.json"
     },
     {
-      "rank": 13631,
+      "rank": 13632,
       "id": "51739834d6e484e4",
       "name": "愛人",
       "secondary": "テレサ・テン",
@@ -1431,7 +1476,7 @@
       "detailPath": "entities/songs/51739834d6e484e4.json"
     },
     {
-      "rank": 13632,
+      "rank": 13633,
       "id": "5a37c66b8d2c14bd",
       "name": "愛是最大權利",
       "secondary": "吳雨霏",
@@ -1476,7 +1521,7 @@
       "detailPath": "entities/songs/5a37c66b8d2c14bd.json"
     },
     {
-      "rank": 13633,
+      "rank": 13634,
       "id": "05eda3988261c2a5",
       "name": "逢瀬川",
       "secondary": "音速ライン",
@@ -1522,7 +1567,7 @@
       "detailPath": "entities/songs/05eda3988261c2a5.json"
     },
     {
-      "rank": 13634,
+      "rank": 13635,
       "id": "1e54c57064c3f84d",
       "name": "茜色が燃えるとき",
       "secondary": "",
@@ -1567,7 +1612,7 @@
       "detailPath": "entities/songs/1e54c57064c3f84d.json"
     },
     {
-      "rank": 13635,
+      "rank": 13636,
       "id": "16d09da54d9b50d7",
       "name": "悪い癖",
       "secondary": "My Hair is Bad",
@@ -1613,7 +1658,7 @@
       "detailPath": "entities/songs/16d09da54d9b50d7.json"
     },
     {
-      "rank": 13636,
+      "rank": 13637,
       "id": "ebe89f24eb944047",
       "name": "悪くないもん",
       "secondary": "MILGRAM ムウ (CV: 香里有佐)",
@@ -1659,7 +1704,7 @@
       "detailPath": "entities/songs/ebe89f24eb944047.json"
     },
     {
-      "rank": 13637,
+      "rank": 13638,
       "id": "02712ddfa1913227",
       "name": "悪ノ召使",
       "secondary": "Mothy",
@@ -1705,7 +1750,7 @@
       "detailPath": "entities/songs/02712ddfa1913227.json"
     },
     {
-      "rank": 13638,
+      "rank": 13639,
       "id": "4df2bfd191f3aa8b",
       "name": "悪者",
       "secondary": "くじら",
@@ -1750,7 +1795,7 @@
       "detailPath": "entities/songs/4df2bfd191f3aa8b.json"
     },
     {
-      "rank": 13639,
+      "rank": 13640,
       "id": "53b0237594ab2dd4",
       "name": "悪食",
       "secondary": "BIN",
@@ -1794,7 +1839,7 @@
       "detailPath": "entities/songs/53b0237594ab2dd4.json"
     },
     {
-      "rank": 13640,
+      "rank": 13641,
       "id": "350d878fa6ba96e5",
       "name": "悪魔くん",
       "secondary": "悪魔くん",
@@ -1839,7 +1884,7 @@
       "detailPath": "entities/songs/350d878fa6ba96e5.json"
     },
     {
-      "rank": 13641,
+      "rank": 13642,
       "id": "0d869c137bc3b79d",
       "name": "悪魔の踊り方",
       "secondary": "未記載",
@@ -1884,7 +1929,7 @@
       "detailPath": "entities/songs/0d869c137bc3b79d.json"
     },
     {
-      "rank": 13642,
+      "rank": 13643,
       "id": "7b2c686cdd9455a7",
       "name": "悪霊少女",
       "secondary": "ポルノグラフィティ",
@@ -1929,7 +1974,7 @@
       "detailPath": "entities/songs/7b2c686cdd9455a7.json"
     },
     {
-      "rank": 13643,
+      "rank": 13644,
       "id": "ff6d504d755cf022",
       "name": "或原のんか",
       "secondary": "",
@@ -1971,7 +2016,7 @@
       "detailPath": "entities/songs/ff6d504d755cf022.json"
     },
     {
-      "rank": 13644,
+      "rank": 13645,
       "id": "1f03c685caf08e38",
       "name": "暗黒の翼",
       "secondary": "小林沙苗（レディ バット）",
@@ -2016,7 +2061,7 @@
       "detailPath": "entities/songs/1f03c685caf08e38.json"
     },
     {
-      "rank": 13645,
+      "rank": 13646,
       "id": "2dbe50e3fe943ec7",
       "name": "暗黒天国",
       "secondary": "ALI PROJECT",
@@ -2064,7 +2109,7 @@
       "detailPath": "entities/songs/2dbe50e3fe943ec7.json"
     },
     {
-      "rank": 13646,
+      "rank": 13647,
       "id": "9ec22aa436be3d45",
       "name": "暗黒天国",
       "secondary": "",
@@ -2109,7 +2154,7 @@
       "detailPath": "entities/songs/9ec22aa436be3d45.json"
     },
     {
-      "rank": 13647,
+      "rank": 13648,
       "id": "379999e9cd3cfb50",
       "name": "暗夜航路",
       "secondary": "",
@@ -2151,7 +2196,7 @@
       "detailPath": "entities/songs/379999e9cd3cfb50.json"
     },
     {
-      "rank": 13648,
+      "rank": 13649,
       "id": "1f199b2831044795",
       "name": "闇に降る雨",
       "secondary": "椎名林檎",
@@ -2196,7 +2241,7 @@
       "detailPath": "entities/songs/1f199b2831044795.json"
     },
     {
-      "rank": 13649,
+      "rank": 13650,
       "id": "b0ffcd469386ded0",
       "name": "闇の彼方へ",
       "secondary": "水谷瑠奈",
@@ -2239,51 +2284,6 @@
         }
       ],
       "detailPath": "entities/songs/b0ffcd469386ded0.json"
-    },
-    {
-      "rank": 13650,
-      "id": "e2f8af7e54f97566",
-      "name": "闇色アリス",
-      "secondary": "ピコ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "xh1DlJMyj8o",
-          "videoTitle": "#歌枠｜初見さん大歓迎🌟夏も終わりだね🎆ボカロ・アニソン・JPOP・懐メロ！ #個人勢vtuber",
-          "channelName": "nil🧡🍲vtuber",
-          "publishedAt": "2026-09-07T15:36:33.684Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xh1DlJMyj8o/hqdefault.jpg",
-          "sourcePath": "sources/xh/xh1DlJMyj8o.json",
-          "time": "0:08:20",
-          "seconds": 500,
-          "songTitle": "闇色アリス",
-          "artist": "ピコ"
-        },
-        {
-          "videoId": "169Mvkjy7Jg",
-          "videoTitle": "【 #歌枠 】 顔面最強の可愛いすぎるV見ていかないかい？ 【 戌月れん/Vsinger 】#vtuber #karaoke",
-          "channelName": "Ren.ch戌月れん",
-          "publishedAt": "2026-08-25T09:42:12.953Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/169Mvkjy7Jg/hqdefault.jpg",
-          "sourcePath": "sources/16/169Mvkjy7Jg.json",
-          "time": "2:35:44",
-          "seconds": 9344,
-          "songTitle": "闇色アリス",
-          "artist": "ピコ"
-        }
-      ],
-      "detailPath": "entities/songs/e2f8af7e54f97566.json"
     }
   ]
 }

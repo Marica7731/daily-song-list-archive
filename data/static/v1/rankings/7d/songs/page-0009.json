@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "7d",
   "type": "songs",
   "page": 9,
   "pageSize": 50,
-  "pageCount": 73,
-  "totalCount": 3605,
+  "pageCount": 72,
+  "totalCount": 3594,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -732,51 +732,6 @@
     },
     {
       "rank": 417,
-      "id": "4a485832efcba424",
-      "name": "Dearest",
-      "secondary": "浜崎あゆみ",
-      "channelId": "UCxxRfu50M_FiMq0WJfBW1oQ",
-      "channelHandle": "@Unifee_takeda",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "xN6G0TrEafo",
-          "videoTitle": "睡眠導入【歌枠】ピアノ歌多めでゆったり癒します♪ 三ツ星ルナちゃん",
-          "channelName": "歌う 三ツ星ルナちゃん",
-          "publishedAt": "2026-10-06T21:07:03.174Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xN6G0TrEafo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwKqjRgLcnUqYfE_CCU4SsB3URYg",
-          "sourcePath": "sources/xN/xN6G0TrEafo.json",
-          "time": "2:00:45",
-          "seconds": 7245,
-          "songTitle": "Dearest",
-          "artist": "浜崎あゆみ"
-        },
-        {
-          "videoId": "45rfRq430KE",
-          "videoTitle": "【歌枠 / karaoke 】初見様、ROM勢、作業用BGM◎ 月曜の夜にまったり歌う戦国武将系V 【#武田玄愛 / ゆにふぃ！】#shortsfeed #shorts",
-          "channelName": "武田玄愛 / Takeda kuroa",
-          "publishedAt": "2026-10-05T14:06:29.493Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/45rfRq430KE/hqdefault.jpg",
-          "sourcePath": "sources/45/45rfRq430KE.json",
-          "time": "0:34:09",
-          "seconds": 2049,
-          "songTitle": "Dearest",
-          "artist": "浜崎あゆみ"
-        }
-      ],
-      "detailPath": "entities/songs/4a485832efcba424.json"
-    },
-    {
-      "rank": 418,
       "id": "08d0c7fa3f39d216",
       "name": "DISCOTHEQUE",
       "secondary": "水樹奈々",
@@ -821,7 +776,7 @@
       "detailPath": "entities/songs/08d0c7fa3f39d216.json"
     },
     {
-      "rank": 419,
+      "rank": 418,
       "id": "86148651c39eac44",
       "name": "Don't Know Why",
       "secondary": "Norah Jones",
@@ -867,7 +822,7 @@
       "detailPath": "entities/songs/86148651c39eac44.json"
     },
     {
-      "rank": 420,
+      "rank": 419,
       "id": "7248283efb866461",
       "name": "Ex-Otogibanashi",
       "secondary": "かぐや(夏吉ゆうこ)、月見ヤチヨ(早見沙織)",
@@ -912,7 +867,7 @@
       "detailPath": "entities/songs/7248283efb866461.json"
     },
     {
-      "rank": 421,
+      "rank": 420,
       "id": "9b6f443ca92ee4f2",
       "name": "Falco-ファルコ",
       "secondary": "島谷ひとみ",
@@ -957,7 +912,7 @@
       "detailPath": "entities/songs/9b6f443ca92ee4f2.json"
     },
     {
-      "rank": 422,
+      "rank": 421,
       "id": "8bc8323bee966c0f",
       "name": "Family Song",
       "secondary": "星野源",
@@ -1002,7 +957,7 @@
       "detailPath": "entities/songs/8bc8323bee966c0f.json"
     },
     {
-      "rank": 423,
+      "rank": 422,
       "id": "f5814f6a7b06601a",
       "name": "Fantastic future",
       "secondary": "田村ゆかり",
@@ -1047,7 +1002,7 @@
       "detailPath": "entities/songs/f5814f6a7b06601a.json"
     },
     {
-      "rank": 424,
+      "rank": 423,
       "id": "be04d0f6f785cdf8",
       "name": "Fighting My Way",
       "secondary": "花海咲季(長月あおい)",
@@ -1092,7 +1047,7 @@
       "detailPath": "entities/songs/be04d0f6f785cdf8.json"
     },
     {
-      "rank": 425,
+      "rank": 424,
       "id": "bc731be6187b6ea5",
       "name": "Flavor Of Life",
       "secondary": "宇多田ヒカル",
@@ -1138,7 +1093,7 @@
       "detailPath": "entities/songs/bc731be6187b6ea5.json"
     },
     {
-      "rank": 426,
+      "rank": 425,
       "id": "5e2fda5eb7220e34",
       "name": "FLY HIGH!!",
       "secondary": "BURNOUT SYNDROMES",
@@ -1183,7 +1138,7 @@
       "detailPath": "entities/songs/5e2fda5eb7220e34.json"
     },
     {
-      "rank": 427,
+      "rank": 426,
       "id": "b48261c3abd8b872",
       "name": "FREEDOM",
       "secondary": "西川貴教 with t.komuro",
@@ -1228,7 +1183,7 @@
       "detailPath": "entities/songs/b48261c3abd8b872.json"
     },
     {
-      "rank": 428,
+      "rank": 427,
       "id": "d78ab81ddab6e1bc",
       "name": "from the edge",
       "secondary": "FictionJunction feat.LiSA",
@@ -1273,7 +1228,7 @@
       "detailPath": "entities/songs/d78ab81ddab6e1bc.json"
     },
     {
-      "rank": 429,
+      "rank": 428,
       "id": "07d2b95cfdf0d0cb",
       "name": "from Y to Y",
       "secondary": "ジミーサムP",
@@ -1318,7 +1273,7 @@
       "detailPath": "entities/songs/07d2b95cfdf0d0cb.json"
     },
     {
-      "rank": 430,
+      "rank": 429,
       "id": "7bc8470a2e48d3e4",
       "name": "GLAMOROUS SKY",
       "secondary": "中島美嘉",
@@ -1363,7 +1318,7 @@
       "detailPath": "entities/songs/7bc8470a2e48d3e4.json"
     },
     {
-      "rank": 431,
+      "rank": 430,
       "id": "ec119b3b6cd2eb29",
       "name": "God knows",
       "secondary": "涼宮ハルヒ",
@@ -1408,7 +1363,7 @@
       "detailPath": "entities/songs/ec119b3b6cd2eb29.json"
     },
     {
-      "rank": 432,
+      "rank": 431,
       "id": "f064f2f92c10b934",
       "name": "God Knows…",
       "secondary": "涼宮ハルヒ（CV:平野綾）",
@@ -1453,7 +1408,7 @@
       "detailPath": "entities/songs/f064f2f92c10b934.json"
     },
     {
-      "rank": 433,
+      "rank": 432,
       "id": "b098fcc647137bc3",
       "name": "Habit",
       "secondary": "SEKAI NO OWARI",
@@ -1498,7 +1453,7 @@
       "detailPath": "entities/songs/b098fcc647137bc3.json"
     },
     {
-      "rank": 434,
+      "rank": 433,
       "id": "1df328d7042867cd",
       "name": "Ham",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1544,7 +1499,7 @@
       "detailPath": "entities/songs/1df328d7042867cd.json"
     },
     {
-      "rank": 435,
+      "rank": 434,
       "id": "c51b8b23627658d6",
       "name": "HANABI",
       "secondary": "いきものがかり",
@@ -1589,7 +1544,7 @@
       "detailPath": "entities/songs/c51b8b23627658d6.json"
     },
     {
-      "rank": 436,
+      "rank": 435,
       "id": "3f2f6e71511fc5da",
       "name": "heavenly days",
       "secondary": "新垣結衣",
@@ -1634,7 +1589,7 @@
       "detailPath": "entities/songs/3f2f6e71511fc5da.json"
     },
     {
-      "rank": 437,
+      "rank": 436,
       "id": "043b5387dcdbd65b",
       "name": "Hello,Again〜昔からある場所〜",
       "secondary": "My Little Lover",
@@ -1679,7 +1634,7 @@
       "detailPath": "entities/songs/043b5387dcdbd65b.json"
     },
     {
-      "rank": 438,
+      "rank": 437,
       "id": "f8db36e96b92d436",
       "name": "Home Sweet Home",
       "secondary": "YUKI",
@@ -1724,7 +1679,7 @@
       "detailPath": "entities/songs/f8db36e96b92d436.json"
     },
     {
-      "rank": 439,
+      "rank": 438,
       "id": "3a92652b1c6094a9",
       "name": "https",
       "secondary": "livepocket.jp/e/70146",
@@ -1769,7 +1724,7 @@
       "detailPath": "entities/songs/3a92652b1c6094a9.json"
     },
     {
-      "rank": 440,
+      "rank": 439,
       "id": "1e6baafae0b21c35",
       "name": "I LOVE",
       "secondary": "Official髭男dism",
@@ -1814,7 +1769,7 @@
       "detailPath": "entities/songs/1e6baafae0b21c35.json"
     },
     {
-      "rank": 441,
+      "rank": 440,
       "id": "fbf220800e694110",
       "name": "I wanna see you",
       "secondary": "阿部真央",
@@ -1859,7 +1814,7 @@
       "detailPath": "entities/songs/fbf220800e694110.json"
     },
     {
-      "rank": 442,
+      "rank": 441,
       "id": "4a037c4f25267cc5",
       "name": "I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた",
       "secondary": "宝鐘マリン",
@@ -1904,7 +1859,7 @@
       "detailPath": "entities/songs/4a037c4f25267cc5.json"
     },
     {
-      "rank": 443,
+      "rank": 442,
       "id": "10a040cd8cab3fce",
       "name": "INNOCENCE",
       "secondary": "藍井エイル",
@@ -1949,7 +1904,7 @@
       "detailPath": "entities/songs/10a040cd8cab3fce.json"
     },
     {
-      "rank": 444,
+      "rank": 443,
       "id": "a971533666209fe4",
       "name": "inside you",
       "secondary": "milet",
@@ -1994,7 +1949,7 @@
       "detailPath": "entities/songs/a971533666209fe4.json"
     },
     {
-      "rank": 445,
+      "rank": 444,
       "id": "39bd81741a94b05d",
       "name": "irony",
       "secondary": "ClariS",
@@ -2039,7 +1994,7 @@
       "detailPath": "entities/songs/39bd81741a94b05d.json"
     },
     {
-      "rank": 446,
+      "rank": 445,
       "id": "8edac3ab5c330ac9",
       "name": "Just Be Friends",
       "secondary": "Dixie Flatline",
@@ -2085,7 +2040,7 @@
       "detailPath": "entities/songs/8edac3ab5c330ac9.json"
     },
     {
-      "rank": 447,
+      "rank": 446,
       "id": "da564a4b86a84530",
       "name": "Just Be Friends",
       "secondary": "Dixie Flatline feat. 巡音ルカ",
@@ -2130,7 +2085,7 @@
       "detailPath": "entities/songs/da564a4b86a84530.json"
     },
     {
-      "rank": 448,
+      "rank": 447,
       "id": "e7110abbe0cab37a",
       "name": "K",
       "secondary": "BUMP OF CHICKEN",
@@ -2175,7 +2130,7 @@
       "detailPath": "entities/songs/e7110abbe0cab37a.json"
     },
     {
-      "rank": 449,
+      "rank": 448,
       "id": "0b4dd30bea4e57e6",
       "name": "LOVE PHANTOM",
       "secondary": "B'z",
@@ -2220,7 +2175,7 @@
       "detailPath": "entities/songs/0b4dd30bea4e57e6.json"
     },
     {
-      "rank": 450,
+      "rank": 449,
       "id": "9b909185459985c3",
       "name": "Lovers",
       "secondary": "Sumika",
@@ -2263,6 +2218,51 @@
         }
       ],
       "detailPath": "entities/songs/9b909185459985c3.json"
+    },
+    {
+      "rank": 450,
+      "id": "534b6e5ecbf63f8d",
+      "name": "LOVEマシーン",
+      "secondary": "モーニング娘。",
+      "channelId": "UCBNIFs6PjImfZEpnFHjlNPQ",
+      "channelHandle": "@Kuonnatsume_ch",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "g085ctGUjfU",
+          "videoTitle": "【#歌枠】90年代縛り歌枠🪩懐かしいアニソン＆JPOPを歌います！【#MUS1CA/#Vsinger】",
+          "channelName": "MUS1CA",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/g085ctGUjfU/hqdefault.jpg",
+          "sourcePath": "sources/g0/g085ctGUjfU.json",
+          "time": "0:07:54",
+          "seconds": 474,
+          "songTitle": "LOVEマシーン",
+          "artist": "モーニング娘。"
+        },
+        {
+          "videoId": "tOD_O0-wI0c",
+          "videoTitle": "【歌枠/karaoke】高評価111&同接30人目標！！1曲聴いていって～～！ 久遠なつめ【#9on_air 】 #vtuber",
+          "channelName": "久遠なつめ natsume channel",
+          "publishedAt": "2026-10-06T15:28:06.554Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tOD_O0-wI0c/hqdefault.jpg",
+          "sourcePath": "sources/tO/tOD_O0-wI0c.json",
+          "time": "2:25:19",
+          "seconds": 8719,
+          "songTitle": "LOVEマシーン",
+          "artist": "モーニング娘。"
+        }
+      ],
+      "detailPath": "entities/songs/534b6e5ecbf63f8d.json"
     }
   ]
 }

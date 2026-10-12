@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "7d",
   "type": "vtubers",
   "page": 1,
   "pageSize": 50,
   "pageCount": 7,
-  "totalCount": 323,
+  "totalCount": 322,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2116,51 +2116,6 @@
     },
     {
       "rank": 48,
-      "id": "4b0606e409cca24a",
-      "name": "武田玄愛 / Takeda kuroa",
-      "secondary": "",
-      "channelId": "UCxxRfu50M_FiMq0WJfBW1oQ",
-      "channelHandle": "@Unifee_takeda",
-      "channelUrl": "",
-      "occurrenceCount": 26,
-      "videoCount": 2,
-      "songCount": 25,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ND-WOAa3e88",
-          "videoTitle": "【歌枠 / karaoke 】初見様、ROM勢、作業用BGM◎ 自己満足したいので歌います！ 【#武田玄愛 / ゆにふぃ！】#shortsfeed #shorts",
-          "channelName": "武田玄愛 / Takeda kuroa",
-          "publishedAt": "2026-10-09T14:51:25.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ND-WOAa3e88/hqdefault.jpg",
-          "sourcePath": "sources/ND/ND-WOAa3e88.json",
-          "time": "0:11:16",
-          "seconds": 676,
-          "songTitle": "シス×ラブ feat.成海聖奈(cv::雨宮天)×成海萌奈(cv:夏川椎菜)",
-          "artist": "HoneyWorks"
-        },
-        {
-          "videoId": "45rfRq430KE",
-          "videoTitle": "【歌枠 / karaoke 】初見様、ROM勢、作業用BGM◎ 月曜の夜にまったり歌う戦国武将系V 【#武田玄愛 / ゆにふぃ！】#shortsfeed #shorts",
-          "channelName": "武田玄愛 / Takeda kuroa",
-          "publishedAt": "2026-10-05T14:06:29.493Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/45rfRq430KE/hqdefault.jpg",
-          "sourcePath": "sources/45/45rfRq430KE.json",
-          "time": "0:12:58",
-          "seconds": 778,
-          "songTitle": "だから僕は音楽を辞めた",
-          "artist": "ヨルシカ"
-        }
-      ],
-      "detailPath": "entities/vtubers/4b0606e409cca24a.json"
-    },
-    {
-      "rank": 49,
       "id": "a04e6b2388212d26",
       "name": "まにきゅあ manicure",
       "secondary": "",
@@ -2193,7 +2148,7 @@
       "detailPath": "entities/vtubers/a04e6b2388212d26.json"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "id": "2639baafdf55d1cd",
       "name": "空ノsorano",
       "secondary": "",
@@ -2224,6 +2179,39 @@
         }
       ],
       "detailPath": "entities/vtubers/2639baafdf55d1cd.json"
+    },
+    {
+      "rank": 50,
+      "id": "f148d9f1e8ad542b",
+      "name": "冬萌ここな",
+      "secondary": "",
+      "channelId": "UCpxU2IKqNzXudnp17iHJT0Q",
+      "channelHandle": "@fuyumoekokona",
+      "channelUrl": "",
+      "occurrenceCount": 26,
+      "videoCount": 1,
+      "songCount": 26,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vTxIai_cOcM",
+          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
+          "channelName": "冬萌ここな",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vTxIai_cOcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5T4vUDv-Vk57R-82lKsYiBvcC6A",
+          "sourcePath": "sources/vT/vTxIai_cOcM.json",
+          "time": "0:20:44",
+          "seconds": 1244,
+          "songTitle": "Blessing",
+          "artist": "halyosy feat. VOCALOIDS"
+        }
+      ],
+      "detailPath": "entities/vtubers/f148d9f1e8ad542b.json"
     }
   ]
 }

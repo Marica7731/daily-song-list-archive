@@ -1,74 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "30d",
   "type": "songs",
   "page": 17,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27690,
+  "totalCount": 27665,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 801,
-      "id": "85fd76ab7374b39a",
-      "name": "The Beginning",
-      "secondary": "ONE OK ROCK",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 14,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vTxIai_cOcM",
-          "videoTitle": "【#歌枠】1曲聴いていきませんか？✨初見さん◎✧移動や休憩、作業のおともに【 ARAWAZA / 冬萌ここな 】#shorts #Vsinger #VTuber #singingstream",
-          "channelName": "冬萌ここな",
-          "publishedAt": "2026-10-11T20:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vTxIai_cOcM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5T4vUDv-Vk57R-82lKsYiBvcC6A",
-          "sourcePath": "sources/vT/vTxIai_cOcM.json",
-          "time": "0:37:31",
-          "seconds": 2251,
-          "songTitle": "The Beginning",
-          "artist": "ONE OK ROCK"
-        },
-        {
-          "videoId": "1bHHei3BQsA",
-          "videoTitle": "✥ロック歌枠✥ let's rock 'n' roll!!!・搖滾歌曲歌回💠",
-          "channelName": "lilia",
-          "publishedAt": "2026-10-04T03:17:48.167Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1bHHei3BQsA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDKRmoYPdptkIgMFjAx_OaRvUeiWQ",
-          "sourcePath": "sources/1b/1bHHei3BQsA.json",
-          "time": "1:03:25",
-          "seconds": 3805,
-          "songTitle": "The Beginning",
-          "artist": "ONE OK ROCK"
-        },
-        {
-          "videoId": "szuw2IpmTZ4",
-          "videoTitle": "歌枠｜アニソンが聞きたい時間ですよね？初見さん歓迎✨【 白波瀬ソル / YUMENOS】",
-          "channelName": "白波瀬ソル / Sol Shirahase",
-          "publishedAt": "2026-10-03T16:02:27.264Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/szuw2IpmTZ4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJD3blN_3TJbq4FWLGOxB5qL6BZQ",
-          "sourcePath": "sources/sz/szuw2IpmTZ4.json",
-          "time": "1:49:59",
-          "seconds": 6599,
-          "songTitle": "The Beginning",
-          "artist": "ONE OK ROCK"
-        }
-      ],
-      "detailPath": "entities/songs/85fd76ab7374b39a.json"
-    },
-    {
-      "rank": 802,
       "id": "347e784da7c3242a",
       "name": "あたしを彼女にしたいなら",
       "secondary": "コレサワ",
@@ -125,7 +67,7 @@
       "detailPath": "entities/songs/347e784da7c3242a.json"
     },
     {
-      "rank": 803,
+      "rank": 802,
       "id": "07b160ad141c0939",
       "name": "アムリタ",
       "secondary": "牧野由依",
@@ -182,7 +124,7 @@
       "detailPath": "entities/songs/07b160ad141c0939.json"
     },
     {
-      "rank": 804,
+      "rank": 803,
       "id": "1043c2b249e898f5",
       "name": "オリビアを聴きながら",
       "secondary": "杏里",
@@ -240,7 +182,7 @@
       "detailPath": "entities/songs/1043c2b249e898f5.json"
     },
     {
-      "rank": 805,
+      "rank": 804,
       "id": "b8bc8cc0af5bf756",
       "name": "キャットフード",
       "secondary": "doriko",
@@ -297,7 +239,7 @@
       "detailPath": "entities/songs/b8bc8cc0af5bf756.json"
     },
     {
-      "rank": 806,
+      "rank": 805,
       "id": "8df4475a482665cc",
       "name": "きゃわぽっぴんどぅー",
       "secondary": "iLiFE!",
@@ -354,7 +296,7 @@
       "detailPath": "entities/songs/8df4475a482665cc.json"
     },
     {
-      "rank": 807,
+      "rank": 806,
       "id": "03cf70f1f0efb04b",
       "name": "キリトリセン",
       "secondary": "40mP",
@@ -412,7 +354,7 @@
       "detailPath": "entities/songs/03cf70f1f0efb04b.json"
     },
     {
-      "rank": 808,
+      "rank": 807,
       "id": "31712c3108f85b81",
       "name": "ゴーゴー幽霊船",
       "secondary": "米津玄師",
@@ -469,7 +411,7 @@
       "detailPath": "entities/songs/31712c3108f85b81.json"
     },
     {
-      "rank": 809,
+      "rank": 808,
       "id": "ac887ad6cf34291e",
       "name": "ソラニン",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -527,7 +469,7 @@
       "detailPath": "entities/songs/ac887ad6cf34291e.json"
     },
     {
-      "rank": 810,
+      "rank": 809,
       "id": "55c59fb3bfc9ad5f",
       "name": "トリセツ",
       "secondary": "西野カナ",
@@ -584,7 +526,7 @@
       "detailPath": "entities/songs/55c59fb3bfc9ad5f.json"
     },
     {
-      "rank": 811,
+      "rank": 810,
       "id": "4bb076153bb8b2be",
       "name": "ナイショの話",
       "secondary": "ClariS",
@@ -641,7 +583,7 @@
       "detailPath": "entities/songs/4bb076153bb8b2be.json"
     },
     {
-      "rank": 812,
+      "rank": 811,
       "id": "6046b3891858828c",
       "name": "なごり雪",
       "secondary": "イルカ",
@@ -699,7 +641,7 @@
       "detailPath": "entities/songs/6046b3891858828c.json"
     },
     {
-      "rank": 813,
+      "rank": 812,
       "id": "e21c3a3363a887a2",
       "name": "バラライカ",
       "secondary": "月島きらりstarring久住小春",
@@ -756,7 +698,7 @@
       "detailPath": "entities/songs/e21c3a3363a887a2.json"
     },
     {
-      "rank": 814,
+      "rank": 813,
       "id": "88398f95757f9939",
       "name": "ヒトリゴト",
       "secondary": "ClariS",
@@ -813,7 +755,7 @@
       "detailPath": "entities/songs/88398f95757f9939.json"
     },
     {
-      "rank": 815,
+      "rank": 814,
       "id": "37a358c7a34a4b95",
       "name": "フィナーレ。",
       "secondary": "eill",
@@ -870,7 +812,7 @@
       "detailPath": "entities/songs/37a358c7a34a4b95.json"
     },
     {
-      "rank": 816,
+      "rank": 815,
       "id": "aa284c1820d9ff6a",
       "name": "メーベル",
       "secondary": "バルーン",
@@ -928,7 +870,7 @@
       "detailPath": "entities/songs/aa284c1820d9ff6a.json"
     },
     {
-      "rank": 817,
+      "rank": 816,
       "id": "b53c092729e3ae18",
       "name": "ライオン",
       "secondary": "シェリル・ノーム starring May'n,ランカ・リー=中島愛",
@@ -985,7 +927,7 @@
       "detailPath": "entities/songs/b53c092729e3ae18.json"
     },
     {
-      "rank": 818,
+      "rank": 817,
       "id": "965cca74c9644c85",
       "name": "ラピスラズリ",
       "secondary": "藍井エイル",
@@ -1042,7 +984,7 @@
       "detailPath": "entities/songs/965cca74c9644c85.json"
     },
     {
-      "rank": 819,
+      "rank": 818,
       "id": "dadea61607905132",
       "name": "リンネ",
       "secondary": "ハチ",
@@ -1099,7 +1041,7 @@
       "detailPath": "entities/songs/dadea61607905132.json"
     },
     {
-      "rank": 820,
+      "rank": 819,
       "id": "5e1402b78e9660cc",
       "name": "愛して愛して愛して",
       "secondary": "きくお",
@@ -1157,7 +1099,7 @@
       "detailPath": "entities/songs/5e1402b78e9660cc.json"
     },
     {
-      "rank": 821,
+      "rank": 820,
       "id": "1f827f454ce8e774",
       "name": "逢いたくていま",
       "secondary": "MISIA",
@@ -1214,7 +1156,7 @@
       "detailPath": "entities/songs/1f827f454ce8e774.json"
     },
     {
-      "rank": 822,
+      "rank": 821,
       "id": "78330f06194d369f",
       "name": "夏色",
       "secondary": "ゆず",
@@ -1272,7 +1214,7 @@
       "detailPath": "entities/songs/78330f06194d369f.json"
     },
     {
-      "rank": 823,
+      "rank": 822,
       "id": "f47b776aad12129d",
       "name": "火炎",
       "secondary": "女王蜂",
@@ -1327,6 +1269,63 @@
         }
       ],
       "detailPath": "entities/songs/f47b776aad12129d.json"
+    },
+    {
+      "rank": 823,
+      "id": "4a67ec590f80b15a",
+      "name": "花火",
+      "secondary": "aiko",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 14,
+      "videoCount": 14,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "s-ZdfJ-vMNA",
+          "videoTitle": "〖 歌枠 〗おうち3Dで秋を楽しむお歌の会〖 眠雲ツクリ / ミリプロ 〗",
+          "channelName": "眠雲ツクリ / NemukumoTsukuri",
+          "publishedAt": "2026-10-08T14:29:52.975Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/s-ZdfJ-vMNA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4nebLMDNdBqiSWkg0PeaHB29O7Q",
+          "sourcePath": "sources/s-/s-ZdfJ-vMNA.json",
+          "time": "1:09:15",
+          "seconds": 4155,
+          "songTitle": "花火",
+          "artist": "aiko"
+        },
+        {
+          "videoId": "4q_kWQshnGk",
+          "videoTitle": "【歌枠】秋天到了，整個世界都變得橘橘的🍂 | 知花Chika",
+          "channelName": "知花 / Chika Ch.",
+          "publishedAt": "2026-10-02T09:15:52.307Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4q_kWQshnGk/hqdefault.jpg",
+          "sourcePath": "sources/4q/4q_kWQshnGk.json",
+          "time": "1:59:35",
+          "seconds": 7175,
+          "songTitle": "花火",
+          "artist": "aiko"
+        },
+        {
+          "videoId": "LAW1Q6wbG_s",
+          "videoTitle": "【歌枠/KARAOKE】「くるみ」の日💕歌枠【#胡桃澤もも】",
+          "channelName": "胡桃澤もも / kurumizawamomo",
+          "publishedAt": "2026-09-30T19:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LAW1Q6wbG_s/hqdefault.jpg",
+          "sourcePath": "sources/LA/LAW1Q6wbG_s.json",
+          "time": "0:43:53",
+          "seconds": 2633,
+          "songTitle": "花火",
+          "artist": "aiko"
+        }
+      ],
+      "detailPath": "entities/songs/4a67ec590f80b15a.json"
     },
     {
       "rank": 824,
@@ -2192,64 +2191,6 @@
     },
     {
       "rank": 839,
-      "id": "71d608f893c15549",
-      "name": "満ちてゆく",
-      "secondary": "藤井 風",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 14,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "wl49vsNaw_Y",
-          "videoTitle": "歌枠⌇華金は癒しソングがうたいたいっ☕🌿⟡ ̖́-#花鹿める / ななはぴ",
-          "channelName": "花鹿 める / Kajica Mel",
-          "publishedAt": "2026-10-09T15:49:10.815Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wl49vsNaw_Y/hqdefault.jpg",
-          "sourcePath": "sources/wl/wl49vsNaw_Y.json",
-          "time": "0:40:42",
-          "seconds": 2442,
-          "songTitle": "満ちてゆく",
-          "artist": "藤井風"
-        },
-        {
-          "videoId": "UT0EJiLJqEs",
-          "videoTitle": "【 歌枠/Karaoke 】今日も一日おつかれちゃん！華金ゲリラ歌枠【 男性VTuber 】",
-          "channelName": "御崎陽炎",
-          "publishedAt": "2026-10-02T11:09:11.932Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UT0EJiLJqEs/hqdefault.jpg",
-          "sourcePath": "sources/UT/UT0EJiLJqEs.json",
-          "time": "0:39:48",
-          "seconds": 2388,
-          "songTitle": "満ちてゆく",
-          "artist": "藤井風"
-        },
-        {
-          "videoId": "LdpVtaIm1pQ",
-          "videoTitle": "【定期】睡眠導入🌙寝かしつけ歌枠 #106【 #水魚みぃむ / #おんえあみぃむ】",
-          "channelName": "水魚みぃむ / Mio Miim",
-          "publishedAt": "2026-09-30T15:43:31.213Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LdpVtaIm1pQ/hqdefault.jpg",
-          "sourcePath": "sources/Ld/LdpVtaIm1pQ.json",
-          "time": "1:50:07",
-          "seconds": 6607,
-          "songTitle": "満ちてゆく",
-          "artist": "藤井風"
-        }
-      ],
-      "detailPath": "entities/songs/71d608f893c15549.json"
-    },
-    {
-      "rank": 840,
       "id": "ff854a1c26476f9a",
       "name": "明日も",
       "secondary": "SHISHAMO",
@@ -2306,7 +2247,7 @@
       "detailPath": "entities/songs/ff854a1c26476f9a.json"
     },
     {
-      "rank": 841,
+      "rank": 840,
       "id": "785af138e6e03f15",
       "name": "約束はいらない",
       "secondary": "坂本真綾",
@@ -2363,7 +2304,7 @@
       "detailPath": "entities/songs/785af138e6e03f15.json"
     },
     {
-      "rank": 842,
+      "rank": 841,
       "id": "3258f8819bd01a30",
       "name": "恋愛サーキュレーション",
       "secondary": "",
@@ -2420,7 +2361,7 @@
       "detailPath": "entities/songs/3258f8819bd01a30.json"
     },
     {
-      "rank": 843,
+      "rank": 842,
       "id": "44ea118526545ab2",
       "name": "儚くも永久のカナシ",
       "secondary": "UVERworld",
@@ -2477,7 +2418,7 @@
       "detailPath": "entities/songs/44ea118526545ab2.json"
     },
     {
-      "rank": 844,
+      "rank": 843,
       "id": "ef1d4f545a090912",
       "name": "me me she",
       "secondary": "RADWIMPS",
@@ -2535,7 +2476,7 @@
       "detailPath": "entities/songs/ef1d4f545a090912.json"
     },
     {
-      "rank": 845,
+      "rank": 844,
       "id": "a7bdd1c74abf1e71",
       "name": "回る空うさぎ",
       "secondary": "Orangestar feat.初音ミク",
@@ -2593,7 +2534,7 @@
       "detailPath": "entities/songs/a7bdd1c74abf1e71.json"
     },
     {
-      "rank": 846,
+      "rank": 845,
       "id": "bb2779ed1a6e4f34",
       "name": "明け星",
       "secondary": "LiSA",
@@ -2650,7 +2591,7 @@
       "detailPath": "entities/songs/bb2779ed1a6e4f34.json"
     },
     {
-      "rank": 847,
+      "rank": 846,
       "id": "bc93f10d77565204",
       "name": "ときめきの導火線",
       "secondary": "今野友加里",
@@ -2707,7 +2648,7 @@
       "detailPath": "entities/songs/bc93f10d77565204.json"
     },
     {
-      "rank": 848,
+      "rank": 847,
       "id": "57c2ffb33391f58a",
       "name": "〜 ALIVE",
       "secondary": "ClariS",
@@ -2764,7 +2705,7 @@
       "detailPath": "entities/songs/57c2ffb33391f58a.json"
     },
     {
-      "rank": 849,
+      "rank": 848,
       "id": "a12f3f443428af43",
       "name": "〜 大声ダイヤモンド",
       "secondary": "AKB48",
@@ -2822,7 +2763,7 @@
       "detailPath": "entities/songs/a12f3f443428af43.json"
     },
     {
-      "rank": 850,
+      "rank": 849,
       "id": "d1e51dd23ae40892",
       "name": "┆ 青春アミーゴ",
       "secondary": "修二と彰",
@@ -2877,6 +2818,63 @@
         }
       ],
       "detailPath": "entities/songs/d1e51dd23ae40892.json"
+    },
+    {
+      "rank": 850,
+      "id": "ec10cc10753bd745",
+      "name": "Beyond the way",
+      "secondary": "Giga",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 13,
+      "videoCount": 13,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vv_2_-B2lCc",
+          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
+          "channelName": "天音",
+          "publishedAt": "2026-10-08T15:40:41.566Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
+          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
+          "time": "2:31:39",
+          "seconds": 9099,
+          "songTitle": "Beyond the way",
+          "artist": "Giga"
+        },
+        {
+          "videoId": "AlOuVZYz9WI",
+          "videoTitle": "【 #歌枠 】ライブ2本も控えている？！2人で初コラボ✨化学反応聞いてって～！ with.XIDENちゃん #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
+          "channelName": "Azato Ch. 赤魔アザト",
+          "publishedAt": "2026-10-05T13:28:33.015Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AlOuVZYz9WI/hqdefault.jpg",
+          "sourcePath": "sources/Al/AlOuVZYz9WI.json",
+          "time": "0:41:22",
+          "seconds": 2482,
+          "songTitle": "Beyond the way",
+          "artist": "Giga"
+        },
+        {
+          "videoId": "cyk2Bp5yhDw",
+          "videoTitle": "【 #歌枠 】アニソン・JPOP中心に歌って参るー！初見歓迎！【 茨むあん︙Vsinger 】#vtuber #karaoke",
+          "channelName": "Muan ch.茨むあん",
+          "publishedAt": "2026-10-03T08:26:15.499Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cyk2Bp5yhDw/hqdefault.jpg",
+          "sourcePath": "sources/cy/cyk2Bp5yhDw.json",
+          "time": "1:35:25",
+          "seconds": 5725,
+          "songTitle": "Beyond the way",
+          "artist": "Giga"
+        }
+      ],
+      "detailPath": "entities/songs/ec10cc10753bd745.json"
     }
   ]
 }

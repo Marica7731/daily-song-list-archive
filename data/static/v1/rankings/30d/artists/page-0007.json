@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:06:22.198Z",
+  "generatedAt": "2026-10-12T14:13:04.360Z",
   "range": "30d",
   "type": "artists",
   "page": 7,
   "pageSize": 50,
-  "pageCount": 218,
-  "totalCount": 10857,
+  "pageCount": 217,
+  "totalCount": 10846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1625,64 +1625,6 @@
     },
     {
       "rank": 329,
-      "id": "285ad7d991a2537b",
-      "name": "川崎鷹也",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 35,
-      "videoCount": 34,
-      "songCount": 6,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "3pt7lNP9D50",
-          "videoTitle": "【#歌枠】睡眠にはこの歌枠が効くらしい┆作業BGM #karaoke 【MEDA / RK Music】",
-          "channelName": "MEDA",
-          "publishedAt": "2026-10-06T15:46:12.854Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/3pt7lNP9D50/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTnRz1Tpq-_62pMXmz1Kf39KUSrg",
-          "sourcePath": "sources/3p/3pt7lNP9D50.json",
-          "time": "2:24:44",
-          "seconds": 8684,
-          "songTitle": "魔法の絨毯",
-          "artist": "川崎鷹也"
-        },
-        {
-          "videoId": "vpiWIWem7SU",
-          "videoTitle": "【#歌枠 / #karaoke】 初見さん・ROM大歓迎‼✨ゆったり歌う夜があったっていい🎤【白鼬かなで / bond live】",
-          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
-          "publishedAt": "2026-10-05T15:28:49.939Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vpiWIWem7SU/hqdefault.jpg",
-          "sourcePath": "sources/vp/vpiWIWem7SU.json",
-          "time": "0:39:50",
-          "seconds": 2390,
-          "songTitle": "魔法の絨毯",
-          "artist": "川崎鷹也"
-        },
-        {
-          "videoId": "xMlEGfM_gls",
-          "videoTitle": "【おはよう歌枠☀️】日曜朝からみんなに癒しを♡天然水ボイスVTuber月夜味ろあです🫧【#歌枠 】",
-          "channelName": "月夜味ろあ",
-          "publishedAt": "2026-10-04T02:35:48.324Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xMlEGfM_gls/hqdefault.jpg",
-          "sourcePath": "sources/xM/xMlEGfM_gls.json",
-          "time": "0:23:55",
-          "seconds": 1435,
-          "songTitle": "魔法の絨毯",
-          "artist": "川崎鷹也"
-        }
-      ],
-      "detailPath": "entities/artists/285ad7d991a2537b.json"
-    },
-    {
-      "rank": 330,
       "id": "880735b0e7108e68",
       "name": "HANA",
       "secondary": "",
@@ -1739,7 +1681,7 @@
       "detailPath": "entities/artists/880735b0e7108e68.json"
     },
     {
-      "rank": 331,
+      "rank": 330,
       "id": "4fbd399286519640",
       "name": "sumika",
       "secondary": "",
@@ -1796,7 +1738,7 @@
       "detailPath": "entities/artists/4fbd399286519640.json"
     },
     {
-      "rank": 332,
+      "rank": 331,
       "id": "7b6bbc218caee566",
       "name": "影山ヒロノブ",
       "secondary": "",
@@ -1851,6 +1793,64 @@
         }
       ],
       "detailPath": "entities/artists/7b6bbc218caee566.json"
+    },
+    {
+      "rank": 332,
+      "id": "285ad7d991a2537b",
+      "name": "川崎鷹也",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 34,
+      "videoCount": 33,
+      "songCount": 6,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "3pt7lNP9D50",
+          "videoTitle": "【#歌枠】睡眠にはこの歌枠が効くらしい┆作業BGM #karaoke 【MEDA / RK Music】",
+          "channelName": "MEDA",
+          "publishedAt": "2026-10-06T15:46:12.854Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3pt7lNP9D50/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTnRz1Tpq-_62pMXmz1Kf39KUSrg",
+          "sourcePath": "sources/3p/3pt7lNP9D50.json",
+          "time": "2:24:44",
+          "seconds": 8684,
+          "songTitle": "魔法の絨毯",
+          "artist": "川崎鷹也"
+        },
+        {
+          "videoId": "vpiWIWem7SU",
+          "videoTitle": "【#歌枠 / #karaoke】 初見さん・ROM大歓迎‼✨ゆったり歌う夜があったっていい🎤【白鼬かなで / bond live】",
+          "channelName": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
+          "publishedAt": "2026-10-05T15:28:49.939Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vpiWIWem7SU/hqdefault.jpg",
+          "sourcePath": "sources/vp/vpiWIWem7SU.json",
+          "time": "0:39:50",
+          "seconds": 2390,
+          "songTitle": "魔法の絨毯",
+          "artist": "川崎鷹也"
+        },
+        {
+          "videoId": "xMlEGfM_gls",
+          "videoTitle": "【おはよう歌枠☀️】日曜朝からみんなに癒しを♡天然水ボイスVTuber月夜味ろあです🫧【#歌枠 】",
+          "channelName": "月夜味ろあ",
+          "publishedAt": "2026-10-04T02:35:48.324Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xMlEGfM_gls/hqdefault.jpg",
+          "sourcePath": "sources/xM/xMlEGfM_gls.json",
+          "time": "0:23:55",
+          "seconds": 1435,
+          "songTitle": "魔法の絨毯",
+          "artist": "川崎鷹也"
+        }
+      ],
+      "detailPath": "entities/artists/285ad7d991a2537b.json"
     },
     {
       "rank": 333,
