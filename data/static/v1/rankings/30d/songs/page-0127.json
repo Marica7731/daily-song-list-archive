@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "30d",
   "type": "songs",
   "page": 127,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27670,
+  "totalCount": 27671,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6301,
+      "id": "187a5d9aa8e48009",
+      "name": "やさしい希望",
+      "secondary": "早見沙織",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dEmToMEakdQ",
+          "videoTitle": "【 #歌枠 / #作業用bgm 】お月見、まだ舞える。✧ Singing Stream #Shorts 【 #伊月知世を見ろ / #無原唱レコード 】",
+          "channelName": "伊月知世 / CHISE ITSUKI",
+          "publishedAt": "2026-10-02T03:45:24.135Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dEmToMEakdQ/hqdefault.jpg",
+          "sourcePath": "sources/dE/dEmToMEakdQ.json",
+          "time": "0:20:33",
+          "seconds": 1233,
+          "songTitle": "やさしい希望",
+          "artist": "早見沙織"
+        },
+        {
+          "videoId": "dbN2NMYixEo",
+          "videoTitle": "【初見さん歓迎】とにかくいっぱい歌いたい！【歌枠 / 雑談 / KARAOKE】",
+          "channelName": "星海・C・ルチア",
+          "publishedAt": "2026-09-20T10:31:30.869Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dbN2NMYixEo/hqdefault.jpg",
+          "sourcePath": "sources/db/dbN2NMYixEo.json",
+          "time": "0:22:28",
+          "seconds": 1348,
+          "songTitle": "やさしい希望",
+          "artist": "早見沙織"
+        }
+      ],
+      "detailPath": "entities/songs/187a5d9aa8e48009.json"
+    },
+    {
+      "rank": 6302,
       "id": "b28ae4e618a38eb2",
       "name": "やさしくなりたい",
       "secondary": "斉藤和義",
@@ -56,7 +101,7 @@
       "detailPath": "entities/songs/b28ae4e618a38eb2.json"
     },
     {
-      "rank": 6302,
+      "rank": 6303,
       "id": "c4aacde49fe85ecd",
       "name": "やさしさに包まれたなら",
       "secondary": "松任谷由美",
@@ -98,7 +143,7 @@
       "detailPath": "entities/songs/c4aacde49fe85ecd.json"
     },
     {
-      "rank": 6303,
+      "rank": 6304,
       "id": "4e60b83b9a3f0982",
       "name": "やってみよう",
       "secondary": "WANIMA",
@@ -143,7 +188,7 @@
       "detailPath": "entities/songs/4e60b83b9a3f0982.json"
     },
     {
-      "rank": 6304,
+      "rank": 6305,
       "id": "5634f543f8bbd326",
       "name": "やほやほ",
       "secondary": "",
@@ -188,7 +233,7 @@
       "detailPath": "entities/songs/5634f543f8bbd326.json"
     },
     {
-      "rank": 6305,
+      "rank": 6306,
       "id": "42cdc3eda1e605d2",
       "name": "ヤラララ",
       "secondary": "ABM",
@@ -233,7 +278,7 @@
       "detailPath": "entities/songs/42cdc3eda1e605d2.json"
     },
     {
-      "rank": 6306,
+      "rank": 6307,
       "id": "e5b52ac77e4b606a",
       "name": "ヤラララ",
       "secondary": "AnythingBecomeMoe",
@@ -278,7 +323,7 @@
       "detailPath": "entities/songs/e5b52ac77e4b606a.json"
     },
     {
-      "rank": 6307,
+      "rank": 6308,
       "id": "cf655dfd1340ada3",
       "name": "ヤンキーボーイ・ヤンキーガール",
       "secondary": "トーマ",
@@ -323,7 +368,7 @@
       "detailPath": "entities/songs/cf655dfd1340ada3.json"
     },
     {
-      "rank": 6308,
+      "rank": 6309,
       "id": "4a4ef087ed18e1de",
       "name": "ヤングアダルト",
       "secondary": "マカロニえんぴつ",
@@ -368,7 +413,7 @@
       "detailPath": "entities/songs/4a4ef087ed18e1de.json"
     },
     {
-      "rank": 6309,
+      "rank": 6310,
       "id": "766fa47067e06fd4",
       "name": "ユニバース",
       "secondary": "夏代孝明",
@@ -413,7 +458,7 @@
       "detailPath": "entities/songs/766fa47067e06fd4.json"
     },
     {
-      "rank": 6310,
+      "rank": 6311,
       "id": "f020bfd1ab020aa6",
       "name": "ゆめくいしょうじょ",
       "secondary": "米津玄師",
@@ -459,7 +504,7 @@
       "detailPath": "entities/songs/f020bfd1ab020aa6.json"
     },
     {
-      "rank": 6311,
+      "rank": 6312,
       "id": "914026c69ee8c6b0",
       "name": "ゆめゆめ",
       "secondary": "DECO*27",
@@ -505,7 +550,7 @@
       "detailPath": "entities/songs/914026c69ee8c6b0.json"
     },
     {
-      "rank": 6312,
+      "rank": 6313,
       "id": "7757f6678ebb0bae",
       "name": "ユメヲカケル!",
       "secondary": "スペシャルウィーク、サイレンススズカ、トウカイテイオー、ウオッカ、ダイワスカーレット、ゴールドシップ、メジロマックイーン（ウマ娘 プリティーダービー）",
@@ -550,7 +595,7 @@
       "detailPath": "entities/songs/7757f6678ebb0bae.json"
     },
     {
-      "rank": 6313,
+      "rank": 6314,
       "id": "204d0eaba0cc6886",
       "name": "ユメヲカケル！",
       "secondary": "スペシャルウィーク（和氣あず未）、サイレンススズカ（高野麻里佳）、トウカイテイオー（Machico）、ウオッカ（大橋彩香）、ダイワスカーレット（木村千咲）、ゴールドシップ（上田瞳）、メジロマックイーン（大西沙織） (2021)（ウマ娘 プリティーダービー Season 2 OP）",
@@ -595,7 +640,7 @@
       "detailPath": "entities/songs/204d0eaba0cc6886.json"
     },
     {
-      "rank": 6314,
+      "rank": 6315,
       "id": "00cd3fff8e67177e",
       "name": "ユメヲカケル！",
       "secondary": "スペシャルウィーク(CV.和氣あず未)、サイレンススズカ(CV.高野麻里佳)、トウカイテイオー(CV.Machico)、ウオッカ(CV.大橋彩香)、ダイワスカーレット(CV.木村千咲)、ゴールドシップ(CV.上田 瞳)、メジロマックイーン(CV.大西沙織)",
@@ -640,7 +685,7 @@
       "detailPath": "entities/songs/00cd3fff8e67177e.json"
     },
     {
-      "rank": 6315,
+      "rank": 6316,
       "id": "0b1c2d9230cb9918",
       "name": "ゆらめき",
       "secondary": "DIR EN GREY",
@@ -685,7 +730,7 @@
       "detailPath": "entities/songs/0b1c2d9230cb9918.json"
     },
     {
-      "rank": 6316,
+      "rank": 6317,
       "id": "6272904156d7464c",
       "name": "ゆらゆら",
       "secondary": "Every Little Thing",
@@ -730,7 +775,7 @@
       "detailPath": "entities/songs/6272904156d7464c.json"
     },
     {
-      "rank": 6317,
+      "rank": 6318,
       "id": "0a6c4d92b359b9de",
       "name": "ゆりゆららららゆるゆり大事件",
       "secondary": "七森中☆ごらく部",
@@ -775,7 +820,7 @@
       "detailPath": "entities/songs/0a6c4d92b359b9de.json"
     },
     {
-      "rank": 6318,
+      "rank": 6319,
       "id": "de2bd2bb6eff13a1",
       "name": "ゆるふわ樹海ガール",
       "secondary": "石風呂P",
@@ -820,7 +865,7 @@
       "detailPath": "entities/songs/de2bd2bb6eff13a1.json"
     },
     {
-      "rank": 6319,
+      "rank": 6320,
       "id": "cb08c81477fdbcd0",
       "name": "よくばり",
       "secondary": "Ayase",
@@ -865,7 +910,7 @@
       "detailPath": "entities/songs/cb08c81477fdbcd0.json"
     },
     {
-      "rank": 6320,
+      "rank": 6321,
       "id": "0ad75d02cc8af195",
       "name": "よくばり",
       "secondary": "",
@@ -910,7 +955,7 @@
       "detailPath": "entities/songs/0ad75d02cc8af195.json"
     },
     {
-      "rank": 6321,
+      "rank": 6322,
       "id": "2cb3524de4f1d62f",
       "name": "ヨドバシカメラのうた",
       "secondary": "CMソング",
@@ -955,7 +1000,7 @@
       "detailPath": "entities/songs/2cb3524de4f1d62f.json"
     },
     {
-      "rank": 6322,
+      "rank": 6323,
       "id": "3038f80c36d23ac6",
       "name": "よふかしのうた",
       "secondary": "Creepy Nuts",
@@ -997,7 +1042,7 @@
       "detailPath": "entities/songs/3038f80c36d23ac6.json"
     },
     {
-      "rank": 6323,
+      "rank": 6324,
       "id": "710ff7144e8b2190",
       "name": "ヨルノカタスミ",
       "secondary": "kobore",
@@ -1042,7 +1087,7 @@
       "detailPath": "entities/songs/710ff7144e8b2190.json"
     },
     {
-      "rank": 6324,
+      "rank": 6325,
       "id": "9e70ea66fb3f40fa",
       "name": "よるをおよぐ",
       "secondary": "西島尊大",
@@ -1087,7 +1132,7 @@
       "detailPath": "entities/songs/9e70ea66fb3f40fa.json"
     },
     {
-      "rank": 6325,
+      "rank": 6326,
       "id": "151fbd4c67e0397d",
       "name": "ヨワネハキ feat. 和ぬか, asmi",
       "secondary": "MAISONdes",
@@ -1132,7 +1177,7 @@
       "detailPath": "entities/songs/151fbd4c67e0397d.json"
     },
     {
-      "rank": 6326,
+      "rank": 6327,
       "id": "f142a0a36853be9c",
       "name": "ら、のはなし",
       "secondary": "あいみょん",
@@ -1177,7 +1222,7 @@
       "detailPath": "entities/songs/f142a0a36853be9c.json"
     },
     {
-      "rank": 6327,
+      "rank": 6328,
       "id": "54555546bc4ddff9",
       "name": "ライオン",
       "secondary": "シェリル・ノーム,ランカ・リー(CV:May'n,中島愛)",
@@ -1222,7 +1267,7 @@
       "detailPath": "entities/songs/54555546bc4ddff9.json"
     },
     {
-      "rank": 6328,
+      "rank": 6329,
       "id": "12f405644c4dc827",
       "name": "ライオン",
       "secondary": "May'n",
@@ -1267,7 +1312,7 @@
       "detailPath": "entities/songs/12f405644c4dc827.json"
     },
     {
-      "rank": 6329,
+      "rank": 6330,
       "id": "03be81833724bc4a",
       "name": "ライカ",
       "secondary": "yamada",
@@ -1312,7 +1357,7 @@
       "detailPath": "entities/songs/03be81833724bc4a.json"
     },
     {
-      "rank": 6330,
+      "rank": 6331,
       "id": "af0a6ba730ff5217",
       "name": "ライカ",
       "secondary": "yamada feat.初音ミク",
@@ -1357,7 +1402,7 @@
       "detailPath": "entities/songs/af0a6ba730ff5217.json"
     },
     {
-      "rank": 6331,
+      "rank": 6332,
       "id": "01884f584e63af0a",
       "name": "ライバー",
       "secondary": "日向文",
@@ -1402,7 +1447,7 @@
       "detailPath": "entities/songs/01884f584e63af0a.json"
     },
     {
-      "rank": 6332,
+      "rank": 6333,
       "id": "c1ab6621b65d490e",
       "name": "らいむ☆ライト",
       "secondary": "",
@@ -1447,7 +1492,7 @@
       "detailPath": "entities/songs/c1ab6621b65d490e.json"
     },
     {
-      "rank": 6333,
+      "rank": 6334,
       "id": "bb065a6331a1b4ad",
       "name": "ライラック",
       "secondary": "忘却バッテリー",
@@ -1492,7 +1537,7 @@
       "detailPath": "entities/songs/bb065a6331a1b4ad.json"
     },
     {
-      "rank": 6334,
+      "rank": 6335,
       "id": "8b622b0aa05bab0c",
       "name": "ラグトレイン",
       "secondary": "",
@@ -1537,7 +1582,7 @@
       "detailPath": "entities/songs/8b622b0aa05bab0c.json"
     },
     {
-      "rank": 6335,
+      "rank": 6336,
       "id": "f0bfd63a4aa7b8a6",
       "name": "ラスソン終了",
       "secondary": "雑談中",
@@ -1579,7 +1624,7 @@
       "detailPath": "entities/songs/f0bfd63a4aa7b8a6.json"
     },
     {
-      "rank": 6336,
+      "rank": 6337,
       "id": "bd84340339cc842b",
       "name": "ラストデイ",
       "secondary": "きのこ帝国",
@@ -1624,7 +1669,7 @@
       "detailPath": "entities/songs/bd84340339cc842b.json"
     },
     {
-      "rank": 6337,
+      "rank": 6338,
       "id": "48b9a04a30c67f34",
       "name": "ラストノートしか知らない",
       "secondary": "=LOVE",
@@ -1669,7 +1714,7 @@
       "detailPath": "entities/songs/48b9a04a30c67f34.json"
     },
     {
-      "rank": 6338,
+      "rank": 6339,
       "id": "92a6b075a7e44799",
       "name": "ラビィ",
       "secondary": "すりぃ",
@@ -1714,7 +1759,7 @@
       "detailPath": "entities/songs/92a6b075a7e44799.json"
     },
     {
-      "rank": 6339,
+      "rank": 6340,
       "id": "c0858bb65f97d323",
       "name": "ラピスのお人形",
       "secondary": "ヰ世界情緒",
@@ -1759,7 +1804,7 @@
       "detailPath": "entities/songs/c0858bb65f97d323.json"
     },
     {
-      "rank": 6340,
+      "rank": 6341,
       "id": "8ca7be00641084e3",
       "name": "ラピスラズリ",
       "secondary": "",
@@ -1804,7 +1849,7 @@
       "detailPath": "entities/songs/8ca7be00641084e3.json"
     },
     {
-      "rank": 6341,
+      "rank": 6342,
       "id": "2da758e03a91f541",
       "name": "ラピスラズリ",
       "secondary": "藍井エイル(Eir,加藤裕介)",
@@ -1849,7 +1894,7 @@
       "detailPath": "entities/songs/2da758e03a91f541.json"
     },
     {
-      "rank": 6342,
+      "rank": 6343,
       "id": "a853262bdc594cbc",
       "name": "ラビットファー",
       "secondary": "Xs",
@@ -1894,7 +1939,7 @@
       "detailPath": "entities/songs/a853262bdc594cbc.json"
     },
     {
-      "rank": 6343,
+      "rank": 6344,
       "id": "2e4065ca05be945e",
       "name": "ラビットホール",
       "secondary": "",
@@ -1939,7 +1984,7 @@
       "detailPath": "entities/songs/2e4065ca05be945e.json"
     },
     {
-      "rank": 6344,
+      "rank": 6345,
       "id": "428b27f59315b6f9",
       "name": "ラブノベルス",
       "secondary": "BiBi",
@@ -1984,7 +2029,7 @@
       "detailPath": "entities/songs/428b27f59315b6f9.json"
     },
     {
-      "rank": 6345,
+      "rank": 6346,
       "id": "02aae6637754d0e1",
       "name": "ラムネ",
       "secondary": "Aqu3ra",
@@ -2029,7 +2074,7 @@
       "detailPath": "entities/songs/02aae6637754d0e1.json"
     },
     {
-      "rank": 6346,
+      "rank": 6347,
       "id": "90f51fe3ba7a1efe",
       "name": "ラメントメモリー",
       "secondary": "深影",
@@ -2074,7 +2119,7 @@
       "detailPath": "entities/songs/90f51fe3ba7a1efe.json"
     },
     {
-      "rank": 6347,
+      "rank": 6348,
       "id": "7d20ba451b842fe0",
       "name": "リカ",
       "secondary": "SIX LOUNGE",
@@ -2119,7 +2164,7 @@
       "detailPath": "entities/songs/7d20ba451b842fe0.json"
     },
     {
-      "rank": 6348,
+      "rank": 6349,
       "id": "60ea472dc9a1b4e2",
       "name": "リコレクションエンドロウル",
       "secondary": "",
@@ -2164,7 +2209,7 @@
       "detailPath": "entities/songs/60ea472dc9a1b4e2.json"
     },
     {
-      "rank": 6349,
+      "rank": 6350,
       "id": "43872c117e0074d8",
       "name": "リスキーゲーム",
       "secondary": "WhiteFlame",
@@ -2207,48 +2252,6 @@
         }
       ],
       "detailPath": "entities/songs/43872c117e0074d8.json"
-    },
-    {
-      "rank": 6350,
-      "id": "bb63505aac91a0b4",
-      "name": "リスタート 弾き語り ver.〈Restart〉",
-      "secondary": "うら飯紺汰 1st オリジナル楽曲",
-      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
-      "channelHandle": "@urameshi_conta",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8GQUzSMP26c",
-          "videoTitle": "【 #歌枠 #karaoke 】０時までに！同接１４０人１０分キープ挑戦配信🩵初見様大歓迎❕【うら飯紺汰 #vtuber #vsinger 】",
-          "channelName": "うら飯 紺汰 - Conta Urameshi -",
-          "publishedAt": "2026-09-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8GQUzSMP26c/hqdefault.jpg",
-          "sourcePath": "sources/8G/8GQUzSMP26c.json",
-          "time": "3:34:12",
-          "seconds": 12852,
-          "songTitle": "リスタート 弾き語り ver.〈Restart〉",
-          "artist": "うら飯紺汰 1st オリジナル楽曲"
-        },
-        {
-          "videoId": "k5Dp3NbrI50",
-          "videoTitle": "【 #歌枠 #karaoke 】０時までに！初見様１０人と出会いたい歌枠🩵初コメもさんカウントします❣【うら飯紺汰 #vtuber #vsinger 】",
-          "channelName": "うら飯 紺汰 - Conta Urameshi -",
-          "publishedAt": "2026-09-16T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/k5Dp3NbrI50/hqdefault.jpg",
-          "sourcePath": "sources/k5/k5Dp3NbrI50.json",
-          "time": "3:10:46",
-          "seconds": 11446,
-          "songTitle": "リスタート 弾き語り ver.〈Restart〉",
-          "artist": "うら飯紺汰 1st オリジナル楽曲"
-        }
-      ],
-      "detailPath": "entities/songs/bb63505aac91a0b4.json"
     }
   ]
 }

@@ -1,16 +1,64 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 306,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 15251,
+      "id": "708f6614fc264193",
+      "name": "夢の中へ",
+      "secondary": "井上陽水ｻﾝ",
+      "channelId": "UCnLHUdfjsxzP6nGz5hbbdqg",
+      "channelHandle": "@tadanokaeru",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "OlpyEYGXrrk",
+          "videoTitle": "【歌枠】リクエストOK！ #vtuber #弾き語り",
+          "channelName": "ただのかえる【TADANO KAERU】",
+          "publishedAt": "2026-09-23T14:14:32.966Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OlpyEYGXrrk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6g8xjefk57Ilu8BgDyQgBWlnfTg",
+          "sourcePath": "sources/Ol/OlpyEYGXrrk.json",
+          "time": "0:16:43",
+          "seconds": 1003,
+          "songTitle": "夢の中へ",
+          "artist": "井上陽水ｻﾝ"
+        },
+        {
+          "videoId": "Jg8A90Ke2f8",
+          "videoTitle": "【#歌枠 #弾き語り 】1時間くらい #vtuber",
+          "channelName": "ただのかえる【TADANO KAERU】",
+          "publishedAt": "2026-07-23T14:09:05.883Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Jg8A90Ke2f8/hqdefault.jpg",
+          "sourcePath": "sources/Jg/Jg8A90Ke2f8.json",
+          "time": "0:08:41",
+          "seconds": 521,
+          "songTitle": "夢の中へ",
+          "artist": "井上陽水ｻﾝ"
+        }
+      ],
+      "detailPath": "entities/songs/708f6614fc264193.json"
+    },
+    {
+      "rank": 15252,
       "id": "72178c030ae3d291",
       "name": "夢の途中 -セーラー服と機関銃",
       "secondary": "来生たかお",
@@ -58,7 +106,7 @@
       "detailPath": "entities/songs/72178c030ae3d291.json"
     },
     {
-      "rank": 15252,
+      "rank": 15253,
       "id": "017c7bbaca96437b",
       "name": "夢は終わらない",
       "secondary": "よーみ",
@@ -103,7 +151,7 @@
       "detailPath": "entities/songs/017c7bbaca96437b.json"
     },
     {
-      "rank": 15253,
+      "rank": 15254,
       "id": "ed00e6fb510052c5",
       "name": "夢やぶれて",
       "secondary": "レ・ミゼラブル",
@@ -145,7 +193,7 @@
       "detailPath": "entities/songs/ed00e6fb510052c5.json"
     },
     {
-      "rank": 15254,
+      "rank": 15255,
       "id": "33b22772bd0ca9d8",
       "name": "夢をかなえてドラえもん",
       "secondary": "未記載",
@@ -191,7 +239,7 @@
       "detailPath": "entities/songs/33b22772bd0ca9d8.json"
     },
     {
-      "rank": 15255,
+      "rank": 15256,
       "id": "2b7fb5d37e5403aa",
       "name": "夢花火",
       "secondary": "未記載",
@@ -235,7 +283,7 @@
       "detailPath": "entities/songs/2b7fb5d37e5403aa.json"
     },
     {
-      "rank": 15256,
+      "rank": 15257,
       "id": "fe3d0d440ae99986",
       "name": "夢花火",
       "secondary": "萌水団",
@@ -283,7 +331,7 @@
       "detailPath": "entities/songs/fe3d0d440ae99986.json"
     },
     {
-      "rank": 15257,
+      "rank": 15258,
       "id": "f7fdb305b4e9607a",
       "name": "夢見ていよう",
       "secondary": "横山智佐&帝国歌劇団",
@@ -328,7 +376,7 @@
       "detailPath": "entities/songs/f7fdb305b4e9607a.json"
     },
     {
-      "rank": 15258,
+      "rank": 15259,
       "id": "158f215d759eda87",
       "name": "夢見る15歳",
       "secondary": "アンジュルム",
@@ -374,7 +422,7 @@
       "detailPath": "entities/songs/158f215d759eda87.json"
     },
     {
-      "rank": 15259,
+      "rank": 15260,
       "id": "213d09ff84ff73d2",
       "name": "夢見るシャンソン人形",
       "secondary": "弘田三枝子",
@@ -419,7 +467,7 @@
       "detailPath": "entities/songs/213d09ff84ff73d2.json"
     },
     {
-      "rank": 15260,
+      "rank": 15261,
       "id": "2acd76e5582f33eb",
       "name": "夢見るプリマドンナ",
       "secondary": "CUTIE STREET",
@@ -464,7 +512,7 @@
       "detailPath": "entities/songs/2acd76e5582f33eb.json"
     },
     {
-      "rank": 15261,
+      "rank": 15262,
       "id": "20ada3f1abed2b19",
       "name": "夢見る隙間",
       "secondary": "Aiko",
@@ -509,7 +557,7 @@
       "detailPath": "entities/songs/20ada3f1abed2b19.json"
     },
     {
-      "rank": 15262,
+      "rank": 15263,
       "id": "436aa073ae63e759",
       "name": "夢見る少女じゃいられない",
       "secondary": "",
@@ -551,7 +599,7 @@
       "detailPath": "entities/songs/436aa073ae63e759.json"
     },
     {
-      "rank": 15263,
+      "rank": 15264,
       "id": "3641419f3f8300ba",
       "name": "夢見月に何想ふ",
       "secondary": "RADWIMPS",
@@ -597,7 +645,7 @@
       "detailPath": "entities/songs/3641419f3f8300ba.json"
     },
     {
-      "rank": 15264,
+      "rank": 15265,
       "id": "a879b7fd2e52f388",
       "name": "夢幻",
       "secondary": "",
@@ -642,7 +690,7 @@
       "detailPath": "entities/songs/a879b7fd2e52f388.json"
     },
     {
-      "rank": 15265,
+      "rank": 15266,
       "id": "41502361ce1e826a",
       "name": "夢幻",
       "secondary": "MY FIRST STORY",
@@ -687,7 +735,7 @@
       "detailPath": "entities/songs/41502361ce1e826a.json"
     },
     {
-      "rank": 15266,
+      "rank": 15267,
       "id": "49e17ef8f263cef5",
       "name": "夢現クライシス",
       "secondary": "MUZU",
@@ -732,7 +780,7 @@
       "detailPath": "entities/songs/49e17ef8f263cef5.json"
     },
     {
-      "rank": 15267,
+      "rank": 15268,
       "id": "bf030fc4cdfbf30f",
       "name": "夢光年",
       "secondary": "影山ヒロノブ",
@@ -777,7 +825,7 @@
       "detailPath": "entities/songs/bf030fc4cdfbf30f.json"
     },
     {
-      "rank": 15268,
+      "rank": 15269,
       "id": "e0fedab9dd82487d",
       "name": "夢色チェイサー",
       "secondary": "機甲戦記ドラグナー",
@@ -825,7 +873,7 @@
       "detailPath": "entities/songs/e0fedab9dd82487d.json"
     },
     {
-      "rank": 15269,
+      "rank": 15270,
       "id": "db4f80b310d26dd0",
       "name": "夢醒時分",
       "secondary": "陳淑樺",
@@ -872,7 +920,7 @@
       "detailPath": "entities/songs/db4f80b310d26dd0.json"
     },
     {
-      "rank": 15270,
+      "rank": 15271,
       "id": "e4b2ae28ab337357",
       "name": "夢先案内人",
       "secondary": "山口百恵",
@@ -917,7 +965,7 @@
       "detailPath": "entities/songs/e4b2ae28ab337357.json"
     },
     {
-      "rank": 15271,
+      "rank": 15272,
       "id": "c5f0a80aa201f509",
       "name": "夢想時代",
       "secondary": "LAST ALLIANCE",
@@ -964,7 +1012,7 @@
       "detailPath": "entities/songs/c5f0a80aa201f509.json"
     },
     {
-      "rank": 15272,
+      "rank": 15273,
       "id": "ab99bfcee391ffaa",
       "name": "夢地図",
       "secondary": "40mP feat.GUMI",
@@ -1011,7 +1059,7 @@
       "detailPath": "entities/songs/ab99bfcee391ffaa.json"
     },
     {
-      "rank": 15273,
+      "rank": 15274,
       "id": "910b86bb02a48d76",
       "name": "夢地図",
       "secondary": "40mP",
@@ -1056,7 +1104,7 @@
       "detailPath": "entities/songs/910b86bb02a48d76.json"
     },
     {
-      "rank": 15274,
+      "rank": 15275,
       "id": "149664488deb29a8",
       "name": "夢町コントラスト",
       "secondary": "",
@@ -1101,7 +1149,7 @@
       "detailPath": "entities/songs/149664488deb29a8.json"
     },
     {
-      "rank": 15275,
+      "rank": 15276,
       "id": "e8b8eab4ee77051f",
       "name": "夢番地 ~Piano~",
       "secondary": "RADWIMPS",
@@ -1143,7 +1191,7 @@
       "detailPath": "entities/songs/e8b8eab4ee77051f.json"
     },
     {
-      "rank": 15276,
+      "rank": 15277,
       "id": "32b92eb0bd3a76ae",
       "name": "夢遊病者は此岸にて",
       "secondary": "こんにちは谷田さん",
@@ -1188,7 +1236,7 @@
       "detailPath": "entities/songs/32b92eb0bd3a76ae.json"
     },
     {
-      "rank": 15277,
+      "rank": 15278,
       "id": "64da96c98c5ecef5",
       "name": "夢遊病者は此岸にて",
       "secondary": "こんにちは谷田さん(キタニタツヤ)",
@@ -1236,7 +1284,7 @@
       "detailPath": "entities/songs/64da96c98c5ecef5.json"
     },
     {
-      "rank": 15278,
+      "rank": 15279,
       "id": "cc0d084003fa66e8",
       "name": "無形有形",
       "secondary": "田村芽実",
@@ -1285,7 +1333,7 @@
       "detailPath": "entities/songs/cc0d084003fa66e8.json"
     },
     {
-      "rank": 15279,
+      "rank": 15280,
       "id": "1ecf6c1794f15bd4",
       "name": "無線LANばり便利",
       "secondary": "ヤバイTシャツ屋さん",
@@ -1330,7 +1378,7 @@
       "detailPath": "entities/songs/1ecf6c1794f15bd4.json"
     },
     {
-      "rank": 15280,
+      "rank": 15281,
       "id": "ccc37f413d0d7e74",
       "name": "矛盾",
       "secondary": "彩華すゞり",
@@ -1375,7 +1423,7 @@
       "detailPath": "entities/songs/ccc37f413d0d7e74.json"
     },
     {
-      "rank": 15281,
+      "rank": 15282,
       "id": "3a6ee3ff9d11f076",
       "name": "娘々FIRE!! 〜突撃プラネットエクスプロージョン",
       "secondary": "シェリル・ノームstarring May'n、ランカ・リー ＝中島愛、FIRE BOMBER",
@@ -1420,7 +1468,7 @@
       "detailPath": "entities/songs/3a6ee3ff9d11f076.json"
     },
     {
-      "rank": 15282,
+      "rank": 15283,
       "id": "c0162b759579f0f2",
       "name": "名もなき詩",
       "secondary": "",
@@ -1466,7 +1514,7 @@
       "detailPath": "entities/songs/c0162b759579f0f2.json"
     },
     {
-      "rank": 15283,
+      "rank": 15284,
       "id": "1b54a17de3659ce6",
       "name": "名悪役",
       "secondary": "フレデリック",
@@ -1511,7 +1559,7 @@
       "detailPath": "entities/songs/1b54a17de3659ce6.json"
     },
     {
-      "rank": 15284,
+      "rank": 15285,
       "id": "f1de17c26b1cbdda",
       "name": "名古屋なも",
       "secondary": "",
@@ -1553,7 +1601,7 @@
       "detailPath": "entities/songs/f1de17c26b1cbdda.json"
     },
     {
-      "rank": 15285,
+      "rank": 15286,
       "id": "ffeb5ef10196f848",
       "name": "名前のない怪物",
       "secondary": "EGOIST（PSYCHO-PASS ED）",
@@ -1598,7 +1646,7 @@
       "detailPath": "entities/songs/ffeb5ef10196f848.json"
     },
     {
-      "rank": 15286,
+      "rank": 15287,
       "id": "e4c0b243825a710c",
       "name": "名前のない怪物",
       "secondary": "EGOIST(ryo)",
@@ -1645,7 +1693,7 @@
       "detailPath": "entities/songs/e4c0b243825a710c.json"
     },
     {
-      "rank": 15287,
+      "rank": 15288,
       "id": "d1e3a883bb8a0c11",
       "name": "名前のない怪物",
       "secondary": "EGOIST(EGOIST)",
@@ -1690,7 +1738,7 @@
       "detailPath": "entities/songs/d1e3a883bb8a0c11.json"
     },
     {
-      "rank": 15288,
+      "rank": 15289,
       "id": "a382b04091febd4e",
       "name": "名前のない怪物 EGOIST",
       "secondary": "",
@@ -1735,7 +1783,7 @@
       "detailPath": "entities/songs/a382b04091febd4e.json"
     },
     {
-      "rank": 15289,
+      "rank": 15290,
       "id": "4609633ba13a9ac6",
       "name": "名前のない空を見上げて",
       "secondary": "MISIA",
@@ -1782,7 +1830,7 @@
       "detailPath": "entities/songs/4609633ba13a9ac6.json"
     },
     {
-      "rank": 15290,
+      "rank": 15291,
       "id": "d18bfa4e7a306246",
       "name": "名前を呼ぶよ",
       "secondary": "ラックライフ",
@@ -1827,7 +1875,7 @@
       "detailPath": "entities/songs/d18bfa4e7a306246.json"
     },
     {
-      "rank": 15291,
+      "rank": 15292,
       "id": "3a7a8e91d7a7e56a",
       "name": "命ばっかり",
       "secondary": "未記載",
@@ -1873,7 +1921,7 @@
       "detailPath": "entities/songs/3a7a8e91d7a7e56a.json"
     },
     {
-      "rank": 15292,
+      "rank": 15293,
       "id": "4bd1e0353d6eaed1",
       "name": "明け星",
       "secondary": "",
@@ -1918,7 +1966,7 @@
       "detailPath": "entities/songs/4bd1e0353d6eaed1.json"
     },
     {
-      "rank": 15293,
+      "rank": 15294,
       "id": "30e190a9b4fda7bd",
       "name": "明け星",
       "secondary": "レモネードファクトリー",
@@ -1963,7 +2011,7 @@
       "detailPath": "entities/songs/30e190a9b4fda7bd.json"
     },
     {
-      "rank": 15294,
+      "rank": 15295,
       "id": "4c6cd6c284184033",
       "name": "明日があるさ",
       "secondary": "ウルフルズ",
@@ -2008,7 +2056,7 @@
       "detailPath": "entities/songs/4c6cd6c284184033.json"
     },
     {
-      "rank": 15295,
+      "rank": 15296,
       "id": "04669ac97d4b56e5",
       "name": "明日の記憶",
       "secondary": "嵐",
@@ -2050,7 +2098,7 @@
       "detailPath": "entities/songs/04669ac97d4b56e5.json"
     },
     {
-      "rank": 15296,
+      "rank": 15297,
       "id": "6052e897a966ed2e",
       "name": "明日の景色",
       "secondary": "Kalafina",
@@ -2098,7 +2146,7 @@
       "detailPath": "entities/songs/6052e897a966ed2e.json"
     },
     {
-      "rank": 15297,
+      "rank": 15298,
       "id": "c2c460f4f95d6b01",
       "name": "明日の私に幸あれ",
       "secondary": "未記載",
@@ -2143,7 +2191,7 @@
       "detailPath": "entities/songs/c2c460f4f95d6b01.json"
     },
     {
-      "rank": 15298,
+      "rank": 15299,
       "id": "38cd0abb8dc4c5f2",
       "name": "明日への手紙 piano ver",
       "secondary": "手嶌葵",
@@ -2189,7 +2237,7 @@
       "detailPath": "entities/songs/38cd0abb8dc4c5f2.json"
     },
     {
-      "rank": 15299,
+      "rank": 15300,
       "id": "af978ac611931669",
       "name": "明日への扉",
       "secondary": "未記載",
@@ -2233,51 +2281,6 @@
         }
       ],
       "detailPath": "entities/songs/af978ac611931669.json"
-    },
-    {
-      "rank": 15300,
-      "id": "04a2898665244c51",
-      "name": "明日も",
-      "secondary": "未記載",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "CaXlKc-XKQ0",
-          "videoTitle": "【歌枠/Singing】ライブ前日の宴。【 獅子神レオナ/Re:AcT】",
-          "channelName": "獅子神レオナ/レオナちゃんねる",
-          "publishedAt": "2026-07-11T12:27:12.580Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/CaXlKc-XKQ0/hqdefault.jpg",
-          "sourcePath": "sources/Ca/CaXlKc-XKQ0.json",
-          "time": "1:49:27",
-          "seconds": 6567,
-          "songTitle": "明日も",
-          "artist": "未記載"
-        },
-        {
-          "videoId": "pVNZdov-qo0",
-          "videoTitle": "【#歌枠】歌いたい！！歌いたいのがる！！！【#新人vtuber 】【かいじゅうのこがるる】",
-          "channelName": "かいじゅうのこ がるる",
-          "publishedAt": "2026-07-10T16:13:39.035Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pVNZdov-qo0/hqdefault.jpg",
-          "sourcePath": "sources/pV/pVNZdov-qo0.json",
-          "time": "0:51:32",
-          "seconds": 3092,
-          "songTitle": "明日も",
-          "artist": "未記載"
-        }
-      ],
-      "detailPath": "entities/songs/04a2898665244c51.json"
     }
   ]
 }

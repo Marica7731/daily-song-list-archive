@@ -1,16 +1,80 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 761,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 38001,
+      "id": "4d1ff7b26cb5ceda",
+      "name": "フリージア／Uru／アニメ『機動戦士ガンダム 鉄血のオルフェンズ』ED／2017/02",
+      "secondary": "15",
+      "channelId": "UCT5fUg1KHzGbCGhKDGyLY6w",
+      "channelHandle": "@%E7%B6%BE%E7%80%AC%E6%A1%9C",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "w8S3Jioc6f8",
+          "videoTitle": "🌸#歌枠 🎤優しさと元気を紡ぐ夜🎶初見様歓迎✨LUMINOUS VOICE【女性VTuber／綾瀬桜】#karaoke",
+          "channelName": "綾瀬 桜",
+          "publishedAt": "2026-09-06T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w8S3Jioc6f8/hqdefault.jpg",
+          "sourcePath": "sources/w8/w8S3Jioc6f8.json",
+          "time": "2:50:18",
+          "seconds": 10218,
+          "songTitle": "フリージア／Uru／アニメ『機動戦士ガンダム 鉄血のオルフェンズ』ED／2017/02",
+          "artist": "15"
+        }
+      ],
+      "detailPath": "entities/songs/4d1ff7b26cb5ceda.json"
+    },
+    {
+      "rank": 38002,
+      "id": "b1b9e41b77d8496b",
+      "name": "フリージアの少年",
+      "secondary": "志賀真理子",
+      "channelId": "UCO4blswUnk1SHD1VmFXzB0A",
+      "channelHandle": "@aroma_ongaku",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "u8Nr1mq6B8M",
+          "videoTitle": "【 #歌枠 ⋮ 元メジャー歌手Vtuber 】七夕情人節浪漫特輯｜鄧麗君(テレサ・テン)様名曲連發 ( English / 繁體中文 / Español / 한국어 Lyrics )",
+          "channelName": "Aromaの音楽",
+          "publishedAt": "2026-08-19T18:59:06.297Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/u8Nr1mq6B8M/hqdefault.jpg",
+          "sourcePath": "sources/u8/u8Nr1mq6B8M.json",
+          "time": "2:57:00",
+          "seconds": 10620,
+          "songTitle": "フリージアの少年",
+          "artist": "志賀真理子"
+        }
+      ],
+      "detailPath": "entities/songs/b1b9e41b77d8496b.json"
+    },
+    {
+      "rank": 38003,
       "id": "dc28ef01bb3a8e2d",
       "name": "プリーズ",
       "secondary": "メガテラ・ゼロ",
@@ -43,7 +107,7 @@
       "detailPath": "entities/songs/dc28ef01bb3a8e2d.json"
     },
     {
-      "rank": 38002,
+      "rank": 38004,
       "id": "f30143a1f2d83a8a",
       "name": "フリィダム ロリィタ",
       "secondary": "ネジ式",
@@ -77,7 +141,7 @@
       "detailPath": "entities/songs/f30143a1f2d83a8a.json"
     },
     {
-      "rank": 38003,
+      "rank": 38005,
       "id": "a16284edcc7d609b",
       "name": "フリィダムロリィタ",
       "secondary": "",
@@ -110,7 +174,7 @@
       "detailPath": "entities/songs/a16284edcc7d609b.json"
     },
     {
-      "rank": 38004,
+      "rank": 38006,
       "id": "80750349d2a96253",
       "name": "ブリキノダンス",
       "secondary": "初音ミク（日向電工）",
@@ -143,7 +207,7 @@
       "detailPath": "entities/songs/80750349d2a96253.json"
     },
     {
-      "rank": 38005,
+      "rank": 38007,
       "id": "a569e751206808d4",
       "name": "ブリキノダンス",
       "secondary": "未記載",
@@ -177,7 +241,7 @@
       "detailPath": "entities/songs/a569e751206808d4.json"
     },
     {
-      "rank": 38006,
+      "rank": 38008,
       "id": "8138a819853139b9",
       "name": "ブリキノダンス",
       "secondary": "日向電工 feat.初音ミク（2023年）",
@@ -211,7 +275,7 @@
       "detailPath": "entities/songs/8138a819853139b9.json"
     },
     {
-      "rank": 38007,
+      "rank": 38009,
       "id": "c838f2a81c46f73b",
       "name": "ブリキノダンス",
       "secondary": "日向電工(1番のみ)",
@@ -244,7 +308,7 @@
       "detailPath": "entities/songs/c838f2a81c46f73b.json"
     },
     {
-      "rank": 38008,
+      "rank": 38010,
       "id": "4c4b6f2cde60bea0",
       "name": "ブリキノダンス",
       "secondary": "日向電工 ※JOYSOUND",
@@ -277,7 +341,7 @@
       "detailPath": "entities/songs/4c4b6f2cde60bea0.json"
     },
     {
-      "rank": 38009,
+      "rank": 38011,
       "id": "1d140269981073f6",
       "name": "ブリキのダンス",
       "secondary": "日向電工",
@@ -310,7 +374,7 @@
       "detailPath": "entities/songs/1d140269981073f6.json"
     },
     {
-      "rank": 38010,
+      "rank": 38012,
       "id": "b386b0a3dfacfcc0",
       "name": "ブリキノダンス",
       "secondary": "2番辺りからボロボロ",
@@ -343,7 +407,7 @@
       "detailPath": "entities/songs/b386b0a3dfacfcc0.json"
     },
     {
-      "rank": 38011,
+      "rank": 38013,
       "id": "c7bb36daf6ff5e80",
       "name": "ブリキノダンス",
       "secondary": "蜜くん",
@@ -376,7 +440,7 @@
       "detailPath": "entities/songs/c7bb36daf6ff5e80.json"
     },
     {
-      "rank": 38012,
+      "rank": 38014,
       "id": "8ac51ead17a8eb50",
       "name": "ブリキノダンス・Buriki no Dance",
       "secondary": "日向電工",
@@ -409,7 +473,7 @@
       "detailPath": "entities/songs/8ac51ead17a8eb50.json"
     },
     {
-      "rank": 38013,
+      "rank": 38015,
       "id": "76dd8c477e0b1e62",
       "name": "ブリキノダンス（ピアノ）",
       "secondary": "日向電工",
@@ -442,7 +506,7 @@
       "detailPath": "entities/songs/76dd8c477e0b1e62.json"
     },
     {
-      "rank": 38014,
+      "rank": 38016,
       "id": "55557d0f7a4d2021",
       "name": "プリキュア・メモリ",
       "secondary": "吉田仁美 / ハピネスチャージプリキュア!",
@@ -475,7 +539,7 @@
       "detailPath": "entities/songs/55557d0f7a4d2021.json"
     },
     {
-      "rank": 38015,
+      "rank": 38017,
       "id": "12cf8b1507fb21d3",
       "name": "プリキュア・メモリ",
       "secondary": "吉田仁美",
@@ -508,7 +572,7 @@
       "detailPath": "entities/songs/12cf8b1507fb21d3.json"
     },
     {
-      "rank": 38016,
+      "rank": 38018,
       "id": "85d6287117e087c5",
       "name": "プリキュア5、スマイル go go!",
       "secondary": "工藤真由の曲",
@@ -541,7 +605,7 @@
       "detailPath": "entities/songs/85d6287117e087c5.json"
     },
     {
-      "rank": 38017,
+      "rank": 38019,
       "id": "6bf3ce8843713395",
       "name": "プリキュア5、スマイル go go!",
       "secondary": "工藤真由 / Yes！プリキュア5GoGo！",
@@ -574,7 +638,7 @@
       "detailPath": "entities/songs/6bf3ce8843713395.json"
     },
     {
-      "rank": 38018,
+      "rank": 38020,
       "id": "fbba1d517ae7c144",
       "name": "プリキュア5、スマイル go go!(Yes!プリキュア5)",
       "secondary": "工藤真由",
@@ -607,7 +671,7 @@
       "detailPath": "entities/songs/fbba1d517ae7c144.json"
     },
     {
-      "rank": 38019,
+      "rank": 38021,
       "id": "76bfce62ba5151c7",
       "name": "プリキュア5、スマイルgogo!",
       "secondary": "工藤真由 （J)（ラスト！）",
@@ -640,7 +704,7 @@
       "detailPath": "entities/songs/76bfce62ba5151c7.json"
     },
     {
-      "rank": 38020,
+      "rank": 38022,
       "id": "4025de371dd5fe4f",
       "name": "プリキュア5、フル・スロットル GO GO!",
       "secondary": "工藤真由 with ぷりきゅあ5 / Yes！プリキュア5GoGo！",
@@ -673,7 +737,7 @@
       "detailPath": "entities/songs/4025de371dd5fe4f.json"
     },
     {
-      "rank": 38021,
+      "rank": 38023,
       "id": "2f23ce5fc9422831",
       "name": "プリキュア5、フル・スロットル GO GO!",
       "secondary": "工藤真由 with ぷりきゅあ5 (2008年)",
@@ -706,7 +770,7 @@
       "detailPath": "entities/songs/2f23ce5fc9422831.json"
     },
     {
-      "rank": 38022,
+      "rank": 38024,
       "id": "8ad70bc67c266307",
       "name": "プリキュアの話は・・・ やめておこう",
       "secondary": "",
@@ -739,7 +803,7 @@
       "detailPath": "entities/songs/8ad70bc67c266307.json"
     },
     {
-      "rank": 38023,
+      "rank": 38025,
       "id": "d6716fccdcfec7bf",
       "name": "ぷりきゅきゅ",
       "secondary": "CUTIE STREET",
@@ -773,7 +837,7 @@
       "detailPath": "entities/songs/d6716fccdcfec7bf.json"
     },
     {
-      "rank": 38024,
+      "rank": 38026,
       "id": "5ef6bd5f2045545e",
       "name": "プリザーブド・ローゼズ",
       "secondary": "T.M.Revolution feat. 水樹奈々",
@@ -806,7 +870,7 @@
       "detailPath": "entities/songs/5ef6bd5f2045545e.json"
     },
     {
-      "rank": 38025,
+      "rank": 38027,
       "id": "d193d753d5086349",
       "name": "プリズム",
       "secondary": "花野彩晴",
@@ -839,7 +903,7 @@
       "detailPath": "entities/songs/d193d753d5086349.json"
     },
     {
-      "rank": 38026,
+      "rank": 38028,
       "id": "d9ac644e55683f15",
       "name": "プリズム",
       "secondary": "『電脳コイル』",
@@ -873,7 +937,7 @@
       "detailPath": "entities/songs/d9ac644e55683f15.json"
     },
     {
-      "rank": 38027,
+      "rank": 38029,
       "id": "5bbf089f3a20ce74",
       "name": "プリズム・Prism",
       "secondary": "池田綾子",
@@ -906,7 +970,7 @@
       "detailPath": "entities/songs/5bbf089f3a20ce74.json"
     },
     {
-      "rank": 38028,
+      "rank": 38030,
       "id": "049eb58c859a673c",
       "name": "プリズムの魔法",
       "secondary": "古石ビジュー",
@@ -939,7 +1003,7 @@
       "detailPath": "entities/songs/049eb58c859a673c.json"
     },
     {
-      "rank": 38029,
+      "rank": 38031,
       "id": "49fe7eba80b872f1",
       "name": "フリップ フロップ",
       "secondary": "豊崎愛生",
@@ -973,7 +1037,7 @@
       "detailPath": "entities/songs/49fe7eba80b872f1.json"
     },
     {
-      "rank": 38030,
+      "rank": 38032,
       "id": "7a301d8a52715f97",
       "name": "フリップミナス",
       "secondary": "",
@@ -1006,7 +1070,7 @@
       "detailPath": "entities/songs/7a301d8a52715f97.json"
     },
     {
-      "rank": 38031,
+      "rank": 38033,
       "id": "bf8bd5ccdc81020e",
       "name": "ぶりっ子妃玖",
       "secondary": "",
@@ -1036,7 +1100,7 @@
       "detailPath": "entities/songs/bf8bd5ccdc81020e.json"
     },
     {
-      "rank": 38032,
+      "rank": 38034,
       "id": "04ee97687b2a541e",
       "name": "プリティ・ケーキ・マジック",
       "secondary": "Kaede+Cheek Fairy ミルモでポン！より",
@@ -1066,7 +1130,7 @@
       "detailPath": "entities/songs/04ee97687b2a541e.json"
     },
     {
-      "rank": 38033,
+      "rank": 38035,
       "id": "ffbd110f86e7a184",
       "name": "プリティーケーキマジック",
       "secondary": "",
@@ -1096,7 +1160,7 @@
       "detailPath": "entities/songs/ffbd110f86e7a184.json"
     },
     {
-      "rank": 38034,
+      "rank": 38036,
       "id": "1d2da49e87417073",
       "name": "プリパラOPメドレー",
       "secondary": "i☆Ris",
@@ -1129,7 +1193,7 @@
       "detailPath": "entities/songs/1d2da49e87417073.json"
     },
     {
-      "rank": 38035,
+      "rank": 38037,
       "id": "749aec605e05b109",
       "name": "プリムラの食べ方",
       "secondary": "春野",
@@ -1162,7 +1226,7 @@
       "detailPath": "entities/songs/749aec605e05b109.json"
     },
     {
-      "rank": 38036,
+      "rank": 38038,
       "id": "4b7ed15287b9bdef",
       "name": "プリンセス・マーガレット",
       "secondary": "LILIUM-リリウム 少女純潔歌劇",
@@ -1192,7 +1256,7 @@
       "detailPath": "entities/songs/4b7ed15287b9bdef.json"
     },
     {
-      "rank": 38037,
+      "rank": 38039,
       "id": "95e7a5f1a667dbe3",
       "name": "プリンセスはあきらめない",
       "secondary": "FLIP FLAP ※JOYSOUND",
@@ -1225,7 +1289,7 @@
       "detailPath": "entities/songs/95e7a5f1a667dbe3.json"
     },
     {
-      "rank": 38038,
+      "rank": 38040,
       "id": "902775428c3f21cb",
       "name": "プリンセスラバー!",
       "secondary": "橋本みゆき",
@@ -1258,7 +1322,7 @@
       "detailPath": "entities/songs/902775428c3f21cb.json"
     },
     {
-      "rank": 38039,
+      "rank": 38041,
       "id": "b04caa094a6e70fe",
       "name": "プリンとマフィンのポムポムビート",
       "secondary": "ポムポムプリン",
@@ -1291,7 +1355,7 @@
       "detailPath": "entities/songs/b04caa094a6e70fe.json"
     },
     {
-      "rank": 38040,
+      "rank": 38042,
       "id": "554b9e4c413ad59a",
       "name": "プリンとマフィンのポムポムビート☆",
       "secondary": "ポムポムプリン(ソフィ弾き語り🎸)",
@@ -1325,7 +1389,7 @@
       "detailPath": "entities/songs/554b9e4c413ad59a.json"
     },
     {
-      "rank": 38041,
+      "rank": 38043,
       "id": "ae907418bb32b142",
       "name": "プリン賛歌",
       "secondary": "",
@@ -1358,7 +1422,7 @@
       "detailPath": "entities/songs/ae907418bb32b142.json"
     },
     {
-      "rank": 38042,
+      "rank": 38044,
       "id": "9dd3ba8a534f9050",
       "name": "ぶる〜べりぃ♡とれいん",
       "secondary": "未記載",
@@ -1391,7 +1455,7 @@
       "detailPath": "entities/songs/9dd3ba8a534f9050.json"
     },
     {
-      "rank": 38043,
+      "rank": 38045,
       "id": "12b5b9901cab0ff4",
       "name": "ぶる～べりぃ♡とれいん",
       "secondary": "南ことり（内田彩） (2012)（ラブライブ！School idol project）",
@@ -1421,7 +1485,7 @@
       "detailPath": "entities/songs/12b5b9901cab0ff4.json"
     },
     {
-      "rank": 38044,
+      "rank": 38046,
       "id": "bc48cb71219c0b67",
       "name": "ブルアンバー",
       "secondary": "back numberｻﾝ",
@@ -1453,7 +1517,7 @@
       "detailPath": "entities/songs/bc48cb71219c0b67.json"
     },
     {
-      "rank": 38045,
+      "rank": 38047,
       "id": "446c0a918bea3045",
       "name": "ブルー・マンデイ",
       "secondary": "みなとん。",
@@ -1486,7 +1550,7 @@
       "detailPath": "entities/songs/446c0a918bea3045.json"
     },
     {
-      "rank": 38046,
+      "rank": 38048,
       "id": "cfde791f9888c844",
       "name": "ブルーアンバー",
       "secondary": "back number (サビのみ・アカペラ)",
@@ -1519,7 +1583,7 @@
       "detailPath": "entities/songs/cfde791f9888c844.json"
     },
     {
-      "rank": 38047,
+      "rank": 38049,
       "id": "f3606fd3a8cc3a1b",
       "name": "ブルーアンバー",
       "secondary": "backnumber (1コーラス)",
@@ -1552,7 +1616,7 @@
       "detailPath": "entities/songs/f3606fd3a8cc3a1b.json"
     },
     {
-      "rank": 38048,
+      "rank": 38050,
       "id": "98e62a1dffd9a112",
       "name": "ブルーアンバー",
       "secondary": "",
@@ -1580,73 +1644,6 @@
         }
       ],
       "detailPath": "entities/songs/98e62a1dffd9a112.json"
-    },
-    {
-      "rank": 38049,
-      "id": "c7762de60e44a2ce",
-      "name": "ブルーアンバー",
-      "secondary": "back numberｻﾝ",
-      "channelId": "UCnLHUdfjsxzP6nGz5hbbdqg",
-      "channelHandle": "@tadanokaeru",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "d39s_WrarjQ",
-          "videoTitle": "【歌枠】弾き語りまったり歌枠・騒がしくない配信をお探しの方を待っています【VTuber】",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-10-04T14:13:27.298Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/d39s_WrarjQ/hqdefault.jpg",
-          "sourcePath": "sources/d3/d39s_WrarjQ.json",
-          "time": "0:20:01",
-          "seconds": 1201,
-          "songTitle": "ブルーアンバー",
-          "artist": "back numberｻﾝ"
-        }
-      ],
-      "detailPath": "entities/songs/c7762de60e44a2ce.json"
-    },
-    {
-      "rank": 38050,
-      "id": "d96c5d5539ddb62a",
-      "name": "ブルーウォーター",
-      "secondary": "『ふしぎの海のナディア』森川美穂",
-      "channelId": "UCDqn3HdMA5zwlYvsQ1YSG4Q",
-      "channelHandle": "@HoshiHo_HsH",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "VKcR0ayIysk",
-          "videoTitle": "【#歌枠/KARAOKE】Vack-ON!! CROSS REALITYの振り返りなど～✨歌枠雑談配信 /Singing Stream【HoshiHo/#Vsinger】",
-          "channelName": "HoshiHo",
-          "publishedAt": "2026-08-01T20:41:18.628Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VKcR0ayIysk/hqdefault.jpg",
-          "sourcePath": "sources/VK/VKcR0ayIysk.json",
-          "time": "4:39:10",
-          "seconds": 16750,
-          "songTitle": "ブルーウォーター",
-          "artist": "『ふしぎの海のナディア』森川美穂"
-        }
-      ],
-      "detailPath": "entities/songs/d96c5d5539ddb62a.json"
     }
   ]
 }

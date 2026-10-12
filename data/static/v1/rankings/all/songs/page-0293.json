@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 293,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1654,6 +1654,51 @@
     },
     {
       "rank": 14637,
+      "id": "f9ccb67923714ac4",
+      "name": "星めぐりの歌",
+      "secondary": "宮沢賢治",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "lF7s2vmVyRw",
+          "videoTitle": "【#歌枠】初見さん歓迎！バラード中心に落ち着いて歌う日🌺【#メーレv 】",
+          "channelName": "メーレ-mele-",
+          "publishedAt": "2026-10-04T14:52:02.378Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/lF7s2vmVyRw/hqdefault.jpg",
+          "sourcePath": "sources/lF/lF7s2vmVyRw.json",
+          "time": "0:57:11",
+          "seconds": 3431,
+          "songTitle": "星めぐりの歌",
+          "artist": "宮沢賢治"
+        },
+        {
+          "videoId": "CUBugq3Sqtc",
+          "videoTitle": "【歌枠】寝る前に聴くとちょっと平和になるで/初見◎ROM◎/#vtuber 【#冬香花雪那",
+          "channelName": "冬香花雪那 Se2na",
+          "publishedAt": "2026-08-30T15:53:07.902Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CUBugq3Sqtc/hqdefault.jpg",
+          "sourcePath": "sources/CU/CUBugq3Sqtc.json",
+          "time": "0:30:28",
+          "seconds": 1828,
+          "songTitle": "星めぐりの歌",
+          "artist": "宮沢賢治"
+        }
+      ],
+      "detailPath": "entities/songs/f9ccb67923714ac4.json"
+    },
+    {
+      "rank": 14638,
       "id": "59188f93d2307408",
       "name": "星を編む",
       "secondary": "seiza",
@@ -1701,7 +1746,7 @@
       "detailPath": "entities/songs/59188f93d2307408.json"
     },
     {
-      "rank": 14638,
+      "rank": 14639,
       "id": "6543999d6002715f",
       "name": "星間飛行",
       "secondary": "ランカ・リー=中島愛 ※JOYSOUND",
@@ -1749,7 +1794,7 @@
       "detailPath": "entities/songs/6543999d6002715f.json"
     },
     {
-      "rank": 14639,
+      "rank": 14640,
       "id": "b1074b80dc695e30",
       "name": "星間飛行〈Seikan Hikou〉",
       "secondary": "ランカ・リー（cv:中島愛）",
@@ -1797,7 +1842,7 @@
       "detailPath": "entities/songs/b1074b80dc695e30.json"
     },
     {
-      "rank": 14640,
+      "rank": 14641,
       "id": "4ba520a9e26483d7",
       "name": "星空のBelieve",
       "secondary": "鮎川麻弥",
@@ -1839,7 +1884,7 @@
       "detailPath": "entities/songs/4ba520a9e26483d7.json"
     },
     {
-      "rank": 14641,
+      "rank": 14642,
       "id": "88a9dc5383df9d11",
       "name": "星空のワルツ",
       "secondary": "栗林みな実",
@@ -1884,7 +1929,7 @@
       "detailPath": "entities/songs/88a9dc5383df9d11.json"
     },
     {
-      "rank": 14642,
+      "rank": 14643,
       "id": "253e084af0da67a5",
       "name": "星空へ架かる橋",
       "secondary": "のみこ",
@@ -1929,7 +1974,7 @@
       "detailPath": "entities/songs/253e084af0da67a5.json"
     },
     {
-      "rank": 14643,
+      "rank": 14644,
       "id": "599ff6097d2aa0c1",
       "name": "星屑のインターリュード",
       "secondary": "fhána",
@@ -1977,7 +2022,7 @@
       "detailPath": "entities/songs/599ff6097d2aa0c1.json"
     },
     {
-      "rank": 14644,
+      "rank": 14645,
       "id": "924c6ffc682ed147",
       "name": "星屑のインターリュード",
       "secondary": "fhana",
@@ -2025,7 +2070,7 @@
       "detailPath": "entities/songs/924c6ffc682ed147.json"
     },
     {
-      "rank": 14645,
+      "rank": 14646,
       "id": "72a3fc7dea92372e",
       "name": "星降る海",
       "secondary": "Aqua3ra，月見ヤチヨ(早見沙織)",
@@ -2069,7 +2114,7 @@
       "detailPath": "entities/songs/72a3fc7dea92372e.json"
     },
     {
-      "rank": 14646,
+      "rank": 14647,
       "id": "da005a0001400e39",
       "name": "星降る海",
       "secondary": "Aqu3ra feat.月見ヤチヨ",
@@ -2114,7 +2159,7 @@
       "detailPath": "entities/songs/da005a0001400e39.json"
     },
     {
-      "rank": 14647,
+      "rank": 14648,
       "id": "203b1fb38b1938e3",
       "name": "星降る海",
       "secondary": "Aqu3ra 月見ヤチヨ(cv.早見沙織) from 超かぐや姫！",
@@ -2159,7 +2204,7 @@
       "detailPath": "entities/songs/203b1fb38b1938e3.json"
     },
     {
-      "rank": 14648,
+      "rank": 14649,
       "id": "c0c2da3503034742",
       "name": "星降る海 – Aqu3ra",
       "secondary": "月見ヤチヨ(cv.早見沙織) from 超かぐや姫！",
@@ -2207,7 +2252,7 @@
       "detailPath": "entities/songs/c0c2da3503034742.json"
     },
     {
-      "rank": 14649,
+      "rank": 14650,
       "id": "dafba0eed51e8ded",
       "name": "星降る海／Aqu3ra",
       "secondary": "月見ヤチヨ(cv.早見沙織)",
@@ -2250,51 +2295,6 @@
         }
       ],
       "detailPath": "entities/songs/dafba0eed51e8ded.json"
-    },
-    {
-      "rank": 14650,
-      "id": "8cb2fdcfa8fcbd36",
-      "name": "星座になれたら",
-      "secondary": "結束バンド (2022)（ぼっち・ざ・ろっく！）",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "HHua4WDa3qA",
-          "videoTitle": "〘 #歌枠 〙チケット販売最終日！ワンマンまであと2日！完売目標🐦初見さんも大歓迎💙 karaoke / singing stream〘 百瑠璃せいらん / #Vtuber 〙",
-          "channelName": "百瑠璃せいらん / MomoruriSeiran CH.",
-          "publishedAt": "2026-10-09T13:21:04.054Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/HHua4WDa3qA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPp0RgJPKfWhu6RuRfUtRM98HPjg",
-          "sourcePath": "sources/HH/HHua4WDa3qA.json",
-          "time": "0:54:01",
-          "seconds": 3241,
-          "songTitle": "星座になれたら",
-          "artist": "結束バンド (2022)（ぼっち・ざ・ろっく！）"
-        },
-        {
-          "videoId": "_KvxIzIvBa4",
-          "videoTitle": "〘 #歌枠 〙ワンマンライブ動員100名目指してます🐦チケット3枚目標で歌う💙 karaoke / singing stream〘 百瑠璃せいらん / #Vtuber 〙",
-          "channelName": "百瑠璃せいらん / MomoruriSeiran CH.",
-          "publishedAt": "2026-09-10T13:22:02.073Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_KvxIzIvBa4/hqdefault.jpg",
-          "sourcePath": "sources/_K/_KvxIzIvBa4.json",
-          "time": "2:17:35",
-          "seconds": 8255,
-          "songTitle": "星座になれたら",
-          "artist": "結束バンド (2022)（ぼっち・ざ・ろっく！）"
-        }
-      ],
-      "detailPath": "entities/songs/8cb2fdcfa8fcbd36.json"
     }
   ]
 }

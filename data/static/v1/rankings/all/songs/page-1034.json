@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 1034,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 51651,
+      "id": "309989c2ad3a2c4b",
+      "name": "夕暮れ",
+      "secondary": "THE BLUE HEARTS",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "24knxxOf3MA",
+          "videoTitle": "【歌枠】アコギ弾き語りで連休を締めくくろ～！お知らせもある…！？【猫撫こぜに｜ぶいぱい｜アップランド｜VTuber】",
+          "channelName": "猫撫こぜに / Nekonade Kozeni",
+          "publishedAt": "2026-09-23T11:29:52.418Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/24knxxOf3MA/hqdefault.jpg",
+          "sourcePath": "sources/24/24knxxOf3MA.json",
+          "time": "0:52:27",
+          "seconds": 3147,
+          "songTitle": "夕暮れ",
+          "artist": "THE BLUE HEARTS"
+        }
+      ],
+      "detailPath": "entities/songs/309989c2ad3a2c4b.json"
+    },
+    {
+      "rank": 51652,
+      "id": "60db473b9765f09f",
+      "name": "夕暮れジェットソン",
+      "secondary": "ぽてんしゃる0",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vJSHy7YlBiY",
+          "videoTitle": "【#歌枠 】げりら【 #vtuber /おうるない】",
+          "channelName": "おうるない‐Boogie owl‐",
+          "publishedAt": "2026-09-07T11:22:13.501Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vJSHy7YlBiY/hqdefault.jpg",
+          "sourcePath": "sources/vJ/vJSHy7YlBiY.json",
+          "time": "0:43:39",
+          "seconds": 2619,
+          "songTitle": "夕暮れジェットソン",
+          "artist": "ぽてんしゃる0"
+        }
+      ],
+      "detailPath": "entities/songs/60db473b9765f09f.json"
+    },
+    {
+      "rank": 51653,
       "id": "f57f1ed628423604",
       "name": "夕暮れ時はさびしそう",
       "secondary": "",
@@ -40,7 +106,7 @@
       "detailPath": "entities/songs/f57f1ed628423604.json"
     },
     {
-      "rank": 51652,
+      "rank": 51654,
       "id": "b5cd94b33b3789b4",
       "name": "夕暮れ時は寂しそう",
       "secondary": "NSP",
@@ -70,7 +136,7 @@
       "detailPath": "entities/songs/b5cd94b33b3789b4.json"
     },
     {
-      "rank": 51653,
+      "rank": 51655,
       "id": "eb66dc08b504936e",
       "name": "夕暮れ先生",
       "secondary": "石風呂",
@@ -103,7 +169,7 @@
       "detailPath": "entities/songs/eb66dc08b504936e.json"
     },
     {
-      "rank": 51654,
+      "rank": 51656,
       "id": "27bad06cf8505c8f",
       "name": "夕陽と星空と僕",
       "secondary": "Yūhi to Hoshizora to Boku ポルノグラフィティ / Porno Graffitti",
@@ -136,7 +202,7 @@
       "detailPath": "entities/songs/27bad06cf8505c8f.json"
     },
     {
-      "rank": 51655,
+      "rank": 51657,
       "id": "b7953aafa7268a2e",
       "name": "夕陽を見ているか？",
       "secondary": "AKB48",
@@ -169,7 +235,7 @@
       "detailPath": "entities/songs/b7953aafa7268a2e.json"
     },
     {
-      "rank": 51656,
+      "rank": 51658,
       "id": "ce10fc6422317f56",
       "name": "夕陽之歌",
       "secondary": "梅艷芳",
@@ -202,7 +268,7 @@
       "detailPath": "entities/songs/ce10fc6422317f56.json"
     },
     {
-      "rank": 51657,
+      "rank": 51659,
       "id": "7a780232b31f01a4",
       "name": "夕立ち",
       "secondary": "スガシカオ",
@@ -235,7 +301,7 @@
       "detailPath": "entities/songs/7a780232b31f01a4.json"
     },
     {
-      "rank": 51658,
+      "rank": 51660,
       "id": "18dfca6523c8b5df",
       "name": "夕立ちのリボン",
       "secondary": "みきとP",
@@ -268,7 +334,7 @@
       "detailPath": "entities/songs/18dfca6523c8b5df.json"
     },
     {
-      "rank": 51659,
+      "rank": 51661,
       "id": "1d002e4495540c51",
       "name": "夕立のりぼん",
       "secondary": "未記載",
@@ -301,7 +367,7 @@
       "detailPath": "entities/songs/1d002e4495540c51.json"
     },
     {
-      "rank": 51660,
+      "rank": 51662,
       "id": "f41f4585546a89c3",
       "name": "夕立のりぼん",
       "secondary": "みきとP(ボカロP)",
@@ -334,7 +400,7 @@
       "detailPath": "entities/songs/f41f4585546a89c3.json"
     },
     {
-      "rank": 51661,
+      "rank": 51663,
       "id": "49f268f1ad96abd9",
       "name": "夕立のリボン",
       "secondary": "みきとP feat. MAYU",
@@ -364,7 +430,7 @@
       "detailPath": "entities/songs/49f268f1ad96abd9.json"
     },
     {
-      "rank": 51662,
+      "rank": 51664,
       "id": "6ac02a6f387583fb",
       "name": "夕立のりぼん",
       "secondary": "みきとP (MikitoP) ft. MAYU",
@@ -397,7 +463,7 @@
       "detailPath": "entities/songs/6ac02a6f387583fb.json"
     },
     {
-      "rank": 51663,
+      "rank": 51665,
       "id": "198ff9af405d7bc6",
       "name": "夕立のりぽん",
       "secondary": "",
@@ -430,7 +496,7 @@
       "detailPath": "entities/songs/198ff9af405d7bc6.json"
     },
     {
-      "rank": 51664,
+      "rank": 51666,
       "id": "1460d5e576a850e6",
       "name": "予感",
       "secondary": "",
@@ -463,7 +529,7 @@
       "detailPath": "entities/songs/1460d5e576a850e6.json"
     },
     {
-      "rank": 51665,
+      "rank": 51667,
       "id": "87e40ee6f58bacbf",
       "name": "予感",
       "secondary": "とた",
@@ -496,7 +562,7 @@
       "detailPath": "entities/songs/87e40ee6f58bacbf.json"
     },
     {
-      "rank": 51666,
+      "rank": 51668,
       "id": "4d0e67c58c620e5d",
       "name": "予感",
       "secondary": "00:48:07",
@@ -529,7 +595,7 @@
       "detailPath": "entities/songs/4d0e67c58c620e5d.json"
     },
     {
-      "rank": 51667,
+      "rank": 51669,
       "id": "a9d08231c932049f",
       "name": "余花にみとれて",
       "secondary": "未記載",
@@ -563,7 +629,7 @@
       "detailPath": "entities/songs/a9d08231c932049f.json"
     },
     {
-      "rank": 51668,
+      "rank": 51670,
       "id": "b4e48640b39c3478",
       "name": "余花にみとれて",
       "secondary": "25時、ナイトコードで。 (宮守ゆり)",
@@ -596,7 +662,7 @@
       "detailPath": "entities/songs/b4e48640b39c3478.json"
     },
     {
-      "rank": 51669,
+      "rank": 51671,
       "id": "61362aeed135433d",
       "name": "余花にみとれて",
       "secondary": "keeno feat. 初音ミク",
@@ -629,7 +695,7 @@
       "detailPath": "entities/songs/61362aeed135433d.json"
     },
     {
-      "rank": 51670,
+      "rank": 51672,
       "id": "5209d0ab30b198cb",
       "name": "余薫",
       "secondary": "いゔどっと",
@@ -661,7 +727,7 @@
       "detailPath": "entities/songs/5209d0ab30b198cb.json"
     },
     {
-      "rank": 51671,
+      "rank": 51673,
       "id": "b14f92b598d397a8",
       "name": "余計なお世話じゃ(# ﾟДﾟ)ｵｲ",
       "secondary": "",
@@ -694,7 +760,7 @@
       "detailPath": "entities/songs/b14f92b598d397a8.json"
     },
     {
-      "rank": 51672,
+      "rank": 51674,
       "id": "79e51c73c99d2b20",
       "name": "余談ですが10",
       "secondary": "14（10/17のぶいかふぇの3日前）は帝子ちゃんの誕生日",
@@ -724,7 +790,7 @@
       "detailPath": "entities/songs/79e51c73c99d2b20.json"
     },
     {
-      "rank": 51673,
+      "rank": 51675,
       "id": "cd4eddce31a608ed",
       "name": "余命2",
       "secondary": "ピノキオピー",
@@ -757,7 +823,7 @@
       "detailPath": "entities/songs/cd4eddce31a608ed.json"
     },
     {
-      "rank": 51674,
+      "rank": 51676,
       "id": "87b9c35feb298686",
       "name": "余命2 : 30",
       "secondary": "ピノキオピー feat. 初音ミク",
@@ -790,7 +856,7 @@
       "detailPath": "entities/songs/87b9c35feb298686.json"
     },
     {
-      "rank": 51675,
+      "rank": 51677,
       "id": "9350aa6a9aae9e4e",
       "name": "預言Prophecy",
       "secondary": "HOYO-MiX",
@@ -824,7 +890,7 @@
       "detailPath": "entities/songs/9350aa6a9aae9e4e.json"
     },
     {
-      "rank": 51676,
+      "rank": 51678,
       "id": "d4a22b64450ad50b",
       "name": "幼なじみ/友達代",
       "secondary": "兄弟代",
@@ -857,7 +923,7 @@
       "detailPath": "entities/songs/d4a22b64450ad50b.json"
     },
     {
-      "rank": 51677,
+      "rank": 51679,
       "id": "5d21fe40a5608dae",
       "name": "妖",
       "secondary": "シェリル・ノーム starring May'n",
@@ -890,7 +956,7 @@
       "detailPath": "entities/songs/5d21fe40a5608dae.json"
     },
     {
-      "rank": 51678,
+      "rank": 51680,
       "id": "670cf36d6a2d4d26",
       "name": "妖人",
       "secondary": "イトマP",
@@ -920,7 +986,7 @@
       "detailPath": "entities/songs/670cf36d6a2d4d26.json"
     },
     {
-      "rank": 51679,
+      "rank": 51681,
       "id": "d3e7e0d4064499e2",
       "name": "妖精",
       "secondary": "マクロスＦ",
@@ -950,7 +1016,7 @@
       "detailPath": "entities/songs/d3e7e0d4064499e2.json"
     },
     {
-      "rank": 51680,
+      "rank": 51682,
       "id": "d330e22a0a66ce88",
       "name": "妖精",
       "secondary": "May'n",
@@ -983,7 +1049,7 @@
       "detailPath": "entities/songs/d330e22a0a66ce88.json"
     },
     {
-      "rank": 51681,
+      "rank": 51683,
       "id": "ca2f4914e51b7165",
       "name": "容易受傷的女人",
       "secondary": "王菲",
@@ -1016,7 +1082,7 @@
       "detailPath": "entities/songs/ca2f4914e51b7165.json"
     },
     {
-      "rank": 51682,
+      "rank": 51684,
       "id": "731980cbd72a0ff2",
       "name": "容姿端麗な嘘",
       "secondary": "THE ORAL CIGARETTETS",
@@ -1049,7 +1115,7 @@
       "detailPath": "entities/songs/731980cbd72a0ff2.json"
     },
     {
-      "rank": 51683,
+      "rank": 51685,
       "id": "74011b3e7250ac5b",
       "name": "容体急変",
       "secondary": "",
@@ -1082,7 +1148,7 @@
       "detailPath": "entities/songs/74011b3e7250ac5b.json"
     },
     {
-      "rank": 51684,
+      "rank": 51686,
       "id": "f3eb4a225a524a1a",
       "name": "揺れる想い",
       "secondary": "未記載",
@@ -1115,7 +1181,7 @@
       "detailPath": "entities/songs/f3eb4a225a524a1a.json"
     },
     {
-      "rank": 51685,
+      "rank": 51687,
       "id": "c1bbaa0de8e49119",
       "name": "揺れる想い",
       "secondary": "坂井泉水",
@@ -1149,7 +1215,7 @@
       "detailPath": "entities/songs/c1bbaa0de8e49119.json"
     },
     {
-      "rank": 51686,
+      "rank": 51688,
       "id": "604b68234b9ea784",
       "name": "揺れる想い",
       "secondary": "",
@@ -1182,7 +1248,7 @@
       "detailPath": "entities/songs/604b68234b9ea784.json"
     },
     {
-      "rank": 51687,
+      "rank": 51689,
       "id": "4c99e33f60fbe358",
       "name": "揺れる想い／ZARD／1993/05",
       "secondary": "19",
@@ -1212,7 +1278,7 @@
       "detailPath": "entities/songs/4c99e33f60fbe358.json"
     },
     {
-      "rank": 51688,
+      "rank": 51690,
       "id": "21e6fe52a5bab222",
       "name": "擁抱愛",
       "secondary": "鄭欣宜",
@@ -1246,7 +1312,7 @@
       "detailPath": "entities/songs/21e6fe52a5bab222.json"
     },
     {
-      "rank": 51689,
+      "rank": 51691,
       "id": "73c3fd5b3078aa39",
       "name": "楊宗緯 & 張碧晨",
       "secondary": "涼涼（男女音好評）",
@@ -1279,7 +1345,7 @@
       "detailPath": "entities/songs/73c3fd5b3078aa39.json"
     },
     {
-      "rank": 51690,
+      "rank": 51692,
       "id": "9215962f560b87e7",
       "name": "楊丞琳",
       "secondary": "雨愛（沒進到歌）",
@@ -1312,7 +1378,7 @@
       "detailPath": "entities/songs/9215962f560b87e7.json"
     },
     {
-      "rank": 51691,
+      "rank": 51693,
       "id": "1f0e85e43463771c",
       "name": "洋蔥",
       "secondary": "叮噹",
@@ -1345,7 +1411,7 @@
       "detailPath": "entities/songs/1f0e85e43463771c.json"
     },
     {
-      "rank": 51692,
+      "rank": 51694,
       "id": "a1b68545072be658",
       "name": "溶けきれない背景 (裏命・星界)",
       "secondary": "kyiku",
@@ -1379,7 +1445,7 @@
       "detailPath": "entities/songs/a1b68545072be658.json"
     },
     {
-      "rank": 51693,
+      "rank": 51695,
       "id": "cd1084baae38d123",
       "name": "用SWOT分析要唱什麼",
       "secondary": "",
@@ -1412,7 +1478,7 @@
       "detailPath": "entities/songs/cd1084baae38d123.json"
     },
     {
-      "rank": 51694,
+      "rank": 51696,
       "id": "688106765161aeeb",
       "name": "用背脊唱情歌",
       "secondary": "湯令山",
@@ -1445,7 +1511,7 @@
       "detailPath": "entities/songs/688106765161aeeb.json"
     },
     {
-      "rank": 51695,
+      "rank": 51697,
       "id": "e32ac4cc87e01019",
       "name": "羊のような雲はどこまで",
       "secondary": "宗谷いちか",
@@ -1478,7 +1544,7 @@
       "detailPath": "entities/songs/e32ac4cc87e01019.json"
     },
     {
-      "rank": 51696,
+      "rank": 51698,
       "id": "1dbaeed87a4ff29a",
       "name": "羊の見た夢",
       "secondary": "（アニメ曲）",
@@ -1508,7 +1574,7 @@
       "detailPath": "entities/songs/1dbaeed87a4ff29a.json"
     },
     {
-      "rank": 51697,
+      "rank": 51699,
       "id": "fb1e5050e4fb1820",
       "name": "葉子",
       "secondary": "阿桑(娜比)",
@@ -1541,7 +1607,7 @@
       "detailPath": "entities/songs/fb1e5050e4fb1820.json"
     },
     {
-      "rank": 51698,
+      "rank": 51700,
       "id": "b084350becb72a9b",
       "name": "葉子",
       "secondary": "",
@@ -1572,72 +1638,6 @@
         }
       ],
       "detailPath": "entities/songs/b084350becb72a9b.json"
-    },
-    {
-      "rank": 51699,
-      "id": "afaee99d702e3d67",
-      "name": "要求觀眾安可 超級好笑的",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "VKppKUUjXhs",
-          "videoTitle": "【歌枠】我就只是想唱歌而已✧ #初見歓迎【NIPO二步】",
-          "channelName": "Nipo 二步",
-          "publishedAt": "2026-09-11T16:21:06.268Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VKppKUUjXhs/hqdefault.jpg",
-          "sourcePath": "sources/VK/VKppKUUjXhs.json",
-          "time": "1:23:31",
-          "seconds": 5011,
-          "songTitle": "要求觀眾安可 超級好笑的",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/afaee99d702e3d67.json"
-    },
-    {
-      "rank": 51700,
-      "id": "678f492d88d92560",
-      "name": "要多買一條線的原因",
-      "secondary": "時脈訊號",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "soGeBHu7tlY",
-          "videoTitle": "//歌枠// 一個人同時用三支麥克風唱歌?!?!?!?! 太困難了吧 | 賽特珞 Cetro",
-          "channelName": "Cetro Ch. 賽特珞",
-          "publishedAt": "2026-08-26T15:45:22.879Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/soGeBHu7tlY/hqdefault.jpg",
-          "sourcePath": "sources/so/soGeBHu7tlY.json",
-          "time": "0:20:05",
-          "seconds": 1205,
-          "songTitle": "要多買一條線的原因",
-          "artist": "時脈訊號"
-        }
-      ],
-      "detailPath": "entities/songs/678f492d88d92560.json"
     }
   ]
 }

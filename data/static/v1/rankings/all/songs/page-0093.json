@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 93,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4601,
+      "id": "f5778ed6af1755b9",
+      "name": "白線",
+      "secondary": "葛城リーリヤ",
+      "channelId": "UCo4Guh1TZ7lMooLA-Z44IEQ",
+      "channelHandle": "@nekorappii",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "duVXmdHBFH4",
+          "videoTitle": "【#推し前／歌枠リレー】PONはしていないと信じて👀【 #糸街つむぎ 】",
+          "channelName": "糸街 / Itomachi",
+          "publishedAt": "2026-10-12T09:02:17.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/duVXmdHBFH4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDFv2USL0x4tHjNsx0yEsvIhTwwA",
+          "sourcePath": "sources/du/duVXmdHBFH4.json",
+          "time": "0:09:51",
+          "seconds": 591,
+          "songTitle": "白線",
+          "artist": "葛城リーリヤ"
+        },
+        {
+          "videoId": "uJ4LUYB65gw",
+          "videoTitle": "【#歌枠】初見さんも１曲きいていきませんかっ【＃karaoke #ドドドメテオ #VTuber】",
+          "channelName": "ドドドメテオ",
+          "publishedAt": "2026-09-18T16:50:52.262Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uJ4LUYB65gw/hqdefault.jpg",
+          "sourcePath": "sources/uJ/uJ4LUYB65gw.json",
+          "time": "0:04:07",
+          "seconds": 247,
+          "songTitle": "白線",
+          "artist": "葛城リーリヤ"
+        },
+        {
+          "videoId": "GTSONOn0YV4",
+          "videoTitle": "【歌枠/Karaoke 】初見さん待ってます💕メロい歌声…かも【 作業BGM / #音鍵めろ / 新人vtuber 】",
+          "channelName": "音鍵めろ / Otokagi Mero",
+          "publishedAt": "2026-09-10T05:33:59.361Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/GTSONOn0YV4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWsaN7yJ8nyYfGGIO6jI7TUpLWBA",
+          "sourcePath": "sources/GT/GTSONOn0YV4.json",
+          "time": "0:44:37",
+          "seconds": 2677,
+          "songTitle": "白線",
+          "artist": "葛城リーリヤ"
+        }
+      ],
+      "detailPath": "entities/songs/f5778ed6af1755b9.json"
+    },
+    {
+      "rank": 4602,
       "id": "9d91708a6eb301c6",
       "name": "白日",
       "secondary": "",
@@ -67,7 +125,7 @@
       "detailPath": "entities/songs/9d91708a6eb301c6.json"
     },
     {
-      "rank": 4602,
+      "rank": 4603,
       "id": "50c171822da3dcc9",
       "name": "悲しみがとまらない",
       "secondary": "杏里",
@@ -126,7 +184,7 @@
       "detailPath": "entities/songs/50c171822da3dcc9.json"
     },
     {
-      "rank": 4603,
+      "rank": 4604,
       "id": "dba890afd274d978",
       "name": "悲しみをやさしさに",
       "secondary": "Little by Little",
@@ -186,7 +244,7 @@
       "detailPath": "entities/songs/dba890afd274d978.json"
     },
     {
-      "rank": 4604,
+      "rank": 4605,
       "id": "f76d6a22c6045f80",
       "name": "秘密♡Melody",
       "secondary": "小倉 唯",
@@ -245,7 +303,7 @@
       "detailPath": "entities/songs/f76d6a22c6045f80.json"
     },
     {
-      "rank": 4605,
+      "rank": 4606,
       "id": "a1d4b1158cafad1e",
       "name": "秘密レシピ",
       "secondary": "橋本みゆき",
@@ -302,7 +360,7 @@
       "detailPath": "entities/songs/a1d4b1158cafad1e.json"
     },
     {
-      "rank": 4606,
+      "rank": 4607,
       "id": "36fff11898161657",
       "name": "美しい日",
       "secondary": "SUPER BEAVER",
@@ -362,7 +420,7 @@
       "detailPath": "entities/songs/36fff11898161657.json"
     },
     {
-      "rank": 4607,
+      "rank": 4608,
       "id": "16eaf342b1b0e5ce",
       "name": "美しい鰭",
       "secondary": "",
@@ -419,7 +477,7 @@
       "detailPath": "entities/songs/16eaf342b1b0e5ce.json"
     },
     {
-      "rank": 4608,
+      "rank": 4609,
       "id": "90bb1355dc025f12",
       "name": "氷の上に立つように",
       "secondary": "小松未歩",
@@ -481,7 +539,7 @@
       "detailPath": "entities/songs/90bb1355dc025f12.json"
     },
     {
-      "rank": 4609,
+      "rank": 4610,
       "id": "a004a4a521efde30",
       "name": "秒針を噛む",
       "secondary": "",
@@ -538,7 +596,7 @@
       "detailPath": "entities/songs/a004a4a521efde30.json"
     },
     {
-      "rank": 4610,
+      "rank": 4611,
       "id": "0b1330c188ae4563",
       "name": "不協和音",
       "secondary": "欅坂46",
@@ -595,7 +653,7 @@
       "detailPath": "entities/songs/0b1330c188ae4563.json"
     },
     {
-      "rank": 4611,
+      "rank": 4612,
       "id": "513deb07e9580598",
       "name": "不死鳥のフランメ",
       "secondary": "マリア×風鳴 翼(CV:日笠陽子×水樹奈々)",
@@ -653,7 +711,7 @@
       "detailPath": "entities/songs/513deb07e9580598.json"
     },
     {
-      "rank": 4612,
+      "rank": 4613,
       "id": "56eb4f2c2a8607b7",
       "name": "不法侵入",
       "secondary": "ずっと真夜中でいいのに。",
@@ -714,7 +772,7 @@
       "detailPath": "entities/songs/56eb4f2c2a8607b7.json"
     },
     {
-      "rank": 4613,
+      "rank": 4614,
       "id": "99ecb189442d417d",
       "name": "舞台に立って",
       "secondary": "YOASOBI",
@@ -774,7 +832,7 @@
       "detailPath": "entities/songs/99ecb189442d417d.json"
     },
     {
-      "rank": 4614,
+      "rank": 4615,
       "id": "0e2fb2719cb39ade",
       "name": "風の街へ",
       "secondary": "FictionJunction KEIKO",
@@ -834,7 +892,7 @@
       "detailPath": "entities/songs/0e2fb2719cb39ade.json"
     },
     {
-      "rank": 4615,
+      "rank": 4616,
       "id": "ea00b3ae03fbb2f9",
       "name": "風は予告なく吹く",
       "secondary": "ワルキューレ",
@@ -894,7 +952,7 @@
       "detailPath": "entities/songs/ea00b3ae03fbb2f9.json"
     },
     {
-      "rank": 4616,
+      "rank": 4617,
       "id": "8b764645b4ba0ad8",
       "name": "福笑い",
       "secondary": "高橋優",
@@ -954,7 +1012,7 @@
       "detailPath": "entities/songs/8b764645b4ba0ad8.json"
     },
     {
-      "rank": 4617,
+      "rank": 4618,
       "id": "cf52e3688b69eeac",
       "name": "分 START22:15分",
       "secondary": "",
@@ -1011,7 +1069,7 @@
       "detailPath": "entities/songs/cf52e3688b69eeac.json"
     },
     {
-      "rank": 4618,
+      "rank": 4619,
       "id": "7810772c7e1f01c7",
       "name": "分かっちゃいないね",
       "secondary": "",
@@ -1068,7 +1126,7 @@
       "detailPath": "entities/songs/7810772c7e1f01c7.json"
     },
     {
-      "rank": 4619,
+      "rank": 4620,
       "id": "a87473cf5e76ed8c",
       "name": "分かってないよ",
       "secondary": "WurtS",
@@ -1128,7 +1186,7 @@
       "detailPath": "entities/songs/a87473cf5e76ed8c.json"
     },
     {
-      "rank": 4620,
+      "rank": 4621,
       "id": "5e13f749d77e855d",
       "name": "碧い瞳のエリス",
       "secondary": "安全地帯",
@@ -1188,7 +1246,7 @@
       "detailPath": "entities/songs/5e13f749d77e855d.json"
     },
     {
-      "rank": 4621,
+      "rank": 4622,
       "id": "16e68ec7d838c64f",
       "name": "碧乃てぃあ",
       "secondary": "",
@@ -1242,7 +1300,7 @@
       "detailPath": "entities/songs/16e68ec7d838c64f.json"
     },
     {
-      "rank": 4622,
+      "rank": 4623,
       "id": "4002186bbdf45362",
       "name": "変わらないもの",
       "secondary": "奧 華子",
@@ -1302,7 +1360,7 @@
       "detailPath": "entities/songs/4002186bbdf45362.json"
     },
     {
-      "rank": 4623,
+      "rank": 4624,
       "id": "e1ea14add64b6024",
       "name": "変わらないもの",
       "secondary": "未記載",
@@ -1360,7 +1418,7 @@
       "detailPath": "entities/songs/e1ea14add64b6024.json"
     },
     {
-      "rank": 4624,
+      "rank": 4625,
       "id": "03e29cb82200cda7",
       "name": "片翼の鳥",
       "secondary": "志方あきこ",
@@ -1420,7 +1478,7 @@
       "detailPath": "entities/songs/03e29cb82200cda7.json"
     },
     {
-      "rank": 4625,
+      "rank": 4626,
       "id": "b68f572b5930ad6a",
       "name": "抱いてHOLD ON ME!",
       "secondary": "モーニング娘。",
@@ -1480,7 +1538,7 @@
       "detailPath": "entities/songs/b68f572b5930ad6a.json"
     },
     {
-      "rank": 4626,
+      "rank": 4627,
       "id": "b162838ccb3a0ffe",
       "name": "放課後ストライド",
       "secondary": "Last Note",
@@ -1541,7 +1599,7 @@
       "detailPath": "entities/songs/b162838ccb3a0ffe.json"
     },
     {
-      "rank": 4627,
+      "rank": 4628,
       "id": "b253bf088e20f1c0",
       "name": "泡沫サタデーナイト!",
       "secondary": "モーニング娘。'16",
@@ -1598,7 +1656,7 @@
       "detailPath": "entities/songs/b253bf088e20f1c0.json"
     },
     {
-      "rank": 4628,
+      "rank": 4629,
       "id": "19e064f4dcc3c0b7",
       "name": "萌実",
       "secondary": "@moemi_chan",
@@ -1655,7 +1713,7 @@
       "detailPath": "entities/songs/19e064f4dcc3c0b7.json"
     },
     {
-      "rank": 4629,
+      "rank": 4630,
       "id": "d992e16c53c5dc38",
       "name": "忘れてください",
       "secondary": "",
@@ -1713,7 +1771,7 @@
       "detailPath": "entities/songs/d992e16c53c5dc38.json"
     },
     {
-      "rank": 4630,
+      "rank": 4631,
       "id": "26cfdad9e53f4019",
       "name": "僕が一番欲しかったもの",
       "secondary": "槇原敬之",
@@ -1773,7 +1831,7 @@
       "detailPath": "entities/songs/26cfdad9e53f4019.json"
     },
     {
-      "rank": 4631,
+      "rank": 4632,
       "id": "851e83a4c239448d",
       "name": "摩訶不思議アドベンチャー",
       "secondary": "高橋洋樹",
@@ -1833,7 +1891,7 @@
       "detailPath": "entities/songs/851e83a4c239448d.json"
     },
     {
-      "rank": 4632,
+      "rank": 4633,
       "id": "00be9c38831af0ea",
       "name": "魔法の絨毯",
       "secondary": "",
@@ -1890,7 +1948,7 @@
       "detailPath": "entities/songs/00be9c38831af0ea.json"
     },
     {
-      "rank": 4633,
+      "rank": 4634,
       "id": "b8f3dbb45126b7e0",
       "name": "魔法少女とチョコレゐト",
       "secondary": "ピノキオピー feat . 初音ミク",
@@ -1947,7 +2005,7 @@
       "detailPath": "entities/songs/b8f3dbb45126b7e0.json"
     },
     {
-      "rank": 4634,
+      "rank": 4635,
       "id": "adf2ae5f4c1f093d",
       "name": "麻痺",
       "secondary": "yama",
@@ -2007,7 +2065,7 @@
       "detailPath": "entities/songs/adf2ae5f4c1f093d.json"
     },
     {
-      "rank": 4635,
+      "rank": 4636,
       "id": "0c084a0429f97fa4",
       "name": "未だ",
       "secondary": "阿部真央",
@@ -2067,7 +2125,7 @@
       "detailPath": "entities/songs/0c084a0429f97fa4.json"
     },
     {
-      "rank": 4636,
+      "rank": 4637,
       "id": "5e157358ae5bfa41",
       "name": "未完成交響曲",
       "secondary": "ONE OK ROCK",
@@ -2127,7 +2185,7 @@
       "detailPath": "entities/songs/5e157358ae5bfa41.json"
     },
     {
-      "rank": 4637,
+      "rank": 4638,
       "id": "1143abe063ad4826",
       "name": "未完成婚姻論",
       "secondary": "",
@@ -2184,7 +2242,7 @@
       "detailPath": "entities/songs/1143abe063ad4826.json"
     },
     {
-      "rank": 4638,
+      "rank": 4639,
       "id": "58b9f488ca56314a",
       "name": "未来コネクション",
       "secondary": "ЯeaL",
@@ -2243,7 +2301,7 @@
       "detailPath": "entities/songs/58b9f488ca56314a.json"
     },
     {
-      "rank": 4639,
+      "rank": 4640,
       "id": "27a0d19e7236d377",
       "name": "未来への道 ~Road to million~",
       "secondary": "琥珀ひなた",
@@ -2303,7 +2361,7 @@
       "detailPath": "entities/songs/27a0d19e7236d377.json"
     },
     {
-      "rank": 4640,
+      "rank": 4641,
       "id": "8782be8012a0c6a8",
       "name": "眠れぬ夜は君のせい",
       "secondary": "MISIA",
@@ -2363,7 +2421,7 @@
       "detailPath": "entities/songs/8782be8012a0c6a8.json"
     },
     {
-      "rank": 4641,
+      "rank": 4642,
       "id": "6773badba24b132a",
       "name": "夢の無限回廊",
       "secondary": "橋本みゆき",
@@ -2420,7 +2478,7 @@
       "detailPath": "entities/songs/6773badba24b132a.json"
     },
     {
-      "rank": 4642,
+      "rank": 4643,
       "id": "e02778675a2a2e65",
       "name": "夢遊病者は此岸にて",
       "secondary": "キタニタツヤ",
@@ -2479,7 +2537,7 @@
       "detailPath": "entities/songs/e02778675a2a2e65.json"
     },
     {
-      "rank": 4643,
+      "rank": 4644,
       "id": "b613a2c8a6aba9db",
       "name": "明日もし君が壊れても",
       "secondary": "WANDS",
@@ -2539,7 +2597,7 @@
       "detailPath": "entities/songs/b613a2c8a6aba9db.json"
     },
     {
-      "rank": 4644,
+      "rank": 4645,
       "id": "5a4c04b920e27f98",
       "name": "迷い道",
       "secondary": "渡辺真知子",
@@ -2599,7 +2657,7 @@
       "detailPath": "entities/songs/5a4c04b920e27f98.json"
     },
     {
-      "rank": 4645,
+      "rank": 4646,
       "id": "50565cc93d91f1b9",
       "name": "妄想日記2",
       "secondary": "シド",
@@ -2656,7 +2714,7 @@
       "detailPath": "entities/songs/50565cc93d91f1b9.json"
     },
     {
-      "rank": 4646,
+      "rank": 4647,
       "id": "9067856112540555",
       "name": "夜に駆ける",
       "secondary": "未記載",
@@ -2714,7 +2772,7 @@
       "detailPath": "entities/songs/9067856112540555.json"
     },
     {
-      "rank": 4647,
+      "rank": 4648,
       "id": "e6130073f6e5e0a0",
       "name": "夜の踊り子",
       "secondary": "未記載",
@@ -2772,7 +2830,7 @@
       "detailPath": "entities/songs/e6130073f6e5e0a0.json"
     },
     {
-      "rank": 4648,
+      "rank": 4649,
       "id": "8d507b33c714b164",
       "name": "夜は眠れるかい？",
       "secondary": "flumpool",
@@ -2832,7 +2890,7 @@
       "detailPath": "entities/songs/8d507b33c714b164.json"
     },
     {
-      "rank": 4649,
+      "rank": 4650,
       "id": "d8be98727494eafa",
       "name": "優しい雨",
       "secondary": "小泉今日子",
@@ -2891,60 +2949,6 @@
         }
       ],
       "detailPath": "entities/songs/d8be98727494eafa.json"
-    },
-    {
-      "rank": 4650,
-      "id": "aa109258d4aade79",
-      "name": "遊喜にあ",
-      "secondary": "",
-      "channelId": "UCIq2Q41fxZkkSaDJn06mtvw",
-      "channelHandle": "@amatsuka_seu",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "b1M2sIkucTo",
-          "videoTitle": "【 #天使の産声歌枠リレー 】開会式.ᐟ.ᐟ【 Vtuber / 天使セウ / #せうくんのあそびば 】",
-          "channelName": "天使セウ-Seu Amatsuka-",
-          "publishedAt": "2026-09-07T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/b1M2sIkucTo/hqdefault.jpg",
-          "sourcePath": "sources/b1/b1M2sIkucTo.json",
-          "time": "0:22:30",
-          "seconds": 1350,
-          "songTitle": "遊喜にあ",
-          "artist": ""
-        },
-        {
-          "videoId": "KQ0A-wtNldY",
-          "videoTitle": "【#天使の産声歌枠リレー】天使のような悪魔の声で貴方も虜になってみる？【Nanoha。/Vsinger】",
-          "channelName": "Nanoha。channel",
-          "publishedAt": "2026-09-07T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KQ0A-wtNldY/hqdefault.jpg",
-          "sourcePath": "sources/KQ/KQ0A-wtNldY.json",
-          "time": "0:22:30",
-          "seconds": 1350,
-          "songTitle": "遊喜にあ",
-          "artist": ""
-        },
-        {
-          "videoId": "NJYmcPgP4PA",
-          "videoTitle": "【 #天使の産声歌枠リレー 】閉会式.ᐟ.ᐟみんなたくさんのお祝いをありがとう.ᐟ.ᐟ【 Vtuber / 天使セウ / #せうくんのあそびば 】",
-          "channelName": "天使セウ-Seu Amatsuka-",
-          "publishedAt": "2026-09-07T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/NJYmcPgP4PA/hqdefault.jpg",
-          "sourcePath": "sources/NJ/NJYmcPgP4PA.json",
-          "time": "0:22:30",
-          "seconds": 1350,
-          "songTitle": "遊喜にあ",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/aa109258d4aade79.json"
     }
   ]
 }

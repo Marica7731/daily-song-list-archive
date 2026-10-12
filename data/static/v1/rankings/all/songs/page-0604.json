@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 604,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 30151,
+      "id": "492e2d136af11798",
+      "name": "アカリがやってきたぞっ",
+      "secondary": "ココアシガレットP",
+      "channelId": "UC6UrtMRQX7dJ8T49yXQ385Q",
+      "channelHandle": "@kmhrVT",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TuNSgbgSD0U",
+          "videoTitle": "🦥 #歌枠 / Karaoke🌿ゆったり自由に歌ってくぞ！【 オールジャンル / くまはるこ 】",
+          "channelName": "🦥くまはるこ🌿",
+          "publishedAt": "2026-07-13T11:46:52.983Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TuNSgbgSD0U/hqdefault.jpg",
+          "sourcePath": "sources/Tu/TuNSgbgSD0U.json",
+          "time": "1:49:46",
+          "seconds": 6586,
+          "songTitle": "アカリがやってきたぞっ",
+          "artist": "ココアシガレットP"
+        }
+      ],
+      "detailPath": "entities/songs/492e2d136af11798.json"
+    },
+    {
+      "rank": 30152,
+      "id": "a8fac868abd040e4",
+      "name": "あかりひとつ",
+      "secondary": "WHITEBOX",
+      "channelId": "UCtPd9MglHMC4IEjK2R71vDw",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "T47YjRIem5Q",
+          "videoTitle": "【弾き語り】即興でコードを探しながら弾き語り配信",
+          "channelName": "灯橙あか",
+          "publishedAt": "2026-07-11T13:28:45.185Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/T47YjRIem5Q/hqdefault.jpg",
+          "sourcePath": "sources/T4/T47YjRIem5Q.json",
+          "time": "0:44:56",
+          "seconds": 2696,
+          "songTitle": "あかりひとつ",
+          "artist": "WHITEBOX"
+        }
+      ],
+      "detailPath": "entities/songs/a8fac868abd040e4.json"
+    },
+    {
+      "rank": 30153,
       "id": "89219f95057bb285",
       "name": "アガリ症",
       "secondary": "にほしか",
@@ -40,7 +106,7 @@
       "detailPath": "entities/songs/89219f95057bb285.json"
     },
     {
-      "rank": 30152,
+      "rank": 30154,
       "id": "7089d791cbcfa116",
       "name": "アキラブ",
       "secondary": "Juliet",
@@ -70,7 +136,7 @@
       "detailPath": "entities/songs/7089d791cbcfa116.json"
     },
     {
-      "rank": 30153,
+      "rank": 30155,
       "id": "2bf5ab2b794b1bd8",
       "name": "アキレア（アカペラ）",
       "secondary": "HoneyComeBear",
@@ -103,7 +169,7 @@
       "detailPath": "entities/songs/2bf5ab2b794b1bd8.json"
     },
     {
-      "rank": 30154,
+      "rank": 30156,
       "id": "b002b408adda804a",
       "name": "アクアテラリウム",
       "secondary": "『凪のあすから』やなぎなぎ",
@@ -135,7 +201,7 @@
       "detailPath": "entities/songs/b002b408adda804a.json"
     },
     {
-      "rank": 30155,
+      "rank": 30157,
       "id": "0bbde4ff3df69129",
       "name": "アクアテラリウム",
       "secondary": "未記載",
@@ -167,7 +233,7 @@
       "detailPath": "entities/songs/0bbde4ff3df69129.json"
     },
     {
-      "rank": 30156,
+      "rank": 30158,
       "id": "1f95ec0683da6d64",
       "name": "アクアテラリウム",
       "secondary": "",
@@ -197,7 +263,7 @@
       "detailPath": "entities/songs/1f95ec0683da6d64.json"
     },
     {
-      "rank": 30157,
+      "rank": 30159,
       "id": "2a2caf211756c51c",
       "name": "アクアテラリウム",
       "secondary": "やなぎなぎ（ラスト！）",
@@ -230,7 +296,7 @@
       "detailPath": "entities/songs/2a2caf211756c51c.json"
     },
     {
-      "rank": 30158,
+      "rank": 30160,
       "id": "e2ae824ce998312f",
       "name": "アクアテラリウム",
       "secondary": "やなぎなぎ 2013年",
@@ -263,7 +329,7 @@
       "detailPath": "entities/songs/e2ae824ce998312f.json"
     },
     {
-      "rank": 30159,
+      "rank": 30161,
       "id": "93c17bf650b4804b",
       "name": "アクアマリンのままでいて",
       "secondary": "カルロス・トシキ&オメガトライブ",
@@ -296,7 +362,7 @@
       "detailPath": "entities/songs/93c17bf650b4804b.json"
     },
     {
-      "rank": 30160,
+      "rank": 30162,
       "id": "04bd21cc6c20a688",
       "name": "アクアリウム",
       "secondary": "ナノウ feat. 巡音ルカ",
@@ -329,7 +395,7 @@
       "detailPath": "entities/songs/04bd21cc6c20a688.json"
     },
     {
-      "rank": 30161,
+      "rank": 30163,
       "id": "d3a933a7c2e6c5b8",
       "name": "アクアリウム",
       "secondary": "あかつき るき",
@@ -362,7 +428,7 @@
       "detailPath": "entities/songs/d3a933a7c2e6c5b8.json"
     },
     {
-      "rank": 30162,
+      "rank": 30164,
       "id": "a8d28329fb843b29",
       "name": "アクア色ぱれっと",
       "secondary": "未記載",
@@ -395,7 +461,7 @@
       "detailPath": "entities/songs/a8d28329fb843b29.json"
     },
     {
-      "rank": 30163,
+      "rank": 30165,
       "id": "d51641b57a07f4aa",
       "name": "あくあ色ぱれっと",
       "secondary": "湊阿庫婭",
@@ -428,7 +494,7 @@
       "detailPath": "entities/songs/d51641b57a07f4aa.json"
     },
     {
-      "rank": 30164,
+      "rank": 30166,
       "id": "cad4c819e0016ecb",
       "name": "あくあ色ぱれっと 湊あくあ",
       "secondary": "",
@@ -458,7 +524,7 @@
       "detailPath": "entities/songs/cad4c819e0016ecb.json"
     },
     {
-      "rank": 30165,
+      "rank": 30167,
       "id": "88a57c911335a02f",
       "name": "アクシアの風",
       "secondary": "立花響、風鳴翼、雪音クリス、マリア・カデンツァヴナ・イヴ、月読調、暁切歌",
@@ -491,7 +557,7 @@
       "detailPath": "entities/songs/88a57c911335a02f.json"
     },
     {
-      "rank": 30166,
+      "rank": 30168,
       "id": "7eefbf739f560435",
       "name": "アクシデント",
       "secondary": "ぶつ切り",
@@ -525,7 +591,7 @@
       "detailPath": "entities/songs/7eefbf739f560435.json"
     },
     {
-      "rank": 30167,
+      "rank": 30169,
       "id": "472ae27cbba59203",
       "name": "アクシデントコーディネイタ",
       "secondary": "みやけ",
@@ -555,7 +621,7 @@
       "detailPath": "entities/songs/472ae27cbba59203.json"
     },
     {
-      "rank": 30168,
+      "rank": 30170,
       "id": "78dc10854b0ec230",
       "name": "アクシデントコーディネイター",
       "secondary": "ナポリP",
@@ -588,7 +654,7 @@
       "detailPath": "entities/songs/78dc10854b0ec230.json"
     },
     {
-      "rank": 30169,
+      "rank": 30171,
       "id": "fc69bec8f5c36d63",
       "name": "アクション仮面の唄",
       "secondary": "クレヨンしんちゃん",
@@ -618,7 +684,7 @@
       "detailPath": "entities/songs/fc69bec8f5c36d63.json"
     },
     {
-      "rank": 30170,
+      "rank": 30172,
       "id": "afb27beffcf6e640",
       "name": "アクティブ・ハート",
       "secondary": "酒井法子 (初見)",
@@ -648,7 +714,7 @@
       "detailPath": "entities/songs/afb27beffcf6e640.json"
     },
     {
-      "rank": 30171,
+      "rank": 30173,
       "id": "70bd57ecd84999c3",
       "name": "アクト",
       "secondary": "Daoko",
@@ -681,7 +747,7 @@
       "detailPath": "entities/songs/70bd57ecd84999c3.json"
     },
     {
-      "rank": 30172,
+      "rank": 30174,
       "id": "b00faf6411334be4",
       "name": "アクト",
       "secondary": "TeddyLoid、Giga、Daoko",
@@ -714,7 +780,7 @@
       "detailPath": "entities/songs/b00faf6411334be4.json"
     },
     {
-      "rank": 30173,
+      "rank": 30175,
       "id": "929871d8e8081743",
       "name": "あくび",
       "secondary": "Tele",
@@ -747,7 +813,7 @@
       "detailPath": "entities/songs/929871d8e8081743.json"
     },
     {
-      "rank": 30174,
+      "rank": 30176,
       "id": "db71546108e9470d",
       "name": "あくび顔2",
       "secondary": "かわいい",
@@ -780,7 +846,7 @@
       "detailPath": "entities/songs/db71546108e9470d.json"
     },
     {
-      "rank": 30175,
+      "rank": 30177,
       "id": "64aaf4d6da25b1ed",
       "name": "アクマバライ",
       "secondary": "うちのボカロは様子がおかしい feat. 雨衣,Gemini",
@@ -813,7 +879,7 @@
       "detailPath": "entities/songs/64aaf4d6da25b1ed.json"
     },
     {
-      "rank": 30176,
+      "rank": 30178,
       "id": "2a0c2f7fb2d2d656",
       "name": "アクラシア",
       "secondary": "青栗鼠",
@@ -846,7 +912,7 @@
       "detailPath": "entities/songs/2a0c2f7fb2d2d656.json"
     },
     {
-      "rank": 30177,
+      "rank": 30179,
       "id": "4694424b3efa1baa",
       "name": "アク役◇協奏曲",
       "secondary": "オインゴ(保村真)＆ボインゴ(くまいもとこ)＆ホル・ホース(木内秀信)",
@@ -879,7 +945,7 @@
       "detailPath": "entities/songs/4694424b3efa1baa.json"
     },
     {
-      "rank": 30178,
+      "rank": 30180,
       "id": "98a3159d25aeb47e",
       "name": "アク役◇協奏曲",
       "secondary": "オインゴ（cv:保村真）＆ボインゴ（cv:くまいもとこ）＆ホル・ホース（cv:木内秀信）",
@@ -912,7 +978,7 @@
       "detailPath": "entities/songs/98a3159d25aeb47e.json"
     },
     {
-      "rank": 30179,
+      "rank": 30181,
       "id": "7a9005918611af0b",
       "name": "あけ！",
       "secondary": "",
@@ -945,7 +1011,7 @@
       "detailPath": "entities/songs/7a9005918611af0b.json"
     },
     {
-      "rank": 30180,
+      "rank": 30182,
       "id": "766ddd88375930e8",
       "name": "アゲイン2",
       "secondary": "ゆず",
@@ -978,7 +1044,7 @@
       "detailPath": "entities/songs/766ddd88375930e8.json"
     },
     {
-      "rank": 30181,
+      "rank": 30183,
       "id": "5279977fccd7febc",
       "name": "あげない",
       "secondary": "とた",
@@ -1011,7 +1077,7 @@
       "detailPath": "entities/songs/5279977fccd7febc.json"
     },
     {
-      "rank": 30182,
+      "rank": 30184,
       "id": "38bc119d02079a4c",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフィティ(お試し枠)",
@@ -1044,7 +1110,7 @@
       "detailPath": "entities/songs/38bc119d02079a4c.json"
     },
     {
-      "rank": 30183,
+      "rank": 30185,
       "id": "53272799c52c4875",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフテ",
@@ -1078,7 +1144,7 @@
       "detailPath": "entities/songs/53272799c52c4875.json"
     },
     {
-      "rank": 30184,
+      "rank": 30186,
       "id": "d8a78671c77a828f",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフィティ (2001年)",
@@ -1112,7 +1178,7 @@
       "detailPath": "entities/songs/d8a78671c77a828f.json"
     },
     {
-      "rank": 30185,
+      "rank": 30187,
       "id": "9ac8633a50a5c418",
       "name": "アゲハ蝶",
       "secondary": "Agehachou",
@@ -1146,7 +1212,7 @@
       "detailPath": "entities/songs/9ac8633a50a5c418.json"
     },
     {
-      "rank": 30186,
+      "rank": 30188,
       "id": "3eedaee6dbc96f74",
       "name": "アゲハ蝶",
       "secondary": "カラーボトル",
@@ -1179,7 +1245,7 @@
       "detailPath": "entities/songs/3eedaee6dbc96f74.json"
     },
     {
-      "rank": 30187,
+      "rank": 30189,
       "id": "72a03c082a4a5aa7",
       "name": "アゲハ蝶",
       "secondary": "432",
@@ -1209,7 +1275,7 @@
       "detailPath": "entities/songs/72a03c082a4a5aa7.json"
     },
     {
-      "rank": 30188,
+      "rank": 30190,
       "id": "7bbcec63ad60304a",
       "name": "アゲハ蝶",
       "secondary": "From THE FIRST TAKE",
@@ -1242,7 +1308,7 @@
       "detailPath": "entities/songs/7bbcec63ad60304a.json"
     },
     {
-      "rank": 30189,
+      "rank": 30191,
       "id": "e3a5008060193f27",
       "name": "アゲハ蝶",
       "secondary": "冒頭の練習を入念にする",
@@ -1275,7 +1341,7 @@
       "detailPath": "entities/songs/e3a5008060193f27.json"
     },
     {
-      "rank": 30190,
+      "rank": 30192,
       "id": "0939f2a9fe354e3a",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフィティ (1コーラス)",
@@ -1305,7 +1371,7 @@
       "detailPath": "entities/songs/0939f2a9fe354e3a.json"
     },
     {
-      "rank": 30191,
+      "rank": 30193,
       "id": "8826f0a71be628ae",
       "name": "アゲハ蝶",
       "secondary": "Agehachō ポルノグラフィティ / Porno Graffiti",
@@ -1338,7 +1404,7 @@
       "detailPath": "entities/songs/8826f0a71be628ae.json"
     },
     {
-      "rank": 30192,
+      "rank": 30194,
       "id": "5b038bba7c0109bb",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフィティ(リクエスト)",
@@ -1371,7 +1437,7 @@
       "detailPath": "entities/songs/5b038bba7c0109bb.json"
     },
     {
-      "rank": 30193,
+      "rank": 30195,
       "id": "7673024f14890d99",
       "name": "アゲハ蝶",
       "secondary": "最初のみ",
@@ -1404,7 +1470,7 @@
       "detailPath": "entities/songs/7673024f14890d99.json"
     },
     {
-      "rank": 30194,
+      "rank": 30196,
       "id": "bb3fd8785aeef8b0",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフィティ ／ ティセラCM(2001年)",
@@ -1434,7 +1500,7 @@
       "detailPath": "entities/songs/bb3fd8785aeef8b0.json"
     },
     {
-      "rank": 30195,
+      "rank": 30197,
       "id": "5d49bc1674d022a1",
       "name": "アゲハ蝶",
       "secondary": "Swallowtail Butterfly",
@@ -1467,7 +1533,7 @@
       "detailPath": "entities/songs/5d49bc1674d022a1.json"
     },
     {
-      "rank": 30196,
+      "rank": 30198,
       "id": "d7219a4630ed12ac",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフィティ（2002年）",
@@ -1500,7 +1566,7 @@
       "detailPath": "entities/songs/d7219a4630ed12ac.json"
     },
     {
-      "rank": 30197,
+      "rank": 30199,
       "id": "400668ab8524a1a4",
       "name": "アゲハ蝶",
       "secondary": "ポルノグラフィティ [マネ]",
@@ -1533,7 +1599,7 @@
       "detailPath": "entities/songs/400668ab8524a1a4.json"
     },
     {
-      "rank": 30198,
+      "rank": 30200,
       "id": "c4dafb01baadb2c0",
       "name": "アゲバ蝶",
       "secondary": "ポルノグラフィティ",
@@ -1564,71 +1630,6 @@
         }
       ],
       "detailPath": "entities/songs/c4dafb01baadb2c0.json"
-    },
-    {
-      "rank": 30199,
-      "id": "eb991b9069a4cd49",
-      "name": "あけまして",
-      "secondary": "こんさくのの〜",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8xXlGcSWNR0",
-          "videoTitle": "【歌枠 / KARAOKE】初の同期コラボ！楽しくデュエットします🎶【心響咲良 / 華美雲ののあ】",
-          "channelName": "KOKONE Ch.心響咲良",
-          "publishedAt": "2026-07-08T14:34:39.350Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8xXlGcSWNR0/hqdefault.jpg",
-          "sourcePath": "sources/8x/8xXlGcSWNR0.json",
-          "time": "0:01:01",
-          "seconds": 61,
-          "songTitle": "あけまして",
-          "artist": "こんさくのの〜"
-        }
-      ],
-      "detailPath": "entities/songs/eb991b9069a4cd49.json"
-    },
-    {
-      "rank": 30200,
-      "id": "5f7107969f6eef3a",
-      "name": "アケロウ",
-      "secondary": "新曲 作曲者",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "AecBi1xkbOc",
-          "videoTitle": "【歌枠】Peke is birthday！インターネットガール、好きな曲歌いつくす！！💖【#柚鳥ペケ/Vtuber】#ペケライブ",
-          "channelName": "柚鳥ペケ YUTORI PEKE",
-          "publishedAt": "2026-09-29T07:21:46.017Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AecBi1xkbOc/hqdefault.jpg",
-          "sourcePath": "sources/Ae/AecBi1xkbOc.json",
-          "time": "3:50:33",
-          "seconds": 13833,
-          "songTitle": "アケロウ",
-          "artist": "新曲 作曲者"
-        }
-      ],
-      "detailPath": "entities/songs/5f7107969f6eef3a.json"
     }
   ]
 }

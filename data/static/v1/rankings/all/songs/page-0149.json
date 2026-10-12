@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 149,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7401,
+      "id": "bf142d0d94f8cf3f",
+      "name": "Fight Together",
+      "secondary": "安室奈美恵",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "7XIN-gGjduc",
+          "videoTitle": "【 #歌枠 】初見さん◎深夜に１曲聴いてかない？🌃✨【 #MUZU | PROJECT ALVIZIA 】",
+          "channelName": "MUZU‐むずちゃんねる‐【Vtuber】",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7XIN-gGjduc/hqdefault.jpg",
+          "sourcePath": "sources/7X/7XIN-gGjduc.json",
+          "time": "6:29:56",
+          "seconds": 23396,
+          "songTitle": "Fight Together",
+          "artist": "安室奈美恵"
+        },
+        {
+          "videoId": "BZPhVPydm4g",
+          "videoTitle": "【歌枠 / 縦型】１曲聴いてけ！初見歓迎！ #きょこのーと #shorts",
+          "channelName": "ききょこ",
+          "publishedAt": "2026-09-15T15:43:56.739Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BZPhVPydm4g/hqdefault.jpg",
+          "sourcePath": "sources/BZ/BZPhVPydm4g.json",
+          "time": "0:13:30",
+          "seconds": 810,
+          "songTitle": "Fight Together",
+          "artist": "安室奈美恵"
+        },
+        {
+          "videoId": "LaHdueuovy8",
+          "videoTitle": "【雑談歌枠】初見さんROMさんも歓迎🎵デビュー1ヶ月記念歌枠！！🪐👾【#記念配信 】#新人vtuber #宇宙真央",
+          "channelName": "宇宙真央 / Uchu Mao",
+          "publishedAt": "2026-08-30T09:16:39.133Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LaHdueuovy8/hqdefault.jpg",
+          "sourcePath": "sources/La/LaHdueuovy8.json",
+          "time": "1:10:44",
+          "seconds": 4244,
+          "songTitle": "Fight Together",
+          "artist": "安室奈美恵"
+        }
+      ],
+      "detailPath": "entities/songs/bf142d0d94f8cf3f.json"
+    },
+    {
+      "rank": 7402,
       "id": "57ed89ecaa423589",
       "name": "Fighting My Way",
       "secondary": "初星学園(花海咲季)",
@@ -69,7 +126,7 @@
       "detailPath": "entities/songs/57ed89ecaa423589.json"
     },
     {
-      "rank": 7402,
+      "rank": 7403,
       "id": "1c7168fa879d8fcc",
       "name": "FIND THE WAY",
       "secondary": "",
@@ -127,7 +184,7 @@
       "detailPath": "entities/songs/1c7168fa879d8fcc.json"
     },
     {
-      "rank": 7403,
+      "rank": 7404,
       "id": "d65f058040ad4537",
       "name": "Fire◎Flower",
       "secondary": "未記載",
@@ -185,7 +242,7 @@
       "detailPath": "entities/songs/d65f058040ad4537.json"
     },
     {
-      "rank": 7404,
+      "rank": 7405,
       "id": "ecaeeb515f60beba",
       "name": "First Step",
       "secondary": "長瀬麻奈(CV:神田沙也加)",
@@ -244,7 +301,7 @@
       "detailPath": "entities/songs/ecaeeb515f60beba.json"
     },
     {
-      "rank": 7405,
+      "rank": 7406,
       "id": "4e58aeb8a922e08d",
       "name": "Five",
       "secondary": "嵐",
@@ -304,7 +361,7 @@
       "detailPath": "entities/songs/4e58aeb8a922e08d.json"
     },
     {
-      "rank": 7406,
+      "rank": 7407,
       "id": "3e089508e0723055",
       "name": "Flare",
       "secondary": "BUMP OF CHICKEN",
@@ -362,7 +419,7 @@
       "detailPath": "entities/songs/3e089508e0723055.json"
     },
     {
-      "rank": 7407,
+      "rank": 7408,
       "id": "988e3152d421f1c0",
       "name": "Flavor Of Life Ballad Version",
       "secondary": "宇多田ヒカル",
@@ -419,7 +476,7 @@
       "detailPath": "entities/songs/988e3152d421f1c0.json"
     },
     {
-      "rank": 7408,
+      "rank": 7409,
       "id": "63ca35ac65635b57",
       "name": "FLY ME TO THE MOON",
       "secondary": "クレア",
@@ -477,7 +534,7 @@
       "detailPath": "entities/songs/63ca35ac65635b57.json"
     },
     {
-      "rank": 7409,
+      "rank": 7410,
       "id": "397ae55a1ead57b9",
       "name": "Fly Me to the Star",
       "secondary": "スタァライト九九組",
@@ -534,7 +591,7 @@
       "detailPath": "entities/songs/397ae55a1ead57b9.json"
     },
     {
-      "rank": 7410,
+      "rank": 7411,
       "id": "e7859ba217da3f65",
       "name": "For フルーツバスケット",
       "secondary": "岡崎律子 ／ フルーツバスケット(2001年)",
@@ -588,7 +645,7 @@
       "detailPath": "entities/songs/e7859ba217da3f65.json"
     },
     {
-      "rank": 7411,
+      "rank": 7412,
       "id": "7dcd6ee2eeb55520",
       "name": "FORTUNES",
       "secondary": "angela",
@@ -646,7 +703,7 @@
       "detailPath": "entities/songs/7dcd6ee2eeb55520.json"
     },
     {
-      "rank": 7412,
+      "rank": 7413,
       "id": "b1bfd388d5eb0f07",
       "name": "Free Will",
       "secondary": "Ruppina",
@@ -703,7 +760,7 @@
       "detailPath": "entities/songs/b1bfd388d5eb0f07.json"
     },
     {
-      "rank": 7413,
+      "rank": 7414,
       "id": "9d398b64ee57d33b",
       "name": "FREEDOM",
       "secondary": "",
@@ -760,7 +817,7 @@
       "detailPath": "entities/songs/9d398b64ee57d33b.json"
     },
     {
-      "rank": 7414,
+      "rank": 7415,
       "id": "c177ba212919c7b3",
       "name": "FREELY TOMORROW",
       "secondary": "Mitchie M *",
@@ -820,7 +877,7 @@
       "detailPath": "entities/songs/c177ba212919c7b3.json"
     },
     {
-      "rank": 7415,
+      "rank": 7416,
       "id": "380452b87c2f5868",
       "name": "FRUITS CANDY",
       "secondary": "こじまめぐみ",
@@ -877,7 +934,7 @@
       "detailPath": "entities/songs/380452b87c2f5868.json"
     },
     {
-      "rank": 7416,
+      "rank": 7417,
       "id": "e35e74d6136a5b71",
       "name": "future nova",
       "secondary": "school food punishment",
@@ -938,7 +995,7 @@
       "detailPath": "entities/songs/e35e74d6136a5b71.json"
     },
     {
-      "rank": 7417,
+      "rank": 7418,
       "id": "717acce246930700",
       "name": "Gang★",
       "secondary": "福山雅治",
@@ -998,7 +1055,7 @@
       "detailPath": "entities/songs/717acce246930700.json"
     },
     {
-      "rank": 7418,
+      "rank": 7419,
       "id": "f7e104a8d417bae5",
       "name": "Garnet Moon",
       "secondary": "島谷ひとみ",
@@ -1056,7 +1113,7 @@
       "detailPath": "entities/songs/f7e104a8d417bae5.json"
     },
     {
-      "rank": 7419,
+      "rank": 7420,
       "id": "fe13a4acd7bbfc68",
       "name": "Ghost of a smile",
       "secondary": "EGOIST/ノイタミナムービー「ハーモニー」主題歌/2015",
@@ -1113,7 +1170,7 @@
       "detailPath": "entities/songs/fe13a4acd7bbfc68.json"
     },
     {
-      "rank": 7420,
+      "rank": 7421,
       "id": "0d0651fcd8934a11",
       "name": "Ghost of a smile",
       "secondary": "",
@@ -1170,7 +1227,7 @@
       "detailPath": "entities/songs/0d0651fcd8934a11.json"
     },
     {
-      "rank": 7421,
+      "rank": 7422,
       "id": "935bf8cfb0ebc9f2",
       "name": "Ghost Rule",
       "secondary": "DECO*27",
@@ -1230,7 +1287,7 @@
       "detailPath": "entities/songs/935bf8cfb0ebc9f2.json"
     },
     {
-      "rank": 7422,
+      "rank": 7423,
       "id": "abdc55dc42ff4e73",
       "name": "Gift",
       "secondary": "坂本真綾",
@@ -1287,7 +1344,7 @@
       "detailPath": "entities/songs/abdc55dc42ff4e73.json"
     },
     {
-      "rank": 7423,
+      "rank": 7424,
       "id": "e0c0402eb0c453db",
       "name": "Gimme×Gimme",
       "secondary": "Giga 八王子P",
@@ -1344,7 +1401,7 @@
       "detailPath": "entities/songs/e0c0402eb0c453db.json"
     },
     {
-      "rank": 7424,
+      "rank": 7425,
       "id": "2e042a2b6ead78d1",
       "name": "Gimme×Gimme",
       "secondary": "八王子P",
@@ -1401,7 +1458,7 @@
       "detailPath": "entities/songs/2e042a2b6ead78d1.json"
     },
     {
-      "rank": 7425,
+      "rank": 7426,
       "id": "3bf83334d71bd79c",
       "name": "GIRA GIRA STAR",
       "secondary": "チィ/ダークチィ (cv.大地葉)",
@@ -1459,7 +1516,7 @@
       "detailPath": "entities/songs/3bf83334d71bd79c.json"
     },
     {
-      "rank": 7426,
+      "rank": 7427,
       "id": "f053d0271d7530ba",
       "name": "gives",
       "secondary": "BiS",
@@ -1519,7 +1576,7 @@
       "detailPath": "entities/songs/f053d0271d7530ba.json"
     },
     {
-      "rank": 7427,
+      "rank": 7428,
       "id": "ee93c8bdbda13f96",
       "name": "GLAMOROUS SKY",
       "secondary": "NANA",
@@ -1579,7 +1636,7 @@
       "detailPath": "entities/songs/ee93c8bdbda13f96.json"
     },
     {
-      "rank": 7428,
+      "rank": 7429,
       "id": "51f6d0c7c574a79e",
       "name": "GLORIA",
       "secondary": "ZIGGY",
@@ -1639,7 +1696,7 @@
       "detailPath": "entities/songs/51f6d0c7c574a79e.json"
     },
     {
-      "rank": 7429,
+      "rank": 7430,
       "id": "5ac7a521ca9bbcea",
       "name": "Glorious Break",
       "secondary": "水樹奈々",
@@ -1699,7 +1756,7 @@
       "detailPath": "entities/songs/5ac7a521ca9bbcea.json"
     },
     {
-      "rank": 7430,
+      "rank": 7431,
       "id": "d927d9a59818c4a4",
       "name": "GO",
       "secondary": "BUMP OF CHICKEN",
@@ -1759,7 +1816,7 @@
       "detailPath": "entities/songs/d927d9a59818c4a4.json"
     },
     {
-      "rank": 7431,
+      "rank": 7432,
       "id": "2159f458b6fe2bd2",
       "name": "God knows",
       "secondary": "未記載",
@@ -1816,7 +1873,7 @@
       "detailPath": "entities/songs/2159f458b6fe2bd2.json"
     },
     {
-      "rank": 7432,
+      "rank": 7433,
       "id": "2b9f425ad2f102a0",
       "name": "God knows",
       "secondary": "Haruhi Suzumiya (Aya Hirano)",
@@ -1876,7 +1933,7 @@
       "detailPath": "entities/songs/2b9f425ad2f102a0.json"
     },
     {
-      "rank": 7433,
+      "rank": 7434,
       "id": "3b9a80c6876f99d0",
       "name": "God knows",
       "secondary": "涼宮ハルヒの憂鬱",
@@ -1935,7 +1992,7 @@
       "detailPath": "entities/songs/3b9a80c6876f99d0.json"
     },
     {
-      "rank": 7434,
+      "rank": 7435,
       "id": "333a75c131ec8f3e",
       "name": "golden hour",
       "secondary": "JVKE",
@@ -1993,7 +2050,7 @@
       "detailPath": "entities/songs/333a75c131ec8f3e.json"
     },
     {
-      "rank": 7435,
+      "rank": 7436,
       "id": "7290bf6c4ccc87bd",
       "name": "Golden Time (feat. 鎮座DOPENESS)",
       "secondary": "SKRYU",
@@ -2053,7 +2110,7 @@
       "detailPath": "entities/songs/7290bf6c4ccc87bd.json"
     },
     {
-      "rank": 7436,
+      "rank": 7437,
       "id": "21ae1d2facb27981",
       "name": "gONE",
       "secondary": "鬱P",
@@ -2110,7 +2167,7 @@
       "detailPath": "entities/songs/21ae1d2facb27981.json"
     },
     {
-      "rank": 7437,
+      "rank": 7438,
       "id": "fe4d733d371b3825",
       "name": "good night",
       "secondary": "Every Little Thing",
@@ -2167,7 +2224,7 @@
       "detailPath": "entities/songs/fe4d733d371b3825.json"
     },
     {
-      "rank": 7438,
+      "rank": 7439,
       "id": "2ceee71a30e2db65",
       "name": "Good Night Darling",
       "secondary": "Shank",
@@ -2227,7 +2284,7 @@
       "detailPath": "entities/songs/2ceee71a30e2db65.json"
     },
     {
-      "rank": 7439,
+      "rank": 7440,
       "id": "d93df875769fcf6f",
       "name": "Goodbye Happiness",
       "secondary": "宇多田ヒカル",
@@ -2284,7 +2341,7 @@
       "detailPath": "entities/songs/d93df875769fcf6f.json"
     },
     {
-      "rank": 7440,
+      "rank": 7441,
       "id": "4a475146bd75550a",
       "name": "Goodbye song princess, it's the last song",
       "secondary": "CreepHyp",
@@ -2344,7 +2401,7 @@
       "detailPath": "entities/songs/4a475146bd75550a.json"
     },
     {
-      "rank": 7441,
+      "rank": 7442,
       "id": "66cc7526778d2ea1",
       "name": "Grand Blue",
       "secondary": "湘南乃風",
@@ -2404,7 +2461,7 @@
       "detailPath": "entities/songs/66cc7526778d2ea1.json"
     },
     {
-      "rank": 7442,
+      "rank": 7443,
       "id": "7a7a1c80d9e91bca",
       "name": "Gravity",
       "secondary": "坂本真綾",
@@ -2462,7 +2519,7 @@
       "detailPath": "entities/songs/7a7a1c80d9e91bca.json"
     },
     {
-      "rank": 7443,
+      "rank": 7444,
       "id": "a8348e062f7f9dcc",
       "name": "Great Days",
       "secondary": "青木 カレン、ハセガワダイスケ",
@@ -2519,7 +2576,7 @@
       "detailPath": "entities/songs/a8348e062f7f9dcc.json"
     },
     {
-      "rank": 7444,
+      "rank": 7445,
       "id": "7e108508aa487ec9",
       "name": "GREATEST",
       "secondary": "音乃瀬奏",
@@ -2576,7 +2633,7 @@
       "detailPath": "entities/songs/7e108508aa487ec9.json"
     },
     {
-      "rank": 7445,
+      "rank": 7446,
       "id": "0f34948755a5cd9c",
       "name": "GREEN",
       "secondary": "浜崎あゆみ",
@@ -2633,7 +2690,7 @@
       "detailPath": "entities/songs/0f34948755a5cd9c.json"
     },
     {
-      "rank": 7446,
+      "rank": 7447,
       "id": "0e374054f927399b",
       "name": "Growing!",
       "secondary": "佐藤しずく",
@@ -2690,7 +2747,7 @@
       "detailPath": "entities/songs/0e374054f927399b.json"
     },
     {
-      "rank": 7447,
+      "rank": 7448,
       "id": "da8b291378e001b7",
       "name": "Hachigatsu no Yoru",
       "secondary": "SILENT SIREN",
@@ -2747,7 +2804,7 @@
       "detailPath": "entities/songs/da8b291378e001b7.json"
     },
     {
-      "rank": 7448,
+      "rank": 7449,
       "id": "0368605045c65b17",
       "name": "Hajimete no Koi ga Owaru Toki",
       "secondary": "supercell feat. Hatsune Miku",
@@ -2805,7 +2862,7 @@
       "detailPath": "entities/songs/0368605045c65b17.json"
     },
     {
-      "rank": 7449,
+      "rank": 7450,
       "id": "a1ca38610dc9b783",
       "name": "Hallelujah",
       "secondary": "Leonard Cohen",
@@ -2863,66 +2920,6 @@
         }
       ],
       "detailPath": "entities/songs/a1ca38610dc9b783.json"
-    },
-    {
-      "rank": 7450,
-      "id": "72aa3014b6ab1968",
-      "name": "Hanabi",
-      "secondary": "aiko",
-      "channelId": "UCrV1Hf5r8P148idjoSfrGEQ",
-      "channelHandle": "@%E7%B5%90%E5%9F%8E%E3%81%95%E3%81%8F%E3%81%AA",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "pE_B6pva-Wo",
-          "videoTitle": "【 #弾き語り 】初見さん15名様に出会いたい！深夜の弾き語り【 #323みすみ 】#Vtuber",
-          "channelName": "323(みすみ) -Misumi-",
-          "publishedAt": "2026-09-29T21:19:11.605Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pE_B6pva-Wo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlwsEFToYBL7kZIjppEnVDryiLng",
-          "sourcePath": "sources/pE/pE_B6pva-Wo.json",
-          "time": "3:42:40",
-          "seconds": 13360,
-          "songTitle": "Hanabi",
-          "artist": "aiko"
-        },
-        {
-          "videoId": "Z8vE48jCXeM",
-          "videoTitle": "〖 歌枠￤弾き語り 〗BGMにどうぞ！「は」から始まる曲を歌いたい！🎸┊︎泡ノ音ポカ ⋰ #弾き語り #縦型配信 #karaoke",
-          "channelName": "Poka ch. 泡ノ音ポカ",
-          "publishedAt": "2026-09-05T20:57:10.961Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Z8vE48jCXeM/hqdefault.jpg",
-          "sourcePath": "sources/Z8/Z8vE48jCXeM.json",
-          "time": "0:19:02",
-          "seconds": 1142,
-          "songTitle": "Hanabi",
-          "artist": "aiko"
-        },
-        {
-          "videoId": "JIR2chv91dQ",
-          "videoTitle": "【歌枠】新ビジュアルで歌っちゃうよおぉぉぉぉぉ！！！！！！！",
-          "channelName": "Sakuna Ch. 結城さくな",
-          "publishedAt": "2026-08-09T16:26:37.543Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JIR2chv91dQ/hqdefault.jpg",
-          "sourcePath": "sources/JI/JIR2chv91dQ.json",
-          "time": "0:41:46",
-          "seconds": 2506,
-          "songTitle": "Hanabi",
-          "artist": "aiko"
-        }
-      ],
-      "detailPath": "entities/songs/72aa3014b6ab1968.json"
     }
   ]
 }

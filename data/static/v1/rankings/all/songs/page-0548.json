@@ -1,16 +1,83 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 548,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 27351,
+      "id": "7d5469a30690a65a",
+      "name": "she",
+      "secondary": "keeno（ももてゃんソロ）",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "QjfnUs-3H_I",
+          "videoTitle": "【コラボ歌枠】なんだって～！？バラード縛りだってぇえ～～？！♥Singing Stream【宮守ゆり / あまねもも / VTuber】",
+          "channelName": "あまねもも / Amane Momo",
+          "publishedAt": "2026-07-15T15:58:47.570Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QjfnUs-3H_I/hqdefault.jpg",
+          "sourcePath": "sources/Qj/QjfnUs-3H_I.json",
+          "time": "0:47:00",
+          "seconds": 2820,
+          "songTitle": "she",
+          "artist": "keeno（ももてゃんソロ）"
+        }
+      ],
+      "detailPath": "entities/songs/7d5469a30690a65a.json"
+    },
+    {
+      "rank": 27352,
+      "id": "8fbaa4250c318837",
+      "name": "SHE IS FINE",
+      "secondary": "クリープハイプ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "g2hDf-kj9bs",
+          "videoTitle": "【 #弾き語り #歌枠 】気圧に完全敗北歌枠【#vtuber】",
+          "channelName": "リリアチャンネル",
+          "publishedAt": "2026-09-12T17:10:06.393Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/g2hDf-kj9bs/hqdefault.jpg",
+          "sourcePath": "sources/g2/g2hDf-kj9bs.json",
+          "time": "0:25:00",
+          "seconds": 1500,
+          "songTitle": "SHE IS FINE",
+          "artist": "クリープハイプ"
+        }
+      ],
+      "detailPath": "entities/songs/8fbaa4250c318837.json"
+    },
+    {
+      "rank": 27353,
       "id": "7bddd0f25e11ff1b",
       "name": "She Used to Be Mine",
       "secondary": "Waitress",
@@ -43,7 +110,7 @@
       "detailPath": "entities/songs/7bddd0f25e11ff1b.json"
     },
     {
-      "rank": 27352,
+      "rank": 27354,
       "id": "2af9f4028dd5b4fb",
       "name": "Sheep～song of teenage love soldier～",
       "secondary": "ポルノグラフィティ",
@@ -76,7 +143,7 @@
       "detailPath": "entities/songs/2af9f4028dd5b4fb.json"
     },
     {
-      "rank": 27353,
+      "rank": 27355,
       "id": "467bd96a670e630f",
       "name": "Shere The World",
       "secondary": "東方神起",
@@ -106,7 +173,7 @@
       "detailPath": "entities/songs/467bd96a670e630f.json"
     },
     {
-      "rank": 27354,
+      "rank": 27356,
       "id": "207e0a25f33b3019",
       "name": "Shiki No Uta",
       "secondary": "Minmi",
@@ -139,7 +206,7 @@
       "detailPath": "entities/songs/207e0a25f33b3019.json"
     },
     {
-      "rank": 27355,
+      "rank": 27357,
       "id": "c2fc41c997dc7263",
       "name": "Shikiori no Hane - Kagamine Rin",
       "secondary": "Len",
@@ -173,7 +240,7 @@
       "detailPath": "entities/songs/c2fc41c997dc7263.json"
     },
     {
-      "rank": 27356,
+      "rank": 27358,
       "id": "e4fa8c68e5715a1f",
       "name": "Shima no uta",
       "secondary": "chiikawa movie",
@@ -206,7 +273,7 @@
       "detailPath": "entities/songs/e4fa8c68e5715a1f.json"
     },
     {
-      "rank": 27357,
+      "rank": 27359,
       "id": "65728ceb985d04bd",
       "name": "Shima no Uta (The Island Song)",
       "secondary": "Island resident",
@@ -236,7 +303,7 @@
       "detailPath": "entities/songs/65728ceb985d04bd.json"
     },
     {
-      "rank": 27358,
+      "rank": 27360,
       "id": "7decf4efa26401a8",
       "name": "Shima No Uta (The Island Song) [Siren Ver",
       "secondary": "Siren (Minori Suzuki), Mermaid(Saeko Oki), Mermaid (Ayaka Nanase)",
@@ -266,7 +333,7 @@
       "detailPath": "entities/songs/7decf4efa26401a8.json"
     },
     {
-      "rank": 27359,
+      "rank": 27361,
       "id": "bb7faac7ae2b7ae9",
       "name": "Shima Uta",
       "secondary": "未記載",
@@ -300,7 +367,7 @@
       "detailPath": "entities/songs/bb7faac7ae2b7ae9.json"
     },
     {
-      "rank": 27360,
+      "rank": 27362,
       "id": "a169b02d7dd4338c",
       "name": "Shin Getter Robo vs Neo Getter Robo OP",
       "secondary": "STORM",
@@ -334,7 +401,7 @@
       "detailPath": "entities/songs/a169b02d7dd4338c.json"
     },
     {
-      "rank": 27361,
+      "rank": 27363,
       "id": "653958c70a179f95",
       "name": "Shin Takarajima",
       "secondary": "Sakanaction",
@@ -366,7 +433,7 @@
       "detailPath": "entities/songs/653958c70a179f95.json"
     },
     {
-      "rank": 27362,
+      "rank": 27364,
       "id": "ff7825a0916bc810",
       "name": "shin さん",
       "secondary": "",
@@ -399,7 +466,7 @@
       "detailPath": "entities/songs/ff7825a0916bc810.json"
     },
     {
-      "rank": 27363,
+      "rank": 27365,
       "id": "fc4a30eb212a8822",
       "name": "Shine In The Sky☆",
       "secondary": "U149",
@@ -432,7 +499,7 @@
       "detailPath": "entities/songs/fc4a30eb212a8822.json"
     },
     {
-      "rank": 27364,
+      "rank": 27366,
       "id": "5a6c1ebd4397e622",
       "name": "SHINE!! キラキラ☆プリキュアアラモード",
       "secondary": "駒形友梨",
@@ -465,7 +532,7 @@
       "detailPath": "entities/songs/5a6c1ebd4397e622.json"
     },
     {
-      "rank": 27365,
+      "rank": 27367,
       "id": "a301f9cf682d0431",
       "name": "SHINE!! キラキラ☆プリキュアアラモード",
       "secondary": "駒形友梨 / キラキラ☆プリキュアアラモード",
@@ -498,7 +565,7 @@
       "detailPath": "entities/songs/a301f9cf682d0431.json"
     },
     {
-      "rank": 27366,
+      "rank": 27368,
       "id": "954fd9a47f71db24",
       "name": "shinema",
       "secondary": "Ayase (with Inami Rai and Nagisa Trout)",
@@ -530,7 +597,7 @@
       "detailPath": "entities/songs/954fd9a47f71db24.json"
     },
     {
-      "rank": 27367,
+      "rank": 27369,
       "id": "1a10a57e23312cf0",
       "name": "SHINIG LINE*",
       "secondary": "うた:わか・ふうり・ゆな from STAR☆ANIS",
@@ -563,7 +630,7 @@
       "detailPath": "entities/songs/1a10a57e23312cf0.json"
     },
     {
-      "rank": 27368,
+      "rank": 27370,
       "id": "a0e33129930d9bf8",
       "name": "SHINING LINE",
       "secondary": "",
@@ -596,7 +663,7 @@
       "detailPath": "entities/songs/a0e33129930d9bf8.json"
     },
     {
-      "rank": 27369,
+      "rank": 27371,
       "id": "4c742102e5c3f18d",
       "name": "SHINING LINE*",
       "secondary": "STAR☆ANIS",
@@ -630,7 +697,7 @@
       "detailPath": "entities/songs/4c742102e5c3f18d.json"
     },
     {
-      "rank": 27370,
+      "rank": 27372,
       "id": "4e08f77a10b2b41d",
       "name": "Shining One",
       "secondary": "BE:FIRST",
@@ -663,7 +730,7 @@
       "detailPath": "entities/songs/4e08f77a10b2b41d.json"
     },
     {
-      "rank": 27371,
+      "rank": 27373,
       "id": "04ecc9183db900a2",
       "name": "Shining ray(ややうろ)",
       "secondary": "Janne Da Arc",
@@ -696,7 +763,7 @@
       "detailPath": "entities/songs/04ecc9183db900a2.json"
     },
     {
-      "rank": 27372,
+      "rank": 27374,
       "id": "3634beb05f6eab68",
       "name": "SHINING SOUL",
       "secondary": "清水咲斗子",
@@ -730,7 +797,7 @@
       "detailPath": "entities/songs/3634beb05f6eab68.json"
     },
     {
-      "rank": 27373,
+      "rank": 27375,
       "id": "0e1118eddb1c4b7b",
       "name": "Shining Tears",
       "secondary": "保志総一朗",
@@ -763,7 +830,7 @@
       "detailPath": "entities/songs/0e1118eddb1c4b7b.json"
     },
     {
-      "rank": 27374,
+      "rank": 27376,
       "id": "80007dfd1f77c69a",
       "name": "shiningray",
       "secondary": "164",
@@ -797,7 +864,7 @@
       "detailPath": "entities/songs/80007dfd1f77c69a.json"
     },
     {
-      "rank": 27375,
+      "rank": 27377,
       "id": "a790942552dcdaf3",
       "name": "shiningray",
       "secondary": "164 feat. 初音ミク",
@@ -830,7 +897,7 @@
       "detailPath": "entities/songs/a790942552dcdaf3.json"
     },
     {
-      "rank": 27376,
+      "rank": 27378,
       "id": "38b67f24e9bc6b1f",
       "name": "Shinkiro",
       "secondary": "TK",
@@ -863,7 +930,7 @@
       "detailPath": "entities/songs/38b67f24e9bc6b1f.json"
     },
     {
-      "rank": 27377,
+      "rank": 27379,
       "id": "28a3cb412a4a8cf5",
       "name": "SHINKIRO",
       "secondary": "がうる・ぐら&宝鐘マリン",
@@ -897,7 +964,7 @@
       "detailPath": "entities/songs/28a3cb412a4a8cf5.json"
     },
     {
-      "rank": 27378,
+      "rank": 27380,
       "id": "509259bde6773952",
       "name": "SHINKIRO",
       "secondary": "Gawr Gura & Houshou Marine",
@@ -930,7 +997,7 @@
       "detailPath": "entities/songs/509259bde6773952.json"
     },
     {
-      "rank": 27379,
+      "rank": 27381,
       "id": "a347b0de8f7f3a83",
       "name": "SHINOBI-NAI",
       "secondary": "花澤香菜",
@@ -963,7 +1030,7 @@
       "detailPath": "entities/songs/a347b0de8f7f3a83.json"
     },
     {
-      "rank": 27380,
+      "rank": 27382,
       "id": "81e81fca6b47eb1d",
       "name": "Shinunoga E-Wa",
       "secondary": "Fujii Kaze",
@@ -997,7 +1064,7 @@
       "detailPath": "entities/songs/81e81fca6b47eb1d.json"
     },
     {
-      "rank": 27381,
+      "rank": 27383,
       "id": "97ddc8ff829212da",
       "name": "Shiny Girl",
       "secondary": "MindaRyn",
@@ -1030,7 +1097,7 @@
       "detailPath": "entities/songs/97ddc8ff829212da.json"
     },
     {
-      "rank": 27382,
+      "rank": 27384,
       "id": "a1c6d37dd97bb454",
       "name": "Shiny Happy Days",
       "secondary": "ショコラ&バニラ&アズキ&メイプル&シナモン&ココナツ",
@@ -1062,7 +1129,7 @@
       "detailPath": "entities/songs/a1c6d37dd97bb454.json"
     },
     {
-      "rank": 27383,
+      "rank": 27385,
       "id": "ec9f4b2a80fa7f2c",
       "name": "Shiny Smiley Story",
       "secondary": "hololive IDOL PROJECT",
@@ -1096,7 +1163,7 @@
       "detailPath": "entities/songs/ec9f4b2a80fa7f2c.json"
     },
     {
-      "rank": 27384,
+      "rank": 27386,
       "id": "b9e193d3820a899e",
       "name": "Shiny Smily Story",
       "secondary": "ホロライブ",
@@ -1130,7 +1197,7 @@
       "detailPath": "entities/songs/b9e193d3820a899e.json"
     },
     {
-      "rank": 27385,
+      "rank": 27387,
       "id": "a82771256b9c51b6",
       "name": "Shiny Smily Story（ショートVer.）",
       "secondary": "ホロライブ",
@@ -1160,7 +1227,7 @@
       "detailPath": "entities/songs/a82771256b9c51b6.json"
     },
     {
-      "rank": 27386,
+      "rank": 27388,
       "id": "677459f2a7f947f2",
       "name": "Shinzou Democracy",
       "secondary": "Mikito-P feat.Hatsune Miku",
@@ -1194,7 +1261,7 @@
       "detailPath": "entities/songs/677459f2a7f947f2.json"
     },
     {
-      "rank": 27387,
+      "rank": 27389,
       "id": "6e5b1f9c5a77245b",
       "name": "SHIORI　ClariS（終物語）",
       "secondary": "",
@@ -1227,7 +1294,7 @@
       "detailPath": "entities/songs/6e5b1f9c5a77245b.json"
     },
     {
-      "rank": 27388,
+      "rank": 27390,
       "id": "076a9832e40b36b4",
       "name": "Shirayuki",
       "secondary": "n-buna feat.Hatsune Miku",
@@ -1260,7 +1327,7 @@
       "detailPath": "entities/songs/076a9832e40b36b4.json"
     },
     {
-      "rank": 27389,
+      "rank": 27391,
       "id": "af0d3f220372082a",
       "name": "Shirogane",
       "secondary": "LiSA",
@@ -1290,7 +1357,7 @@
       "detailPath": "entities/songs/af0d3f220372082a.json"
     },
     {
-      "rank": 27390,
+      "rank": 27392,
       "id": "c17cd869767fb284",
       "name": "Shirushi",
       "secondary": "LiSA",
@@ -1320,7 +1387,7 @@
       "detailPath": "entities/songs/c17cd869767fb284.json"
     },
     {
-      "rank": 27391,
+      "rank": 27393,
       "id": "f44acb0834a54790",
       "name": "Shissou",
       "secondary": "LAST ALLIANCE",
@@ -1353,7 +1420,7 @@
       "detailPath": "entities/songs/f44acb0834a54790.json"
     },
     {
-      "rank": 27392,
+      "rank": 27394,
       "id": "f8cde2ea6ec7907d",
       "name": "Shiwaawase",
       "secondary": "Vaundy",
@@ -1387,7 +1454,7 @@
       "detailPath": "entities/songs/f8cde2ea6ec7907d.json"
     },
     {
-      "rank": 27393,
+      "rank": 27395,
       "id": "fba55258c74c1355",
       "name": "Shokuzai",
       "secondary": "Kasamura Tota",
@@ -1420,7 +1487,7 @@
       "detailPath": "entities/songs/fba55258c74c1355.json"
     },
     {
-      "rank": 27394,
+      "rank": 27396,
       "id": "5c0d41950eab56d1",
       "name": "Shonen Jidai",
       "secondary": "少年時代",
@@ -1452,7 +1519,7 @@
       "detailPath": "entities/songs/5c0d41950eab56d1.json"
     },
     {
-      "rank": 27395,
+      "rank": 27397,
       "id": "7283443638066d05",
       "name": "Shonichi - AKB48",
       "secondary": "JKT48",
@@ -1485,7 +1552,7 @@
       "detailPath": "entities/songs/7283443638066d05.json"
     },
     {
-      "rank": 27396,
+      "rank": 27398,
       "id": "802781cfdb9643df",
       "name": "Shoo-Bee-Doo-Wap-Wap!",
       "secondary": "水瀬いのり",
@@ -1518,7 +1585,7 @@
       "detailPath": "entities/songs/802781cfdb9643df.json"
     },
     {
-      "rank": 27397,
+      "rank": 27399,
       "id": "60e76663807bbb14",
       "name": "Shoot",
       "secondary": "関智一",
@@ -1551,7 +1618,7 @@
       "detailPath": "entities/songs/60e76663807bbb14.json"
     },
     {
-      "rank": 27398,
+      "rank": 27400,
       "id": "205f8855f32f8a96",
       "name": "Shoot",
       "secondary": "関智一(イザーク・ジュール) ※JOYSOUND",
@@ -1582,72 +1649,6 @@
         }
       ],
       "detailPath": "entities/songs/205f8855f32f8a96.json"
-    },
-    {
-      "rank": 27399,
-      "id": "0662b022bff8db4e",
-      "name": "Shoot",
-      "secondary": "",
-      "channelId": "UCMPyGnBgm6l0KiLoxPI8x3A",
-      "channelHandle": "@Batsuko825",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "RNS4EMAokgc",
-          "videoTitle": "【50曲耐久🔥】歴代ガンダム神曲を歌い尽くす❕ガンダムオンリー歌枠🤖初見歓迎❕【バツ子│個人V│邂逅バツ子ﾁｬﾝ】",
-          "channelName": "合法‼︎バツ子ﾁｬﾝBatsuko",
-          "publishedAt": "2026-10-05T17:13:42.796Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RNS4EMAokgc/hqdefault.jpg",
-          "sourcePath": "sources/RN/RNS4EMAokgc.json",
-          "time": "6:31:36",
-          "seconds": 23496,
-          "songTitle": "Shoot",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/0662b022bff8db4e.json"
-    },
-    {
-      "rank": 27400,
-      "id": "249d828f4e99aa6c",
-      "name": "Shoot",
-      "secondary": "イザーク・ジュール（関智一）",
-      "channelId": "UChpkyQ3O21OnkcMcgCoNHCg",
-      "channelHandle": "@ebakyouka",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "jyYjoSsCi4Q",
-          "videoTitle": "꒰ঌ #歌枠┆初見さん大歓迎！機動戦士ガンダムSEEDシリーズ縛り歌枠【 #江波キョウカ / パレプロ 】",
-          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
-          "publishedAt": "2026-10-09T17:40:51.753Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jyYjoSsCi4Q/hqdefault.jpg",
-          "sourcePath": "sources/jy/jyYjoSsCi4Q.json",
-          "time": "1:57:37",
-          "seconds": 7057,
-          "songTitle": "Shoot",
-          "artist": "イザーク・ジュール（関智一）"
-        }
-      ],
-      "detailPath": "entities/songs/249d828f4e99aa6c.json"
     }
   ]
 }

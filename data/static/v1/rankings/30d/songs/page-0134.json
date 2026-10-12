@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "30d",
   "type": "songs",
   "page": 134,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27670,
+  "totalCount": 27671,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6651,
+      "id": "c8385491fed542b3",
+      "name": "月のしずく",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "M1hmv1KOxxc",
+          "videoTitle": "🥛〖 歌枠：KARAOKE 〗歌いたくなったんだもん。仕方がない。〖 小牛田みる / #vtuber 〗",
+          "channelName": "小牛田みる / Mil Koushida",
+          "publishedAt": "2026-10-03T18:57:48.324Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/M1hmv1KOxxc/hqdefault.jpg",
+          "sourcePath": "sources/M1/M1hmv1KOxxc.json",
+          "time": "2:22:07",
+          "seconds": 8527,
+          "songTitle": "月のしずく",
+          "artist": ""
+        },
+        {
+          "videoId": "Pa3xRE2qItU",
+          "videoTitle": "【歌枠】一緒にお月見しながら月縛り歌枠🌙【スミレヒカリ】",
+          "channelName": "スミレヒカリ",
+          "publishedAt": "2026-09-24T13:34:34.985Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Pa3xRE2qItU/hqdefault.jpg",
+          "sourcePath": "sources/Pa/Pa3xRE2qItU.json",
+          "time": "0:23:40",
+          "seconds": 1420,
+          "songTitle": "月のしずく",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/c8385491fed542b3.json"
+    },
+    {
+      "rank": 6652,
       "id": "9edbfc2920e75c48",
       "name": "月のワルツ",
       "secondary": "",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/9edbfc2920e75c48.json"
     },
     {
-      "rank": 6652,
+      "rank": 6653,
       "id": "2a1085d1f8b51a55",
       "name": "月のワルツ",
       "secondary": "諫山実生 (みんなのうた)",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/2a1085d1f8b51a55.json"
     },
     {
-      "rank": 6653,
+      "rank": 6654,
       "id": "05f6c1def21544f3",
       "name": "月のワルツ〈Tsuki no Waltz〉",
       "secondary": "諫山実生",
@@ -142,7 +187,7 @@
       "detailPath": "entities/songs/05f6c1def21544f3.json"
     },
     {
-      "rank": 6654,
+      "rank": 6655,
       "id": "79e61024ee481f2c",
       "name": "月を見ていた",
       "secondary": "",
@@ -187,7 +232,7 @@
       "detailPath": "entities/songs/79e61024ee481f2c.json"
     },
     {
-      "rank": 6655,
+      "rank": 6656,
       "id": "323d5fd5fcf4de88",
       "name": "月影",
       "secondary": "Aimer",
@@ -232,7 +277,7 @@
       "detailPath": "entities/songs/323d5fd5fcf4de88.json"
     },
     {
-      "rank": 6656,
+      "rank": 6657,
       "id": "78a9ab7f7152bec6",
       "name": "月牙灣",
       "secondary": "F. I. R. 飛兒樂團",
@@ -277,7 +322,7 @@
       "detailPath": "entities/songs/78a9ab7f7152bec6.json"
     },
     {
-      "rank": 6657,
+      "rank": 6658,
       "id": "eb3bd904b2857273",
       "name": "月光",
       "secondary": "鬼束ちひろ ※JOYSOUND",
@@ -322,7 +367,7 @@
       "detailPath": "entities/songs/eb3bd904b2857273.json"
     },
     {
-      "rank": 6658,
+      "rank": 6659,
       "id": "d7a1deefe76a6043",
       "name": "月光",
       "secondary": "王心凌",
@@ -367,7 +412,7 @@
       "detailPath": "entities/songs/d7a1deefe76a6043.json"
     },
     {
-      "rank": 6659,
+      "rank": 6660,
       "id": "bde0b147b9502e84",
       "name": "月光 (feat. はるまきごはん)",
       "secondary": "キタニタツヤ",
@@ -412,7 +457,7 @@
       "detailPath": "entities/songs/bde0b147b9502e84.json"
     },
     {
-      "rank": 6660,
+      "rank": 6661,
       "id": "3f1bc1646eb65f3e",
       "name": "月光潤色ガール",
       "secondary": "れるりり",
@@ -457,7 +502,7 @@
       "detailPath": "entities/songs/3f1bc1646eb65f3e.json"
     },
     {
-      "rank": 6661,
+      "rank": 6662,
       "id": "a7ec3d6768fa80cc",
       "name": "月光食堂",
       "secondary": "古川本舗",
@@ -502,7 +547,7 @@
       "detailPath": "entities/songs/a7ec3d6768fa80cc.json"
     },
     {
-      "rank": 6662,
+      "rank": 6663,
       "id": "76d31d3dc9c25f4f",
       "name": "月光食堂",
       "secondary": "",
@@ -544,7 +589,7 @@
       "detailPath": "entities/songs/76d31d3dc9c25f4f.json"
     },
     {
-      "rank": 6663,
+      "rank": 6664,
       "id": "ef975bc2ecef7cbf",
       "name": "月光浴",
       "secondary": "柴田淳",
@@ -590,7 +635,7 @@
       "detailPath": "entities/songs/ef975bc2ecef7cbf.json"
     },
     {
-      "rank": 6664,
+      "rank": 6665,
       "id": "129e2c094b644b7a",
       "name": "月半小夜曲",
       "secondary": "李克勤",
@@ -635,7 +680,7 @@
       "detailPath": "entities/songs/129e2c094b644b7a.json"
     },
     {
-      "rank": 6665,
+      "rank": 6666,
       "id": "42615c538ea9d8eb",
       "name": "月亮惹的禍",
       "secondary": "張宇",
@@ -680,7 +725,7 @@
       "detailPath": "entities/songs/42615c538ea9d8eb.json"
     },
     {
-      "rank": 6666,
+      "rank": 6667,
       "id": "195128069b6ad70d",
       "name": "月亮代表我的心",
       "secondary": "テレサ・テン",
@@ -725,7 +770,7 @@
       "detailPath": "entities/songs/195128069b6ad70d.json"
     },
     {
-      "rank": 6667,
+      "rank": 6668,
       "id": "ab89e185fafb1cbe",
       "name": "犬かキャットかで死ぬまで喧嘩しよう！",
       "secondary": "Official髭男dism",
@@ -770,7 +815,7 @@
       "detailPath": "entities/songs/ab89e185fafb1cbe.json"
     },
     {
-      "rank": 6668,
+      "rank": 6669,
       "id": "17059b28e9f162c9",
       "name": "原罪と福音",
       "secondary": "東京事変",
@@ -815,7 +860,7 @@
       "detailPath": "entities/songs/17059b28e9f162c9.json"
     },
     {
-      "rank": 6669,
+      "rank": 6670,
       "id": "531d181b98bb3684",
       "name": "原罪の灯",
       "secondary": "EGOIST",
@@ -860,7 +905,7 @@
       "detailPath": "entities/songs/531d181b98bb3684.json"
     },
     {
-      "rank": 6670,
+      "rank": 6671,
       "id": "19e234b8b13f7bd4",
       "name": "幻奏歌",
       "secondary": "フェイP",
@@ -905,7 +950,7 @@
       "detailPath": "entities/songs/19e234b8b13f7bd4.json"
     },
     {
-      "rank": 6671,
+      "rank": 6672,
       "id": "4b30174b54ba4c6a",
       "name": "現状ディストラクション",
       "secondary": "",
@@ -950,7 +995,7 @@
       "detailPath": "entities/songs/4b30174b54ba4c6a.json"
     },
     {
-      "rank": 6672,
+      "rank": 6673,
       "id": "f9f18676f6a6b391",
       "name": "現地:https",
       "secondary": "livepocket.jp/e/clk1b",
@@ -992,7 +1037,7 @@
       "detailPath": "entities/songs/f9f18676f6a6b391.json"
     },
     {
-      "rank": 6673,
+      "rank": 6674,
       "id": "e46672b79a944058",
       "name": "言い訳Maybe",
       "secondary": "AKB48",
@@ -1034,7 +1079,7 @@
       "detailPath": "entities/songs/e46672b79a944058.json"
     },
     {
-      "rank": 6674,
+      "rank": 6675,
       "id": "746d3b7484c4e5f8",
       "name": "言わないけどね",
       "secondary": "大原ゆい子",
@@ -1079,7 +1124,7 @@
       "detailPath": "entities/songs/746d3b7484c4e5f8.json"
     },
     {
-      "rank": 6675,
+      "rank": 6676,
       "id": "10e6c4d98e6af511",
       "name": "言葉のいらない約束",
       "secondary": "sana",
@@ -1124,7 +1169,7 @@
       "detailPath": "entities/songs/10e6c4d98e6af511.json"
     },
     {
-      "rank": 6676,
+      "rank": 6677,
       "id": "711d0040cbb16978",
       "name": "限界LOVERS",
       "secondary": "SHOW-YA",
@@ -1169,7 +1214,7 @@
       "detailPath": "entities/songs/711d0040cbb16978.json"
     },
     {
-      "rank": 6677,
+      "rank": 6678,
       "id": "8267b0332c4509cd",
       "name": "古い日記",
       "secondary": "和田アキ子",
@@ -1214,7 +1259,7 @@
       "detailPath": "entities/songs/8267b0332c4509cd.json"
     },
     {
-      "rank": 6678,
+      "rank": 6679,
       "id": "0bfa226ea27d7726",
       "name": "呼吸",
       "secondary": "オリジナル曲",
@@ -1256,7 +1301,7 @@
       "detailPath": "entities/songs/0bfa226ea27d7726.json"
     },
     {
-      "rank": 6679,
+      "rank": 6680,
       "id": "eab1b04f080e811c",
       "name": "呼吸のように",
       "secondary": "Vaundy",
@@ -1302,7 +1347,7 @@
       "detailPath": "entities/songs/eab1b04f080e811c.json"
     },
     {
-      "rank": 6680,
+      "rank": 6681,
       "id": "8647a4a1840ae1f1",
       "name": "孤独の宗教",
       "secondary": "syudou",
@@ -1347,7 +1392,7 @@
       "detailPath": "entities/songs/8647a4a1840ae1f1.json"
     },
     {
-      "rank": 6681,
+      "rank": 6682,
       "id": "61567b4383aae590",
       "name": "孤獨的總和",
       "secondary": "吳汶芳",
@@ -1392,7 +1437,7 @@
       "detailPath": "entities/songs/61567b4383aae590.json"
     },
     {
-      "rank": 6682,
+      "rank": 6683,
       "id": "09ff2dac51233476",
       "name": "虎",
       "secondary": "ハンバートハンバート",
@@ -1437,7 +1482,7 @@
       "detailPath": "entities/songs/09ff2dac51233476.json"
     },
     {
-      "rank": 6683,
+      "rank": 6684,
       "id": "dbc703d4ef7007b3",
       "name": "虎視眈々",
       "secondary": "梅とら ※JOYSOUND",
@@ -1482,7 +1527,7 @@
       "detailPath": "entities/songs/dbc703d4ef7007b3.json"
     },
     {
-      "rank": 6684,
+      "rank": 6685,
       "id": "7d56b55658e39aa8",
       "name": "誇り高きアイドル",
       "secondary": "mona",
@@ -1527,7 +1572,7 @@
       "detailPath": "entities/songs/7d56b55658e39aa8.json"
     },
     {
-      "rank": 6685,
+      "rank": 6686,
       "id": "dab2230d053b6bcc",
       "name": "誇り高きアイドル",
       "secondary": "mona(夏川椎菜) feat. HoneyWorks",
@@ -1572,7 +1617,7 @@
       "detailPath": "entities/songs/dab2230d053b6bcc.json"
     },
     {
-      "rank": 6686,
+      "rank": 6687,
       "id": "30ce48dd0b584b6e",
       "name": "五月は花緑青の窓辺から",
       "secondary": "ヨルシカ",
@@ -1617,7 +1662,7 @@
       "detailPath": "entities/songs/30ce48dd0b584b6e.json"
     },
     {
-      "rank": 6687,
+      "rank": 6688,
       "id": "e87962cb7d453af3",
       "name": "午前2時",
       "secondary": "Leprotto Famiglia",
@@ -1662,7 +1707,7 @@
       "detailPath": "entities/songs/e87962cb7d453af3.json"
     },
     {
-      "rank": 6688,
+      "rank": 6689,
       "id": "913d3b5062198dbc",
       "name": "誤夢",
       "secondary": "餘又",
@@ -1707,7 +1752,7 @@
       "detailPath": "entities/songs/913d3b5062198dbc.json"
     },
     {
-      "rank": 6689,
+      "rank": 6690,
       "id": "d0e6cdc0e1b67a34",
       "name": "光あれ",
       "secondary": "坂本真綾",
@@ -1752,7 +1797,7 @@
       "detailPath": "entities/songs/d0e6cdc0e1b67a34.json"
     },
     {
-      "rank": 6690,
+      "rank": 6691,
       "id": "412802ccf1240d5f",
       "name": "光と影のロマン",
       "secondary": "宇徳敬子",
@@ -1797,7 +1842,7 @@
       "detailPath": "entities/songs/412802ccf1240d5f.json"
     },
     {
-      "rank": 6691,
+      "rank": 6692,
       "id": "037be05092e12fb4",
       "name": "光の螺旋律",
       "secondary": "kukui",
@@ -1842,7 +1887,7 @@
       "detailPath": "entities/songs/037be05092e12fb4.json"
     },
     {
-      "rank": 6692,
+      "rank": 6693,
       "id": "3b516c60962486a3",
       "name": "口唇",
       "secondary": "GLAY",
@@ -1887,7 +1932,7 @@
       "detailPath": "entities/songs/3b516c60962486a3.json"
     },
     {
-      "rank": 6693,
+      "rank": 6694,
       "id": "8b9b50d5ea60f9a7",
       "name": "口笛",
       "secondary": "Mr.Children",
@@ -1933,7 +1978,7 @@
       "detailPath": "entities/songs/8b9b50d5ea60f9a7.json"
     },
     {
-      "rank": 6694,
+      "rank": 6695,
       "id": "89f8f9161139d88c",
       "name": "好－じょし－",
       "secondary": "坂口有望",
@@ -1978,7 +2023,7 @@
       "detailPath": "entities/songs/89f8f9161139d88c.json"
     },
     {
-      "rank": 6695,
+      "rank": 6696,
       "id": "ea1b4eb60d8ca46e",
       "name": "好き",
       "secondary": "星野源",
@@ -2023,7 +2068,7 @@
       "detailPath": "entities/songs/ea1b4eb60d8ca46e.json"
     },
     {
-      "rank": 6696,
+      "rank": 6697,
       "id": "c1d5a3b0cc64a538",
       "name": "好きと言われた日",
       "secondary": "EGOIST",
@@ -2068,7 +2113,7 @@
       "detailPath": "entities/songs/c1d5a3b0cc64a538.json"
     },
     {
-      "rank": 6697,
+      "rank": 6698,
       "id": "513db04e34d872ed",
       "name": "好きにさせた癖に",
       "secondary": "あれくん",
@@ -2114,7 +2159,7 @@
       "detailPath": "entities/songs/513db04e34d872ed.json"
     },
     {
-      "rank": 6698,
+      "rank": 6699,
       "id": "f17a5a422f9fb2eb",
       "name": "幸せのシャナナ",
       "secondary": "BRADIO",
@@ -2159,7 +2204,7 @@
       "detailPath": "entities/songs/f17a5a422f9fb2eb.json"
     },
     {
-      "rank": 6699,
+      "rank": 6700,
       "id": "9793222223116ff6",
       "name": "幸福刑",
       "secondary": "LonePi",
@@ -2202,51 +2247,6 @@
         }
       ],
       "detailPath": "entities/songs/9793222223116ff6.json"
-    },
-    {
-      "rank": 6700,
-      "id": "a0bd49bd67c5fb33",
-      "name": "甲乙丙丁",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "X5Gm2gng6Q8",
-          "videoTitle": "Singing Stream︱中秋節來點點歌一起慶祝吧🎤︱依涅斯Inez #初見さん大歓迎 #歌枠 #初見歓迎",
-          "channelName": "依涅斯 Inez Shiotsuki Ch.",
-          "publishedAt": "2026-09-24T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/X5Gm2gng6Q8/hqdefault.jpg",
-          "sourcePath": "sources/X5/X5Gm2gng6Q8.json",
-          "time": "0:41:01",
-          "seconds": 2461,
-          "songTitle": "甲乙丙丁",
-          "artist": ""
-        },
-        {
-          "videoId": "4dhMlhlVMuI",
-          "videoTitle": "🥀【#歌枠】什麼還有突發!!!#初見歓迎#歡迎降落",
-          "channelName": "霧金 Wukin ch.",
-          "publishedAt": "2026-09-17T15:06:50.180Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4dhMlhlVMuI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZjddSTxN2gJhwFfgn_V7Axu7-ow",
-          "sourcePath": "sources/4d/4dhMlhlVMuI.json",
-          "time": "1:45:25",
-          "seconds": 6325,
-          "songTitle": "甲乙丙丁",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/a0bd49bd67c5fb33.json"
     }
   ]
 }

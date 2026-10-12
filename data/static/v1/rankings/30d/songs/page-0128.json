@@ -1,16 +1,58 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "30d",
   "type": "songs",
   "page": 128,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27670,
+  "totalCount": 27671,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6351,
+      "id": "bb63505aac91a0b4",
+      "name": "リスタート 弾き語り ver.〈Restart〉",
+      "secondary": "うら飯紺汰 1st オリジナル楽曲",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelHandle": "@urameshi_conta",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "8GQUzSMP26c",
+          "videoTitle": "【 #歌枠 #karaoke 】０時までに！同接１４０人１０分キープ挑戦配信🩵初見様大歓迎❕【うら飯紺汰 #vtuber #vsinger 】",
+          "channelName": "うら飯 紺汰 - Conta Urameshi -",
+          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8GQUzSMP26c/hqdefault.jpg",
+          "sourcePath": "sources/8G/8GQUzSMP26c.json",
+          "time": "3:34:12",
+          "seconds": 12852,
+          "songTitle": "リスタート 弾き語り ver.〈Restart〉",
+          "artist": "うら飯紺汰 1st オリジナル楽曲"
+        },
+        {
+          "videoId": "k5Dp3NbrI50",
+          "videoTitle": "【 #歌枠 #karaoke 】０時までに！初見様１０人と出会いたい歌枠🩵初コメもさんカウントします❣【うら飯紺汰 #vtuber #vsinger 】",
+          "channelName": "うら飯 紺汰 - Conta Urameshi -",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k5Dp3NbrI50/hqdefault.jpg",
+          "sourcePath": "sources/k5/k5Dp3NbrI50.json",
+          "time": "3:10:46",
+          "seconds": 11446,
+          "songTitle": "リスタート 弾き語り ver.〈Restart〉",
+          "artist": "うら飯紺汰 1st オリジナル楽曲"
+        }
+      ],
+      "detailPath": "entities/songs/bb63505aac91a0b4.json"
+    },
+    {
+      "rank": 6352,
       "id": "cd6d788f03b79e4e",
       "name": "リビングデッド・ユース",
       "secondary": "米津玄師",
@@ -55,7 +97,7 @@
       "detailPath": "entities/songs/cd6d788f03b79e4e.json"
     },
     {
-      "rank": 6352,
+      "rank": 6353,
       "id": "376b40aae2bd1a8d",
       "name": "リフレクション",
       "secondary": "ムーラン",
@@ -97,7 +139,7 @@
       "detailPath": "entities/songs/376b40aae2bd1a8d.json"
     },
     {
-      "rank": 6353,
+      "rank": 6354,
       "id": "86f26519c90969c1",
       "name": "リフレクション",
       "secondary": "",
@@ -139,7 +181,7 @@
       "detailPath": "entities/songs/86f26519c90969c1.json"
     },
     {
-      "rank": 6354,
+      "rank": 6355,
       "id": "b93e08801eb7ebcb",
       "name": "リメンバー・ミー",
       "secondary": "石橋陽彩",
@@ -184,7 +226,7 @@
       "detailPath": "entities/songs/b93e08801eb7ebcb.json"
     },
     {
-      "rank": 6355,
+      "rank": 6356,
       "id": "33c29b7b00987085",
       "name": "リライト",
       "secondary": "鋼の錬金術師",
@@ -229,7 +271,7 @@
       "detailPath": "entities/songs/33c29b7b00987085.json"
     },
     {
-      "rank": 6356,
+      "rank": 6357,
       "id": "9e620782e90e63ec",
       "name": "リライト",
       "secondary": "アジアン・カンフー・ジェネレーション",
@@ -274,7 +316,7 @@
       "detailPath": "entities/songs/9e620782e90e63ec.json"
     },
     {
-      "rank": 6357,
+      "rank": 6358,
       "id": "c64d515396646ebd",
       "name": "リンちゃんなう!",
       "secondary": "オワタP",
@@ -319,7 +361,7 @@
       "detailPath": "entities/songs/c64d515396646ebd.json"
     },
     {
-      "rank": 6358,
+      "rank": 6359,
       "id": "bd1ef310e56d53bd",
       "name": "リンネ",
       "secondary": "",
@@ -364,7 +406,7 @@
       "detailPath": "entities/songs/bd1ef310e56d53bd.json"
     },
     {
-      "rank": 6359,
+      "rank": 6360,
       "id": "1cae40f9d88ec1f1",
       "name": "ルームＮｏ.4",
       "secondary": "",
@@ -409,7 +451,7 @@
       "detailPath": "entities/songs/1cae40f9d88ec1f1.json"
     },
     {
-      "rank": 6360,
+      "rank": 6361,
       "id": "64d90c97ce11ab62",
       "name": "ルカルカ★ナイトフィーバー",
       "secondary": "samfree ※JOYSOUND",
@@ -454,7 +496,7 @@
       "detailPath": "entities/songs/64d90c97ce11ab62.json"
     },
     {
-      "rank": 6361,
+      "rank": 6362,
       "id": "f0a8c3024cbaac71",
       "name": "ルカルカ☆ナイトフィーバー",
       "secondary": "SAM（samfree）",
@@ -499,7 +541,7 @@
       "detailPath": "entities/songs/f0a8c3024cbaac71.json"
     },
     {
-      "rank": 6362,
+      "rank": 6363,
       "id": "8b8f7970a548f133",
       "name": "ルシファー",
       "secondary": "¿?shimon",
@@ -544,7 +586,7 @@
       "detailPath": "entities/songs/8b8f7970a548f133.json"
     },
     {
-      "rank": 6363,
+      "rank": 6364,
       "id": "ddad5d3b87ffa793",
       "name": "ルネサンス",
       "secondary": "相対性理論",
@@ -589,7 +631,7 @@
       "detailPath": "entities/songs/ddad5d3b87ffa793.json"
     },
     {
-      "rank": 6364,
+      "rank": 6365,
       "id": "62b94c0ce6f1bc7b",
       "name": "ルパン三世のテーマ",
       "secondary": "大野 雄二",
@@ -634,7 +676,7 @@
       "detailPath": "entities/songs/62b94c0ce6f1bc7b.json"
     },
     {
-      "rank": 6365,
+      "rank": 6366,
       "id": "653ab018933cf2bc",
       "name": "ルル",
       "secondary": "やくしまるえつこ",
@@ -679,7 +721,7 @@
       "detailPath": "entities/songs/653ab018933cf2bc.json"
     },
     {
-      "rank": 6366,
+      "rank": 6367,
       "id": "b74c8c22655b21ae",
       "name": "ルルージュ",
       "secondary": "MIMI",
@@ -724,7 +766,7 @@
       "detailPath": "entities/songs/b74c8c22655b21ae.json"
     },
     {
-      "rank": 6367,
+      "rank": 6368,
       "id": "a8515f0844c02e4f",
       "name": "ルンに花咲く恋もある",
       "secondary": "ワルキューレ",
@@ -769,7 +811,7 @@
       "detailPath": "entities/songs/a8515f0844c02e4f.json"
     },
     {
-      "rank": 6368,
+      "rank": 6369,
       "id": "440fa4bed94ec09f",
       "name": "レイリス",
       "secondary": "",
@@ -814,7 +856,7 @@
       "detailPath": "entities/songs/440fa4bed94ec09f.json"
     },
     {
-      "rank": 6369,
+      "rank": 6370,
       "id": "57f056ce296db09a",
       "name": "レタスピ公式　全員集合",
       "secondary": "",
@@ -859,7 +901,7 @@
       "detailPath": "entities/songs/57f056ce296db09a.json"
     },
     {
-      "rank": 6370,
+      "rank": 6371,
       "id": "99f6dd715884f17d",
       "name": "レット・イット・ゴー～ありのままで～(アナと雪の女王)",
       "secondary": "松たか子",
@@ -904,7 +946,7 @@
       "detailPath": "entities/songs/99f6dd715884f17d.json"
     },
     {
-      "rank": 6371,
+      "rank": 6372,
       "id": "633bfca1ab429a40",
       "name": "レッド・パージ！！！",
       "secondary": "P.I.N.A",
@@ -949,7 +991,7 @@
       "detailPath": "entities/songs/633bfca1ab429a40.json"
     },
     {
-      "rank": 6372,
+      "rank": 6373,
       "id": "78a99aef1d09cae2",
       "name": "レディーレ",
       "secondary": "",
@@ -994,7 +1036,7 @@
       "detailPath": "entities/songs/78a99aef1d09cae2.json"
     },
     {
-      "rank": 6373,
+      "rank": 6374,
       "id": "61b4c078019b7315",
       "name": "レディーレ",
       "secondary": "バルーン feat.flower",
@@ -1036,7 +1078,7 @@
       "detailPath": "entities/songs/61b4c078019b7315.json"
     },
     {
-      "rank": 6374,
+      "rank": 6375,
       "id": "e1e6cce4a746a976",
       "name": "れびてーしょん",
       "secondary": "キタニタツヤ",
@@ -1078,7 +1120,7 @@
       "detailPath": "entities/songs/e1e6cce4a746a976.json"
     },
     {
-      "rank": 6375,
+      "rank": 6376,
       "id": "509a5ead846b0172",
       "name": "ロ・ロ・ロ・ロシアン・ルーレット",
       "secondary": "中原めいこ",
@@ -1123,7 +1165,7 @@
       "detailPath": "entities/songs/509a5ead846b0172.json"
     },
     {
-      "rank": 6376,
+      "rank": 6377,
       "id": "a365dc7082964f5f",
       "name": "ロイヤルフラッシュ",
       "secondary": "Royal Scandal",
@@ -1168,7 +1210,7 @@
       "detailPath": "entities/songs/a365dc7082964f5f.json"
     },
     {
-      "rank": 6377,
+      "rank": 6378,
       "id": "a3647f51dd6ccf68",
       "name": "ロウワー",
       "secondary": "ぬゆり feat. flower",
@@ -1213,7 +1255,7 @@
       "detailPath": "entities/songs/a3647f51dd6ccf68.json"
     },
     {
-      "rank": 6378,
+      "rank": 6379,
       "id": "6b97430e2f32c919",
       "name": "ロウワー",
       "secondary": "MEIKO,暁山瑞希,朝比奈まふゆ,宵崎奏,東雲絵名(ぬゆり,ヌルット,Lanndo)",
@@ -1258,7 +1300,7 @@
       "detailPath": "entities/songs/6b97430e2f32c919.json"
     },
     {
-      "rank": 6379,
+      "rank": 6380,
       "id": "249e3ec17bd8c3e8",
       "name": "ロータスイーター",
       "secondary": "青栗鼠",
@@ -1303,7 +1345,7 @@
       "detailPath": "entities/songs/249e3ec17bd8c3e8.json"
     },
     {
-      "rank": 6380,
+      "rank": 6381,
       "id": "343ce10527020941",
       "name": "ろーりん・もーにん",
       "secondary": "狐桃たま",
@@ -1348,7 +1390,7 @@
       "detailPath": "entities/songs/343ce10527020941.json"
     },
     {
-      "rank": 6381,
+      "rank": 6382,
       "id": "95f901fde9c4eefb",
       "name": "ローリンガール",
       "secondary": "wowaka feat.初音ミク ※JOYSOUND",
@@ -1393,7 +1435,7 @@
       "detailPath": "entities/songs/95f901fde9c4eefb.json"
     },
     {
-      "rank": 6382,
+      "rank": 6383,
       "id": "f71945ad491e3c77",
       "name": "ロゼッタ",
       "secondary": "monaca:factory",
@@ -1438,7 +1480,7 @@
       "detailPath": "entities/songs/f71945ad491e3c77.json"
     },
     {
-      "rank": 6383,
+      "rank": 6384,
       "id": "fe5a8997a1db9e41",
       "name": "ロックンロールなんですの",
       "secondary": "supercell",
@@ -1483,7 +1525,7 @@
       "detailPath": "entities/songs/fe5a8997a1db9e41.json"
     },
     {
-      "rank": 6384,
+      "rank": 6385,
       "id": "b49212313ef3c33f",
       "name": "ロックンロールは鳴り止まないっ",
       "secondary": "神聖かまってちゃん",
@@ -1528,7 +1570,7 @@
       "detailPath": "entities/songs/b49212313ef3c33f.json"
     },
     {
-      "rank": 6385,
+      "rank": 6386,
       "id": "323fefd93ba93f49",
       "name": "ロッタラロッタラ",
       "secondary": "Buono！",
@@ -1573,7 +1615,7 @@
       "detailPath": "entities/songs/323fefd93ba93f49.json"
     },
     {
-      "rank": 6386,
+      "rank": 6387,
       "id": "059ed6f2a4c953d1",
       "name": "ロマンスがありあまる",
       "secondary": "ゲスの極み乙女",
@@ -1618,7 +1660,7 @@
       "detailPath": "entities/songs/059ed6f2a4c953d1.json"
     },
     {
-      "rank": 6387,
+      "rank": 6388,
       "id": "9820c356545181ae",
       "name": "ロマンティックあげるよ",
       "secondary": "橋本潮 ／ ドラゴンボール(1986年)",
@@ -1660,7 +1702,7 @@
       "detailPath": "entities/songs/9820c356545181ae.json"
     },
     {
-      "rank": 6388,
+      "rank": 6389,
       "id": "dafb25fa535d5842",
       "name": "ロマンティック浮かれモード",
       "secondary": "藤本美貴",
@@ -1702,7 +1744,7 @@
       "detailPath": "entities/songs/dafb25fa535d5842.json"
     },
     {
-      "rank": 6389,
+      "rank": 6390,
       "id": "2ca9eaa8f8c53526",
       "name": "ロメオ",
       "secondary": "HoneyWorks",
@@ -1747,7 +1789,7 @@
       "detailPath": "entities/songs/2ca9eaa8f8c53526.json"
     },
     {
-      "rank": 6390,
+      "rank": 6391,
       "id": "27e4b10ce9ba8aef",
       "name": "ロングホープ・フィリア",
       "secondary": "菅田将暉",
@@ -1792,7 +1834,7 @@
       "detailPath": "entities/songs/27e4b10ce9ba8aef.json"
     },
     {
-      "rank": 6391,
+      "rank": 6392,
       "id": "e9115d3b7025c2ec",
       "name": "ロンリーユニバース",
       "secondary": "",
@@ -1837,7 +1879,7 @@
       "detailPath": "entities/songs/e9115d3b7025c2ec.json"
     },
     {
-      "rank": 6392,
+      "rank": 6393,
       "id": "e759bff4f3dcd72a",
       "name": "ワールズエンド・ダンスホール",
       "secondary": "wowaka feat.初音ミク",
@@ -1882,7 +1924,7 @@
       "detailPath": "entities/songs/e759bff4f3dcd72a.json"
     },
     {
-      "rank": 6393,
+      "rank": 6394,
       "id": "175b4c58cb957536",
       "name": "ワールズエンド・ダンスホール",
       "secondary": "wowaka feat. 初音ミク,巡音ルカ",
@@ -1927,7 +1969,7 @@
       "detailPath": "entities/songs/175b4c58cb957536.json"
     },
     {
-      "rank": 6394,
+      "rank": 6395,
       "id": "b42d757cbd42235b",
       "name": "ワールドイズマイン",
       "secondary": "supercell ※JOYSOUND",
@@ -1972,7 +2014,7 @@
       "detailPath": "entities/songs/b42d757cbd42235b.json"
     },
     {
-      "rank": 6395,
+      "rank": 6396,
       "id": "841b6a7757bdce0f",
       "name": "ワールドイズマイン",
       "secondary": "supercell（ryo）",
@@ -2017,7 +2059,7 @@
       "detailPath": "entities/songs/841b6a7757bdce0f.json"
     },
     {
-      "rank": 6396,
+      "rank": 6397,
       "id": "191e4143e2c98be9",
       "name": "ワールドイズマイン CPK! Remix",
       "secondary": "",
@@ -2062,7 +2104,7 @@
       "detailPath": "entities/songs/191e4143e2c98be9.json"
     },
     {
-      "rank": 6397,
+      "rank": 6398,
       "id": "8f6a386e30b51fa4",
       "name": "ワールドイズマイン CPK! Remix (かぐや&月見ヤチヨ ver.)",
       "secondary": "かぐや (cv.夏吉ゆうこ)、月見ヤチヨ (cv.早見沙織)",
@@ -2107,7 +2149,7 @@
       "detailPath": "entities/songs/8f6a386e30b51fa4.json"
     },
     {
-      "rank": 6398,
+      "rank": 6399,
       "id": "5892a24da356bfe9",
       "name": "ワールドイズマインCPK!Remix",
       "secondary": "ryo",
@@ -2152,7 +2194,7 @@
       "detailPath": "entities/songs/5892a24da356bfe9.json"
     },
     {
-      "rank": 6399,
+      "rank": 6400,
       "id": "baefeee9e7ce4466",
       "name": "ワールドエンド・ダンスホール",
       "secondary": "wowaka",
@@ -2195,48 +2237,6 @@
         }
       ],
       "detailPath": "entities/songs/baefeee9e7ce4466.json"
-    },
-    {
-      "rank": 6400,
-      "id": "3c904edfefe13171",
-      "name": "ワールドワイドワンダー",
-      "secondary": "西沢さんP",
-      "channelId": "UCMeTdyk3ByaEUI4F4_wonAA",
-      "channelHandle": "@ShirosonoAria",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "dPLNik0CgsU",
-          "videoTitle": "【#歌枠 】プロセカ収録曲歌う🎤周年おめでたい┊初見さん,ROM◎ 【 天命まう/#vtuber 】",
-          "channelName": "天命まう / Tenmei Mau",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/dPLNik0CgsU/hqdefault.jpg",
-          "sourcePath": "sources/dP/dPLNik0CgsU.json",
-          "time": "0:59:40",
-          "seconds": 3580,
-          "songTitle": "ワールドワイドワンダー",
-          "artist": "西沢さんP"
-        },
-        {
-          "videoId": "3zvbPsD41Sw",
-          "videoTitle": "【歌枠 #karaoke 】⋱ 初見さん来い！ ⋰ ただいま雑談歌枠！ #Shorts【#新人vtuber /#城園アリア /#joysound 】",
-          "channelName": "城園アリア / Aria Shirosono",
-          "publishedAt": "2026-09-24T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/3zvbPsD41Sw/hqdefault.jpg",
-          "sourcePath": "sources/3z/3zvbPsD41Sw.json",
-          "time": "2:02:05",
-          "seconds": 7325,
-          "songTitle": "ワールドワイドワンダー",
-          "artist": "西沢さんP"
-        }
-      ],
-      "detailPath": "entities/songs/3c904edfefe13171.json"
     }
   ]
 }

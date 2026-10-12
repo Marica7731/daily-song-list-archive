@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 790,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 39451,
+      "id": "b8fc66a4dacf6c64",
+      "name": "モニタリング",
+      "secondary": "ベストフレンドバージョン",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "sD8QXaoB-Ic",
+          "videoTitle": "【歌枠】雨の日をゆったり過ごすためのアカペラ歌枠！リクエストOK！",
+          "channelName": "麻猫まろん -MaruneMaron-",
+          "publishedAt": "2026-08-29T19:16:39.133Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sD8QXaoB-Ic/hqdefault.jpg",
+          "sourcePath": "sources/sD/sD8QXaoB-Ic.json",
+          "time": "0:47:12",
+          "seconds": 2832,
+          "songTitle": "モニタリング",
+          "artist": "ベストフレンドバージョン"
+        }
+      ],
+      "detailPath": "entities/songs/b8fc66a4dacf6c64.json"
+    },
+    {
+      "rank": 39452,
+      "id": "ef788b8b9ce0ad04",
+      "name": "モニタリング",
+      "secondary": "うろ覚え事故多発",
+      "channelId": "UCj1ZuJ8qwLMMrSkqt8R2ggQ",
+      "channelHandle": "@%E9%AC%BC%E7%81%AF%E5%86%A5-meichaaaan",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "BnhoGU88IjU",
+          "videoTitle": "【#歌枠】【#朝活配信】寝起き朝活歌枠！！！おはよう言いに来てね～～～！！【鬼灯冥】【#初見さん大歓迎】",
+          "channelName": "鬼灯冥 -Hozuki Mei Ch.-",
+          "publishedAt": "2026-08-29T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BnhoGU88IjU/hqdefault.jpg",
+          "sourcePath": "sources/Bn/BnhoGU88IjU.json",
+          "time": "1:46:51",
+          "seconds": 6411,
+          "songTitle": "モニタリング",
+          "artist": "うろ覚え事故多発"
+        }
+      ],
+      "detailPath": "entities/songs/ef788b8b9ce0ad04.json"
+    },
+    {
+      "rank": 39453,
       "id": "8e03665f5624aa18",
       "name": "モニタリング",
       "secondary": "모니터링",
@@ -43,7 +106,7 @@
       "detailPath": "entities/songs/8e03665f5624aa18.json"
     },
     {
-      "rank": 39452,
+      "rank": 39454,
       "id": "5d88c485ff9bd188",
       "name": "モニタリング",
       "secondary": "DECO*27 ft.Hatsune Miku",
@@ -76,7 +139,7 @@
       "detailPath": "entities/songs/5d88c485ff9bd188.json"
     },
     {
-      "rank": 39453,
+      "rank": 39455,
       "id": "67e58a8479868ba5",
       "name": "モニタリング",
       "secondary": "バラード ver",
@@ -109,7 +172,7 @@
       "detailPath": "entities/songs/67e58a8479868ba5.json"
     },
     {
-      "rank": 39454,
+      "rank": 39456,
       "id": "8ab51632092c1a2e",
       "name": "モニタリング",
       "secondary": "1番ちょいくらいまで",
@@ -142,7 +205,7 @@
       "detailPath": "entities/songs/8ab51632092c1a2e.json"
     },
     {
-      "rank": 39455,
+      "rank": 39457,
       "id": "f9cabdbfab3cdaf2",
       "name": "モニタリング (しずくピンクRemix)",
       "secondary": "DECO*27",
@@ -175,7 +238,7 @@
       "detailPath": "entities/songs/f9cabdbfab3cdaf2.json"
     },
     {
-      "rank": 39456,
+      "rank": 39458,
       "id": "b793de616fe4ba74",
       "name": "モニタリング • DECO*27",
       "secondary": "モニタリング feat. 初音ミク",
@@ -205,7 +268,7 @@
       "detailPath": "entities/songs/b793de616fe4ba74.json"
     },
     {
-      "rank": 39457,
+      "rank": 39459,
       "id": "f06bd64da0f5c266",
       "name": "モニタリング feat. 初音ミク",
       "secondary": "DECO*27",
@@ -238,7 +301,7 @@
       "detailPath": "entities/songs/f06bd64da0f5c266.json"
     },
     {
-      "rank": 39458,
+      "rank": 39460,
       "id": "f88a983d419fb2bd",
       "name": "モニタリング(+3)",
       "secondary": "DECO*27",
@@ -270,7 +333,7 @@
       "detailPath": "entities/songs/f88a983d419fb2bd.json"
     },
     {
-      "rank": 39459,
+      "rank": 39461,
       "id": "008cbe252146d0b6",
       "name": "モニタリング(24')",
       "secondary": "DECO*27 feat.初音ミク",
@@ -303,7 +366,7 @@
       "detailPath": "entities/songs/008cbe252146d0b6.json"
     },
     {
-      "rank": 39460,
+      "rank": 39462,
       "id": "eb26576c91106f16",
       "name": "モニタリング（うろおぼえ）",
       "secondary": "DECO*27",
@@ -336,7 +399,7 @@
       "detailPath": "entities/songs/eb26576c91106f16.json"
     },
     {
-      "rank": 39461,
+      "rank": 39463,
       "id": "2ef31509c1038eaf",
       "name": "モニタリングbestfriendRemix",
       "secondary": "",
@@ -366,7 +429,7 @@
       "detailPath": "entities/songs/2ef31509c1038eaf.json"
     },
     {
-      "rank": 39462,
+      "rank": 39464,
       "id": "8753d965ab4b34f6",
       "name": "モニタリングIꪑ⸝꙳)",
       "secondary": "DECO*27",
@@ -400,7 +463,7 @@
       "detailPath": "entities/songs/8753d965ab4b34f6.json"
     },
     {
-      "rank": 39463,
+      "rank": 39465,
       "id": "5191d2be819fdc9a",
       "name": "もぬけのからだ",
       "secondary": "ナポリP",
@@ -433,7 +496,7 @@
       "detailPath": "entities/songs/5191d2be819fdc9a.json"
     },
     {
-      "rank": 39464,
+      "rank": 39466,
       "id": "a090e8eb4e884cc6",
       "name": "モノクロ∞ブルースカイ",
       "secondary": "のぼる↑(不完全Ver.)",
@@ -466,7 +529,7 @@
       "detailPath": "entities/songs/a090e8eb4e884cc6.json"
     },
     {
-      "rank": 39465,
+      "rank": 39467,
       "id": "a5c488bbf67f2920",
       "name": "モノクロアクト",
       "secondary": "feat.初音ミク",
@@ -499,7 +562,7 @@
       "detailPath": "entities/songs/a5c488bbf67f2920.json"
     },
     {
-      "rank": 39466,
+      "rank": 39468,
       "id": "b0d8874b0c63d03b",
       "name": "モノクローム",
       "secondary": "気多の巫女(戸松遥)",
@@ -533,7 +596,7 @@
       "detailPath": "entities/songs/b0d8874b0c63d03b.json"
     },
     {
-      "rank": 39467,
+      "rank": 39469,
       "id": "d857429dd931aac3",
       "name": "モノクローム",
       "secondary": "気多の巫女（戸松遥）（STAR DRIVER 輝きのタクト）※",
@@ -563,7 +626,7 @@
       "detailPath": "entities/songs/d857429dd931aac3.json"
     },
     {
-      "rank": 39468,
+      "rank": 39470,
       "id": "d9795dbe14d642cb",
       "name": "モノクローム ～気付けなかったdevotion～",
       "secondary": "UVERworld",
@@ -596,7 +659,7 @@
       "detailPath": "entities/songs/d9795dbe14d642cb.json"
     },
     {
-      "rank": 39469,
+      "rank": 39471,
       "id": "428f897e74428fc5",
       "name": "モノクローム（アカペラ）",
       "secondary": "STAR DRIVER 輝きのタクト THE WORLD OF STAR DRIVER",
@@ -629,7 +692,7 @@
       "detailPath": "entities/songs/428f897e74428fc5.json"
     },
     {
-      "rank": 39470,
+      "rank": 39472,
       "id": "8867d2eb38cdabd5",
       "name": "モノクロのキス",
       "secondary": "未記載",
@@ -661,7 +724,7 @@
       "detailPath": "entities/songs/8867d2eb38cdabd5.json"
     },
     {
-      "rank": 39471,
+      "rank": 39473,
       "id": "c916ed9725620ca8",
       "name": "モノクロのキス",
       "secondary": "黒執事・2008年",
@@ -694,7 +757,7 @@
       "detailPath": "entities/songs/c916ed9725620ca8.json"
     },
     {
-      "rank": 39472,
+      "rank": 39474,
       "id": "c89bf1ed1d152b6b",
       "name": "モノクロのキス",
       "secondary": "シド 2008年",
@@ -724,7 +787,7 @@
       "detailPath": "entities/songs/c89bf1ed1d152b6b.json"
     },
     {
-      "rank": 39473,
+      "rank": 39475,
       "id": "b621baf2ec4be017",
       "name": "モノクロのキス",
       "secondary": "黒執事",
@@ -757,7 +820,7 @@
       "detailPath": "entities/songs/b621baf2ec4be017.json"
     },
     {
-      "rank": 39474,
+      "rank": 39476,
       "id": "e60d1050fdbdf598",
       "name": "モノクロリバーシ",
       "secondary": "しとお",
@@ -790,7 +853,7 @@
       "detailPath": "entities/songs/e60d1050fdbdf598.json"
     },
     {
-      "rank": 39475,
+      "rank": 39477,
       "id": "d67aea79284c26fb",
       "name": "モノクロリバーシ",
       "secondary": "がんばれ！！とらふぃっくらいと！！",
@@ -823,7 +886,7 @@
       "detailPath": "entities/songs/d67aea79284c26fb.json"
     },
     {
-      "rank": 39476,
+      "rank": 39478,
       "id": "1777f84cf46bc397",
       "name": "モノノケダンス",
       "secondary": "電気グルーヴ",
@@ -856,7 +919,7 @@
       "detailPath": "entities/songs/1777f84cf46bc397.json"
     },
     {
-      "rank": 39477,
+      "rank": 39479,
       "id": "755a247aaeba6e23",
       "name": "モノノケハカランダ",
       "secondary": "フジファブリック",
@@ -886,7 +949,7 @@
       "detailPath": "entities/songs/755a247aaeba6e23.json"
     },
     {
-      "rank": 39478,
+      "rank": 39480,
       "id": "f71fc61da416bd2e",
       "name": "もののけ姫",
       "secondary": "神ボイス！うま！最高！",
@@ -919,7 +982,7 @@
       "detailPath": "entities/songs/f71fc61da416bd2e.json"
     },
     {
-      "rank": 39479,
+      "rank": 39481,
       "id": "c03dc6bb293088c4",
       "name": "もののけ姫",
       "secondary": "米良義一",
@@ -953,7 +1016,7 @@
       "detailPath": "entities/songs/c03dc6bb293088c4.json"
     },
     {
-      "rank": 39480,
+      "rank": 39482,
       "id": "7b1c02eb59a90ac4",
       "name": "もののけ姫",
       "secondary": "魔法公主〔伴奏〕",
@@ -986,7 +1049,7 @@
       "detailPath": "entities/songs/7b1c02eb59a90ac4.json"
     },
     {
-      "rank": 39481,
+      "rank": 39483,
       "id": "0692a6ab54a303dd",
       "name": "もののけ姫",
       "secondary": "魔法公主〔清唱〕",
@@ -1019,7 +1082,7 @@
       "detailPath": "entities/songs/0692a6ab54a303dd.json"
     },
     {
-      "rank": 39482,
+      "rank": 39484,
       "id": "1f799da5a3d313b5",
       "name": "もののけ姫",
       "secondary": "1コーラス",
@@ -1049,7 +1112,7 @@
       "detailPath": "entities/songs/1f799da5a3d313b5.json"
     },
     {
-      "rank": 39483,
+      "rank": 39485,
       "id": "d7b095d77fbc5a55",
       "name": "もののけ姫",
       "secondary": "米良美一 / 97.801点",
@@ -1082,7 +1145,7 @@
       "detailPath": "entities/songs/d7b095d77fbc5a55.json"
     },
     {
-      "rank": 39484,
+      "rank": 39486,
       "id": "f7d3b96f18bc9805",
       "name": "もののけ姫",
       "secondary": "米良美一 / 98.988点",
@@ -1115,7 +1178,7 @@
       "detailPath": "entities/songs/f7d3b96f18bc9805.json"
     },
     {
-      "rank": 39485,
+      "rank": 39487,
       "id": "0546ed682f078f7a",
       "name": "もののけ姫",
       "secondary": "米良美一 / 98.588点",
@@ -1148,7 +1211,7 @@
       "detailPath": "entities/songs/0546ed682f078f7a.json"
     },
     {
-      "rank": 39486,
+      "rank": 39488,
       "id": "3a4b0a9e56d5df17",
       "name": "もののけ姫(1番のみ)",
       "secondary": "米良美一",
@@ -1181,7 +1244,7 @@
       "detailPath": "entities/songs/3a4b0a9e56d5df17.json"
     },
     {
-      "rank": 39487,
+      "rank": 39489,
       "id": "b2e55687f1f0a75f",
       "name": "もののけ姫/もののけ姫",
       "secondary": "米良美一",
@@ -1211,7 +1274,7 @@
       "detailPath": "entities/songs/b2e55687f1f0a75f.json"
     },
     {
-      "rank": 39488,
+      "rank": 39490,
       "id": "790e032e58361bd2",
       "name": "モノマネ",
       "secondary": "クリープハイプ",
@@ -1244,7 +1307,7 @@
       "detailPath": "entities/songs/790e032e58361bd2.json"
     },
     {
-      "rank": 39489,
+      "rank": 39491,
       "id": "be21f1129babeb10",
       "name": "モノマネ",
       "secondary": "",
@@ -1277,7 +1340,7 @@
       "detailPath": "entities/songs/be21f1129babeb10.json"
     },
     {
-      "rank": 39490,
+      "rank": 39492,
       "id": "608f037bdb4bf61c",
       "name": "モノマネ",
       "secondary": "おじゃる丸",
@@ -1310,7 +1373,7 @@
       "detailPath": "entities/songs/608f037bdb4bf61c.json"
     },
     {
-      "rank": 39491,
+      "rank": 39493,
       "id": "7057bf7b90a9f5be",
       "name": "ものもらい",
       "secondary": "RADWIMPS",
@@ -1343,7 +1406,7 @@
       "detailPath": "entities/songs/7057bf7b90a9f5be.json"
     },
     {
-      "rank": 39492,
+      "rank": 39494,
       "id": "524bd61984eaa024",
       "name": "モノローグ",
       "secondary": "佐久間咲也(CV:酒井広大)",
@@ -1373,7 +1436,7 @@
       "detailPath": "entities/songs/524bd61984eaa024.json"
     },
     {
-      "rank": 39493,
+      "rank": 39495,
       "id": "a25a588402f09df8",
       "name": "もみじ",
       "secondary": "童謡",
@@ -1406,7 +1469,7 @@
       "detailPath": "entities/songs/a25a588402f09df8.json"
     },
     {
-      "rank": 39494,
+      "rank": 39496,
       "id": "56dee094bdf1c832",
       "name": "もみじさがし",
       "secondary": "",
@@ -1439,7 +1502,7 @@
       "detailPath": "entities/songs/56dee094bdf1c832.json"
     },
     {
-      "rank": 39495,
+      "rank": 39497,
       "id": "270b314137c41e19",
       "name": "もみの木",
       "secondary": "クリスマスソング",
@@ -1472,7 +1535,7 @@
       "detailPath": "entities/songs/270b314137c41e19.json"
     },
     {
-      "rank": 39496,
+      "rank": 39498,
       "id": "0c50cc4dc424735d",
       "name": "ももいろの鍵",
       "secondary": "いよわ feat.初音ミク ※JOYSOUND",
@@ -1505,7 +1568,7 @@
       "detailPath": "entities/songs/0c50cc4dc424735d.json"
     },
     {
-      "rank": 39497,
+      "rank": 39499,
       "id": "6fb0a561bb2bf2a9",
       "name": "ももいろの鍵 • ももいろの鍵",
       "secondary": "いよわ feat.初音ミク（The Peachy Key / Iy",
@@ -1535,7 +1598,7 @@
       "detailPath": "entities/songs/6fb0a561bb2bf2a9.json"
     },
     {
-      "rank": 39498,
+      "rank": 39500,
       "id": "b33ad0993a5aec9f",
       "name": "ももちゃんとりねちゅん",
       "secondary": "",
@@ -1566,72 +1629,6 @@
         }
       ],
       "detailPath": "entities/songs/b33ad0993a5aec9f.json"
-    },
-    {
-      "rank": 39499,
-      "id": "3aa53a6a97a82351",
-      "name": "もらい泣き",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "dz_1TKPOmVU",
-          "videoTitle": "【LIVE】歌枠 / Sing Stream【梵人】",
-          "channelName": "Bonjin-Music Channel-",
-          "publishedAt": "2026-08-31T17:33:06.903Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/dz_1TKPOmVU/hqdefault.jpg",
-          "sourcePath": "sources/dz/dz_1TKPOmVU.json",
-          "time": "1:26:00",
-          "seconds": 5160,
-          "songTitle": "もらい泣き",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/3aa53a6a97a82351.json"
-    },
-    {
-      "rank": 39500,
-      "id": "b9b85c9c1ac9f701",
-      "name": "もらい泣き",
-      "secondary": "一青窈 ※JOYSOUND",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "pLnkmanA40A",
-          "videoTitle": "【歌枠】しっとりバラード曲を15曲ノンストップで歌う！✨初見さん大歓迎！/作業用BGM #karaoke 【#咲坂つむぎ /新人vtuber 】",
-          "channelName": "咲坂つむぎ",
-          "publishedAt": "2026-09-18T10:46:48.956Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pLnkmanA40A/hqdefault.jpg",
-          "sourcePath": "sources/pL/pLnkmanA40A.json",
-          "time": "0:43:16",
-          "seconds": 2596,
-          "songTitle": "もらい泣き",
-          "artist": "一青窈 ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/songs/b9b85c9c1ac9f701.json"
     }
   ]
 }

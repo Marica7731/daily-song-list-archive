@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "30d",
   "type": "songs",
   "page": 73,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27670,
+  "totalCount": 27671,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3601,
+      "id": "3f49aeaaf4ff36ba",
+      "name": "S・K・Y",
+      "secondary": "ライブP",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "8smHad1Lt3Y",
+          "videoTitle": "【縦型歌枠 #shorts 】ランチタイムに一曲聴いていきませんか？【 #無原唱レコード / ＃ルシェルーム 】",
+          "channelName": "宮島ルシェル / LECIEL MIYAJIMA",
+          "publishedAt": "2026-10-06T03:49:16.471Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8smHad1Lt3Y/hqdefault.jpg",
+          "sourcePath": "sources/8s/8smHad1Lt3Y.json",
+          "time": "1:16:10",
+          "seconds": 4570,
+          "songTitle": "S・K・Y",
+          "artist": "ライブP"
+        },
+        {
+          "videoId": "Eia996bMkjQ",
+          "videoTitle": "【 睡眠導入歌枠 ⁞ Karaoke 】しっとりと静かな曲を中心に【Vol.84】 #初見歓迎 #Vsinger #Karaoke #歌枠",
+          "channelName": "ネモ・テルミナス",
+          "publishedAt": "2026-09-22T17:32:27.386Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Eia996bMkjQ/hqdefault.jpg",
+          "sourcePath": "sources/Ei/Eia996bMkjQ.json",
+          "time": "0:15:51",
+          "seconds": 951,
+          "songTitle": "S・K・Y",
+          "artist": "ライブP"
+        },
+        {
+          "videoId": "I-YJQ-g-_Ik",
+          "videoTitle": "【 #歌枠 】同接230名様耐久✨ BGMや睡眠導入、初見さん◎ ボカロ・アニソン等の静か目曲中心 ゆるり歌枠＆雑談💭 #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
+          "channelName": "Azato Ch. 赤魔アザト",
+          "publishedAt": "2026-09-21T20:38:33.795Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/I-YJQ-g-_Ik/hqdefault.jpg",
+          "sourcePath": "sources/I-/I-YJQ-g-_Ik.json",
+          "time": "3:41:23",
+          "seconds": 13283,
+          "songTitle": "S・K・Y",
+          "artist": "ライブP"
+        }
+      ],
+      "detailPath": "entities/songs/3f49aeaaf4ff36ba.json"
+    },
+    {
+      "rank": 3602,
       "id": "56920c28373d6824",
       "name": "S.C.R.E.A.M",
       "secondary": "DYES IWASAKI",
@@ -67,7 +124,7 @@
       "detailPath": "entities/songs/56920c28373d6824.json"
     },
     {
-      "rank": 3602,
+      "rank": 3603,
       "id": "b70a1ffe67bc4d27",
       "name": "Sacred Force",
       "secondary": "水樹奈々",
@@ -124,7 +181,7 @@
       "detailPath": "entities/songs/b70a1ffe67bc4d27.json"
     },
     {
-      "rank": 3603,
+      "rank": 3604,
       "id": "445a24164a25ae6b",
       "name": "sakura",
       "secondary": "NIRGILIS",
@@ -182,7 +239,7 @@
       "detailPath": "entities/songs/445a24164a25ae6b.json"
     },
     {
-      "rank": 3604,
+      "rank": 3605,
       "id": "8b0060ef7159c79a",
       "name": "sakura",
       "secondary": "ニルギリス",
@@ -239,7 +296,7 @@
       "detailPath": "entities/songs/8b0060ef7159c79a.json"
     },
     {
-      "rank": 3605,
+      "rank": 3606,
       "id": "3fd2967bf0aa9547",
       "name": "SAYONARAベイベー",
       "secondary": "加藤ミリヤ",
@@ -296,7 +353,7 @@
       "detailPath": "entities/songs/3fd2967bf0aa9547.json"
     },
     {
-      "rank": 3606,
+      "rank": 3607,
       "id": "a16804a916b7b556",
       "name": "Secret base",
       "secondary": "ZONE",
@@ -353,7 +410,7 @@
       "detailPath": "entities/songs/a16804a916b7b556.json"
     },
     {
-      "rank": 3607,
+      "rank": 3608,
       "id": "61070c8399328996",
       "name": "Sexy Sexy",
       "secondary": "CASCADE",
@@ -410,7 +467,7 @@
       "detailPath": "entities/songs/61070c8399328996.json"
     },
     {
-      "rank": 3608,
+      "rank": 3609,
       "id": "431c703d42b59d5a",
       "name": "SHINY DAYS",
       "secondary": "",
@@ -467,7 +524,7 @@
       "detailPath": "entities/songs/431c703d42b59d5a.json"
     },
     {
-      "rank": 3609,
+      "rank": 3610,
       "id": "e39f15e47d8d3b1d",
       "name": "Shout Baby",
       "secondary": "緑黄色社会 ※JOYSOUND",
@@ -524,7 +581,7 @@
       "detailPath": "entities/songs/e39f15e47d8d3b1d.json"
     },
     {
-      "rank": 3610,
+      "rank": 3611,
       "id": "91ff6cd43685ea3d",
       "name": "Shouted Serenade",
       "secondary": "LiSA",
@@ -581,7 +638,7 @@
       "detailPath": "entities/songs/91ff6cd43685ea3d.json"
     },
     {
-      "rank": 3611,
+      "rank": 3612,
       "id": "4b92d159f0fd6d28",
       "name": "Show",
       "secondary": "Ado",
@@ -638,7 +695,7 @@
       "detailPath": "entities/songs/4b92d159f0fd6d28.json"
     },
     {
-      "rank": 3612,
+      "rank": 3613,
       "id": "77921279ea19a345",
       "name": "Sign",
       "secondary": "",
@@ -695,7 +752,7 @@
       "detailPath": "entities/songs/77921279ea19a345.json"
     },
     {
-      "rank": 3613,
+      "rank": 3614,
       "id": "b306753dba3487c2",
       "name": "Silent Bible",
       "secondary": "水樹奈々",
@@ -752,7 +809,7 @@
       "detailPath": "entities/songs/b306753dba3487c2.json"
     },
     {
-      "rank": 3614,
+      "rank": 3615,
       "id": "56fbc34a0019ff12",
       "name": "silky heart",
       "secondary": "堀江由衣",
@@ -809,7 +866,7 @@
       "detailPath": "entities/songs/56fbc34a0019ff12.json"
     },
     {
-      "rank": 3615,
+      "rank": 3616,
       "id": "58ed9a92761d6353",
       "name": "Sing My Pleasure",
       "secondary": "ヴィヴィ(八木海莉)",
@@ -866,7 +923,7 @@
       "detailPath": "entities/songs/58ed9a92761d6353.json"
     },
     {
-      "rank": 3616,
+      "rank": 3617,
       "id": "6cdd71b273d0b9af",
       "name": "Skyreach",
       "secondary": "雨宮天",
@@ -923,7 +980,7 @@
       "detailPath": "entities/songs/6cdd71b273d0b9af.json"
     },
     {
-      "rank": 3617,
+      "rank": 3618,
       "id": "6978f1463c526f18",
       "name": "Sleep Walking Orchestra",
       "secondary": "BUMP OF CHICKEN",
@@ -980,7 +1037,7 @@
       "detailPath": "entities/songs/6978f1463c526f18.json"
     },
     {
-      "rank": 3618,
+      "rank": 3619,
       "id": "01869d059463880c",
       "name": "Snow White",
       "secondary": "Laufey",
@@ -1037,7 +1094,7 @@
       "detailPath": "entities/songs/01869d059463880c.json"
     },
     {
-      "rank": 3619,
+      "rank": 3620,
       "id": "ae663719c6ac8ed2",
       "name": "SnowHalation",
       "secondary": "",
@@ -1091,7 +1148,7 @@
       "detailPath": "entities/songs/ae663719c6ac8ed2.json"
     },
     {
-      "rank": 3620,
+      "rank": 3621,
       "id": "de3f4a1ae79471d3",
       "name": "soldier game",
       "secondary": "西木野真姫(Pile)・園田海未(三森すずこ)＆絢瀬絵里(南條愛乃)",
@@ -1148,7 +1205,7 @@
       "detailPath": "entities/songs/de3f4a1ae79471d3.json"
     },
     {
-      "rank": 3621,
+      "rank": 3622,
       "id": "dd6fa19595832cad",
       "name": "Soranji",
       "secondary": "",
@@ -1205,7 +1262,7 @@
       "detailPath": "entities/songs/dd6fa19595832cad.json"
     },
     {
-      "rank": 3622,
+      "rank": 3623,
       "id": "1d96421b49d53dd8",
       "name": "SOUVENIR",
       "secondary": "BUMP OF CHICKEN",
@@ -1262,7 +1319,7 @@
       "detailPath": "entities/songs/1d96421b49d53dd8.json"
     },
     {
-      "rank": 3623,
+      "rank": 3624,
       "id": "a3c796e6c97c9d78",
       "name": "SPARK",
       "secondary": "THE YELLOW MONKEY",
@@ -1316,7 +1373,7 @@
       "detailPath": "entities/songs/a3c796e6c97c9d78.json"
     },
     {
-      "rank": 3624,
+      "rank": 3625,
       "id": "a6bbb46d5ec7651e",
       "name": "spiral",
       "secondary": "LONGMAN",
@@ -1373,7 +1430,7 @@
       "detailPath": "entities/songs/a6bbb46d5ec7651e.json"
     },
     {
-      "rank": 3625,
+      "rank": 3626,
       "id": "e0a4691c452b030d",
       "name": "Squall",
       "secondary": "福山雅治",
@@ -1430,7 +1487,7 @@
       "detailPath": "entities/songs/e0a4691c452b030d.json"
     },
     {
-      "rank": 3626,
+      "rank": 3627,
       "id": "6bd93cd57f669ff5",
       "name": "Stab Me In The Back",
       "secondary": "X JAPAN",
@@ -1487,7 +1544,7 @@
       "detailPath": "entities/songs/6bd93cd57f669ff5.json"
     },
     {
-      "rank": 3627,
+      "rank": 3628,
       "id": "bb95359023197e2d",
       "name": "Stand By You",
       "secondary": "Official髭男dism",
@@ -1544,7 +1601,7 @@
       "detailPath": "entities/songs/bb95359023197e2d.json"
     },
     {
-      "rank": 3628,
+      "rank": 3629,
       "id": "9dc45b9f4e812f15",
       "name": "STAND PROUD",
       "secondary": "橋本仁",
@@ -1601,7 +1658,7 @@
       "detailPath": "entities/songs/9dc45b9f4e812f15.json"
     },
     {
-      "rank": 3629,
+      "rank": 3630,
       "id": "abed57aed358155d",
       "name": "STAND-ALONE",
       "secondary": "Aimer",
@@ -1658,7 +1715,7 @@
       "detailPath": "entities/songs/abed57aed358155d.json"
     },
     {
-      "rank": 3630,
+      "rank": 3631,
       "id": "c758c625d168f66d",
       "name": "Staple Stable",
       "secondary": "戦場ヶ原ひたぎ(斎藤千和)",
@@ -1715,7 +1772,7 @@
       "detailPath": "entities/songs/c758c625d168f66d.json"
     },
     {
-      "rank": 3631,
+      "rank": 3632,
       "id": "3dc17cb12f10e06c",
       "name": "STARGAZER～星の扉",
       "secondary": "根岸さとり",
@@ -1772,7 +1829,7 @@
       "detailPath": "entities/songs/3dc17cb12f10e06c.json"
     },
     {
-      "rank": 3632,
+      "rank": 3633,
       "id": "10e9da374b8d2028",
       "name": "START",
       "secondary": "レフティーモンスターP",
@@ -1829,7 +1886,7 @@
       "detailPath": "entities/songs/10e9da374b8d2028.json"
     },
     {
-      "rank": 3633,
+      "rank": 3634,
       "id": "de988dbed37df624",
       "name": "STAY",
       "secondary": "The Kid LAROI,Justin Bieber",
@@ -1886,7 +1943,7 @@
       "detailPath": "entities/songs/de988dbed37df624.json"
     },
     {
-      "rank": 3634,
+      "rank": 3635,
       "id": "7145fb672e8495fd",
       "name": "STAY GOLD",
       "secondary": "Hi-STANDARD",
@@ -1943,7 +2000,7 @@
       "detailPath": "entities/songs/7145fb672e8495fd.json"
     },
     {
-      "rank": 3635,
+      "rank": 3636,
       "id": "cf50509ad77800ea",
       "name": "STAY TUNE",
       "secondary": "Suchmos",
@@ -2001,7 +2058,7 @@
       "detailPath": "entities/songs/cf50509ad77800ea.json"
     },
     {
-      "rank": 3636,
+      "rank": 3637,
       "id": "5d16496283c08fe8",
       "name": "STEADY",
       "secondary": "",
@@ -2058,7 +2115,7 @@
       "detailPath": "entities/songs/5d16496283c08fe8.json"
     },
     {
-      "rank": 3637,
+      "rank": 3638,
       "id": "f8df3dcb3676cc1b",
       "name": "STONE OCEAN",
       "secondary": "ichigo from 岸田教団＆THE明星ロケッツ",
@@ -2115,7 +2172,7 @@
       "detailPath": "entities/songs/f8df3dcb3676cc1b.json"
     },
     {
-      "rank": 3638,
+      "rank": 3639,
       "id": "e34f8c3a43cd7d69",
       "name": "STORM",
       "secondary": "JAM Project featuring 水木一郎&影山ヒロノブ",
@@ -2172,7 +2229,7 @@
       "detailPath": "entities/songs/e34f8c3a43cd7d69.json"
     },
     {
-      "rank": 3639,
+      "rank": 3640,
       "id": "ce80d1234a443a94",
       "name": "SWEET TWEET",
       "secondary": "Official髭男dism",
@@ -2229,7 +2286,7 @@
       "detailPath": "entities/songs/ce80d1234a443a94.json"
     },
     {
-      "rank": 3640,
+      "rank": 3641,
       "id": "ca39ac72d6adb92d",
       "name": "sweets parade",
       "secondary": "髏々宮カルタ",
@@ -2286,7 +2343,7 @@
       "detailPath": "entities/songs/ca39ac72d6adb92d.json"
     },
     {
-      "rank": 3641,
+      "rank": 3642,
       "id": "b3151a81bd1aaf1b",
       "name": "Tabako",
       "secondary": "Koresawa",
@@ -2344,7 +2401,7 @@
       "detailPath": "entities/songs/b3151a81bd1aaf1b.json"
     },
     {
-      "rank": 3642,
+      "rank": 3643,
       "id": "4bc5429130051de1",
       "name": "tamanap",
       "secondary": "狐桃たま",
@@ -2401,7 +2458,7 @@
       "detailPath": "entities/songs/4bc5429130051de1.json"
     },
     {
-      "rank": 3643,
+      "rank": 3644,
       "id": "053b37f3112ea213",
       "name": "TAO",
       "secondary": "Do As Infinity",
@@ -2458,7 +2515,7 @@
       "detailPath": "entities/songs/053b37f3112ea213.json"
     },
     {
-      "rank": 3644,
+      "rank": 3645,
       "id": "9293066ae977d72f",
       "name": "TATTOO",
       "secondary": "中森明菜",
@@ -2515,7 +2572,7 @@
       "detailPath": "entities/songs/9293066ae977d72f.json"
     },
     {
-      "rank": 3645,
+      "rank": 3646,
       "id": "d241758e72390c8b",
       "name": "TESTAMENT",
       "secondary": "水樹奈々",
@@ -2572,7 +2629,7 @@
       "detailPath": "entities/songs/d241758e72390c8b.json"
     },
     {
-      "rank": 3646,
+      "rank": 3647,
       "id": "27e8ed039867b7d7",
       "name": "The Everlasting Guilty Crown",
       "secondary": "",
@@ -2629,7 +2686,7 @@
       "detailPath": "entities/songs/27e8ed039867b7d7.json"
     },
     {
-      "rank": 3647,
+      "rank": 3648,
       "id": "0b716dd15e8fc73e",
       "name": "THE WINNER",
       "secondary": "松原みき",
@@ -2686,7 +2743,7 @@
       "detailPath": "entities/songs/0b716dd15e8fc73e.json"
     },
     {
-      "rank": 3648,
+      "rank": 3649,
       "id": "6db90e55d3524584",
       "name": "THUNDERBIRD",
       "secondary": "T.M.Revolution",
@@ -2743,7 +2800,7 @@
       "detailPath": "entities/songs/6db90e55d3524584.json"
     },
     {
-      "rank": 3649,
+      "rank": 3650,
       "id": "c7aeb9b69289073d",
       "name": "Ti Amo",
       "secondary": "EXILE",
@@ -2798,63 +2855,6 @@
         }
       ],
       "detailPath": "entities/songs/c7aeb9b69289073d.json"
-    },
-    {
-      "rank": 3650,
-      "id": "b042df0625eff3a3",
-      "name": "Title of mine",
-      "secondary": "BUMP OF CHICKEN",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "sAVQV9zZ-Fo",
-          "videoTitle": "【歌枠/Karaoke 】３連休も深夜歌枠！一曲いかがですか？🦊初見さん・作業・睡眠歓迎！【#新人vtuber #hajime】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-10-11T19:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sAVQV9zZ-Fo/hqdefault.jpg",
-          "sourcePath": "sources/sA/sAVQV9zZ-Fo.json",
-          "time": "2:15:48",
-          "seconds": 8148,
-          "songTitle": "Title of mine",
-          "artist": "BUMP OF CHICKEN"
-        },
-        {
-          "videoId": "1pS2omRe5fo",
-          "videoTitle": "【 歌枠 】BUMP OF CHICKEN楽曲縛り歌枠🌟「た、ち、つ、て、と」からはじまるタイトルの曲歌う【个亞巫めい(こつぶめい)】",
-          "channelName": "个亞巫めい(こつぶめい) / Mei Kotubu",
-          "publishedAt": "2026-09-27T13:54:51.348Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1pS2omRe5fo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkrJ84napPF3FIwpRzwJCfGW9qdQ",
-          "sourcePath": "sources/1p/1pS2omRe5fo.json",
-          "time": "0:10:45",
-          "seconds": 645,
-          "songTitle": "Title of mine",
-          "artist": "BUMP OF CHICKEN"
-        },
-        {
-          "videoId": "KupWWCILxzQ",
-          "videoTitle": "【歌枠/Karaoke 】今日も夜更かし歌。一曲聞いてってくださいな🦊歌うの大好きVtuber 【#新人vtuber #hajime】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-09-22T18:41:35.623Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KupWWCILxzQ/hqdefault.jpg",
-          "sourcePath": "sources/Ku/KupWWCILxzQ.json",
-          "time": "1:56:47",
-          "seconds": 7007,
-          "songTitle": "Title of mine",
-          "artist": "BUMP OF CHICKEN"
-        }
-      ],
-      "detailPath": "entities/songs/b042df0625eff3a3.json"
     }
   ]
 }

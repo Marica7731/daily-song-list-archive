@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 540,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 26951,
+      "id": "25386801939eed0f",
+      "name": "RONDO",
+      "secondary": "龍宮城",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "srgVilTwemk",
+          "videoTitle": "【歌枠】あなたの心に届きますように🦋#蝶羽ヘレナ #vsinger",
+          "channelName": "蝶羽 ヘレナ / ageha helena",
+          "publishedAt": "2026-09-25T18:21:45.724Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/srgVilTwemk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBhccA_IWPLP2IMAf2n0-fOkUzcYw",
+          "sourcePath": "sources/sr/srgVilTwemk.json",
+          "time": "1:42:58",
+          "seconds": 6178,
+          "songTitle": "RONDO",
+          "artist": "龍宮城"
+        }
+      ],
+      "detailPath": "entities/songs/25386801939eed0f.json"
+    },
+    {
+      "rank": 26952,
+      "id": "b95f53da4cfcd78c",
+      "name": "Rondo-Revolution",
+      "secondary": "Okui Masami",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Gp4Jt_09NJE",
+          "videoTitle": "【歌枠】検証！夜通し歌い続けた者の歌声はどうなるのか？ 【月野木ちろる‐Tirol Tsukinoki‐/ななしいんく】",
+          "channelName": "月野木ちろる / Tirol Channel 【ななしいんく】",
+          "publishedAt": "2026-09-19T00:48:50.529Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Gp4Jt_09NJE/hqdefault.jpg",
+          "sourcePath": "sources/Gp/Gp4Jt_09NJE.json",
+          "time": "10:17:21",
+          "seconds": 37041,
+          "songTitle": "Rondo-Revolution",
+          "artist": "Okui Masami"
+        }
+      ],
+      "detailPath": "entities/songs/b95f53da4cfcd78c.json"
+    },
+    {
+      "rank": 26953,
       "id": "3111ee725b12bdae",
       "name": "Room No.4",
       "secondary": "Chogakusei",
@@ -43,7 +109,7 @@
       "detailPath": "entities/songs/3111ee725b12bdae.json"
     },
     {
-      "rank": 26952,
+      "rank": 26954,
       "id": "358c7a3f93e09517",
       "name": "Room#x6",
       "secondary": "レイン・レイ（ホーンテッド・オバケストラ）",
@@ -73,7 +139,7 @@
       "detailPath": "entities/songs/358c7a3f93e09517.json"
     },
     {
-      "rank": 26953,
+      "rank": 26955,
       "id": "e0c4b8b1a99f995f",
       "name": "ROOTS",
       "secondary": "未記載",
@@ -106,7 +172,7 @@
       "detailPath": "entities/songs/e0c4b8b1a99f995f.json"
     },
     {
-      "rank": 26954,
+      "rank": 26956,
       "id": "500d90e0f4a88e2c",
       "name": "Roots/UVERworld 2008/01",
       "secondary": "ピアノバージョン",
@@ -140,7 +206,7 @@
       "detailPath": "entities/songs/500d90e0f4a88e2c.json"
     },
     {
-      "rank": 26955,
+      "rank": 26957,
       "id": "ea8b238d79ed61a3",
       "name": "Rosanna",
       "secondary": "TOTO",
@@ -173,7 +239,7 @@
       "detailPath": "entities/songs/ea8b238d79ed61a3.json"
     },
     {
-      "rank": 26956,
+      "rank": 26958,
       "id": "8987c87bdd31a40b",
       "name": "rose",
       "secondary": "ANNA TSUCHIYA inspi' NANA（BLACK STONES）",
@@ -206,7 +272,7 @@
       "detailPath": "entities/songs/8987c87bdd31a40b.json"
     },
     {
-      "rank": 26957,
+      "rank": 26959,
       "id": "928835d5dd176045",
       "name": "rose",
       "secondary": "ANNA inspi'NANA(BLACK STONES)",
@@ -239,7 +305,7 @@
       "detailPath": "entities/songs/928835d5dd176045.json"
     },
     {
-      "rank": 26958,
+      "rank": 26960,
       "id": "e1b69cab3f086467",
       "name": "ROSE",
       "secondary": "未記載",
@@ -273,7 +339,7 @@
       "detailPath": "entities/songs/e1b69cab3f086467.json"
     },
     {
-      "rank": 26959,
+      "rank": 26961,
       "id": "5bc299a384d7c8bc",
       "name": "ROSE",
       "secondary": "HANA (サビのみ)",
@@ -307,7 +373,7 @@
       "detailPath": "entities/songs/5bc299a384d7c8bc.json"
     },
     {
-      "rank": 26960,
+      "rank": 26962,
       "id": "fef1423145083532",
       "name": "ROSE",
       "secondary": "HANA (初歌唱)",
@@ -341,7 +407,7 @@
       "detailPath": "entities/songs/fef1423145083532.json"
     },
     {
-      "rank": 26961,
+      "rank": 26963,
       "id": "1cf01e50c21f408a",
       "name": "ROSE",
       "secondary": "半分くらい",
@@ -371,7 +437,7 @@
       "detailPath": "entities/songs/1cf01e50c21f408a.json"
     },
     {
-      "rank": 26962,
+      "rank": 26964,
       "id": "f58f510ed3fb9f0b",
       "name": "ROSÉ",
       "secondary": "toxic till the end",
@@ -404,7 +470,7 @@
       "detailPath": "entities/songs/f58f510ed3fb9f0b.json"
     },
     {
-      "rank": 26963,
+      "rank": 26965,
       "id": "829b6c156958c7fc",
       "name": "ROSIER",
       "secondary": "",
@@ -437,7 +503,7 @@
       "detailPath": "entities/songs/829b6c156958c7fc.json"
     },
     {
-      "rank": 26964,
+      "rank": 26966,
       "id": "25162cd86a58bd14",
       "name": "Round & Round",
       "secondary": "Acid Black Cherry",
@@ -470,7 +536,7 @@
       "detailPath": "entities/songs/25162cd86a58bd14.json"
     },
     {
-      "rank": 26965,
+      "rank": 26967,
       "id": "cbb4a34dd10a097b",
       "name": "Round & Round",
       "secondary": "",
@@ -503,7 +569,7 @@
       "detailPath": "entities/songs/cbb4a34dd10a097b.json"
     },
     {
-      "rank": 26966,
+      "rank": 26968,
       "id": "1a0810ee921f0f27",
       "name": "Round ZERO ～ BLADE BRAVE",
       "secondary": "未記載",
@@ -535,7 +601,7 @@
       "detailPath": "entities/songs/1a0810ee921f0f27.json"
     },
     {
-      "rank": 26967,
+      "rank": 26969,
       "id": "f8f3e1c5a379d991",
       "name": "Round ZERO ~ BLADE BRAVE",
       "secondary": "仮面ライダー剣",
@@ -568,7 +634,7 @@
       "detailPath": "entities/songs/f8f3e1c5a379d991.json"
     },
     {
-      "rank": 26968,
+      "rank": 26970,
       "id": "63990b0f0bd9fee9",
       "name": "Round ZERO〜BLADE BRAVE",
       "secondary": "相川七瀬 ／ 仮面ライダー剣(2004年)",
@@ -601,7 +667,7 @@
       "detailPath": "entities/songs/63990b0f0bd9fee9.json"
     },
     {
-      "rank": 26969,
+      "rank": 26971,
       "id": "05c6df81b7d74600",
       "name": "Routes",
       "secondary": "中山愛梨沙",
@@ -634,7 +700,7 @@
       "detailPath": "entities/songs/05c6df81b7d74600.json"
     },
     {
-      "rank": 26970,
+      "rank": 26972,
       "id": "cbd414981ca22f61",
       "name": "Royal Scandal",
       "secondary": "ビタースウィート 🐙🌟ソロ",
@@ -667,7 +733,7 @@
       "detailPath": "entities/songs/cbd414981ca22f61.json"
     },
     {
-      "rank": 26971,
+      "rank": 26973,
       "id": "4126364882ac019f",
       "name": "RPG",
       "secondary": "くおん君",
@@ -700,7 +766,7 @@
       "detailPath": "entities/songs/4126364882ac019f.json"
     },
     {
-      "rank": 26972,
+      "rank": 26974,
       "id": "971c8cb2c82c3935",
       "name": "RPG",
       "secondary": "お兄ちゃ！",
@@ -733,7 +799,7 @@
       "detailPath": "entities/songs/971c8cb2c82c3935.json"
     },
     {
-      "rank": 26973,
+      "rank": 26975,
       "id": "26eb2e4b47057b79",
       "name": "RPG 52曲目",
       "secondary": "未記載",
@@ -766,7 +832,7 @@
       "detailPath": "entities/songs/26eb2e4b47057b79.json"
     },
     {
-      "rank": 26974,
+      "rank": 26976,
       "id": "5548bb3fd52ca8a5",
       "name": "RPG～Rockin' Playing Game",
       "secondary": "SuG",
@@ -799,7 +865,7 @@
       "detailPath": "entities/songs/5548bb3fd52ca8a5.json"
     },
     {
-      "rank": 26975,
+      "rank": 26977,
       "id": "6207631e2d5e31c9",
       "name": "RTRT",
       "secondary": "Mili",
@@ -832,7 +898,7 @@
       "detailPath": "entities/songs/6207631e2d5e31c9.json"
     },
     {
-      "rank": 26976,
+      "rank": 26978,
       "id": "79d0445caec5aa32",
       "name": "Ru-RaRaRu-Ra-Ru-RaRaRu-Ra",
       "secondary": "Sayuri",
@@ -865,7 +931,7 @@
       "detailPath": "entities/songs/79d0445caec5aa32.json"
     },
     {
-      "rank": 26977,
+      "rank": 26979,
       "id": "e465659647b23976",
       "name": "Rubbishyrabbit",
       "secondary": "海々月みくも",
@@ -895,7 +961,7 @@
       "detailPath": "entities/songs/e465659647b23976.json"
     },
     {
-      "rank": 26978,
+      "rank": 26980,
       "id": "b0b19fdf02c8cf4b",
       "name": "Rubia",
       "secondary": "Zhou Shen",
@@ -928,7 +994,7 @@
       "detailPath": "entities/songs/b0b19fdf02c8cf4b.json"
     },
     {
-      "rank": 26979,
+      "rank": 26981,
       "id": "a7634c364665c5e5",
       "name": "Rubia",
       "secondary": "周深",
@@ -961,7 +1027,7 @@
       "detailPath": "entities/songs/a7634c364665c5e5.json"
     },
     {
-      "rank": 26980,
+      "rank": 26982,
       "id": "5fd88379620e0744",
       "name": "RUDE! ( Short Ver. )",
       "secondary": "Hearts2Hearts",
@@ -994,7 +1060,7 @@
       "detailPath": "entities/songs/5fd88379620e0744.json"
     },
     {
-      "rank": 26981,
+      "rank": 26983,
       "id": "c1e17d0f25e6a68a",
       "name": "Ruma",
       "secondary": "Kairiki Bear",
@@ -1027,7 +1093,7 @@
       "detailPath": "entities/songs/c1e17d0f25e6a68a.json"
     },
     {
-      "rank": 26982,
+      "rank": 26984,
       "id": "863817735f35fb2a",
       "name": "Rumbling hearts",
       "secondary": "『君が望む永遠』栗林みな実",
@@ -1061,7 +1127,7 @@
       "detailPath": "entities/songs/863817735f35fb2a.json"
     },
     {
-      "rank": 26983,
+      "rank": 26985,
       "id": "00923d7fcc3af065",
       "name": "Rumor",
       "secondary": "ポリスピカデリー",
@@ -1093,7 +1159,7 @@
       "detailPath": "entities/songs/00923d7fcc3af065.json"
     },
     {
-      "rank": 26984,
+      "rank": 26986,
       "id": "1b9a953573550820",
       "name": "RUMOR",
       "secondary": "ポリスピカデリー feat. GUM",
@@ -1126,7 +1192,7 @@
       "detailPath": "entities/songs/1b9a953573550820.json"
     },
     {
-      "rank": 26985,
+      "rank": 26987,
       "id": "42262dc5779a93f4",
       "name": "RUMOR 和",
       "secondary": "",
@@ -1159,7 +1225,7 @@
       "detailPath": "entities/songs/42262dc5779a93f4.json"
     },
     {
-      "rank": 26986,
+      "rank": 26988,
       "id": "baf4367156ff5cc6",
       "name": "Run",
       "secondary": "KEI",
@@ -1192,7 +1258,7 @@
       "detailPath": "entities/songs/baf4367156ff5cc6.json"
     },
     {
-      "rank": 26987,
+      "rank": 26989,
       "id": "e5ec4781bcdbf3aa",
       "name": "RUN",
       "secondary": "B'z",
@@ -1225,7 +1291,7 @@
       "detailPath": "entities/songs/e5ec4781bcdbf3aa.json"
     },
     {
-      "rank": 26988,
+      "rank": 26990,
       "id": "4dc1391928be7112",
       "name": "RUN",
       "secondary": "",
@@ -1255,7 +1321,7 @@
       "detailPath": "entities/songs/4dc1391928be7112.json"
     },
     {
-      "rank": 26989,
+      "rank": 26991,
       "id": "e2c552deef727860",
       "name": "RUN - sexyzone",
       "secondary": "timelesz",
@@ -1288,7 +1354,7 @@
       "detailPath": "entities/songs/e2c552deef727860.json"
     },
     {
-      "rank": 26990,
+      "rank": 26992,
       "id": "30722c12c9d1d1bd",
       "name": "RUN 1998 style",
       "secondary": "B'z",
@@ -1321,7 +1387,7 @@
       "detailPath": "entities/songs/30722c12c9d1d1bd.json"
     },
     {
-      "rank": 26991,
+      "rank": 26993,
       "id": "df2bbc184e1c3db7",
       "name": "Run Away",
       "secondary": "韓",
@@ -1351,7 +1417,7 @@
       "detailPath": "entities/songs/df2bbc184e1c3db7.json"
     },
     {
-      "rank": 26992,
+      "rank": 26994,
       "id": "63fc580fbd4604b7",
       "name": "Run Back To You",
       "secondary": "Lay Zhang & Lauv",
@@ -1384,7 +1450,7 @@
       "detailPath": "entities/songs/63fc580fbd4604b7.json"
     },
     {
-      "rank": 26993,
+      "rank": 26995,
       "id": "54267dc038238923",
       "name": "Run Devil Run",
       "secondary": "少女時代",
@@ -1418,7 +1484,7 @@
       "detailPath": "entities/songs/54267dc038238923.json"
     },
     {
-      "rank": 26994,
+      "rank": 26996,
       "id": "f1de69a7f0a38183",
       "name": "RUN THIS TOWN(GENERATIONS from EXILE TRIBE)",
       "secondary": "",
@@ -1451,7 +1517,7 @@
       "detailPath": "entities/songs/f1de69a7f0a38183.json"
     },
     {
-      "rank": 26995,
+      "rank": 26997,
       "id": "64bee9067c09331b",
       "name": "Runaway",
       "secondary": "Bon Jovi",
@@ -1485,7 +1551,7 @@
       "detailPath": "entities/songs/64bee9067c09331b.json"
     },
     {
-      "rank": 26996,
+      "rank": 26998,
       "id": "1342fa41285e5418",
       "name": "Rungkad",
       "secondary": "Happy Asmara",
@@ -1518,7 +1584,7 @@
       "detailPath": "entities/songs/1342fa41285e5418.json"
     },
     {
-      "rank": 26997,
+      "rank": 26999,
       "id": "5431495f68113546",
       "name": "RUNNERS HIGH REPRISE",
       "secondary": "UNISON SQUARE GARDEN",
@@ -1551,7 +1617,7 @@
       "detailPath": "entities/songs/5431495f68113546.json"
     },
     {
-      "rank": 26998,
+      "rank": 27000,
       "id": "65149b18aa945dcc",
       "name": "Running to Horizon",
       "secondary": "シティーハンター3 CITY HUNTER3",
@@ -1582,72 +1648,6 @@
         }
       ],
       "detailPath": "entities/songs/65149b18aa945dcc.json"
-    },
-    {
-      "rank": 26999,
-      "id": "642dfb55a6d7fc53",
-      "name": "RUNNING TO HORIZON",
-      "secondary": "小室哲哉",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "naZG6hzU-fI",
-          "videoTitle": "【 16時歌枠 】🌕平成ソングで雨の日の夕方もたのしく♪【 #月城ティータイム 】",
-          "channelName": "Cecil Ch.月城セシル【セシんもーZ】",
-          "publishedAt": "2026-09-16T11:53:50.175Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/naZG6hzU-fI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBs2aNCogA4nzlkXCgou8NgQtfgKA",
-          "sourcePath": "sources/na/naZG6hzU-fI.json",
-          "time": "1:17:20",
-          "seconds": 4640,
-          "songTitle": "RUNNING TO HORIZON",
-          "artist": "小室哲哉"
-        }
-      ],
-      "detailPath": "entities/songs/642dfb55a6d7fc53.json"
-    },
-    {
-      "rank": 27000,
-      "id": "097e60d2358ff580",
-      "name": "RUNWAY",
-      "secondary": "XIDEN",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "l1onyvHO9pQ",
-          "videoTitle": "【歌枠】大人っぽい曲を歌って背伸びしたい【XIDEN/RK Music】#作業用bgm",
-          "channelName": "XIDEN",
-          "publishedAt": "2026-09-02T14:17:30.804Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/l1onyvHO9pQ/hqdefault.jpg",
-          "sourcePath": "sources/l1/l1onyvHO9pQ.json",
-          "time": "1:18:18",
-          "seconds": 4698,
-          "songTitle": "RUNWAY",
-          "artist": "XIDEN"
-        }
-      ],
-      "detailPath": "entities/songs/097e60d2358ff580.json"
     }
   ]
 }

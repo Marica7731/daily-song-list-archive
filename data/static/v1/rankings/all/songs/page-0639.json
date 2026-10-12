@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 639,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 31901,
+      "id": "14248f51d690fee1",
+      "name": "オラはにんきもの",
+      "secondary": "906",
+      "channelId": "UCc6C-lTCEVuVv_aoMsWePSw",
+      "channelHandle": "@Melorine_kingdom",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ykR1dIK0CaQ",
+          "videoTitle": "【歌枠】🍈めろりカラオケ🍈【#3】",
+          "channelName": "めろり",
+          "publishedAt": "2026-09-04T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ykR1dIK0CaQ/hqdefault.jpg",
+          "sourcePath": "sources/yk/ykR1dIK0CaQ.json",
+          "time": "1:34:20",
+          "seconds": 5660,
+          "songTitle": "オラはにんきもの",
+          "artist": "906"
+        }
+      ],
+      "detailPath": "entities/songs/14248f51d690fee1.json"
+    },
+    {
+      "rank": 31902,
+      "id": "bb03fdaedf8123b4",
+      "name": "オラはにんきもの",
+      "secondary": "野原しんのすけ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Uvm_k1JFi6w",
+          "videoTitle": "【 #歌枠 / karaoke 】同接30耐久歌枠.ᐟ.ᐟ.ᐟ✨お助けください😭🙏【#国愛めみ / ＃Vtuber】【 singingstream 】#愛営放送",
+          "channelName": "国愛めみ / Kokuou Memi",
+          "publishedAt": "2026-09-11T15:21:06.268Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Uvm_k1JFi6w/hqdefault.jpg",
+          "sourcePath": "sources/Uv/Uvm_k1JFi6w.json",
+          "time": "0:55:36",
+          "seconds": 3336,
+          "songTitle": "オラはにんきもの",
+          "artist": "野原しんのすけ"
+        }
+      ],
+      "detailPath": "entities/songs/bb03fdaedf8123b4.json"
+    },
+    {
+      "rank": 31903,
       "id": "d9671f85ee5fa807",
       "name": "オラはにんきもの",
       "secondary": "のはらしんのすけ（声:矢島晶子）",
@@ -43,7 +106,7 @@
       "detailPath": "entities/songs/d9671f85ee5fa807.json"
     },
     {
-      "rank": 31902,
+      "rank": 31904,
       "id": "d607a4597741c34a",
       "name": "オラはにんきもの 25thMIX",
       "secondary": "のはらしんのすけ",
@@ -77,7 +140,7 @@
       "detailPath": "entities/songs/d607a4597741c34a.json"
     },
     {
-      "rank": 31903,
+      "rank": 31905,
       "id": "6231549012c86110",
       "name": "オラは人気者",
       "secondary": "クレヨンしんちゃん",
@@ -107,7 +170,7 @@
       "detailPath": "entities/songs/6231549012c86110.json"
     },
     {
-      "rank": 31904,
+      "rank": 31906,
       "id": "c0fbeac1b02f74e8",
       "name": "オラリオン",
       "secondary": "やなぎなぎ",
@@ -141,7 +204,7 @@
       "detailPath": "entities/songs/c0fbeac1b02f74e8.json"
     },
     {
-      "rank": 31905,
+      "rank": 31907,
       "id": "bca6b56be2ddd86b",
       "name": "オリーブオイル飲む(エクストラバージンオリーブオイルボスコ)",
       "secondary": "実家だと毎朝飲まされてた",
@@ -175,7 +238,7 @@
       "detailPath": "entities/songs/bca6b56be2ddd86b.json"
     },
     {
-      "rank": 31906,
+      "rank": 31908,
       "id": "f391af8f7e0aa843",
       "name": "オリオン",
       "secondary": "",
@@ -208,7 +271,7 @@
       "detailPath": "entities/songs/f391af8f7e0aa843.json"
     },
     {
-      "rank": 31907,
+      "rank": 31909,
       "id": "8287fcf3871cad96",
       "name": "オリオンでSHOUT OUT",
       "secondary": "四ノ宮那月",
@@ -238,7 +301,7 @@
       "detailPath": "entities/songs/8287fcf3871cad96.json"
     },
     {
-      "rank": 31908,
+      "rank": 31910,
       "id": "8f1a35ebeff88e0a",
       "name": "オリオンの夢",
       "secondary": "buzzG feat.GUMI",
@@ -271,7 +334,7 @@
       "detailPath": "entities/songs/8f1a35ebeff88e0a.json"
     },
     {
-      "rank": 31909,
+      "rank": 31911,
       "id": "1eb5a91d3ae6b4bb",
       "name": "オリオンをなぞる",
       "secondary": "2回目",
@@ -304,7 +367,7 @@
       "detailPath": "entities/songs/1eb5a91d3ae6b4bb.json"
     },
     {
-      "rank": 31910,
+      "rank": 31912,
       "id": "1048bb809e8ca385",
       "name": "オリオンをなぞる",
       "secondary": "サビのみ・くおん君",
@@ -337,7 +400,7 @@
       "detailPath": "entities/songs/1048bb809e8ca385.json"
     },
     {
-      "rank": 31911,
+      "rank": 31913,
       "id": "da42299bfec3f13f",
       "name": "オリオンをなぞる",
       "secondary": "ハンドマイク",
@@ -367,7 +430,7 @@
       "detailPath": "entities/songs/da42299bfec3f13f.json"
     },
     {
-      "rank": 31912,
+      "rank": 31914,
       "id": "155f225961c05de0",
       "name": "オリオンをなぞる",
       "secondary": "タイバニ",
@@ -400,7 +463,7 @@
       "detailPath": "entities/songs/155f225961c05de0.json"
     },
     {
-      "rank": 31913,
+      "rank": 31915,
       "id": "bb8838f8c34e1ffe",
       "name": "オリオンをなぞる",
       "secondary": "UNISON SQUARE GARAGE",
@@ -433,7 +496,7 @@
       "detailPath": "entities/songs/bb8838f8c34e1ffe.json"
     },
     {
-      "rank": 31914,
+      "rank": 31916,
       "id": "82a54773ab5eb88d",
       "name": "オリオンをなぞる",
       "secondary": "UNISON SQUARE GARDEN 「TIGER & BUNNY」(OP)",
@@ -463,7 +526,7 @@
       "detailPath": "entities/songs/82a54773ab5eb88d.json"
     },
     {
-      "rank": 31915,
+      "rank": 31917,
       "id": "4a521ffa3dc629bd",
       "name": "オリオンをなぞる",
       "secondary": "BGMミス",
@@ -496,7 +559,7 @@
       "detailPath": "entities/songs/4a521ffa3dc629bd.json"
     },
     {
-      "rank": 31916,
+      "rank": 31918,
       "id": "177110c334e289cc",
       "name": "オリオンをなぞる",
       "secondary": "UNION SQUARE GARDEN",
@@ -529,7 +592,7 @@
       "detailPath": "entities/songs/177110c334e289cc.json"
     },
     {
-      "rank": 31917,
+      "rank": 31919,
       "id": "056462330926e0e9",
       "name": "オリオンをなぞる【UNISON SQUARE GARDENの曲 ‧ 2011年】",
       "secondary": "未記載",
@@ -562,7 +625,7 @@
       "detailPath": "entities/songs/056462330926e0e9.json"
     },
     {
-      "rank": 31918,
+      "rank": 31920,
       "id": "1832110f038c53d5",
       "name": "オリジナル（ちょっと）",
       "secondary": "澄花",
@@ -594,7 +657,7 @@
       "detailPath": "entities/songs/1832110f038c53d5.json"
     },
     {
-      "rank": 31919,
+      "rank": 31921,
       "id": "5f44bc568cb16ac5",
       "name": "オリジナル1（少し）",
       "secondary": "澄花",
@@ -628,7 +691,7 @@
       "detailPath": "entities/songs/5f44bc568cb16ac5.json"
     },
     {
-      "rank": 31920,
+      "rank": 31922,
       "id": "ccb823669483f13e",
       "name": "オリジナル2（少し）",
       "secondary": "澄花",
@@ -662,7 +725,7 @@
       "detailPath": "entities/songs/ccb823669483f13e.json"
     },
     {
-      "rank": 31921,
+      "rank": 31923,
       "id": "ead4cad06fe7f396",
       "name": "オリジナル3（少し）",
       "secondary": "澄花",
@@ -696,7 +759,7 @@
       "detailPath": "entities/songs/ead4cad06fe7f396.json"
     },
     {
-      "rank": 31922,
+      "rank": 31924,
       "id": "aca0fc7d9c79e8ca",
       "name": "オリジナル4（少し）",
       "secondary": "澄花",
@@ -730,7 +793,7 @@
       "detailPath": "entities/songs/aca0fc7d9c79e8ca.json"
     },
     {
-      "rank": 31923,
+      "rank": 31925,
       "id": "3630bb9bc58c9ac8",
       "name": "オリジナル5（少し）",
       "secondary": "澄花",
@@ -764,7 +827,7 @@
       "detailPath": "entities/songs/3630bb9bc58c9ac8.json"
     },
     {
-      "rank": 31924,
+      "rank": 31926,
       "id": "671d63588db1e6a6",
       "name": "オリジナル6（少し）",
       "secondary": "澄花",
@@ -798,7 +861,7 @@
       "detailPath": "entities/songs/671d63588db1e6a6.json"
     },
     {
-      "rank": 31925,
+      "rank": 31927,
       "id": "1da40ff17372f82b",
       "name": "オリジナル7（少し）",
       "secondary": "澄花",
@@ -832,7 +895,7 @@
       "detailPath": "entities/songs/1da40ff17372f82b.json"
     },
     {
-      "rank": 31926,
+      "rank": 31928,
       "id": "1941fd7090a03448",
       "name": "オリジナルカクテル",
       "secondary": "未記載",
@@ -865,7 +928,7 @@
       "detailPath": "entities/songs/1941fd7090a03448.json"
     },
     {
-      "rank": 31927,
+      "rank": 31929,
       "id": "8e8f883a535fe3e5",
       "name": "オリジナルスター☆彡",
       "secondary": "わか・るか from STAR☆ANIS",
@@ -895,7 +958,7 @@
       "detailPath": "entities/songs/8e8f883a535fe3e5.json"
     },
     {
-      "rank": 31928,
+      "rank": 31930,
       "id": "515262fd89d16520",
       "name": "オリジナルドリンク",
       "secondary": "未記載",
@@ -929,7 +992,7 @@
       "detailPath": "entities/songs/515262fd89d16520.json"
     },
     {
-      "rank": 31929,
+      "rank": 31931,
       "id": "a5b7518fad9189ec",
       "name": "オリジナル即興曲",
       "secondary": "やまみー",
@@ -961,7 +1024,7 @@
       "detailPath": "entities/songs/a5b7518fad9189ec.json"
     },
     {
-      "rank": 31930,
+      "rank": 31932,
       "id": "d4e5b2c3ce39a084",
       "name": "オリハルコン",
       "secondary": "03:40:38",
@@ -994,7 +1057,7 @@
       "detailPath": "entities/songs/d4e5b2c3ce39a084.json"
     },
     {
-      "rank": 31931,
+      "rank": 31933,
       "id": "c564098b26ffc5a7",
       "name": "オリハルコン",
       "secondary": "織姫はるか",
@@ -1027,7 +1090,7 @@
       "detailPath": "entities/songs/c564098b26ffc5a7.json"
     },
     {
-      "rank": 31932,
+      "rank": 31934,
       "id": "bd14cb564897d602",
       "name": "オリビアを聴きながら",
       "secondary": "杏里 / cover",
@@ -1057,7 +1120,7 @@
       "detailPath": "entities/songs/bd14cb564897d602.json"
     },
     {
-      "rank": 31933,
+      "rank": 31935,
       "id": "19c702edc30c70bd",
       "name": "オリビアを聴きながら",
       "secondary": "尾崎亜美",
@@ -1087,7 +1150,7 @@
       "detailPath": "entities/songs/19c702edc30c70bd.json"
     },
     {
-      "rank": 31934,
+      "rank": 31936,
       "id": "2a09034eaa4c86ab",
       "name": "オリビアを聴きながら",
       "secondary": "杏里／1978/11/05",
@@ -1117,7 +1180,7 @@
       "detailPath": "entities/songs/2a09034eaa4c86ab.json"
     },
     {
-      "rank": 31935,
+      "rank": 31937,
       "id": "c7b9a94b6ea48c32",
       "name": "オリビアを聴きながら",
       "secondary": "",
@@ -1150,7 +1213,7 @@
       "detailPath": "entities/songs/c7b9a94b6ea48c32.json"
     },
     {
-      "rank": 31936,
+      "rank": 31938,
       "id": "2dde0fd1f5a248fb",
       "name": "オリビアを聴きながら（杏里）cover",
       "secondary": "",
@@ -1180,7 +1243,7 @@
       "detailPath": "entities/songs/2dde0fd1f5a248fb.json"
     },
     {
-      "rank": 31937,
+      "rank": 31939,
       "id": "ea687bf61e29b7bb",
       "name": "オリ曲 レゲエ",
       "secondary": "最推し",
@@ -1213,7 +1276,7 @@
       "detailPath": "entities/songs/ea687bf61e29b7bb.json"
     },
     {
-      "rank": 31938,
+      "rank": 31940,
       "id": "07f809e288329742",
       "name": "オリ曲パート",
       "secondary": "",
@@ -1247,7 +1310,7 @@
       "detailPath": "entities/songs/07f809e288329742.json"
     },
     {
-      "rank": 31939,
+      "rank": 31941,
       "id": "dc4e50d8c655aaec",
       "name": "オリ曲メドレー",
       "secondary": "澄花",
@@ -1280,7 +1343,7 @@
       "detailPath": "entities/songs/dc4e50d8c655aaec.json"
     },
     {
-      "rank": 31940,
+      "rank": 31942,
       "id": "b5e8d3498be691c8",
       "name": "オルケストラ",
       "secondary": "未記載",
@@ -1314,7 +1377,7 @@
       "detailPath": "entities/songs/b5e8d3498be691c8.json"
     },
     {
-      "rank": 31941,
+      "rank": 31943,
       "id": "23014662678004b6",
       "name": "オルケリアの声",
       "secondary": "Hagali",
@@ -1347,7 +1410,7 @@
       "detailPath": "entities/songs/23014662678004b6.json"
     },
     {
-      "rank": 31942,
+      "rank": 31944,
       "id": "ee890bceccd6d67a",
       "name": "オルターエゴ",
       "secondary": "Vivid BAD SQUAD",
@@ -1380,7 +1443,7 @@
       "detailPath": "entities/songs/ee890bceccd6d67a.json"
     },
     {
-      "rank": 31943,
+      "rank": 31945,
       "id": "49e9b75f30cc6451",
       "name": "オルターエゴ",
       "secondary": "",
@@ -1413,7 +1476,7 @@
       "detailPath": "entities/songs/49e9b75f30cc6451.json"
     },
     {
-      "rank": 31944,
+      "rank": 31946,
       "id": "dde51bb3f0c72b7c",
       "name": "オルタナティヴ",
       "secondary": "angela",
@@ -1446,7 +1509,7 @@
       "detailPath": "entities/songs/dde51bb3f0c72b7c.json"
     },
     {
-      "rank": 31945,
+      "rank": 31947,
       "id": "545a5130e0f786fc",
       "name": "オルフェ",
       "secondary": "宮野真守（アニメ『うたの☆プリンスさまっ♪ マジLOVE1000%』OP）",
@@ -1479,7 +1542,7 @@
       "detailPath": "entities/songs/545a5130e0f786fc.json"
     },
     {
-      "rank": 31946,
+      "rank": 31948,
       "id": "2803a2f3f760c452",
       "name": "オルフェ",
       "secondary": "",
@@ -1512,7 +1575,7 @@
       "detailPath": "entities/songs/2803a2f3f760c452.json"
     },
     {
-      "rank": 31947,
+      "rank": 31949,
       "id": "c1361e7fc2f4007d",
       "name": "オルフェンズの涙",
       "secondary": "未記載",
@@ -1545,7 +1608,7 @@
       "detailPath": "entities/songs/c1361e7fc2f4007d.json"
     },
     {
-      "rank": 31948,
+      "rank": 31950,
       "id": "3c3f436b9d067f52",
       "name": "オルフェンズの涙",
       "secondary": "Orphans no Namida",
@@ -1576,69 +1639,6 @@
         }
       ],
       "detailPath": "entities/songs/3c3f436b9d067f52.json"
-    },
-    {
-      "rank": 31949,
-      "id": "90995d8b535346bc",
-      "name": "オルフェンズの涙",
-      "secondary": "Orphans no Namida 🤍 (MISIA)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "hh86160EWAM",
-          "videoTitle": "【 #歌枠】魂のバラード歌枠🎙️Singing Stream【 #松永依織 / #無原唱レコード】",
-          "channelName": "松永依織 / IORI MATSUNAGA",
-          "publishedAt": "2026-09-25T15:21:45.724Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/hh86160EWAM/hqdefault.jpg",
-          "sourcePath": "sources/hh/hh86160EWAM.json",
-          "time": "0:46:11",
-          "seconds": 2771,
-          "songTitle": "オルフェンズの涙",
-          "artist": "Orphans no Namida 🤍 (MISIA)"
-        }
-      ],
-      "detailPath": "entities/songs/90995d8b535346bc.json"
-    },
-    {
-      "rank": 31950,
-      "id": "0afc8feaacf3a9c2",
-      "name": "オルフェンズの涙(MISIA) 【機動戦士ガンダム 鉄血のオルフェンズ ED】",
-      "secondary": "",
-      "channelId": "UCEGku149G7MN78RbrOVVZRw",
-      "channelHandle": "@otonagi-riu",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "5BqExHFin3A",
-          "videoTitle": "【#響けガンダム歌枠リレーNP】緊張するけど頑張るからきてぇぇぇぇぇ！！！【音和りうーotonagi riu－】新人Vtuber",
-          "channelName": "音和りう",
-          "publishedAt": "2026-09-13T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5BqExHFin3A/hqdefault.jpg",
-          "sourcePath": "sources/5B/5BqExHFin3A.json",
-          "time": "0:28:40",
-          "seconds": 1720,
-          "songTitle": "オルフェンズの涙(MISIA) 【機動戦士ガンダム 鉄血のオルフェンズ ED】",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/0afc8feaacf3a9c2.json"
     }
   ]
 }

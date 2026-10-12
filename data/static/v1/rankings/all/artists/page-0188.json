@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "artists",
   "page": 188,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20017,
+  "totalCount": 20018,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9351,
+      "id": "5da5a260fee4f03b",
+      "name": "Haruhi Suzumiya",
+      "secondary": "",
+      "channelId": "UChpRPsAeSZn5DistGacR3iA",
+      "channelHandle": "@ACHRORA_official",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Ie1e9qn5ZVk",
+          "videoTitle": "【初歌枠】はじめましてのあなたも力を貸して！6万人耐久🔥【#あくろら6万人耐久歌枠リレー】",
+          "channelName": "ACHRORA - mekPark",
+          "publishedAt": "2026-09-04T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Ie1e9qn5ZVk/hqdefault.jpg",
+          "sourcePath": "sources/Ie/Ie1e9qn5ZVk.json",
+          "time": "2:12:54",
+          "seconds": 7974,
+          "songTitle": "God knows…",
+          "artist": "Haruhi Suzumiya"
+        }
+      ],
+      "detailPath": "entities/artists/5da5a260fee4f03b.json"
+    },
+    {
+      "rank": 9352,
+      "id": "2f4fc9ba0114c884",
+      "name": "Haruka Nakamura (Look Back)",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "PDbmWHGXjXE",
+          "videoTitle": "【KARAOKE | 歌枠】It's been a while! 歌いたい！",
+          "channelName": "Kumisa Umare【Aegis-Link】",
+          "publishedAt": "2026-09-04T21:14:19.785Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PDbmWHGXjXE/hqdefault.jpg",
+          "sourcePath": "sources/PD/PDbmWHGXjXE.json",
+          "time": "1:25:25",
+          "seconds": 5125,
+          "songTitle": "Light Song",
+          "artist": "Haruka Nakamura (Look Back)"
+        }
+      ],
+      "detailPath": "entities/artists/2f4fc9ba0114c884.json"
+    },
+    {
+      "rank": 9353,
       "id": "b4d003fbd5701f88",
       "name": "Haruka Shimotsuki",
       "secondary": "",
@@ -43,7 +106,7 @@
       "detailPath": "entities/artists/b4d003fbd5701f88.json"
     },
     {
-      "rank": 9352,
+      "rank": 9354,
       "id": "a4fe78c11b6fc339",
       "name": "Harumodoki",
       "secondary": "",
@@ -73,7 +136,7 @@
       "detailPath": "entities/artists/a4fe78c11b6fc339.json"
     },
     {
-      "rank": 9353,
+      "rank": 9355,
       "id": "513196d14ef8193a",
       "name": "Hatsukoi Cider (Buono!)",
       "secondary": "",
@@ -105,7 +168,7 @@
       "detailPath": "entities/artists/513196d14ef8193a.json"
     },
     {
-      "rank": 9354,
+      "rank": 9356,
       "id": "a6f0846ac7068e61",
       "name": "Hayashibara Megumi",
       "secondary": "",
@@ -138,7 +201,7 @@
       "detailPath": "entities/artists/a6f0846ac7068e61.json"
     },
     {
-      "rank": 9355,
+      "rank": 9357,
       "id": "18bb1b51e6ad0b25",
       "name": "Hayley Westenra",
       "secondary": "",
@@ -171,7 +234,7 @@
       "detailPath": "entities/artists/18bb1b51e6ad0b25.json"
     },
     {
-      "rank": 9356,
+      "rank": 9358,
       "id": "3de0855624d16a9c",
       "name": "Haze",
       "secondary": "",
@@ -205,7 +268,7 @@
       "detailPath": "entities/artists/3de0855624d16a9c.json"
     },
     {
-      "rank": 9357,
+      "rank": 9359,
       "id": "a0feaad9d340026f",
       "name": "HE★VENS",
       "secondary": "",
@@ -239,7 +302,7 @@
       "detailPath": "entities/artists/a0feaad9d340026f.json"
     },
     {
-      "rank": 9358,
+      "rank": 9360,
       "id": "3a7ae6f618c8262a",
       "name": "Hearts Grow(Hearts Grow)",
       "secondary": "",
@@ -272,7 +335,7 @@
       "detailPath": "entities/artists/3a7ae6f618c8262a.json"
     },
     {
-      "rank": 9359,
+      "rank": 9361,
       "id": "03c7d1d68e3ba605",
       "name": "Hearts Grow(ﾜﾝｺｰﾗｽ)",
       "secondary": "",
@@ -305,7 +368,7 @@
       "detailPath": "entities/artists/03c7d1d68e3ba605.json"
     },
     {
-      "rank": 9360,
+      "rank": 9362,
       "id": "7278061b901fcf41",
       "name": "Hearts2Hearts",
       "secondary": "",
@@ -338,7 +401,7 @@
       "detailPath": "entities/artists/7278061b901fcf41.json"
     },
     {
-      "rank": 9361,
+      "rank": 9363,
       "id": "d67022a001fce204",
       "name": "Heartsdales",
       "secondary": "",
@@ -368,7 +431,7 @@
       "detailPath": "entities/artists/d67022a001fce204.json"
     },
     {
-      "rank": 9362,
+      "rank": 9364,
       "id": "cca639bb2e4834bd",
       "name": "Heaven (Official Video)",
       "secondary": "",
@@ -398,7 +461,7 @@
       "detailPath": "entities/artists/cca639bb2e4834bd.json"
     },
     {
-      "rank": 9363,
+      "rank": 9365,
       "id": "e6de0613a521fb30",
       "name": "Heavenz (-1)",
       "secondary": "",
@@ -431,7 +494,7 @@
       "detailPath": "entities/artists/e6de0613a521fb30.json"
     },
     {
-      "rank": 9364,
+      "rank": 9366,
       "id": "30b86b5f6fcd7b20",
       "name": "Heavenz (Heavenz)",
       "secondary": "",
@@ -464,7 +527,7 @@
       "detailPath": "entities/artists/30b86b5f6fcd7b20.json"
     },
     {
-      "rank": 9365,
+      "rank": 9367,
       "id": "946de390073c40d5",
       "name": "Heavenz ※ちょっと音程が低くて不協和音だったけどスタンプしとく",
       "secondary": "",
@@ -494,7 +557,7 @@
       "detailPath": "entities/artists/946de390073c40d5.json"
     },
     {
-      "rank": 9366,
+      "rank": 9368,
       "id": "07570d681731f335",
       "name": "Heavenz feat. Megurine Luka",
       "secondary": "",
@@ -527,7 +590,7 @@
       "detailPath": "entities/artists/07570d681731f335.json"
     },
     {
-      "rank": 9367,
+      "rank": 9369,
       "id": "49428e138a920710",
       "name": "HeavenZ ft. Megurine Luka",
       "secondary": "",
@@ -560,7 +623,7 @@
       "detailPath": "entities/artists/49428e138a920710.json"
     },
     {
-      "rank": 9368,
+      "rank": 9370,
       "id": "fec8a26f1961730f",
       "name": "Hello Nico",
       "secondary": "",
@@ -593,7 +656,7 @@
       "detailPath": "entities/artists/fec8a26f1961730f.json"
     },
     {
-      "rank": 9369,
+      "rank": 9371,
       "id": "59f0cc748211743f",
       "name": "Henge Mitama",
       "secondary": "",
@@ -623,7 +686,7 @@
       "detailPath": "entities/artists/59f0cc748211743f.json"
     },
     {
-      "rank": 9370,
+      "rank": 9372,
       "id": "fa5c3b94088d7f32",
       "name": "Henry Clay Work×保富康午",
       "secondary": "",
@@ -656,7 +719,7 @@
       "detailPath": "entities/artists/fa5c3b94088d7f32.json"
     },
     {
-      "rank": 9371,
+      "rank": 9373,
       "id": "596d5ad477305a29",
       "name": "Heri-P",
       "secondary": "",
@@ -690,7 +753,7 @@
       "detailPath": "entities/artists/596d5ad477305a29.json"
     },
     {
-      "rank": 9372,
+      "rank": 9374,
       "id": "17e6a578dcd2c574",
       "name": "Hey! Say! JUMP ／ 左目探偵EYE(2010年)",
       "secondary": "",
@@ -723,7 +786,7 @@
       "detailPath": "entities/artists/17e6a578dcd2c574.json"
     },
     {
-      "rank": 9373,
+      "rank": 9375,
       "id": "e69ce4f1868dadc7",
       "name": "Heyo feat. 衛詩",
       "secondary": "",
@@ -756,7 +819,7 @@
       "detailPath": "entities/artists/e69ce4f1868dadc7.json"
     },
     {
-      "rank": 9374,
+      "rank": 9376,
       "id": "db3fa37f375a8575",
       "name": "HIBANA",
       "secondary": "",
@@ -790,7 +853,7 @@
       "detailPath": "entities/artists/db3fa37f375a8575.json"
     },
     {
-      "rank": 9375,
+      "rank": 9377,
       "id": "54556be18dcec026",
       "name": "Hibiki Sakura (Fairouz Ai) & Naruzo Machio (Kaito Ishikawa)",
       "secondary": "",
@@ -823,7 +886,7 @@
       "detailPath": "entities/artists/54556be18dcec026.json"
     },
     {
-      "rank": 9376,
+      "rank": 9378,
       "id": "7c4e59a3c799563d",
       "name": "Hibiki Tachibana (CV. Aoi Yuki), Tsubasa Kazanari (CV. Nana Mizuki), Chris Yukine (CV. Ayahi Takagaki)",
       "secondary": "",
@@ -853,7 +916,7 @@
       "detailPath": "entities/artists/7c4e59a3c799563d.json"
     },
     {
-      "rank": 9377,
+      "rank": 9379,
       "id": "5bd596249419e606",
       "name": "hicat.jp/products/niboshi-%F0",
       "secondary": "",
@@ -883,7 +946,7 @@
       "detailPath": "entities/artists/5bd596249419e606.json"
     },
     {
-      "rank": 9378,
+      "rank": 9380,
       "id": "970a7c388c6b4da4",
       "name": "High Hopes (Official",
       "secondary": "",
@@ -913,7 +976,7 @@
       "detailPath": "entities/artists/970a7c388c6b4da4.json"
     },
     {
-      "rank": 9379,
+      "rank": 9381,
       "id": "5484433cd1b2ce86",
       "name": "High School Musical",
       "secondary": "",
@@ -946,7 +1009,7 @@
       "detailPath": "entities/artists/5484433cd1b2ce86.json"
     },
     {
-      "rank": 9380,
+      "rank": 9382,
       "id": "54deaf63f4486c66",
       "name": "High School Musical 2",
       "secondary": "",
@@ -979,7 +1042,7 @@
       "detailPath": "entities/artists/54deaf63f4486c66.json"
     },
     {
-      "rank": 9381,
+      "rank": 9383,
       "id": "36ed60d697e5c9ad",
       "name": "High School Musical 3",
       "secondary": "",
@@ -1012,7 +1075,7 @@
       "detailPath": "entities/artists/36ed60d697e5c9ad.json"
     },
     {
-      "rank": 9382,
+      "rank": 9384,
       "id": "b702aa8c1320a634",
       "name": "Higuchi Ai",
       "secondary": "",
@@ -1046,7 +1109,7 @@
       "detailPath": "entities/artists/b702aa8c1320a634.json"
     },
     {
-      "rank": 9383,
+      "rank": 9385,
       "id": "a41db973c6569c9d",
       "name": "higuma",
       "secondary": "",
@@ -1076,7 +1139,7 @@
       "detailPath": "entities/artists/a41db973c6569c9d.json"
     },
     {
-      "rank": 9384,
+      "rank": 9386,
       "id": "2ea3741262f055b9",
       "name": "Hihumi Izanami (Ryuichi Kijima)",
       "secondary": "",
@@ -1109,7 +1172,7 @@
       "detailPath": "entities/artists/2ea3741262f055b9.json"
     },
     {
-      "rank": 9385,
+      "rank": 9387,
       "id": "3a1d9d9ca34fffa4",
       "name": "Hiiragi Kirai",
       "secondary": "",
@@ -1142,7 +1205,7 @@
       "detailPath": "entities/artists/3a1d9d9ca34fffa4.json"
     },
     {
-      "rank": 9386,
+      "rank": 9388,
       "id": "fee9a062e2658825",
       "name": "Hiiragi Kirai feat. v flower",
       "secondary": "",
@@ -1175,7 +1238,7 @@
       "detailPath": "entities/artists/fee9a062e2658825.json"
     },
     {
-      "rank": 9387,
+      "rank": 9389,
       "id": "e71ce80c54c82350",
       "name": "Hiiragi Magnetite feat.Kasane Teto",
       "secondary": "",
@@ -1208,7 +1271,7 @@
       "detailPath": "entities/artists/e71ce80c54c82350.json"
     },
     {
-      "rank": 9388,
+      "rank": 9390,
       "id": "fcdd5689d84c3441",
       "name": "Hikari",
       "secondary": "",
@@ -1241,7 +1304,7 @@
       "detailPath": "entities/artists/fcdd5689d84c3441.json"
     },
     {
-      "rank": 9389,
+      "rank": 9391,
       "id": "ba1f0a0c4ede6b8d",
       "name": "Hikari no rasenritsu",
       "secondary": "",
@@ -1275,7 +1338,7 @@
       "detailPath": "entities/artists/ba1f0a0c4ede6b8d.json"
     },
     {
-      "rank": 9390,
+      "rank": 9392,
       "id": "c8cfced49bf5de7b",
       "name": "Hikaru Nara",
       "secondary": "",
@@ -1305,7 +1368,7 @@
       "detailPath": "entities/artists/c8cfced49bf5de7b.json"
     },
     {
-      "rank": 9391,
+      "rank": 9393,
       "id": "e83bbc693d01fc8f",
       "name": "HIM",
       "secondary": "",
@@ -1335,7 +1398,7 @@
       "detailPath": "entities/artists/e83bbc693d01fc8f.json"
     },
     {
-      "rank": 9392,
+      "rank": 9394,
       "id": "1a49640dbbdaa09b",
       "name": "Himawari no Yakusoku 秦 基博 / Motohiro Hata",
       "secondary": "",
@@ -1368,7 +1431,7 @@
       "detailPath": "entities/artists/1a49640dbbdaa09b.json"
     },
     {
-      "rank": 9393,
+      "rank": 9395,
       "id": "a564a0a0fd8e0719",
       "name": "HIMEHNA",
       "secondary": "",
@@ -1401,7 +1464,7 @@
       "detailPath": "entities/artists/a564a0a0fd8e0719.json"
     },
     {
-      "rank": 9394,
+      "rank": 9396,
       "id": "388355a49c476f58",
       "name": "Hinata Electric Works feat.Hatsune",
       "secondary": "",
@@ -1434,7 +1497,7 @@
       "detailPath": "entities/artists/388355a49c476f58.json"
     },
     {
-      "rank": 9395,
+      "rank": 9397,
       "id": "ec01dcfa3bcfb90d",
       "name": "hirai ken",
       "secondary": "",
@@ -1466,7 +1529,7 @@
       "detailPath": "entities/artists/ec01dcfa3bcfb90d.json"
     },
     {
-      "rank": 9396,
+      "rank": 9398,
       "id": "183b74e40f75cc65",
       "name": "Hiroki Oshiba",
       "secondary": "",
@@ -1499,7 +1562,7 @@
       "detailPath": "entities/artists/183b74e40f75cc65.json"
     },
     {
-      "rank": 9397,
+      "rank": 9399,
       "id": "fb8d953bb4a23058",
       "name": "Hiromi Go",
       "secondary": "",
@@ -1532,7 +1595,7 @@
       "detailPath": "entities/artists/fb8d953bb4a23058.json"
     },
     {
-      "rank": 9398,
+      "rank": 9400,
       "id": "bf6a1b505d058430",
       "name": "Hironobu Kageyama 〔Dragon Ball Z〕",
       "secondary": "",
@@ -1564,72 +1627,6 @@
         }
       ],
       "detailPath": "entities/artists/bf6a1b505d058430.json"
-    },
-    {
-      "rank": 9399,
-      "id": "f39205e1651a6d00",
-      "name": "Hirose Koumi",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Gp4Jt_09NJE",
-          "videoTitle": "【歌枠】検証！夜通し歌い続けた者の歌声はどうなるのか？ 【月野木ちろる‐Tirol Tsukinoki‐/ななしいんく】",
-          "channelName": "月野木ちろる / Tirol Channel 【ななしいんく】",
-          "publishedAt": "2026-09-19T00:48:50.529Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Gp4Jt_09NJE/hqdefault.jpg",
-          "sourcePath": "sources/Gp/Gp4Jt_09NJE.json",
-          "time": "7:46:59",
-          "seconds": 28019,
-          "songTitle": "promise",
-          "artist": "Hirose Koumi"
-        }
-      ],
-      "detailPath": "entities/artists/f39205e1651a6d00.json"
-    },
-    {
-      "rank": 9400,
-      "id": "0ede2cce3c665512",
-      "name": "Hiroshi Kitadani",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "leCNvIpB1No",
-          "videoTitle": "【#歌枠 #singingstream 】2曲新しく覚えてきたよ！まったり歌枠 🧸 Chill Singing Stream! #kumastream",
-          "channelName": "夏白くぅま",
-          "publishedAt": "2026-07-11T02:46:12.580Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/leCNvIpB1No/hqdefault.jpg",
-          "sourcePath": "sources/le/leCNvIpB1No.json",
-          "time": "2:44:29",
-          "seconds": 9869,
-          "songTitle": "We Are!",
-          "artist": "Hiroshi Kitadani"
-        }
-      ],
-      "detailPath": "entities/artists/0ede2cce3c665512.json"
     }
   ]
 }

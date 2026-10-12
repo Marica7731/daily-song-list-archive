@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "30d",
   "type": "songs",
   "page": 136,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27670,
+  "totalCount": 27671,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6751,
+      "id": "b1492786b4c3d1cf",
+      "name": "桜が降る夜は",
+      "secondary": "あいみょん",
+      "channelId": "UCndLVi0fj2Mfl5melvOgy2g",
+      "channelHandle": "@kohinata_mikuru",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "7P4XY6B5-k4",
+          "videoTitle": "【歌枠】夕焼けの綺麗な世界で、久しぶりのフルトラ歌枠。【#VRChat #神月渚】",
+          "channelName": "神月 渚 / Nagisa Kouzuki︎",
+          "publishedAt": "2026-09-18T14:46:48.956Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7P4XY6B5-k4/hqdefault.jpg",
+          "sourcePath": "sources/7P/7P4XY6B5-k4.json",
+          "time": "0:45:29",
+          "seconds": 2729,
+          "songTitle": "桜が降る夜は",
+          "artist": "あいみょん"
+        },
+        {
+          "videoId": "8rmnYvhX5qc",
+          "videoTitle": "〖弾き語り:singing stream〗おでの災難聞いてくれ～い！！！#vtuber #弾き語り",
+          "channelName": "小日向みくる / Kohinata Mikuru",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8rmnYvhX5qc/hqdefault.jpg",
+          "sourcePath": "sources/8r/8rmnYvhX5qc.json",
+          "time": "1:07:37",
+          "seconds": 4057,
+          "songTitle": "桜が降る夜は",
+          "artist": "あいみょん"
+        }
+      ],
+      "detailPath": "entities/songs/b1492786b4c3d1cf.json"
+    },
+    {
+      "rank": 6752,
       "id": "0d4459cbe006d3f5",
       "name": "桜キッス",
       "secondary": "河邉千恵子",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/0d4459cbe006d3f5.json"
     },
     {
-      "rank": 6752,
+      "rank": 6753,
       "id": "438b0cd538a956ff",
       "name": "桜ノ雨",
       "secondary": "absorb",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/438b0cd538a956ff.json"
     },
     {
-      "rank": 6753,
+      "rank": 6754,
       "id": "850c205ff8d36ce3",
       "name": "桜の子",
       "secondary": "カンザキイオリ",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/850c205ff8d36ce3.json"
     },
     {
-      "rank": 6754,
+      "rank": 6755,
       "id": "6e0963223f07cd25",
       "name": "錆びついたマシンガンで今を撃ち抜こう",
       "secondary": "",
@@ -190,7 +235,7 @@
       "detailPath": "entities/songs/6e0963223f07cd25.json"
     },
     {
-      "rank": 6755,
+      "rank": 6756,
       "id": "7a3b007179da84da",
       "name": "三国駅",
       "secondary": "aiko",
@@ -235,7 +280,7 @@
       "detailPath": "entities/songs/7a3b007179da84da.json"
     },
     {
-      "rank": 6756,
+      "rank": 6757,
       "id": "8b7d472e82b5c186",
       "name": "三日月サンセット",
       "secondary": "サカナクション",
@@ -280,7 +325,7 @@
       "detailPath": "entities/songs/8b7d472e82b5c186.json"
     },
     {
-      "rank": 6757,
+      "rank": 6758,
       "id": "7a3146dd2886ad1b",
       "name": "三日月ライダー",
       "secondary": "40mP",
@@ -326,7 +371,7 @@
       "detailPath": "entities/songs/7a3146dd2886ad1b.json"
     },
     {
-      "rank": 6758,
+      "rank": 6759,
       "id": "8c31c4518aea5eba",
       "name": "三文小説",
       "secondary": "king gnu",
@@ -371,7 +416,7 @@
       "detailPath": "entities/songs/8c31c4518aea5eba.json"
     },
     {
-      "rank": 6759,
+      "rank": 6760,
       "id": "7fa50d6a5f433935",
       "name": "散歩の邪魔",
       "secondary": "いよわ feat. 春日部つむぎ",
@@ -416,7 +461,7 @@
       "detailPath": "entities/songs/7fa50d6a5f433935.json"
     },
     {
-      "rank": 6760,
+      "rank": 6761,
       "id": "2b81463a7b203c3e",
       "name": "残響散歌",
       "secondary": "Aimer ／ 鬼滅の刃 遊郭編(2022年)",
@@ -458,7 +503,7 @@
       "detailPath": "entities/songs/2b81463a7b203c3e.json"
     },
     {
-      "rank": 6761,
+      "rank": 6762,
       "id": "8a5f78e660ddf349",
       "name": "残響散歌",
       "secondary": "Aimer ※JOYSOUND",
@@ -503,7 +548,7 @@
       "detailPath": "entities/songs/8a5f78e660ddf349.json"
     },
     {
-      "rank": 6762,
+      "rank": 6763,
       "id": "e519b18de0c55986",
       "name": "四季刻歌",
       "secondary": "綿飴 feat.IA",
@@ -545,7 +590,7 @@
       "detailPath": "entities/songs/e519b18de0c55986.json"
     },
     {
-      "rank": 6763,
+      "rank": 6764,
       "id": "234bd445d0a8588a",
       "name": "四季刻歌",
       "secondary": "",
@@ -590,7 +635,7 @@
       "detailPath": "entities/songs/234bd445d0a8588a.json"
     },
     {
-      "rank": 6764,
+      "rank": 6765,
       "id": "1d372c159ebf1bbf",
       "name": "指切り",
       "secondary": "すこっぷ feat. 初音ミク",
@@ -635,7 +680,7 @@
       "detailPath": "entities/songs/1d372c159ebf1bbf.json"
     },
     {
-      "rank": 6765,
+      "rank": 6766,
       "id": "871974b7477d74c8",
       "name": "指切りげんまん",
       "secondary": "RADWIMPS",
@@ -680,7 +725,7 @@
       "detailPath": "entities/songs/871974b7477d74c8.json"
     },
     {
-      "rank": 6766,
+      "rank": 6767,
       "id": "a28bc209d55cdbee",
       "name": "死ぬな！",
       "secondary": "こっちのけんと",
@@ -725,7 +770,7 @@
       "detailPath": "entities/songs/a28bc209d55cdbee.json"
     },
     {
-      "rank": 6767,
+      "rank": 6768,
       "id": "34c2cfd8b35712bf",
       "name": "死んでしまうとはなさけない！",
       "secondary": "ワンダフル☆オポチュニティ！",
@@ -770,7 +815,7 @@
       "detailPath": "entities/songs/34c2cfd8b35712bf.json"
     },
     {
-      "rank": 6768,
+      "rank": 6769,
       "id": "5f29b7755cc4a51a",
       "name": "私、アイドル宣言",
       "secondary": "夏川椎菜",
@@ -815,7 +860,7 @@
       "detailPath": "entities/songs/5f29b7755cc4a51a.json"
     },
     {
-      "rank": 6769,
+      "rank": 6770,
       "id": "3b858774a41e8caf",
       "name": "私がオバさんになっても",
       "secondary": "",
@@ -860,7 +905,7 @@
       "detailPath": "entities/songs/3b858774a41e8caf.json"
     },
     {
-      "rank": 6770,
+      "rank": 6771,
       "id": "ffe4c46eab5818d1",
       "name": "私たちになりたくて",
       "secondary": "藤谷美和子",
@@ -905,7 +950,7 @@
       "detailPath": "entities/songs/ffe4c46eab5818d1.json"
     },
     {
-      "rank": 6771,
+      "rank": 6772,
       "id": "b347fc40f20dbd62",
       "name": "私たちはもう舞台の上",
       "secondary": "スタァライト九九組",
@@ -950,7 +995,7 @@
       "detailPath": "entities/songs/b347fc40f20dbd62.json"
     },
     {
-      "rank": 6772,
+      "rank": 6773,
       "id": "ff9c7906329b24e7",
       "name": "私の彼はパイロット",
       "secondary": "ランカ・リー＝中島愛",
@@ -995,7 +1040,7 @@
       "detailPath": "entities/songs/ff9c7906329b24e7.json"
     },
     {
-      "rank": 6773,
+      "rank": 6774,
       "id": "b64cf416abd333ce",
       "name": "私は、わたしの事が好き",
       "secondary": "HoneyWorks / かぐや(cv.夏吉ゆうこ) from 超かぐや姫！",
@@ -1040,7 +1085,7 @@
       "detailPath": "entities/songs/b64cf416abd333ce.json"
     },
     {
-      "rank": 6774,
+      "rank": 6775,
       "id": "f28f94bffb448c25",
       "name": "私はピアノ",
       "secondary": "高田みづえ",
@@ -1086,7 +1131,7 @@
       "detailPath": "entities/songs/f28f94bffb448c25.json"
     },
     {
-      "rank": 6775,
+      "rank": 6776,
       "id": "3ff51f32d11d1381",
       "name": "糸",
       "secondary": "",
@@ -1131,7 +1176,7 @@
       "detailPath": "entities/songs/3ff51f32d11d1381.json"
     },
     {
-      "rank": 6776,
+      "rank": 6777,
       "id": "38a19fe9838b2d71",
       "name": "糸",
       "secondary": "シド",
@@ -1176,7 +1221,7 @@
       "detailPath": "entities/songs/38a19fe9838b2d71.json"
     },
     {
-      "rank": 6777,
+      "rank": 6778,
       "id": "917d7ea76b8d96d8",
       "name": "紫苑",
       "secondary": "Saucy Dog",
@@ -1221,7 +1266,7 @@
       "detailPath": "entities/songs/917d7ea76b8d96d8.json"
     },
     {
-      "rank": 6778,
+      "rank": 6779,
       "id": "df5098f4617b8956",
       "name": "紫色の向日葵",
       "secondary": "香椎モイミ",
@@ -1266,7 +1311,7 @@
       "detailPath": "entities/songs/df5098f4617b8956.json"
     },
     {
-      "rank": 6779,
+      "rank": 6780,
       "id": "0f83b1b6ff5175ad",
       "name": "至少還有你",
       "secondary": "林憶蓮",
@@ -1311,7 +1356,7 @@
       "detailPath": "entities/songs/0f83b1b6ff5175ad.json"
     },
     {
-      "rank": 6780,
+      "rank": 6781,
       "id": "1a196b8f582b75da",
       "name": "慈雨のくちづけ",
       "secondary": "シド",
@@ -1356,7 +1401,7 @@
       "detailPath": "entities/songs/1a196b8f582b75da.json"
     },
     {
-      "rank": 6781,
+      "rank": 6782,
       "id": "cae31027a4305541",
       "name": "時の河",
       "secondary": "FENCE OF DEFENSE",
@@ -1401,7 +1446,7 @@
       "detailPath": "entities/songs/cae31027a4305541.json"
     },
     {
-      "rank": 6782,
+      "rank": 6783,
       "id": "5f53b281a803f9d6",
       "name": "時空を超え 宇宙を超え",
       "secondary": "モーニング娘。'14",
@@ -1446,7 +1491,7 @@
       "detailPath": "entities/songs/5f53b281a803f9d6.json"
     },
     {
-      "rank": 6783,
+      "rank": 6784,
       "id": "793a3109c71ae4b3",
       "name": "自己肯定感爆上げ↑↑しゅきしゅきソング",
       "secondary": "初星学園",
@@ -1491,7 +1536,7 @@
       "detailPath": "entities/songs/793a3109c71ae4b3.json"
     },
     {
-      "rank": 6784,
+      "rank": 6785,
       "id": "d131a5388fa9e6a9",
       "name": "自由の翼",
       "secondary": "Linked Horizon",
@@ -1536,7 +1581,7 @@
       "detailPath": "entities/songs/d131a5388fa9e6a9.json"
     },
     {
-      "rank": 6785,
+      "rank": 6786,
       "id": "f52fc4c7b6ff5707",
       "name": "自由への招待",
       "secondary": "L'Arc-en-Ciel",
@@ -1581,7 +1626,7 @@
       "detailPath": "entities/songs/f52fc4c7b6ff5707.json"
     },
     {
-      "rank": 6786,
+      "rank": 6787,
       "id": "c89f8d05b46e2fd1",
       "name": "式",
       "secondary": "岡崎体育",
@@ -1626,7 +1671,7 @@
       "detailPath": "entities/songs/c89f8d05b46e2fd1.json"
     },
     {
-      "rank": 6787,
+      "rank": 6788,
       "id": "68620cc7701ddce9",
       "name": "雫",
       "secondary": "",
@@ -1671,7 +1716,7 @@
       "detailPath": "entities/songs/68620cc7701ddce9.json"
     },
     {
-      "rank": 6788,
+      "rank": 6789,
       "id": "f297fb66b6116d47",
       "name": "七色シンフォニー",
       "secondary": "コアラモード",
@@ -1716,7 +1761,7 @@
       "detailPath": "entities/songs/f297fb66b6116d47.json"
     },
     {
-      "rank": 6789,
+      "rank": 6790,
       "id": "cfe6aa4afa06efb5",
       "name": "失楽ペトリ",
       "secondary": "ナナホシ管弦楽団",
@@ -1761,7 +1806,7 @@
       "detailPath": "entities/songs/cfe6aa4afa06efb5.json"
     },
     {
-      "rank": 6790,
+      "rank": 6791,
       "id": "db5b2a1777199555",
       "name": "失楽ペトリ",
       "secondary": "ナナホシ管弦楽団 feat.初音ミク",
@@ -1806,7 +1851,7 @@
       "detailPath": "entities/songs/db5b2a1777199555.json"
     },
     {
-      "rank": 6791,
+      "rank": 6792,
       "id": "5f11e518af2523e1",
       "name": "疾走",
       "secondary": "LAST ALLIANCE",
@@ -1852,7 +1897,7 @@
       "detailPath": "entities/songs/5f11e518af2523e1.json"
     },
     {
-      "rank": 6792,
+      "rank": 6793,
       "id": "1133593292ac25f6",
       "name": "射手座☆午後九時 Don't be late",
       "secondary": "",
@@ -1897,7 +1942,7 @@
       "detailPath": "entities/songs/1133593292ac25f6.json"
     },
     {
-      "rank": 6793,
+      "rank": 6794,
       "id": "50d1c2c409b3b920",
       "name": "社会の窓",
       "secondary": "クリープハイプ",
@@ -1942,7 +1987,7 @@
       "detailPath": "entities/songs/50d1c2c409b3b920.json"
     },
     {
-      "rank": 6794,
+      "rank": 6795,
       "id": "6a0f413bb181f85e",
       "name": "主人公",
       "secondary": "SUPER BEAVER",
@@ -1984,7 +2029,7 @@
       "detailPath": "entities/songs/6a0f413bb181f85e.json"
     },
     {
-      "rank": 6795,
+      "rank": 6796,
       "id": "03df6290fed8f18a",
       "name": "主人公",
       "secondary": "まにこ（オリジナル・フル）",
@@ -2029,7 +2074,7 @@
       "detailPath": "entities/songs/03df6290fed8f18a.json"
     },
     {
-      "rank": 6796,
+      "rank": 6797,
       "id": "feaf88e1fa4968dc",
       "name": "守護神 -The guardian",
       "secondary": "JAM Project",
@@ -2071,7 +2116,7 @@
       "detailPath": "entities/songs/feaf88e1fa4968dc.json"
     },
     {
-      "rank": 6797,
+      "rank": 6798,
       "id": "577f939ca8fb2c73",
       "name": "手と手",
       "secondary": "クリープハイプ",
@@ -2117,7 +2162,7 @@
       "detailPath": "entities/songs/577f939ca8fb2c73.json"
     },
     {
-      "rank": 6798,
+      "rank": 6799,
       "id": "a4bd3e45e15d9af3",
       "name": "手をたたけ",
       "secondary": "NICO Touches the Walls",
@@ -2162,7 +2207,7 @@
       "detailPath": "entities/songs/a4bd3e45e15d9af3.json"
     },
     {
-      "rank": 6799,
+      "rank": 6800,
       "id": "1cf1f755bc37d0a6",
       "name": "手をつなごう",
       "secondary": "",
@@ -2205,51 +2250,6 @@
         }
       ],
       "detailPath": "entities/songs/1cf1f755bc37d0a6.json"
-    },
-    {
-      "rank": 6800,
-      "id": "b99f0811206c1f20",
-      "name": "手をつなごう",
-      "secondary": "絢香",
-      "channelId": "UCK1WG3mmyfwQTjInGguaV2w",
-      "channelHandle": "@amane_iro",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vv_2_-B2lCc",
-          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
-          "channelName": "天音",
-          "publishedAt": "2026-10-08T15:40:41.566Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
-          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
-          "time": "2:02:19",
-          "seconds": 7339,
-          "songTitle": "手をつなごう",
-          "artist": "絢香"
-        },
-        {
-          "videoId": "w738YGbPQtQ",
-          "videoTitle": "【定期歌枠/karaoke】初見さん大歓迎✨今日はどんな曲で盛り上がる？？オリ曲も歌詞動画付きで歌うよ！",
-          "channelName": "天音 彩🫧Amane Iro",
-          "publishedAt": "2026-10-05T16:43:46.809Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/w738YGbPQtQ/hqdefault.jpg",
-          "sourcePath": "sources/w7/w738YGbPQtQ.json",
-          "time": "0:58:00",
-          "seconds": 3480,
-          "songTitle": "手をつなごう",
-          "artist": "絢香"
-        }
-      ],
-      "detailPath": "entities/songs/b99f0811206c1f20.json"
     }
   ]
 }

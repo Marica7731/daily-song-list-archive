@@ -1,16 +1,62 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 193,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9601,
+      "id": "f5793c50da524cb2",
+      "name": "Bang Bang",
+      "secondary": "Jessie J & Ariana Grande & Nicki Minaj",
+      "channelId": "UCqe0-vqZwAvZUb22wCMu1fA",
+      "channelHandle": "/channel/UCqe0-vqZwAvZUb22wCMu1fA",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "GtXaUNGXp3c",
+          "videoTitle": "【歌枠】復仇英文歌回｜狗勾要雪恥！因為上次有胃食道逆流QQ，影響好久又好多💦【犬神幽乃詩／芥川組】#歌枠 #singingstream #karaoke",
+          "channelName": "Inugami ch. 犬神幽乃詩",
+          "publishedAt": "2026-07-14T14:58:22.719Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/GtXaUNGXp3c/hqdefault.jpg",
+          "sourcePath": "sources/Gt/GtXaUNGXp3c.json",
+          "time": "3:04:56",
+          "seconds": 11096,
+          "songTitle": "Bang Bang",
+          "artist": "Jessie J, Ariana Grande, Nicki Minaj"
+        },
+        {
+          "videoId": "-iOsziIkWtw",
+          "videoTitle": "【歌枠】ちるちる┊︎#音ノ乃のの #ののん家",
+          "channelName": "音ノ乃のの / NononoNono",
+          "publishedAt": "2026-07-02T21:13:05.244Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-iOsziIkWtw/hqdefault.jpg",
+          "sourcePath": "sources/-i/-iOsziIkWtw.json",
+          "time": "1:26:12",
+          "seconds": 5172,
+          "songTitle": "Bang Bang",
+          "artist": "Jessie J & Ariana Grande & Nicki Minaj"
+        }
+      ],
+      "detailPath": "entities/songs/f5793c50da524cb2.json"
+    },
+    {
+      "rank": 9602,
       "id": "cb1671e7168a9490",
       "name": "Believe",
       "secondary": "玉置成実 ※JOYSOUND",
@@ -55,7 +101,7 @@
       "detailPath": "entities/songs/cb1671e7168a9490.json"
     },
     {
-      "rank": 9602,
+      "rank": 9603,
       "id": "997ee76693a2af33",
       "name": "BUBBLE GUM DANCE",
       "secondary": "MELLOW DEAR US",
@@ -103,7 +149,7 @@
       "detailPath": "entities/songs/997ee76693a2af33.json"
     },
     {
-      "rank": 9603,
+      "rank": 9604,
       "id": "0e1f3f1bd77de7fa",
       "name": "Charisma Battle Anthem",
       "secondary": "伊藤ふみや feat. 六人のカリスマ",
@@ -149,50 +195,6 @@
         }
       ],
       "detailPath": "entities/songs/0e1f3f1bd77de7fa.json"
-    },
-    {
-      "rank": 9604,
-      "id": "33ef407f4d25b6c5",
-      "name": "Dear",
-      "secondary": "Junna",
-      "channelId": "UCGLrsPlc2DpavAxmj1QV1tw",
-      "channelHandle": "@hibanamomose",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Yy93UDM6kHk",
-          "videoTitle": "【#歌枠 #Karaoke】新章、最初の歌枠。ここからまた歌っていく。【百瀬ヒバナ / Vsinger",
-          "channelName": "百瀬ヒバナ- FLANICA",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Yy93UDM6kHk/hqdefault.jpg",
-          "sourcePath": "sources/Yy/Yy93UDM6kHk.json",
-          "time": "1:39:21",
-          "seconds": 5961,
-          "songTitle": "Dear",
-          "artist": "Junna"
-        },
-        {
-          "videoId": "z3ZoBAB7wZ8",
-          "videoTitle": "【#歌枠 #Karaoke】初見歓迎！ニチアサ定期！チケット耐久歌枠【#百瀬ヒバナ #vsinger 】",
-          "channelName": "百瀬ヒバナ- FLANICA",
-          "publishedAt": "2026-07-02T23:03:56.849Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/z3ZoBAB7wZ8/hqdefault.jpg",
-          "sourcePath": "sources/z3/z3ZoBAB7wZ8.json",
-          "time": "1:24:13",
-          "seconds": 5053,
-          "songTitle": "Dear",
-          "artist": "Junna"
-        }
-      ],
-      "detailPath": "entities/songs/33ef407f4d25b6c5.json"
     },
     {
       "rank": 9605,

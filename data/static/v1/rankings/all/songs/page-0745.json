@@ -1,16 +1,79 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 745,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 37201,
+      "id": "5cb77e1bcf10fd00",
+      "name": "ハルジオン",
+      "secondary": "YOASOBI ※JOYSOUND",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "I-1hQTsUGTY",
+          "videoTitle": "【歌枠】疲れた人に送る泣ける曲縛り🌷初見さんROMさん歓迎",
+          "channelName": "可否モカ / Kahi Mocha",
+          "publishedAt": "2026-09-17T11:53:14.396Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/I-1hQTsUGTY/hqdefault.jpg",
+          "sourcePath": "sources/I-/I-1hQTsUGTY.json",
+          "time": "0:03:56",
+          "seconds": 236,
+          "songTitle": "ハルジオン",
+          "artist": "YOASOBI ※JOYSOUND"
+        }
+      ],
+      "detailPath": "entities/songs/5cb77e1bcf10fd00.json"
+    },
+    {
+      "rank": 37202,
+      "id": "b282da818251b4d4",
+      "name": "ハルジオン",
+      "secondary": "YOASOBI／それでも、ハッピーエンド（橋爪駿輝）／2020/05/11",
+      "channelId": "UCT5fUg1KHzGbCGhKDGyLY6w",
+      "channelHandle": "@%E7%B6%BE%E7%80%AC%E6%A1%9C",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "BmZKDfe5-5M",
+          "videoTitle": "🌸#歌枠 🎤週の真ん中癒しをお届け✨初見様歓迎🎶LUMINOUS VOICE【女性VTuber／綾瀬桜】#karaoke",
+          "channelName": "綾瀬 桜",
+          "publishedAt": "2026-09-23T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/BmZKDfe5-5M/hqdefault.jpg",
+          "sourcePath": "sources/Bm/BmZKDfe5-5M.json",
+          "time": "0:55:03",
+          "seconds": 3303,
+          "songTitle": "ハルジオン",
+          "artist": "YOASOBI／それでも、ハッピーエンド（橋爪駿輝）／2020/05/11"
+        }
+      ],
+      "detailPath": "entities/songs/b282da818251b4d4.json"
+    },
+    {
+      "rank": 37203,
       "id": "bae309b900329775",
       "name": "はるどなり",
       "secondary": "須田景凪",
@@ -43,7 +106,7 @@
       "detailPath": "entities/songs/bae309b900329775.json"
     },
     {
-      "rank": 37202,
+      "rank": 37204,
       "id": "ca354342a248b0a8",
       "name": "はるなつあきふゆ",
       "secondary": "青葉市子",
@@ -75,7 +138,7 @@
       "detailPath": "entities/songs/ca354342a248b0a8.json"
     },
     {
-      "rank": 37203,
+      "rank": 37205,
       "id": "41ee6c27d7e2b47f",
       "name": "ハルノヒ",
       "secondary": "あいみょん(愛繆) /《蠟筆小新:新婚旅行風暴〜失蹤的廣志〜》主題曲",
@@ -109,7 +172,7 @@
       "detailPath": "entities/songs/41ee6c27d7e2b47f.json"
     },
     {
-      "rank": 37204,
+      "rank": 37206,
       "id": "230dba0081b645a6",
       "name": "ハルノヒ",
       "secondary": "",
@@ -139,7 +202,7 @@
       "detailPath": "entities/songs/230dba0081b645a6.json"
     },
     {
-      "rank": 37205,
+      "rank": 37207,
       "id": "1eb290324c47e1bd",
       "name": "ハルノヒ",
       "secondary": "あいみょん(あいみょん)",
@@ -172,7 +235,7 @@
       "detailPath": "entities/songs/1eb290324c47e1bd.json"
     },
     {
-      "rank": 37206,
+      "rank": 37208,
       "id": "c01b516f3d60d948",
       "name": "はるのよに",
       "secondary": "想太 feat. 初音ミク",
@@ -205,7 +268,7 @@
       "detailPath": "entities/songs/c01b516f3d60d948.json"
     },
     {
-      "rank": 37207,
+      "rank": 37209,
       "id": "fab38012b9d911dd",
       "name": "ハルモニア",
       "secondary": "未記載",
@@ -238,7 +301,7 @@
       "detailPath": "entities/songs/fab38012b9d911dd.json"
     },
     {
-      "rank": 37208,
+      "rank": 37210,
       "id": "2506fc4faecfa08f",
       "name": "ハルモニア",
       "secondary": "RHYTHM",
@@ -271,7 +334,7 @@
       "detailPath": "entities/songs/2506fc4faecfa08f.json"
     },
     {
-      "rank": 37209,
+      "rank": 37211,
       "id": "a247a7b7371c7a71",
       "name": "ハルモニア",
       "secondary": "RYTHEM(NARUTO)",
@@ -301,7 +364,7 @@
       "detailPath": "entities/songs/a247a7b7371c7a71.json"
     },
     {
-      "rank": 37210,
+      "rank": 37212,
       "id": "549b8a14935c4d0c",
       "name": "パレイドリア",
       "secondary": "須田景凪",
@@ -331,7 +394,7 @@
       "detailPath": "entities/songs/549b8a14935c4d0c.json"
     },
     {
-      "rank": 37211,
+      "rank": 37213,
       "id": "718c9759ffee2e3c",
       "name": "パレード",
       "secondary": "BUMP OF CHICKEN",
@@ -365,7 +428,7 @@
       "detailPath": "entities/songs/718c9759ffee2e3c.json"
     },
     {
-      "rank": 37212,
+      "rank": 37214,
       "id": "0d970c4fd635e585",
       "name": "パレード",
       "secondary": "平沢進",
@@ -398,7 +461,7 @@
       "detailPath": "entities/songs/0d970c4fd635e585.json"
     },
     {
-      "rank": 37213,
+      "rank": 37215,
       "id": "cc1cc5dd0bddcbeb",
       "name": "パレード",
       "secondary": "ハルカミライ",
@@ -431,7 +494,7 @@
       "detailPath": "entities/songs/cc1cc5dd0bddcbeb.json"
     },
     {
-      "rank": 37214,
+      "rank": 37216,
       "id": "d2dbf81f86373c4d",
       "name": "パレードしようよ",
       "secondary": "PRINCESS PRINCESS",
@@ -464,7 +527,7 @@
       "detailPath": "entities/songs/d2dbf81f86373c4d.json"
     },
     {
-      "rank": 37215,
+      "rank": 37217,
       "id": "02de81bf12e9ef8c",
       "name": "パレオはエメラルド",
       "secondary": "",
@@ -497,7 +560,7 @@
       "detailPath": "entities/songs/02de81bf12e9ef8c.json"
     },
     {
-      "rank": 37216,
+      "rank": 37218,
       "id": "17fce72868ab5afc",
       "name": "パレット",
       "secondary": "ポルノグラフィティ",
@@ -527,7 +590,7 @@
       "detailPath": "entities/songs/17fce72868ab5afc.json"
     },
     {
-      "rank": 37217,
+      "rank": 37219,
       "id": "4938bd492d87b015",
       "name": "パレットガールズ",
       "secondary": "TINGS",
@@ -560,7 +623,7 @@
       "detailPath": "entities/songs/4938bd492d87b015.json"
     },
     {
-      "rank": 37218,
+      "rank": 37220,
       "id": "998003c52101d177",
       "name": "バレットには君がいっぱい",
       "secondary": "ぽわぽわP",
@@ -593,7 +656,7 @@
       "detailPath": "entities/songs/998003c52101d177.json"
     },
     {
-      "rank": 37219,
+      "rank": 37221,
       "id": "4bbe8a6aa6f7e759",
       "name": "ハレのち始まりの日",
       "secondary": "神谷浩史",
@@ -623,7 +686,7 @@
       "detailPath": "entities/songs/4bbe8a6aa6f7e759.json"
     },
     {
-      "rank": 37220,
+      "rank": 37222,
       "id": "2924cd2667f01180",
       "name": "ハレの日に（ちょっと）",
       "secondary": "汐れいら",
@@ -656,7 +719,7 @@
       "detailPath": "entities/songs/2924cd2667f01180.json"
     },
     {
-      "rank": 37221,
+      "rank": 37223,
       "id": "9fff11cace5466d5",
       "name": "ハレハレヤ",
       "secondary": "",
@@ -686,7 +749,7 @@
       "detailPath": "entities/songs/9fff11cace5466d5.json"
     },
     {
-      "rank": 37222,
+      "rank": 37224,
       "id": "19fda672d75d312b",
       "name": "バレリーコ",
       "secondary": "みきとP・愛島工房",
@@ -719,7 +782,7 @@
       "detailPath": "entities/songs/19fda672d75d312b.json"
     },
     {
-      "rank": 37223,
+      "rank": 37225,
       "id": "2523ae130421eb7e",
       "name": "バレリーコ",
       "secondary": "",
@@ -752,7 +815,7 @@
       "detailPath": "entities/songs/2523ae130421eb7e.json"
     },
     {
-      "rank": 37224,
+      "rank": 37226,
       "id": "568367a07ffe6982",
       "name": "バレリーコ",
       "secondary": "みきとP feat. flower",
@@ -785,7 +848,7 @@
       "detailPath": "entities/songs/568367a07ffe6982.json"
     },
     {
-      "rank": 37225,
+      "rank": 37227,
       "id": "b7a63a3afe1fdd74",
       "name": "バレリーコ +5",
       "secondary": "みきとP",
@@ -815,7 +878,7 @@
       "detailPath": "entities/songs/b7a63a3afe1fdd74.json"
     },
     {
-      "rank": 37226,
+      "rank": 37228,
       "id": "ac442941b439a622",
       "name": "ハレルヤ",
       "secondary": "FoZZtoneとセカイイチ",
@@ -848,7 +911,7 @@
       "detailPath": "entities/songs/ac442941b439a622.json"
     },
     {
-      "rank": 37227,
+      "rank": 37229,
       "id": "19703d360e253b3b",
       "name": "ハレルヤスカイ",
       "secondary": "凛々咲",
@@ -881,7 +944,7 @@
       "detailPath": "entities/songs/19703d360e253b3b.json"
     },
     {
-      "rank": 37228,
+      "rank": 37230,
       "id": "299d2b7cbee3363a",
       "name": "ばれろ",
       "secondary": "",
@@ -914,7 +977,7 @@
       "detailPath": "entities/songs/299d2b7cbee3363a.json"
     },
     {
-      "rank": 37229,
+      "rank": 37231,
       "id": "ae700941477c8354",
       "name": "バレンタイン・キッス",
       "secondary": "国生さおり",
@@ -944,7 +1007,7 @@
       "detailPath": "entities/songs/ae700941477c8354.json"
     },
     {
-      "rank": 37230,
+      "rank": 37232,
       "id": "b92660c5de9bf98d",
       "name": "ハレンチ",
       "secondary": "未記載",
@@ -976,7 +1039,7 @@
       "detailPath": "entities/songs/b92660c5de9bf98d.json"
     },
     {
-      "rank": 37231,
+      "rank": 37233,
       "id": "852b3245d984ec08",
       "name": "ハレンチ",
       "secondary": "01:13:01",
@@ -1009,7 +1072,7 @@
       "detailPath": "entities/songs/852b3245d984ec08.json"
     },
     {
-      "rank": 37232,
+      "rank": 37234,
       "id": "b6dffe6b34a4ebca",
       "name": "ハレンチ",
       "secondary": "ちゃんみな ※JOYSOUND",
@@ -1042,7 +1105,7 @@
       "detailPath": "entities/songs/b6dffe6b34a4ebca.json"
     },
     {
-      "rank": 37233,
+      "rank": 37235,
       "id": "7b29f8636ef9e806",
       "name": "ハレンチ",
       "secondary": "ちゃんみなz",
@@ -1075,7 +1138,7 @@
       "detailPath": "entities/songs/7b29f8636ef9e806.json"
     },
     {
-      "rank": 37234,
+      "rank": 37236,
       "id": "6669509b75387f54",
       "name": "ハレンチ(+5)",
       "secondary": "ちゃんみな",
@@ -1107,7 +1170,7 @@
       "detailPath": "entities/songs/6669509b75387f54.json"
     },
     {
-      "rank": 37235,
+      "rank": 37237,
       "id": "8776cf5ed96016f7",
       "name": "ハレ晴レユカイ",
       "secondary": "朝比奈みくる",
@@ -1141,7 +1204,7 @@
       "detailPath": "entities/songs/8776cf5ed96016f7.json"
     },
     {
-      "rank": 37236,
+      "rank": 37238,
       "id": "03dfa6714fde480b",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ、 朝比奈 みくる、 長門有希",
@@ -1175,7 +1238,7 @@
       "detailPath": "entities/songs/03dfa6714fde480b.json"
     },
     {
-      "rank": 37237,
+      "rank": 37239,
       "id": "e4216bb1df9ffb9d",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子) 96.156",
@@ -1205,7 +1268,7 @@
       "detailPath": "entities/songs/e4216bb1df9ffb9d.json"
     },
     {
-      "rank": 37238,
+      "rank": 37240,
       "id": "d3af70d282d50308",
       "name": "ハレ晴レユカイ",
       "secondary": "( 涼宮ハルヒの憂鬱より。 )",
@@ -1238,7 +1301,7 @@
       "detailPath": "entities/songs/d3af70d282d50308.json"
     },
     {
-      "rank": 37239,
+      "rank": 37241,
       "id": "0e09069eb958853a",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ（CV.平野綾）・長門有希（CV.茅原実",
@@ -1271,7 +1334,7 @@
       "detailPath": "entities/songs/0e09069eb958853a.json"
     },
     {
-      "rank": 37240,
+      "rank": 37242,
       "id": "1d9faa97054f141e",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ(CV.平野綾)、長門有希(CV.茅原実里)、朝比奈みくる(CV.後藤邑子) ※JOYSOUND",
@@ -1304,7 +1367,7 @@
       "detailPath": "entities/songs/1d9faa97054f141e.json"
     },
     {
-      "rank": 37241,
+      "rank": 37243,
       "id": "179c3db7c22da982",
       "name": "ハレ晴れユカイ",
       "secondary": "涼宮ハルヒ・長門有希",
@@ -1337,7 +1400,7 @@
       "detailPath": "entities/songs/179c3db7c22da982.json"
     },
     {
-      "rank": 37242,
+      "rank": 37244,
       "id": "42de5e4070fc3ba4",
       "name": "ハレ晴レユカイ",
       "secondary": "ハルヒ",
@@ -1370,7 +1433,7 @@
       "detailPath": "entities/songs/42de5e4070fc3ba4.json"
     },
     {
-      "rank": 37243,
+      "rank": 37245,
       "id": "52f774bffcf2e72d",
       "name": "ハレ晴れユカイ",
       "secondary": "恥ずかしVER",
@@ -1403,7 +1466,7 @@
       "detailPath": "entities/songs/52f774bffcf2e72d.json"
     },
     {
-      "rank": 37244,
+      "rank": 37246,
       "id": "718039b0035db2aa",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ（平野綾）、長門有希（茅原実里）、朝比奈みくる（後藤芭子）",
@@ -1436,7 +1499,7 @@
       "detailPath": "entities/songs/718039b0035db2aa.json"
     },
     {
-      "rank": 37245,
+      "rank": 37247,
       "id": "f37ea89106b66c55",
       "name": "ハレ晴レユカイ",
       "secondary": "『涼宮ハルヒの憂鬱』のキャスト",
@@ -1469,7 +1532,7 @@
       "detailPath": "entities/songs/f37ea89106b66c55.json"
     },
     {
-      "rank": 37246,
+      "rank": 37248,
       "id": "17b9557863efa424",
       "name": "ハレ晴レユカイ",
       "secondary": "8点",
@@ -1502,7 +1565,7 @@
       "detailPath": "entities/songs/17b9557863efa424.json"
     },
     {
-      "rank": 37247,
+      "rank": 37249,
       "id": "bdf07d3e928556b2",
       "name": "ハレ晴れユカイ",
       "secondary": "喜緑江美里(白鳥由里)",
@@ -1535,7 +1598,7 @@
       "detailPath": "entities/songs/bdf07d3e928556b2.json"
     },
     {
-      "rank": 37248,
+      "rank": 37250,
       "id": "bf714b22ea35f24c",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ(平野綾)、長門有希(茅原美里)、朝比奈みくる(後藤邑子)",
@@ -1566,73 +1629,6 @@
         }
       ],
       "detailPath": "entities/songs/bf714b22ea35f24c.json"
-    },
-    {
-      "rank": 37249,
-      "id": "dbb2e9e3071dc9c7",
-      "name": "ハレ晴れユカイ\t涼宮ハルヒ/平野綾,長門有希/茅原実里,朝比奈みくる",
-      "secondary": "後藤邑子 (2006年5月)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "i-klJdMd8_A",
-          "videoTitle": "【歌枠】ウウワワウワ♪【ぶいすぽ/花芽なずな】",
-          "channelName": "花芽なずな / Nazuna Kaga",
-          "publishedAt": "2026-09-21T12:44:51.595Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/i-klJdMd8_A/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBvkKjMOT_fd8KDKo4YutyVoIgkpg",
-          "sourcePath": "sources/i-/i-klJdMd8_A.json",
-          "time": "0:14:46",
-          "seconds": 886,
-          "songTitle": "ハレ晴れユカイ\t涼宮ハルヒ/平野綾,長門有希/茅原実里,朝比奈みくる",
-          "artist": "後藤邑子 (2006年5月)"
-        }
-      ],
-      "detailPath": "entities/songs/dbb2e9e3071dc9c7.json"
-    },
-    {
-      "rank": 37250,
-      "id": "859d4edfdec5ac54",
-      "name": "ハレ晴レユカイ（Ver.涼宮ハルヒ）",
-      "secondary": "涼宮ハルヒ(CV.平野綾)",
-      "channelId": "UCBY1b_TPZx3rA0F1KJnXkNQ",
-      "channelHandle": "@muzuchannel",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "rP27jvXNSoE",
-          "videoTitle": "【＃歌枠】脱もやし！みんながごはん代決める配信、目指せステーキ！【MUZU/個人Vtuber】",
-          "channelName": "MUZU‐むずちゃんねる‐【Vtuber】",
-          "publishedAt": "2026-08-07T04:20:29.717Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rP27jvXNSoE/hqdefault.jpg",
-          "sourcePath": "sources/rP/rP27jvXNSoE.json",
-          "time": "0:37:27",
-          "seconds": 2247,
-          "songTitle": "ハレ晴レユカイ（Ver.涼宮ハルヒ）",
-          "artist": "涼宮ハルヒ(CV.平野綾)"
-        }
-      ],
-      "detailPath": "entities/songs/859d4edfdec5ac54.json"
     }
   ]
 }

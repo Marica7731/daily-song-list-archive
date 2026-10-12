@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 750,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 37451,
+      "id": "4529604e8659591f",
+      "name": "びっくらこきDX",
+      "secondary": "これまでの歩みを振り返り感謝",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vT_oq0xbXTs",
+          "videoTitle": "【 歌枠 】チャンネル登録1.5万人記念でおうたうたうじょ！！【すぺしゃりて / 王猛ちたむ】",
+          "channelName": "王猛ちたむ / Chitamu Omo",
+          "publishedAt": "2026-09-29T14:00:37.686Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vT_oq0xbXTs/hqdefault.jpg",
+          "sourcePath": "sources/vT/vT_oq0xbXTs.json",
+          "time": "0:56:28",
+          "seconds": 3388,
+          "songTitle": "びっくらこきDX",
+          "artist": "これまでの歩みを振り返り感謝"
+        }
+      ],
+      "detailPath": "entities/songs/4529604e8659591f.json"
+    },
+    {
+      "rank": 37452,
+      "id": "70b901b097de1ed8",
+      "name": "ひつじ雲",
+      "secondary": "whoo, acane_madder",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "8Dsogi6Occ4",
+          "videoTitle": "〖歌枠〗初見さんも歓迎！珍しい曲を歌っていきます🥀〖Rosetta〗| #ローズガーデンでお茶会 #karaoke",
+          "channelName": "Rosetta / ロゼッタ",
+          "publishedAt": "2026-09-21T15:52:01.137Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8Dsogi6Occ4/hqdefault.jpg",
+          "sourcePath": "sources/8D/8Dsogi6Occ4.json",
+          "time": "1:44:25",
+          "seconds": 6265,
+          "songTitle": "ひつじ雲",
+          "artist": "whoo, acane_madder"
+        }
+      ],
+      "detailPath": "entities/songs/70b901b097de1ed8.json"
+    },
+    {
+      "rank": 37453,
       "id": "c925e2dfe133c251",
       "name": "ぴったりしたいX’mas!",
       "secondary": "プッチモニ",
@@ -43,7 +109,7 @@
       "detailPath": "entities/songs/c925e2dfe133c251.json"
     },
     {
-      "rank": 37452,
+      "rank": 37454,
       "id": "bc0f417bbd297e8c",
       "name": "ぴてぃぱてぃサバイバード",
       "secondary": "ゲスかわ☆ガールズ",
@@ -76,7 +142,7 @@
       "detailPath": "entities/songs/bc0f417bbd297e8c.json"
     },
     {
-      "rank": 37453,
+      "rank": 37455,
       "id": "8fe272b4f30a0164",
       "name": "ビデオ戦士レザリオン",
       "secondary": "ビデオ戦士レザリオン",
@@ -109,7 +175,7 @@
       "detailPath": "entities/songs/8fe272b4f30a0164.json"
     },
     {
-      "rank": 37454,
+      "rank": 37456,
       "id": "61e45339aed6bba0",
       "name": "ひどい人",
       "secondary": "オリジナル曲",
@@ -139,7 +205,7 @@
       "detailPath": "entities/songs/61e45339aed6bba0.json"
     },
     {
-      "rank": 37455,
+      "rank": 37457,
       "id": "3addd0b358588386",
       "name": "ひどい人",
       "secondary": "柳井鹿目",
@@ -172,7 +238,7 @@
       "detailPath": "entities/songs/3addd0b358588386.json"
     },
     {
-      "rank": 37456,
+      "rank": 37458,
       "id": "db8a98ed16ae83ba",
       "name": "ひとこと",
       "secondary": "ENA",
@@ -202,7 +268,7 @@
       "detailPath": "entities/songs/db8a98ed16ae83ba.json"
     },
     {
-      "rank": 37457,
+      "rank": 37459,
       "id": "98adf53da42be0b8",
       "name": "ヒトサマアレルギー",
       "secondary": "かいりきベア",
@@ -235,7 +301,7 @@
       "detailPath": "entities/songs/98adf53da42be0b8.json"
     },
     {
-      "rank": 37458,
+      "rank": 37460,
       "id": "629767a8b03736c0",
       "name": "ひとたらし",
       "secondary": "桑田佳祐",
@@ -265,7 +331,7 @@
       "detailPath": "entities/songs/629767a8b03736c0.json"
     },
     {
-      "rank": 37459,
+      "rank": 37461,
       "id": "09626b355561a09c",
       "name": "ひとつになれないけものたち",
       "secondary": "未記載",
@@ -299,7 +365,7 @@
       "detailPath": "entities/songs/09626b355561a09c.json"
     },
     {
-      "rank": 37460,
+      "rank": 37462,
       "id": "1ae8c55b6c2af030",
       "name": "ヒトには恋が必要です",
       "secondary": "塩出美彩希",
@@ -332,7 +398,7 @@
       "detailPath": "entities/songs/1ae8c55b6c2af030.json"
     },
     {
-      "rank": 37461,
+      "rank": 37463,
       "id": "2672c46d392b0ea6",
       "name": "ヒトヒラのハナビラ",
       "secondary": "BLEACH",
@@ -362,7 +428,7 @@
       "detailPath": "entities/songs/2672c46d392b0ea6.json"
     },
     {
-      "rank": 37462,
+      "rank": 37464,
       "id": "9164ae691fb445ab",
       "name": "ヒトミシリ",
       "secondary": "カノエナラ",
@@ -395,7 +461,7 @@
       "detailPath": "entities/songs/9164ae691fb445ab.json"
     },
     {
-      "rank": 37463,
+      "rank": 37465,
       "id": "22c6f54a79a40d53",
       "name": "ヒトミノチカラ 観月ありさ",
       "secondary": "",
@@ -425,7 +491,7 @@
       "detailPath": "entities/songs/22c6f54a79a40d53.json"
     },
     {
-      "rank": 37464,
+      "rank": 37466,
       "id": "ea860f13d1080c5f",
       "name": "ヒトリ",
       "secondary": "かりん",
@@ -455,7 +521,7 @@
       "detailPath": "entities/songs/ea860f13d1080c5f.json"
     },
     {
-      "rank": 37465,
+      "rank": 37467,
       "id": "1787c681b3e7d71c",
       "name": "ひとりあやとり",
       "secondary": "田村 ゆかり",
@@ -485,7 +551,7 @@
       "detailPath": "entities/songs/1787c681b3e7d71c.json"
     },
     {
-      "rank": 37466,
+      "rank": 37468,
       "id": "df6a5e37b5d193aa",
       "name": "ひとりがち",
       "secondary": "Rokuro ft.IA",
@@ -518,7 +584,7 @@
       "detailPath": "entities/songs/df6a5e37b5d193aa.json"
     },
     {
-      "rank": 37467,
+      "rank": 37469,
       "id": "e8419af38e7c6c4b",
       "name": "ひとりごつ",
       "secondary": "未記載",
@@ -551,7 +617,7 @@
       "detailPath": "entities/songs/e8419af38e7c6c4b.json"
     },
     {
-      "rank": 37468,
+      "rank": 37470,
       "id": "454df4f13c016db1",
       "name": "ひとりごつ",
       "secondary": "ハチワレ（91.628点）",
@@ -585,7 +651,7 @@
       "detailPath": "entities/songs/454df4f13c016db1.json"
     },
     {
-      "rank": 37469,
+      "rank": 37471,
       "id": "2b57d03d6e7c8878",
       "name": "ひとりごつ",
       "secondary": "ひなた",
@@ -618,7 +684,7 @@
       "detailPath": "entities/songs/2b57d03d6e7c8878.json"
     },
     {
-      "rank": 37470,
+      "rank": 37472,
       "id": "a06e08ee0fe99d28",
       "name": "ひとりごつ",
       "secondary": "おかわり",
@@ -651,7 +717,7 @@
       "detailPath": "entities/songs/a06e08ee0fe99d28.json"
     },
     {
-      "rank": 37471,
+      "rank": 37473,
       "id": "e345e9e130abff1d",
       "name": "ひとりごつ",
       "secondary": "分かるところだけ",
@@ -681,7 +747,7 @@
       "detailPath": "entities/songs/e345e9e130abff1d.json"
     },
     {
-      "rank": 37472,
+      "rank": 37474,
       "id": "8b66ab3ed6d6bde5",
       "name": "ひとりごつ",
       "secondary": "ハチワレと田中誠人",
@@ -714,7 +780,7 @@
       "detailPath": "entities/songs/8b66ab3ed6d6bde5.json"
     },
     {
-      "rank": 37473,
+      "rank": 37475,
       "id": "a56814006c5cb050",
       "name": "ひとりごつ",
       "secondary": "笑",
@@ -747,7 +813,7 @@
       "detailPath": "entities/songs/a56814006c5cb050.json"
     },
     {
-      "rank": 37474,
+      "rank": 37476,
       "id": "8e5dacba8aa6e4fd",
       "name": "ひとりごつ",
       "secondary": "ハチワレ（ちいかわ）",
@@ -780,7 +846,7 @@
       "detailPath": "entities/songs/8e5dacba8aa6e4fd.json"
     },
     {
-      "rank": 37475,
+      "rank": 37477,
       "id": "e1710b2f618604e4",
       "name": "ひとりごつ",
       "secondary": "ハチワレ (清唱)",
@@ -813,7 +879,7 @@
       "detailPath": "entities/songs/e1710b2f618604e4.json"
     },
     {
-      "rank": 37476,
+      "rank": 37478,
       "id": "e1089023e33092be",
       "name": "ひとりごつ",
       "secondary": "少しだけ",
@@ -846,7 +912,7 @@
       "detailPath": "entities/songs/e1089023e33092be.json"
     },
     {
-      "rank": 37477,
+      "rank": 37479,
       "id": "24bf7d71057bf648",
       "name": "ひとりごつ",
       "secondary": "可愛いすぎた",
@@ -879,7 +945,7 @@
       "detailPath": "entities/songs/24bf7d71057bf648.json"
     },
     {
-      "rank": 37478,
+      "rank": 37480,
       "id": "815b844d3f1e27bf",
       "name": "ひとりごつ",
       "secondary": "ハチワレ (田中誠人さん)",
@@ -912,7 +978,7 @@
       "detailPath": "entities/songs/815b844d3f1e27bf.json"
     },
     {
-      "rank": 37479,
+      "rank": 37481,
       "id": "04744c43b5f2d0ea",
       "name": "ひとりごつ",
       "secondary": "田中誠人",
@@ -945,7 +1011,7 @@
       "detailPath": "entities/songs/04744c43b5f2d0ea.json"
     },
     {
-      "rank": 37480,
+      "rank": 37482,
       "id": "25e718a4f6e1302d",
       "name": "ひとりごつ",
       "secondary": "ハチワレ(CV:田中誠人) アカペラVer",
@@ -978,7 +1044,7 @@
       "detailPath": "entities/songs/25e718a4f6e1302d.json"
     },
     {
-      "rank": 37481,
+      "rank": 37483,
       "id": "58341dc4aba1f871",
       "name": "ひとりごつ\tハチワレ",
       "secondary": "田中 誠人 (2022年6月)",
@@ -1011,7 +1077,7 @@
       "detailPath": "entities/songs/58341dc4aba1f871.json"
     },
     {
-      "rank": 37482,
+      "rank": 37484,
       "id": "fef21af93d8b432f",
       "name": "ひとりごつ～バンドVer.～",
       "secondary": "ちいかわ",
@@ -1044,7 +1110,7 @@
       "detailPath": "entities/songs/fef21af93d8b432f.json"
     },
     {
-      "rank": 37483,
+      "rank": 37485,
       "id": "b505ba1a6e9b963f",
       "name": "ヒトリゴト",
       "secondary": "ClariSさん",
@@ -1077,7 +1143,7 @@
       "detailPath": "entities/songs/b505ba1a6e9b963f.json"
     },
     {
-      "rank": 37484,
+      "rank": 37486,
       "id": "22d1f5838f97b68b",
       "name": "ヒトリゴト",
       "secondary": "TVsize",
@@ -1107,7 +1173,7 @@
       "detailPath": "entities/songs/22d1f5838f97b68b.json"
     },
     {
-      "rank": 37485,
+      "rank": 37487,
       "id": "b10e6fb65da18740",
       "name": "ヒトリゴト",
       "secondary": "ClariS (2017)（エロマンガ先生 OP）",
@@ -1137,7 +1203,7 @@
       "detailPath": "entities/songs/b10e6fb65da18740.json"
     },
     {
-      "rank": 37486,
+      "rank": 37488,
       "id": "3a5ba89e6add92b3",
       "name": "ヒトリゴト",
       "secondary": "エロマンガ先生OP/ClariS",
@@ -1170,7 +1236,7 @@
       "detailPath": "entities/songs/3a5ba89e6add92b3.json"
     },
     {
-      "rank": 37487,
+      "rank": 37489,
       "id": "5b94ab1cfe56676d",
       "name": "ヒトリゴト",
       "secondary": "",
@@ -1200,7 +1266,7 @@
       "detailPath": "entities/songs/5b94ab1cfe56676d.json"
     },
     {
-      "rank": 37488,
+      "rank": 37490,
       "id": "26d20cb510e12988",
       "name": "ヒトリゴト\tClariS",
       "secondary": "2017年4月",
@@ -1233,7 +1299,7 @@
       "detailPath": "entities/songs/26d20cb510e12988.json"
     },
     {
-      "rank": 37489,
+      "rank": 37491,
       "id": "83a85ca3fac9ac0b",
       "name": "ヒトリゴト(エロマンガ先生)",
       "secondary": "ClariS",
@@ -1267,7 +1333,7 @@
       "detailPath": "entities/songs/83a85ca3fac9ac0b.json"
     },
     {
-      "rank": 37490,
+      "rank": 37492,
       "id": "5711d0cac61afa8a",
       "name": "ひとりごと（薬屋のひとりごと）",
       "secondary": "Omoinotake",
@@ -1300,7 +1366,7 @@
       "detailPath": "entities/songs/5711d0cac61afa8a.json"
     },
     {
-      "rank": 37491,
+      "rank": 37493,
       "id": "a8b01f4018c078fa",
       "name": "ヒトリゴト🎹ᕷ*.°",
       "secondary": "ClariS",
@@ -1334,7 +1400,7 @@
       "detailPath": "entities/songs/a8b01f4018c078fa.json"
     },
     {
-      "rank": 37492,
+      "rank": 37494,
       "id": "f7f2dc2b34eab8e5",
       "name": "ヒトリゴトClariS",
       "secondary": "未記載",
@@ -1368,7 +1434,7 @@
       "detailPath": "entities/songs/f7f2dc2b34eab8e5.json"
     },
     {
-      "rank": 37493,
+      "rank": 37495,
       "id": "cdbd2318d3e974f1",
       "name": "ヒトリゴトみたいにアイシテタ",
       "secondary": "dorlis",
@@ -1398,7 +1464,7 @@
       "detailPath": "entities/songs/cdbd2318d3e974f1.json"
     },
     {
-      "rank": 37494,
+      "rank": 37496,
       "id": "5cb73434f488e8e0",
       "name": "ひとりじゃない",
       "secondary": "DEENｻﾝ",
@@ -1431,7 +1497,7 @@
       "detailPath": "entities/songs/5cb73434f488e8e0.json"
     },
     {
-      "rank": 37495,
+      "rank": 37497,
       "id": "040e8c8ed4531360",
       "name": "ひとりじゃない",
       "secondary": "DEEN ※JOYSOUND",
@@ -1465,7 +1531,7 @@
       "detailPath": "entities/songs/040e8c8ed4531360.json"
     },
     {
-      "rank": 37496,
+      "rank": 37498,
       "id": "d046fb9141b771ee",
       "name": "ひとりじゃない(1996年)",
       "secondary": "DEEN",
@@ -1498,7 +1564,7 @@
       "detailPath": "entities/songs/d046fb9141b771ee.json"
     },
     {
-      "rank": 37497,
+      "rank": 37499,
       "id": "54380015140ed487",
       "name": "ひとりじゃない✦DEEN",
       "secondary": "未記載",
@@ -1531,7 +1597,7 @@
       "detailPath": "entities/songs/54380015140ed487.json"
     },
     {
-      "rank": 37498,
+      "rank": 37500,
       "id": "9de4e9df16cc239c",
       "name": "ひとりじゃないの",
       "secondary": "天地真理",
@@ -1562,72 +1628,6 @@
         }
       ],
       "detailPath": "entities/songs/9de4e9df16cc239c.json"
-    },
-    {
-      "rank": 37499,
-      "id": "1871b4f5936cd329",
-      "name": "ひとりで生きていたならば",
-      "secondary": "00:36:24",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ph1rzYlwQGw",
-          "videoTitle": "【歌枠】おひるですって！集合！！集合！！【#織姫はるか/#vtuber 】",
-          "channelName": "織姫はるか / Orihime Haruka",
-          "publishedAt": "2026-09-16T05:13:20.929Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ph1rzYlwQGw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8_OMSpOJ4wykQZR9PxYL95jTyCQ",
-          "sourcePath": "sources/ph/ph1rzYlwQGw.json",
-          "time": "0:36:24",
-          "seconds": 2184,
-          "songTitle": "ひとりで生きていたならば",
-          "artist": "00:36:24"
-        }
-      ],
-      "detailPath": "entities/songs/1871b4f5936cd329.json"
-    },
-    {
-      "rank": 37500,
-      "id": "355be3d3080a1c7a",
-      "name": "ひとりで生きていたならば",
-      "secondary": "SUPER BEAVERｻﾝ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "-n9D-Mi4WlE",
-          "videoTitle": "【歌枠】リクエスト大歓迎！ #vtuber #弾き語り",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-09-18T15:30:10.791Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-n9D-Mi4WlE/hqdefault.jpg",
-          "sourcePath": "sources/-n/-n9D-Mi4WlE.json",
-          "time": "1:11:20",
-          "seconds": 4280,
-          "songTitle": "ひとりで生きていたならば",
-          "artist": "SUPER BEAVERｻﾝ"
-        }
-      ],
-      "detailPath": "entities/songs/355be3d3080a1c7a.json"
     }
   ]
 }

@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "30d",
   "type": "songs",
   "page": 312,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27670,
+  "totalCount": 27671,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 15551,
+      "id": "9bec8f1bf253ae32",
+      "name": "アメフラシの歌 〜Beautiful Rain〜",
+      "secondary": "ニケ・ルメルシエ（CV:前田玲奈）（アカペラ）",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "JgkunrHDsAE",
+          "videoTitle": "【高評価123を目指す！】寝落ち歓迎！癒しの歌枠！初見さん大歓迎！💛【新人VTuberの雑談／歌枠】🐻",
+          "channelName": "桜庭 羽奈【パレデミア学園】",
+          "publishedAt": "2026-09-30T14:49:54.097Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JgkunrHDsAE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCQpAOo8-HMC_e5IlE_yf-k0_kW8A",
+          "sourcePath": "sources/Jg/JgkunrHDsAE.json",
+          "time": "0:43:57",
+          "seconds": 2637,
+          "songTitle": "アメフラシの歌 〜Beautiful Rain〜",
+          "artist": "ニケ・ルメルシエ（CV:前田玲奈）（アカペラ）"
+        }
+      ],
+      "detailPath": "entities/songs/9bec8f1bf253ae32.json"
+    },
+    {
+      "rank": 15552,
       "id": "92be0e85ef564449",
       "name": "アメフラシの歌 ～Beautiful Rain～",
       "secondary": "ニケ・ルメルシェ (CV:前田 玲奈)",
@@ -43,7 +76,7 @@
       "detailPath": "entities/songs/92be0e85ef564449.json"
     },
     {
-      "rank": 15552,
+      "rank": 15553,
       "id": "7ab3b068333086de",
       "name": "アメフラシの歌 ～Beautiful Rain～",
       "secondary": "ニケ・ルメルシエ(CV:前田玲奈)",
@@ -76,7 +109,7 @@
       "detailPath": "entities/songs/7ab3b068333086de.json"
     },
     {
-      "rank": 15553,
+      "rank": 15554,
       "id": "7032b63c252bd02a",
       "name": "アメフラシの歌〜Beatiful Rain〜",
       "secondary": "前田玲奈",
@@ -109,7 +142,7 @@
       "detailPath": "entities/songs/7032b63c252bd02a.json"
     },
     {
-      "rank": 15554,
+      "rank": 15555,
       "id": "c622588edcef1198",
       "name": "アメフラシの歌～Beatiful Rain～",
       "secondary": "ニケ・ルメルシエ(前田玲奈)",
@@ -142,7 +175,7 @@
       "detailPath": "entities/songs/c622588edcef1198.json"
     },
     {
-      "rank": 15555,
+      "rank": 15556,
       "id": "4900d9542b633fa2",
       "name": "あめふりくまのこ",
       "secondary": "童謡",
@@ -172,7 +205,7 @@
       "detailPath": "entities/songs/4900d9542b633fa2.json"
     },
     {
-      "rank": 15556,
+      "rank": 15557,
       "id": "1fd8d6f953526bab",
       "name": "あめふりくまのこ",
       "secondary": "おかあさんといっしょ",
@@ -202,7 +235,7 @@
       "detailPath": "entities/songs/1fd8d6f953526bab.json"
     },
     {
-      "rank": 15557,
+      "rank": 15558,
       "id": "b294e14c99aedab6",
       "name": "あめふるはこにわ",
       "secondary": "ELECTROCUTICA",
@@ -230,39 +263,6 @@
         }
       ],
       "detailPath": "entities/songs/b294e14c99aedab6.json"
-    },
-    {
-      "rank": 15558,
-      "id": "32561c3a1c71d647",
-      "name": "アヤノの幸福理論",
-      "secondary": "じん feat. IA・・・点呼",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "W5nCRAyjJRM",
-          "videoTitle": "【＃歌枠】夜は眠れるまったりソングが歌いたい！【花咲ことは/新人VTuber】",
-          "channelName": "花咲ことは@新人VTuber",
-          "publishedAt": "2026-09-12T14:52:31.987Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/W5nCRAyjJRM/hqdefault.jpg",
-          "sourcePath": "sources/W5/W5nCRAyjJRM.json",
-          "time": "1:27:50",
-          "seconds": 5270,
-          "songTitle": "アヤノの幸福理論",
-          "artist": "じん feat. IA・・・点呼"
-        }
-      ],
-      "detailPath": "entities/songs/32561c3a1c71d647.json"
     },
     {
       "rank": 15559,

@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 98,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4851,
+      "id": "cbd5a6a2746fb578",
+      "name": "Hug",
+      "secondary": "Mrs. GREEN APPLE",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 5,
+      "videoCount": 5,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "QAJlu1jB0k4",
+          "videoTitle": "【 vtuber 弾き語り】ピアノの音色でチルなひと時を☕🌙1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+          "channelName": "アイリナ・ゼファリオ【StellArt.】",
+          "publishedAt": "2026-09-15T16:44:15.954Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QAJlu1jB0k4/hqdefault.jpg",
+          "sourcePath": "sources/QA/QAJlu1jB0k4.json",
+          "time": "2:26:55",
+          "seconds": 8815,
+          "songTitle": "Hug",
+          "artist": "Mrs. GREEN APPLE"
+        },
+        {
+          "videoId": "Y7baIzKfRFM",
+          "videoTitle": "【歌枠】歌っていく【JOYSOUND for STREAMER】",
+          "channelName": "ぱらがす",
+          "publishedAt": "2026-09-14T17:17:39.280Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Y7baIzKfRFM/hqdefault.jpg",
+          "sourcePath": "sources/Y7/Y7baIzKfRFM.json",
+          "time": "0:44:56",
+          "seconds": 2696,
+          "songTitle": "Hug",
+          "artist": "Mrs. GREEN APPLE"
+        },
+        {
+          "videoId": "IzWbPlt0LXM",
+          "videoTitle": "のんびりピアノ弾き語り練習～【ねむぴぴ/Vtuber】",
+          "channelName": "ねむぴぴ*-Nemupipi-",
+          "publishedAt": "2026-09-10T07:34:16.154Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IzWbPlt0LXM/hqdefault.jpg",
+          "sourcePath": "sources/Iz/IzWbPlt0LXM.json",
+          "time": "0:46:24",
+          "seconds": 2784,
+          "songTitle": "Hug",
+          "artist": "Mrs. GREEN APPLE"
+        }
+      ],
+      "detailPath": "entities/songs/cbd5a6a2746fb578.json"
+    },
+    {
+      "rank": 4852,
       "id": "4f3ba043ef0114db",
       "name": "Hug",
       "secondary": "空音",
@@ -69,7 +129,7 @@
       "detailPath": "entities/songs/4f3ba043ef0114db.json"
     },
     {
-      "rank": 4852,
+      "rank": 4853,
       "id": "0c1cd42a378e290a",
       "name": "hurting heart",
       "secondary": "fripSide",
@@ -126,7 +186,7 @@
       "detailPath": "entities/songs/0c1cd42a378e290a.json"
     },
     {
-      "rank": 4853,
+      "rank": 4854,
       "id": "08bd650397775f7e",
       "name": "HUSTLE MUSCLE",
       "secondary": "河野陽吾",
@@ -183,7 +243,7 @@
       "detailPath": "entities/songs/08bd650397775f7e.json"
     },
     {
-      "rank": 4854,
+      "rank": 4855,
       "id": "2114ecaff31b1cf9",
       "name": "I hope so",
       "secondary": "池田春菜",
@@ -240,7 +300,7 @@
       "detailPath": "entities/songs/2114ecaff31b1cf9.json"
     },
     {
-      "rank": 4855,
+      "rank": 4856,
       "id": "635fbe3031c5e77b",
       "name": "I Want it that Way",
       "secondary": "Backstreet Boys",
@@ -299,7 +359,7 @@
       "detailPath": "entities/songs/635fbe3031c5e77b.json"
     },
     {
-      "rank": 4856,
+      "rank": 4857,
       "id": "a9e1abe79f021645",
       "name": "I'm proud",
       "secondary": "華原朋美",
@@ -356,7 +416,7 @@
       "detailPath": "entities/songs/a9e1abe79f021645.json"
     },
     {
-      "rank": 4857,
+      "rank": 4858,
       "id": "823431d9c62f15a4",
       "name": "Into Gray",
       "secondary": "yuki",
@@ -413,7 +473,7 @@
       "detailPath": "entities/songs/823431d9c62f15a4.json"
     },
     {
-      "rank": 4858,
+      "rank": 4859,
       "id": "72634aeac5aaf714",
       "name": "IRIS OUT",
       "secondary": "米津玄師（ハチ）",
@@ -474,7 +534,7 @@
       "detailPath": "entities/songs/72634aeac5aaf714.json"
     },
     {
-      "rank": 4859,
+      "rank": 4860,
       "id": "92eba460f7fdbb75",
       "name": "Journey through the Decade",
       "secondary": "GACKT",
@@ -531,7 +591,7 @@
       "detailPath": "entities/songs/92eba460f7fdbb75.json"
     },
     {
-      "rank": 4860,
+      "rank": 4861,
       "id": "f415641fdab98dae",
       "name": "JUST COMMUNICATION",
       "secondary": "新機動戦記ガンダムW",
@@ -590,7 +650,7 @@
       "detailPath": "entities/songs/f415641fdab98dae.json"
     },
     {
-      "rank": 4861,
+      "rank": 4862,
       "id": "321a6a6c34ad1c0d",
       "name": "Kataomoi",
       "secondary": "Aimer",
@@ -651,7 +711,7 @@
       "detailPath": "entities/songs/321a6a6c34ad1c0d.json"
     },
     {
-      "rank": 4862,
+      "rank": 4863,
       "id": "00bf3750dd6fb9fd",
       "name": "Kawaii Kaiwai",
       "secondary": "PiKi",
@@ -711,7 +771,7 @@
       "detailPath": "entities/songs/00bf3750dd6fb9fd.json"
     },
     {
-      "rank": 4863,
+      "rank": 4864,
       "id": "adfb34e4ce86a34d",
       "name": "KINGS",
       "secondary": "angela",
@@ -771,7 +831,7 @@
       "detailPath": "entities/songs/adfb34e4ce86a34d.json"
     },
     {
-      "rank": 4864,
+      "rank": 4865,
       "id": "f542bde1dd5d872a",
       "name": "Kiss Plan",
       "secondary": "M!LK",
@@ -831,7 +891,7 @@
       "detailPath": "entities/songs/f542bde1dd5d872a.json"
     },
     {
-      "rank": 4865,
+      "rank": 4866,
       "id": "74aaf71f2c9b92b7",
       "name": "KUCHISAKE",
       "secondary": "鬱P",
@@ -888,7 +948,7 @@
       "detailPath": "entities/songs/74aaf71f2c9b92b7.json"
     },
     {
-      "rank": 4866,
+      "rank": 4867,
       "id": "bf094758c9ee84c7",
       "name": "Lacrimosa",
       "secondary": "Kalafina",
@@ -948,7 +1008,7 @@
       "detailPath": "entities/songs/bf094758c9ee84c7.json"
     },
     {
-      "rank": 4867,
+      "rank": 4868,
       "id": "392407630dbc5186",
       "name": "last fortune",
       "secondary": "fripSide",
@@ -1005,7 +1065,7 @@
       "detailPath": "entities/songs/392407630dbc5186.json"
     },
     {
-      "rank": 4868,
+      "rank": 4869,
       "id": "12fdd31ff40f30c6",
       "name": "late in autumn",
       "secondary": "fripSide",
@@ -1067,7 +1127,7 @@
       "detailPath": "entities/songs/12fdd31ff40f30c6.json"
     },
     {
-      "rank": 4869,
+      "rank": 4870,
       "id": "771ccc7f32360cd4",
       "name": "Lemon",
       "secondary": "Kenshi Yonezu",
@@ -1127,7 +1187,7 @@
       "detailPath": "entities/songs/771ccc7f32360cd4.json"
     },
     {
-      "rank": 4870,
+      "rank": 4871,
       "id": "11f4da22563b7798",
       "name": "LEO",
       "secondary": "tacica",
@@ -1187,7 +1247,7 @@
       "detailPath": "entities/songs/11f4da22563b7798.json"
     },
     {
-      "rank": 4871,
+      "rank": 4872,
       "id": "f739f87ee015ef55",
       "name": "letter song",
       "secondary": "doriko feat. 初音ミク",
@@ -1247,7 +1307,7 @@
       "detailPath": "entities/songs/f739f87ee015ef55.json"
     },
     {
-      "rank": 4872,
+      "rank": 4873,
       "id": "434c39eadc3c2a81",
       "name": "Light My Fire",
       "secondary": "KOTOKO",
@@ -1309,7 +1369,7 @@
       "detailPath": "entities/songs/434c39eadc3c2a81.json"
     },
     {
-      "rank": 4873,
+      "rank": 4874,
       "id": "e9949d025ddba616",
       "name": "Lilac",
       "secondary": "Mrs. GREEN APPLE",
@@ -1369,7 +1429,7 @@
       "detailPath": "entities/songs/e9949d025ddba616.json"
     },
     {
-      "rank": 4874,
+      "rank": 4875,
       "id": "919693c3f5a8bb13",
       "name": "Listen",
       "secondary": "Beyoncé",
@@ -1428,7 +1488,7 @@
       "detailPath": "entities/songs/919693c3f5a8bb13.json"
     },
     {
-      "rank": 4875,
+      "rank": 4876,
       "id": "98637f1e8cc52040",
       "name": "LM.C",
       "secondary": "",
@@ -1485,7 +1545,7 @@
       "detailPath": "entities/songs/98637f1e8cc52040.json"
     },
     {
-      "rank": 4876,
+      "rank": 4877,
       "id": "929e7c7a908491ad",
       "name": "los! los! los!",
       "secondary": "ターニャ・デグレチャフ",
@@ -1542,7 +1602,7 @@
       "detailPath": "entities/songs/929e7c7a908491ad.json"
     },
     {
-      "rank": 4877,
+      "rank": 4878,
       "id": "a941f4a3df50592d",
       "name": "LOSER",
       "secondary": "",
@@ -1599,7 +1659,7 @@
       "detailPath": "entities/songs/a941f4a3df50592d.json"
     },
     {
-      "rank": 4878,
+      "rank": 4879,
       "id": "a82d93a755b66d76",
       "name": "Lost my music",
       "secondary": "涼宮ハルヒ",
@@ -1659,7 +1719,7 @@
       "detailPath": "entities/songs/a82d93a755b66d76.json"
     },
     {
-      "rank": 4879,
+      "rank": 4880,
       "id": "c231f98048c4f7be",
       "name": "Lost my music",
       "secondary": "涼宮ハルヒ（CV.平野 綾）",
@@ -1718,7 +1778,7 @@
       "detailPath": "entities/songs/c231f98048c4f7be.json"
     },
     {
-      "rank": 4880,
+      "rank": 4881,
       "id": "4937cad5aec892f3",
       "name": "LOVE",
       "secondary": "O",
@@ -1775,7 +1835,7 @@
       "detailPath": "entities/songs/4937cad5aec892f3.json"
     },
     {
-      "rank": 4881,
+      "rank": 4882,
       "id": "328cc899326efeaf",
       "name": "LOVE ～Destiny～",
       "secondary": "浜崎あゆみ",
@@ -1835,7 +1895,7 @@
       "detailPath": "entities/songs/328cc899326efeaf.json"
     },
     {
-      "rank": 4882,
+      "rank": 4883,
       "id": "f82b3a96c28ff55e",
       "name": "Love Forever",
       "secondary": "加藤ミリヤ・清水翔太",
@@ -1892,7 +1952,7 @@
       "detailPath": "entities/songs/f82b3a96c28ff55e.json"
     },
     {
-      "rank": 4883,
+      "rank": 4884,
       "id": "c6237899981f553f",
       "name": "Love Song",
       "secondary": "Uru",
@@ -1952,7 +2012,7 @@
       "detailPath": "entities/songs/c6237899981f553f.json"
     },
     {
-      "rank": 4884,
+      "rank": 4885,
       "id": "44e14cf1225d13f4",
       "name": "Love Story",
       "secondary": "Taylor Swift",
@@ -2012,7 +2072,7 @@
       "detailPath": "entities/songs/44e14cf1225d13f4.json"
     },
     {
-      "rank": 4885,
+      "rank": 4886,
       "id": "7544314c21fd538b",
       "name": "LOVE! THUNDER GLOW",
       "secondary": "ワルキューレ",
@@ -2072,7 +2132,7 @@
       "detailPath": "entities/songs/7544314c21fd538b.json"
     },
     {
-      "rank": 4886,
+      "rank": 4887,
       "id": "8b58dbd59893b97e",
       "name": "Loveit?",
       "secondary": "biz×ZERA feat. LOLUET",
@@ -2131,7 +2191,7 @@
       "detailPath": "entities/songs/8b58dbd59893b97e.json"
     },
     {
-      "rank": 4887,
+      "rank": 4888,
       "id": "e2dbc31f1efcde0e",
       "name": "Lovers Again",
       "secondary": "EXILE",
@@ -2190,7 +2250,7 @@
       "detailPath": "entities/songs/e2dbc31f1efcde0e.json"
     },
     {
-      "rank": 4888,
+      "rank": 4889,
       "id": "1f5c90707613adb4",
       "name": "LOVING TRIP",
       "secondary": "yozuca*",
@@ -2247,7 +2307,7 @@
       "detailPath": "entities/songs/1f5c90707613adb4.json"
     },
     {
-      "rank": 4889,
+      "rank": 4890,
       "id": "27bd772197f53d7a",
       "name": "M@STERPIECE",
       "secondary": "765PRO ALLSTARS",
@@ -2307,7 +2367,7 @@
       "detailPath": "entities/songs/27bd772197f53d7a.json"
     },
     {
-      "rank": 4890,
+      "rank": 4891,
       "id": "15a5ed5169300700",
       "name": "magnet",
       "secondary": "",
@@ -2364,7 +2424,7 @@
       "detailPath": "entities/songs/15a5ed5169300700.json"
     },
     {
-      "rank": 4891,
+      "rank": 4892,
       "id": "014cb22eb0677ac3",
       "name": "make",
       "secondary": "ONE OK ROCK",
@@ -2423,7 +2483,7 @@
       "detailPath": "entities/songs/014cb22eb0677ac3.json"
     },
     {
-      "rank": 4892,
+      "rank": 4893,
       "id": "016aa47162bae132",
       "name": "MASK",
       "secondary": "奥井雅美・松村香澄",
@@ -2483,7 +2543,7 @@
       "detailPath": "entities/songs/016aa47162bae132.json"
     },
     {
-      "rank": 4893,
+      "rank": 4894,
       "id": "2a866824582d19cf",
       "name": "MELA MELUV FIRE",
       "secondary": "メラ・アカル (芽良 燈)",
@@ -2543,7 +2603,7 @@
       "detailPath": "entities/songs/2a866824582d19cf.json"
     },
     {
-      "rank": 4894,
+      "rank": 4895,
       "id": "9a89eb69bd36ae8b",
       "name": "Melody in the sky",
       "secondary": "40mP",
@@ -2603,7 +2663,7 @@
       "detailPath": "entities/songs/9a89eb69bd36ae8b.json"
     },
     {
-      "rank": 4895,
+      "rank": 4896,
       "id": "c141a0f57b957ee7",
       "name": "METANOIA",
       "secondary": "水樹奈々",
@@ -2663,7 +2723,7 @@
       "detailPath": "entities/songs/c141a0f57b957ee7.json"
     },
     {
-      "rank": 4896,
+      "rank": 4897,
       "id": "9a7c5567bacc12c9",
       "name": "Midnight Mayoi",
       "secondary": "Mori Calliope × Kobo Kanaeru",
@@ -2723,7 +2783,7 @@
       "detailPath": "entities/songs/9a7c5567bacc12c9.json"
     },
     {
-      "rank": 4897,
+      "rank": 4898,
       "id": "bf8fc445ebc13188",
       "name": "mind as Judgment",
       "secondary": "飛蘭",
@@ -2782,7 +2842,7 @@
       "detailPath": "entities/songs/bf8fc445ebc13188.json"
     },
     {
-      "rank": 4898,
+      "rank": 4899,
       "id": "4fdae8c84f5a35c6",
       "name": "MIRA",
       "secondary": "Kanaria",
@@ -2839,7 +2899,7 @@
       "detailPath": "entities/songs/4fdae8c84f5a35c6.json"
     },
     {
-      "rank": 4899,
+      "rank": 4900,
       "id": "3130c7cfc2e061f3",
       "name": "Mirage Lullaby",
       "secondary": "YURIA",
@@ -2896,64 +2956,6 @@
         }
       ],
       "detailPath": "entities/songs/3130c7cfc2e061f3.json"
-    },
-    {
-      "rank": 4900,
-      "id": "250bc57553d291be",
-      "name": "Monster",
-      "secondary": "chilldspot",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 5,
-      "videoCount": 5,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8DJAJ1w6Zyc",
-          "videoTitle": "【歌枠/Karaoke】一日の疲れを歌で癒したい🪽🫧きっとあなたの好きが見つかる‪·͜· 【Re:AcT/音羽奏來】",
-          "channelName": "音羽奏來 - Otoha Sora -",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8DJAJ1w6Zyc/hqdefault.jpg",
-          "sourcePath": "sources/8D/8DJAJ1w6Zyc.json",
-          "time": "1:09:08",
-          "seconds": 4148,
-          "songTitle": "Monster",
-          "artist": "Chilldspot"
-        },
-        {
-          "videoId": "RjiWIglSxjA",
-          "videoTitle": "【定期歌枠🌟】振替配信 49th Sora LIVE: Re:SONANCE🪽🫧【Re:AcT/音羽奏來】#新人Vtuber #shorts #弾き語り#歌枠",
-          "channelName": "音羽奏來 - Otoha Sora -",
-          "publishedAt": "2026-09-21T12:45:09.761Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RjiWIglSxjA/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBdMKZsDX9L2Aj11q-QDfAZsindAA",
-          "sourcePath": "sources/Rj/RjiWIglSxjA.json",
-          "time": "0:48:10",
-          "seconds": 2890,
-          "songTitle": "Monster",
-          "artist": "Chilldspot"
-        },
-        {
-          "videoId": "nmagqJ4KuPA",
-          "videoTitle": "【定期歌枠🌟】48th Sora LIVE: Re:SONANCE🪽🫧【Re:AcT/音羽奏來】#新人Vtuber #shorts #弾き語り#歌枠",
-          "channelName": "音羽奏來 - Otoha Sora -",
-          "publishedAt": "2026-09-13T06:04:45.512Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nmagqJ4KuPA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGTUMx01mBBA1STsmQxcTZDylsWA",
-          "sourcePath": "sources/nm/nmagqJ4KuPA.json",
-          "time": "2:18:58",
-          "seconds": 8338,
-          "songTitle": "Monster",
-          "artist": "Chilldspot"
-        }
-      ],
-      "detailPath": "entities/songs/250bc57553d291be.json"
     }
   ]
 }

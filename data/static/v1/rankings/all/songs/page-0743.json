@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 743,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 37101,
+      "id": "322747d4af3cebd1",
+      "name": "ハム太郎とっとこうた",
+      "secondary": "ハムちゃんず（音ズレチェック）",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "giNHX3sPQoM",
+          "videoTitle": "#歌枠 ┊︎高評価150めざす、夏夜の歌枠🌙【初見さん10人目標】",
+          "channelName": "ユリシス・ゾイ【電楽都市】",
+          "publishedAt": "2026-08-28T17:39:55.570Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/giNHX3sPQoM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCerS7V1c1dPa5iqJWxgCTd6ZJimg",
+          "sourcePath": "sources/gi/giNHX3sPQoM.json",
+          "time": "1:03:55",
+          "seconds": 3835,
+          "songTitle": "ハム太郎とっとこうた",
+          "artist": "ハムちゃんず（音ズレチェック）"
+        }
+      ],
+      "detailPath": "entities/songs/322747d4af3cebd1.json"
+    },
+    {
+      "rank": 37102,
+      "id": "ec2862e4e2461524",
+      "name": "ハム太郎とっとこうた",
+      "secondary": "ハムちゃんず / とっとこハム太郎",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "hsWrL7YgWsA",
+          "videoTitle": "【#歌枠】ヒットソングアニソンメドレー#2【#新人vtuber】",
+          "channelName": "春原すずの",
+          "publishedAt": "2026-09-12T06:52:31.987Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hsWrL7YgWsA/hqdefault.jpg",
+          "sourcePath": "sources/hs/hsWrL7YgWsA.json",
+          "time": "1:12:50",
+          "seconds": 4370,
+          "songTitle": "ハム太郎とっとこうた",
+          "artist": "ハムちゃんず / とっとこハム太郎"
+        }
+      ],
+      "detailPath": "entities/songs/ec2862e4e2461524.json"
+    },
+    {
+      "rank": 37103,
       "id": "d409672b48c49e9a",
       "name": "ハム太郎とっとこうた",
       "secondary": "はむちゃんず",
@@ -40,7 +106,7 @@
       "detailPath": "entities/songs/d409672b48c49e9a.json"
     },
     {
-      "rank": 37102,
+      "rank": 37104,
       "id": "1c0c2132bbbaea72",
       "name": "ハム太郎とっとこうた",
       "secondary": "バラード ver",
@@ -73,7 +139,7 @@
       "detailPath": "entities/songs/1c0c2132bbbaea72.json"
     },
     {
-      "rank": 37103,
+      "rank": 37105,
       "id": "f062b96926e0625c",
       "name": "ハム太郎とっとこうた",
       "secondary": "ハムチャンズ",
@@ -106,7 +172,7 @@
       "detailPath": "entities/songs/f062b96926e0625c.json"
     },
     {
-      "rank": 37104,
+      "rank": 37106,
       "id": "35e40b623ea549bd",
       "name": "ハム太郎とっとこうた",
       "secondary": "ハムちゃんず ／ とっとこハム太郎(2000年)",
@@ -136,7 +202,7 @@
       "detailPath": "entities/songs/35e40b623ea549bd.json"
     },
     {
-      "rank": 37105,
+      "rank": 37107,
       "id": "df3c10ef8195f472",
       "name": "ハム太郎とっとこうた",
       "secondary": "千秋 with ハムちゃんず",
@@ -169,7 +235,7 @@
       "detailPath": "entities/songs/df3c10ef8195f472.json"
     },
     {
-      "rank": 37106,
+      "rank": 37108,
       "id": "66387cd97ccac30f",
       "name": "ハム太郎とっとこうた",
       "secondary": "Hamtaro Tottoko Uta ハムちゃんず / Hamuchanzu",
@@ -202,7 +268,7 @@
       "detailPath": "entities/songs/66387cd97ccac30f.json"
     },
     {
-      "rank": 37107,
+      "rank": 37109,
       "id": "807dab6a969cccf7",
       "name": "ハム太郎とっとこうた 〜ぜんぶはいってまちゅ〜",
       "secondary": "とっとこハム太郎・2004年",
@@ -235,7 +301,7 @@
       "detailPath": "entities/songs/807dab6a969cccf7.json"
     },
     {
-      "rank": 37108,
+      "rank": 37110,
       "id": "1214d6e60dc40981",
       "name": "ハム太郎とっとこうた (アニメ「とっとこハム太郎」OP)",
       "secondary": "ハムちゃんず",
@@ -265,7 +331,7 @@
       "detailPath": "entities/songs/1214d6e60dc40981.json"
     },
     {
-      "rank": 37109,
+      "rank": 37111,
       "id": "b8ee2f7918f91296",
       "name": "ハム太郎とっとこうた (とっとこハム太郎 OP) - ハムちゃんず (Hamtaro Tottoko Song",
       "secondary": "Hamtaro",
@@ -295,7 +361,7 @@
       "detailPath": "entities/songs/b8ee2f7918f91296.json"
     },
     {
-      "rank": 37110,
+      "rank": 37112,
       "id": "789ebbf3719c5bac",
       "name": "ハム太郎とっとこうた 80曲目",
       "secondary": "未記載",
@@ -328,7 +394,7 @@
       "detailPath": "entities/songs/789ebbf3719c5bac.json"
     },
     {
-      "rank": 37111,
+      "rank": 37113,
       "id": "72073d42e8d42cc2",
       "name": "ハム太郎とっとこうた-こは太郎ver",
       "secondary": "",
@@ -361,7 +427,7 @@
       "detailPath": "entities/songs/72073d42e8d42cc2.json"
     },
     {
-      "rank": 37112,
+      "rank": 37114,
       "id": "4f474d3efa656933",
       "name": "ハム太郎とっとこうた／ハムちゃんず／アニメ『とっとこハム太郎』／2000/09",
       "secondary": "30",
@@ -391,7 +457,7 @@
       "detailPath": "entities/songs/4f474d3efa656933.json"
     },
     {
-      "rank": 37113,
+      "rank": 37115,
       "id": "fc903823f069cacb",
       "name": "ハム太郎とっとこうた2005",
       "secondary": "ハムちゃんズ",
@@ -424,7 +490,7 @@
       "detailPath": "entities/songs/fc903823f069cacb.json"
     },
     {
-      "rank": 37114,
+      "rank": 37116,
       "id": "9b152ef1abbbe6e5",
       "name": "ハム太郎とっとこうた2011",
       "secondary": "ハムちゃんず",
@@ -457,7 +523,7 @@
       "detailPath": "entities/songs/9b152ef1abbbe6e5.json"
     },
     {
-      "rank": 37115,
+      "rank": 37117,
       "id": "48db302064a3c501",
       "name": "ハム太郎とっとこ歌",
       "secondary": "未記載",
@@ -491,7 +557,7 @@
       "detailPath": "entities/songs/48db302064a3c501.json"
     },
     {
-      "rank": 37116,
+      "rank": 37118,
       "id": "b9f1bddd786992f4",
       "name": "ハム太郎とっとこ歌",
       "secondary": "ハムちゃんず ※おかわり",
@@ -524,7 +590,7 @@
       "detailPath": "entities/songs/b9f1bddd786992f4.json"
     },
     {
-      "rank": 37117,
+      "rank": 37119,
       "id": "4c2bca6d1cc2a1a4",
       "name": "ハム太郎とっとこ歌",
       "secondary": "歌詞入り手前",
@@ -557,7 +623,7 @@
       "detailPath": "entities/songs/4c2bca6d1cc2a1a4.json"
     },
     {
-      "rank": 37118,
+      "rank": 37120,
       "id": "854747f4310c8a79",
       "name": "ハム大郎とっとこうた",
       "secondary": "ハムちゃんず",
@@ -590,7 +656,7 @@
       "detailPath": "entities/songs/854747f4310c8a79.json"
     },
     {
-      "rank": 37119,
+      "rank": 37121,
       "id": "41b53eb7cc937b8a",
       "name": "パメラ",
       "secondary": "須田景凪",
@@ -623,7 +689,7 @@
       "detailPath": "entities/songs/41b53eb7cc937b8a.json"
     },
     {
-      "rank": 37120,
+      "rank": 37122,
       "id": "b60b3174789e7c82",
       "name": "パメラ",
       "secondary": "Chevon",
@@ -656,7 +722,7 @@
       "detailPath": "entities/songs/b60b3174789e7c82.json"
     },
     {
-      "rank": 37121,
+      "rank": 37123,
       "id": "7e5633ee5cb6b57b",
       "name": "ハモ単体でも欲しいぐらい",
       "secondary": "未記載",
@@ -688,7 +754,7 @@
       "detailPath": "entities/songs/7e5633ee5cb6b57b.json"
     },
     {
-      "rank": 37122,
+      "rank": 37124,
       "id": "3f96246822a39139",
       "name": "はやく夜へ",
       "secondary": "未記載",
@@ -721,7 +787,7 @@
       "detailPath": "entities/songs/3f96246822a39139.json"
     },
     {
-      "rank": 37123,
+      "rank": 37125,
       "id": "e0e14797881fe9b0",
       "name": "バラ",
       "secondary": "schirm",
@@ -754,7 +820,7 @@
       "detailPath": "entities/songs/e0e14797881fe9b0.json"
     },
     {
-      "rank": 37124,
+      "rank": 37126,
       "id": "9f95a618ff05eac4",
       "name": "バラードver Hot Limit",
       "secondary": "T.M.Revolution",
@@ -784,7 +850,7 @@
       "detailPath": "entities/songs/9f95a618ff05eac4.json"
     },
     {
-      "rank": 37125,
+      "rank": 37127,
       "id": "ab824a9341138ab0",
       "name": "バラが咲いた",
       "secondary": "合唱曲",
@@ -814,7 +880,7 @@
       "detailPath": "entities/songs/ab824a9341138ab0.json"
     },
     {
-      "rank": 37126,
+      "rank": 37128,
       "id": "25809aebfe380aaf",
       "name": "パラサイト",
       "secondary": "DECO ※ 27 feat . 初音ミク",
@@ -847,7 +913,7 @@
       "detailPath": "entities/songs/25809aebfe380aaf.json"
     },
     {
-      "rank": 37127,
+      "rank": 37129,
       "id": "3338b274ff238830",
       "name": "パラサイト",
       "secondary": "",
@@ -880,7 +946,7 @@
       "detailPath": "entities/songs/3338b274ff238830.json"
     },
     {
-      "rank": 37128,
+      "rank": 37130,
       "id": "f3b9b0fe9355d335",
       "name": "パラサイトブルー",
       "secondary": "幽谷きらら",
@@ -912,7 +978,7 @@
       "detailPath": "entities/songs/f3b9b0fe9355d335.json"
     },
     {
-      "rank": 37129,
+      "rank": 37131,
       "id": "abf98b29bb59dd05",
       "name": "パラジクロロベンゼン",
       "secondary": "オワタP feat.鏡音リン、鏡音レン",
@@ -945,7 +1011,7 @@
       "detailPath": "entities/songs/abf98b29bb59dd05.json"
     },
     {
-      "rank": 37130,
+      "rank": 37132,
       "id": "fee6bde94d590605",
       "name": "パラジクロロベンゼン",
       "secondary": "オワタ (息切れ)",
@@ -978,7 +1044,7 @@
       "detailPath": "entities/songs/fee6bde94d590605.json"
     },
     {
-      "rank": 37131,
+      "rank": 37133,
       "id": "6c04931a3c2e34f4",
       "name": "パラジクロロベンゼン（オワタP）⚠1番まで",
       "secondary": "",
@@ -1008,7 +1074,7 @@
       "detailPath": "entities/songs/6c04931a3c2e34f4.json"
     },
     {
-      "rank": 37132,
+      "rank": 37134,
       "id": "d3112659fab51ea7",
       "name": "パラシュート★ガール",
       "secondary": "岡村靖幸",
@@ -1040,7 +1106,7 @@
       "detailPath": "entities/songs/d3112659fab51ea7.json"
     },
     {
-      "rank": 37133,
+      "rank": 37135,
       "id": "94f6a57d86cb1a02",
       "name": "パラソルサイダー",
       "secondary": "桃井愛莉,日野森雫,巡音ルカ,花里みのり,桐谷遥(ナナホシ管弦楽団,岩見 陸,モナカ)",
@@ -1073,7 +1139,7 @@
       "detailPath": "entities/songs/94f6a57d86cb1a02.json"
     },
     {
-      "rank": 37134,
+      "rank": 37136,
       "id": "aba19dce1e7534d2",
       "name": "パラソルサイダー",
       "secondary": "ナナホシ管弦楽団様",
@@ -1106,7 +1172,7 @@
       "detailPath": "entities/songs/aba19dce1e7534d2.json"
     },
     {
-      "rank": 37135,
+      "rank": 37137,
       "id": "af54358fd92c1698",
       "name": "パラソルサイダー",
       "secondary": "MORE MORE JUMP!",
@@ -1139,7 +1205,7 @@
       "detailPath": "entities/songs/af54358fd92c1698.json"
     },
     {
-      "rank": 37136,
+      "rank": 37138,
       "id": "c01838f0979d31bf",
       "name": "パラソルサイダー",
       "secondary": "",
@@ -1172,7 +1238,7 @@
       "detailPath": "entities/songs/c01838f0979d31bf.json"
     },
     {
-      "rank": 37137,
+      "rank": 37139,
       "id": "bd5679a45edcee7b",
       "name": "パラダイス銀河",
       "secondary": "光GENJIを歌唱",
@@ -1205,7 +1271,7 @@
       "detailPath": "entities/songs/bd5679a45edcee7b.json"
     },
     {
-      "rank": 37138,
+      "rank": 37140,
       "id": "c4f262843bfa1a2a",
       "name": "パラダイス銀河",
       "secondary": "光GENJI",
@@ -1235,7 +1301,7 @@
       "detailPath": "entities/songs/c4f262843bfa1a2a.json"
     },
     {
-      "rank": 37139,
+      "rank": 37141,
       "id": "4d14e19394fe9383",
       "name": "バラドキシカルZOO",
       "secondary": "AKINO from bless4",
@@ -1268,7 +1334,7 @@
       "detailPath": "entities/songs/4d14e19394fe9383.json"
     },
     {
-      "rank": 37140,
+      "rank": 37142,
       "id": "44df044e39688c0c",
       "name": "パラドキシカルZOO",
       "secondary": "アンコール",
@@ -1298,7 +1364,7 @@
       "detailPath": "entities/songs/44df044e39688c0c.json"
     },
     {
-      "rank": 37141,
+      "rank": 37143,
       "id": "3301bca9509b546b",
       "name": "パラドックス",
       "secondary": "めておら",
@@ -1331,7 +1397,7 @@
       "detailPath": "entities/songs/3301bca9509b546b.json"
     },
     {
-      "rank": 37142,
+      "rank": 37144,
       "id": "ef2b263fcdfae3fa",
       "name": "ばらばら",
       "secondary": "星野源",
@@ -1365,7 +1431,7 @@
       "detailPath": "entities/songs/ef2b263fcdfae3fa.json"
     },
     {
-      "rank": 37143,
+      "rank": 37145,
       "id": "af6706fa7bfe037d",
       "name": "はらぺこ",
       "secondary": "未記載",
@@ -1398,7 +1464,7 @@
       "detailPath": "entities/songs/af6706fa7bfe037d.json"
     },
     {
-      "rank": 37144,
+      "rank": 37146,
       "id": "662d147a2d6f31a4",
       "name": "はらぺこカマキリ",
       "secondary": "浅野夢彦・坂田めぐみ (2019年)",
@@ -1431,7 +1497,7 @@
       "detailPath": "entities/songs/662d147a2d6f31a4.json"
     },
     {
-      "rank": 37145,
+      "rank": 37147,
       "id": "331ffde19ce0cf42",
       "name": "パラメタ",
       "secondary": "40ｍP feat.初音ミク",
@@ -1464,7 +1530,7 @@
       "detailPath": "entities/songs/331ffde19ce0cf42.json"
     },
     {
-      "rank": 37146,
+      "rank": 37148,
       "id": "cc695199d83d5124",
       "name": "パラメタ",
       "secondary": "40㍍",
@@ -1497,7 +1563,7 @@
       "detailPath": "entities/songs/cc695199d83d5124.json"
     },
     {
-      "rank": 37147,
+      "rank": 37149,
       "id": "75296c9fa7500f80",
       "name": "バラライカ",
       "secondary": "月島きらり （J)（ラスト！）",
@@ -1531,7 +1597,7 @@
       "detailPath": "entities/songs/75296c9fa7500f80.json"
     },
     {
-      "rank": 37148,
+      "rank": 37150,
       "id": "22ba3a1b08e68367",
       "name": "バラライカ",
       "secondary": "未記載",
@@ -1563,72 +1629,6 @@
         }
       ],
       "detailPath": "entities/songs/22ba3a1b08e68367.json"
-    },
-    {
-      "rank": 37149,
-      "id": "feea276df874d64b",
-      "name": "バラライカ",
-      "secondary": "月島きらり starring 久住小春(モーニング娘。)のシングル",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "BjiLMz7lFRY",
-          "videoTitle": "平成！特撮！なんでも歌うよ！ん？今な…【耐久歌枠】 #深層組 #ゲーム実況",
-          "channelName": "正義なぐる / Naguru Seigi【平成VTuber】",
-          "publishedAt": "2026-08-26T17:45:22.879Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BjiLMz7lFRY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQOVG2KPN-1S8CX6tKfQ23dRMNUA",
-          "sourcePath": "sources/Bj/BjiLMz7lFRY.json",
-          "time": "2:59:25",
-          "seconds": 10765,
-          "songTitle": "バラライカ",
-          "artist": "月島きらり starring 久住小春(モーニング娘。)のシングル"
-        }
-      ],
-      "detailPath": "entities/songs/feea276df874d64b.json"
-    },
-    {
-      "rank": 37150,
-      "id": "924cebdc970437d5",
-      "name": "バラライカ",
-      "secondary": "月島きらり（CV久住小春）",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "KGm-B90INQk",
-          "videoTitle": "【高評価123を目指す！】アニソン歌枠！初見さん大歓迎！💛【新人VTuberの雑談／歌枠】🐻",
-          "channelName": "桜庭 羽奈【パレデミア学園】",
-          "publishedAt": "2026-08-26T14:06:00.389Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KGm-B90INQk/hqdefault.jpg",
-          "sourcePath": "sources/KG/KGm-B90INQk.json",
-          "time": "1:09:10",
-          "seconds": 4150,
-          "songTitle": "バラライカ",
-          "artist": "月島きらり（CV久住小春）"
-        }
-      ],
-      "detailPath": "entities/songs/924cebdc970437d5.json"
     }
   ]
 }

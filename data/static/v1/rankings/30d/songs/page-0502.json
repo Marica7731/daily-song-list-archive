@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "30d",
   "type": "songs",
   "page": 502,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27670,
+  "totalCount": 27671,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 25051,
+      "id": "32754671a4a44834",
+      "name": "贈る言葉",
+      "secondary": "海援隊",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "upkOzzTcdD0",
+          "videoTitle": "【 #歌枠 】低音女子好きを探している歌枠雑談🎙🍀 初見さんも大歓迎♪ #響かさね",
+          "channelName": "響かさね / Hibiki Kasane",
+          "publishedAt": "2026-10-02T15:51:11.612Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/upkOzzTcdD0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfM8V3zvZaueM3yIhDepRY4Fcxbg",
+          "sourcePath": "sources/up/upkOzzTcdD0.json",
+          "time": "0:52:38",
+          "seconds": 3158,
+          "songTitle": "贈る言葉",
+          "artist": "海援隊"
+        }
+      ],
+      "detailPath": "entities/songs/32754671a4a44834.json"
+    },
+    {
+      "rank": 25052,
       "id": "bd6407a713fbe1df",
       "name": "造花の距離感",
       "secondary": "なぎさ",
@@ -43,7 +76,7 @@
       "detailPath": "entities/songs/bd6407a713fbe1df.json"
     },
     {
-      "rank": 25052,
+      "rank": 25053,
       "id": "0c46596acd03cac8",
       "name": "側にいて",
       "secondary": "一番のみ",
@@ -76,7 +109,7 @@
       "detailPath": "entities/songs/0c46596acd03cac8.json"
     },
     {
-      "rank": 25053,
+      "rank": 25054,
       "id": "59a7999e6b6e8ebe",
       "name": "即興で暗記中",
       "secondary": "",
@@ -109,7 +142,7 @@
       "detailPath": "entities/songs/59a7999e6b6e8ebe.json"
     },
     {
-      "rank": 25054,
+      "rank": 25055,
       "id": "b50f0e0b44fb4b62",
       "name": "即興曲からのニャンちゅう",
       "secondary": "",
@@ -143,7 +176,7 @@
       "detailPath": "entities/songs/b50f0e0b44fb4b62.json"
     },
     {
-      "rank": 25055,
+      "rank": 25056,
       "id": "e6e7cb99a9de8037",
       "name": "息の仕方も選べないのに",
       "secondary": "五木つかさ",
@@ -176,7 +209,7 @@
       "detailPath": "entities/songs/e6e7cb99a9de8037.json"
     },
     {
-      "rank": 25056,
+      "rank": 25057,
       "id": "ea7be3ac78ce31e4",
       "name": "息もできない",
       "secondary": "ZARD",
@@ -206,7 +239,7 @@
       "detailPath": "entities/songs/ea7be3ac78ce31e4.json"
     },
     {
-      "rank": 25057,
+      "rank": 25058,
       "id": "2cf20d14e183b52c",
       "name": "息子",
       "secondary": "",
@@ -239,7 +272,7 @@
       "detailPath": "entities/songs/2cf20d14e183b52c.json"
     },
     {
-      "rank": 25058,
+      "rank": 25059,
       "id": "068d72c1477c1d82",
       "name": "足音 ～Be Strong",
       "secondary": "Mr.Children",
@@ -272,7 +305,7 @@
       "detailPath": "entities/songs/068d72c1477c1d82.json"
     },
     {
-      "rank": 25059,
+      "rank": 25060,
       "id": "f36fe6eb5912e6d0",
       "name": "続く世界",
       "secondary": "中川翔子",
@@ -302,7 +335,7 @@
       "detailPath": "entities/songs/f36fe6eb5912e6d0.json"
     },
     {
-      "rank": 25060,
+      "rank": 25061,
       "id": "2b916a70ef274665",
       "name": "卒業",
       "secondary": "",
@@ -335,7 +368,7 @@
       "detailPath": "entities/songs/2b916a70ef274665.json"
     },
     {
-      "rank": 25061,
+      "rank": 25062,
       "id": "0c2ba2e2b4c168b6",
       "name": "卒業",
       "secondary": "斉藤由貴",
@@ -368,7 +401,7 @@
       "detailPath": "entities/songs/0c2ba2e2b4c168b6.json"
     },
     {
-      "rank": 25062,
+      "rank": 25063,
       "id": "63b57a7e11cc641b",
       "name": "卒業",
       "secondary": "尾崎 豊",
@@ -401,7 +434,7 @@
       "detailPath": "entities/songs/63b57a7e11cc641b.json"
     },
     {
-      "rank": 25063,
+      "rank": 25064,
       "id": "024f17e4ced16f8f",
       "name": "卒業ボイス発売中",
       "secondary": "",
@@ -434,7 +467,7 @@
       "detailPath": "entities/songs/024f17e4ced16f8f.json"
     },
     {
-      "rank": 25064,
+      "rank": 25065,
       "id": "4053b06b4a65608b",
       "name": "卒業生の言葉",
       "secondary": "夜更かしから、しばしの卒業",
@@ -467,7 +500,7 @@
       "detailPath": "entities/songs/4053b06b4a65608b.json"
     },
     {
-      "rank": 25065,
+      "rank": 25066,
       "id": "746878dcd21985b5",
       "name": "袖触れ合うも他生の縁",
       "secondary": "磯P",
@@ -500,7 +533,7 @@
       "detailPath": "entities/songs/746878dcd21985b5.json"
     },
     {
-      "rank": 25066,
+      "rank": 25067,
       "id": "ccc7238cc6e1067b",
       "name": "存えている。窓辺の、",
       "secondary": "園端石",
@@ -533,7 +566,7 @@
       "detailPath": "entities/songs/ccc7238cc6e1067b.json"
     },
     {
-      "rank": 25067,
+      "rank": 25068,
       "id": "27d4f30cbf271e17",
       "name": "存在",
       "secondary": "CooRie",
@@ -566,7 +599,7 @@
       "detailPath": "entities/songs/27d4f30cbf271e17.json"
     },
     {
-      "rank": 25068,
+      "rank": 25069,
       "id": "69d0269a348a11db",
       "name": "存在のアンサー",
       "secondary": "SASA feat. 鏡音レン（アカペラ）",
@@ -599,7 +632,7 @@
       "detailPath": "entities/songs/69d0269a348a11db.json"
     },
     {
-      "rank": 25069,
+      "rank": 25070,
       "id": "f277ad3acc5cd9df",
       "name": "存亡の危機",
       "secondary": "",
@@ -629,7 +662,7 @@
       "detailPath": "entities/songs/f277ad3acc5cd9df.json"
     },
     {
-      "rank": 25070,
+      "rank": 25071,
       "id": "bc6fc8c1678a4ac3",
       "name": "損と嘘",
       "secondary": "倉橋ヨエコ",
@@ -662,7 +695,7 @@
       "detailPath": "entities/songs/bc6fc8c1678a4ac3.json"
     },
     {
-      "rank": 25071,
+      "rank": 25072,
       "id": "4d98cc8cb635b8a4",
       "name": "他人事の音がする",
       "secondary": "あめのむらくもP",
@@ -695,7 +728,7 @@
       "detailPath": "entities/songs/4d98cc8cb635b8a4.json"
     },
     {
-      "rank": 25072,
+      "rank": 25073,
       "id": "b64aa8aa9b49cdb0",
       "name": "多分、風",
       "secondary": "サカナクション",
@@ -728,7 +761,7 @@
       "detailPath": "entities/songs/b64aa8aa9b49cdb0.json"
     },
     {
-      "rank": 25073,
+      "rank": 25074,
       "id": "163055eff2a1a577",
       "name": "太空",
       "secondary": "吳青峰",
@@ -761,7 +794,7 @@
       "detailPath": "entities/songs/163055eff2a1a577.json"
     },
     {
-      "rank": 25074,
+      "rank": 25075,
       "id": "ddf8a321ed0205d8",
       "name": "太空人",
       "secondary": "吳青峰",
@@ -794,7 +827,7 @@
       "detailPath": "entities/songs/ddf8a321ed0205d8.json"
     },
     {
-      "rank": 25075,
+      "rank": 25076,
       "id": "c2ce763f54e7ca8b",
       "name": "太陽",
       "secondary": "邱振哲",
@@ -827,7 +860,7 @@
       "detailPath": "entities/songs/c2ce763f54e7ca8b.json"
     },
     {
-      "rank": 25076,
+      "rank": 25077,
       "id": "8405d1a1a8d1a545",
       "name": "太陽",
       "secondary": "BUMP OF CHICKEN",
@@ -860,7 +893,7 @@
       "detailPath": "entities/songs/8405d1a1a8d1a545.json"
     },
     {
-      "rank": 25077,
+      "rank": 25078,
       "id": "2eb6be6d95fbbe87",
       "name": "太陽がまた輝くとき",
       "secondary": "高橋ひろ（幽☆遊☆白書 ED）",
@@ -893,7 +926,7 @@
       "detailPath": "entities/songs/2eb6be6d95fbbe87.json"
     },
     {
-      "rank": 25078,
+      "rank": 25079,
       "id": "703de6bf1dca81ac",
       "name": "太陽がまた輝くとき",
       "secondary": "髙橋ひろ",
@@ -923,7 +956,7 @@
       "detailPath": "entities/songs/703de6bf1dca81ac.json"
     },
     {
-      "rank": 25079,
+      "rank": 25080,
       "id": "928195a0afc64bf9",
       "name": "太陽がまた輝くとき",
       "secondary": "",
@@ -953,7 +986,7 @@
       "detailPath": "entities/songs/928195a0afc64bf9.json"
     },
     {
-      "rank": 25080,
+      "rank": 25081,
       "id": "224615df49734cd8",
       "name": "太陽がまた輝くとき／高橋ひろ／アニメ『幽☆遊☆白書』ED／1994/06",
       "secondary": "17",
@@ -983,7 +1016,7 @@
       "detailPath": "entities/songs/224615df49734cd8.json"
     },
     {
-      "rank": 25081,
+      "rank": 25082,
       "id": "adfd9208777de808",
       "name": "太陽が呼んでいる",
       "secondary": "『サモンナイト3』加藤いづみ",
@@ -1016,7 +1049,7 @@
       "detailPath": "entities/songs/adfd9208777de808.json"
     },
     {
-      "rank": 25082,
+      "rank": 25083,
       "id": "8febbb442db433e8",
       "name": "太陽が呼んでいる",
       "secondary": "加藤いづみ",
@@ -1049,7 +1082,7 @@
       "detailPath": "entities/songs/8febbb442db433e8.json"
     },
     {
-      "rank": 25083,
+      "rank": 25084,
       "id": "c9eb11028dd0ccac",
       "name": "太陽が昇らない世界",
       "secondary": "",
@@ -1082,7 +1115,7 @@
       "detailPath": "entities/songs/c9eb11028dd0ccac.json"
     },
     {
-      "rank": 25084,
+      "rank": 25085,
       "id": "79487efe03a2dd62",
       "name": "太陽が燃えている",
       "secondary": "THE YELLOW MONKEY",
@@ -1115,7 +1148,7 @@
       "detailPath": "entities/songs/79487efe03a2dd62.json"
     },
     {
-      "rank": 25085,
+      "rank": 25086,
       "id": "e9b3a911e9b33122",
       "name": "太陽と埃の中で",
       "secondary": "CHAGE and ASKA",
@@ -1145,7 +1178,7 @@
       "detailPath": "entities/songs/e9b3a911e9b33122.json"
     },
     {
-      "rank": 25086,
+      "rank": 25087,
       "id": "7bb130a545a60e44",
       "name": "太陽のflare sherbet そふぃ(久保田未夢)【 プリパラ】キャラソン",
       "secondary": "",
@@ -1175,7 +1208,7 @@
       "detailPath": "entities/songs/7bb130a545a60e44.json"
     },
     {
-      "rank": 25087,
+      "rank": 25088,
       "id": "3f7dc5473b8c271e",
       "name": "太陽の下で",
       "secondary": "奥華子",
@@ -1208,7 +1241,7 @@
       "detailPath": "entities/songs/3f7dc5473b8c271e.json"
     },
     {
-      "rank": 25088,
+      "rank": 25089,
       "id": "e9d4f26ad69d958c",
       "name": "太陽の花",
       "secondary": "奥井雅美",
@@ -1241,7 +1274,7 @@
       "detailPath": "entities/songs/e9d4f26ad69d958c.json"
     },
     {
-      "rank": 25089,
+      "rank": 25090,
       "id": "5299c60e96d4e122",
       "name": "太陽の楽園～Promised Land～",
       "secondary": "",
@@ -1274,7 +1307,7 @@
       "detailPath": "entities/songs/5299c60e96d4e122.json"
     },
     {
-      "rank": 25090,
+      "rank": 25091,
       "id": "c173e211d0c9a6c0",
       "name": "太陽の翼",
       "secondary": "太陽の勇者ファイバード",
@@ -1307,7 +1340,7 @@
       "detailPath": "entities/songs/c173e211d0c9a6c0.json"
     },
     {
-      "rank": 25091,
+      "rank": 25092,
       "id": "291ce3e0f46ff762",
       "name": "太陽系デスコ(うろ覚え)",
       "secondary": "ナユタン星人",
@@ -1340,7 +1373,7 @@
       "detailPath": "entities/songs/291ce3e0f46ff762.json"
     },
     {
-      "rank": 25092,
+      "rank": 25093,
       "id": "f1e5a9a925532fe2",
       "name": "太陽系リフレイン",
       "secondary": "KEYTALK",
@@ -1373,7 +1406,7 @@
       "detailPath": "entities/songs/f1e5a9a925532fe2.json"
     },
     {
-      "rank": 25093,
+      "rank": 25094,
       "id": "4917a69021d7ae84",
       "name": "太陽言わない燃えよカオス",
       "secondary": "後ろから這いより隊H",
@@ -1406,7 +1439,7 @@
       "detailPath": "entities/songs/4917a69021d7ae84.json"
     },
     {
-      "rank": 25094,
+      "rank": 25095,
       "id": "96d6edc9c5ba11d6",
       "name": "太陽戦隊サンバルカン",
       "secondary": "TVサイズ",
@@ -1436,7 +1469,7 @@
       "detailPath": "entities/songs/96d6edc9c5ba11d6.json"
     },
     {
-      "rank": 25095,
+      "rank": 25096,
       "id": "e490042435687bf3",
       "name": "太陽曰く燃えよカオス",
       "secondary": "後ろから這いより隊G(ニャル子×クー子×珠緒) ※JOYSOUND",
@@ -1469,7 +1502,7 @@
       "detailPath": "entities/songs/e490042435687bf3.json"
     },
     {
-      "rank": 25096,
+      "rank": 25097,
       "id": "0ed5f3c4f636620d",
       "name": "太陽曰く燃えよカオス",
       "secondary": "後ろから這いより隊G 「這いよれ! ニャル子さん」",
@@ -1499,7 +1532,7 @@
       "detailPath": "entities/songs/0ed5f3c4f636620d.json"
     },
     {
-      "rank": 25097,
+      "rank": 25098,
       "id": "80f185d16edfa123",
       "name": "太陽曰く燃えよカオス",
       "secondary": "後ろから這いより隊G(阿澄佳奈,松来未祐,大坪由佳)",
@@ -1532,7 +1565,7 @@
       "detailPath": "entities/songs/80f185d16edfa123.json"
     },
     {
-      "rank": 25098,
+      "rank": 25099,
       "id": "fd4376ad5cd1850b",
       "name": "太陽曰く燃えよカオス (這いよれ！ニャル子さん OP) - 後ろから這いより隊G (Taiyou Iwaku Moeyo Chaos",
       "secondary": "Ushiro kara Haiyori-tai G",
@@ -1562,7 +1595,7 @@
       "detailPath": "entities/songs/fd4376ad5cd1850b.json"
     },
     {
-      "rank": 25099,
+      "rank": 25100,
       "id": "dbf1e5b0212bf425",
       "name": "太陽與地球",
       "secondary": "盧廣仲(原唱:黃俊榮",
@@ -1593,39 +1626,6 @@
         }
       ],
       "detailPath": "entities/songs/dbf1e5b0212bf425.json"
-    },
-    {
-      "rank": 25100,
-      "id": "bd40bc737976f68e",
-      "name": "太陽與地球",
-      "secondary": "盧廣仲",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "D9THok197TE",
-          "videoTitle": "【歌枠】慶祝週五又到了 隨意唱唱陪伴! †MAYÜ",
-          "channelName": "MAYU_ ch.繭",
-          "publishedAt": "2026-10-02T11:09:11.932Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/D9THok197TE/hqdefault.jpg",
-          "sourcePath": "sources/D9/D9THok197TE.json",
-          "time": "0:43:10",
-          "seconds": 2590,
-          "songTitle": "太陽與地球",
-          "artist": "盧廣仲"
-        }
-      ],
-      "detailPath": "entities/songs/bd40bc737976f68e.json"
     }
   ]
 }

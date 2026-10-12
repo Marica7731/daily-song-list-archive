@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 562,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 28051,
+      "id": "dc69229172819c30",
+      "name": "STILL TIME",
+      "secondary": "徳山秀典（アニメ『幻想魔伝 最遊記』後期OP）",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "p5It3tU8f1U",
+          "videoTitle": "【歌枠・KARAOKE】銃や刀が登場する作品の曲を歌う歌枠！ 初見さんもROMも大歓迎！【ロック大好き】",
+          "channelName": "九傷(このきず)",
+          "publishedAt": "2026-09-27T11:03:05.009Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p5It3tU8f1U/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFTVCd7Dza1g04HxRSNQft0BsLDw",
+          "sourcePath": "sources/p5/p5It3tU8f1U.json",
+          "time": "0:54:55",
+          "seconds": 3295,
+          "songTitle": "STILL TIME",
+          "artist": "徳山秀典（アニメ『幻想魔伝 最遊記』後期OP）"
+        }
+      ],
+      "detailPath": "entities/songs/dc69229172819c30.json"
+    },
+    {
+      "rank": 28052,
+      "id": "1438baf0304b1ef5",
+      "name": "Stitches",
+      "secondary": "Shawn Mendes",
+      "channelId": "UCOBsuL1u08iXAHTKJmsoMzw",
+      "channelHandle": "@Cetro.Timaeus",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "uPNLqB-Mews",
+          "videoTitle": "//歌枠// 我繼續在找尋最適合自己的發聲模組路上漫遊 | 賽特珞 Cetro",
+          "channelName": "Cetro Ch. 賽特珞",
+          "publishedAt": "2026-08-19T16:07:34.682Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uPNLqB-Mews/hqdefault.jpg",
+          "sourcePath": "sources/uP/uPNLqB-Mews.json",
+          "time": "1:16:21",
+          "seconds": 4581,
+          "songTitle": "Stitches",
+          "artist": "Shawn Mendes"
+        }
+      ],
+      "detailPath": "entities/songs/1438baf0304b1ef5.json"
+    },
+    {
+      "rank": 28053,
       "id": "0ef395d79c837440",
       "name": "stone cold",
       "secondary": "初見",
@@ -40,7 +106,7 @@
       "detailPath": "entities/songs/0ef395d79c837440.json"
     },
     {
-      "rank": 28052,
+      "rank": 28054,
       "id": "57312af5c84c9798",
       "name": "STONE OCEAN",
       "secondary": "ジョジョの奇妙な冒険 ストーンオーシャン JOJO'S BIZARRE ADVENTURE",
@@ -74,7 +140,7 @@
       "detailPath": "entities/songs/57312af5c84c9798.json"
     },
     {
-      "rank": 28053,
+      "rank": 28055,
       "id": "b7a91db46abf659c",
       "name": "Stop the time",
       "secondary": "Hi-standard",
@@ -104,7 +170,7 @@
       "detailPath": "entities/songs/b7a91db46abf659c.json"
     },
     {
-      "rank": 28054,
+      "rank": 28056,
       "id": "2f2428e3ee397b8d",
       "name": "STORM",
       "secondary": "未記載",
@@ -137,7 +203,7 @@
       "detailPath": "entities/songs/2f2428e3ee397b8d.json"
     },
     {
-      "rank": 28055,
+      "rank": 28057,
       "id": "4f7eae0430da0c1e",
       "name": "STORM",
       "secondary": "JAM Project featuring 水木一郎, 影山ヒロノブ（OVA『真ゲッターロボ対ネオゲッターロボ』OP）",
@@ -170,7 +236,7 @@
       "detailPath": "entities/songs/4f7eae0430da0c1e.json"
     },
     {
-      "rank": 28056,
+      "rank": 28058,
       "id": "3aa6facc0639d7f7",
       "name": "STORM",
       "secondary": "JAM Project feat. 水木一郎・影山ヒロノブ",
@@ -203,7 +269,7 @@
       "detailPath": "entities/songs/3aa6facc0639d7f7.json"
     },
     {
-      "rank": 28057,
+      "rank": 28059,
       "id": "1d6c7fa02ee94446",
       "name": "Storm in Lover",
       "secondary": "園田海未・絢瀬絵里 ※JOYSOUND",
@@ -236,7 +302,7 @@
       "detailPath": "entities/songs/1d6c7fa02ee94446.json"
     },
     {
-      "rank": 28058,
+      "rank": 28060,
       "id": "7a7aaddd4209280e",
       "name": "STORM RIDERS",
       "secondary": "三代目 J Soul Brothers",
@@ -270,7 +336,7 @@
       "detailPath": "entities/songs/7a7aaddd4209280e.json"
     },
     {
-      "rank": 28059,
+      "rank": 28061,
       "id": "948734cb3da4db5e",
       "name": "STORM『真ゲッターロボ対ネオゲッターロボ』",
       "secondary": "水木一郎＆影山ヒロノブ",
@@ -303,7 +369,7 @@
       "detailPath": "entities/songs/948734cb3da4db5e.json"
     },
     {
-      "rank": 28060,
+      "rank": 28062,
       "id": "34847bb253c2341d",
       "name": "story time",
       "secondary": "Star Flower",
@@ -337,7 +403,7 @@
       "detailPath": "entities/songs/34847bb253c2341d.json"
     },
     {
-      "rank": 28061,
+      "rank": 28063,
       "id": "d706bb1f93a1cebe",
       "name": "Story／AI • 【男性キー(+3)】Story",
       "secondary": "AI",
@@ -367,7 +433,7 @@
       "detailPath": "entities/songs/d706bb1f93a1cebe.json"
     },
     {
-      "rank": 28062,
+      "rank": 28064,
       "id": "897e61f38c9a25ed",
       "name": "Story／AI／2005/05",
       "secondary": "18",
@@ -397,7 +463,7 @@
       "detailPath": "entities/songs/897e61f38c9a25ed.json"
     },
     {
-      "rank": 28063,
+      "rank": 28065,
       "id": "8cfc9daffa9d9006",
       "name": "Straw",
       "secondary": "aiko",
@@ -430,7 +496,7 @@
       "detailPath": "entities/songs/8cfc9daffa9d9006.json"
     },
     {
-      "rank": 28064,
+      "rank": 28066,
       "id": "bf44888034a0bed5",
       "name": "Strawberry",
       "secondary": "未記載",
@@ -463,7 +529,7 @@
       "detailPath": "entities/songs/bf44888034a0bed5.json"
     },
     {
-      "rank": 28065,
+      "rank": 28067,
       "id": "fec8d7e9097431eb",
       "name": "Strawberry Jam",
       "secondary": "大塚愛",
@@ -497,7 +563,7 @@
       "detailPath": "entities/songs/fec8d7e9097431eb.json"
     },
     {
-      "rank": 28066,
+      "rank": 28068,
       "id": "b71bb824e56de20c",
       "name": "Strawberry Margarita",
       "secondary": "ELLEGARDEN",
@@ -530,7 +596,7 @@
       "detailPath": "entities/songs/b71bb824e56de20c.json"
     },
     {
-      "rank": 28067,
+      "rank": 28069,
       "id": "31afa1fa8b6fb18b",
       "name": "stray",
       "secondary": "けーだっしゅ",
@@ -563,7 +629,7 @@
       "detailPath": "entities/songs/31afa1fa8b6fb18b.json"
     },
     {
-      "rank": 28068,
+      "rank": 28070,
       "id": "eec03dff453e92c8",
       "name": "Stray City",
       "secondary": "NoWorld｜EP「 福隠 」",
@@ -597,7 +663,7 @@
       "detailPath": "entities/songs/eec03dff453e92c8.json"
     },
     {
-      "rank": 28069,
+      "rank": 28071,
       "id": "560233d5dbdbd66a",
       "name": "Streaming Start",
       "secondary": "Figaro SUBSCRIBE",
@@ -630,7 +696,7 @@
       "detailPath": "entities/songs/560233d5dbdbd66a.json"
     },
     {
-      "rank": 28070,
+      "rank": 28072,
       "id": "966daa6b46bae373",
       "name": "Streaming Start",
       "secondary": "暫くお待ちください !",
@@ -663,7 +729,7 @@
       "detailPath": "entities/songs/966daa6b46bae373.json"
     },
     {
-      "rank": 28071,
+      "rank": 28073,
       "id": "861b6b08ece66fe7",
       "name": "Streaming Start",
       "secondary": "配信開幕",
@@ -696,7 +762,7 @@
       "detailPath": "entities/songs/861b6b08ece66fe7.json"
     },
     {
-      "rank": 28072,
+      "rank": 28074,
       "id": "aa6b9c1fa260d919",
       "name": "Strem start",
       "secondary": "",
@@ -729,7 +795,7 @@
       "detailPath": "entities/songs/aa6b9c1fa260d919.json"
     },
     {
-      "rank": 28073,
+      "rank": 28075,
       "id": "f85dd0b40652468f",
       "name": "STRENGTH",
       "secondary": "abingdon boys school",
@@ -762,7 +828,7 @@
       "detailPath": "entities/songs/f85dd0b40652468f.json"
     },
     {
-      "rank": 28074,
+      "rank": 28076,
       "id": "2a9e9d83da26be69",
       "name": "STRIKE BACK",
       "secondary": "BACK-ON",
@@ -795,7 +861,7 @@
       "detailPath": "entities/songs/2a9e9d83da26be69.json"
     },
     {
-      "rank": 28075,
+      "rank": 28077,
       "id": "0c8e94f6a60ad297",
       "name": "String Theocracy",
       "secondary": "Mili",
@@ -828,7 +894,7 @@
       "detailPath": "entities/songs/0c8e94f6a60ad297.json"
     },
     {
-      "rank": 28076,
+      "rank": 28078,
       "id": "6ce01c4c0f3d02f6",
       "name": "Strong",
       "secondary": "実写版シンデレラ",
@@ -861,7 +927,7 @@
       "detailPath": "entities/songs/6ce01c4c0f3d02f6.json"
     },
     {
-      "rank": 28077,
+      "rank": 28079,
       "id": "97fc5c5269feace9",
       "name": "Stronger",
       "secondary": "Kelly Clarkson",
@@ -891,7 +957,7 @@
       "detailPath": "entities/songs/97fc5c5269feace9.json"
     },
     {
-      "rank": 28078,
+      "rank": 28080,
       "id": "ecf5b092d04d2db3",
       "name": "Stronger（What Doesn't Kill You）",
       "secondary": "Kelly Clarkson",
@@ -924,7 +990,7 @@
       "detailPath": "entities/songs/ecf5b092d04d2db3.json"
     },
     {
-      "rank": 28079,
+      "rank": 28081,
       "id": "8bb50777537240ec",
       "name": "StsrCrew",
       "secondary": "赤髪 〜おさむらいさん ギターアレンジver. 〜",
@@ -957,7 +1023,7 @@
       "detailPath": "entities/songs/8bb50777537240ec.json"
     },
     {
-      "rank": 28080,
+      "rank": 28082,
       "id": "890821adf0e866a9",
       "name": "Study Equal Magic!",
       "secondary": "S.E.M",
@@ -990,7 +1056,7 @@
       "detailPath": "entities/songs/890821adf0e866a9.json"
     },
     {
-      "rank": 28081,
+      "rank": 28083,
       "id": "878070e66111927d",
       "name": "STUPiD",
       "secondary": "BiS",
@@ -1023,7 +1089,7 @@
       "detailPath": "entities/songs/878070e66111927d.json"
     },
     {
-      "rank": 28082,
+      "rank": 28084,
       "id": "49c61dfd9b8f19db",
       "name": "Style",
       "secondary": "西野カナ",
@@ -1057,7 +1123,7 @@
       "detailPath": "entities/songs/49c61dfd9b8f19db.json"
     },
     {
-      "rank": 28083,
+      "rank": 28085,
       "id": "7b5f559a359ce24b",
       "name": "sub/objective",
       "secondary": "ぼくのりりっくのぼうよみ",
@@ -1090,7 +1156,7 @@
       "detailPath": "entities/songs/7b5f559a359ce24b.json"
     },
     {
-      "rank": 28084,
+      "rank": 28086,
       "id": "9cbd19984a428473",
       "name": "SUBERIDAI",
       "secondary": "Mori Tsubasa",
@@ -1123,7 +1189,7 @@
       "detailPath": "entities/songs/9cbd19984a428473.json"
     },
     {
-      "rank": 28085,
+      "rank": 28087,
       "id": "74318cf879417d43",
       "name": "SUBMARINE STREET",
       "secondary": "Fire Bomber / 「マクロス7」挿入歌",
@@ -1157,7 +1223,7 @@
       "detailPath": "entities/songs/74318cf879417d43.json"
     },
     {
-      "rank": 28086,
+      "rank": 28088,
       "id": "658a095ebcc84240",
       "name": "Subtitle",
       "secondary": "未記載",
@@ -1190,7 +1256,7 @@
       "detailPath": "entities/songs/658a095ebcc84240.json"
     },
     {
-      "rank": 28087,
+      "rank": 28089,
       "id": "8bcfc4c93a7fbda6",
       "name": "Subtitle",
       "secondary": "Official髭男",
@@ -1224,7 +1290,7 @@
       "detailPath": "entities/songs/8bcfc4c93a7fbda6.json"
     },
     {
-      "rank": 28088,
+      "rank": 28090,
       "id": "025036f2ff64815b",
       "name": "Subtitle (アコギ)",
       "secondary": "Official髭男dism",
@@ -1257,7 +1323,7 @@
       "detailPath": "entities/songs/025036f2ff64815b.json"
     },
     {
-      "rank": 28089,
+      "rank": 28091,
       "id": "42c2f3d5fa34de4f",
       "name": "Suck Of Life Original Version",
       "secondary": "THE YELLOW MONKEY",
@@ -1290,7 +1356,7 @@
       "detailPath": "entities/songs/42c2f3d5fa34de4f.json"
     },
     {
-      "rank": 28090,
+      "rank": 28092,
       "id": "8efb72b134d4d864",
       "name": "suddenly～巡り合えて～",
       "secondary": "Suddenly: Meguriaete",
@@ -1323,7 +1389,7 @@
       "detailPath": "entities/songs/8efb72b134d4d864.json"
     },
     {
-      "rank": 28091,
+      "rank": 28093,
       "id": "ebb7cfac86eb2d7e",
       "name": "sugar",
       "secondary": "Spangle Call Lilli Line",
@@ -1356,7 +1422,7 @@
       "detailPath": "entities/songs/ebb7cfac86eb2d7e.json"
     },
     {
-      "rank": 28092,
+      "rank": 28094,
       "id": "622961c6f2b40d88",
       "name": "Sugar",
       "secondary": "魔力紅",
@@ -1390,7 +1456,7 @@
       "detailPath": "entities/songs/622961c6f2b40d88.json"
     },
     {
-      "rank": 28093,
+      "rank": 28095,
       "id": "455afadc84633173",
       "name": "Sugar",
       "secondary": "Maroon 5",
@@ -1423,7 +1489,7 @@
       "detailPath": "entities/songs/455afadc84633173.json"
     },
     {
-      "rank": 28094,
+      "rank": 28096,
       "id": "22f5885eba98d61e",
       "name": "SUGAR",
       "secondary": "NOMELON NOLEMON",
@@ -1456,7 +1522,7 @@
       "detailPath": "entities/songs/22f5885eba98d61e.json"
     },
     {
-      "rank": 28095,
+      "rank": 28097,
       "id": "b4aeef87959ec888",
       "name": "Sugar Doughnuts",
       "secondary": "",
@@ -1489,7 +1555,7 @@
       "detailPath": "entities/songs/b4aeef87959ec888.json"
     },
     {
-      "rank": 28096,
+      "rank": 28098,
       "id": "1fe32369547d0aa8",
       "name": "SUGAR FLAVOR",
       "secondary": "初星学園(姫崎莉波、有村麻央)",
@@ -1522,7 +1588,7 @@
       "detailPath": "entities/songs/1fe32369547d0aa8.json"
     },
     {
-      "rank": 28097,
+      "rank": 28099,
       "id": "576035d1ac8b3d0c",
       "name": "Sugar Guitar",
       "secondary": "ポリスピカデリー",
@@ -1555,7 +1621,7 @@
       "detailPath": "entities/songs/576035d1ac8b3d0c.json"
     },
     {
-      "rank": 28098,
+      "rank": 28100,
       "id": "486c80eaf88ca386",
       "name": "Sugar Rush",
       "secondary": "円果望見(今井文也)",
@@ -1586,69 +1652,6 @@
         }
       ],
       "detailPath": "entities/songs/486c80eaf88ca386.json"
-    },
-    {
-      "rank": 28099,
-      "id": "59d837210a0e6abc",
-      "name": "Sugar Song to Bitter Step",
-      "secondary": "UNISON SQUARE GARDEN",
-      "channelId": "UChpRPsAeSZn5DistGacR3iA",
-      "channelHandle": "@ACHRORA_official",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Ie1e9qn5ZVk",
-          "videoTitle": "【初歌枠】はじめましてのあなたも力を貸して！6万人耐久🔥【#あくろら6万人耐久歌枠リレー】",
-          "channelName": "ACHRORA - mekPark",
-          "publishedAt": "2026-09-04T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Ie1e9qn5ZVk/hqdefault.jpg",
-          "sourcePath": "sources/Ie/Ie1e9qn5ZVk.json",
-          "time": "0:19:08",
-          "seconds": 1148,
-          "songTitle": "Sugar Song to Bitter Step",
-          "artist": "UNISON SQUARE GARDEN"
-        }
-      ],
-      "detailPath": "entities/songs/59d837210a0e6abc.json"
-    },
-    {
-      "rank": 28100,
-      "id": "7364784d6f3952df",
-      "name": "sugar sweet nightmare",
-      "secondary": "化物語",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "HDYIRCzHXKI",
-          "videoTitle": "🎤 歌枠 ｜ 懐メロ アニソン 2000～2010年代 #花うさ singing vtuber vsinger karaoke アニソン 歌回 懐メロ 平成 花うさ",
-          "channelName": "Hanausa Ch. 花うさ",
-          "publishedAt": "2026-08-26T15:45:22.879Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/HDYIRCzHXKI/hqdefault.jpg",
-          "sourcePath": "sources/HD/HDYIRCzHXKI.json",
-          "time": "1:03:32",
-          "seconds": 3812,
-          "songTitle": "sugar sweet nightmare",
-          "artist": "化物語"
-        }
-      ],
-      "detailPath": "entities/songs/7364784d6f3952df.json"
     }
   ]
 }

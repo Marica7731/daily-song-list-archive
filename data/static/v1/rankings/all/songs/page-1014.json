@@ -1,16 +1,84 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:48:31.599Z",
+  "generatedAt": "2026-10-12T14:54:10.357Z",
   "range": "all",
   "type": "songs",
   "page": 1014,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52856,
+  "totalCount": 52857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 50651,
+      "id": "f7190a5485cb1c0a",
+      "name": "魔法が解けたら",
+      "secondary": "Saucy Dog",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "8lXrG7g6CzM",
+          "videoTitle": "【#歌枠 |弾き語り】夜ご飯までとても歌う！！！BGMにしてくれ～～🎧¦澄花 / ぷろぶる",
+          "channelName": "-sumica-澄花",
+          "publishedAt": "2026-09-12T10:17:53.975Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/8lXrG7g6CzM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAmR65vjwllaj_FzKe85YDn1Alriw",
+          "sourcePath": "sources/8l/8lXrG7g6CzM.json",
+          "time": "1:48:30",
+          "seconds": 6510,
+          "songTitle": "魔法が解けたら",
+          "artist": "Saucy Dog"
+        }
+      ],
+      "detailPath": "entities/songs/f7190a5485cb1c0a.json"
+    },
+    {
+      "rank": 50652,
+      "id": "bf9d8ce5cd94a706",
+      "name": "魔法が使えたら",
+      "secondary": "有澤百華",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ktMhf3fnpoE",
+          "videoTitle": "【歌枠／弾き語り】チャンネル登録者8888に目指して！お昼のお歌たーいむ！！一曲だけでも聴きに来ませんか？#Vsinger #からくりんね Singing Stream",
+          "channelName": "からくりんね-KarakuRinne",
+          "publishedAt": "2026-09-05T07:58:34.842Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ktMhf3fnpoE/hqdefault.jpg",
+          "sourcePath": "sources/kt/ktMhf3fnpoE.json",
+          "time": "2:57:35",
+          "seconds": 10655,
+          "songTitle": "魔法が使えたら",
+          "artist": "有澤百華"
+        }
+      ],
+      "detailPath": "entities/songs/bf9d8ce5cd94a706.json"
+    },
+    {
+      "rank": 50653,
       "id": "c377f74a4d761bdf",
       "name": "魔法のアイコトバ",
       "secondary": "Mashumairesh!!",
@@ -43,7 +111,7 @@
       "detailPath": "entities/songs/c377f74a4d761bdf.json"
     },
     {
-      "rank": 50652,
+      "rank": 50654,
       "id": "ce36a85fa070bdb0",
       "name": "魔法のコトバ",
       "secondary": "スピッツさん",
@@ -76,7 +144,7 @@
       "detailPath": "entities/songs/ce36a85fa070bdb0.json"
     },
     {
-      "rank": 50653,
+      "rank": 50655,
       "id": "73da93a1d7c77775",
       "name": "魔法のない世界で生きるということ",
       "secondary": "ユルーカ研究所（アカペラ）",
@@ -109,7 +177,7 @@
       "detailPath": "entities/songs/73da93a1d7c77775.json"
     },
     {
-      "rank": 50654,
+      "rank": 50656,
       "id": "1301e6b7747a12f7",
       "name": "魔法のない世界で生きるということ",
       "secondary": "ユルーカ研究所",
@@ -139,7 +207,7 @@
       "detailPath": "entities/songs/1301e6b7747a12f7.json"
     },
     {
-      "rank": 50655,
+      "rank": 50657,
       "id": "d212505b7f45cf91",
       "name": "魔法のピンク",
       "secondary": "さだまさしｻﾝ",
@@ -172,7 +240,7 @@
       "detailPath": "entities/songs/d212505b7f45cf91.json"
     },
     {
-      "rank": 50656,
+      "rank": 50658,
       "id": "488082dcfca32c20",
       "name": "魔法のように",
       "secondary": "SHISHAMO",
@@ -205,7 +273,7 @@
       "detailPath": "entities/songs/488082dcfca32c20.json"
     },
     {
-      "rank": 50657,
+      "rank": 50659,
       "id": "a307c18f7d156cb0",
       "name": "魔法の歌",
       "secondary": "",
@@ -235,7 +303,7 @@
       "detailPath": "entities/songs/a307c18f7d156cb0.json"
     },
     {
-      "rank": 50658,
+      "rank": 50660,
       "id": "9646fd81d2a62706",
       "name": "魔法の言葉～Would you marry me?～",
       "secondary": "Do As Infinity",
@@ -267,7 +335,7 @@
       "detailPath": "entities/songs/9646fd81d2a62706.json"
     },
     {
-      "rank": 50659,
+      "rank": 50661,
       "id": "0d3ce93b06136662",
       "name": "魔法の人",
       "secondary": "奥華子（89.788点）",
@@ -301,7 +369,7 @@
       "detailPath": "entities/songs/0d3ce93b06136662.json"
     },
     {
-      "rank": 50660,
+      "rank": 50662,
       "id": "0dd57fddd64322dc",
       "name": "魔法の絨毯",
       "secondary": "川崎鷹也 [2018年]",
@@ -334,7 +402,7 @@
       "detailPath": "entities/songs/0dd57fddd64322dc.json"
     },
     {
-      "rank": 50661,
+      "rank": 50663,
       "id": "657f028e58c187a9",
       "name": "魔法の絨毯",
       "secondary": "川崎鷹也(ﾘｸｴｽﾄ)",
@@ -367,7 +435,7 @@
       "detailPath": "entities/songs/657f028e58c187a9.json"
     },
     {
-      "rank": 50662,
+      "rank": 50664,
       "id": "b07c1b80fc3d317e",
       "name": "魔法の絨毯　声やっさし・・・歌うっま・・・",
       "secondary": "",
@@ -400,7 +468,7 @@
       "detailPath": "entities/songs/b07c1b80fc3d317e.json"
     },
     {
-      "rank": 50663,
+      "rank": 50665,
       "id": "4135bfda734e9dc2",
       "name": "魔法の絨毯(弾き語り)",
       "secondary": "川崎鷹也",
@@ -433,7 +501,7 @@
       "detailPath": "entities/songs/4135bfda734e9dc2.json"
     },
     {
-      "rank": 50664,
+      "rank": 50666,
       "id": "d4c4fd2a306895b6",
       "name": "魔法の絨毯(마법의 양탄자)",
       "secondary": "川崎鷹也(카와사키 타카야)",
@@ -465,7 +533,7 @@
       "detailPath": "entities/songs/d4c4fd2a306895b6.json"
     },
     {
-      "rank": 50665,
+      "rank": 50667,
       "id": "1ffc1ede4c13f113",
       "name": "魔法以上が宿ってゆく",
       "secondary": "藍坊主",
@@ -499,7 +567,7 @@
       "detailPath": "entities/songs/1ffc1ede4c13f113.json"
     },
     {
-      "rank": 50666,
+      "rank": 50668,
       "id": "45ae09747a785d70",
       "name": "魔法科高校の劣等生",
       "secondary": "grilletto",
@@ -529,7 +597,7 @@
       "detailPath": "entities/songs/45ae09747a785d70.json"
     },
     {
-      "rank": 50667,
+      "rank": 50669,
       "id": "8d55c8ab520e97ba",
       "name": "魔法使いのマキちゃん",
       "secondary": "ポップしなないで",
@@ -562,7 +630,7 @@
       "detailPath": "entities/songs/8d55c8ab520e97ba.json"
     },
     {
-      "rank": 50668,
+      "rank": 50670,
       "id": "949f328ab477c697",
       "name": "魔法使いは二度死ぬ",
       "secondary": "大森靖子",
@@ -592,7 +660,7 @@
       "detailPath": "entities/songs/949f328ab477c697.json"
     },
     {
-      "rank": 50669,
+      "rank": 50671,
       "id": "c9e091a656bb4796",
       "name": "魔法少女",
       "secondary": "幸瑞珊",
@@ -625,7 +693,7 @@
       "detailPath": "entities/songs/c9e091a656bb4796.json"
     },
     {
-      "rank": 50670,
+      "rank": 50672,
       "id": "0e26cb6e4f2f453a",
       "name": "魔法少女とチョコレゐト（中断）",
       "secondary": "ピノキオピー feat.初音ミク",
@@ -658,7 +726,7 @@
       "detailPath": "entities/songs/0e26cb6e4f2f453a.json"
     },
     {
-      "rank": 50671,
+      "rank": 50673,
       "id": "0806bf57d22504ba",
       "name": "魔法少女幸福論",
       "secondary": "トーマ feat.初音ミク",
@@ -691,7 +759,7 @@
       "detailPath": "entities/songs/0806bf57d22504ba.json"
     },
     {
-      "rank": 50672,
+      "rank": 50674,
       "id": "6cd50a99b63234e6",
       "name": "魔法少女幸福論",
       "secondary": "失敗",
@@ -724,7 +792,7 @@
       "detailPath": "entities/songs/6cd50a99b63234e6.json"
     },
     {
-      "rank": 50673,
+      "rank": 50675,
       "id": "c5a5c8db27596c98",
       "name": "魔法戦隊マジレンジャー",
       "secondary": "魔法戦隊マジレンジャー",
@@ -757,7 +825,7 @@
       "detailPath": "entities/songs/c5a5c8db27596c98.json"
     },
     {
-      "rank": 50674,
+      "rank": 50676,
       "id": "85f5132228909626",
       "name": "魔法戦隊マジレンジャー",
       "secondary": "TVサイズ",
@@ -787,7 +855,7 @@
       "detailPath": "entities/songs/85f5132228909626.json"
     },
     {
-      "rank": 50675,
+      "rank": 50677,
       "id": "dbccf7cc45851b0c",
       "name": "魔理沙は大変なものを盗んでいきました",
       "secondary": "藤咲かりん",
@@ -821,7 +889,7 @@
       "detailPath": "entities/songs/dbccf7cc45851b0c.json"
     },
     {
-      "rank": 50676,
+      "rank": 50678,
       "id": "39d3ccd92c29c4e2",
       "name": "魔訶不思議アドベンチャー!",
       "secondary": "高橋洋樹 (1986年)",
@@ -855,7 +923,7 @@
       "detailPath": "entities/songs/39d3ccd92c29c4e2.json"
     },
     {
-      "rank": 50677,
+      "rank": 50679,
       "id": "cc6addb9d653d7eb",
       "name": "魔訶不思議アドベンチャー！",
       "secondary": "高橋洋樹（ドラゴンボール OP）",
@@ -888,7 +956,7 @@
       "detailPath": "entities/songs/cc6addb9d653d7eb.json"
     },
     {
-      "rank": 50678,
+      "rank": 50680,
       "id": "c66233343e2aff59",
       "name": "魔訶不思議アドベンチャー!",
       "secondary": "高橋洋樹 ／ ドラゴンボール(1986年)",
@@ -918,7 +986,7 @@
       "detailPath": "entities/songs/c66233343e2aff59.json"
     },
     {
-      "rank": 50679,
+      "rank": 50681,
       "id": "816cc8de5ff71bed",
       "name": "魔訶不思議アドベンチャー！(1986年)",
       "secondary": "高橋洋樹",
@@ -951,7 +1019,7 @@
       "detailPath": "entities/songs/816cc8de5ff71bed.json"
     },
     {
-      "rank": 50680,
+      "rank": 50682,
       "id": "75e679e26db7bf46",
       "name": "麻衣のカカカタ☆カタオモイ-梵",
       "secondary": "水上麻衣(CV:富樫美鈴)（90.080）",
@@ -985,7 +1053,7 @@
       "detailPath": "entities/songs/75e679e26db7bf46.json"
     },
     {
-      "rank": 50681,
+      "rank": 50683,
       "id": "6dde0c3dc5ed2678",
       "name": "麻煩刪掉獅子座",
       "secondary": "裘德",
@@ -1018,7 +1086,7 @@
       "detailPath": "entities/songs/6dde0c3dc5ed2678.json"
     },
     {
-      "rank": 50682,
+      "rank": 50684,
       "id": "53a0c2625276d19b",
       "name": "麻痺(-3)",
       "secondary": "yama",
@@ -1051,7 +1119,7 @@
       "detailPath": "entities/songs/53a0c2625276d19b.json"
     },
     {
-      "rank": 50683,
+      "rank": 50685,
       "id": "2e4d346b3ba1db90",
       "name": "妹",
       "secondary": "かぐや姫",
@@ -1081,7 +1149,7 @@
       "detailPath": "entities/songs/2e4d346b3ba1db90.json"
     },
     {
-      "rank": 50684,
+      "rank": 50686,
       "id": "bd8fc43416492b40",
       "name": "妹わすれちゃおしおきよ",
       "secondary": "キョンの妹",
@@ -1114,7 +1182,7 @@
       "detailPath": "entities/songs/bd8fc43416492b40.json"
     },
     {
-      "rank": 50685,
+      "rank": 50687,
       "id": "9605d9b4ad67c13c",
       "name": "毎月の姫期間が重かったら優しくしてくれる？",
       "secondary": "メンタルがブレてても許してくれる？",
@@ -1147,7 +1215,7 @@
       "detailPath": "entities/songs/9605d9b4ad67c13c.json"
     },
     {
-      "rank": 50686,
+      "rank": 50688,
       "id": "85664b8fd658f010",
       "name": "毎週 木曜・土曜",
       "secondary": "",
@@ -1177,7 +1245,7 @@
       "detailPath": "entities/songs/85664b8fd658f010.json"
     },
     {
-      "rank": 50687,
+      "rank": 50689,
       "id": "9f357a5d1129a018",
       "name": "毎度お馴染み、二重人格祭り",
       "secondary": "",
@@ -1210,7 +1278,7 @@
       "detailPath": "entities/songs/9f357a5d1129a018.json"
     },
     {
-      "rank": 50688,
+      "rank": 50690,
       "id": "02cae35ecb12ba7f",
       "name": "毎日",
       "secondary": "",
@@ -1243,7 +1311,7 @@
       "detailPath": "entities/songs/02cae35ecb12ba7f.json"
     },
     {
-      "rank": 50689,
+      "rank": 50691,
       "id": "98c67120b5a09deb",
       "name": "毎日暑い",
       "secondary": "未記載",
@@ -1277,7 +1345,7 @@
       "detailPath": "entities/songs/98c67120b5a09deb.json"
     },
     {
-      "rank": 50690,
+      "rank": 50692,
       "id": "43c59e4ac6927e43",
       "name": "幕間①",
       "secondary": "順位の理由",
@@ -1310,7 +1378,7 @@
       "detailPath": "entities/songs/43c59e4ac6927e43.json"
     },
     {
-      "rank": 50691,
+      "rank": 50693,
       "id": "e59576c95549c660",
       "name": "幕間②",
       "secondary": "尺が余る",
@@ -1343,7 +1411,7 @@
       "detailPath": "entities/songs/e59576c95549c660.json"
     },
     {
-      "rank": 50692,
+      "rank": 50694,
       "id": "ad0674440064ce8d",
       "name": "幕間③",
       "secondary": "妹にしたい",
@@ -1376,7 +1444,7 @@
       "detailPath": "entities/songs/ad0674440064ce8d.json"
     },
     {
-      "rank": 50693,
+      "rank": 50695,
       "id": "28a04b0a1407a031",
       "name": "幕間④",
       "secondary": "声が続かん！",
@@ -1409,7 +1477,7 @@
       "detailPath": "entities/songs/28a04b0a1407a031.json"
     },
     {
-      "rank": 50694,
+      "rank": 50696,
       "id": "aa8aa5e67321ccf5",
       "name": "幕間⑤",
       "secondary": "あれぇ....?",
@@ -1442,7 +1510,7 @@
       "detailPath": "entities/songs/aa8aa5e67321ccf5.json"
     },
     {
-      "rank": 50695,
+      "rank": 50697,
       "id": "a97a67d1089be106",
       "name": "幕間⑥",
       "secondary": "時間余ったので...",
@@ -1475,7 +1543,7 @@
       "detailPath": "entities/songs/a97a67d1089be106.json"
     },
     {
-      "rank": 50696,
+      "rank": 50698,
       "id": "8b31552fdde3be30",
       "name": "幕間⑦",
       "secondary": "ランキング外もからも",
@@ -1508,7 +1576,7 @@
       "detailPath": "entities/songs/8b31552fdde3be30.json"
     },
     {
-      "rank": 50697,
+      "rank": 50699,
       "id": "b020b23029e8516a",
       "name": "幕間⑧",
       "secondary": "残り二曲！",
@@ -1541,7 +1609,7 @@
       "detailPath": "entities/songs/b020b23029e8516a.json"
     },
     {
-      "rank": 50698,
+      "rank": 50700,
       "id": "a660d53743e40efe",
       "name": "幕間9",
       "secondary": "残り一曲！",
@@ -1572,69 +1640,6 @@
         }
       ],
       "detailPath": "entities/songs/a660d53743e40efe.json"
-    },
-    {
-      "rank": 50699,
-      "id": "c44af2881a62488e",
-      "name": "枕元にゴースト",
-      "secondary": "Yunomi",
-      "channelId": "UCfpcs6jK285d1TJWFhjej-Q",
-      "channelHandle": "@KUGURUKASAYA",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "xlrDFps0jZQ",
-          "videoTitle": "【歌枠】うすももいろ【#無原唱レコード / #くぐる屋さん】",
-          "channelName": "傘屋くぐる / KUGURU KASAYA",
-          "publishedAt": "2026-08-24T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xlrDFps0jZQ/hqdefault.jpg",
-          "sourcePath": "sources/xl/xlrDFps0jZQ.json",
-          "time": "0:10:22",
-          "seconds": 622,
-          "songTitle": "枕元にゴースト",
-          "artist": "Yunomi"
-        }
-      ],
-      "detailPath": "entities/songs/c44af2881a62488e.json"
-    },
-    {
-      "rank": 50700,
-      "id": "769c513dd60388b6",
-      "name": "枕元にゴースト",
-      "secondary": "Aiobahn & Yunomi",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Xf4kHtiob4g",
-          "videoTitle": "【 歌枠 / Karaoke 】朝歌枠𝜗𝜚.⋆ あなたを癒す後輩ボイス🎀🔔‎🤍Singing Stream【 #鈴花いのり 】",
-          "channelName": "鈴花いのり - Suzuhana Inori -",
-          "publishedAt": "2026-09-23T02:41:35.623Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Xf4kHtiob4g/hqdefault.jpg",
-          "sourcePath": "sources/Xf/Xf4kHtiob4g.json",
-          "time": "0:24:35",
-          "seconds": 1475,
-          "songTitle": "枕元にゴースト",
-          "artist": "Aiobahn & Yunomi"
-        }
-      ],
-      "detailPath": "entities/songs/769c513dd60388b6.json"
     }
   ]
 }
