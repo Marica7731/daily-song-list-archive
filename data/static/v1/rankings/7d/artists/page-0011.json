@@ -1,61 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:42:19.594Z",
+  "generatedAt": "2026-10-12T14:48:31.599Z",
   "range": "7d",
   "type": "artists",
   "page": 11,
   "pageSize": 50,
   "pageCount": 35,
-  "totalCount": 1750,
+  "totalCount": 1747,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 501,
-      "id": "1498a80dc957b48b",
-      "name": "月",
-      "secondary": "",
-      "channelId": "UCuVqDXO26SWUHT7EJ49Xn3g",
-      "channelHandle": "@jum_106",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ta9JTU25Ot8",
-          "videoTitle": "【#歌枠】ひよっこですが、リクエストで歌っていけるかな？🎤✨【出穂おみ/re;BON】",
-          "channelName": "出穂おみ / Izuho omi",
-          "publishedAt": "2026-10-08T15:22:56.308Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ta9JTU25Ot8/hqdefault.jpg",
-          "sourcePath": "sources/ta/ta9JTU25Ot8.json",
-          "time": "0:20:00",
-          "seconds": 1200,
-          "songTitle": "～ 10",
-          "artist": "月"
-        },
-        {
-          "videoId": "uZbiofiyMzc",
-          "videoTitle": "【歌枠/メンギフNG】お誕生日カウントダウン歌枠🎂【じゅむ】",
-          "channelName": "jum ch. じゅむ",
-          "publishedAt": "2026-10-05T16:44:11.452Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/uZbiofiyMzc/hqdefault.jpg",
-          "sourcePath": "sources/uZ/uZbiofiyMzc.json",
-          "time": "0:00:00",
-          "seconds": 0,
-          "songTitle": "2026/10",
-          "artist": "月"
-        }
-      ],
-      "detailPath": "entities/artists/1498a80dc957b48b.json"
-    },
-    {
-      "rank": 502,
       "id": "138a462dfabe588d",
       "name": "月見ヤチヨ（CV.早見沙織）",
       "secondary": "",
@@ -101,7 +56,7 @@
       "detailPath": "entities/artists/138a462dfabe588d.json"
     },
     {
-      "rank": 503,
+      "rank": 502,
       "id": "b99d5c0abcc82a44",
       "name": "月村手毬(小鹿なお)",
       "secondary": "",
@@ -146,7 +101,7 @@
       "detailPath": "entities/artists/b99d5c0abcc82a44.json"
     },
     {
-      "rank": 504,
+      "rank": 503,
       "id": "fbaba73ffeea6929",
       "name": "月島きらり starring 久住小春（モーニング娘。）",
       "secondary": "",
@@ -191,7 +146,7 @@
       "detailPath": "entities/artists/fbaba73ffeea6929.json"
     },
     {
-      "rank": 505,
+      "rank": 504,
       "id": "5a52d10e80e82572",
       "name": "工藤静香",
       "secondary": "",
@@ -236,7 +191,7 @@
       "detailPath": "entities/artists/5a52d10e80e82572.json"
     },
     {
-      "rank": 506,
+      "rank": 505,
       "id": "b46e9da17d96ba86",
       "name": "鋼の錬金術師",
       "secondary": "",
@@ -281,7 +236,7 @@
       "detailPath": "entities/artists/b46e9da17d96ba86.json"
     },
     {
-      "rank": 507,
+      "rank": 506,
       "id": "654c1eadb95f5a69",
       "name": "高橋ひろ",
       "secondary": "",
@@ -326,7 +281,7 @@
       "detailPath": "entities/artists/654c1eadb95f5a69.json"
     },
     {
-      "rank": 508,
+      "rank": 507,
       "id": "0cd0d3b4fed7ad42",
       "name": "高橋瞳",
       "secondary": "",
@@ -371,7 +326,7 @@
       "detailPath": "entities/artists/0cd0d3b4fed7ad42.json"
     },
     {
-      "rank": 509,
+      "rank": 508,
       "id": "84bd6e5c2bd65cda",
       "name": "今井ゆうぞう、はいだしょうこ",
       "secondary": "",
@@ -416,7 +371,7 @@
       "detailPath": "entities/artists/84bd6e5c2bd65cda.json"
     },
     {
-      "rank": 510,
+      "rank": 509,
       "id": "11bad463cbde125c",
       "name": "今井美樹",
       "secondary": "",
@@ -461,7 +416,7 @@
       "detailPath": "entities/artists/11bad463cbde125c.json"
     },
     {
-      "rank": 511,
+      "rank": 510,
       "id": "4e3c69932583042c",
       "name": "今野友加里",
       "secondary": "",
@@ -506,7 +461,7 @@
       "detailPath": "entities/artists/4e3c69932583042c.json"
     },
     {
-      "rank": 512,
+      "rank": 511,
       "id": "181e8d79d2c17e24",
       "name": "佐藤朱美",
       "secondary": "",
@@ -551,7 +506,7 @@
       "detailPath": "entities/artists/181e8d79d2c17e24.json"
     },
     {
-      "rank": 513,
+      "rank": 512,
       "id": "9c564bdbacfea81b",
       "name": "山下達郎",
       "secondary": "",
@@ -597,7 +552,7 @@
       "detailPath": "entities/artists/9c564bdbacfea81b.json"
     },
     {
-      "rank": 514,
+      "rank": 513,
       "id": "865b6b94f91f93f2",
       "name": "獅子志司",
       "secondary": "",
@@ -642,7 +597,7 @@
       "detailPath": "entities/artists/865b6b94f91f93f2.json"
     },
     {
-      "rank": 515,
+      "rank": 514,
       "id": "3658c0728354bd13",
       "name": "紫今",
       "secondary": "",
@@ -685,6 +640,51 @@
         }
       ],
       "detailPath": "entities/artists/3658c0728354bd13.json"
+    },
+    {
+      "rank": 515,
+      "id": "fd2982c7874dee46",
+      "name": "篠原涼子",
+      "secondary": "",
+      "channelId": "UCocnY-kJ7VYVA7SQLP8AHIA",
+      "channelHandle": "@tokiwaaino",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "XK3Bhad_aao",
+          "videoTitle": "【 #歌枠/Singing】平成縛り歌枠❢❢初見さん・ROMさん大歓迎！作業や睡眠のお供に🦊見つけてください！【 #新人vtuber 】",
+          "channelName": "月詠命こん",
+          "publishedAt": "2026-10-09T15:52:44.712Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XK3Bhad_aao/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALkW7FuD0UOoYM9evz1edRxn86Cg",
+          "sourcePath": "sources/XK/XK3Bhad_aao.json",
+          "time": "1:31:42",
+          "seconds": 5502,
+          "songTitle": "恋しさとせつなさと心強さと",
+          "artist": "篠原涼子"
+        },
+        {
+          "videoId": "y3RmA7YkSYQ",
+          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
+          "channelName": "時羽あいの",
+          "publishedAt": "2026-10-06T19:13:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
+          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
+          "time": "2:59:10",
+          "seconds": 10750,
+          "songTitle": "恋しさとせつなさと心強さと",
+          "artist": "篠原涼子"
+        }
+      ],
+      "detailPath": "entities/artists/fd2982c7874dee46.json"
     },
     {
       "rank": 516,

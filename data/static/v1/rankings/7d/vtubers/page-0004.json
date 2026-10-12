@@ -1,61 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:42:19.594Z",
+  "generatedAt": "2026-10-12T14:48:31.599Z",
   "range": "7d",
   "type": "vtubers",
   "page": 4,
   "pageSize": 50,
   "pageCount": 7,
-  "totalCount": 318,
+  "totalCount": 317,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 151,
-      "id": "5696518aaa98f8e4",
-      "name": "さばしろ JazzVocal",
-      "secondary": "",
-      "channelId": "UCo-6f6ogBC5VJ0ymcW8z82A",
-      "channelHandle": "@%E3%81%95%E3%81%B0%E3%81%97%E3%82%8Djazz",
-      "channelUrl": "",
-      "occurrenceCount": 14,
-      "videoCount": 2,
-      "songCount": 7,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "qQnnmc6kkTY",
-          "videoTitle": "猫のゆるジャズ喫茶【Vtuber 歌枠】 / 初見様リクエスト１曲どうぞ♪ 広告無 BGMに最適♪プロ歌手が Jazz, Bossa, Pop, Soul など歌うよ",
-          "channelName": "さばしろ JazzVocal",
-          "publishedAt": "2026-10-12T09:11:37.770Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qQnnmc6kkTY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMPs1KbqiNu-F_gakasMtVahZAHA",
-          "sourcePath": "sources/qQ/qQnnmc6kkTY.json",
-          "time": "0:15:00",
-          "seconds": 900,
-          "songTitle": "月",
-          "artist": ""
-        },
-        {
-          "videoId": "RPTYbocssHE",
-          "videoTitle": "猫のゆるジャズ喫茶【Vtuber 歌枠】 / 初見様リクエスト１曲どうぞ♪ 広告無 BGMに最適♪プロ歌手が Jazz, Bossa, Pop, Soul など歌うよ",
-          "channelName": "さばしろ JazzVocal",
-          "publishedAt": "2026-10-07T11:42:33.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RPTYbocssHE/hqdefault.jpg",
-          "sourcePath": "sources/RP/RPTYbocssHE.json",
-          "time": "0:15:00",
-          "seconds": 900,
-          "songTitle": "月",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/vtubers/5696518aaa98f8e4.json"
-    },
-    {
-      "rank": 152,
       "id": "cbe91c9bf4892c80",
       "name": "黒咲ルシア / LUCIA CHANNEL",
       "secondary": "",
@@ -100,7 +55,7 @@
       "detailPath": "entities/vtubers/cbe91c9bf4892c80.json"
     },
     {
-      "rank": 153,
+      "rank": 152,
       "id": "b66e9ac198e4f995",
       "name": "Draminas Curiousードラミナス・キュリオスー",
       "secondary": "",
@@ -133,7 +88,7 @@
       "detailPath": "entities/vtubers/b66e9ac198e4f995.json"
     },
     {
-      "rank": 154,
+      "rank": 153,
       "id": "19f73f98646a8ef4",
       "name": "Miu Ch.儚羽みう",
       "secondary": "",
@@ -166,7 +121,7 @@
       "detailPath": "entities/vtubers/19f73f98646a8ef4.json"
     },
     {
-      "rank": 155,
+      "rank": 154,
       "id": "6d8b261b027b4b60",
       "name": "やすみ / Yasumi",
       "secondary": "",
@@ -199,7 +154,7 @@
       "detailPath": "entities/vtubers/6d8b261b027b4b60.json"
     },
     {
-      "rank": 156,
+      "rank": 155,
       "id": "ea777390a3234ecd",
       "name": "歌う 三ツ星ルナちゃん",
       "secondary": "",
@@ -232,7 +187,7 @@
       "detailPath": "entities/vtubers/ea777390a3234ecd.json"
     },
     {
-      "rank": 157,
+      "rank": 156,
       "id": "2fa2bf3578f6bea9",
       "name": "月凪ミナモ / Tsukinagi Minamo",
       "secondary": "",
@@ -265,7 +220,7 @@
       "detailPath": "entities/vtubers/2fa2bf3578f6bea9.json"
     },
     {
-      "rank": 158,
+      "rank": 157,
       "id": "130bfdb1f09dc371",
       "name": "狐宵いなり - Inari Koyoi -",
       "secondary": "",
@@ -298,7 +253,7 @@
       "detailPath": "entities/vtubers/130bfdb1f09dc371.json"
     },
     {
-      "rank": 159,
+      "rank": 158,
       "id": "f5ac161f1f8a98a3",
       "name": "紫雨るか / Ruka Shigure",
       "secondary": "",
@@ -331,7 +286,7 @@
       "detailPath": "entities/vtubers/f5ac161f1f8a98a3.json"
     },
     {
-      "rank": 160,
+      "rank": 159,
       "id": "1d66f4d7373738a9",
       "name": "冬星おそら / Osora",
       "secondary": "",
@@ -364,7 +319,7 @@
       "detailPath": "entities/vtubers/1d66f4d7373738a9.json"
     },
     {
-      "rank": 161,
+      "rank": 160,
       "id": "b7362eda024cfe4f",
       "name": "東雲うる - Uru Shinonome -",
       "secondary": "",
@@ -397,7 +352,7 @@
       "detailPath": "entities/vtubers/b7362eda024cfe4f.json"
     },
     {
-      "rank": 162,
+      "rank": 161,
       "id": "4b0606e409cca24a",
       "name": "武田玄愛 / Takeda kuroa",
       "secondary": "",
@@ -430,7 +385,7 @@
       "detailPath": "entities/vtubers/4b0606e409cca24a.json"
     },
     {
-      "rank": 163,
+      "rank": 162,
       "id": "3bfd42542a6e19c1",
       "name": "柳井鹿目 - かなめは弾き語る📻",
       "secondary": "",
@@ -463,7 +418,7 @@
       "detailPath": "entities/vtubers/3bfd42542a6e19c1.json"
     },
     {
-      "rank": 164,
+      "rank": 163,
       "id": "29304c15e9a687a6",
       "name": "鷲羽アスカ / Washu Asuka",
       "secondary": "",
@@ -496,7 +451,7 @@
       "detailPath": "entities/vtubers/29304c15e9a687a6.json"
     },
     {
-      "rank": 165,
+      "rank": 164,
       "id": "bcab6b5336e907df",
       "name": "巫てんり / Kannagi Tenri",
       "secondary": "",
@@ -529,7 +484,7 @@
       "detailPath": "entities/vtubers/bcab6b5336e907df.json"
     },
     {
-      "rank": 166,
+      "rank": 165,
       "id": "baaef177b74efb9d",
       "name": "碓氷ゆら / Yura Usui",
       "secondary": "",
@@ -574,7 +529,7 @@
       "detailPath": "entities/vtubers/baaef177b74efb9d.json"
     },
     {
-      "rank": 167,
+      "rank": 166,
       "id": "785642e75804f286",
       "name": "2mgi",
       "secondary": "",
@@ -607,7 +562,7 @@
       "detailPath": "entities/vtubers/785642e75804f286.json"
     },
     {
-      "rank": 168,
+      "rank": 167,
       "id": "deb6f8517cd6897a",
       "name": "Fuwamay",
       "secondary": "",
@@ -640,7 +595,7 @@
       "detailPath": "entities/vtubers/deb6f8517cd6897a.json"
     },
     {
-      "rank": 169,
+      "rank": 168,
       "id": "5cafbbb1ca132c6f",
       "name": "Kokona Ch. 猫山田ここな",
       "secondary": "",
@@ -673,7 +628,7 @@
       "detailPath": "entities/vtubers/5cafbbb1ca132c6f.json"
     },
     {
-      "rank": 170,
+      "rank": 169,
       "id": "ba7698b0470a594c",
       "name": "LOVO",
       "secondary": "",
@@ -706,7 +661,7 @@
       "detailPath": "entities/vtubers/ba7698b0470a594c.json"
     },
     {
-      "rank": 171,
+      "rank": 170,
       "id": "00c8b7f14a246b9f",
       "name": "Yomogi Ch.歌喰猫よもぎ",
       "secondary": "",
@@ -739,7 +694,7 @@
       "detailPath": "entities/vtubers/00c8b7f14a246b9f.json"
     },
     {
-      "rank": 172,
+      "rank": 171,
       "id": "7ed08242ffd0abb9",
       "name": "桜庭 羽奈【パレデミア学園】",
       "secondary": "",
@@ -772,7 +727,7 @@
       "detailPath": "entities/vtubers/7ed08242ffd0abb9.json"
     },
     {
-      "rank": 173,
+      "rank": 172,
       "id": "475a076210c11d8d",
       "name": "紫藤ナナ / nana shidou",
       "secondary": "",
@@ -805,7 +760,7 @@
       "detailPath": "entities/vtubers/475a076210c11d8d.json"
     },
     {
-      "rank": 174,
+      "rank": 173,
       "id": "86be39a240813591",
       "name": "汐鳴みりね / Mirine Shionari【ななしいんく】",
       "secondary": "",
@@ -838,7 +793,7 @@
       "detailPath": "entities/vtubers/86be39a240813591.json"
     },
     {
-      "rank": 175,
+      "rank": 174,
       "id": "d4d52095a1063f0f",
       "name": "双葉いよ - FutabaIyo -",
       "secondary": "",
@@ -871,7 +826,7 @@
       "detailPath": "entities/vtubers/d4d52095a1063f0f.json"
     },
     {
-      "rank": 176,
+      "rank": 175,
       "id": "41b2cb6f1aeaa899",
       "name": "keita ch / けいたの実験室",
       "secondary": "",
@@ -904,7 +859,7 @@
       "detailPath": "entities/vtubers/41b2cb6f1aeaa899.json"
     },
     {
-      "rank": 177,
+      "rank": 176,
       "id": "c82dc62e7593d35c",
       "name": "Kyoka Ch. -響架-",
       "secondary": "",
@@ -937,7 +892,7 @@
       "detailPath": "entities/vtubers/c82dc62e7593d35c.json"
     },
     {
-      "rank": 178,
+      "rank": 177,
       "id": "4148a76a2ce773a2",
       "name": "Lime Ch. 紫電ライム",
       "secondary": "",
@@ -970,7 +925,7 @@
       "detailPath": "entities/vtubers/4148a76a2ce773a2.json"
     },
     {
-      "rank": 179,
+      "rank": 178,
       "id": "665114d7af21ae53",
       "name": "あらと / alat",
       "secondary": "",
@@ -1004,7 +959,7 @@
       "detailPath": "entities/vtubers/665114d7af21ae53.json"
     },
     {
-      "rank": 180,
+      "rank": 179,
       "id": "a2579e10e622cef3",
       "name": "うらめちゃんねる /あおぎり高校",
       "secondary": "",
@@ -1037,7 +992,7 @@
       "detailPath": "entities/vtubers/a2579e10e622cef3.json"
     },
     {
-      "rank": 181,
+      "rank": 180,
       "id": "38940c3f99890cc1",
       "name": "ななし律歌 / Nanashi Rikka",
       "secondary": "",
@@ -1071,7 +1026,7 @@
       "detailPath": "entities/vtubers/38940c3f99890cc1.json"
     },
     {
-      "rank": 182,
+      "rank": 181,
       "id": "774b6fe0b2e94589",
       "name": "ミアトリクス / Miatrix",
       "secondary": "",
@@ -1104,7 +1059,7 @@
       "detailPath": "entities/vtubers/774b6fe0b2e94589.json"
     },
     {
-      "rank": 183,
+      "rank": 182,
       "id": "682ee0cb94f2689a",
       "name": "雲丹間 にう / unima niu",
       "secondary": "",
@@ -1137,7 +1092,7 @@
       "detailPath": "entities/vtubers/682ee0cb94f2689a.json"
     },
     {
-      "rank": 184,
+      "rank": 183,
       "id": "00f68fb8c8f5ffb4",
       "name": "甘葛すもあ / Amazura Sumoa",
       "secondary": "",
@@ -1170,7 +1125,7 @@
       "detailPath": "entities/vtubers/00f68fb8c8f5ffb4.json"
     },
     {
-      "rank": 185,
+      "rank": 184,
       "id": "5b709190a443aad2",
       "name": "稀羽すう - Suu Usuwa -",
       "secondary": "",
@@ -1203,7 +1158,7 @@
       "detailPath": "entities/vtubers/5b709190a443aad2.json"
     },
     {
-      "rank": 186,
+      "rank": 185,
       "id": "98c8afb69bb1b305",
       "name": "時桜 / Shikura",
       "secondary": "",
@@ -1236,7 +1191,7 @@
       "detailPath": "entities/vtubers/98c8afb69bb1b305.json"
     },
     {
-      "rank": 187,
+      "rank": 186,
       "id": "4677707650894537",
       "name": "奏ヰ ラゼル",
       "secondary": "",
@@ -1269,7 +1224,7 @@
       "detailPath": "entities/vtubers/4677707650894537.json"
     },
     {
-      "rank": 188,
+      "rank": 187,
       "id": "487ca6f06d062a23",
       "name": "白噛ましゅー(村長)",
       "secondary": "",
@@ -1302,7 +1257,7 @@
       "detailPath": "entities/vtubers/487ca6f06d062a23.json"
     },
     {
-      "rank": 189,
+      "rank": 188,
       "id": "71ee7e1eca008faf",
       "name": "眠瑠おみ",
       "secondary": "",
@@ -1335,7 +1290,7 @@
       "detailPath": "entities/vtubers/71ee7e1eca008faf.json"
     },
     {
-      "rank": 190,
+      "rank": 189,
       "id": "3bbe5409ead57287",
       "name": "Ruki Otokado / 音門るき",
       "secondary": "",
@@ -1368,7 +1323,7 @@
       "detailPath": "entities/vtubers/3bbe5409ead57287.json"
     },
     {
-      "rank": 191,
+      "rank": 190,
       "id": "701eff12e6056e0f",
       "name": "xxhacucoxx ch. 白白虹",
       "secondary": "",
@@ -1401,7 +1356,7 @@
       "detailPath": "entities/vtubers/701eff12e6056e0f.json"
     },
     {
-      "rank": 192,
+      "rank": 191,
       "id": "94fbd4a9fa5868a2",
       "name": "ねむくま まふゆ / Mafuyu Nemukuma",
       "secondary": "",
@@ -1434,7 +1389,7 @@
       "detailPath": "entities/vtubers/94fbd4a9fa5868a2.json"
     },
     {
-      "rank": 193,
+      "rank": 192,
       "id": "c82673efb792ff87",
       "name": "ネモ・テルミナス",
       "secondary": "",
@@ -1467,7 +1422,7 @@
       "detailPath": "entities/vtubers/c82673efb792ff87.json"
     },
     {
-      "rank": 194,
+      "rank": 193,
       "id": "21f0cc46798ab3c5",
       "name": "ぴなち",
       "secondary": "",
@@ -1500,7 +1455,7 @@
       "detailPath": "entities/vtubers/21f0cc46798ab3c5.json"
     },
     {
-      "rank": 195,
+      "rank": 194,
       "id": "0191aa7614808049",
       "name": "花ヶ崎穣 ch / Hanagasaki Minoru ch.",
       "secondary": "",
@@ -1533,7 +1488,7 @@
       "detailPath": "entities/vtubers/0191aa7614808049.json"
     },
     {
-      "rank": 196,
+      "rank": 195,
       "id": "e24c014d82932f77",
       "name": "狐橙明音",
       "secondary": "",
@@ -1566,7 +1521,7 @@
       "detailPath": "entities/vtubers/e24c014d82932f77.json"
     },
     {
-      "rank": 197,
+      "rank": 196,
       "id": "00afefeffbd527ba",
       "name": "織姫はるか / Orihime Haruka",
       "secondary": "",
@@ -1599,7 +1554,7 @@
       "detailPath": "entities/vtubers/00afefeffbd527ba.json"
     },
     {
-      "rank": 198,
+      "rank": 197,
       "id": "45b50d59a3a1017a",
       "name": "夢眠ゆらめ -Yumemi Yurame-",
       "secondary": "",
@@ -1632,7 +1587,7 @@
       "detailPath": "entities/vtubers/45b50d59a3a1017a.json"
     },
     {
-      "rank": 199,
+      "rank": 198,
       "id": "f8527c1d4490c49d",
       "name": "無々ひさぎ - Hisagi Nana -",
       "secondary": "",
@@ -1665,7 +1620,7 @@
       "detailPath": "entities/vtubers/f8527c1d4490c49d.json"
     },
     {
-      "rank": 200,
+      "rank": 199,
       "id": "ad79edecc3d6dfaf",
       "name": "AZKi Channel",
       "secondary": "",
@@ -1696,6 +1651,39 @@
         }
       ],
       "detailPath": "entities/vtubers/ad79edecc3d6dfaf.json"
+    },
+    {
+      "rank": 200,
+      "id": "b3e83d61df92ec93",
+      "name": "Rara Channel / 小鳥遊らら",
+      "secondary": "",
+      "channelId": "UCLIEOGtrywxsLztMPPKtfkA",
+      "channelHandle": "@RaraTakanashi",
+      "channelUrl": "https://www.youtube.com/@RaraTakanashi",
+      "occurrenceCount": 10,
+      "videoCount": 1,
+      "songCount": 10,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": true,
+      "collectionId": "rara-takanashi",
+      "sourcesPreview": [
+        {
+          "videoId": "LZp594q45NI",
+          "videoTitle": "【 歌枠┆KARAOKE 】美少女ゲームソング歌枠をします！✧ 【Visual Novel Game Song】",
+          "channelName": "Rara Channel / 小鳥遊らら",
+          "publishedAt": "2026-10-08T14:23:52.975Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LZp594q45NI/hqdefault.jpg",
+          "sourcePath": "sources/LZ/LZp594q45NI.json",
+          "time": "0:07:21",
+          "seconds": 441,
+          "songTitle": "Mirage Lullaby",
+          "artist": "YURIA"
+        }
+      ],
+      "detailPath": "entities/vtubers/b3e83d61df92ec93.json"
     }
   ]
 }

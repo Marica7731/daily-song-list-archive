@@ -1,106 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:42:19.594Z",
+  "generatedAt": "2026-10-12T14:48:31.599Z",
   "range": "7d",
   "type": "artists",
   "page": 10,
   "pageSize": 50,
   "pageCount": 35,
-  "totalCount": 1750,
+  "totalCount": 1747,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 451,
-      "id": "e841cf1192452174",
-      "name": "TWO-MIX",
-      "secondary": "",
-      "channelId": "UCocnY-kJ7VYVA7SQLP8AHIA",
-      "channelHandle": "@tokiwaaino",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "y3RmA7YkSYQ",
-          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
-          "channelName": "時羽あいの",
-          "publishedAt": "2026-10-06T19:13:46.568Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
-          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
-          "time": "3:18:20",
-          "seconds": 11900,
-          "songTitle": "RHYTHM EMOTION",
-          "artist": "TWO-MIX"
-        },
-        {
-          "videoId": "kg3s60ifMHI",
-          "videoTitle": "【karaoke】同接50人目指して歌う耐久歌枠💙高評価で応援よろしくお願いしますっ！【#新人vtuber #ひいろライブ】",
-          "channelName": "Hiiro Ch. 天結ひいろ",
-          "publishedAt": "2026-10-06T16:28:06.554Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kg3s60ifMHI/hqdefault.jpg",
-          "sourcePath": "sources/kg/kg3s60ifMHI.json",
-          "time": "0:12:34",
-          "seconds": 754,
-          "songTitle": "RHYTHM EMOTION",
-          "artist": "TWO-MIX"
-        }
-      ],
-      "detailPath": "entities/artists/e841cf1192452174.json"
-    },
-    {
-      "rank": 452,
-      "id": "e1a2e22f64810849",
-      "name": "UVERworld",
-      "secondary": "",
-      "channelId": "UCFncf_dDaabeQBu_u5j3SHg",
-      "channelHandle": "@sakuma_akira",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "MwAvobWhLqY",
-          "videoTitle": "🧸: 歌枠┊︎初見さんもおいで！深夜のゆる歌枠🌙.*🪽⊹₊ ˚.⋆〖 #咲真あきら #べあーどきゃすと #縦横同時配信 〗",
-          "channelName": "咲真あきら / Sakuma Akira",
-          "publishedAt": "2026-10-09T17:49:10.815Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MwAvobWhLqY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAy5RTNP1lzjpy4YpZX1YesyTkRDw",
-          "sourcePath": "sources/Mw/MwAvobWhLqY.json",
-          "time": "0:06:30",
-          "seconds": 390,
-          "songTitle": "儚くも永久のカナシ",
-          "artist": "UVERworld"
-        },
-        {
-          "videoId": "2g30XvVlQHc",
-          "videoTitle": "【 歌枠 】 初見さんがコメントすると流れ星が流れる！初見さん２０人目標です！【葵井詩雫】 Vsinger | karaoke | animesong",
-          "channelName": "aoi sizuku ch. 葵井詩雫",
-          "publishedAt": "2026-10-09T04:09:04.654Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2g30XvVlQHc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZbBIsgYGLWT9abSxNGITjFXcLYw",
-          "sourcePath": "sources/2g/2g30XvVlQHc.json",
-          "time": "2:49:54",
-          "seconds": 10194,
-          "songTitle": "Touch off",
-          "artist": "UVERworld"
-        }
-      ],
-      "detailPath": "entities/artists/e1a2e22f64810849.json"
-    },
-    {
-      "rank": 453,
       "id": "7925390d18769adc",
       "name": "Vaundy （ワンコーラス）",
       "secondary": "",
@@ -145,7 +55,7 @@
       "detailPath": "entities/artists/7925390d18769adc.json"
     },
     {
-      "rank": 454,
+      "rank": 452,
       "id": "09e21e320eb1198d",
       "name": "wacci",
       "secondary": "",
@@ -191,7 +101,7 @@
       "detailPath": "entities/artists/09e21e320eb1198d.json"
     },
     {
-      "rank": 455,
+      "rank": 453,
       "id": "58eab9b2db4c650e",
       "name": "WhiteFlame",
       "secondary": "",
@@ -236,7 +146,7 @@
       "detailPath": "entities/artists/58eab9b2db4c650e.json"
     },
     {
-      "rank": 456,
+      "rank": 454,
       "id": "4cf0d7a41f5cd586",
       "name": "Yonezu Kenshi",
       "secondary": "",
@@ -282,7 +192,7 @@
       "detailPath": "entities/artists/4cf0d7a41f5cd586.json"
     },
     {
-      "rank": 457,
+      "rank": 455,
       "id": "fcf32dda22f8fdb0",
       "name": "いぎなり東北産",
       "secondary": "",
@@ -327,7 +237,7 @@
       "detailPath": "entities/artists/fcf32dda22f8fdb0.json"
     },
     {
-      "rank": 458,
+      "rank": 456,
       "id": "fee58be2f69c7d08",
       "name": "オワタP",
       "secondary": "",
@@ -372,7 +282,7 @@
       "detailPath": "entities/artists/fee58be2f69c7d08.json"
     },
     {
-      "rank": 459,
+      "rank": 457,
       "id": "0302e2d21908eb30",
       "name": "かいりきベア feat.初音ミク",
       "secondary": "",
@@ -417,7 +327,7 @@
       "detailPath": "entities/artists/0302e2d21908eb30.json"
     },
     {
-      "rank": 460,
+      "rank": 458,
       "id": "f6a3b7a250785f52",
       "name": "かぐや (cv.夏吉ゆうこ)&月見ヤチヨ (cv.早見沙織)",
       "secondary": "",
@@ -462,7 +372,7 @@
       "detailPath": "entities/artists/f6a3b7a250785f52.json"
     },
     {
-      "rank": 461,
+      "rank": 459,
       "id": "52f2ab0810b1b2c6",
       "name": "かぐや(夏吉ゆうこ)、月見ヤチヨ(早見沙織)",
       "secondary": "",
@@ -507,7 +417,7 @@
       "detailPath": "entities/artists/52f2ab0810b1b2c6.json"
     },
     {
-      "rank": 462,
+      "rank": 460,
       "id": "d7299c9ed452129b",
       "name": "ギヴン",
       "secondary": "",
@@ -552,7 +462,7 @@
       "detailPath": "entities/artists/d7299c9ed452129b.json"
     },
     {
-      "rank": 463,
+      "rank": 461,
       "id": "389c7759cc038429",
       "name": "きゃりーぱみゅぱみゅ",
       "secondary": "",
@@ -597,7 +507,7 @@
       "detailPath": "entities/artists/389c7759cc038429.json"
     },
     {
-      "rank": 464,
+      "rank": 462,
       "id": "1b3d46873c7d4b7e",
       "name": "グミ",
       "secondary": "",
@@ -642,7 +552,7 @@
       "detailPath": "entities/artists/1b3d46873c7d4b7e.json"
     },
     {
-      "rank": 465,
+      "rank": 463,
       "id": "6fa7a8f4f38970d2",
       "name": "けものさん",
       "secondary": "",
@@ -687,7 +597,7 @@
       "detailPath": "entities/artists/6fa7a8f4f38970d2.json"
     },
     {
-      "rank": 466,
+      "rank": 464,
       "id": "088b832e0eacfb7a",
       "name": "ゴジマジP",
       "secondary": "",
@@ -732,7 +642,7 @@
       "detailPath": "entities/artists/088b832e0eacfb7a.json"
     },
     {
-      "rank": 467,
+      "rank": 465,
       "id": "68711d6fcf4062af",
       "name": "さくらみこ",
       "secondary": "",
@@ -777,7 +687,7 @@
       "detailPath": "entities/artists/68711d6fcf4062af.json"
     },
     {
-      "rank": 468,
+      "rank": 466,
       "id": "15be006e50f610b2",
       "name": "さとうもか",
       "secondary": "",
@@ -823,7 +733,7 @@
       "detailPath": "entities/artists/15be006e50f610b2.json"
     },
     {
-      "rank": 469,
+      "rank": 467,
       "id": "e397a123f352ae45",
       "name": "シギ",
       "secondary": "",
@@ -868,7 +778,7 @@
       "detailPath": "entities/artists/e397a123f352ae45.json"
     },
     {
-      "rank": 470,
+      "rank": 468,
       "id": "5b3b79f8d85f1b42",
       "name": "しぐれうい",
       "secondary": "",
@@ -913,7 +823,7 @@
       "detailPath": "entities/artists/5b3b79f8d85f1b42.json"
     },
     {
-      "rank": 471,
+      "rank": 469,
       "id": "ae1836b4bfc973e8",
       "name": "じん feat. IA",
       "secondary": "",
@@ -959,7 +869,7 @@
       "detailPath": "entities/artists/ae1836b4bfc973e8.json"
     },
     {
-      "rank": 472,
+      "rank": 470,
       "id": "cec3699313a22c06",
       "name": "チームハナヤマタ",
       "secondary": "",
@@ -1004,7 +914,7 @@
       "detailPath": "entities/artists/cec3699313a22c06.json"
     },
     {
-      "rank": 473,
+      "rank": 471,
       "id": "a9ef5b7dbae16ea8",
       "name": "テレサ・テン",
       "secondary": "",
@@ -1050,7 +960,7 @@
       "detailPath": "entities/artists/a9ef5b7dbae16ea8.json"
     },
     {
-      "rank": 474,
+      "rank": 472,
       "id": "87a170e847b57c1b",
       "name": "どうぶつビスケッツ",
       "secondary": "",
@@ -1095,7 +1005,7 @@
       "detailPath": "entities/artists/87a170e847b57c1b.json"
     },
     {
-      "rank": 475,
+      "rank": 473,
       "id": "4e3d84f155825087",
       "name": "ナノウ(ほえほえP) feat. 初音ミク",
       "secondary": "",
@@ -1141,7 +1051,7 @@
       "detailPath": "entities/artists/4e3d84f155825087.json"
     },
     {
-      "rank": 476,
+      "rank": 474,
       "id": "bc5f276c161e7a10",
       "name": "パジャマパーティーズ",
       "secondary": "",
@@ -1186,7 +1096,7 @@
       "detailPath": "entities/artists/bc5f276c161e7a10.json"
     },
     {
-      "rank": 477,
+      "rank": 475,
       "id": "935f2dff6079c8fb",
       "name": "ハチワレ",
       "secondary": "",
@@ -1232,7 +1142,7 @@
       "detailPath": "entities/artists/935f2dff6079c8fb.json"
     },
     {
-      "rank": 478,
+      "rank": 476,
       "id": "866e54bc8dbb43f7",
       "name": "はるまきごはん",
       "secondary": "",
@@ -1278,7 +1188,7 @@
       "detailPath": "entities/artists/866e54bc8dbb43f7.json"
     },
     {
-      "rank": 479,
+      "rank": 477,
       "id": "1026635d0a5f329e",
       "name": "ハンバート ハンバート",
       "secondary": "",
@@ -1323,7 +1233,7 @@
       "detailPath": "entities/artists/1026635d0a5f329e.json"
     },
     {
-      "rank": 480,
+      "rank": 478,
       "id": "62ef6a99cd22f90a",
       "name": "フレデリック",
       "secondary": "",
@@ -1368,7 +1278,7 @@
       "detailPath": "entities/artists/62ef6a99cd22f90a.json"
     },
     {
-      "rank": 481,
+      "rank": 479,
       "id": "2e78a62384c5f537",
       "name": "ブレンド・A",
       "secondary": "",
@@ -1413,7 +1323,7 @@
       "detailPath": "entities/artists/2e78a62384c5f537.json"
     },
     {
-      "rank": 482,
+      "rank": 480,
       "id": "4157b23aa04e5373",
       "name": "ポルカドットスティングレイ",
       "secondary": "",
@@ -1459,7 +1369,7 @@
       "detailPath": "entities/artists/4157b23aa04e5373.json"
     },
     {
-      "rank": 483,
+      "rank": 481,
       "id": "92e6b705a1349db7",
       "name": "ぽわぽわP",
       "secondary": "",
@@ -1504,7 +1414,7 @@
       "detailPath": "entities/artists/92e6b705a1349db7.json"
     },
     {
-      "rank": 484,
+      "rank": 482,
       "id": "0d5bb6386267500e",
       "name": "みきとP feat.鏡音リン",
       "secondary": "",
@@ -1549,7 +1459,7 @@
       "detailPath": "entities/artists/0d5bb6386267500e.json"
     },
     {
-      "rank": 485,
+      "rank": 483,
       "id": "a738b4d4e0890ed3",
       "name": "めいちゃん",
       "secondary": "",
@@ -1594,7 +1504,7 @@
       "detailPath": "entities/artists/a738b4d4e0890ed3.json"
     },
     {
-      "rank": 486,
+      "rank": 484,
       "id": "4b563e37c751e5ad",
       "name": "モーニング娘。",
       "secondary": "",
@@ -1639,7 +1549,7 @@
       "detailPath": "entities/artists/4b563e37c751e5ad.json"
     },
     {
-      "rank": 487,
+      "rank": 485,
       "id": "4523768e7acc0766",
       "name": "ランカ・リー",
       "secondary": "",
@@ -1684,7 +1594,7 @@
       "detailPath": "entities/artists/4523768e7acc0766.json"
     },
     {
-      "rank": 488,
+      "rank": 486,
       "id": "98be97c4848dc0ad",
       "name": "レム(水瀬いのり)",
       "secondary": "",
@@ -1729,7 +1639,7 @@
       "detailPath": "entities/artists/98be97c4848dc0ad.json"
     },
     {
-      "rank": 489,
+      "rank": 487,
       "id": "8fe01fea341de611",
       "name": "ロードオブメジャー",
       "secondary": "",
@@ -1775,7 +1685,7 @@
       "detailPath": "entities/artists/8fe01fea341de611.json"
     },
     {
-      "rank": 490,
+      "rank": 488,
       "id": "1990a07fcecf8fa2",
       "name": "鮎川麻弥",
       "secondary": "",
@@ -1820,7 +1730,52 @@
       "detailPath": "entities/artists/1990a07fcecf8fa2.json"
     },
     {
-      "rank": 491,
+      "rank": 489,
+      "id": "0d57c549536ccb15",
+      "name": "安田成美",
+      "secondary": "",
+      "channelId": "UCocnY-kJ7VYVA7SQLP8AHIA",
+      "channelHandle": "@tokiwaaino",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "sACzCi8Iqj4",
+          "videoTitle": "【朝活/歌枠/雑談】憂鬱な月曜日の朝に癒しを。「行ってきます」大歓迎！┊#初見さん大歓迎",
+          "channelName": "ねぴん / Nepin ch.",
+          "publishedAt": "2026-10-12T00:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sACzCi8Iqj4/hqdefault.jpg",
+          "sourcePath": "sources/sA/sACzCi8Iqj4.json",
+          "time": "1:11:22",
+          "seconds": 4282,
+          "songTitle": "風の谷のナウシカ",
+          "artist": "安田成美"
+        },
+        {
+          "videoId": "y3RmA7YkSYQ",
+          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
+          "channelName": "時羽あいの",
+          "publishedAt": "2026-10-06T19:13:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
+          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
+          "time": "1:38:45",
+          "seconds": 5925,
+          "songTitle": "風の谷のナウシカ",
+          "artist": "安田成美"
+        }
+      ],
+      "detailPath": "entities/artists/0d57c549536ccb15.json"
+    },
+    {
+      "rank": 490,
       "id": "3ffe88a3f72946e8",
       "name": "伊東歌詞太郎",
       "secondary": "",
@@ -1866,7 +1821,7 @@
       "detailPath": "entities/artists/3ffe88a3f72946e8.json"
     },
     {
-      "rank": 492,
+      "rank": 491,
       "id": "d492ddc67ffc3095",
       "name": "伊藤由奈",
       "secondary": "",
@@ -1911,7 +1866,7 @@
       "detailPath": "entities/artists/d492ddc67ffc3095.json"
     },
     {
-      "rank": 493,
+      "rank": 492,
       "id": "1ec9c22a400889e4",
       "name": "陰陽座",
       "secondary": "",
@@ -1956,7 +1911,7 @@
       "detailPath": "entities/artists/1ec9c22a400889e4.json"
     },
     {
-      "rank": 494,
+      "rank": 493,
       "id": "161a530d8b90e88a",
       "name": "奥井雅美",
       "secondary": "",
@@ -2001,7 +1956,7 @@
       "detailPath": "entities/artists/161a530d8b90e88a.json"
     },
     {
-      "rank": 495,
+      "rank": 494,
       "id": "bb6f94513cfab57b",
       "name": "岡本真夜",
       "secondary": "",
@@ -2046,7 +2001,7 @@
       "detailPath": "entities/artists/bb6f94513cfab57b.json"
     },
     {
-      "rank": 496,
+      "rank": 495,
       "id": "9813385c9ef82a0c",
       "name": "夏川りみ",
       "secondary": "",
@@ -2091,7 +2046,7 @@
       "detailPath": "entities/artists/9813385c9ef82a0c.json"
     },
     {
-      "rank": 497,
+      "rank": 496,
       "id": "90a7cdc53e035e6c",
       "name": "歌組雪月花",
       "secondary": "",
@@ -2136,7 +2091,7 @@
       "detailPath": "entities/artists/90a7cdc53e035e6c.json"
     },
     {
-      "rank": 498,
+      "rank": 497,
       "id": "a85d618ec41600ce",
       "name": "花海咲季(長月あおい)",
       "secondary": "",
@@ -2181,7 +2136,7 @@
       "detailPath": "entities/artists/a85d618ec41600ce.json"
     },
     {
-      "rank": 499,
+      "rank": 498,
       "id": "5c3c5aa72327ef97",
       "name": "熊田茜音＆増井優花",
       "secondary": "",
@@ -2226,7 +2181,7 @@
       "detailPath": "entities/artists/5c3c5aa72327ef97.json"
     },
     {
-      "rank": 500,
+      "rank": 499,
       "id": "299afffea124c213",
       "name": "桑田佳祐",
       "secondary": "",
@@ -2270,6 +2225,51 @@
         }
       ],
       "detailPath": "entities/artists/299afffea124c213.json"
+    },
+    {
+      "rank": 500,
+      "id": "1498a80dc957b48b",
+      "name": "月",
+      "secondary": "",
+      "channelId": "UCuVqDXO26SWUHT7EJ49Xn3g",
+      "channelHandle": "@jum_106",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ta9JTU25Ot8",
+          "videoTitle": "【#歌枠】ひよっこですが、リクエストで歌っていけるかな？🎤✨【出穂おみ/re;BON】",
+          "channelName": "出穂おみ / Izuho omi",
+          "publishedAt": "2026-10-08T15:22:56.308Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ta9JTU25Ot8/hqdefault.jpg",
+          "sourcePath": "sources/ta/ta9JTU25Ot8.json",
+          "time": "0:20:00",
+          "seconds": 1200,
+          "songTitle": "～ 10",
+          "artist": "月"
+        },
+        {
+          "videoId": "uZbiofiyMzc",
+          "videoTitle": "【歌枠/メンギフNG】お誕生日カウントダウン歌枠🎂【じゅむ】",
+          "channelName": "jum ch. じゅむ",
+          "publishedAt": "2026-10-05T16:44:11.452Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uZbiofiyMzc/hqdefault.jpg",
+          "sourcePath": "sources/uZ/uZbiofiyMzc.json",
+          "time": "0:00:00",
+          "seconds": 0,
+          "songTitle": "2026/10",
+          "artist": "月"
+        }
+      ],
+      "detailPath": "entities/artists/1498a80dc957b48b.json"
     }
   ]
 }
