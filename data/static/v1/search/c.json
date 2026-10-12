@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "items": [
     {
       "id": "ce40ae9ff803c85c",
@@ -132,8 +132,8 @@
       "type": "songs",
       "name": "Stellar Stellar",
       "secondary": "星街すいせい",
-      "occurrenceCount": 133,
-      "videoCount": 133,
+      "occurrenceCount": 134,
+      "videoCount": 134,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -155,8 +155,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 44,
-          "videoCount": 44
+          "occurrenceCount": 45,
+          "videoCount": 45
         }
       },
       "text": "stellarstellar星街すいせい"
@@ -78525,8 +78525,8 @@
       "type": "artists",
       "name": "YOASOBI",
       "secondary": "",
-      "occurrenceCount": 1342,
-      "videoCount": 1075,
+      "occurrenceCount": 1344,
+      "videoCount": 1076,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78553,8 +78553,8 @@
           "videoCount": 32
         },
         "30d": {
-          "occurrenceCount": 535,
-          "videoCount": 426
+          "occurrenceCount": 537,
+          "videoCount": 427
         }
       },
       "text": "yoasobi"
@@ -79252,13 +79252,14 @@
       "type": "artists",
       "name": "てにをは",
       "secondary": "",
-      "occurrenceCount": 101,
-      "videoCount": 100,
+      "occurrenceCount": 102,
+      "videoCount": 101,
       "keywords": [
         "month",
         "mygit_today_snapshot",
         "mygit今日快照",
         "today",
+        "弾き語り",
         "歌枠"
       ],
       "collected": false,
@@ -79270,8 +79271,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 53,
-          "videoCount": 53
+          "occurrenceCount": 54,
+          "videoCount": 54
         }
       },
       "text": "てにをは"
@@ -104678,6 +104679,57 @@
         }
       },
       "text": "reica"
+    },
+    {
+      "id": "c1c3fbecb91b9e42",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "artists",
+      "name": "みきとP(キー迷子)",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/artists/c1c3fbecb91b9e42.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "みきとpキー迷子"
+    },
+    {
+      "id": "c736d0ef83a9047f",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "artists",
+      "name": "しぐれうい（2回目！）",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/artists/c736d0ef83a9047f.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "しぐれうい2回目"
     },
     {
       "id": "c4fc4ffdd8cfb1da",

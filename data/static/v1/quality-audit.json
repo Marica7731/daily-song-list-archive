@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "schemaVersion": 1,
   "policy": "quarantine/dedupe/normalize derived pages only; retain unmodified days/* and state.json",
-  "inputVideos": 16676,
-  "inputOccurrences": 190539,
-  "visibleVideos": 14199,
-  "visibleOccurrences": 187888,
+  "inputVideos": 16679,
+  "inputOccurrences": 190581,
+  "visibleVideos": 14202,
+  "visibleOccurrences": 187930,
   "quarantinedOccurrences": 2275,
   "quarantinedVideos": 1508,
   "deduplicatedOccurrences": 376,
@@ -976,11 +976,11 @@
       }
     },
     "2026-09-26": {
-      "quarantinedOccurrences": 101,
+      "quarantinedOccurrences": 100,
       "deduplicatedOccurrences": 0,
       "byReason": {
         "prayer_broadcast_timeline": 60,
-        "reviewed_bad_description_source": 21,
+        "reviewed_bad_description_source": 20,
         "reviewed_source_activity_chapter": 17,
         "confirmed_stream_start_marker": 1,
         "date_split_as_song_and_artist": 2
@@ -1060,9 +1060,10 @@
       }
     },
     "2026-10-04": {
-      "quarantinedOccurrences": 5,
+      "quarantinedOccurrences": 6,
       "deduplicatedOccurrences": 1,
       "byReason": {
+        "reviewed_bad_description_source": 1,
         "prayer_broadcast_timeline": 5
       }
     },
@@ -6749,10 +6750,6 @@
       "quarantinedOccurrences": 1,
       "deduplicatedOccurrences": 0
     },
-    "s_a0Nfpp9UA": {
-      "quarantinedOccurrences": 1,
-      "deduplicatedOccurrences": 0
-    },
     "sTyiVRn9xYc": {
       "quarantinedOccurrences": 1,
       "deduplicatedOccurrences": 0
@@ -7982,6 +7979,10 @@
       "deduplicatedOccurrences": 0
     },
     "MeKiy-wu8Xo": {
+      "quarantinedOccurrences": 1,
+      "deduplicatedOccurrences": 0
+    },
+    "bzUUwXWw36s": {
       "quarantinedOccurrences": 1,
       "deduplicatedOccurrences": 0
     },

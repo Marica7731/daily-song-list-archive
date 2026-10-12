@@ -1,16 +1,107 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 207,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 10301,
+      "id": "487b5022f197ce83",
+      "name": "Don't Stop Me Now",
+      "secondary": "QUEEN",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "1bHHei3BQsA",
+          "videoTitle": "✥ロック歌枠✥ let's rock 'n' roll!!!・搖滾歌曲歌回💠",
+          "channelName": "lilia",
+          "publishedAt": "2026-10-04T03:17:48.167Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1bHHei3BQsA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDKRmoYPdptkIgMFjAx_OaRvUeiWQ",
+          "sourcePath": "sources/1b/1bHHei3BQsA.json",
+          "time": "1:18:55",
+          "seconds": 4735,
+          "songTitle": "Don't Stop Me Now",
+          "artist": "Queen"
+        },
+        {
+          "videoId": "TirJne2pIyU",
+          "videoTitle": "【 #TheUnique歌枠リレー 】ルーツ【#音琴ねごと】#Vtuber #vsinger",
+          "channelName": "【UNITeVERS】音琴ねごと & 紺野ADFF2F / Negoto and Konno",
+          "publishedAt": "2026-09-23T13:47:21.602Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TirJne2pIyU/hqdefault.jpg",
+          "sourcePath": "sources/Ti/TirJne2pIyU.json",
+          "time": "0:26:15",
+          "seconds": 1575,
+          "songTitle": "Don't Stop Me Now",
+          "artist": "QUEEN"
+        }
+      ],
+      "detailPath": "entities/songs/487b5022f197ce83.json"
+    },
+    {
+      "rank": 10302,
+      "id": "d7aa51a553cc2eb4",
+      "name": "Don't wanna cry",
+      "secondary": "安室奈美恵",
+      "channelId": "UCwS7xvdBtL3P2V4-Su_fwhA",
+      "channelHandle": "@%E4%B8%89%E3%83%84%E6%98%9F%E3%83%AB%E3%83%8A%E3%81%A1%E3%82%83%E3%82%93",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TOwvoG9Zajg",
+          "videoTitle": "【#歌枠 】🎂安室奈美恵ちゃん神曲で台風を吹き飛ばしたい！初見さんも大歓迎🤍",
+          "channelName": "MINT SPEC 【90's J-ROCK COVER】",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TOwvoG9Zajg/hqdefault.jpg",
+          "sourcePath": "sources/TO/TOwvoG9Zajg.json",
+          "time": "0:28:43",
+          "seconds": 1723,
+          "songTitle": "Don’t wanna cry",
+          "artist": "安室奈美恵"
+        },
+        {
+          "videoId": "bOjj38fXwEE",
+          "videoTitle": "【 歌枠 】懐メロを一生懸命歌います♪１曲だけでも聴いていってね ★初見ROM大歓迎～！",
+          "channelName": "歌う 三ツ星ルナちゃん",
+          "publishedAt": "2026-08-18T21:55:25.676Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bOjj38fXwEE/hqdefault.jpg",
+          "sourcePath": "sources/bO/bOjj38fXwEE.json",
+          "time": "1:55:06",
+          "seconds": 6906,
+          "songTitle": "Don't wanna cry",
+          "artist": "安室奈美恵"
+        }
+      ],
+      "detailPath": "entities/songs/d7aa51a553cc2eb4.json"
+    },
+    {
+      "rank": 10303,
       "id": "04f6773d54a7e38d",
       "name": "Door→",
       "secondary": "白玖ウタノ",
@@ -55,7 +146,7 @@
       "detailPath": "entities/songs/04f6773d54a7e38d.json"
     },
     {
-      "rank": 10302,
+      "rank": 10304,
       "id": "d3ced64dc9ed6c74",
       "name": "Downer Witch",
       "secondary": "Ren",
@@ -100,7 +191,7 @@
       "detailPath": "entities/songs/d3ced64dc9ed6c74.json"
     },
     {
-      "rank": 10303,
+      "rank": 10305,
       "id": "4cc69ba7c8390afc",
       "name": "DRAGON CARNIVAL",
       "secondary": "Acid Black Cherry",
@@ -145,7 +236,7 @@
       "detailPath": "entities/songs/4cc69ba7c8390afc.json"
     },
     {
-      "rank": 10304,
+      "rank": 10306,
       "id": "0bd2cd276f3c30c9",
       "name": "Drastic my soul",
       "secondary": "酒井ミキオ",
@@ -190,7 +281,7 @@
       "detailPath": "entities/songs/0bd2cd276f3c30c9.json"
     },
     {
-      "rank": 10305,
+      "rank": 10307,
       "id": "e843e4aa6bd547b3",
       "name": "drawing days",
       "secondary": "",
@@ -235,7 +326,7 @@
       "detailPath": "entities/songs/e843e4aa6bd547b3.json"
     },
     {
-      "rank": 10306,
+      "rank": 10308,
       "id": "eca1af3a24d3f05e",
       "name": "Dream ～The ally of～",
       "secondary": "rino",
@@ -280,7 +371,7 @@
       "detailPath": "entities/songs/eca1af3a24d3f05e.json"
     },
     {
-      "rank": 10307,
+      "rank": 10309,
       "id": "23e9ffdb208e2f4d",
       "name": "Dream Meet-Cute",
       "secondary": "星夜らいか",
@@ -325,7 +416,7 @@
       "detailPath": "entities/songs/23e9ffdb208e2f4d.json"
     },
     {
-      "rank": 10308,
+      "rank": 10310,
       "id": "516b4ca89cc90b15",
       "name": "DREAM×SCRAMBLE!",
       "secondary": "AiRI",
@@ -373,7 +464,7 @@
       "detailPath": "entities/songs/516b4ca89cc90b15.json"
     },
     {
-      "rank": 10309,
+      "rank": 10311,
       "id": "61a0f7de256c1e55",
       "name": "DreamRiser",
       "secondary": "ChouCho",
@@ -420,7 +511,7 @@
       "detailPath": "entities/songs/61a0f7de256c1e55.json"
     },
     {
-      "rank": 10310,
+      "rank": 10312,
       "id": "5b0fbc4ec13687a5",
       "name": "DREAMS",
       "secondary": "未記載",
@@ -465,7 +556,7 @@
       "detailPath": "entities/songs/5b0fbc4ec13687a5.json"
     },
     {
-      "rank": 10311,
+      "rank": 10313,
       "id": "01922b96fead5e70",
       "name": "DREAMS",
       "secondary": "機動新世紀ガンダムX",
@@ -510,7 +601,7 @@
       "detailPath": "entities/songs/01922b96fead5e70.json"
     },
     {
-      "rank": 10312,
+      "rank": 10314,
       "id": "13a9eb9f6eb77eab",
       "name": "Dried Flowers",
       "secondary": "Yuuri",
@@ -556,7 +647,7 @@
       "detailPath": "entities/songs/13a9eb9f6eb77eab.json"
     },
     {
-      "rank": 10313,
+      "rank": 10315,
       "id": "64002bd9a50dca1c",
       "name": "Drip",
       "secondary": "真天地開闢集団-ジグザグ",
@@ -601,7 +692,7 @@
       "detailPath": "entities/songs/64002bd9a50dca1c.json"
     },
     {
-      "rank": 10314,
+      "rank": 10316,
       "id": "0b1c8905f3b5da51",
       "name": "Drip",
       "secondary": "",
@@ -646,7 +737,7 @@
       "detailPath": "entities/songs/0b1c8905f3b5da51.json"
     },
     {
-      "rank": 10315,
+      "rank": 10317,
       "id": "b054b9f16a5f0002",
       "name": "DRIVE",
       "secondary": "IMI",
@@ -693,7 +784,7 @@
       "detailPath": "entities/songs/b054b9f16a5f0002.json"
     },
     {
-      "rank": 10316,
+      "rank": 10318,
       "id": "441133e8fb01a4c6",
       "name": "Driver's High",
       "secondary": "L'Arc-en-Ciel ※JOYSOUND",
@@ -741,7 +832,7 @@
       "detailPath": "entities/songs/441133e8fb01a4c6.json"
     },
     {
-      "rank": 10317,
+      "rank": 10319,
       "id": "d55f1d3288ed568b",
       "name": "Driver´s High",
       "secondary": "L´Arc～en～Ciel",
@@ -789,7 +880,7 @@
       "detailPath": "entities/songs/d55f1d3288ed568b.json"
     },
     {
-      "rank": 10318,
+      "rank": 10320,
       "id": "76f001c6aa438e0b",
       "name": "drop",
       "secondary": "keeno feat. 初音ミク",
@@ -837,7 +928,7 @@
       "detailPath": "entities/songs/76f001c6aa438e0b.json"
     },
     {
-      "rank": 10319,
+      "rank": 10321,
       "id": "abdb43cddd1eb7d8",
       "name": "drop",
       "secondary": "keeno",
@@ -882,7 +973,7 @@
       "detailPath": "entities/songs/abdb43cddd1eb7d8.json"
     },
     {
-      "rank": 10320,
+      "rank": 10322,
       "id": "b0ced1d1f3e73f0c",
       "name": "Drops",
       "secondary": "坂本真綾",
@@ -927,7 +1018,7 @@
       "detailPath": "entities/songs/b0ced1d1f3e73f0c.json"
     },
     {
-      "rank": 10321,
+      "rank": 10323,
       "id": "6edbb140bfaf4bf1",
       "name": "Drown",
       "secondary": "Bring Me The Horizon｜Acoustic ver",
@@ -972,7 +1063,7 @@
       "detailPath": "entities/songs/6edbb140bfaf4bf1.json"
     },
     {
-      "rank": 10322,
+      "rank": 10324,
       "id": "752aafe6dddac714",
       "name": "Drowning",
       "secondary": "WOODZ",
@@ -1018,7 +1109,7 @@
       "detailPath": "entities/songs/752aafe6dddac714.json"
     },
     {
-      "rank": 10323,
+      "rank": 10325,
       "id": "8e9ed941b7be2cda",
       "name": "dying breath",
       "secondary": "ど～ぱみん",
@@ -1063,7 +1154,7 @@
       "detailPath": "entities/songs/8e9ed941b7be2cda.json"
     },
     {
-      "rank": 10324,
+      "rank": 10326,
       "id": "498c158b43e40f71",
       "name": "Dynamite",
       "secondary": "BTS",
@@ -1108,7 +1199,7 @@
       "detailPath": "entities/songs/498c158b43e40f71.json"
     },
     {
-      "rank": 10325,
+      "rank": 10327,
       "id": "6da31581b0ccd7c7",
       "name": "EASY GO",
       "secondary": "加藤和樹",
@@ -1156,7 +1247,7 @@
       "detailPath": "entities/songs/6da31581b0ccd7c7.json"
     },
     {
-      "rank": 10326,
+      "rank": 10328,
       "id": "32e62f989b7afdd0",
       "name": "EAT ME",
       "secondary": "OSTER project feat.GUMI",
@@ -1203,7 +1294,7 @@
       "detailPath": "entities/songs/32e62f989b7afdd0.json"
     },
     {
-      "rank": 10327,
+      "rank": 10329,
       "id": "b12975132fb943ba",
       "name": "ebb and flow\tRay",
       "secondary": "2014年2月",
@@ -1248,7 +1339,7 @@
       "detailPath": "entities/songs/b12975132fb943ba.json"
     },
     {
-      "rank": 10328,
+      "rank": 10330,
       "id": "7c12a4de767e5ff2",
       "name": "ECHO",
       "secondary": "Crusher",
@@ -1296,7 +1387,7 @@
       "detailPath": "entities/songs/7c12a4de767e5ff2.json"
     },
     {
-      "rank": 10329,
+      "rank": 10331,
       "id": "c6b7e1e2c69ba411",
       "name": "Eden",
       "secondary": "Kalafina",
@@ -1344,7 +1435,7 @@
       "detailPath": "entities/songs/c6b7e1e2c69ba411.json"
     },
     {
-      "rank": 10330,
+      "rank": 10332,
       "id": "d1611c67b5a66257",
       "name": "EDEN ～君がいない～",
       "secondary": "Janne Da Arc",
@@ -1389,7 +1480,7 @@
       "detailPath": "entities/songs/d1611c67b5a66257.json"
     },
     {
-      "rank": 10331,
+      "rank": 10333,
       "id": "05e582e643b35795",
       "name": "Edison",
       "secondary": "Wednesday Campanella",
@@ -1437,7 +1528,7 @@
       "detailPath": "entities/songs/05e582e643b35795.json"
     },
     {
-      "rank": 10332,
+      "rank": 10334,
       "id": "6f1789a944732c99",
       "name": "EGOiSTiC SHOOTER",
       "secondary": "LiSA",
@@ -1485,7 +1576,7 @@
       "detailPath": "entities/songs/6f1789a944732c99.json"
     },
     {
-      "rank": 10333,
+      "rank": 10335,
       "id": "9158c2ac6e877a5f",
       "name": "Eien no Akuruhi",
       "secondary": "Ado",
@@ -1532,7 +1623,7 @@
       "detailPath": "entities/songs/9158c2ac6e877a5f.json"
     },
     {
-      "rank": 10334,
+      "rank": 10336,
       "id": "c0709f4462cae509",
       "name": "Einsatz",
       "secondary": "榊原ゆい",
@@ -1577,7 +1668,7 @@
       "detailPath": "entities/songs/c0709f4462cae509.json"
     },
     {
-      "rank": 10335,
+      "rank": 10337,
       "id": "a5c35e10e55d3ef1",
       "name": "ELECTRIC SUMMER",
       "secondary": "Base Ball Bear",
@@ -1624,7 +1715,7 @@
       "detailPath": "entities/songs/a5c35e10e55d3ef1.json"
     },
     {
-      "rank": 10336,
+      "rank": 10338,
       "id": "a5897dcce4b91ad2",
       "name": "ELEMENTS",
       "secondary": "仮面ライダー剣",
@@ -1672,7 +1763,7 @@
       "detailPath": "entities/songs/a5897dcce4b91ad2.json"
     },
     {
-      "rank": 10337,
+      "rank": 10339,
       "id": "be7eab40805d712b",
       "name": "ELEMENTS",
       "secondary": "",
@@ -1717,7 +1808,7 @@
       "detailPath": "entities/songs/be7eab40805d712b.json"
     },
     {
-      "rank": 10338,
+      "rank": 10340,
       "id": "c70f55b3feff5c1b",
       "name": "ELEMENTS",
       "secondary": "RIDER CHIPS Featuring Ricky",
@@ -1762,7 +1853,7 @@
       "detailPath": "entities/songs/c70f55b3feff5c1b.json"
     },
     {
-      "rank": 10339,
+      "rank": 10341,
       "id": "0d72779add9379f6",
       "name": "Emerald Green",
       "secondary": "See-Saw",
@@ -1807,7 +1898,7 @@
       "detailPath": "entities/songs/0d72779add9379f6.json"
     },
     {
-      "rank": 10340,
+      "rank": 10342,
       "id": "21df1fc8219ecd16",
       "name": "Emotions",
       "secondary": "MAN WITH A MISSION",
@@ -1852,7 +1943,7 @@
       "detailPath": "entities/songs/21df1fc8219ecd16.json"
     },
     {
-      "rank": 10341,
+      "rank": 10343,
       "id": "29c33d027f1ae3a9",
       "name": "EMOVER FLOW",
       "secondary": "MEDA",
@@ -1897,7 +1988,7 @@
       "detailPath": "entities/songs/29c33d027f1ae3a9.json"
     },
     {
-      "rank": 10342,
+      "rank": 10344,
       "id": "cd5345fd8884567b",
       "name": "Empty Town",
       "secondary": "未記載",
@@ -1942,7 +2033,7 @@
       "detailPath": "entities/songs/cd5345fd8884567b.json"
     },
     {
-      "rank": 10343,
+      "rank": 10345,
       "id": "d856dc26f8660e80",
       "name": "ENAMEL",
       "secondary": "SID",
@@ -1987,7 +2078,7 @@
       "detailPath": "entities/songs/d856dc26f8660e80.json"
     },
     {
-      "rank": 10344,
+      "rank": 10346,
       "id": "1d4e89939e1031be",
       "name": "end of a life",
       "secondary": "Mori Calliope",
@@ -2032,7 +2123,7 @@
       "detailPath": "entities/songs/1d4e89939e1031be.json"
     },
     {
-      "rank": 10345,
+      "rank": 10347,
       "id": "5d788f69e0a2b692",
       "name": "End roll",
       "secondary": "浜崎あゆみ",
@@ -2077,7 +2168,7 @@
       "detailPath": "entities/songs/5d788f69e0a2b692.json"
     },
     {
-      "rank": 10346,
+      "rank": 10348,
       "id": "3d2b4641c2f99877",
       "name": "end talk",
       "secondary": "未記載",
@@ -2123,7 +2214,7 @@
       "detailPath": "entities/songs/3d2b4641c2f99877.json"
     },
     {
-      "rank": 10347,
+      "rank": 10349,
       "id": "d0051400fcec9d16",
       "name": "Ending Talk",
       "secondary": "閉演挨拶",
@@ -2168,7 +2259,7 @@
       "detailPath": "entities/songs/d0051400fcec9d16.json"
     },
     {
-      "rank": 10348,
+      "rank": 10350,
       "id": "372ba662ced1c426",
       "name": "Endless Sorrow",
       "secondary": "HEY-SMITH",
@@ -2213,96 +2304,6 @@
         }
       ],
       "detailPath": "entities/songs/372ba662ced1c426.json"
-    },
-    {
-      "rank": 10349,
-      "id": "1a0295b278b3ee71",
-      "name": "ENDROLL",
-      "secondary": "川上洋平×SennaRin",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "yft-1cYUAu0",
-          "videoTitle": "【#歌枠 】深夜のガンダム縛り歌枠🪐 初見さんも大歓迎✨【華白あらみ】#shorts #karaoke",
-          "channelName": "華白あらみ / Arami ch.",
-          "publishedAt": "2026-10-03T18:02:27.264Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/yft-1cYUAu0/hqdefault.jpg",
-          "sourcePath": "sources/yf/yft-1cYUAu0.json",
-          "time": "2:01:23",
-          "seconds": 7283,
-          "songTitle": "ENDROLL",
-          "artist": "川上洋平×SennaRin"
-        },
-        {
-          "videoId": "PbAaMIF2L4c",
-          "videoTitle": "【#耐久 歌枠 】高評価300耐久達成で嬉しい告知あり！！！歌枠💐初見さんも大歓迎！！【華白あらみ】#vsinger",
-          "channelName": "華白あらみ / Arami ch.",
-          "publishedAt": "2026-09-12T12:31:53.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PbAaMIF2L4c/hqdefault.jpg",
-          "sourcePath": "sources/Pb/PbAaMIF2L4c.json",
-          "time": "6:45:50",
-          "seconds": 24350,
-          "songTitle": "ENDROLL",
-          "artist": "川上洋平×SennaRin"
-        }
-      ],
-      "detailPath": "entities/songs/1a0295b278b3ee71.json"
-    },
-    {
-      "rank": 10350,
-      "id": "6fa315c228f890e7",
-      "name": "ENERGY",
-      "secondary": "earthmind",
-      "channelId": "UCLIEOGtrywxsLztMPPKtfkA",
-      "channelHandle": "@RaraTakanashi",
-      "channelUrl": "https://www.youtube.com/@RaraTakanashi",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "karaoke",
-        "歌"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "NNs-1_qtecM",
-          "videoTitle": "【 歌枠┆KARAOKE 】2010年代アニメソング歌枠！みんなの好きなアニソンも教えて～！",
-          "channelName": "Rara Channel",
-          "publishedAt": "2025-10-05T22:33:45.607Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/NNs-1_qtecM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlyVn5JeyuYbiCTVrQxoxSsrBuVg",
-          "sourcePath": "sources/NN/NNs-1_qtecM.json",
-          "time": "0:09:34",
-          "seconds": 574,
-          "songTitle": "ENERGY",
-          "artist": "earthmind"
-        },
-        {
-          "videoId": "0qfRS-FHNAg",
-          "videoTitle": "【 歌枠 / KARAOKE 】アニメソング歌枠！初見さん歓迎◎【VTuber】",
-          "channelName": "Rara Channel",
-          "publishedAt": "2024-10-05T22:33:45.607Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0qfRS-FHNAg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn6lU4-YA7HacwpE3Ljp2VkuVyZg",
-          "sourcePath": "sources/0q/0qfRS-FHNAg.json",
-          "time": "1:16:50",
-          "seconds": 4610,
-          "songTitle": "ENERGY",
-          "artist": "earthmind"
-        }
-      ],
-      "detailPath": "entities/songs/6fa315c228f890e7.json"
     }
   ]
 }

@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "songs",
   "page": 63,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27672,
+  "totalCount": 27684,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3101,
+      "id": "56c09f7ddd340b53",
+      "name": "君じゃなきゃダメみたい",
+      "secondary": "大石昌良",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "0TCT9oMJ4-k",
+          "videoTitle": "1時間くらい #初見さん歓迎 (*´ω｀*)【#歌枠】 -Singing stream-JPVtuber #歌枠 #初見歓迎 #joysound",
+          "channelName": "みかみ茉姫 /Maki Mikami",
+          "publishedAt": "2026-09-27T06:45:05.016Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0TCT9oMJ4-k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABUcasGiMDb3mkZKRUPvLiHYlwGQ&usqp=CBQ",
+          "sourcePath": "sources/0T/0TCT9oMJ4-k.json",
+          "time": "1:53:48",
+          "seconds": 6828,
+          "songTitle": "君じゃなきゃダメみたい",
+          "artist": "大石昌良"
+        },
+        {
+          "videoId": "Asgkzm9t12E",
+          "videoTitle": "【#歌枠 / #karaoke 】9月もあとちょっと⁉️なので歌うね🎤✨️【カラオケJOYSOUND for STREAMER】",
+          "channelName": "イリゼ・ルーナフェリクス / Irise Lunafelix",
+          "publishedAt": "2026-09-20T14:49:56.766Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Asgkzm9t12E/hqdefault.jpg",
+          "sourcePath": "sources/As/Asgkzm9t12E.json",
+          "time": "1:06:54",
+          "seconds": 4014,
+          "songTitle": "君じゃなきゃダメみたい",
+          "artist": "大石昌良"
+        },
+        {
+          "videoId": "SGHVlux1Al4",
+          "videoTitle": "【 #歌枠 | #作業用bgm 】男性アーティスト縛りで歌う ✧ Singing Stream #Shorts 【 #伊月知世を見ろ / #無原唱レコード 】",
+          "channelName": "伊月知世 / CHISE ITSUKI",
+          "publishedAt": "2026-09-20T04:49:56.766Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SGHVlux1Al4/hqdefault.jpg",
+          "sourcePath": "sources/SG/SGHVlux1Al4.json",
+          "time": "0:12:50",
+          "seconds": 770,
+          "songTitle": "君じゃなきゃダメみたい",
+          "artist": "大石昌良"
+        }
+      ],
+      "detailPath": "entities/songs/56c09f7ddd340b53.json"
+    },
+    {
+      "rank": 3102,
       "id": "e34c1b820ebc0252",
       "name": "君に夢中",
       "secondary": "宇多田ヒカル",
@@ -68,7 +125,7 @@
       "detailPath": "entities/songs/e34c1b820ebc0252.json"
     },
     {
-      "rank": 3102,
+      "rank": 3103,
       "id": "6589fddcdf1f8cfa",
       "name": "君の最推しにしてよ！",
       "secondary": "湊あくあ",
@@ -125,7 +182,7 @@
       "detailPath": "entities/songs/6589fddcdf1f8cfa.json"
     },
     {
-      "rank": 3103,
+      "rank": 3104,
       "id": "ce72fdf3ea9fee64",
       "name": "君の脈で踊りたかった",
       "secondary": "ピコン",
@@ -183,7 +240,7 @@
       "detailPath": "entities/songs/ce72fdf3ea9fee64.json"
     },
     {
-      "rank": 3104,
+      "rank": 3105,
       "id": "8dd4db443208361f",
       "name": "君色シグナル",
       "secondary": "春奈るな",
@@ -240,7 +297,7 @@
       "detailPath": "entities/songs/8dd4db443208361f.json"
     },
     {
-      "rank": 3105,
+      "rank": 3106,
       "id": "5792a2857cbd4461",
       "name": "鯨",
       "secondary": "Buzy",
@@ -297,7 +354,7 @@
       "detailPath": "entities/songs/5792a2857cbd4461.json"
     },
     {
-      "rank": 3106,
+      "rank": 3107,
       "id": "0d70803f7f1eeb62",
       "name": "決戦は金曜日",
       "secondary": "DREAMS COME TRUE",
@@ -354,7 +411,7 @@
       "detailPath": "entities/songs/0d70803f7f1eeb62.json"
     },
     {
-      "rank": 3107,
+      "rank": 3108,
       "id": "bc1827c96162800d",
       "name": "月と花束",
       "secondary": "さユり",
@@ -411,7 +468,7 @@
       "detailPath": "entities/songs/bc1827c96162800d.json"
     },
     {
-      "rank": 3108,
+      "rank": 3109,
       "id": "0f49c9562e7e660d",
       "name": "月の繭",
       "secondary": "奥井亜紀",
@@ -468,7 +525,7 @@
       "detailPath": "entities/songs/0f49c9562e7e660d.json"
     },
     {
-      "rank": 3109,
+      "rank": 3110,
       "id": "e6913fee760d2fb3",
       "name": "月光",
       "secondary": "",
@@ -525,7 +582,7 @@
       "detailPath": "entities/songs/e6913fee760d2fb3.json"
     },
     {
-      "rank": 3110,
+      "rank": 3111,
       "id": "c328cb5d78c9d81a",
       "name": "月灯りふんわり落ちてくる夜",
       "secondary": "小川七生",
@@ -583,7 +640,7 @@
       "detailPath": "entities/songs/c328cb5d78c9d81a.json"
     },
     {
-      "rank": 3111,
+      "rank": 3112,
       "id": "a0e63e17d7061197",
       "name": "月曜日の憂鬱",
       "secondary": "天月-あまつき",
@@ -640,7 +697,7 @@
       "detailPath": "entities/songs/a0e63e17d7061197.json"
     },
     {
-      "rank": 3112,
+      "rank": 3113,
       "id": "3357674a7113806f",
       "name": "月亮代表我的心",
       "secondary": "鄧麗君",
@@ -697,7 +754,7 @@
       "detailPath": "entities/songs/3357674a7113806f.json"
     },
     {
-      "rank": 3113,
+      "rank": 3114,
       "id": "38a99c4c0029979e",
       "name": "故夢ちうさん",
       "secondary": "",
@@ -751,7 +808,7 @@
       "detailPath": "entities/songs/38a99c4c0029979e.json"
     },
     {
-      "rank": 3114,
+      "rank": 3115,
       "id": "71555f5226cf316e",
       "name": "虎視眈々",
       "secondary": "",
@@ -808,7 +865,7 @@
       "detailPath": "entities/songs/71555f5226cf316e.json"
     },
     {
-      "rank": 3115,
+      "rank": 3116,
       "id": "b593174ffaf61483",
       "name": "誇り高きアイドル",
       "secondary": "HoneyWorks feat.Kotoha",
@@ -865,7 +922,7 @@
       "detailPath": "entities/songs/b593174ffaf61483.json"
     },
     {
-      "rank": 3116,
+      "rank": 3117,
       "id": "0293d8aaf8eaf5b2",
       "name": "誇り高きアイドル",
       "secondary": "mona（CV:夏川椎菜）feat.HoneyWorks",
@@ -922,7 +979,7 @@
       "detailPath": "entities/songs/0293d8aaf8eaf5b2.json"
     },
     {
-      "rank": 3117,
+      "rank": 3118,
       "id": "eeaf34b558d9e8e6",
       "name": "光の中へ",
       "secondary": "結束バンド",
@@ -979,7 +1036,7 @@
       "detailPath": "entities/songs/eeaf34b558d9e8e6.json"
     },
     {
-      "rank": 3118,
+      "rank": 3119,
       "id": "a7d29df168f63770",
       "name": "好きすぎて バカみたい",
       "secondary": "DEF.DIVA",
@@ -1036,7 +1093,7 @@
       "detailPath": "entities/songs/a7d29df168f63770.json"
     },
     {
-      "rank": 3119,
+      "rank": 3120,
       "id": "298add2c97f9e752",
       "name": "好きな人がいること",
       "secondary": "JY",
@@ -1093,7 +1150,7 @@
       "detailPath": "entities/songs/298add2c97f9e752.json"
     },
     {
-      "rank": 3120,
+      "rank": 3121,
       "id": "78497342ce9a66e4",
       "name": "好きな惣菜発表ドラゴン",
       "secondary": "ンバヂ",
@@ -1150,7 +1207,7 @@
       "detailPath": "entities/songs/78497342ce9a66e4.json"
     },
     {
-      "rank": 3121,
+      "rank": 3122,
       "id": "d3706533a1036b22",
       "name": "好きよ 好きよ 好きよ",
       "secondary": "藤原さくら",
@@ -1207,7 +1264,7 @@
       "detailPath": "entities/songs/d3706533a1036b22.json"
     },
     {
-      "rank": 3122,
+      "rank": 3123,
       "id": "87d07bde7738bb0d",
       "name": "甲賀忍法帖",
       "secondary": "",
@@ -1264,7 +1321,7 @@
       "detailPath": "entities/songs/87d07bde7738bb0d.json"
     },
     {
-      "rank": 3123,
+      "rank": 3124,
       "id": "d442964df20f2c75",
       "name": "紅一葉",
       "secondary": "黒うさP feat.巡音ルカ",
@@ -1321,7 +1378,7 @@
       "detailPath": "entities/songs/d442964df20f2c75.json"
     },
     {
-      "rank": 3124,
+      "rank": 3125,
       "id": "94afc3098e7075c1",
       "name": "高鳴る",
       "secondary": "藤田麻衣子",
@@ -1378,7 +1435,7 @@
       "detailPath": "entities/songs/94afc3098e7075c1.json"
     },
     {
-      "rank": 3125,
+      "rank": 3126,
       "id": "186ee500e089413b",
       "name": "今夜月の見える丘に",
       "secondary": "B'z",
@@ -1435,7 +1492,7 @@
       "detailPath": "entities/songs/186ee500e089413b.json"
     },
     {
-      "rank": 3126,
+      "rank": 3127,
       "id": "d4c261bb656607bf",
       "name": "砂の惑星",
       "secondary": "ハチ feat. 初音ミク",
@@ -1492,7 +1549,7 @@
       "detailPath": "entities/songs/d4c261bb656607bf.json"
     },
     {
-      "rank": 3127,
+      "rank": 3128,
       "id": "7bc0888a2abfe2ee",
       "name": "砂の惑星 feat.初音ミク",
       "secondary": "ハチ",
@@ -1549,7 +1606,7 @@
       "detailPath": "entities/songs/7bc0888a2abfe2ee.json"
     },
     {
-      "rank": 3128,
+      "rank": 3129,
       "id": "10de83c687ffcda6",
       "name": "再会",
       "secondary": "LiSA×Uru",
@@ -1606,7 +1663,7 @@
       "detailPath": "entities/songs/10de83c687ffcda6.json"
     },
     {
-      "rank": 3129,
+      "rank": 3130,
       "id": "4597fa598e2341ed",
       "name": "最愛",
       "secondary": "KOH＋",
@@ -1663,7 +1720,7 @@
       "detailPath": "entities/songs/4597fa598e2341ed.json"
     },
     {
-      "rank": 3130,
+      "rank": 3131,
       "id": "51467de29216e337",
       "name": "最強の推し!",
       "secondary": "鈴木愛理",
@@ -1720,7 +1777,7 @@
       "detailPath": "entities/songs/51467de29216e337.json"
     },
     {
-      "rank": 3131,
+      "rank": 3132,
       "id": "c290799cd2ab304d",
       "name": "最終点呼",
       "secondary": "お見送りの儀",
@@ -1777,7 +1834,7 @@
       "detailPath": "entities/songs/c290799cd2ab304d.json"
     },
     {
-      "rank": 3132,
+      "rank": 3133,
       "id": "9b70dc0b7fcde123",
       "name": "桜",
       "secondary": "コブクロ",
@@ -1835,7 +1892,7 @@
       "detailPath": "entities/songs/9b70dc0b7fcde123.json"
     },
     {
-      "rank": 3133,
+      "rank": 3134,
       "id": "47aa73a0bbdfd7be",
       "name": "桜日和",
       "secondary": "星村麻衣",
@@ -1892,7 +1949,7 @@
       "detailPath": "entities/songs/47aa73a0bbdfd7be.json"
     },
     {
-      "rank": 3134,
+      "rank": 3135,
       "id": "38d0422f33ff3764",
       "name": "雑踏、僕らの街",
       "secondary": "トゲナシトゲアリ",
@@ -1949,7 +2006,7 @@
       "detailPath": "entities/songs/38d0422f33ff3764.json"
     },
     {
-      "rank": 3135,
+      "rank": 3136,
       "id": "2e5f2ee772f04b10",
       "name": "散歩の邪魔",
       "secondary": "いよわ",
@@ -2006,7 +2063,7 @@
       "detailPath": "entities/songs/2e5f2ee772f04b10.json"
     },
     {
-      "rank": 3136,
+      "rank": 3137,
       "id": "9b9229534628f424",
       "name": "四角革命",
       "secondary": "相対性理論",
@@ -2063,7 +2120,7 @@
       "detailPath": "entities/songs/9b9229534628f424.json"
     },
     {
-      "rank": 3137,
+      "rank": 3138,
       "id": "9f7a965f6f15c4a0",
       "name": "始まり",
       "secondary": "",
@@ -2120,7 +2177,7 @@
       "detailPath": "entities/songs/9f7a965f6f15c4a0.json"
     },
     {
-      "rank": 3138,
+      "rank": 3139,
       "id": "63eab4f2a8bf0baa",
       "name": "死にゆく季節でぼくは",
       "secondary": "She is Legend",
@@ -2177,7 +2234,7 @@
       "detailPath": "entities/songs/63eab4f2a8bf0baa.json"
     },
     {
-      "rank": 3139,
+      "rank": 3140,
       "id": "80ea8acc47db0ff8",
       "name": "死ぬにはいい日だった",
       "secondary": "ピコン",
@@ -2235,7 +2292,7 @@
       "detailPath": "entities/songs/80ea8acc47db0ff8.json"
     },
     {
-      "rank": 3140,
+      "rank": 3141,
       "id": "14b31313e56996fe",
       "name": "七ノ歌",
       "secondary": "RADWIMPS",
@@ -2292,7 +2349,7 @@
       "detailPath": "entities/songs/14b31313e56996fe.json"
     },
     {
-      "rank": 3141,
+      "rank": 3142,
       "id": "8751e9bc2643d411",
       "name": "失敗作少女",
       "secondary": "かいりきベア",
@@ -2349,7 +2406,7 @@
       "detailPath": "entities/songs/8751e9bc2643d411.json"
     },
     {
-      "rank": 3142,
+      "rank": 3143,
       "id": "10447484e1b55b0f",
       "name": "車輪の唄",
       "secondary": "",
@@ -2406,7 +2463,7 @@
       "detailPath": "entities/songs/10447484e1b55b0f.json"
     },
     {
-      "rank": 3143,
+      "rank": 3144,
       "id": "dba0c903c7386188",
       "name": "邪魔",
       "secondary": "syudou",
@@ -2463,7 +2520,7 @@
       "detailPath": "entities/songs/dba0c903c7386188.json"
     },
     {
-      "rank": 3144,
+      "rank": 3145,
       "id": "c21806e109304e43",
       "name": "修羅場",
       "secondary": "東京事変",
@@ -2520,7 +2577,7 @@
       "detailPath": "entities/songs/c21806e109304e43.json"
     },
     {
-      "rank": 3145,
+      "rank": 3146,
       "id": "c78859850c4ce267",
       "name": "秋風のアンサー",
       "secondary": "Flower",
@@ -2577,7 +2634,7 @@
       "detailPath": "entities/songs/c78859850c4ce267.json"
     },
     {
-      "rank": 3146,
+      "rank": 3147,
       "id": "3ee3382ef797b951",
       "name": "集結の運命",
       "secondary": "林原めぐみ",
@@ -2634,7 +2691,7 @@
       "detailPath": "entities/songs/3ee3382ef797b951.json"
     },
     {
-      "rank": 3147,
+      "rank": 3148,
       "id": "28a007562832661d",
       "name": "獣ゆく細道",
       "secondary": "椎名林檎と宮本浩次",
@@ -2691,7 +2748,7 @@
       "detailPath": "entities/songs/28a007562832661d.json"
     },
     {
-      "rank": 3148,
+      "rank": 3149,
       "id": "76b9c5979478dfe0",
       "name": "宿命",
       "secondary": "",
@@ -2748,7 +2805,7 @@
       "detailPath": "entities/songs/76b9c5979478dfe0.json"
     },
     {
-      "rank": 3149,
+      "rank": 3150,
       "id": "ef817d3a5299cf50",
       "name": "祝福",
       "secondary": "機動戦士ガンダム 水星の魔女",
@@ -2803,63 +2860,6 @@
         }
       ],
       "detailPath": "entities/songs/ef817d3a5299cf50.json"
-    },
-    {
-      "rank": 3150,
-      "id": "98a1baea37bdd83f",
-      "name": "祝福",
-      "secondary": "",
-      "channelId": "UCkSgZduhWj3OsVbUaL4-Hkw",
-      "channelHandle": "@%E3%82%AD%E3%83%BC%E3%83%A9%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%B3",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 4,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iV4Ck_rFkyM",
-          "videoTitle": "【#歌枠】今日は二時間だけ！ガンダム縛り歌枠【#砂糖さん / Vtuber】",
-          "channelName": "砂糖さん",
-          "publishedAt": "2026-10-10T10:37:02.622Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iV4Ck_rFkyM/hqdefault.jpg",
-          "sourcePath": "sources/iV/iV4Ck_rFkyM.json",
-          "time": "1:33:40",
-          "seconds": 5620,
-          "songTitle": "祝福",
-          "artist": ""
-        },
-        {
-          "videoId": "7ZE9e_ehx5c",
-          "videoTitle": "【縦型歌配信】完全体で歌枠！色々試したい！",
-          "channelName": "みちまよチャンネル【一般成人オタクVTuber】",
-          "publishedAt": "2026-09-28T16:21:46.017Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7ZE9e_ehx5c/hqdefault.jpg",
-          "sourcePath": "sources/7Z/7ZE9e_ehx5c.json",
-          "time": "0:31:59",
-          "seconds": 1919,
-          "songTitle": "祝福",
-          "artist": ""
-        },
-        {
-          "videoId": "7rs8SdE3PXU",
-          "videoTitle": "【歌枠/#karaoke 】オルフェンズと水星とニチアサばかりの歌枠【#雨原ゆま】",
-          "channelName": "雨原ゆま / Amahara Yuma",
-          "publishedAt": "2026-09-26T17:54:09.732Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7rs8SdE3PXU/hqdefault.jpg",
-          "sourcePath": "sources/7r/7rs8SdE3PXU.json",
-          "time": "1:37:36",
-          "seconds": 5856,
-          "songTitle": "祝福",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/98a1baea37bdd83f.json"
     }
   ]
 }

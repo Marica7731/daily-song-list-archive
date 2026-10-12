@@ -1,16 +1,109 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 273,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 13601,
+      "id": "bb2f2fac9c85bd23",
+      "name": "愛さないでね",
+      "secondary": "きんとき 👈🆕",
+      "channelId": "UCucNf1IRpyQalBZM8HIZ4Ug",
+      "channelHandle": "@HarusameNekoko",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "CFHd-isPuSY",
+          "videoTitle": "【歌枠】ﾄﾞｶ歌い ₍ᐢ- ̫-ᐢ₎っ🎤☀【はるさめ ねここ/Vtuber】",
+          "channelName": "はるさめ ねここ /Harusame Nekoko",
+          "publishedAt": "2026-09-12T06:14:02.543Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CFHd-isPuSY/hqdefault.jpg",
+          "sourcePath": "sources/CF/CFHd-isPuSY.json",
+          "time": "2:57:19",
+          "seconds": 10639,
+          "songTitle": "愛さないでね",
+          "artist": "きんとき"
+        },
+        {
+          "videoId": "4daDVtLf4Ik",
+          "videoTitle": "【歌枠】うたﾖｰ! ₍ᐢ- ̫-ᐢ₎っ🎤☀【はるさめ ねここ/Vtuber】",
+          "channelName": "はるさめ ねここ /Harusame Nekoko",
+          "publishedAt": "2026-08-15T05:11:19.826Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4daDVtLf4Ik/hqdefault.jpg",
+          "sourcePath": "sources/4d/4daDVtLf4Ik.json",
+          "time": "1:30:18",
+          "seconds": 5418,
+          "songTitle": "愛さないでね",
+          "artist": "きんとき 👈🆕"
+        }
+      ],
+      "detailPath": "entities/songs/bb2f2fac9c85bd23.json"
+    },
+    {
+      "rank": 13602,
+      "id": "3e35054770fe3b37",
+      "name": "愛し",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "d8RQZxlxuNo",
+          "videoTitle": "【 #歌枠 】久しぶりの深夜歌わつ!!🎧【 #karaoke #りのちいぶ 】",
+          "channelName": "透架りの / Touka rino",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/d8RQZxlxuNo/hqdefault.jpg",
+          "sourcePath": "sources/d8/d8RQZxlxuNo.json",
+          "time": "0:29:25",
+          "seconds": 1765,
+          "songTitle": "愛し",
+          "artist": ""
+        },
+        {
+          "videoId": "c3U573rHFBo",
+          "videoTitle": "꒰ #歌枠 / #karaoke ꒱ カラオケに行きたい引きこもり #vtuber",
+          "channelName": "青空あのこ",
+          "publishedAt": "2026-09-10T18:22:31.342Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/c3U573rHFBo/hqdefault.jpg",
+          "sourcePath": "sources/c3/c3U573rHFBo.json",
+          "time": "0:48:51",
+          "seconds": 2931,
+          "songTitle": "愛し",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/3e35054770fe3b37.json"
+    },
+    {
+      "rank": 13603,
       "id": "0d69152cb9259137",
       "name": "愛しい人へ捧ぐ歌",
       "secondary": "桑田佳祐",
@@ -56,7 +149,7 @@
       "detailPath": "entities/songs/0d69152cb9259137.json"
     },
     {
-      "rank": 13602,
+      "rank": 13604,
       "id": "f00e0a9827602eb0",
       "name": "愛してない",
       "secondary": "",
@@ -101,7 +194,7 @@
       "detailPath": "entities/songs/f00e0a9827602eb0.json"
     },
     {
-      "rank": 13603,
+      "rank": 13605,
       "id": "88cb0c57780a5900",
       "name": "愛してる",
       "secondary": "Base Ball Bear",
@@ -149,7 +242,7 @@
       "detailPath": "entities/songs/88cb0c57780a5900.json"
     },
     {
-      "rank": 13604,
+      "rank": 13606,
       "id": "6071d1723d12a21b",
       "name": "愛し君へ",
       "secondary": "森山直太朗",
@@ -194,7 +287,7 @@
       "detailPath": "entities/songs/6071d1723d12a21b.json"
     },
     {
-      "rank": 13605,
+      "rank": 13607,
       "id": "c6591cf7377d6a24",
       "name": "愛とU",
       "secondary": "Mega Shinnosuke",
@@ -239,7 +332,7 @@
       "detailPath": "entities/songs/c6591cf7377d6a24.json"
     },
     {
-      "rank": 13606,
+      "rank": 13608,
       "id": "c1ee909046554474",
       "name": "愛と誠",
       "secondary": "ALI PROJECT",
@@ -284,7 +377,7 @@
       "detailPath": "entities/songs/c1ee909046554474.json"
     },
     {
-      "rank": 13607,
+      "rank": 13609,
       "id": "6dff0e1d40d99f16",
       "name": "愛にできることはまだあるかい",
       "secondary": "RADWINPS",
@@ -331,7 +424,7 @@
       "detailPath": "entities/songs/6dff0e1d40d99f16.json"
     },
     {
-      "rank": 13608,
+      "rank": 13610,
       "id": "dcba348e6009bae3",
       "name": "愛のかたまり",
       "secondary": "DOMOTO(KinKi Kids)",
@@ -379,7 +472,7 @@
       "detailPath": "entities/songs/dcba348e6009bae3.json"
     },
     {
-      "rank": 13609,
+      "rank": 13611,
       "id": "cf72e8404cef1fea",
       "name": "愛のままに",
       "secondary": "BASI",
@@ -425,7 +518,7 @@
       "detailPath": "entities/songs/cf72e8404cef1fea.json"
     },
     {
-      "rank": 13610,
+      "rank": 13612,
       "id": "a6fae4407e591fc8",
       "name": "愛のレンタル",
       "secondary": "私立恵比寿中学",
@@ -471,7 +564,7 @@
       "detailPath": "entities/songs/a6fae4407e591fc8.json"
     },
     {
-      "rank": 13611,
+      "rank": 13613,
       "id": "0007b654f6715932",
       "name": "愛の歌",
       "secondary": "川崎鷹也",
@@ -517,7 +610,7 @@
       "detailPath": "entities/songs/0007b654f6715932.json"
     },
     {
-      "rank": 13612,
+      "rank": 13614,
       "id": "5a62eb987d810cf8",
       "name": "愛の金字塔",
       "secondary": "六神合体ゴッドマーズ",
@@ -562,7 +655,7 @@
       "detailPath": "entities/songs/5a62eb987d810cf8.json"
     },
     {
-      "rank": 13613,
+      "rank": 13615,
       "id": "e3665b8c809ef85b",
       "name": "愛の病",
       "secondary": "aiko",
@@ -608,7 +701,7 @@
       "detailPath": "entities/songs/e3665b8c809ef85b.json"
     },
     {
-      "rank": 13614,
+      "rank": 13616,
       "id": "fe150bb451e15a6e",
       "name": "愛の病",
       "secondary": "",
@@ -650,7 +743,7 @@
       "detailPath": "entities/songs/fe150bb451e15a6e.json"
     },
     {
-      "rank": 13615,
+      "rank": 13617,
       "id": "9eab9ed2bada3e0a",
       "name": "愛は勝つ",
       "secondary": "",
@@ -695,7 +788,7 @@
       "detailPath": "entities/songs/9eab9ed2bada3e0a.json"
     },
     {
-      "rank": 13616,
+      "rank": 13618,
       "id": "f67fe875e6422f6a",
       "name": "愛は勝つ",
       "secondary": "Ai wa Katsu KAN / KAN",
@@ -740,7 +833,7 @@
       "detailPath": "entities/songs/f67fe875e6422f6a.json"
     },
     {
-      "rank": 13617,
+      "rank": 13619,
       "id": "ca70918e936d39b0",
       "name": "愛ゆえに",
       "secondary": "さとうもか",
@@ -786,7 +879,7 @@
       "detailPath": "entities/songs/ca70918e936d39b0.json"
     },
     {
-      "rank": 13618,
+      "rank": 13620,
       "id": "034ae55706da2e7d",
       "name": "愛よファラウェイ",
       "secondary": "藤原理恵",
@@ -831,7 +924,7 @@
       "detailPath": "entities/songs/034ae55706da2e7d.json"
     },
     {
-      "rank": 13619,
+      "rank": 13621,
       "id": "ca4a0501cfcbe657",
       "name": "愛よ消えないで",
       "secondary": "小比類巻かほる",
@@ -879,7 +972,7 @@
       "detailPath": "entities/songs/ca4a0501cfcbe657.json"
     },
     {
-      "rank": 13620,
+      "rank": 13622,
       "id": "3419c7bf381e4cd7",
       "name": "愛をこめて花束",
       "secondary": "Superfly",
@@ -924,7 +1017,7 @@
       "detailPath": "entities/songs/3419c7bf381e4cd7.json"
     },
     {
-      "rank": 13621,
+      "rank": 13623,
       "id": "03ec0f9245ba4259",
       "name": "愛をこめて花束を(エジソンの母)",
       "secondary": "Superfly",
@@ -969,7 +1062,7 @@
       "detailPath": "entities/songs/03ec0f9245ba4259.json"
     },
     {
-      "rank": 13622,
+      "rank": 13624,
       "id": "b477b335b2b956d5",
       "name": "愛をとりもどせ!!",
       "secondary": "北斗の拳",
@@ -1015,7 +1108,7 @@
       "detailPath": "entities/songs/b477b335b2b956d5.json"
     },
     {
-      "rank": 13623,
+      "rank": 13625,
       "id": "cfd67089f6b174ad",
       "name": "愛をとりもどせ！！",
       "secondary": "",
@@ -1060,7 +1153,7 @@
       "detailPath": "entities/songs/cfd67089f6b174ad.json"
     },
     {
-      "rank": 13624,
+      "rank": 13626,
       "id": "542422f5e1609f09",
       "name": "愛をとりもどせ!!",
       "secondary": "クリスタルキング（アニメ『北斗の拳』OP）",
@@ -1105,7 +1198,7 @@
       "detailPath": "entities/songs/542422f5e1609f09.json"
     },
     {
-      "rank": 13625,
+      "rank": 13627,
       "id": "7acdf9ea759508bf",
       "name": "愛を伝えたいんだとか",
       "secondary": "あいみょん",
@@ -1151,7 +1244,7 @@
       "detailPath": "entities/songs/7acdf9ea759508bf.json"
     },
     {
-      "rank": 13626,
+      "rank": 13628,
       "id": "4f7f71539697dc3e",
       "name": "愛唄",
       "secondary": "GRe4N BOYZ(GReeeeN)",
@@ -1199,7 +1292,7 @@
       "detailPath": "entities/songs/4f7f71539697dc3e.json"
     },
     {
-      "rank": 13627,
+      "rank": 13629,
       "id": "e70510c4e24ed013",
       "name": "愛唄",
       "secondary": "GReeeeN（GRe4N BOYZ）",
@@ -1247,7 +1340,7 @@
       "detailPath": "entities/songs/e70510c4e24ed013.json"
     },
     {
-      "rank": 13628,
+      "rank": 13630,
       "id": "87b3f20e5749b93b",
       "name": "愛唄",
       "secondary": "Ai Uta GReeeeN（現:GRe4N BOYZ） / GReeeeN",
@@ -1292,7 +1385,7 @@
       "detailPath": "entities/songs/87b3f20e5749b93b.json"
     },
     {
-      "rank": 13629,
+      "rank": 13631,
       "id": "a3f2a3fc6d586641",
       "name": "愛及屋烏",
       "secondary": "バルーン",
@@ -1340,7 +1433,7 @@
       "detailPath": "entities/songs/a3f2a3fc6d586641.json"
     },
     {
-      "rank": 13630,
+      "rank": 13632,
       "id": "3981eb6ac2ff7198",
       "name": "愛言葉",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -1387,7 +1480,7 @@
       "detailPath": "entities/songs/3981eb6ac2ff7198.json"
     },
     {
-      "rank": 13631,
+      "rank": 13633,
       "id": "179e8b7ec82ad992",
       "name": "愛言葉III",
       "secondary": "DECO*27 ※JOYSOUND",
@@ -1432,7 +1525,7 @@
       "detailPath": "entities/songs/179e8b7ec82ad992.json"
     },
     {
-      "rank": 13632,
+      "rank": 13634,
       "id": "a6e95cb12255aa3c",
       "name": "愛証",
       "secondary": "倖田來未",
@@ -1477,7 +1570,7 @@
       "detailPath": "entities/songs/a6e95cb12255aa3c.json"
     },
     {
-      "rank": 13633,
+      "rank": 13635,
       "id": "51739834d6e484e4",
       "name": "愛人",
       "secondary": "テレサ・テン",
@@ -1522,7 +1615,7 @@
       "detailPath": "entities/songs/51739834d6e484e4.json"
     },
     {
-      "rank": 13634,
+      "rank": 13636,
       "id": "5a37c66b8d2c14bd",
       "name": "愛是最大權利",
       "secondary": "吳雨霏",
@@ -1567,7 +1660,7 @@
       "detailPath": "entities/songs/5a37c66b8d2c14bd.json"
     },
     {
-      "rank": 13635,
+      "rank": 13637,
       "id": "05eda3988261c2a5",
       "name": "逢瀬川",
       "secondary": "音速ライン",
@@ -1613,7 +1706,7 @@
       "detailPath": "entities/songs/05eda3988261c2a5.json"
     },
     {
-      "rank": 13636,
+      "rank": 13638,
       "id": "1e54c57064c3f84d",
       "name": "茜色が燃えるとき",
       "secondary": "",
@@ -1658,7 +1751,7 @@
       "detailPath": "entities/songs/1e54c57064c3f84d.json"
     },
     {
-      "rank": 13637,
+      "rank": 13639,
       "id": "16d09da54d9b50d7",
       "name": "悪い癖",
       "secondary": "My Hair is Bad",
@@ -1704,7 +1797,7 @@
       "detailPath": "entities/songs/16d09da54d9b50d7.json"
     },
     {
-      "rank": 13638,
+      "rank": 13640,
       "id": "ebe89f24eb944047",
       "name": "悪くないもん",
       "secondary": "MILGRAM ムウ (CV: 香里有佐)",
@@ -1750,7 +1843,7 @@
       "detailPath": "entities/songs/ebe89f24eb944047.json"
     },
     {
-      "rank": 13639,
+      "rank": 13641,
       "id": "02712ddfa1913227",
       "name": "悪ノ召使",
       "secondary": "Mothy",
@@ -1796,7 +1889,7 @@
       "detailPath": "entities/songs/02712ddfa1913227.json"
     },
     {
-      "rank": 13640,
+      "rank": 13642,
       "id": "4df2bfd191f3aa8b",
       "name": "悪者",
       "secondary": "くじら",
@@ -1841,7 +1934,7 @@
       "detailPath": "entities/songs/4df2bfd191f3aa8b.json"
     },
     {
-      "rank": 13641,
+      "rank": 13643,
       "id": "53b0237594ab2dd4",
       "name": "悪食",
       "secondary": "BIN",
@@ -1885,7 +1978,7 @@
       "detailPath": "entities/songs/53b0237594ab2dd4.json"
     },
     {
-      "rank": 13642,
+      "rank": 13644,
       "id": "350d878fa6ba96e5",
       "name": "悪魔くん",
       "secondary": "悪魔くん",
@@ -1930,7 +2023,7 @@
       "detailPath": "entities/songs/350d878fa6ba96e5.json"
     },
     {
-      "rank": 13643,
+      "rank": 13645,
       "id": "0d869c137bc3b79d",
       "name": "悪魔の踊り方",
       "secondary": "未記載",
@@ -1975,7 +2068,7 @@
       "detailPath": "entities/songs/0d869c137bc3b79d.json"
     },
     {
-      "rank": 13644,
+      "rank": 13646,
       "id": "7b2c686cdd9455a7",
       "name": "悪霊少女",
       "secondary": "ポルノグラフィティ",
@@ -2020,7 +2113,7 @@
       "detailPath": "entities/songs/7b2c686cdd9455a7.json"
     },
     {
-      "rank": 13645,
+      "rank": 13647,
       "id": "ff6d504d755cf022",
       "name": "或原のんか",
       "secondary": "",
@@ -2062,7 +2155,7 @@
       "detailPath": "entities/songs/ff6d504d755cf022.json"
     },
     {
-      "rank": 13646,
+      "rank": 13648,
       "id": "1f03c685caf08e38",
       "name": "暗黒の翼",
       "secondary": "小林沙苗（レディ バット）",
@@ -2107,7 +2200,7 @@
       "detailPath": "entities/songs/1f03c685caf08e38.json"
     },
     {
-      "rank": 13647,
+      "rank": 13649,
       "id": "2dbe50e3fe943ec7",
       "name": "暗黒天国",
       "secondary": "ALI PROJECT",
@@ -2155,7 +2248,7 @@
       "detailPath": "entities/songs/2dbe50e3fe943ec7.json"
     },
     {
-      "rank": 13648,
+      "rank": 13650,
       "id": "9ec22aa436be3d45",
       "name": "暗黒天国",
       "secondary": "",
@@ -2198,93 +2291,6 @@
         }
       ],
       "detailPath": "entities/songs/9ec22aa436be3d45.json"
-    },
-    {
-      "rank": 13649,
-      "id": "379999e9cd3cfb50",
-      "name": "暗夜航路",
-      "secondary": "",
-      "channelId": "UC56conDojpK-aPtomS2ckFA",
-      "channelHandle": "@NanaruMashiro",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "-u8qNZ9GdII",
-          "videoTitle": "【#歌枠】🍇後半🍇秋らしい曲を探してみよう/活動をサボっていた歌い手が新人Vtuberに転生してみた！vol.26",
-          "channelName": "天里水環 AmasatoMikan おんがくch.",
-          "publishedAt": "2026-09-15T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-u8qNZ9GdII/hqdefault.jpg",
-          "sourcePath": "sources/-u/-u8qNZ9GdII.json",
-          "time": "0:07:07",
-          "seconds": 427,
-          "songTitle": "暗夜航路",
-          "artist": ""
-        },
-        {
-          "videoId": "FnAMNendtkA",
-          "videoTitle": "〖 #CSP歌枠バトル 11日目 〗大好きなangelaさんの曲を歌えるだけ歌う🎤🎵〖 #真城ななる #歌枠 #Vtuber 〗",
-          "channelName": "Nanaru Mashiro Ch. 真城ななる 🏰🕊",
-          "publishedAt": "2026-08-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FnAMNendtkA/hqdefault.jpg",
-          "sourcePath": "sources/Fn/FnAMNendtkA.json",
-          "time": "0:34:33",
-          "seconds": 2073,
-          "songTitle": "暗夜航路",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/379999e9cd3cfb50.json"
-    },
-    {
-      "rank": 13650,
-      "id": "1f199b2831044795",
-      "name": "闇に降る雨",
-      "secondary": "椎名林檎",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "kxW04aRouLc",
-          "videoTitle": "【耐久歌枠】2020人までたどり着きたい歌枠 #karaoke【Vsinger / 雨霧リアン】",
-          "channelName": "雨霧リアン / Amagiri Rian",
-          "publishedAt": "2026-09-12T15:04:27.565Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kxW04aRouLc/hqdefault.jpg",
-          "sourcePath": "sources/kx/kxW04aRouLc.json",
-          "time": "0:10:38",
-          "seconds": 638,
-          "songTitle": "闇に降る雨",
-          "artist": "椎名林檎"
-        },
-        {
-          "videoId": "OMZsTM-2lws",
-          "videoTitle": "〖 #CSP歌枠バトル13日目② 〗初めての朝活歌枠！30人のおはよう集めたいです！🎤🎵〖 #真城ななる #歌枠 #Vtuber 〗",
-          "channelName": "Nanaru Mashiro Ch. 真城ななる 🏰🕊",
-          "publishedAt": "2026-08-24T04:51:32.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/OMZsTM-2lws/hqdefault.jpg",
-          "sourcePath": "sources/OM/OMZsTM-2lws.json",
-          "time": "0:28:26",
-          "seconds": 1706,
-          "songTitle": "闇に降る雨",
-          "artist": "椎名林檎"
-        }
-      ],
-      "detailPath": "entities/songs/1f199b2831044795.json"
     }
   ]
 }

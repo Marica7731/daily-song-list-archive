@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "songs",
   "page": 85,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27672,
+  "totalCount": 27684,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4201,
+      "id": "1a76bd041974a164",
+      "name": "月が満ちる",
+      "secondary": "月詠み",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "5VhDvgETLD8",
+          "videoTitle": "【 耐久歌枠 】30分で目標達成！当方誕生日マン！沢山の人に祝われたい！！ singing stream【 新人vtuber/五木つかさ 】",
+          "channelName": "五木つかさ -Itsuki Tsukasa -",
+          "publishedAt": "2026-10-04T07:11:03.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5VhDvgETLD8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtPu97u3vtXvKCW9UpSKd6XBAM8Q",
+          "sourcePath": "sources/5V/5VhDvgETLD8.json",
+          "time": "1:38:34",
+          "seconds": 5914,
+          "songTitle": "月が満ちる",
+          "artist": "月詠み"
+        },
+        {
+          "videoId": "-6MPyIQGs_w",
+          "videoTitle": "あと18人で9700人めう～さぁ、歌うわよ！よろしくて？#初見さん歓迎 (*´ω｀*)【#歌枠】 -Singing stream-JPVtuber #歌枠 #初見歓迎 #joysound",
+          "channelName": "みかみ茉姫 /Maki Mikami",
+          "publishedAt": "2026-09-25T17:33:12.059Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-6MPyIQGs_w/hqdefault.jpg",
+          "sourcePath": "sources/-6/-6MPyIQGs_w.json",
+          "time": "1:34:35",
+          "seconds": 5675,
+          "songTitle": "月が満ちる",
+          "artist": "月詠み"
+        },
+        {
+          "videoId": "i1-WboexVzs",
+          "videoTitle": "【 ゲリラ歌枠 】見つけたのは幸運！沼る声、いかがっすか singing stream【 新人vtuber/五木つかさ 】",
+          "channelName": "五木つかさ -Itsuki Tsukasa -",
+          "publishedAt": "2026-09-14T13:17:39.280Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/i1-WboexVzs/hqdefault.jpg",
+          "sourcePath": "sources/i1/i1-WboexVzs.json",
+          "time": "1:38:30",
+          "seconds": 5910,
+          "songTitle": "月が満ちる",
+          "artist": "月詠み"
+        }
+      ],
+      "detailPath": "entities/songs/1a76bd041974a164.json"
+    },
+    {
+      "rank": 4202,
       "id": "1b416a9974666244",
       "name": "月に向かって撃て",
       "secondary": "星街すいせい",
@@ -67,7 +124,7 @@
       "detailPath": "entities/songs/1b416a9974666244.json"
     },
     {
-      "rank": 4202,
+      "rank": 4203,
       "id": "fb4e354e4900f2c9",
       "name": "月に負け犬",
       "secondary": "椎名林檎",
@@ -124,7 +181,7 @@
       "detailPath": "entities/songs/fb4e354e4900f2c9.json"
     },
     {
-      "rank": 4203,
+      "rank": 4204,
       "id": "36ab3641948e0db7",
       "name": "月のワルツ",
       "secondary": "諌山実生",
@@ -181,7 +238,7 @@
       "detailPath": "entities/songs/36ab3641948e0db7.json"
     },
     {
-      "rank": 4204,
+      "rank": 4205,
       "id": "5edf18beb2532daf",
       "name": "月を見ていた",
       "secondary": "米津玄師",
@@ -238,7 +295,7 @@
       "detailPath": "entities/songs/5edf18beb2532daf.json"
     },
     {
-      "rank": 4205,
+      "rank": 4206,
       "id": "42183c5e0d06abe6",
       "name": "月下の夜想曲",
       "secondary": "MALICE MIZER",
@@ -295,7 +352,7 @@
       "detailPath": "entities/songs/42183c5e0d06abe6.json"
     },
     {
-      "rank": 4206,
+      "rank": 4207,
       "id": "140c18d076a3f0b9",
       "name": "月光",
       "secondary": "鬼塚ちひろ",
@@ -353,7 +410,7 @@
       "detailPath": "entities/songs/140c18d076a3f0b9.json"
     },
     {
-      "rank": 4207,
+      "rank": 4208,
       "id": "8806046c57a50f72",
       "name": "月光",
       "secondary": "キタニタツヤ・はるまきごはん",
@@ -410,7 +467,7 @@
       "detailPath": "entities/songs/8806046c57a50f72.json"
     },
     {
-      "rank": 4208,
+      "rank": 4209,
       "id": "df96a7cb076abe09",
       "name": "月乃",
       "secondary": "つなまる",
@@ -467,7 +524,7 @@
       "detailPath": "entities/songs/df96a7cb076abe09.json"
     },
     {
-      "rank": 4209,
+      "rank": 4210,
       "id": "8619e2849fd8fd8c",
       "name": "見えざる腕",
       "secondary": "Sound Horizon",
@@ -524,7 +581,7 @@
       "detailPath": "entities/songs/8619e2849fd8fd8c.json"
     },
     {
-      "rank": 4210,
+      "rank": 4211,
       "id": "f8bb375df553d15f",
       "name": "言葉にできない",
       "secondary": "オフコース",
@@ -581,7 +638,7 @@
       "detailPath": "entities/songs/f8bb375df553d15f.json"
     },
     {
-      "rank": 4211,
+      "rank": 4212,
       "id": "f770699d9dfcbeb2",
       "name": "限りなく灰色へ",
       "secondary": "すりぃ feat. 鏡音レン",
@@ -638,7 +695,7 @@
       "detailPath": "entities/songs/f770699d9dfcbeb2.json"
     },
     {
-      "rank": 4212,
+      "rank": 4213,
       "id": "d59fd86d8a49bacb",
       "name": "限りなく灰色へ",
       "secondary": "すりぃ",
@@ -695,7 +752,7 @@
       "detailPath": "entities/songs/d59fd86d8a49bacb.json"
     },
     {
-      "rank": 4213,
+      "rank": 4214,
       "id": "48ddd53552eb916a",
       "name": "限界バトル",
       "secondary": "JAM Project",
@@ -752,7 +809,7 @@
       "detailPath": "entities/songs/48ddd53552eb916a.json"
     },
     {
-      "rank": 4214,
+      "rank": 4215,
       "id": "cd24e863ced92fca",
       "name": "狐鳴らむ",
       "secondary": "",
@@ -809,7 +866,7 @@
       "detailPath": "entities/songs/cd24e863ced92fca.json"
     },
     {
-      "rank": 4215,
+      "rank": 4216,
       "id": "90df49ebdd73eb49",
       "name": "誇り高きアイドル",
       "secondary": "mona feat.HoneyWorks",
@@ -866,7 +923,7 @@
       "detailPath": "entities/songs/90df49ebdd73eb49.json"
     },
     {
-      "rank": 4216,
+      "rank": 4217,
       "id": "d3a67fddcc12ffe5",
       "name": "五月の蝿",
       "secondary": "RADWIMPS",
@@ -923,7 +980,7 @@
       "detailPath": "entities/songs/d3a67fddcc12ffe5.json"
     },
     {
-      "rank": 4217,
+      "rank": 4218,
       "id": "3d9ef51f55e82eea",
       "name": "公然の秘密",
       "secondary": "椎名林檎",
@@ -980,7 +1037,7 @@
       "detailPath": "entities/songs/3d9ef51f55e82eea.json"
     },
     {
-      "rank": 4218,
+      "rank": 4219,
       "id": "5e027b5fda3d3b3f",
       "name": "好き！雪！本気マジック",
       "secondary": "Mitchie M feat. 初音ミク",
@@ -1037,7 +1094,7 @@
       "detailPath": "entities/songs/5e027b5fda3d3b3f.json"
     },
     {
-      "rank": 4219,
+      "rank": 4220,
       "id": "fb79f9393dc69e2f",
       "name": "好きって言ってよ",
       "secondary": "Juice=Juice",
@@ -1094,7 +1151,7 @@
       "detailPath": "entities/songs/fb79f9393dc69e2f.json"
     },
     {
-      "rank": 4220,
+      "rank": 4221,
       "id": "14cc0aede8cbb289",
       "name": "好きでいて",
       "secondary": "Ado",
@@ -1151,7 +1208,7 @@
       "detailPath": "entities/songs/14cc0aede8cbb289.json"
     },
     {
-      "rank": 4221,
+      "rank": 4222,
       "id": "a0294de45a5aa847",
       "name": "幸せを運ぶ足音",
       "secondary": "ネモ・テルミナス 🆕",
@@ -1208,7 +1265,7 @@
       "detailPath": "entities/songs/a0294de45a5aa847.json"
     },
     {
-      "rank": 4222,
+      "rank": 4223,
       "id": "5d4cf1efd7901423",
       "name": "紅茶",
       "secondary": "坂本真綾",
@@ -1265,7 +1322,7 @@
       "detailPath": "entities/songs/5d4cf1efd7901423.json"
     },
     {
-      "rank": 4223,
+      "rank": 4224,
       "id": "585e65ffd43a8405",
       "name": "紅茶むにさん",
       "secondary": "",
@@ -1319,7 +1376,7 @@
       "detailPath": "entities/songs/585e65ffd43a8405.json"
     },
     {
-      "rank": 4224,
+      "rank": 4225,
       "id": "a2bc8979e84ecfe0",
       "name": "高音厨音域テスト",
       "secondary": "木村わいP",
@@ -1376,7 +1433,7 @@
       "detailPath": "entities/songs/a2bc8979e84ecfe0.json"
     },
     {
-      "rank": 4225,
+      "rank": 4226,
       "id": "569ec3763b016a04",
       "name": "告白予行練習",
       "secondary": "HoneyWorks",
@@ -1433,7 +1490,7 @@
       "detailPath": "entities/songs/569ec3763b016a04.json"
     },
     {
-      "rank": 4226,
+      "rank": 4227,
       "id": "164b9f01c754b239",
       "name": "今好きになる",
       "secondary": "HoneyWorks",
@@ -1490,7 +1547,7 @@
       "detailPath": "entities/songs/164b9f01c754b239.json"
     },
     {
-      "rank": 4227,
+      "rank": 4228,
       "id": "925d007870ec057b",
       "name": "今週のこの人",
       "secondary": "頭慢「飛び出し注意」",
@@ -1544,7 +1601,7 @@
       "detailPath": "entities/songs/925d007870ec057b.json"
     },
     {
-      "rank": 4228,
+      "rank": 4229,
       "id": "61955c4ce57e6242",
       "name": "今日のHappy Birthday to You",
       "secondary": "",
@@ -1601,7 +1658,7 @@
       "detailPath": "entities/songs/61955c4ce57e6242.json"
     },
     {
-      "rank": 4229,
+      "rank": 4230,
       "id": "4bf68a9d7633cbe1",
       "name": "今日の日はさようなら",
       "secondary": "林原めぐみ",
@@ -1658,7 +1715,7 @@
       "detailPath": "entities/songs/4bf68a9d7633cbe1.json"
     },
     {
-      "rank": 4230,
+      "rank": 4231,
       "id": "3ae6e63f788eed9e",
       "name": "混沌ブギ",
       "secondary": "jon-YAKITORY",
@@ -1715,7 +1772,7 @@
       "detailPath": "entities/songs/3ae6e63f788eed9e.json"
     },
     {
-      "rank": 4231,
+      "rank": 4232,
       "id": "2aff1cfed41cade0",
       "name": "混沌ブギ",
       "secondary": "",
@@ -1772,7 +1829,7 @@
       "detailPath": "entities/songs/2aff1cfed41cade0.json"
     },
     {
-      "rank": 4232,
+      "rank": 4233,
       "id": "fea0cdc284631953",
       "name": "魂のルフラン",
       "secondary": "高橋洋子 ※JOYSOUND",
@@ -1829,7 +1886,7 @@
       "detailPath": "entities/songs/fea0cdc284631953.json"
     },
     {
-      "rank": 4233,
+      "rank": 4234,
       "id": "1f662d514016857a",
       "name": "砂の惑星",
       "secondary": "米津玄師",
@@ -1886,7 +1943,7 @@
       "detailPath": "entities/songs/1f662d514016857a.json"
     },
     {
-      "rank": 4234,
+      "rank": 4235,
       "id": "b3a2059d094cf916",
       "name": "砂糖玉の月",
       "secondary": "やなぎなぎ",
@@ -1943,7 +2000,7 @@
       "detailPath": "entities/songs/b3a2059d094cf916.json"
     },
     {
-      "rank": 4235,
+      "rank": 4236,
       "id": "9887a015af05241f",
       "name": "最愛",
       "secondary": "福山雅治",
@@ -2000,7 +2057,7 @@
       "detailPath": "entities/songs/9887a015af05241f.json"
     },
     {
-      "rank": 4236,
+      "rank": 4237,
       "id": "7390873dbb99445c",
       "name": "最悪な日でもあなたが好き",
       "secondary": "芹澤優",
@@ -2057,7 +2114,7 @@
       "detailPath": "entities/songs/7390873dbb99445c.json"
     },
     {
-      "rank": 4237,
+      "rank": 4238,
       "id": "228bd1d1ebc77257",
       "name": "最強ツインテール",
       "secondary": "AKB48",
@@ -2114,7 +2171,7 @@
       "detailPath": "entities/songs/228bd1d1ebc77257.json"
     },
     {
-      "rank": 4238,
+      "rank": 4239,
       "id": "ca2aefbf0583cf38",
       "name": "最後の花弁",
       "secondary": "",
@@ -2171,7 +2228,7 @@
       "detailPath": "entities/songs/ca2aefbf0583cf38.json"
     },
     {
-      "rank": 4239,
+      "rank": 4240,
       "id": "337d9c0727939b36",
       "name": "最後名前呼び",
       "secondary": "",
@@ -2228,7 +2285,7 @@
       "detailPath": "entities/songs/337d9c0727939b36.json"
     },
     {
-      "rank": 4240,
+      "rank": 4241,
       "id": "205ee1c87413b313",
       "name": "最低なともだち",
       "secondary": "ドレスコーズ",
@@ -2285,7 +2342,7 @@
       "detailPath": "entities/songs/205ee1c87413b313.json"
     },
     {
-      "rank": 4241,
+      "rank": 4242,
       "id": "6e6ae7bd44f561d8",
       "name": "彩鮫ねぎさん",
       "secondary": "",
@@ -2339,7 +2396,7 @@
       "detailPath": "entities/songs/6e6ae7bd44f561d8.json"
     },
     {
-      "rank": 4242,
+      "rank": 4243,
       "id": "b8a3c40f07450b06",
       "name": "罪と罰と雨とキス",
       "secondary": "M!LK",
@@ -2396,7 +2453,7 @@
       "detailPath": "entities/songs/b8a3c40f07450b06.json"
     },
     {
-      "rank": 4243,
+      "rank": 4244,
       "id": "0a1ad85cb6930c83",
       "name": "罪と罰と雨とキス",
       "secondary": "佐野勇斗&吉田仁人",
@@ -2453,7 +2510,7 @@
       "detailPath": "entities/songs/0a1ad85cb6930c83.json"
     },
     {
-      "rank": 4244,
+      "rank": 4245,
       "id": "d77875275dc45c11",
       "name": "桜ノ雨",
       "secondary": "halyosy",
@@ -2510,7 +2567,7 @@
       "detailPath": "entities/songs/d77875275dc45c11.json"
     },
     {
-      "rank": 4245,
+      "rank": 4246,
       "id": "695419a9d17c6626",
       "name": "桜の時",
       "secondary": "aiko",
@@ -2567,7 +2624,7 @@
       "detailPath": "entities/songs/695419a9d17c6626.json"
     },
     {
-      "rank": 4246,
+      "rank": 4247,
       "id": "0716303ad7c17e5d",
       "name": "桜の風吹く街で",
       "secondary": "KEYTALK",
@@ -2624,7 +2681,7 @@
       "detailPath": "entities/songs/0716303ad7c17e5d.json"
     },
     {
-      "rank": 4247,
+      "rank": 4248,
       "id": "14bcba82178e8b51",
       "name": "桜ロック",
       "secondary": "CHERRYBLOSSOM",
@@ -2681,7 +2738,7 @@
       "detailPath": "entities/songs/14bcba82178e8b51.json"
     },
     {
-      "rank": 4248,
+      "rank": 4249,
       "id": "df16b6be0f102379",
       "name": "三つ葉の結びめ",
       "secondary": "やなぎなぎ",
@@ -2738,7 +2795,7 @@
       "detailPath": "entities/songs/df16b6be0f102379.json"
     },
     {
-      "rank": 4249,
+      "rank": 4250,
       "id": "01b4e62ba1bb43ad",
       "name": "三時のキス",
       "secondary": "ロクデナシ",
@@ -2794,63 +2851,6 @@
         }
       ],
       "detailPath": "entities/songs/01b4e62ba1bb43ad.json"
-    },
-    {
-      "rank": 4250,
-      "id": "4f0207195607a926",
-      "name": "三千万年",
-      "secondary": "相対性理論",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "PvFl3yrrBj4",
-          "videoTitle": "【歌枠 / sing】肌寒くなってきたので、チルめな歌枠【#vtuber / 不和ふあん】",
-          "channelName": "不和ふあん / Fuwa Fuan 【VTuber / 個人勢】",
-          "publishedAt": "2026-10-02T14:14:01.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PvFl3yrrBj4/hqdefault.jpg",
-          "sourcePath": "sources/Pv/PvFl3yrrBj4.json",
-          "time": "1:37:27",
-          "seconds": 5847,
-          "songTitle": "三千万年",
-          "artist": "相対性理論"
-        },
-        {
-          "videoId": "EDjpszWsGTM",
-          "videoTitle": "【 同接250人耐久歌枠 】睡眠・作業用BGMにもどうぞ🐏💤達成できたら告知します【 VTuber｜Vsinger 】",
-          "channelName": "スイミー / Swimmy",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EDjpszWsGTM/hqdefault.jpg",
-          "sourcePath": "sources/ED/EDjpszWsGTM.json",
-          "time": "1:32:34",
-          "seconds": 5554,
-          "songTitle": "三千万年",
-          "artist": "相対性理論"
-        },
-        {
-          "videoId": "KAUb7tytZRE",
-          "videoTitle": "꒰ঌ #歌枠 ┆ 初見さん大歓迎！女性ボーカル縛り歌枠【 #江波キョウカ / パレプロ 】",
-          "channelName": "江波キョウカのぴよぴよch. / パレプロ",
-          "publishedAt": "2026-09-22T09:30:37.501Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KAUb7tytZRE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADd1zjEOz8IOigeTYWlKjUUPu54w",
-          "sourcePath": "sources/KA/KAUb7tytZRE.json",
-          "time": "4:22:38",
-          "seconds": 15758,
-          "songTitle": "三千万年",
-          "artist": "相対性理論"
-        }
-      ],
-      "detailPath": "entities/songs/4f0207195607a926.json"
     }
   ]
 }

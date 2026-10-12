@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "songs",
   "page": 126,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27672,
+  "totalCount": 27684,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6251,
+      "id": "74bb9f49e81521ab",
+      "name": "ミックスナッツ",
+      "secondary": "Official髭男dism // SPY×FAMILY",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qZ3kwg_7Zvk",
+          "videoTitle": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー！！！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+          "channelName": "Kyoko Ch. 百灯キョーコ ‐ アソビ★まわり隊!",
+          "publishedAt": "2026-10-04T12:20:30.631Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qZ3kwg_7Zvk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCRkIgr4V2VH3HWawNx9KF19IqkCg",
+          "sourcePath": "sources/qZ/qZ3kwg_7Zvk.json",
+          "time": "0:01:18",
+          "seconds": 78,
+          "songTitle": "ミックスナッツ",
+          "artist": "Official髭男dism (『SPY×FAMILY』)"
+        },
+        {
+          "videoId": "QoEV7983Evw",
+          "videoTitle": "【#寒暖差歌枠リレー】アツい音楽届けます!!【 #華咲みもざ / #karaoke 】",
+          "channelName": "Mimoza Ch. 華咲みもざ",
+          "publishedAt": "2026-09-13T09:02:52.759Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QoEV7983Evw/hqdefault.jpg",
+          "sourcePath": "sources/Qo/QoEV7983Evw.json",
+          "time": "0:11:54",
+          "seconds": 714,
+          "songTitle": "ミックスナッツ",
+          "artist": "Official髭男dism // SPY×FAMILY"
+        }
+      ],
+      "detailPath": "entities/songs/74bb9f49e81521ab.json"
+    },
+    {
+      "rank": 6252,
       "id": "a1aadf38434f347f",
       "name": "ﾐｯﾄﾞﾅｲﾄ･ｼｬｯﾌﾙ",
       "secondary": "近藤真彦",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/a1aadf38434f347f.json"
     },
     {
-      "rank": 6252,
+      "rank": 6253,
       "id": "54279962d6c92233",
       "name": "ミッドナイト・リフレクション",
       "secondary": "",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/54279962d6c92233.json"
     },
     {
-      "rank": 6253,
+      "rank": 6254,
       "id": "31baefd1c9e67ca7",
       "name": "みてみて☆こっちっち",
       "secondary": "ももいろクローバーZ",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/31baefd1c9e67ca7.json"
     },
     {
-      "rank": 6254,
+      "rank": 6255,
       "id": "13633367c67af91c",
       "name": "みむかゥわナイストライ",
       "secondary": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat. 初音ミク",
@@ -190,7 +235,7 @@
       "detailPath": "entities/songs/13633367c67af91c.json"
     },
     {
-      "rank": 6255,
+      "rank": 6256,
       "id": "4d34a240d048757c",
       "name": "ミラクルペイント",
       "secondary": "OSTER project",
@@ -235,7 +280,7 @@
       "detailPath": "entities/songs/4d34a240d048757c.json"
     },
     {
-      "rank": 6256,
+      "rank": 6257,
       "id": "a181b958f106c198",
       "name": "ミリオンダラードリーマー",
       "secondary": "奏音69",
@@ -280,7 +325,7 @@
       "detailPath": "entities/songs/a181b958f106c198.json"
     },
     {
-      "rank": 6257,
+      "rank": 6258,
       "id": "e5d4f1453749ea5d",
       "name": "ミルククラウン・オン・ソーネチカ",
       "secondary": "",
@@ -325,7 +370,7 @@
       "detailPath": "entities/songs/e5d4f1453749ea5d.json"
     },
     {
-      "rank": 6258,
+      "rank": 6259,
       "id": "a406427c0bf3cbe2",
       "name": "ミルクティー",
       "secondary": "UA",
@@ -370,7 +415,7 @@
       "detailPath": "entities/songs/a406427c0bf3cbe2.json"
     },
     {
-      "rank": 6259,
+      "rank": 6260,
       "id": "9bd536a0be6d8888",
       "name": "ムーンライト伝説",
       "secondary": "セーラームーン",
@@ -415,7 +460,7 @@
       "detailPath": "entities/songs/9bd536a0be6d8888.json"
     },
     {
-      "rank": 6260,
+      "rank": 6261,
       "id": "2e71015f6db2ad6b",
       "name": "ムーンライト伝説",
       "secondary": "DALI ※JOYSOUND",
@@ -460,7 +505,7 @@
       "detailPath": "entities/songs/2e71015f6db2ad6b.json"
     },
     {
-      "rank": 6261,
+      "rank": 6262,
       "id": "d31d942957e294c1",
       "name": "むげんだいすき",
       "secondary": "iLiFE!",
@@ -505,7 +550,7 @@
       "detailPath": "entities/songs/d31d942957e294c1.json"
     },
     {
-      "rank": 6262,
+      "rank": 6263,
       "id": "7778064bf42b9584",
       "name": "むんもっしゅ さん",
       "secondary": "",
@@ -550,7 +595,7 @@
       "detailPath": "entities/songs/7778064bf42b9584.json"
     },
     {
-      "rank": 6263,
+      "rank": 6264,
       "id": "6855e051e8b617dc",
       "name": "㋰責任集合体",
       "secondary": "マサラダ",
@@ -595,7 +640,7 @@
       "detailPath": "entities/songs/6855e051e8b617dc.json"
     },
     {
-      "rank": 6264,
+      "rank": 6265,
       "id": "4f520c854cf51eae",
       "name": "め",
       "secondary": "篠澤広",
@@ -640,7 +685,7 @@
       "detailPath": "entities/songs/4f520c854cf51eae.json"
     },
     {
-      "rank": 6265,
+      "rank": 6266,
       "id": "e7441045277f98d3",
       "name": "メアの教育",
       "secondary": "コウ",
@@ -685,7 +730,7 @@
       "detailPath": "entities/songs/e7441045277f98d3.json"
     },
     {
-      "rank": 6266,
+      "rank": 6267,
       "id": "0668ccbdd6bd5850",
       "name": "めいきゅーらぶみー",
       "secondary": "麻倉もも",
@@ -730,7 +775,7 @@
       "detailPath": "entities/songs/0668ccbdd6bd5850.json"
     },
     {
-      "rank": 6267,
+      "rank": 6268,
       "id": "06aaebc7ee35f67a",
       "name": "めざせポケモンマスター",
       "secondary": "ポケットモンスター",
@@ -775,7 +820,7 @@
       "detailPath": "entities/songs/06aaebc7ee35f67a.json"
     },
     {
-      "rank": 6268,
+      "rank": 6269,
       "id": "1fb45bffbdb016d6",
       "name": "めざせポケモンマスター",
       "secondary": "松本梨香 ※JOYSOUND",
@@ -820,7 +865,7 @@
       "detailPath": "entities/songs/1fb45bffbdb016d6.json"
     },
     {
-      "rank": 6269,
+      "rank": 6270,
       "id": "15e028f0f94faf42",
       "name": "メシア",
       "secondary": "Lyu:Lyu",
@@ -866,7 +911,7 @@
       "detailPath": "entities/songs/15e028f0f94faf42.json"
     },
     {
-      "rank": 6270,
+      "rank": 6271,
       "id": "1947d715869f5289",
       "name": "メダカが見た虹",
       "secondary": "高田梢枝",
@@ -912,7 +957,7 @@
       "detailPath": "entities/songs/1947d715869f5289.json"
     },
     {
-      "rank": 6271,
+      "rank": 6272,
       "id": "7d249dedc4155af6",
       "name": "めだかの学校",
       "secondary": "童謡",
@@ -957,7 +1002,7 @@
       "detailPath": "entities/songs/7d249dedc4155af6.json"
     },
     {
-      "rank": 6272,
+      "rank": 6273,
       "id": "ed75ca625e929204",
       "name": "メトロノーム",
       "secondary": "",
@@ -1002,7 +1047,7 @@
       "detailPath": "entities/songs/ed75ca625e929204.json"
     },
     {
-      "rank": 6273,
+      "rank": 6274,
       "id": "641bbb17edd28c8e",
       "name": "めにしゅき♡ラッシュっしゅ",
       "secondary": "ウマ娘",
@@ -1047,7 +1092,7 @@
       "detailPath": "entities/songs/641bbb17edd28c8e.json"
     },
     {
-      "rank": 6274,
+      "rank": 6275,
       "id": "38af1b2e70286ee4",
       "name": "メビウス",
       "secondary": "",
@@ -1092,7 +1137,7 @@
       "detailPath": "entities/songs/38af1b2e70286ee4.json"
     },
     {
-      "rank": 6275,
+      "rank": 6276,
       "id": "388a53226c315556",
       "name": "メフィスト(【推しの子】)",
       "secondary": "女王蜂",
@@ -1137,7 +1182,7 @@
       "detailPath": "entities/songs/388a53226c315556.json"
     },
     {
-      "rank": 6276,
+      "rank": 6277,
       "id": "54015fed99449640",
       "name": "メメント・モリ",
       "secondary": "大森元貴",
@@ -1182,7 +1227,7 @@
       "detailPath": "entities/songs/54015fed99449640.json"
     },
     {
-      "rank": 6277,
+      "rank": 6278,
       "id": "9e6e94cbf614d0ea",
       "name": "メモリーグラス",
       "secondary": "堀江淳",
@@ -1227,7 +1272,7 @@
       "detailPath": "entities/songs/9e6e94cbf614d0ea.json"
     },
     {
-      "rank": 6278,
+      "rank": 6279,
       "id": "59bcb2bee83a44d6",
       "name": "メランコリーキッチン",
       "secondary": "",
@@ -1272,7 +1317,7 @@
       "detailPath": "entities/songs/59bcb2bee83a44d6.json"
     },
     {
-      "rank": 6279,
+      "rank": 6280,
       "id": "b6dfe4b62384b929",
       "name": "メルティランドナイトメア",
       "secondary": "はるまきごはん",
@@ -1317,7 +1362,7 @@
       "detailPath": "entities/songs/b6dfe4b62384b929.json"
     },
     {
-      "rank": 6280,
+      "rank": 6281,
       "id": "e8b470acde084f33",
       "name": "メルト",
       "secondary": "初音ミク",
@@ -1362,7 +1407,7 @@
       "detailPath": "entities/songs/e8b470acde084f33.json"
     },
     {
-      "rank": 6281,
+      "rank": 6282,
       "id": "4e6fea4bd36b4b88",
       "name": "メルヘンデビュー！",
       "secondary": "安部菜々（CV:三宅麻理恵）",
@@ -1407,7 +1452,7 @@
       "detailPath": "entities/songs/4e6fea4bd36b4b88.json"
     },
     {
-      "rank": 6282,
+      "rank": 6283,
       "id": "b52003171ab7bf82",
       "name": "メルヘンとグレーテル",
       "secondary": "RADWIMPS",
@@ -1449,7 +1494,7 @@
       "detailPath": "entities/songs/b52003171ab7bf82.json"
     },
     {
-      "rank": 6283,
+      "rank": 6284,
       "id": "d1935066b8497c49",
       "name": "メンタルチェンソー",
       "secondary": "かいりきベア",
@@ -1494,7 +1539,7 @@
       "detailPath": "entities/songs/d1935066b8497c49.json"
     },
     {
-      "rank": 6284,
+      "rank": 6285,
       "id": "4ae7621038f0d47a",
       "name": "メンヘラ",
       "secondary": "ミオヤマザキ",
@@ -1539,7 +1584,7 @@
       "detailPath": "entities/songs/4ae7621038f0d47a.json"
     },
     {
-      "rank": 6285,
+      "rank": 6286,
       "id": "243733503a8a2734",
       "name": "メンヘラじゃないもん！",
       "secondary": "勇魚",
@@ -1584,7 +1629,7 @@
       "detailPath": "entities/songs/243733503a8a2734.json"
     },
     {
-      "rank": 6286,
+      "rank": 6287,
       "id": "d9e4d43cf290b99e",
       "name": "め組のひと",
       "secondary": "倖田來未",
@@ -1629,7 +1674,7 @@
       "detailPath": "entities/songs/d9e4d43cf290b99e.json"
     },
     {
-      "rank": 6287,
+      "rank": 6288,
       "id": "d453fde09ac4db85",
       "name": "め組のひと",
       "secondary": "RATS&STAR",
@@ -1674,7 +1719,7 @@
       "detailPath": "entities/songs/d453fde09ac4db85.json"
     },
     {
-      "rank": 6288,
+      "rank": 6289,
       "id": "fb00c4095e495d75",
       "name": "モア！ジャンプ！モア！",
       "secondary": "MORE MORE JUMP!",
@@ -1719,7 +1764,7 @@
       "detailPath": "entities/songs/fb00c4095e495d75.json"
     },
     {
-      "rank": 6289,
+      "rank": 6290,
       "id": "9fe052afbce34c01",
       "name": "モア！ジャンプ！モア！",
       "secondary": "ナユタン星人 feat. 初音ミク",
@@ -1764,7 +1809,7 @@
       "detailPath": "entities/songs/9fe052afbce34c01.json"
     },
     {
-      "rank": 6290,
+      "rank": 6291,
       "id": "376133c5e21dc3d2",
       "name": "モアザンワーズ",
       "secondary": "坂本真綾 ※JOYSOUND",
@@ -1809,7 +1854,7 @@
       "detailPath": "entities/songs/376133c5e21dc3d2.json"
     },
     {
-      "rank": 6291,
+      "rank": 6292,
       "id": "df51e6902600cb1b",
       "name": "もういちど ルミナス",
       "secondary": "Pastel*Palettes",
@@ -1854,7 +1899,7 @@
       "detailPath": "entities/songs/df51e6902600cb1b.json"
     },
     {
-      "rank": 6292,
+      "rank": 6293,
       "id": "a5846edca3f58bf2",
       "name": "もう一度TENDERNESS",
       "secondary": "KIX・S",
@@ -1896,7 +1941,7 @@
       "detailPath": "entities/songs/a5846edca3f58bf2.json"
     },
     {
-      "rank": 6293,
+      "rank": 6294,
       "id": "221506532b7a76e7",
       "name": "モーターサイクル",
       "secondary": "BUMP OF CHICKEN",
@@ -1942,7 +1987,7 @@
       "detailPath": "entities/songs/221506532b7a76e7.json"
     },
     {
-      "rank": 6294,
+      "rank": 6295,
       "id": "2877502aa2c19105",
       "name": "もちうつね",
       "secondary": "おくすり飲んで寝よう",
@@ -1984,7 +2029,7 @@
       "detailPath": "entities/songs/2877502aa2c19105.json"
     },
     {
-      "rank": 6295,
+      "rank": 6296,
       "id": "42164cd81c931802",
       "name": "もってけ!セーラーふく",
       "secondary": "らき⭐すた",
@@ -2029,7 +2074,7 @@
       "detailPath": "entities/songs/42164cd81c931802.json"
     },
     {
-      "rank": 6296,
+      "rank": 6297,
       "id": "e54994efcd642a94",
       "name": "もってけ！セーラーふく",
       "secondary": "平野綾、加藤英美里、福原香織、遠藤綾",
@@ -2074,7 +2119,7 @@
       "detailPath": "entities/songs/e54994efcd642a94.json"
     },
     {
-      "rank": 6297,
+      "rank": 6298,
       "id": "4916faff96f64490",
       "name": "もってけ！セーラー服",
       "secondary": "",
@@ -2119,7 +2164,7 @@
       "detailPath": "entities/songs/4916faff96f64490.json"
     },
     {
-      "rank": 6298,
+      "rank": 6299,
       "id": "e23100fbcbfd6b3f",
       "name": "モットー",
       "secondary": "阿部真央",
@@ -2161,7 +2206,7 @@
       "detailPath": "entities/songs/e23100fbcbfd6b3f.json"
     },
     {
-      "rank": 6299,
+      "rank": 6300,
       "id": "f2b0e876aef92e6a",
       "name": "もっと強く",
       "secondary": "EXILE",
@@ -2205,51 +2250,6 @@
         }
       ],
       "detailPath": "entities/songs/f2b0e876aef92e6a.json"
-    },
-    {
-      "rank": 6300,
-      "id": "aaa75e5186df96eb",
-      "name": "モノクロ∞ブルースカイ",
-      "secondary": "のぼる↑",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "6WwL1ba33GU",
-          "videoTitle": "おはよう☀朝から一緒にまったり💗雑談歌枠🎤 2026.9.29 #初見歓迎",
-          "channelName": "吃音みりぃo",
-          "publishedAt": "2026-09-29T04:21:46.017Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6WwL1ba33GU/hqdefault.jpg",
-          "sourcePath": "sources/6W/6WwL1ba33GU.json",
-          "time": "2:35:04",
-          "seconds": 9304,
-          "songTitle": "モノクロ∞ブルースカイ",
-          "artist": "のぼる↑"
-        },
-        {
-          "videoId": "TiOgsQjLYFY",
-          "videoTitle": "【#歌枠】ゲリラ完全ランダム歌枠やりますよ～い【鳴鬼ルナ】",
-          "channelName": "鳴鬼ルナ / Naruki Luna",
-          "publishedAt": "2026-09-21T13:44:51.595Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TiOgsQjLYFY/hqdefault.jpg",
-          "sourcePath": "sources/Ti/TiOgsQjLYFY.json",
-          "time": "0:50:33",
-          "seconds": 3033,
-          "songTitle": "モノクロ∞ブルースカイ",
-          "artist": "のぼる↑"
-        }
-      ],
-      "detailPath": "entities/songs/aaa75e5186df96eb.json"
     }
   ]
 }

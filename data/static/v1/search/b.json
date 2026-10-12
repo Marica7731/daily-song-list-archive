@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "items": [
     {
       "id": "b9c0b1d013fc22a1",
@@ -14180,17 +14180,25 @@
       "type": "songs",
       "name": "丸の内サディステック",
       "secondary": "椎名林檎",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/b501b074bbb01ec2.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "丸の内サディステック椎名林檎"
     },
     {
@@ -76458,8 +76466,8 @@
       "type": "artists",
       "name": "松本梨香",
       "secondary": "",
-      "occurrenceCount": 239,
-      "videoCount": 197,
+      "occurrenceCount": 240,
+      "videoCount": 198,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76485,8 +76493,8 @@
           "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 85,
-          "videoCount": 75
+          "occurrenceCount": 86,
+          "videoCount": 76
         }
       },
       "text": "松本梨香"
@@ -76536,8 +76544,8 @@
       "type": "artists",
       "name": "back number",
       "secondary": "",
-      "occurrenceCount": 902,
-      "videoCount": 697,
+      "occurrenceCount": 903,
+      "videoCount": 698,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -76563,8 +76571,8 @@
           "videoCount": 21
         },
         "30d": {
-          "occurrenceCount": 346,
-          "videoCount": 251
+          "occurrenceCount": 347,
+          "videoCount": 252
         }
       },
       "text": "backnumber"

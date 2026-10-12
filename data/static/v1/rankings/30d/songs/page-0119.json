@@ -1,16 +1,62 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "songs",
   "page": 119,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27672,
+  "totalCount": 27684,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5901,
+      "id": "cc4ed632a4611aee",
+      "name": "シャルル",
+      "secondary": "flower",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "DLg0TLjEiE8",
+          "videoTitle": "【#歌枠】明日は3周年！そしてつゆロックフェスもうすぐ公募始まるよ！【#singing / #ボカロ 】",
+          "channelName": "しらつゆーちゅーぶ",
+          "publishedAt": "2026-10-03T05:48:36.542Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DLg0TLjEiE8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUABovOX_wMOCO3__dUGGODqBCDgqAE=&rs=AOn4CLBOc2ZTBLZH8Q5lOk9Tx5S6dOMwrQ&usqp=CBU",
+          "sourcePath": "sources/DL/DLg0TLjEiE8.json",
+          "time": "1:25:35",
+          "seconds": 5135,
+          "songTitle": "シャルル",
+          "artist": "flower"
+        },
+        {
+          "videoId": "EkqZpSGYsKY",
+          "videoTitle": "【 弾き語り 】シルバーウィーク最終日に会いに来て～(^_-)-☆【 百瀬こいろ 】",
+          "channelName": "百瀬こいろ Koiro Ch.【ぶいじだい】",
+          "publishedAt": "2026-09-23T12:41:32.966Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/EkqZpSGYsKY/hqdefault.jpg",
+          "sourcePath": "sources/Ek/EkqZpSGYsKY.json",
+          "time": "0:15:20",
+          "seconds": 920,
+          "songTitle": "シャルル",
+          "artist": "flower"
+        }
+      ],
+      "detailPath": "entities/songs/cc4ed632a4611aee.json"
+    },
+    {
+      "rank": 5902,
       "id": "a358ee047f0cef24",
       "name": "ジャングルジム",
       "secondary": "BUMP OF CHICKEN",
@@ -55,7 +101,7 @@
       "detailPath": "entities/songs/a358ee047f0cef24.json"
     },
     {
-      "rank": 5902,
+      "rank": 5903,
       "id": "0546e8f344152c89",
       "name": "シャンティ",
       "secondary": "wotaku feat . KAITO",
@@ -100,7 +146,7 @@
       "detailPath": "entities/songs/0546e8f344152c89.json"
     },
     {
-      "rank": 5903,
+      "rank": 5904,
       "id": "75f672af9fadceec",
       "name": "ジャンピン",
       "secondary": "KARA",
@@ -145,7 +191,7 @@
       "detailPath": "entities/songs/75f672af9fadceec.json"
     },
     {
-      "rank": 5904,
+      "rank": 5905,
       "id": "e38eade7687db186",
       "name": "シュガーコート",
       "secondary": "ダズビー",
@@ -190,7 +236,7 @@
       "detailPath": "entities/songs/e38eade7687db186.json"
     },
     {
-      "rank": 5905,
+      "rank": 5906,
       "id": "63760a76c4ac5bb8",
       "name": "シュノーケル",
       "secondary": "文藝天国",
@@ -235,7 +281,7 @@
       "detailPath": "entities/songs/63760a76c4ac5bb8.json"
     },
     {
-      "rank": 5906,
+      "rank": 5907,
       "id": "7ce909f3cb140a4b",
       "name": "ジュブナイル",
       "secondary": "amazarashi",
@@ -281,7 +327,7 @@
       "detailPath": "entities/songs/7ce909f3cb140a4b.json"
     },
     {
-      "rank": 5907,
+      "rank": 5908,
       "id": "881ea9d12f58b85b",
       "name": "ジュブナイル",
       "secondary": "Dixie Flatline",
@@ -326,7 +372,7 @@
       "detailPath": "entities/songs/881ea9d12f58b85b.json"
     },
     {
-      "rank": 5908,
+      "rank": 5909,
       "id": "d3f6d78869ebbdc6",
       "name": "シュプレヒコール",
       "secondary": "RADWIMPS",
@@ -371,7 +417,7 @@
       "detailPath": "entities/songs/d3f6d78869ebbdc6.json"
     },
     {
-      "rank": 5909,
+      "rank": 5910,
       "id": "e6a87a0a71fb8a77",
       "name": "じょいふる",
       "secondary": "",
@@ -416,7 +462,7 @@
       "detailPath": "entities/songs/e6a87a0a71fb8a77.json"
     },
     {
-      "rank": 5910,
+      "rank": 5911,
       "id": "52936ba3aebc1bd7",
       "name": "ショートカット",
       "secondary": "スマイレージ",
@@ -461,7 +507,7 @@
       "detailPath": "entities/songs/52936ba3aebc1bd7.json"
     },
     {
-      "rank": 5911,
+      "rank": 5912,
       "id": "fcc863c4fa72059f",
       "name": "ジョジョ ～その血の運命(さだめ)～",
       "secondary": "富永TOMMY弘明",
@@ -506,7 +552,7 @@
       "detailPath": "entities/songs/fcc863c4fa72059f.json"
     },
     {
-      "rank": 5912,
+      "rank": 5913,
       "id": "5413e6fb1625ad5e",
       "name": "ジョジョ その血の記憶～end of THE WORLD～",
       "secondary": "JO☆STARS～TOMMY,Coda,JIN～",
@@ -551,7 +597,7 @@
       "detailPath": "entities/songs/5413e6fb1625ad5e.json"
     },
     {
-      "rank": 5913,
+      "rank": 5914,
       "id": "dccacd626889da1d",
       "name": "シルシ",
       "secondary": "LiSA／アニメ『ソードアート・オンライン マザーズ・ロザリオ編』ED／2015/12/10",
@@ -593,7 +639,7 @@
       "detailPath": "entities/songs/dccacd626889da1d.json"
     },
     {
-      "rank": 5914,
+      "rank": 5915,
       "id": "ebbbce166e4a4424",
       "name": "しわ",
       "secondary": "buzzG feat.GUMI",
@@ -638,7 +684,7 @@
       "detailPath": "entities/songs/ebbbce166e4a4424.json"
     },
     {
-      "rank": 5915,
+      "rank": 5916,
       "id": "6c52af5d4929c00c",
       "name": "シングル・アゲイン",
       "secondary": "竹内まりや",
@@ -683,7 +729,7 @@
       "detailPath": "entities/songs/6c52af5d4929c00c.json"
     },
     {
-      "rank": 5916,
+      "rank": 5917,
       "id": "cf7a96209da36f5d",
       "name": "ジングルベル",
       "secondary": "童謡",
@@ -728,7 +774,7 @@
       "detailPath": "entities/songs/cf7a96209da36f5d.json"
     },
     {
-      "rank": 5917,
+      "rank": 5918,
       "id": "a867bdfcfbb04517",
       "name": "シンクロサイクロトロン・スピリチュアライザー",
       "secondary": "砂粒",
@@ -774,7 +820,7 @@
       "detailPath": "entities/songs/a867bdfcfbb04517.json"
     },
     {
-      "rank": 5918,
+      "rank": 5919,
       "id": "13a10f894bb3771b",
       "name": "シンデレラ",
       "secondary": "奧華子",
@@ -819,7 +865,7 @@
       "detailPath": "entities/songs/13a10f894bb3771b.json"
     },
     {
-      "rank": 5919,
+      "rank": 5920,
       "id": "032e5ab8bb11ddcd",
       "name": "シンデレラシンドローム",
       "secondary": "カラスヤサボウ",
@@ -864,7 +910,7 @@
       "detailPath": "entities/songs/032e5ab8bb11ddcd.json"
     },
     {
-      "rank": 5920,
+      "rank": 5921,
       "id": "de1610fbf1993f3d",
       "name": "シンデレラボーイ",
       "secondary": "",
@@ -909,7 +955,7 @@
       "detailPath": "entities/songs/de1610fbf1993f3d.json"
     },
     {
-      "rank": 5921,
+      "rank": 5922,
       "id": "2682607f7f3dceb8",
       "name": "スイートマジック",
       "secondary": "ろん×Junky",
@@ -951,7 +997,7 @@
       "detailPath": "entities/songs/2682607f7f3dceb8.json"
     },
     {
-      "rank": 5922,
+      "rank": 5923,
       "id": "1ad9cfe567b27be4",
       "name": "スイートマジック",
       "secondary": "Junky feat.ろん",
@@ -996,7 +1042,7 @@
       "detailPath": "entities/songs/1ad9cfe567b27be4.json"
     },
     {
-      "rank": 5923,
+      "rank": 5924,
       "id": "db4d89ae39a12c19",
       "name": "ずぅっといっしょ！",
       "secondary": "",
@@ -1041,7 +1087,7 @@
       "detailPath": "entities/songs/db4d89ae39a12c19.json"
     },
     {
-      "rank": 5924,
+      "rank": 5925,
       "id": "673f5f9dc88f1ad4",
       "name": "スーパーカリフラジリスティックエクスピアリドーシャス",
       "secondary": "メリー・ポピンズ",
@@ -1083,7 +1129,7 @@
       "detailPath": "entities/songs/673f5f9dc88f1ad4.json"
     },
     {
-      "rank": 5925,
+      "rank": 5926,
       "id": "5c49ce50f6e613e5",
       "name": "スーパースターになったら",
       "secondary": "back number",
@@ -1128,7 +1174,7 @@
       "detailPath": "entities/songs/5c49ce50f6e613e5.json"
     },
     {
-      "rank": 5926,
+      "rank": 5927,
       "id": "53944a14c69b9c75",
       "name": "すき、きらい",
       "secondary": "ファントムシータ",
@@ -1173,7 +1219,7 @@
       "detailPath": "entities/songs/53944a14c69b9c75.json"
     },
     {
-      "rank": 5927,
+      "rank": 5928,
       "id": "803c8b6a29198bd9",
       "name": "スキキライ",
       "secondary": "HoneyWorks feat.鏡音リン、鏡音レン",
@@ -1218,7 +1264,7 @@
       "detailPath": "entities/songs/803c8b6a29198bd9.json"
     },
     {
-      "rank": 5928,
+      "rank": 5929,
       "id": "4f7189e083e36401",
       "name": "スキスキハンター",
       "secondary": "Special for Princess",
@@ -1263,7 +1309,7 @@
       "detailPath": "entities/songs/4f7189e083e36401.json"
     },
     {
-      "rank": 5929,
+      "rank": 5930,
       "id": "e8c54f1fd3d4a1ef",
       "name": "スキスキ星人",
       "secondary": "すとぷり",
@@ -1305,7 +1351,7 @@
       "detailPath": "entities/songs/e8c54f1fd3d4a1ef.json"
     },
     {
-      "rank": 5930,
+      "rank": 5931,
       "id": "34a11205cec6b577",
       "name": "スキップ・ビート",
       "secondary": "KUWATA BAND",
@@ -1351,7 +1397,7 @@
       "detailPath": "entities/songs/34a11205cec6b577.json"
     },
     {
-      "rank": 5931,
+      "rank": 5932,
       "id": "5479ecb777e72630",
       "name": "スクランブル",
       "secondary": "堀江由衣with unscandal",
@@ -1396,7 +1442,7 @@
       "detailPath": "entities/songs/5479ecb777e72630.json"
     },
     {
-      "rank": 5932,
+      "rank": 5933,
       "id": "d99e462d675d1ac6",
       "name": "すこしだけうたう",
       "secondary": "",
@@ -1441,7 +1487,7 @@
       "detailPath": "entities/songs/d99e462d675d1ac6.json"
     },
     {
-      "rank": 5933,
+      "rank": 5934,
       "id": "352eb0ffdbb70e4f",
       "name": "ススミダス→",
       "secondary": "nobodyknows+",
@@ -1486,7 +1532,7 @@
       "detailPath": "entities/songs/352eb0ffdbb70e4f.json"
     },
     {
-      "rank": 5934,
+      "rank": 5935,
       "id": "ef72210082feabc8",
       "name": "スター",
       "secondary": "aiko",
@@ -1531,7 +1577,7 @@
       "detailPath": "entities/songs/ef72210082feabc8.json"
     },
     {
-      "rank": 5935,
+      "rank": 5936,
       "id": "a8e52fe07709c8e6",
       "name": "スタァライトシアター",
       "secondary": "スタァライト九九組",
@@ -1576,7 +1622,7 @@
       "detailPath": "entities/songs/a8e52fe07709c8e6.json"
     },
     {
-      "rank": 5936,
+      "rank": 5937,
       "id": "9c2a3523eb2ec579",
       "name": "スヂ",
       "secondary": "MARETU",
@@ -1621,7 +1667,7 @@
       "detailPath": "entities/songs/9c2a3523eb2ec579.json"
     },
     {
-      "rank": 5937,
+      "rank": 5938,
       "id": "6dc7b28c6adf996a",
       "name": "ずっと1番にしてね",
       "secondary": "コレサワ",
@@ -1663,7 +1709,7 @@
       "detailPath": "entities/songs/6dc7b28c6adf996a.json"
     },
     {
-      "rank": 5938,
+      "rank": 5939,
       "id": "faa00acfdeea41b6",
       "name": "ずっと2人で…",
       "secondary": "GLAY",
@@ -1708,7 +1754,7 @@
       "detailPath": "entities/songs/faa00acfdeea41b6.json"
     },
     {
-      "rank": 5939,
+      "rank": 5940,
       "id": "a7e55185e5e09585",
       "name": "ストリーミングハート",
       "secondary": "",
@@ -1753,7 +1799,7 @@
       "detailPath": "entities/songs/a7e55185e5e09585.json"
     },
     {
-      "rank": 5940,
+      "rank": 5941,
       "id": "10ddf963d0c7c990",
       "name": "スノーマジックファンタジー",
       "secondary": "SEKAI NO OWARI",
@@ -1798,7 +1844,7 @@
       "detailPath": "entities/songs/10ddf963d0c7c990.json"
     },
     {
-      "rank": 5941,
+      "rank": 5942,
       "id": "41419d12c8b795a8",
       "name": "スピカ",
       "secondary": "練習中",
@@ -1843,7 +1889,7 @@
       "detailPath": "entities/songs/41419d12c8b795a8.json"
     },
     {
-      "rank": 5942,
+      "rank": 5943,
       "id": "4399aced474f024f",
       "name": "スピカ",
       "secondary": "",
@@ -1888,7 +1934,7 @@
       "detailPath": "entities/songs/4399aced474f024f.json"
     },
     {
-      "rank": 5943,
+      "rank": 5944,
       "id": "c650019fae921f1f",
       "name": "スマイル",
       "secondary": "",
@@ -1933,7 +1979,7 @@
       "detailPath": "entities/songs/c650019fae921f1f.json"
     },
     {
-      "rank": 5944,
+      "rank": 5945,
       "id": "a794205d6cb0d11d",
       "name": "スマイル 一番 イイ♀",
       "secondary": "アンティック-珈琲店",
@@ -1978,7 +2024,7 @@
       "detailPath": "entities/songs/a794205d6cb0d11d.json"
     },
     {
-      "rank": 5945,
+      "rank": 5946,
       "id": "4b28f266be16cbc2",
       "name": "スマイルあげない",
       "secondary": "ano",
@@ -2023,7 +2069,7 @@
       "detailPath": "entities/songs/4b28f266be16cbc2.json"
     },
     {
-      "rank": 5946,
+      "rank": 5947,
       "id": "a6e6d16b441a34db",
       "name": "スロウダウナー",
       "secondary": "ろくろ feat. 初音ミク,GUMI",
@@ -2068,7 +2114,7 @@
       "detailPath": "entities/songs/a6e6d16b441a34db.json"
     },
     {
-      "rank": 5947,
+      "rank": 5948,
       "id": "b54423efa48b8248",
       "name": "ゼロの調律",
       "secondary": "天野月子",
@@ -2113,7 +2159,7 @@
       "detailPath": "entities/songs/b54423efa48b8248.json"
     },
     {
-      "rank": 5948,
+      "rank": 5949,
       "id": "69dfdb7e820840bb",
       "name": "センス・オブ・ワンダー",
       "secondary": "sumika",
@@ -2158,7 +2204,7 @@
       "detailPath": "entities/songs/69dfdb7e820840bb.json"
     },
     {
-      "rank": 5949,
+      "rank": 5950,
       "id": "9d19f57af7486eb9",
       "name": "セントエルモの火",
       "secondary": "BUMP OF CHICKEN",
@@ -2201,52 +2247,6 @@
         }
       ],
       "detailPath": "entities/songs/9d19f57af7486eb9.json"
-    },
-    {
-      "rank": 5950,
-      "id": "94904999c75c946e",
-      "name": "そういう好き",
-      "secondary": "wacciｻﾝ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "lkhECavOEgc",
-          "videoTitle": "【歌枠】低音男子のまったり歌枠・騒がしくない配信をお探しの方を待っています【VTuber】",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-09-30T14:43:31.213Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/lkhECavOEgc/hqdefault.jpg",
-          "sourcePath": "sources/lk/lkhECavOEgc.json",
-          "time": "0:25:40",
-          "seconds": 1540,
-          "songTitle": "そういう好き",
-          "artist": "wacciｻﾝ"
-        },
-        {
-          "videoId": "-n9D-Mi4WlE",
-          "videoTitle": "【歌枠】リクエスト大歓迎！ #vtuber #弾き語り",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-09-18T15:30:10.791Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-n9D-Mi4WlE/hqdefault.jpg",
-          "sourcePath": "sources/-n/-n9D-Mi4WlE.json",
-          "time": "0:35:46",
-          "seconds": 2146,
-          "songTitle": "そういう好き",
-          "artist": "wacciｻﾝ"
-        }
-      ],
-      "detailPath": "entities/songs/94904999c75c946e.json"
     }
   ]
 }

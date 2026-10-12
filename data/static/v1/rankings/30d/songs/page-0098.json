@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "songs",
   "page": 98,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27672,
+  "totalCount": 27684,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4851,
+      "id": "5872d9408d728fbe",
+      "name": "Crosswalk",
+      "secondary": "鈴木みのり",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "4nAZ-1G9_aY",
+          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
+          "channelName": "苺咲べりぃ / Maisaki Berry",
+          "publishedAt": "2026-10-09T15:54:50.012Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4nAZ-1G9_aY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCyOKmZcIUMRoCkttgW9NQ0SAXEA",
+          "sourcePath": "sources/4n/4nAZ-1G9_aY.json",
+          "time": "1:05:00",
+          "seconds": 3900,
+          "songTitle": "Crosswalk",
+          "artist": "鈴木みのり"
+        },
+        {
+          "videoId": "_2OCV6MVTDc",
+          "videoTitle": "【 #歌枠 / KARAOKE 】1時間のゆったりアニソン歌枠♪初見さんROM専さんも大歓迎♡【 Vsinger / #織夢りちぇ 】",
+          "channelName": "織夢りちぇ🦄🐰- Riche Ch.",
+          "publishedAt": "2026-09-22T03:30:37.501Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_2OCV6MVTDc/hqdefault.jpg",
+          "sourcePath": "sources/_2/_2OCV6MVTDc.json",
+          "time": "0:43:48",
+          "seconds": 2628,
+          "songTitle": "Crosswalk",
+          "artist": "鈴木みのり"
+        }
+      ],
+      "detailPath": "entities/songs/5872d9408d728fbe.json"
+    },
+    {
+      "rank": 4852,
       "id": "07e1e10cbe88f359",
       "name": "Crow Song",
       "secondary": "marina",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/07e1e10cbe88f359.json"
     },
     {
-      "rank": 4852,
+      "rank": 4853,
       "id": "0f5fe57e6364b7bd",
       "name": "Crystal Letter",
       "secondary": "水樹奈々",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/0f5fe57e6364b7bd.json"
     },
     {
-      "rank": 4853,
+      "rank": 4854,
       "id": "e0d2c1d20cd3d4a1",
       "name": "Cyclone",
       "secondary": "WhiteFlame",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/e0d2c1d20cd3d4a1.json"
     },
     {
-      "rank": 4854,
+      "rank": 4855,
       "id": "a164ca6793bb34c9",
       "name": "DADA",
       "secondary": "RADWIMPS",
@@ -190,7 +235,7 @@
       "detailPath": "entities/songs/a164ca6793bb34c9.json"
     },
     {
-      "rank": 4855,
+      "rank": 4856,
       "id": "586db66b8a0995bf",
       "name": "damn",
       "secondary": "藤井風",
@@ -235,7 +280,7 @@
       "detailPath": "entities/songs/586db66b8a0995bf.json"
     },
     {
-      "rank": 4856,
+      "rank": 4857,
       "id": "a393c2e9973c8c9d",
       "name": "Dan Dan Kokoro Hikareteku",
       "secondary": "Field of View",
@@ -280,7 +325,7 @@
       "detailPath": "entities/songs/a393c2e9973c8c9d.json"
     },
     {
-      "rank": 4857,
+      "rank": 4858,
       "id": "7dc32102759ac686",
       "name": "Dance In The Game",
       "secondary": "ZAQ",
@@ -325,7 +370,7 @@
       "detailPath": "entities/songs/7dc32102759ac686.json"
     },
     {
-      "rank": 4858,
+      "rank": 4859,
       "id": "8dabb9d207719969",
       "name": "Danceでバコーン!",
       "secondary": "℃-ute",
@@ -370,7 +415,7 @@
       "detailPath": "entities/songs/8dabb9d207719969.json"
     },
     {
-      "rank": 4859,
+      "rank": 4860,
       "id": "8607a012b953258f",
       "name": "Dancing Queen",
       "secondary": "ABBA",
@@ -415,7 +460,7 @@
       "detailPath": "entities/songs/8607a012b953258f.json"
     },
     {
-      "rank": 4860,
+      "rank": 4861,
       "id": "7c7315bbd4120519",
       "name": "Dancing stars on me!",
       "secondary": "μ's（ラブライブ!）",
@@ -460,7 +505,7 @@
       "detailPath": "entities/songs/7c7315bbd4120519.json"
     },
     {
-      "rank": 4861,
+      "rank": 4862,
       "id": "f8e9859e4812cb92",
       "name": "Dang Dang気になる",
       "secondary": "中村由真",
@@ -505,7 +550,7 @@
       "detailPath": "entities/songs/f8e9859e4812cb92.json"
     },
     {
-      "rank": 4862,
+      "rank": 4863,
       "id": "3b4a4e7382f1f081",
       "name": "Darling",
       "secondary": "",
@@ -550,7 +595,7 @@
       "detailPath": "entities/songs/3b4a4e7382f1f081.json"
     },
     {
-      "rank": 4863,
+      "rank": 4864,
       "id": "0517586588c30db6",
       "name": "DARMA GRAND PRIX",
       "secondary": "RADWIMPS",
@@ -595,7 +640,7 @@
       "detailPath": "entities/songs/0517586588c30db6.json"
     },
     {
-      "rank": 4864,
+      "rank": 4865,
       "id": "86264f51df0fbbe8",
       "name": "Day Opener",
       "secondary": "XIDEN",
@@ -640,7 +685,7 @@
       "detailPath": "entities/songs/86264f51df0fbbe8.json"
     },
     {
-      "rank": 4865,
+      "rank": 4866,
       "id": "0d4e2ea3c07b11be",
       "name": "DAYBYE",
       "secondary": "春野",
@@ -686,7 +731,7 @@
       "detailPath": "entities/songs/0d4e2ea3c07b11be.json"
     },
     {
-      "rank": 4866,
+      "rank": 4867,
       "id": "2e10ec6042f6ec5c",
       "name": "Daydreaming",
       "secondary": "BAND-MAID",
@@ -731,7 +776,7 @@
       "detailPath": "entities/songs/2e10ec6042f6ec5c.json"
     },
     {
-      "rank": 4867,
+      "rank": 4868,
       "id": "2ec6fc3e598dcc48",
       "name": "DAYS",
       "secondary": "",
@@ -776,7 +821,7 @@
       "detailPath": "entities/songs/2ec6fc3e598dcc48.json"
     },
     {
-      "rank": 4868,
+      "rank": 4869,
       "id": "b19abc091d81e4ac",
       "name": "daze feat. メイリア from GARNiDELiA",
       "secondary": "じん",
@@ -821,7 +866,7 @@
       "detailPath": "entities/songs/b19abc091d81e4ac.json"
     },
     {
-      "rank": 4869,
+      "rank": 4870,
       "id": "63dd724e6d2df9cf",
       "name": "Dear",
       "secondary": "19's Sound Factory feat.初音ミク",
@@ -866,7 +911,7 @@
       "detailPath": "entities/songs/63dd724e6d2df9cf.json"
     },
     {
-      "rank": 4870,
+      "rank": 4871,
       "id": "c32fade5a8ab60af",
       "name": "Dear",
       "secondary": "中島美嘉",
@@ -911,7 +956,7 @@
       "detailPath": "entities/songs/c32fade5a8ab60af.json"
     },
     {
-      "rank": 4871,
+      "rank": 4872,
       "id": "9a75adcb903fb45c",
       "name": "Dear My Friend",
       "secondary": "Every Little Thing",
@@ -956,7 +1001,7 @@
       "detailPath": "entities/songs/9a75adcb903fb45c.json"
     },
     {
-      "rank": 4872,
+      "rank": 4873,
       "id": "bda6aa348466c6cd",
       "name": "Dear World",
       "secondary": "MELLOW DEAR US",
@@ -1002,7 +1047,7 @@
       "detailPath": "entities/songs/bda6aa348466c6cd.json"
     },
     {
-      "rank": 4873,
+      "rank": 4874,
       "id": "0999357386c3b749",
       "name": "Dearest",
       "secondary": "松澤由美",
@@ -1047,7 +1092,7 @@
       "detailPath": "entities/songs/0999357386c3b749.json"
     },
     {
-      "rank": 4874,
+      "rank": 4875,
       "id": "fefcf1f4ecc07e71",
       "name": "Dearest",
       "secondary": "",
@@ -1092,7 +1137,7 @@
       "detailPath": "entities/songs/fefcf1f4ecc07e71.json"
     },
     {
-      "rank": 4875,
+      "rank": 4876,
       "id": "62022926a19fba53",
       "name": "Dec",
       "secondary": "Kanaria feat.GUMI",
@@ -1137,7 +1182,7 @@
       "detailPath": "entities/songs/62022926a19fba53.json"
     },
     {
-      "rank": 4876,
+      "rank": 4877,
       "id": "a929dd92351b123a",
       "name": "DEEP BLUE TOWNへおいでよ",
       "secondary": "アイマリン(CV:内田 彩) · ウェンディ(CV:内田 真礼) · ウーニィ(CV:佐倉 綾音)",
@@ -1182,7 +1227,7 @@
       "detailPath": "entities/songs/a929dd92351b123a.json"
     },
     {
-      "rank": 4877,
+      "rank": 4878,
       "id": "c2c4ae351d7ccb59",
       "name": "Depend on you",
       "secondary": "浜崎あゆみ",
@@ -1227,7 +1272,7 @@
       "detailPath": "entities/songs/c2c4ae351d7ccb59.json"
     },
     {
-      "rank": 4878,
+      "rank": 4879,
       "id": "c2c8ef2d9397f0bb",
       "name": "DESIRE",
       "secondary": "",
@@ -1272,7 +1317,7 @@
       "detailPath": "entities/songs/c2c8ef2d9397f0bb.json"
     },
     {
-      "rank": 4879,
+      "rank": 4880,
       "id": "2bef419934ab9822",
       "name": "DESTINY",
       "secondary": "My Little Lover",
@@ -1317,7 +1362,7 @@
       "detailPath": "entities/songs/2bef419934ab9822.json"
     },
     {
-      "rank": 4880,
+      "rank": 4881,
       "id": "42fc9ecea7dd8391",
       "name": "DIAMOND",
       "secondary": "PRINCESS PRINCESS",
@@ -1362,7 +1407,7 @@
       "detailPath": "entities/songs/42fc9ecea7dd8391.json"
     },
     {
-      "rank": 4881,
+      "rank": 4882,
       "id": "c81fa0f63f31e48d",
       "name": "Diamonds",
       "secondary": "プリンセス プリンセス",
@@ -1407,7 +1452,7 @@
       "detailPath": "entities/songs/c81fa0f63f31e48d.json"
     },
     {
-      "rank": 4882,
+      "rank": 4883,
       "id": "04b6aaa372d6c3f0",
       "name": "dis-(CLUB MIX Version)",
       "secondary": "有坂美香",
@@ -1452,7 +1497,7 @@
       "detailPath": "entities/songs/04b6aaa372d6c3f0.json"
     },
     {
-      "rank": 4883,
+      "rank": 4884,
       "id": "8068a97cca666020",
       "name": "DISCOTHEQUE",
       "secondary": "",
@@ -1497,7 +1542,7 @@
       "detailPath": "entities/songs/8068a97cca666020.json"
     },
     {
-      "rank": 4884,
+      "rank": 4885,
       "id": "d98e4e70943ec148",
       "name": "distance",
       "secondary": "LONG SHOT PARTY",
@@ -1542,7 +1587,7 @@
       "detailPath": "entities/songs/d98e4e70943ec148.json"
     },
     {
-      "rank": 4885,
+      "rank": 4886,
       "id": "910f0c8672de8358",
       "name": "Distance",
       "secondary": "宇多田ヒカル",
@@ -1587,7 +1632,7 @@
       "detailPath": "entities/songs/910f0c8672de8358.json"
     },
     {
-      "rank": 4886,
+      "rank": 4887,
       "id": "10e87258171db4a6",
       "name": "DIVE TO BLUE",
       "secondary": "L'Arc〜en〜Ciel",
@@ -1632,7 +1677,7 @@
       "detailPath": "entities/songs/10e87258171db4a6.json"
     },
     {
-      "rank": 4887,
+      "rank": 4888,
       "id": "a0c255540a7220db",
       "name": "DIVER #2100",
       "secondary": "R.A.M",
@@ -1677,7 +1722,7 @@
       "detailPath": "entities/songs/a0c255540a7220db.json"
     },
     {
-      "rank": 4888,
+      "rank": 4889,
       "id": "28aec69a364f27df",
       "name": "DOGMA",
       "secondary": "wotaku",
@@ -1722,7 +1767,7 @@
       "detailPath": "entities/songs/28aec69a364f27df.json"
     },
     {
-      "rank": 4889,
+      "rank": 4890,
       "id": "db884dd096cea509",
       "name": "Dokkoi!ロマンティック",
       "secondary": "iLiFE!",
@@ -1767,7 +1812,7 @@
       "detailPath": "entities/songs/db884dd096cea509.json"
     },
     {
-      "rank": 4890,
+      "rank": 4891,
       "id": "041a05e550d5df5b",
       "name": "Dolor",
       "secondary": "Resonecia",
@@ -1812,7 +1857,7 @@
       "detailPath": "entities/songs/041a05e550d5df5b.json"
     },
     {
-      "rank": 4891,
+      "rank": 4892,
       "id": "43bcb417f76cd8e2",
       "name": "Don't be long",
       "secondary": "水樹奈々",
@@ -1857,7 +1902,7 @@
       "detailPath": "entities/songs/43bcb417f76cd8e2.json"
     },
     {
-      "rank": 4892,
+      "rank": 4893,
       "id": "8bb6831fcc21d563",
       "name": "Don't Cry",
       "secondary": "蓮花",
@@ -1902,7 +1947,7 @@
       "detailPath": "entities/songs/8bb6831fcc21d563.json"
     },
     {
-      "rank": 4893,
+      "rank": 4894,
       "id": "dedf9cdc5dc1c7d0",
       "name": "Don't Know Why",
       "secondary": "",
@@ -1944,7 +1989,7 @@
       "detailPath": "entities/songs/dedf9cdc5dc1c7d0.json"
     },
     {
-      "rank": 4894,
+      "rank": 4895,
       "id": "946d38a84310b407",
       "name": "Don't say \"lazy\"",
       "secondary": "",
@@ -1989,7 +2034,7 @@
       "detailPath": "entities/songs/946d38a84310b407.json"
     },
     {
-      "rank": 4895,
+      "rank": 4896,
       "id": "4ad12a64a410d0c0",
       "name": "Don't say“lazy” - 放學後tea time",
       "secondary": "",
@@ -2034,7 +2079,7 @@
       "detailPath": "entities/songs/4ad12a64a410d0c0.json"
     },
     {
-      "rank": 4896,
+      "rank": 4897,
       "id": "31569ace463d6be3",
       "name": "Don't Speak",
       "secondary": "No Doubt",
@@ -2079,7 +2124,7 @@
       "detailPath": "entities/songs/31569ace463d6be3.json"
     },
     {
-      "rank": 4897,
+      "rank": 4898,
       "id": "487b5022f197ce83",
       "name": "Don't Stop Me Now",
       "secondary": "QUEEN",
@@ -2124,7 +2169,7 @@
       "detailPath": "entities/songs/487b5022f197ce83.json"
     },
     {
-      "rank": 4898,
+      "rank": 4899,
       "id": "d3ced64dc9ed6c74",
       "name": "Downer Witch",
       "secondary": "Ren",
@@ -2169,7 +2214,7 @@
       "detailPath": "entities/songs/d3ced64dc9ed6c74.json"
     },
     {
-      "rank": 4899,
+      "rank": 4900,
       "id": "f3bf27d49e73f904",
       "name": "Drag On",
       "secondary": "LAST ALLIANCE",
@@ -2212,51 +2257,6 @@
         }
       ],
       "detailPath": "entities/songs/f3bf27d49e73f904.json"
-    },
-    {
-      "rank": 4900,
-      "id": "4cc69ba7c8390afc",
-      "name": "DRAGON CARNIVAL",
-      "secondary": "Acid Black Cherry",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Q1vA4yFBOKA",
-          "videoTitle": "【歌枠】Acid Black Cherryばっか歌う枠【#朝ノ瑠璃】",
-          "channelName": "朝ノ姉妹ぷろじぇくと",
-          "publishedAt": "2026-10-06T14:31:07.546Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Q1vA4yFBOKA/hqdefault.jpg",
-          "sourcePath": "sources/Q1/Q1vA4yFBOKA.json",
-          "time": "0:57:35",
-          "seconds": 3455,
-          "songTitle": "DRAGON CARNIVAL",
-          "artist": "Acid Black Cherry"
-        },
-        {
-          "videoId": "DmLwS1U75J4",
-          "videoTitle": "【 #歌枠 】少し長めに好きな曲歌う枠。初見さんも1曲聴いてって！【 #黒切名呼 #くろなこおんえあ 】 ＃Vtuber #karaoke #Vsinger",
-          "channelName": "黒切 名呼 -Kurogiri Nako-",
-          "publishedAt": "2026-10-02T12:09:11.932Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/DmLwS1U75J4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB90Jv_Ql3A8sWu1dsx77UQtlQbGg",
-          "sourcePath": "sources/Dm/DmLwS1U75J4.json",
-          "time": "0:25:48",
-          "seconds": 1548,
-          "songTitle": "DRAGON CARNIVAL",
-          "artist": "Acid Black Cherry"
-        }
-      ],
-      "detailPath": "entities/songs/4cc69ba7c8390afc.json"
     }
   ]
 }

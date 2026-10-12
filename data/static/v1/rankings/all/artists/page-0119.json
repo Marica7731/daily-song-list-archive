@@ -1,16 +1,107 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "artists",
   "page": 119,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20007,
+  "totalCount": 20013,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5901,
+      "id": "9a61252d6c0ee495",
+      "name": "ユリィ・カノン",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "eidHW9GJAYA",
+          "videoTitle": "【歌枠】すみません、歌わせてください【#NUROJUNK】",
+          "channelName": "NUROJUNK",
+          "publishedAt": "2026-09-26T18:02:34.908Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/eidHW9GJAYA/hqdefault.jpg",
+          "sourcePath": "sources/ei/eidHW9GJAYA.json",
+          "time": "1:45:59",
+          "seconds": 6359,
+          "songTitle": "だれかの心臓になれたなら",
+          "artist": "ユリィカノン"
+        },
+        {
+          "videoId": "vRg3V4vh238",
+          "videoTitle": "【歌枠/雑談】突然の歌枠 もったいない症候群【 宵桜燐 / #Vtuber 】",
+          "channelName": "宵桜 燐/Rin Yozakra",
+          "publishedAt": "2026-09-10T13:34:50.358Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vRg3V4vh238/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCQjem3OVLm5cyJcVrun6lRCcVVPg",
+          "sourcePath": "sources/vR/vRg3V4vh238.json",
+          "time": "1:07:22",
+          "seconds": 4042,
+          "songTitle": "スーサイドパレヱド",
+          "artist": "ユリィ・カノン"
+        }
+      ],
+      "detailPath": "entities/artists/9a61252d6c0ee495.json"
+    },
+    {
+      "rank": 5902,
+      "id": "78464834a580f609",
+      "name": "ユルーカ研究所",
+      "secondary": "",
+      "channelId": "UCgKjo_iSJpFmXQypArDztYA",
+      "channelHandle": "@YakonHibana",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Za62u_mwpFQ",
+          "videoTitle": "【#歌枠 #karaoke 】なんと月２回目の歌枠が回ってくるなんて！？！？【9/27】【#Vtuber #個人勢vtuber 】",
+          "channelName": "水篠澪の魔法channel",
+          "publishedAt": "2026-09-27T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Za62u_mwpFQ/hqdefault.jpg",
+          "sourcePath": "sources/Za/Za62u_mwpFQ.json",
+          "time": "0:45:55",
+          "seconds": 2755,
+          "songTitle": "魔法のない世界で生きるということ",
+          "artist": "ユルーカ研究所"
+        },
+        {
+          "videoId": "pN3NWZTN6kY",
+          "videoTitle": "【デビュー8日目 #歌枠】ハロー、君たち【#夜は紺色 #vsinger 】",
+          "channelName": "夜紺 火花 / Yakon Hibana",
+          "publishedAt": "2026-08-14T14:57:57.270Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pN3NWZTN6kY/hqdefault.jpg",
+          "sourcePath": "sources/pN/pN3NWZTN6kY.json",
+          "time": "1:49:53",
+          "seconds": 6593,
+          "songTitle": "Song 13. 魔法のない世界で生きるということ",
+          "artist": "ユルーカ研究所"
+        }
+      ],
+      "detailPath": "entities/artists/78464834a580f609.json"
+    },
+    {
+      "rank": 5903,
       "id": "1bcab2c2fcd7dc83",
       "name": "ヨエコ",
       "secondary": "",
@@ -55,7 +146,7 @@
       "detailPath": "entities/artists/1bcab2c2fcd7dc83.json"
     },
     {
-      "rank": 5902,
+      "rank": 5904,
       "id": "8f392b0f0d7e7b22",
       "name": "ラジオ感覚でどうぞ",
       "secondary": "",
@@ -100,7 +191,7 @@
       "detailPath": "entities/artists/8f392b0f0d7e7b22.json"
     },
     {
-      "rank": 5903,
+      "rank": 5905,
       "id": "a9fa2f9eef72e5a9",
       "name": "ラストアイドル",
       "secondary": "",
@@ -145,7 +236,7 @@
       "detailPath": "entities/artists/a9fa2f9eef72e5a9.json"
     },
     {
-      "rank": 5904,
+      "rank": 5906,
       "id": "5af17e41fb74926d",
       "name": "ランカ・リー＝中島愛（マクロスF）",
       "secondary": "",
@@ -190,7 +281,7 @@
       "detailPath": "entities/artists/5af17e41fb74926d.json"
     },
     {
-      "rank": 5905,
+      "rank": 5907,
       "id": "fb3532095dd82f1b",
       "name": "ランカー・リー=中島愛",
       "secondary": "",
@@ -235,7 +326,7 @@
       "detailPath": "entities/artists/fb3532095dd82f1b.json"
     },
     {
-      "rank": 5906,
+      "rank": 5908,
       "id": "d6a5b871e6fffbc7",
       "name": "りすこ from STAR☆ANIS",
       "secondary": "",
@@ -280,7 +371,7 @@
       "detailPath": "entities/artists/d6a5b871e6fffbc7.json"
     },
     {
-      "rank": 5907,
+      "rank": 5909,
       "id": "3403dd8f235020db",
       "name": "リズム天国",
       "secondary": "",
@@ -322,7 +413,7 @@
       "detailPath": "entities/artists/3403dd8f235020db.json"
     },
     {
-      "rank": 5908,
+      "rank": 5910,
       "id": "4f3947e20fb24e43",
       "name": "りょーくん",
       "secondary": "",
@@ -364,7 +455,7 @@
       "detailPath": "entities/artists/4f3947e20fb24e43.json"
     },
     {
-      "rank": 5909,
+      "rank": 5911,
       "id": "1403432e84892778",
       "name": "りょーすけ「ゼラニウム」",
       "secondary": "",
@@ -409,7 +500,7 @@
       "detailPath": "entities/artists/1403432e84892778.json"
     },
     {
-      "rank": 5910,
+      "rank": 5912,
       "id": "ad06ae708b47aeb3",
       "name": "りょーすけ「月」",
       "secondary": "",
@@ -451,7 +542,7 @@
       "detailPath": "entities/artists/ad06ae708b47aeb3.json"
     },
     {
-      "rank": 5911,
+      "rank": 5913,
       "id": "a396a0e60031e775",
       "name": "リン・ミンメイ",
       "secondary": "",
@@ -493,7 +584,7 @@
       "detailPath": "entities/artists/a396a0e60031e775.json"
     },
     {
-      "rank": 5912,
+      "rank": 5914,
       "id": "1b547f3139997536",
       "name": "るか from AIKATSU☆STARS!",
       "secondary": "",
@@ -538,7 +629,7 @@
       "detailPath": "entities/artists/1b547f3139997536.json"
     },
     {
-      "rank": 5913,
+      "rank": 5915,
       "id": "bf7f81f3503b705c",
       "name": "ルパン三世 PARTIII",
       "secondary": "",
@@ -584,7 +675,7 @@
       "detailPath": "entities/artists/bf7f81f3503b705c.json"
     },
     {
-      "rank": 5914,
+      "rank": 5916,
       "id": "a9a0485b0ae61e23",
       "name": "るろうに剣心 明治剣客浪漫譚 Rurouni Kenshin",
       "secondary": "",
@@ -629,7 +720,7 @@
       "detailPath": "entities/artists/a9a0485b0ae61e23.json"
     },
     {
-      "rank": 5915,
+      "rank": 5917,
       "id": "3aee4e7f04352751",
       "name": "レキシ",
       "secondary": "",
@@ -674,7 +765,7 @@
       "detailPath": "entities/artists/3aee4e7f04352751.json"
     },
     {
-      "rank": 5916,
+      "rank": 5918,
       "id": "68ac558870babe8a",
       "name": "レトベア",
       "secondary": "",
@@ -719,7 +810,7 @@
       "detailPath": "entities/artists/68ac558870babe8a.json"
     },
     {
-      "rank": 5917,
+      "rank": 5919,
       "id": "db690567c1c15c6d",
       "name": "れみ・えり from STAR☆ANIS",
       "secondary": "",
@@ -767,7 +858,7 @@
       "detailPath": "entities/artists/db690567c1c15c6d.json"
     },
     {
-      "rank": 5918,
+      "rank": 5920,
       "id": "bd7a2aba36f7773e",
       "name": "レモネードファクトリー",
       "secondary": "",
@@ -812,7 +903,7 @@
       "detailPath": "entities/artists/bd7a2aba36f7773e.json"
     },
     {
-      "rank": 5919,
+      "rank": 5921,
       "id": "f9461077ec7c35ac",
       "name": "れるりり ／ 初音ミク、鏡音リン、GUMI(2007年)",
       "secondary": "",
@@ -854,7 +945,7 @@
       "detailPath": "entities/artists/f9461077ec7c35ac.json"
     },
     {
-      "rank": 5920,
+      "rank": 5922,
       "id": "9d86e14b5141d356",
       "name": "れるりり 様",
       "secondary": "",
@@ -896,7 +987,7 @@
       "detailPath": "entities/artists/9d86e14b5141d356.json"
     },
     {
-      "rank": 5921,
+      "rank": 5923,
       "id": "7c37367c960b3e2a",
       "name": "れるりり, ロンチーノ=ペペ , かごめP",
       "secondary": "",
@@ -943,7 +1034,7 @@
       "detailPath": "entities/artists/7c37367c960b3e2a.json"
     },
     {
-      "rank": 5922,
+      "rank": 5924,
       "id": "f25bd1a83a1725de",
       "name": "れるりり(当社比P) ／ 初音ミク、GUMI(2012年)",
       "secondary": "",
@@ -989,7 +1080,7 @@
       "detailPath": "entities/artists/f25bd1a83a1725de.json"
     },
     {
-      "rank": 5923,
+      "rank": 5925,
       "id": "6ed5b1821bb2bcbf",
       "name": "れをる・ギガP",
       "secondary": "",
@@ -1037,7 +1128,7 @@
       "detailPath": "entities/artists/6ed5b1821bb2bcbf.json"
     },
     {
-      "rank": 5924,
+      "rank": 5926,
       "id": "3d7d505278449f68",
       "name": "レン starring 楠木ともり",
       "secondary": "",
@@ -1084,7 +1175,7 @@
       "detailPath": "entities/artists/3d7d505278449f68.json"
     },
     {
-      "rank": 5925,
+      "rank": 5927,
       "id": "dbeb6dd21fef6566",
       "name": "ローゼン・メイデン",
       "secondary": "",
@@ -1130,7 +1221,7 @@
       "detailPath": "entities/artists/dbeb6dd21fef6566.json"
     },
     {
-      "rank": 5926,
+      "rank": 5928,
       "id": "fa893fc5fda809b1",
       "name": "ロードス島戦記-英雄騎士伝",
       "secondary": "",
@@ -1178,7 +1269,7 @@
       "detailPath": "entities/artists/fa893fc5fda809b1.json"
     },
     {
-      "rank": 5927,
+      "rank": 5929,
       "id": "7106e977ad59c1a9",
       "name": "ロクデナシ（2023年）",
       "secondary": "",
@@ -1223,7 +1314,7 @@
       "detailPath": "entities/artists/7106e977ad59c1a9.json"
     },
     {
-      "rank": 5928,
+      "rank": 5930,
       "id": "ead5d17553eaca29",
       "name": "ロケット団(ムサシ・コジロウ・ニャース)",
       "secondary": "",
@@ -1268,7 +1359,7 @@
       "detailPath": "entities/artists/ead5d17553eaca29.json"
     },
     {
-      "rank": 5929,
+      "rank": 5931,
       "id": "ba8843cd9d82d991",
       "name": "ロザリオとバンパイアCAPU2",
       "secondary": "",
@@ -1313,7 +1404,7 @@
       "detailPath": "entities/artists/ba8843cd9d82d991.json"
     },
     {
-      "rank": 5930,
+      "rank": 5932,
       "id": "8eada93497e60253",
       "name": "わか・ふうり・ゆな",
       "secondary": "",
@@ -1358,7 +1449,7 @@
       "detailPath": "entities/artists/8eada93497e60253.json"
     },
     {
-      "rank": 5931,
+      "rank": 5933,
       "id": "afb3a66ced11e7e8",
       "name": "わか、ふうり、すなお、れみ、もえ、えり、ゆな、りすこ from STAR☆ANIS",
       "secondary": "",
@@ -1405,7 +1496,7 @@
       "detailPath": "entities/artists/afb3a66ced11e7e8.json"
     },
     {
-      "rank": 5932,
+      "rank": 5934,
       "id": "f65eccd91ac41a34",
       "name": "わたてん☆5",
       "secondary": "",
@@ -1450,7 +1541,7 @@
       "detailPath": "entities/artists/f65eccd91ac41a34.json"
     },
     {
-      "rank": 5933,
+      "rank": 5935,
       "id": "a073fc204b130076",
       "name": "ワンフレーズ",
       "secondary": "",
@@ -1498,7 +1589,7 @@
       "detailPath": "entities/artists/a073fc204b130076.json"
     },
     {
-      "rank": 5934,
+      "rank": 5936,
       "id": "7c4d59bc5d3d3fa6",
       "name": "ヰ世界情緒 2021年",
       "secondary": "",
@@ -1543,7 +1634,7 @@
       "detailPath": "entities/artists/7c4d59bc5d3d3fa6.json"
     },
     {
-      "rank": 5935,
+      "rank": 5937,
       "id": "572702483e18ab14",
       "name": "ヰ世界情緒×花譜",
       "secondary": "",
@@ -1588,7 +1679,7 @@
       "detailPath": "entities/artists/572702483e18ab14.json"
     },
     {
-      "rank": 5936,
+      "rank": 5938,
       "id": "9b867fa69f4f51ae",
       "name": "ん",
       "secondary": "",
@@ -1630,7 +1721,7 @@
       "detailPath": "entities/artists/9b867fa69f4f51ae.json"
     },
     {
-      "rank": 5937,
+      "rank": 5939,
       "id": "eaba6fb14343652b",
       "name": "亜沙 ,重音テト",
       "secondary": "",
@@ -1675,7 +1766,7 @@
       "detailPath": "entities/artists/eaba6fb14343652b.json"
     },
     {
-      "rank": 5938,
+      "rank": 5940,
       "id": "876b28742c5b4faa",
       "name": "亜沙 feat 重音テト（2013年）",
       "secondary": "",
@@ -1721,7 +1812,7 @@
       "detailPath": "entities/artists/876b28742c5b4faa.json"
     },
     {
-      "rank": 5939,
+      "rank": 5941,
       "id": "1ec6c389dd870732",
       "name": "亜紗",
       "secondary": "",
@@ -1766,7 +1857,7 @@
       "detailPath": "entities/artists/1ec6c389dd870732.json"
     },
     {
-      "rank": 5940,
+      "rank": 5942,
       "id": "090e0494ec3c551b",
       "name": "阿良々木月火(cv.井口裕香)",
       "secondary": "",
@@ -1814,7 +1905,7 @@
       "detailPath": "entities/artists/090e0494ec3c551b.json"
     },
     {
-      "rank": 5941,
+      "rank": 5943,
       "id": "83f1bb8fddf90f3d",
       "name": "愛河里花子",
       "secondary": "",
@@ -1859,7 +1950,7 @@
       "detailPath": "entities/artists/83f1bb8fddf90f3d.json"
     },
     {
-      "rank": 5942,
+      "rank": 5944,
       "id": "d28ccaae2705b964",
       "name": "挨拶",
       "secondary": "",
@@ -1904,7 +1995,7 @@
       "detailPath": "entities/artists/d28ccaae2705b964.json"
     },
     {
-      "rank": 5943,
+      "rank": 5945,
       "id": "8b6b18b320a2dd50",
       "name": "逢瀬アキラ",
       "secondary": "",
@@ -1949,7 +2040,7 @@
       "detailPath": "entities/artists/8b6b18b320a2dd50.json"
     },
     {
-      "rank": 5944,
+      "rank": 5946,
       "id": "c011b140e2638370",
       "name": "悪漢奴等",
       "secondary": "",
@@ -1997,7 +2088,7 @@
       "detailPath": "entities/artists/c011b140e2638370.json"
     },
     {
-      "rank": 5945,
+      "rank": 5947,
       "id": "0152ee86c8b2f54e",
       "name": "悪魔くん",
       "secondary": "",
@@ -2042,7 +2133,7 @@
       "detailPath": "entities/artists/0152ee86c8b2f54e.json"
     },
     {
-      "rank": 5946,
+      "rank": 5948,
       "id": "dc55384d165b69eb",
       "name": "悪魔の子",
       "secondary": "",
@@ -2087,7 +2178,7 @@
       "detailPath": "entities/artists/dc55384d165b69eb.json"
     },
     {
-      "rank": 5947,
+      "rank": 5949,
       "id": "24a75c229596a6d8",
       "name": "葦原ユノ starring yu-yu",
       "secondary": "",
@@ -2135,7 +2226,7 @@
       "detailPath": "entities/artists/24a75c229596a6d8.json"
     },
     {
-      "rank": 5948,
+      "rank": 5950,
       "id": "ae294255d632e46a",
       "name": "圧",
       "secondary": "",
@@ -2179,99 +2270,6 @@
         }
       ],
       "detailPath": "entities/artists/ae294255d632e46a.json"
-    },
-    {
-      "rank": 5949,
-      "id": "dbcb412beeba428a",
-      "name": "安部菜々（CV:三宅麻理恵）",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "tKlhvBa7qR8",
-          "videoTitle": "〖 歌枠 〗今月最後の歌枠🎤かわいい曲とかっこいい曲を歌ってこ🎵【 猫山田ここな / 新人Vtuber 】",
-          "channelName": "Kokona Ch. 猫山田ここな",
-          "publishedAt": "2026-09-28T13:13:07.807Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tKlhvBa7qR8/hqdefault.jpg",
-          "sourcePath": "sources/tK/tKlhvBa7qR8.json",
-          "time": "1:05:38",
-          "seconds": 3938,
-          "songTitle": "メルヘンデビュー！",
-          "artist": "安部菜々（CV. 三宅麻理恵）"
-        },
-        {
-          "videoId": "Cdxa9P8Tmys",
-          "videoTitle": "✧︎* 〖 #歌枠┆karaoke 〗⌇夜までゆっくり歌うよ～♡一曲でも聞いていきませんか？ˎˊ˗ （ 双葉ななた ）",
-          "channelName": "双葉ななた - Futaba Nanata -",
-          "publishedAt": "2026-09-21T09:52:01.137Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Cdxa9P8Tmys/hqdefault.jpg",
-          "sourcePath": "sources/Cd/Cdxa9P8Tmys.json",
-          "time": "1:51:16",
-          "seconds": 6676,
-          "songTitle": "メルヘンデビュー！",
-          "artist": "安部菜々（CV:三宅麻理恵）"
-        }
-      ],
-      "detailPath": "entities/artists/dbcb412beeba428a.json"
-    },
-    {
-      "rank": 5950,
-      "id": "171b0064dccda97f",
-      "name": "安部菜々(三宅麻理恵)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8NYktaIh4J0",
-          "videoTitle": "🏮 実写 歌枠｜お祭り騒ぎだ!!コーレスだ!!歌枠だ～～!!! #shorts #Vtuber ∞ 響架",
-          "channelName": "Kyoka Ch. -響架-",
-          "publishedAt": "2026-09-01T16:37:20.947Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8NYktaIh4J0/hqdefault.jpg",
-          "sourcePath": "sources/8N/8NYktaIh4J0.json",
-          "time": "0:37:41",
-          "seconds": 2261,
-          "songTitle": "メルヘンデビュー！",
-          "artist": "安部菜々(三宅麻理恵)"
-        },
-        {
-          "videoId": "u7dUIra5vQE",
-          "videoTitle": "🏮アイマス縛り☆実写歌枠 ｜毎週金曜22:00~🎶ミリオンライブ多めで！歌っていくよっ ∞ 響架",
-          "channelName": "Kyoka Ch. -響架-",
-          "publishedAt": "2026-07-17T15:47:33.852Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/u7dUIra5vQE/hqdefault.jpg",
-          "sourcePath": "sources/u7/u7dUIra5vQE.json",
-          "time": "0:24:10",
-          "seconds": 1450,
-          "songTitle": "メルヘンデビュー！",
-          "artist": "安部菜々(三宅麻理恵)"
-        }
-      ],
-      "detailPath": "entities/artists/171b0064dccda97f.json"
     }
   ]
 }

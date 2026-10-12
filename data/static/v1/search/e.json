@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "items": [
     {
       "id": "e89cb83a3a553c44",
@@ -10,8 +10,8 @@
       "type": "songs",
       "name": "群青",
       "secondary": "YOASOBI",
-      "occurrenceCount": 108,
-      "videoCount": 108,
+      "occurrenceCount": 109,
+      "videoCount": 109,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -37,8 +37,8 @@
           "videoCount": 8
         },
         "30d": {
-          "occurrenceCount": 44,
-          "videoCount": 44
+          "occurrenceCount": 45,
+          "videoCount": 45
         }
       },
       "text": "群青yoasobi"
@@ -1345,8 +1345,8 @@
       "type": "songs",
       "name": "花束",
       "secondary": "back number",
-      "occurrenceCount": 24,
-      "videoCount": 24,
+      "occurrenceCount": 25,
+      "videoCount": 25,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -1368,8 +1368,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 11,
-          "videoCount": 11
+          "occurrenceCount": 12,
+          "videoCount": 12
         }
       },
       "text": "花束backnumber"
@@ -2701,8 +2701,8 @@
       "type": "songs",
       "name": "God knows",
       "secondary": "涼宮ハルヒ",
-      "occurrenceCount": 49,
-      "videoCount": 49,
+      "occurrenceCount": 50,
+      "videoCount": 50,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2719,8 +2719,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 25,
-          "videoCount": 25
+          "occurrenceCount": 26,
+          "videoCount": 26
         }
       },
       "text": "godknows涼宮ハルヒ"
@@ -25122,13 +25122,14 @@
       "type": "songs",
       "name": "上弦の月",
       "secondary": "黒うさP",
-      "occurrenceCount": 2,
-      "videoCount": 2,
+      "occurrenceCount": 3,
+      "videoCount": 3,
       "keywords": [
         "month",
         "mygit_today_snapshot",
         "mygit今日快照",
         "today",
+        "弾き語り",
         "歌枠"
       ],
       "collected": false,
@@ -25136,8 +25137,8 @@
       "detailPath": "entities/songs/efbe37c17d3f278d.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "上弦の月黒うさp"
@@ -72043,6 +72044,58 @@
       "text": "オペラファンタジア桃井はるこ"
     },
     {
+      "id": "ec294a566974e288",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "サリシノハラ",
+      "secondary": "みきとP(キー迷子)",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/ec294a566974e288.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "サリシノハラみきとpキー迷子"
+    },
+    {
+      "id": "e7048233c01b8cbb",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "よくばり",
+      "secondary": "キー迷子",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/e7048233c01b8cbb.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "よくばりキー迷子"
+    },
+    {
       "id": "e4303d656073f756",
       "channelId": "",
       "channelHandle": "",
@@ -77353,8 +77406,8 @@
       "type": "artists",
       "name": "みきとP feat.初音ミク",
       "secondary": "",
-      "occurrenceCount": 204,
-      "videoCount": 186,
+      "occurrenceCount": 205,
+      "videoCount": 187,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -77380,8 +77433,8 @@
           "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 63,
-          "videoCount": 56
+          "occurrenceCount": 64,
+          "videoCount": 57
         }
       },
       "text": "みきとpfeat初音ミク"

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "items": [
     {
       "id": "9fdcfedcf7fab0c7",
@@ -24328,8 +24328,8 @@
       "type": "songs",
       "name": "仮装狂騒曲",
       "secondary": "初星学園",
-      "occurrenceCount": 19,
-      "videoCount": 19,
+      "occurrenceCount": 20,
+      "videoCount": 20,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -24342,8 +24342,8 @@
       "detailPath": "entities/songs/9d5a887dfbc7dd23.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 9,
-          "videoCount": 9
+          "occurrenceCount": 10,
+          "videoCount": 10
         }
       },
       "text": "仮装狂騒曲初星学園"
@@ -78843,8 +78843,8 @@
       "type": "artists",
       "name": "Kanaria",
       "secondary": "",
-      "occurrenceCount": 500,
-      "videoCount": 387,
+      "occurrenceCount": 501,
+      "videoCount": 388,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78866,8 +78866,8 @@
           "videoCount": 11
         },
         "30d": {
-          "occurrenceCount": 200,
-          "videoCount": 158
+          "occurrenceCount": 201,
+          "videoCount": 159
         }
       },
       "text": "kanaria"
@@ -79915,13 +79915,14 @@
       "type": "artists",
       "name": "くじら",
       "secondary": "",
-      "occurrenceCount": 57,
-      "videoCount": 55,
+      "occurrenceCount": 58,
+      "videoCount": 56,
       "keywords": [
         "month",
         "mygit_today_snapshot",
         "mygit今日快照",
         "today",
+        "弾き語り",
         "歌枠"
       ],
       "collected": false,
@@ -79937,8 +79938,8 @@
           "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 33,
-          "videoCount": 31
+          "occurrenceCount": 34,
+          "videoCount": 32
         }
       },
       "text": "くじら"
@@ -114097,6 +114098,32 @@
         }
       },
       "text": "nahikikomorich"
+    },
+    {
+      "id": "93e2f4cd693b2042",
+      "channelId": "UCXQwxHS2eOwWIrITn16K2MQ",
+      "channelHandle": "@marroon0424",
+      "channelUrl": "",
+      "type": "vtubers",
+      "name": "まろん井上ちゃんねる",
+      "secondary": "",
+      "occurrenceCount": 20,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/vtubers/93e2f4cd693b2042.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 20,
+          "videoCount": 1
+        }
+      },
+      "text": "まろん井上ちゃんねる"
     },
     {
       "id": "9b31f68f6e85693b",

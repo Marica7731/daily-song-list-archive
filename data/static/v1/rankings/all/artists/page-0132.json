@@ -1,16 +1,106 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "artists",
   "page": 132,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20007,
+  "totalCount": 20013,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6551,
+      "id": "c74ab2b95f1ae6e6",
+      "name": "蜜くん",
+      "secondary": "",
+      "channelId": "UC6FdB_b3iZ2GCOjiAHpXp4A",
+      "channelHandle": "@vt_tsumimitu",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "mHlFk6XkzLI",
+          "videoTitle": "【歌枠】高校生男女デュオが早口曲特集を歌うよ！初見さん歓迎！【罪蜜】#39",
+          "channelName": "罪ちゃんと蜜くん",
+          "publishedAt": "2026-10-03T12:14:24.147Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mHlFk6XkzLI/hqdefault.jpg",
+          "sourcePath": "sources/mH/mHlFk6XkzLI.json",
+          "time": "0:15:51",
+          "seconds": 951,
+          "songTitle": "ブリキノダンス",
+          "artist": "蜜くん"
+        },
+        {
+          "videoId": "m_2G3XIMcgc",
+          "videoTitle": "【歌枠】高校生男女デュオが得意曲特集を歌うよ！初見さん歓迎！【罪蜜】#38",
+          "channelName": "罪ちゃんと蜜くん",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_2G3XIMcgc/hqdefault.jpg",
+          "sourcePath": "sources/m_/m_2G3XIMcgc.json",
+          "time": "0:15:42",
+          "seconds": 942,
+          "songTitle": "唱",
+          "artist": "蜜くん"
+        }
+      ],
+      "detailPath": "entities/artists/c74ab2b95f1ae6e6.json"
+    },
+    {
+      "rank": 6552,
+      "id": "e9f6ed40d183d9ab",
+      "name": "湊あくあ (2022)（あくありうむ。 OP）",
+      "secondary": "",
+      "channelId": "UC0Qp3yYXP6yahSG28jEOKng",
+      "channelHandle": "@Momoruri_Seiran",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ZCbWqhIfMzk",
+          "videoTitle": "〘 #歌枠 〙あと6日！同接100名様＆3Dライブチケット3枚目標🐦初見さんも大歓迎💙 karaoke / singing stream〘 百瑠璃せいらん / #Vtuber 〙",
+          "channelName": "百瑠璃せいらん / MomoruriSeiran CH.",
+          "publishedAt": "2026-10-05T13:35:46.109Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZCbWqhIfMzk/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLC1_nfnuIDsglfXUb_u9d8BYnKD8Q",
+          "sourcePath": "sources/ZC/ZCbWqhIfMzk.json",
+          "time": "1:25:11",
+          "seconds": 5111,
+          "songTitle": "未だ、青い",
+          "artist": "湊あくあ (2022)（あくありうむ。 OP）"
+        },
+        {
+          "videoId": "IWIreBgwzz0",
+          "videoTitle": "〘 #歌枠 〙初めての3Dライブ来てくれませんか？🐦大好きなお歌をお届け💙 karaoke / singing stream〘 百瑠璃せいらん / #Vtuber 〙",
+          "channelName": "百瑠璃せいらん / MomoruriSeiran CH.",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IWIreBgwzz0/hqdefault.jpg",
+          "sourcePath": "sources/IW/IWIreBgwzz0.json",
+          "time": "1:03:43",
+          "seconds": 3823,
+          "songTitle": "未だ、青い",
+          "artist": "湊あくあ (2022)（あくありうむ。 OP）"
+        }
+      ],
+      "detailPath": "entities/artists/e9f6ed40d183d9ab.json"
+    },
+    {
+      "rank": 6553,
       "id": "37349f7d674673da",
       "name": "湊あくあさん",
       "secondary": "",
@@ -55,7 +145,7 @@
       "detailPath": "entities/artists/37349f7d674673da.json"
     },
     {
-      "rank": 6552,
+      "rank": 6554,
       "id": "01e6fbe0188ca8a4",
       "name": "夢羽ヒメ",
       "secondary": "",
@@ -100,7 +190,7 @@
       "detailPath": "entities/artists/01e6fbe0188ca8a4.json"
     },
     {
-      "rank": 6553,
+      "rank": 6555,
       "id": "74d8b072b83480a9",
       "name": "夢見りあむ",
       "secondary": "",
@@ -145,7 +235,7 @@
       "detailPath": "entities/artists/74d8b072b83480a9.json"
     },
     {
-      "rank": 6554,
+      "rank": 6556,
       "id": "cebfe30c91101152",
       "name": "夢眠ゆらめ",
       "secondary": "",
@@ -190,7 +280,7 @@
       "detailPath": "entities/artists/cebfe30c91101152.json"
     },
     {
-      "rank": 6555,
+      "rank": 6557,
       "id": "bfebd0415e9c3c63",
       "name": "無力P feat.巡音ルカ",
       "secondary": "",
@@ -238,7 +328,7 @@
       "detailPath": "entities/artists/bfebd0415e9c3c63.json"
     },
     {
-      "rank": 6556,
+      "rank": 6558,
       "id": "377d5f31971af936",
       "name": "綿飴 feat.IA",
       "secondary": "",
@@ -280,7 +370,7 @@
       "detailPath": "entities/artists/377d5f31971af936.json"
     },
     {
-      "rank": 6557,
+      "rank": 6559,
       "id": "80ae5883c3ce4728",
       "name": "茂家瑞季",
       "secondary": "",
@@ -325,7 +415,7 @@
       "detailPath": "entities/artists/80ae5883c3ce4728.json"
     },
     {
-      "rank": 6558,
+      "rank": 6560,
       "id": "0710e9f734d0dbda",
       "name": "木村キョウ",
       "secondary": "",
@@ -370,7 +460,7 @@
       "detailPath": "entities/artists/0710e9f734d0dbda.json"
     },
     {
-      "rank": 6559,
+      "rank": 6561,
       "id": "711af0a853f2a02a",
       "name": "木村わいP feat.初音ミク",
       "secondary": "",
@@ -415,7 +505,7 @@
       "detailPath": "entities/artists/711af0a853f2a02a.json"
     },
     {
-      "rank": 6560,
+      "rank": 6562,
       "id": "c819153a6afa2ba7",
       "name": "木村弓 ／ 千と千尋の神隠し(2001年)",
       "secondary": "",
@@ -457,7 +547,7 @@
       "detailPath": "entities/artists/c819153a6afa2ba7.json"
     },
     {
-      "rank": 6561,
+      "rank": 6563,
       "id": "c648414f960a0326",
       "name": "木村弓（フル）",
       "secondary": "",
@@ -499,7 +589,7 @@
       "detailPath": "entities/artists/c648414f960a0326.json"
     },
     {
-      "rank": 6562,
+      "rank": 6564,
       "id": "c0678a49a897492c",
       "name": "木村兄弟 feat.初音ミク",
       "secondary": "",
@@ -544,7 +634,7 @@
       "detailPath": "entities/artists/c0678a49a897492c.json"
     },
     {
-      "rank": 6563,
+      "rank": 6565,
       "id": "cdf9672c3674da0b",
       "name": "夜のひと笑い",
       "secondary": "",
@@ -589,7 +679,7 @@
       "detailPath": "entities/artists/cdf9672c3674da0b.json"
     },
     {
-      "rank": 6564,
+      "rank": 6566,
       "id": "0a372a4b593c515d",
       "name": "夜世生 宵 form 共鳴徒のみなさま 編曲:風街ピリカ 2024年",
       "secondary": "",
@@ -634,7 +724,7 @@
       "detailPath": "entities/artists/0a372a4b593c515d.json"
     },
     {
-      "rank": 6565,
+      "rank": 6567,
       "id": "73092de998a0bee5",
       "name": "野猿",
       "secondary": "",
@@ -679,7 +769,7 @@
       "detailPath": "entities/artists/73092de998a0bee5.json"
     },
     {
-      "rank": 6566,
+      "rank": 6568,
       "id": "187f0caf87c621a7",
       "name": "野川さくら",
       "secondary": "",
@@ -724,7 +814,7 @@
       "detailPath": "entities/artists/187f0caf87c621a7.json"
     },
     {
-      "rank": 6567,
+      "rank": 6569,
       "id": "f6a4d6957b663faf",
       "name": "矢島晶子",
       "secondary": "",
@@ -769,7 +859,7 @@
       "detailPath": "entities/artists/f6a4d6957b663faf.json"
     },
     {
-      "rank": 6568,
+      "rank": 6570,
       "id": "939dcbe49c94a104",
       "name": "矢島美容室 (ラスソン)",
       "secondary": "",
@@ -817,7 +907,7 @@
       "detailPath": "entities/artists/939dcbe49c94a104.json"
     },
     {
-      "rank": 6569,
+      "rank": 6571,
       "id": "5f71dab62a502a87",
       "name": "約6分",
       "secondary": "",
@@ -862,7 +952,7 @@
       "detailPath": "entities/artists/5f71dab62a502a87.json"
     },
     {
-      "rank": 6570,
+      "rank": 6572,
       "id": "e73c09911adf3882",
       "name": "柳生比呂士",
       "secondary": "",
@@ -908,7 +998,7 @@
       "detailPath": "entities/artists/e73c09911adf3882.json"
     },
     {
-      "rank": 6571,
+      "rank": 6573,
       "id": "f94ae358831651b3",
       "name": "優木せつ菜(楠木ともり)",
       "secondary": "",
@@ -954,7 +1044,7 @@
       "detailPath": "entities/artists/f94ae358831651b3.json"
     },
     {
-      "rank": 6572,
+      "rank": 6574,
       "id": "58e05f824bb36e31",
       "name": "優理",
       "secondary": "",
@@ -999,7 +1089,7 @@
       "detailPath": "entities/artists/58e05f824bb36e31.json"
     },
     {
-      "rank": 6573,
+      "rank": 6575,
       "id": "0f61d0b1dd04d10d",
       "name": "優里 ／ 僕のヒーローアカデミア(2024年)",
       "secondary": "",
@@ -1041,7 +1131,7 @@
       "detailPath": "entities/artists/0f61d0b1dd04d10d.json"
     },
     {
-      "rank": 6574,
+      "rank": 6576,
       "id": "799e8589d7d353b9",
       "name": "優里(2020年)",
       "secondary": "",
@@ -1086,7 +1176,7 @@
       "detailPath": "entities/artists/799e8589d7d353b9.json"
     },
     {
-      "rank": 6575,
+      "rank": 6577,
       "id": "c1d9ad59dfba35d0",
       "name": "勇気爆発バーンブレイバーン",
       "secondary": "",
@@ -1131,7 +1221,7 @@
       "detailPath": "entities/artists/c1d9ad59dfba35d0.json"
     },
     {
-      "rank": 6576,
+      "rank": 6578,
       "id": "9e13ca3e25032347",
       "name": "友達つくり隊",
       "secondary": "",
@@ -1176,7 +1266,7 @@
       "detailPath": "entities/artists/9e13ca3e25032347.json"
     },
     {
-      "rank": 6577,
+      "rank": 6579,
       "id": "140f3645874c1f98",
       "name": "幽☆遊☆白書 YuYu Hakusho",
       "secondary": "",
@@ -1224,7 +1314,7 @@
       "detailPath": "entities/artists/140f3645874c1f98.json"
     },
     {
-      "rank": 6578,
+      "rank": 6580,
       "id": "de1abfe57f030fc1",
       "name": "憂歌団",
       "secondary": "",
@@ -1269,7 +1359,7 @@
       "detailPath": "entities/artists/de1abfe57f030fc1.json"
     },
     {
-      "rank": 6579,
+      "rank": 6581,
       "id": "2dd2c182ca4df737",
       "name": "有栖川誉(CV:豊永利行)",
       "secondary": "",
@@ -1315,7 +1405,7 @@
       "detailPath": "entities/artists/2dd2c182ca4df737.json"
     },
     {
-      "rank": 6580,
+      "rank": 6582,
       "id": "45ec171f784d32ec",
       "name": "有村麻央、姫崎莉波",
       "secondary": "",
@@ -1363,7 +1453,7 @@
       "detailPath": "entities/artists/45ec171f784d32ec.json"
     },
     {
-      "rank": 6581,
+      "rank": 6583,
       "id": "087d61a582bf0b57",
       "name": "幼女戦記",
       "secondary": "",
@@ -1411,7 +1501,7 @@
       "detailPath": "entities/artists/087d61a582bf0b57.json"
     },
     {
-      "rank": 6582,
+      "rank": 6584,
       "id": "07e3d68c281c0560",
       "name": "妖精帝國(未来日記)",
       "secondary": "",
@@ -1456,7 +1546,7 @@
       "detailPath": "entities/artists/07e3d68c281c0560.json"
     },
     {
-      "rank": 6583,
+      "rank": 6585,
       "id": "6ed893a5a502be42",
       "name": "妖夢討伐隊 栗山未来 (CV 種田梨沙) 名瀬美月 (CV 茅原実里) 新堂愛 (CV 山岡ゆり)",
       "secondary": "",
@@ -1502,7 +1592,7 @@
       "detailPath": "entities/artists/6ed893a5a502be42.json"
     },
     {
-      "rank": 6584,
+      "rank": 6586,
       "id": "3d371167311b68a2",
       "name": "葉っぱ隊",
       "secondary": "",
@@ -1550,7 +1640,7 @@
       "detailPath": "entities/artists/3d371167311b68a2.json"
     },
     {
-      "rank": 6585,
+      "rank": 6587,
       "id": "12badba747a9cf24",
       "name": "遥紅いも&糸街つむぎ",
       "secondary": "",
@@ -1595,7 +1685,7 @@
       "detailPath": "entities/artists/12badba747a9cf24.json"
     },
     {
-      "rank": 6586,
+      "rank": 6588,
       "id": "fa02be4d2da33ee4",
       "name": "嵐 ARASHI",
       "secondary": "",
@@ -1640,7 +1730,7 @@
       "detailPath": "entities/artists/fa02be4d2da33ee4.json"
     },
     {
-      "rank": 6587,
+      "rank": 6589,
       "id": "4a89ac3e3c90ecff",
       "name": "李浩瑋",
       "secondary": "",
@@ -1685,7 +1775,7 @@
       "detailPath": "entities/artists/4a89ac3e3c90ecff.json"
     },
     {
-      "rank": 6588,
+      "rank": 6590,
       "id": "8aca5030da4fc0f4",
       "name": "離席",
       "secondary": "",
@@ -1730,7 +1820,7 @@
       "detailPath": "entities/artists/8aca5030da4fc0f4.json"
     },
     {
-      "rank": 6589,
+      "rank": 6591,
       "id": "c8a9e076bc59a84c",
       "name": "陸虎",
       "secondary": "",
@@ -1776,7 +1866,7 @@
       "detailPath": "entities/artists/c8a9e076bc59a84c.json"
     },
     {
-      "rank": 6590,
+      "rank": 6592,
       "id": "24b9074f3ce30fa1",
       "name": "立花響 (悠木碧)×キャロル (水瀬いのり)×風鳴翼 (水樹奈々)×雪音クリス (高垣彩陽)",
       "secondary": "",
@@ -1821,7 +1911,7 @@
       "detailPath": "entities/artists/24b9074f3ce30fa1.json"
     },
     {
-      "rank": 6591,
+      "rank": 6593,
       "id": "55718e5923150eb6",
       "name": "立花響(悠木碧)・風鳴翼(水樹奈々)・雪音クリス(高垣彩陽)",
       "secondary": "",
@@ -1867,7 +1957,7 @@
       "detailPath": "entities/artists/55718e5923150eb6.json"
     },
     {
-      "rank": 6592,
+      "rank": 6594,
       "id": "5bea0bc03089b9e7",
       "name": "流川慈綺",
       "secondary": "",
@@ -1909,7 +1999,7 @@
       "detailPath": "entities/artists/5bea0bc03089b9e7.json"
     },
     {
-      "rank": 6593,
+      "rank": 6595,
       "id": "55c9576cc04789ae",
       "name": "流田Project(釘宮理恵,堀江由衣,喜多村英梨) NagaretaProject",
       "secondary": "",
@@ -1957,7 +2047,7 @@
       "detailPath": "entities/artists/55c9576cc04789ae.json"
     },
     {
-      "rank": 6594,
+      "rank": 6596,
       "id": "219e04916c2fffb6",
       "name": "梁詠琪",
       "secondary": "",
@@ -2002,7 +2092,7 @@
       "detailPath": "entities/artists/219e04916c2fffb6.json"
     },
     {
-      "rank": 6595,
+      "rank": 6597,
       "id": "cbd7445e4f7ebfea",
       "name": "涼宮ハルヒ(CV.平野綾) (2006年)",
       "secondary": "",
@@ -2050,7 +2140,7 @@
       "detailPath": "entities/artists/cbd7445e4f7ebfea.json"
     },
     {
-      "rank": 6596,
+      "rank": 6598,
       "id": "6c51b95926030993",
       "name": "涼宮ハルヒ(平野綾) ／ 涼宮ハルヒの憂鬱(2006年)",
       "secondary": "",
@@ -2098,7 +2188,7 @@
       "detailPath": "entities/artists/6c51b95926030993.json"
     },
     {
-      "rank": 6597,
+      "rank": 6599,
       "id": "ba7a166fd3d65378",
       "name": "涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子) (涼宮ハルヒの憂鬱)",
       "secondary": "",
@@ -2143,7 +2233,7 @@
       "detailPath": "entities/artists/ba7a166fd3d65378.json"
     },
     {
-      "rank": 6598,
+      "rank": 6600,
       "id": "17cfde10b935a85e",
       "name": "涼宮ハルヒ(平野綾)様",
       "secondary": "",
@@ -2186,101 +2276,6 @@
         }
       ],
       "detailPath": "entities/artists/17cfde10b935a85e.json"
-    },
-    {
-      "rank": 6599,
-      "id": "91226ed35ab5c0c6",
-      "name": "涼風真世",
-      "secondary": "",
-      "channelId": "UCqsS32C_llpT2ia5S1Oh44A",
-      "channelHandle": "@suzume_mikagura",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "1VW3SKQqgf8",
-          "videoTitle": "【歌枠┊KARAOKE】アニソン老人会で日曜定期！回覧板まわして～～！！【Vsinger Vtuber┊御神楽すずめ】",
-          "channelName": "御神楽すずめ / Mikagura Suzume",
-          "publishedAt": "2026-09-06T10:52:32.259Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1VW3SKQqgf8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBLsf9_qQdt9W06UVh6dJRktlM3yQ",
-          "sourcePath": "sources/1V/1VW3SKQqgf8.json",
-          "time": "2:29:26",
-          "seconds": 8966,
-          "songTitle": "涙は知っている",
-          "artist": "涼風真世"
-        },
-        {
-          "videoId": "2X8-6nOVGPg",
-          "videoTitle": "【歌枠】ノスタルジックなアニソン堪能しませんか？【Vsinger Vtuber┊御神楽すずめ】",
-          "channelName": "御神楽すずめ / Mikagura Suzume",
-          "publishedAt": "2026-07-19T10:50:36.737Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2X8-6nOVGPg/hqdefault.jpg",
-          "sourcePath": "sources/2X/2X8-6nOVGPg.json",
-          "time": "1:27:46",
-          "seconds": 5266,
-          "songTitle": "涙は知っている",
-          "artist": "涼風真世"
-        }
-      ],
-      "detailPath": "entities/artists/91226ed35ab5c0c6.json"
-    },
-    {
-      "rank": 6600,
-      "id": "657d9a6e29afb5c1",
-      "name": "涼野いと cv. 小松未可子 ※JOYSOUND",
-      "secondary": "",
-      "channelId": "UCMkM16XdJaMyud7znSAIRWA",
-      "channelHandle": "@larmereveluage",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "_E-iVL7KYYI",
-          "videoTitle": "〖 #歌枠 #Karaoke 〗アイドルアニメのクール曲縛りで歌う⋆˙⟡〖 #新人Vtuber｜ラルム・レーヴ・リュアージュ 〗",
-          "channelName": "ラルム・レーヴ・リュアージュ / Larme Rêve Luage",
-          "publishedAt": "2026-09-05T16:14:19.785Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_E-iVL7KYYI/hqdefault.jpg",
-          "sourcePath": "sources/_E/_E-iVL7KYYI.json",
-          "time": "2:12:03",
-          "seconds": 7923,
-          "songTitle": "BT37. 5",
-          "artist": "涼野いと cv. 小松未可子 ※JOYSOUND"
-        },
-        {
-          "videoId": "1V12T1s2-cc",
-          "videoTitle": "〖 #歌枠 #Karaoke 〗あぢい歌枠〖 #新人Vtuber｜ラルム・レーヴ・リュアージュ 〗",
-          "channelName": "ラルム・レーヴ・リュアージュ / Larme Rêve Luage",
-          "publishedAt": "2026-07-11T14:49:09.045Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1V12T1s2-cc/hqdefault.jpg",
-          "sourcePath": "sources/1V/1V12T1s2-cc.json",
-          "time": "2:06:22",
-          "seconds": 7582,
-          "songTitle": "BT37. 5",
-          "artist": "涼野いと cv. 小松未可子 ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/artists/657d9a6e29afb5c1.json"
     }
   ]
 }

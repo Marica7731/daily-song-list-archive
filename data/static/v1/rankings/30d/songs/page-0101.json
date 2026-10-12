@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "songs",
   "page": 101,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27672,
+  "totalCount": 27684,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5001,
+      "id": "e412d5c863d5a3a6",
+      "name": "HANAJI",
+      "secondary": "小林ゆう",
+      "channelId": "UCOH_aUbxoffqXed4jPqaBsw",
+      "channelHandle": "@sakurabahonoa",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "B0XlX1LIGe0",
+          "videoTitle": "【歌枠】歌える歌‼歌いまっす！✨【#陽織しゅうか #新人vtuber 】",
+          "channelName": "陽織しゅうか / Hiori Syuka",
+          "publishedAt": "2026-09-27T07:54:51.348Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/B0XlX1LIGe0/hqdefault.jpg",
+          "sourcePath": "sources/B0/B0XlX1LIGe0.json",
+          "time": "1:49:43",
+          "seconds": 6583,
+          "songTitle": "HANAJI",
+          "artist": "小林ゆう"
+        },
+        {
+          "videoId": "Iqt9q84UaOM",
+          "videoTitle": "【歌枠/KARAOKE】目指せ4150人！歌うし話す！Singing stream #桜唄便 07【縁=EN/桜羽ほのあ】",
+          "channelName": "Sakuraba Honoa Ch. 桜羽ほのあ",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Iqt9q84UaOM/hqdefault.jpg",
+          "sourcePath": "sources/Iq/Iqt9q84UaOM.json",
+          "time": "3:33:33",
+          "seconds": 12813,
+          "songTitle": "HANAJI",
+          "artist": "小林ゆう"
+        }
+      ],
+      "detailPath": "entities/songs/e412d5c863d5a3a6.json"
+    },
+    {
+      "rank": 5002,
       "id": "6014007561402578",
       "name": "hands",
       "secondary": "倖田來未",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/6014007561402578.json"
     },
     {
-      "rank": 5002,
+      "rank": 5003,
       "id": "90fb5db774e59caa",
       "name": "Happiness Umbrella",
       "secondary": "ロクデナシ",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/90fb5db774e59caa.json"
     },
     {
-      "rank": 5003,
+      "rank": 5004,
       "id": "fd534b91f78c64be",
       "name": "HAPPY BIRTHDAY",
       "secondary": "",
@@ -145,7 +190,7 @@
       "detailPath": "entities/songs/fd534b91f78c64be.json"
     },
     {
-      "rank": 5004,
+      "rank": 5005,
       "id": "477044d8992ff6cd",
       "name": "Happy Birthday to You",
       "secondary": "",
@@ -190,7 +235,7 @@
       "detailPath": "entities/songs/477044d8992ff6cd.json"
     },
     {
-      "rank": 5005,
+      "rank": 5006,
       "id": "63ce38905849830c",
       "name": "Happy Girl",
       "secondary": "喜多村英梨",
@@ -235,7 +280,7 @@
       "detailPath": "entities/songs/63ce38905849830c.json"
     },
     {
-      "rank": 5006,
+      "rank": 5007,
       "id": "29541a7d3e3787c7",
       "name": "happy pooppin' party time",
       "secondary": "NAGi",
@@ -280,7 +325,7 @@
       "detailPath": "entities/songs/29541a7d3e3787c7.json"
     },
     {
-      "rank": 5007,
+      "rank": 5008,
       "id": "904edeb1ac94b47a",
       "name": "Happy Strawberry",
       "secondary": "小倉唯",
@@ -325,7 +370,7 @@
       "detailPath": "entities/songs/904edeb1ac94b47a.json"
     },
     {
-      "rank": 5008,
+      "rank": 5009,
       "id": "367e9d81477fef6a",
       "name": "HARUKAZE",
       "secondary": "SCANDAL",
@@ -370,7 +415,7 @@
       "detailPath": "entities/songs/367e9d81477fef6a.json"
     },
     {
-      "rank": 5009,
+      "rank": 5010,
       "id": "882dc75df44b98c7",
       "name": "HATENA",
       "secondary": "PENGUIN RESEARCH",
@@ -415,7 +460,7 @@
       "detailPath": "entities/songs/882dc75df44b98c7.json"
     },
     {
-      "rank": 5010,
+      "rank": 5011,
       "id": "abf3c201c0a7c571",
       "name": "Heartful Song",
       "secondary": "ほしな歌唄（CV: 水樹奈々）",
@@ -460,7 +505,7 @@
       "detailPath": "entities/songs/abf3c201c0a7c571.json"
     },
     {
-      "rank": 5011,
+      "rank": 5012,
       "id": "7d0c1bfd3a280108",
       "name": "HEARTの形状",
       "secondary": "B∀G",
@@ -505,7 +550,7 @@
       "detailPath": "entities/songs/7d0c1bfd3a280108.json"
     },
     {
-      "rank": 5012,
+      "rank": 5013,
       "id": "6485edc647f82525",
       "name": "HEAVEN",
       "secondary": "はりーP",
@@ -550,7 +595,7 @@
       "detailPath": "entities/songs/6485edc647f82525.json"
     },
     {
-      "rank": 5013,
+      "rank": 5014,
       "id": "e84985b0a241d005",
       "name": "Hello",
       "secondary": "Adele",
@@ -595,7 +640,7 @@
       "detailPath": "entities/songs/e84985b0a241d005.json"
     },
     {
-      "rank": 5014,
+      "rank": 5015,
       "id": "e3876c51dda2279c",
       "name": "HELLO",
       "secondary": "",
@@ -640,7 +685,7 @@
       "detailPath": "entities/songs/e3876c51dda2279c.json"
     },
     {
-      "rank": 5015,
+      "rank": 5016,
       "id": "85ea4846a28474c2",
       "name": "Help me, ERINNNNNN!",
       "secondary": "",
@@ -685,7 +730,7 @@
       "detailPath": "entities/songs/85ea4846a28474c2.json"
     },
     {
-      "rank": 5016,
+      "rank": 5017,
       "id": "fc5a61ec27c7a209",
       "name": "HELP!!",
       "secondary": "こぼ・かなえる",
@@ -730,7 +775,7 @@
       "detailPath": "entities/songs/fc5a61ec27c7a209.json"
     },
     {
-      "rank": 5017,
+      "rank": 5018,
       "id": "8ebf0ccf08505264",
       "name": "Henceforth",
       "secondary": "Orangestar feat. IA",
@@ -776,7 +821,7 @@
       "detailPath": "entities/songs/8ebf0ccf08505264.json"
     },
     {
-      "rank": 5018,
+      "rank": 5019,
       "id": "37255aef82b86554",
       "name": "Hero",
       "secondary": "Mariah Carey",
@@ -821,7 +866,7 @@
       "detailPath": "entities/songs/37255aef82b86554.json"
     },
     {
-      "rank": 5019,
+      "rank": 5020,
       "id": "693c17f377d0c52a",
       "name": "HERO",
       "secondary": "Mr.Children",
@@ -866,7 +911,7 @@
       "detailPath": "entities/songs/693c17f377d0c52a.json"
     },
     {
-      "rank": 5020,
+      "rank": 5021,
       "id": "62826995de73334d",
       "name": "Hero too",
       "secondary": "KYOKA JIRO Starring Chrissy Costanza",
@@ -911,7 +956,7 @@
       "detailPath": "entities/songs/62826995de73334d.json"
     },
     {
-      "rank": 5021,
+      "rank": 5022,
       "id": "aaea289ed4b78b03",
       "name": "Hi FiVE!",
       "secondary": "LiSA",
@@ -956,7 +1001,7 @@
       "detailPath": "entities/songs/aaea289ed4b78b03.json"
     },
     {
-      "rank": 5022,
+      "rank": 5023,
       "id": "20a410b39dbbd175",
       "name": "HiBiKi Au Uta♪",
       "secondary": "キュアアイドル（松岡美里）＆キュアウインク（髙橋ミナミ）＆キュアキュンキュン（高森奈津美）＆キュアズキューン（南條愛乃）＆キュアキッス（花井美春）",
@@ -1001,7 +1046,7 @@
       "detailPath": "entities/songs/20a410b39dbbd175.json"
     },
     {
-      "rank": 5023,
+      "rank": 5024,
       "id": "8a1533308b20da21",
       "name": "HIGHSCHOOL OF THE DEAD",
       "secondary": "岸田教団＆THE明星ロケッツ",
@@ -1046,7 +1091,7 @@
       "detailPath": "entities/songs/8a1533308b20da21.json"
     },
     {
-      "rank": 5024,
+      "rank": 5025,
       "id": "48be4f11b4876397",
       "name": "HiHiハイテンション！",
       "secondary": "夏色まつり",
@@ -1091,7 +1136,7 @@
       "detailPath": "entities/songs/48be4f11b4876397.json"
     },
     {
-      "rank": 5025,
+      "rank": 5026,
       "id": "c4f3f445dcbad405",
       "name": "Home Sweet Home feat. KMNZ LIZ",
       "secondary": "Neko Hacker",
@@ -1136,7 +1181,7 @@
       "detailPath": "entities/songs/c4f3f445dcbad405.json"
     },
     {
-      "rank": 5026,
+      "rank": 5027,
       "id": "aad331666ba6eadf",
       "name": "Honey",
       "secondary": "chihiro",
@@ -1178,7 +1223,7 @@
       "detailPath": "entities/songs/aad331666ba6eadf.json"
     },
     {
-      "rank": 5027,
+      "rank": 5028,
       "id": "50814157a7b25f6d",
       "name": "Hope",
       "secondary": "安室奈美恵",
@@ -1223,7 +1268,7 @@
       "detailPath": "entities/songs/50814157a7b25f6d.json"
     },
     {
-      "rank": 5028,
+      "rank": 5029,
       "id": "327e1aea130e57aa",
       "name": "Hoshikuzu Venus",
       "secondary": "Aimer",
@@ -1269,7 +1314,7 @@
       "detailPath": "entities/songs/327e1aea130e57aa.json"
     },
     {
-      "rank": 5029,
+      "rank": 5030,
       "id": "e2518036e7f98181",
       "name": "HOTEL PACIFIC",
       "secondary": "サザンオールスターズ",
@@ -1314,7 +1359,7 @@
       "detailPath": "entities/songs/e2518036e7f98181.json"
     },
     {
-      "rank": 5030,
+      "rank": 5031,
       "id": "6fd156a03d7007ad",
       "name": "How crazy",
       "secondary": "YUI",
@@ -1359,7 +1404,7 @@
       "detailPath": "entities/songs/6fd156a03d7007ad.json"
     },
     {
-      "rank": 5031,
+      "rank": 5032,
       "id": "f3051da8c08491de",
       "name": "How to go",
       "secondary": "School Food Punishment",
@@ -1405,7 +1450,7 @@
       "detailPath": "entities/songs/f3051da8c08491de.json"
     },
     {
-      "rank": 5032,
+      "rank": 5033,
       "id": "4c9395a4378365d6",
       "name": "Howling",
       "secondary": "大神ミオ",
@@ -1450,7 +1495,7 @@
       "detailPath": "entities/songs/4c9395a4378365d6.json"
     },
     {
-      "rank": 5033,
+      "rank": 5034,
       "id": "d5c97e84167582b8",
       "name": "https",
       "secondary": "youtube.com/live/cYthAVttDp8",
@@ -1492,7 +1537,7 @@
       "detailPath": "entities/songs/d5c97e84167582b8.json"
     },
     {
-      "rank": 5034,
+      "rank": 5035,
       "id": "cbd5a6a2746fb578",
       "name": "Hug",
       "secondary": "Mrs. GREEN APPLE",
@@ -1538,7 +1583,7 @@
       "detailPath": "entities/songs/cbd5a6a2746fb578.json"
     },
     {
-      "rank": 5035,
+      "rank": 5036,
       "id": "cb347ed3ec694c6a",
       "name": "Hug",
       "secondary": "MIMI",
@@ -1583,7 +1628,7 @@
       "detailPath": "entities/songs/cb347ed3ec694c6a.json"
     },
     {
-      "rank": 5036,
+      "rank": 5037,
       "id": "c4a09a7c3662820c",
       "name": "Hysteric Bullet",
       "secondary": "GARNiDELiA",
@@ -1628,7 +1673,7 @@
       "detailPath": "entities/songs/c4a09a7c3662820c.json"
     },
     {
-      "rank": 5037,
+      "rank": 5038,
       "id": "9f213aabc47c5dd4",
       "name": "I",
       "secondary": "",
@@ -1670,7 +1715,7 @@
       "detailPath": "entities/songs/9f213aabc47c5dd4.json"
     },
     {
-      "rank": 5038,
+      "rank": 5039,
       "id": "8ae021784791350a",
       "name": "I am",
       "secondary": "hitomi",
@@ -1715,7 +1760,7 @@
       "detailPath": "entities/songs/8ae021784791350a.json"
     },
     {
-      "rank": 5039,
+      "rank": 5040,
       "id": "243e3c08565031f8",
       "name": "I AM EP",
       "secondary": "Aimer",
@@ -1760,7 +1805,7 @@
       "detailPath": "entities/songs/243e3c08565031f8.json"
     },
     {
-      "rank": 5040,
+      "rank": 5041,
       "id": "4b16dcf29cb1b108",
       "name": "I for You",
       "secondary": "LUNA SEA",
@@ -1805,7 +1850,7 @@
       "detailPath": "entities/songs/4b16dcf29cb1b108.json"
     },
     {
-      "rank": 5041,
+      "rank": 5042,
       "id": "124adab7841c6900",
       "name": "I gotta go",
       "secondary": "milet",
@@ -1850,7 +1895,7 @@
       "detailPath": "entities/songs/124adab7841c6900.json"
     },
     {
-      "rank": 5042,
+      "rank": 5043,
       "id": "1de3841bed72418d",
       "name": "I'm here saying nothing",
       "secondary": "矢井田瞳",
@@ -1892,7 +1937,7 @@
       "detailPath": "entities/songs/1de3841bed72418d.json"
     },
     {
-      "rank": 5043,
+      "rank": 5044,
       "id": "13a08f034ae8a299",
       "name": "I'ts Just Love!",
       "secondary": "大石ルミ",
@@ -1934,7 +1979,7 @@
       "detailPath": "entities/songs/13a08f034ae8a299.json"
     },
     {
-      "rank": 5044,
+      "rank": 5045,
       "id": "cf4a7cc0b063af21",
       "name": "Ib］-again",
       "secondary": "コウ",
@@ -1979,7 +2024,7 @@
       "detailPath": "entities/songs/cf4a7cc0b063af21.json"
     },
     {
-      "rank": 5045,
+      "rank": 5046,
       "id": "2fb0c6852c89c1b5",
       "name": "Idol",
       "secondary": "YOASOBI",
@@ -2024,7 +2069,7 @@
       "detailPath": "entities/songs/2fb0c6852c89c1b5.json"
     },
     {
-      "rank": 5046,
+      "rank": 5047,
       "id": "eeaec68c2bad3fba",
       "name": "IMAGINARY LIKE THE JUSTICE",
       "secondary": "ナナホシ管弦楽団 feat. GUMI",
@@ -2069,7 +2114,7 @@
       "detailPath": "entities/songs/eeaec68c2bad3fba.json"
     },
     {
-      "rank": 5047,
+      "rank": 5048,
       "id": "0853305f07c4e763",
       "name": "Imagination",
       "secondary": "SPYAIR",
@@ -2114,7 +2159,7 @@
       "detailPath": "entities/songs/0853305f07c4e763.json"
     },
     {
-      "rank": 5048,
+      "rank": 5049,
       "id": "6e2f327589dcfb6d",
       "name": "IMMORAL",
       "secondary": "川田まみ",
@@ -2161,7 +2206,7 @@
       "detailPath": "entities/songs/6e2f327589dcfb6d.json"
     },
     {
-      "rank": 5049,
+      "rank": 5050,
       "id": "02b994565cdd6d35",
       "name": "In My Room",
       "secondary": "宇多田ヒカル",
@@ -2205,51 +2250,6 @@
         }
       ],
       "detailPath": "entities/songs/02b994565cdd6d35.json"
-    },
-    {
-      "rank": 5050,
-      "id": "829c361e65768758",
-      "name": "IN MY WORLD",
-      "secondary": "ROOKiEZ is PUNK'D",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "MAh7dh9FBkY",
-          "videoTitle": "【#歌枠】”リハビリ”ライブ前日‼️チケット販促歌枠🎤✨初見さん大歓迎✨～死神系VTubeの原点回帰44日目～ #新人vtuber #vsinger #歌枠",
-          "channelName": "骸リノア／Mukuro Rinoa Ch",
-          "publishedAt": "2026-09-22T13:41:35.623Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MAh7dh9FBkY/hqdefault.jpg",
-          "sourcePath": "sources/MA/MAh7dh9FBkY.json",
-          "time": "1:33:51",
-          "seconds": 5631,
-          "songTitle": "IN MY WORLD",
-          "artist": "ROOKiEZ is PUNK'D"
-        },
-        {
-          "videoId": "rZ3X9MDwvsM",
-          "videoTitle": "【#歌枠】久しぶりの自由歌枠～！ただ歌いたい曲を好きなだけ【#碧凪しの/個人Vtuber】",
-          "channelName": "碧凪しの / Aonagi Shino",
-          "publishedAt": "2026-09-21T07:52:01.137Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rZ3X9MDwvsM/hqdefault.jpg",
-          "sourcePath": "sources/rZ/rZ3X9MDwvsM.json",
-          "time": "1:08:44",
-          "seconds": 4124,
-          "songTitle": "IN MY WORLD",
-          "artist": "ROOKiEZ is PUNK'D"
-        }
-      ],
-      "detailPath": "entities/songs/829c361e65768758.json"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "artists",
   "page": 6,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20007,
+  "totalCount": 20013,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1913,6 +1913,67 @@
     },
     {
       "rank": 282,
+      "id": "c9201777534e0530",
+      "name": "てにをは",
+      "secondary": "",
+      "channelId": "UCqe0-vqZwAvZUb22wCMu1fA",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 102,
+      "videoCount": 101,
+      "songCount": 10,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "pNr6a6VYO8k",
+          "videoTitle": "【#歌枠】1曲聴いてって🎧喉のリハビリ！ゆったり歌います🎤 #ねえねえLOVOさん｜Singing Stream #karaoke",
+          "channelName": "LOVO",
+          "publishedAt": "2026-10-09T14:51:25.390Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pNr6a6VYO8k/hqdefault.jpg",
+          "sourcePath": "sources/pN/pNr6a6VYO8k.json",
+          "time": "0:27:34",
+          "seconds": 1654,
+          "songTitle": "ザムザ",
+          "artist": "てにをは"
+        },
+        {
+          "videoId": "jTWFTFu644s",
+          "videoTitle": "【#歌枠 * song】ワンマンライブのチケットが販売開始するようです🎤✨【ぱわーぼいすVtuber／彷徨鈴】",
+          "channelName": "彷徨 鈴【Samayoi Suzu】",
+          "publishedAt": "2026-10-07T17:24:25.854Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jTWFTFu644s/hqdefault.jpg",
+          "sourcePath": "sources/jT/jTWFTFu644s.json",
+          "time": "2:47:07",
+          "seconds": 10027,
+          "songTitle": "ザムザ",
+          "artist": "てにをは"
+        },
+        {
+          "videoId": "WWI9Bdgn-24",
+          "videoTitle": "【歌枠｜KARAOKE】久しぶりの縦型歌枠！！のんびり歌うよ～！【見習い天使系VTuber｜#星彩らいむ☆ 】#shorts",
+          "channelName": "星彩らいむ☆／SeisaiRaimu",
+          "publishedAt": "2026-10-07T16:24:25.854Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WWI9Bdgn-24/hqdefault.jpg",
+          "sourcePath": "sources/WW/WWI9Bdgn-24.json",
+          "time": "1:31:53",
+          "seconds": 5513,
+          "songTitle": "ザムザ",
+          "artist": "てにをは"
+        }
+      ],
+      "detailPath": "entities/artists/c9201777534e0530.json"
+    },
+    {
+      "rank": 283,
       "id": "285ad7d991a2537b",
       "name": "川崎鷹也",
       "secondary": "",
@@ -1973,7 +2034,7 @@
       "detailPath": "entities/artists/285ad7d991a2537b.json"
     },
     {
-      "rank": 283,
+      "rank": 284,
       "id": "ebb2edddca746209",
       "name": "きのこ帝国",
       "secondary": "",
@@ -2034,7 +2095,7 @@
       "detailPath": "entities/artists/ebb2edddca746209.json"
     },
     {
-      "rank": 284,
+      "rank": 285,
       "id": "1eab9adc509ac40a",
       "name": "田村直美",
       "secondary": "",
@@ -2096,7 +2157,7 @@
       "detailPath": "entities/artists/1eab9adc509ac40a.json"
     },
     {
-      "rank": 285,
+      "rank": 286,
       "id": "c21fc60b61fd03ec",
       "name": "GARNET CROW",
       "secondary": "",
@@ -2157,7 +2218,7 @@
       "detailPath": "entities/artists/c21fc60b61fd03ec.json"
     },
     {
-      "rank": 286,
+      "rank": 287,
       "id": "4fbd399286519640",
       "name": "sumika",
       "secondary": "",
@@ -2216,66 +2277,6 @@
         }
       ],
       "detailPath": "entities/artists/4fbd399286519640.json"
-    },
-    {
-      "rank": 287,
-      "id": "c9201777534e0530",
-      "name": "てにをは",
-      "secondary": "",
-      "channelId": "UCqe0-vqZwAvZUb22wCMu1fA",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 101,
-      "videoCount": 100,
-      "songCount": 10,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "pNr6a6VYO8k",
-          "videoTitle": "【#歌枠】1曲聴いてって🎧喉のリハビリ！ゆったり歌います🎤 #ねえねえLOVOさん｜Singing Stream #karaoke",
-          "channelName": "LOVO",
-          "publishedAt": "2026-10-09T14:51:25.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/pNr6a6VYO8k/hqdefault.jpg",
-          "sourcePath": "sources/pN/pNr6a6VYO8k.json",
-          "time": "0:27:34",
-          "seconds": 1654,
-          "songTitle": "ザムザ",
-          "artist": "てにをは"
-        },
-        {
-          "videoId": "jTWFTFu644s",
-          "videoTitle": "【#歌枠 * song】ワンマンライブのチケットが販売開始するようです🎤✨【ぱわーぼいすVtuber／彷徨鈴】",
-          "channelName": "彷徨 鈴【Samayoi Suzu】",
-          "publishedAt": "2026-10-07T17:24:25.854Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jTWFTFu644s/hqdefault.jpg",
-          "sourcePath": "sources/jT/jTWFTFu644s.json",
-          "time": "2:47:07",
-          "seconds": 10027,
-          "songTitle": "ザムザ",
-          "artist": "てにをは"
-        },
-        {
-          "videoId": "WWI9Bdgn-24",
-          "videoTitle": "【歌枠｜KARAOKE】久しぶりの縦型歌枠！！のんびり歌うよ～！【見習い天使系VTuber｜#星彩らいむ☆ 】#shorts",
-          "channelName": "星彩らいむ☆／SeisaiRaimu",
-          "publishedAt": "2026-10-07T16:24:25.854Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/WWI9Bdgn-24/hqdefault.jpg",
-          "sourcePath": "sources/WW/WWI9Bdgn-24.json",
-          "time": "1:31:53",
-          "seconds": 5513,
-          "songTitle": "ザムザ",
-          "artist": "てにをは"
-        }
-      ],
-      "detailPath": "entities/artists/c9201777534e0530.json"
     },
     {
       "rank": 288,

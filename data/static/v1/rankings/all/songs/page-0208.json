@@ -1,16 +1,106 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 208,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 10351,
+      "id": "1a0295b278b3ee71",
+      "name": "ENDROLL",
+      "secondary": "川上洋平×SennaRin",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "yft-1cYUAu0",
+          "videoTitle": "【#歌枠 】深夜のガンダム縛り歌枠🪐 初見さんも大歓迎✨【華白あらみ】#shorts #karaoke",
+          "channelName": "華白あらみ / Arami ch.",
+          "publishedAt": "2026-10-03T18:02:27.264Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yft-1cYUAu0/hqdefault.jpg",
+          "sourcePath": "sources/yf/yft-1cYUAu0.json",
+          "time": "2:01:23",
+          "seconds": 7283,
+          "songTitle": "ENDROLL",
+          "artist": "川上洋平×SennaRin"
+        },
+        {
+          "videoId": "PbAaMIF2L4c",
+          "videoTitle": "【#耐久 歌枠 】高評価300耐久達成で嬉しい告知あり！！！歌枠💐初見さんも大歓迎！！【華白あらみ】#vsinger",
+          "channelName": "華白あらみ / Arami ch.",
+          "publishedAt": "2026-09-12T12:31:53.975Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PbAaMIF2L4c/hqdefault.jpg",
+          "sourcePath": "sources/Pb/PbAaMIF2L4c.json",
+          "time": "6:45:50",
+          "seconds": 24350,
+          "songTitle": "ENDROLL",
+          "artist": "川上洋平×SennaRin"
+        }
+      ],
+      "detailPath": "entities/songs/1a0295b278b3ee71.json"
+    },
+    {
+      "rank": 10352,
+      "id": "6fa315c228f890e7",
+      "name": "ENERGY",
+      "secondary": "earthmind",
+      "channelId": "UCLIEOGtrywxsLztMPPKtfkA",
+      "channelHandle": "@RaraTakanashi",
+      "channelUrl": "https://www.youtube.com/@RaraTakanashi",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "karaoke",
+        "歌"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "NNs-1_qtecM",
+          "videoTitle": "【 歌枠┆KARAOKE 】2010年代アニメソング歌枠！みんなの好きなアニソンも教えて～！",
+          "channelName": "Rara Channel",
+          "publishedAt": "2025-10-05T22:33:45.607Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NNs-1_qtecM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlyVn5JeyuYbiCTVrQxoxSsrBuVg",
+          "sourcePath": "sources/NN/NNs-1_qtecM.json",
+          "time": "0:09:34",
+          "seconds": 574,
+          "songTitle": "ENERGY",
+          "artist": "earthmind"
+        },
+        {
+          "videoId": "0qfRS-FHNAg",
+          "videoTitle": "【 歌枠 / KARAOKE 】アニメソング歌枠！初見さん歓迎◎【VTuber】",
+          "channelName": "Rara Channel",
+          "publishedAt": "2024-10-05T22:33:45.607Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0qfRS-FHNAg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn6lU4-YA7HacwpE3Ljp2VkuVyZg",
+          "sourcePath": "sources/0q/0qfRS-FHNAg.json",
+          "time": "1:16:50",
+          "seconds": 4610,
+          "songTitle": "ENERGY",
+          "artist": "earthmind"
+        }
+      ],
+      "detailPath": "entities/songs/6fa315c228f890e7.json"
+    },
+    {
+      "rank": 10353,
       "id": "5f28a114b2d9cec3",
       "name": "EQUALロマンス",
       "secondary": "らんま1/2",
@@ -58,7 +148,7 @@
       "detailPath": "entities/songs/5f28a114b2d9cec3.json"
     },
     {
-      "rank": 10352,
+      "rank": 10354,
       "id": "aaf3015f882978e4",
       "name": "ESCAPE",
       "secondary": "MOON CHILDｻﾝ",
@@ -106,7 +196,7 @@
       "detailPath": "entities/songs/aaf3015f882978e4.json"
     },
     {
-      "rank": 10353,
+      "rank": 10355,
       "id": "6f5bb23fd35f78f2",
       "name": "Esperanza",
       "secondary": "",
@@ -151,7 +241,7 @@
       "detailPath": "entities/songs/6f5bb23fd35f78f2.json"
     },
     {
-      "rank": 10354,
+      "rank": 10356,
       "id": "0ebecfb2d8f87f06",
       "name": "ETARNAL BLAZE",
       "secondary": "水樹奈々",
@@ -197,7 +287,7 @@
       "detailPath": "entities/songs/0ebecfb2d8f87f06.json"
     },
     {
-      "rank": 10355,
+      "rank": 10357,
       "id": "f5f788852fdbfc17",
       "name": "ETERNAL BLAZE",
       "secondary": "水樹奈々 ／ 魔法少女リリカルなのはA's(2005年)",
@@ -242,7 +332,7 @@
       "detailPath": "entities/songs/f5f788852fdbfc17.json"
     },
     {
-      "rank": 10356,
+      "rank": 10358,
       "id": "27488f69eb5a7d3b",
       "name": "ETERNAL BLAZE",
       "secondary": "水樹奈々 ※JOYSOUND",
@@ -287,7 +377,7 @@
       "detailPath": "entities/songs/27488f69eb5a7d3b.json"
     },
     {
-      "rank": 10357,
+      "rank": 10359,
       "id": "74e45c8d9cfd33f4",
       "name": "ETERNAL BLAZE",
       "secondary": "水樹奈々 「魔法少女リリカルなのはA's」",
@@ -332,7 +422,7 @@
       "detailPath": "entities/songs/74e45c8d9cfd33f4.json"
     },
     {
-      "rank": 10358,
+      "rank": 10360,
       "id": "ac455765004b4c69",
       "name": "ETERNAL BLAZE(魔法少女リリカルなのはA's)",
       "secondary": "水樹奈々",
@@ -377,7 +467,7 @@
       "detailPath": "entities/songs/ac455765004b4c69.json"
     },
     {
-      "rank": 10359,
+      "rank": 10361,
       "id": "e26766991f71dbde",
       "name": "Eternal Love",
       "secondary": "菅原紗由理",
@@ -425,7 +515,7 @@
       "detailPath": "entities/songs/e26766991f71dbde.json"
     },
     {
-      "rank": 10360,
+      "rank": 10362,
       "id": "273f71ffddfc6066",
       "name": "eternal promise",
       "secondary": "Dreamy crown",
@@ -470,7 +560,7 @@
       "detailPath": "entities/songs/273f71ffddfc6066.json"
     },
     {
-      "rank": 10361,
+      "rank": 10363,
       "id": "30eeb794625d3401",
       "name": "ETERNAL WIND〜ほほえみは光る風の中〜",
       "secondary": "森口博子（機動戦士ガンダムF91 主題歌）",
@@ -515,7 +605,7 @@
       "detailPath": "entities/songs/30eeb794625d3401.json"
     },
     {
-      "rank": 10362,
+      "rank": 10364,
       "id": "6825383f6cbef2fc",
       "name": "eternal wish〜届かぬ君へ〜",
       "secondary": "Raphael",
@@ -560,7 +650,7 @@
       "detailPath": "entities/songs/6825383f6cbef2fc.json"
     },
     {
-      "rank": 10363,
+      "rank": 10365,
       "id": "22c386d4803f1e8f",
       "name": "ETERNEL BLAZE",
       "secondary": "水樹奈々",
@@ -605,7 +695,7 @@
       "detailPath": "entities/songs/22c386d4803f1e8f.json"
     },
     {
-      "rank": 10364,
+      "rank": 10366,
       "id": "16bbcc1526b90782",
       "name": "euphoric field",
       "secondary": "ELISA",
@@ -650,7 +740,7 @@
       "detailPath": "entities/songs/16bbcc1526b90782.json"
     },
     {
-      "rank": 10365,
+      "rank": 10367,
       "id": "1b1191f1a5a39734",
       "name": "euphoric field（English）／ELISA／「ef",
       "secondary": "a tale of memories.」OP／2007",
@@ -695,7 +785,7 @@
       "detailPath": "entities/songs/1b1191f1a5a39734.json"
     },
     {
-      "rank": 10366,
+      "rank": 10368,
       "id": "6244635082b8f607",
       "name": "ever",
       "secondary": "橋本みゆき",
@@ -740,7 +830,7 @@
       "detailPath": "entities/songs/6244635082b8f607.json"
     },
     {
-      "rank": 10367,
+      "rank": 10369,
       "id": "85b85a3e94592d3d",
       "name": "EVER RED",
       "secondary": "フラガリアメモリーズ",
@@ -785,7 +875,7 @@
       "detailPath": "entities/songs/85b85a3e94592d3d.json"
     },
     {
-      "rank": 10368,
+      "rank": 10370,
       "id": "624eea12644ac18b",
       "name": "Ever stay snow",
       "secondary": "SHIHO",
@@ -830,7 +920,7 @@
       "detailPath": "entities/songs/624eea12644ac18b.json"
     },
     {
-      "rank": 10369,
+      "rank": 10371,
       "id": "4ee93a210d81dc96",
       "name": "evergreen",
       "secondary": "高橋瞳",
@@ -878,7 +968,7 @@
       "detailPath": "entities/songs/4ee93a210d81dc96.json"
     },
     {
-      "rank": 10370,
+      "rank": 10372,
       "id": "057addfdd38c327b",
       "name": "everlasting",
       "secondary": "夢乃ゆき",
@@ -923,7 +1013,7 @@
       "detailPath": "entities/songs/057addfdd38c327b.json"
     },
     {
-      "rank": 10371,
+      "rank": 10373,
       "id": "49a31e500d62350e",
       "name": "Everlasting",
       "secondary": "Kylee",
@@ -965,7 +1055,7 @@
       "detailPath": "entities/songs/49a31e500d62350e.json"
     },
     {
-      "rank": 10372,
+      "rank": 10374,
       "id": "1a1ca5510fb2ae29",
       "name": "Everything",
       "secondary": "未記載",
@@ -1010,7 +1100,7 @@
       "detailPath": "entities/songs/1a1ca5510fb2ae29.json"
     },
     {
-      "rank": 10373,
+      "rank": 10375,
       "id": "882832b5265671f8",
       "name": "Everything",
       "secondary": "",
@@ -1055,7 +1145,7 @@
       "detailPath": "entities/songs/882832b5265671f8.json"
     },
     {
-      "rank": 10374,
+      "rank": 10376,
       "id": "89a2eb2851a94f2a",
       "name": "everything(it's you)",
       "secondary": "Mr.Children",
@@ -1100,7 +1190,7 @@
       "detailPath": "entities/songs/89a2eb2851a94f2a.json"
     },
     {
-      "rank": 10375,
+      "rank": 10377,
       "id": "41272f8830cfd7bd",
       "name": "Evidence",
       "secondary": "Daisy×Daisy",
@@ -1145,7 +1235,7 @@
       "detailPath": "entities/songs/41272f8830cfd7bd.json"
     },
     {
-      "rank": 10376,
+      "rank": 10378,
       "id": "a6db624e57576129",
       "name": "Ex-Otogibanashi",
       "secondary": "かぐや,月見ヤチヨ",
@@ -1193,7 +1283,7 @@
       "detailPath": "entities/songs/a6db624e57576129.json"
     },
     {
-      "rank": 10377,
+      "rank": 10379,
       "id": "c45281b71f95f48f",
       "name": "Ex-Otogibanashi",
       "secondary": "ryo",
@@ -1238,7 +1328,7 @@
       "detailPath": "entities/songs/c45281b71f95f48f.json"
     },
     {
-      "rank": 10378,
+      "rank": 10380,
       "id": "674e1cee54900698",
       "name": "Ex-Otogibanashi",
       "secondary": "ryo (supercell)，かぐや (cv.夏吉ゆうこ)，月見ヤチヨ (cv.早見沙織) ※JOYSOUND",
@@ -1283,7 +1373,7 @@
       "detailPath": "entities/songs/674e1cee54900698.json"
     },
     {
-      "rank": 10379,
+      "rank": 10381,
       "id": "d562f6f2f552e24c",
       "name": "EXIT",
       "secondary": "EXILE",
@@ -1329,7 +1419,7 @@
       "detailPath": "entities/songs/d562f6f2f552e24c.json"
     },
     {
-      "rank": 10380,
+      "rank": 10382,
       "id": "5bc30edd358caee2",
       "name": "EXPOSE 'Burn out!!!'",
       "secondary": "RAISE A SUILEN",
@@ -1376,7 +1466,7 @@
       "detailPath": "entities/songs/5bc30edd358caee2.json"
     },
     {
-      "rank": 10381,
+      "rank": 10383,
       "id": "e232d660219b00b5",
       "name": "EYES, NOSE, LIPS",
       "secondary": "SOL",
@@ -1421,7 +1511,7 @@
       "detailPath": "entities/songs/e232d660219b00b5.json"
     },
     {
-      "rank": 10382,
+      "rank": 10384,
       "id": "27cc6dfb6159b584",
       "name": "F",
       "secondary": "マキシマム ザ ホルモン",
@@ -1466,7 +1556,7 @@
       "detailPath": "entities/songs/27cc6dfb6159b584.json"
     },
     {
-      "rank": 10383,
+      "rank": 10385,
       "id": "478bc512f69dd926",
       "name": "FAKE SOUL",
       "secondary": "FAKE TYPE",
@@ -1513,7 +1603,7 @@
       "detailPath": "entities/songs/478bc512f69dd926.json"
     },
     {
-      "rank": 10384,
+      "rank": 10386,
       "id": "01e1e968a5f7f7bf",
       "name": "fake wings",
       "secondary": "FictionJunction",
@@ -1559,7 +1649,7 @@
       "detailPath": "entities/songs/01e1e968a5f7f7bf.json"
     },
     {
-      "rank": 10385,
+      "rank": 10387,
       "id": "17c3d205c3392bd4",
       "name": "fake!fake!",
       "secondary": "カラスは真っ白",
@@ -1607,7 +1697,7 @@
       "detailPath": "entities/songs/17c3d205c3392bd4.json"
     },
     {
-      "rank": 10386,
+      "rank": 10388,
       "id": "a78a2b9e4c2dc1d8",
       "name": "Fallen",
       "secondary": "",
@@ -1652,7 +1742,7 @@
       "detailPath": "entities/songs/a78a2b9e4c2dc1d8.json"
     },
     {
-      "rank": 10387,
+      "rank": 10389,
       "id": "0506054641e5cea3",
       "name": "familie",
       "secondary": "Mrs. GREEN APPLE",
@@ -1697,7 +1787,7 @@
       "detailPath": "entities/songs/0506054641e5cea3.json"
     },
     {
-      "rank": 10388,
+      "rank": 10390,
       "id": "28adba2292d4bada",
       "name": "fancy baby doll",
       "secondary": "Yukari Tamura",
@@ -1742,7 +1832,7 @@
       "detailPath": "entities/songs/28adba2292d4bada.json"
     },
     {
-      "rank": 10389,
+      "rank": 10391,
       "id": "c6274cb4e62f443e",
       "name": "Fantastic future",
       "secondary": "",
@@ -1787,7 +1877,7 @@
       "detailPath": "entities/songs/c6274cb4e62f443e.json"
     },
     {
-      "rank": 10390,
+      "rank": 10392,
       "id": "65ae8b9fb60dfdf7",
       "name": "FANTASTIC ILLUSION",
       "secondary": "i☆Ris",
@@ -1832,7 +1922,7 @@
       "detailPath": "entities/songs/65ae8b9fb60dfdf7.json"
     },
     {
-      "rank": 10391,
+      "rank": 10393,
       "id": "0777dbc5157976e0",
       "name": "FANTASY",
       "secondary": "",
@@ -1877,7 +1967,7 @@
       "detailPath": "entities/songs/0777dbc5157976e0.json"
     },
     {
-      "rank": 10392,
+      "rank": 10394,
       "id": "76dd8d6e95806729",
       "name": "Faraway",
       "secondary": "PARADISE GO!! GO!!",
@@ -1922,7 +2012,7 @@
       "detailPath": "entities/songs/76dd8d6e95806729.json"
     },
     {
-      "rank": 10393,
+      "rank": 10395,
       "id": "6319458b72c8a008",
       "name": "Faux Sentiment",
       "secondary": "NEPHLA",
@@ -1967,7 +2057,7 @@
       "detailPath": "entities/songs/6319458b72c8a008.json"
     },
     {
-      "rank": 10394,
+      "rank": 10396,
       "id": "857c8de60a8896ce",
       "name": "favorite song",
       "secondary": "ふみの",
@@ -2014,7 +2104,7 @@
       "detailPath": "entities/songs/857c8de60a8896ce.json"
     },
     {
-      "rank": 10395,
+      "rank": 10397,
       "id": "120ce9cba5db182d",
       "name": "Feel fine!",
       "secondary": "倉木麻衣",
@@ -2060,7 +2150,7 @@
       "detailPath": "entities/songs/120ce9cba5db182d.json"
     },
     {
-      "rank": 10396,
+      "rank": 10398,
       "id": "f07df9b7638e153c",
       "name": "Feel Special",
       "secondary": "TWICE",
@@ -2105,7 +2195,7 @@
       "detailPath": "entities/songs/f07df9b7638e153c.json"
     },
     {
-      "rank": 10397,
+      "rank": 10399,
       "id": "e581e17b35c8e021",
       "name": "Femme fatale",
       "secondary": "MELLOW DEAR US",
@@ -2150,7 +2240,7 @@
       "detailPath": "entities/songs/e581e17b35c8e021.json"
     },
     {
-      "rank": 10398,
+      "rank": 10400,
       "id": "a1f896041628b401",
       "name": "fictional moon",
       "secondary": "fripSide",
@@ -2193,96 +2283,6 @@
         }
       ],
       "detailPath": "entities/songs/a1f896041628b401.json"
-    },
-    {
-      "rank": 10399,
-      "id": "a861be96ed409561",
-      "name": "fight",
-      "secondary": "YUI",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "6ytGXxAxSdY",
-          "videoTitle": "【 #歌枠 #karaoke 】高評価200目指して朝まで…？【#vtuber 】 #みうみうライブ",
-          "channelName": "かわしろみう(みうみう)",
-          "publishedAt": "2026-09-17T22:06:50.180Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6ytGXxAxSdY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPTMHbYHhNtgY90DbBBFo-N4L2_Q",
-          "sourcePath": "sources/6y/6ytGXxAxSdY.json",
-          "time": "1:28:05",
-          "seconds": 5285,
-          "songTitle": "fight",
-          "artist": "YUI"
-        },
-        {
-          "videoId": "w1-Kk6p0Pg8",
-          "videoTitle": "【 #歌枠 / #耐久 】高評価500耐久歌枠！初チャレンジ🔥【 #しのの仕立て屋 / vsinger 】",
-          "channelName": "翠雨 しの",
-          "publishedAt": "2026-08-29T11:39:55.570Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/w1-Kk6p0Pg8/hqdefault.jpg",
-          "sourcePath": "sources/w1/w1-Kk6p0Pg8.json",
-          "time": "4:46:29",
-          "seconds": 17189,
-          "songTitle": "fight",
-          "artist": "YUI"
-        }
-      ],
-      "detailPath": "entities/songs/a861be96ed409561.json"
-    },
-    {
-      "rank": 10400,
-      "id": "3f9cf10f024a212d",
-      "name": "Fight Together",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "douNazlJn2o",
-          "videoTitle": "【#歌枠】眠さに負けたくない夜更かしおねいさん【#くろまる】【#くろまるアンコール 】",
-          "channelName": "くろまる ⁝ 𝗸𝘂𝗿𝗼𝗺𝗮𝗿𝘂",
-          "publishedAt": "2026-09-19T17:21:54.661Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/douNazlJn2o/hqdefault.jpg",
-          "sourcePath": "sources/do/douNazlJn2o.json",
-          "time": "0:06:58",
-          "seconds": 418,
-          "songTitle": "Fight Together",
-          "artist": ""
-        },
-        {
-          "videoId": "LIcBqxTldn8",
-          "videoTitle": "【歌枠】初見さん大歓迎！気圧に負けるな！お昼にお歌どうですか？ 【初見さん歓迎/karaokestream /Vtuber /#karaoke 】",
-          "channelName": "マリア・アムネア.CH👼",
-          "publishedAt": "2026-09-11T09:34:31.718Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LIcBqxTldn8/hqdefault.jpg",
-          "sourcePath": "sources/LI/LIcBqxTldn8.json",
-          "time": "0:52:46",
-          "seconds": 3166,
-          "songTitle": "Fight Together",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/3f9cf10f024a212d.json"
     }
   ]
 }

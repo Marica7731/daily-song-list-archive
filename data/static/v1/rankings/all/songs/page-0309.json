@@ -1,16 +1,103 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 309,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 15401,
+      "id": "e24352e7e8bc0834",
+      "name": "遥か彼方",
+      "secondary": "Rita",
+      "channelId": "UCLIEOGtrywxsLztMPPKtfkA",
+      "channelHandle": "@RaraTakanashi",
+      "channelUrl": "https://www.youtube.com/@RaraTakanashi",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "karaoke",
+        "歌"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "32vwif2OIik",
+          "videoTitle": "【 歌枠 / KARAOKE 】Key楽曲歌枠をします！！【VTuber】",
+          "channelName": "Rara Channel",
+          "publishedAt": "2024-10-05T22:33:45.607Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/32vwif2OIik/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgNqfBjTCsS0ZCzUCcVHhSSw4a0Q",
+          "sourcePath": "sources/32/32vwif2OIik.json",
+          "time": "0:53:44",
+          "seconds": 3224,
+          "songTitle": "遥か彼方",
+          "artist": "Rita"
+        },
+        {
+          "videoId": "vrn1gac8TUc",
+          "videoTitle": "【 歌枠 / sing 】Keyソング縛り歌枠！初見さん歓迎✨【Vtuber】",
+          "channelName": "Rara Channel",
+          "publishedAt": "2023-10-07T01:15:17.362Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vrn1gac8TUc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-6EMuundOwU8L5x6-DZ_qWLo1Ww",
+          "sourcePath": "sources/vr/vrn1gac8TUc.json",
+          "time": "1:26:03",
+          "seconds": 5163,
+          "songTitle": "遥か彼方",
+          "artist": "Rita"
+        }
+      ],
+      "detailPath": "entities/songs/e24352e7e8bc0834.json"
+    },
+    {
+      "rank": 15402,
+      "id": "888fadc063f64c21",
+      "name": "遥紅いも",
+      "secondary": "",
+      "channelId": "UC4N4PikgcfKxARbY_GF_o0Q",
+      "channelHandle": "@itomachi",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "0cMcDpbLrH8",
+          "videoTitle": "【#BeretArtist歌枠リレー】開会式 / 素敵なベレー帽を被る出演者の皆さまをご紹介🎶【#糸街つむぎ 】",
+          "channelName": "糸街 / Itomachi",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0cMcDpbLrH8/hqdefault.jpg",
+          "sourcePath": "sources/0c/0cMcDpbLrH8.json",
+          "time": "0:22:00",
+          "seconds": 1320,
+          "songTitle": "遥紅いも",
+          "artist": ""
+        },
+        {
+          "videoId": "WNG3pBiFdWc",
+          "videoTitle": "【 #BeretArtist歌枠リレー 】みんなの夜に彩りを🎨",
+          "channelName": "日本酒サラ-Nihonshu Sara-",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WNG3pBiFdWc/hqdefault.jpg",
+          "sourcePath": "sources/WN/WNG3pBiFdWc.json",
+          "time": "0:22:00",
+          "seconds": 1320,
+          "songTitle": "遥紅いも",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/888fadc063f64c21.json"
+    },
+    {
+      "rank": 15403,
       "id": "0115e9d00b3e41c8",
       "name": "陽キャJKに憧れる陰キャJKの歌",
       "secondary": "音莉飴",
@@ -55,7 +142,7 @@
       "detailPath": "entities/songs/0115e9d00b3e41c8.json"
     },
     {
-      "rank": 15402,
+      "rank": 15404,
       "id": "332101c3799214ed",
       "name": "欲しい",
       "secondary": "SZNO",
@@ -100,7 +187,7 @@
       "detailPath": "entities/songs/332101c3799214ed.json"
     },
     {
-      "rank": 15403,
+      "rank": 15405,
       "id": "0ae88dbc7388111f",
       "name": "欲望に満ちた青年団",
       "secondary": "未記載",
@@ -144,7 +231,7 @@
       "detailPath": "entities/songs/0ae88dbc7388111f.json"
     },
     {
-      "rank": 15404,
+      "rank": 15406,
       "id": "c7f0ceb3dcad4894",
       "name": "翼をください",
       "secondary": "放課後ティータイム",
@@ -192,7 +279,7 @@
       "detailPath": "entities/songs/c7f0ceb3dcad4894.json"
     },
     {
-      "rank": 15405,
+      "rank": 15407,
       "id": "095b16e1655e9003",
       "name": "翼をください",
       "secondary": "(童謡)",
@@ -237,7 +324,7 @@
       "detailPath": "entities/songs/095b16e1655e9003.json"
     },
     {
-      "rank": 15406,
+      "rank": 15408,
       "id": "45cd8b60f6e4500b",
       "name": "螺旋",
       "secondary": "9Lana",
@@ -282,7 +369,7 @@
       "detailPath": "entities/songs/45cd8b60f6e4500b.json"
     },
     {
-      "rank": 15407,
+      "rank": 15409,
       "id": "baba323dc0366de9",
       "name": "裸足の女神",
       "secondary": "B'z",
@@ -327,7 +414,7 @@
       "detailPath": "entities/songs/baba323dc0366de9.json"
     },
     {
-      "rank": 15408,
+      "rank": 15410,
       "id": "441185ce8f689519",
       "name": "雷神の系譜",
       "secondary": "Sound Horizon",
@@ -372,7 +459,7 @@
       "detailPath": "entities/songs/441185ce8f689519.json"
     },
     {
-      "rank": 15409,
+      "rank": 15411,
       "id": "f72a5bf7b787cf79",
       "name": "雷櫻",
       "secondary": "MAISONdes feat. 9Lana, SAKURAmoti",
@@ -419,7 +506,7 @@
       "detailPath": "entities/songs/f72a5bf7b787cf79.json"
     },
     {
-      "rank": 15410,
+      "rank": 15412,
       "id": "5565324dfb098af0",
       "name": "落ちてゆく",
       "secondary": "藤井風",
@@ -466,7 +553,7 @@
       "detailPath": "entities/songs/5565324dfb098af0.json"
     },
     {
-      "rank": 15411,
+      "rank": 15413,
       "id": "0f550270b310ba5b",
       "name": "落ち葉舞う頃",
       "secondary": "みとせのりこ",
@@ -511,7 +598,7 @@
       "detailPath": "entities/songs/0f550270b310ba5b.json"
     },
     {
-      "rank": 15412,
+      "rank": 15414,
       "id": "1aa017da006232d8",
       "name": "落園",
       "secondary": "",
@@ -556,7 +643,7 @@
       "detailPath": "entities/songs/1aa017da006232d8.json"
     },
     {
-      "rank": 15413,
+      "rank": 15415,
       "id": "65ae48dba3ec4ee4",
       "name": "乱舞のメロディ",
       "secondary": "",
@@ -601,7 +688,7 @@
       "detailPath": "entities/songs/65ae48dba3ec4ee4.json"
     },
     {
-      "rank": 15414,
+      "rank": 15416,
       "id": "3eb147609abcdac6",
       "name": "嵐の中で輝いて",
       "secondary": "未記載",
@@ -647,7 +734,7 @@
       "detailPath": "entities/songs/3eb147609abcdac6.json"
     },
     {
-      "rank": 15415,
+      "rank": 15417,
       "id": "7796e1b15ecbb55c",
       "name": "嵐の中で輝いて",
       "secondary": "米倉千尋 ／ 機動戦士ガンダム第08MS小隊(1996年)",
@@ -692,7 +779,7 @@
       "detailPath": "entities/songs/7796e1b15ecbb55c.json"
     },
     {
-      "rank": 15416,
+      "rank": 15418,
       "id": "bd4628d858b85f9c",
       "name": "嵐の勇者",
       "secondary": "岡柚瑠",
@@ -737,7 +824,7 @@
       "detailPath": "entities/songs/bd4628d858b85f9c.json"
     },
     {
-      "rank": 15417,
+      "rank": 15419,
       "id": "e0a2790f8b077151",
       "name": "藍〈Ai〉",
       "secondary": "スキマスイッチ",
@@ -785,7 +872,7 @@
       "detailPath": "entities/songs/e0a2790f8b077151.json"
     },
     {
-      "rank": 15418,
+      "rank": 15420,
       "id": "c695e6c42da69ddc",
       "name": "裏切りの夕焼け",
       "secondary": "デュラララ!",
@@ -830,7 +917,7 @@
       "detailPath": "entities/songs/c695e6c42da69ddc.json"
     },
     {
-      "rank": 15419,
+      "rank": 15421,
       "id": "a8943fcbcd8c8422",
       "name": "裏切り者のレクイエム",
       "secondary": "ハセガワダイスケ",
@@ -875,7 +962,7 @@
       "detailPath": "entities/songs/a8943fcbcd8c8422.json"
     },
     {
-      "rank": 15420,
+      "rank": 15422,
       "id": "1cfa0160420dc40f",
       "name": "裏表ラバーズ",
       "secondary": "",
@@ -920,7 +1007,7 @@
       "detailPath": "entities/songs/1cfa0160420dc40f.json"
     },
     {
-      "rank": 15421,
+      "rank": 15423,
       "id": "7b4160b6f382daa1",
       "name": "離したくはない",
       "secondary": "T-BOLAN",
@@ -965,7 +1052,7 @@
       "detailPath": "entities/songs/7b4160b6f382daa1.json"
     },
     {
-      "rank": 15422,
+      "rank": 15424,
       "id": "63f8f03a129926ce",
       "name": "離家出走",
       "secondary": "衞蘭",
@@ -1010,7 +1097,7 @@
       "detailPath": "entities/songs/63f8f03a129926ce.json"
     },
     {
-      "rank": 15423,
+      "rank": 15425,
       "id": "890bab9c7c19f84d",
       "name": "離開我的依賴",
       "secondary": "王艷薇",
@@ -1055,7 +1142,7 @@
       "detailPath": "entities/songs/890bab9c7c19f84d.json"
     },
     {
-      "rank": 15424,
+      "rank": 15426,
       "id": "6ac118d5e86801ae",
       "name": "離開的一路上",
       "secondary": "理想混蛋",
@@ -1100,7 +1187,7 @@
       "detailPath": "entities/songs/6ac118d5e86801ae.json"
     },
     {
-      "rank": 15425,
+      "rank": 15427,
       "id": "fc1f9cb2dc274c05",
       "name": "流れ星",
       "secondary": "中島 美嘉",
@@ -1145,7 +1232,7 @@
       "detailPath": "entities/songs/fc1f9cb2dc274c05.json"
     },
     {
-      "rank": 15426,
+      "rank": 15428,
       "id": "309b20c69f58de4c",
       "name": "流星のサドル",
       "secondary": "久保田利伸",
@@ -1190,7 +1277,7 @@
       "detailPath": "entities/songs/309b20c69f58de4c.json"
     },
     {
-      "rank": 15427,
+      "rank": 15429,
       "id": "48f48c8a356d8555",
       "name": "流星ミラクル",
       "secondary": "いきものがかり",
@@ -1236,7 +1323,7 @@
       "detailPath": "entities/songs/48f48c8a356d8555.json"
     },
     {
-      "rank": 15428,
+      "rank": 15430,
       "id": "2a9e64e5756d02c4",
       "name": "流星群",
       "secondary": "BUMP OF CHICKEN",
@@ -1284,7 +1371,7 @@
       "detailPath": "entities/songs/2a9e64e5756d02c4.json"
     },
     {
-      "rank": 15429,
+      "rank": 15431,
       "id": "d3cb66ab6c49b568",
       "name": "流星群",
       "secondary": "Penthouse",
@@ -1330,7 +1417,7 @@
       "detailPath": "entities/songs/d3cb66ab6c49b568.json"
     },
     {
-      "rank": 15430,
+      "rank": 15432,
       "id": "f3c9c9af1c2aa9b8",
       "name": "流星涙",
       "secondary": "LAST ALLIANCE",
@@ -1377,7 +1464,7 @@
       "detailPath": "entities/songs/f3c9c9af1c2aa9b8.json"
     },
     {
-      "rank": 15431,
+      "rank": 15433,
       "id": "427c8d31dab94de1",
       "name": "流離",
       "secondary": "オリジナル曲",
@@ -1419,7 +1506,7 @@
       "detailPath": "entities/songs/427c8d31dab94de1.json"
     },
     {
-      "rank": 15432,
+      "rank": 15434,
       "id": "c14a98285427fbe1",
       "name": "旅立ちの日に",
       "secondary": "高橋浩美",
@@ -1465,7 +1552,7 @@
       "detailPath": "entities/songs/c14a98285427fbe1.json"
     },
     {
-      "rank": 15433,
+      "rank": 15435,
       "id": "8371d360e6021716",
       "name": "旅立ちの日に",
       "secondary": "小嶋登",
@@ -1511,7 +1598,7 @@
       "detailPath": "entities/songs/8371d360e6021716.json"
     },
     {
-      "rank": 15434,
+      "rank": 15436,
       "id": "720cceb3aaca9e11",
       "name": "虜",
       "secondary": "My Hair is Bad",
@@ -1559,7 +1646,7 @@
       "detailPath": "entities/songs/720cceb3aaca9e11.json"
     },
     {
-      "rank": 15435,
+      "rank": 15437,
       "id": "ac667c44b059ba02",
       "name": "林檎花火とソーダの海",
       "secondary": "まふまふ",
@@ -1606,7 +1693,7 @@
       "detailPath": "entities/songs/ac667c44b059ba02.json"
     },
     {
-      "rank": 15436,
+      "rank": 15438,
       "id": "e286dbc38e755390",
       "name": "林檎売りの泡沫少女",
       "secondary": "黒髪ストロングP",
@@ -1654,7 +1741,7 @@
       "detailPath": "entities/songs/e286dbc38e755390.json"
     },
     {
-      "rank": 15437,
+      "rank": 15439,
       "id": "49e17b2beddacf0a",
       "name": "林檎売りの泡沫少女",
       "secondary": "yukkedoluce feat.GUMI ※JOYSOUND",
@@ -1699,7 +1786,7 @@
       "detailPath": "entities/songs/49e17b2beddacf0a.json"
     },
     {
-      "rank": 15438,
+      "rank": 15440,
       "id": "34ffb4c610c2ac27",
       "name": "鱗",
       "secondary": "未記載",
@@ -1745,7 +1832,7 @@
       "detailPath": "entities/songs/34ffb4c610c2ac27.json"
     },
     {
-      "rank": 15439,
+      "rank": 15441,
       "id": "4b7cf3997518af9a",
       "name": "鱗",
       "secondary": "",
@@ -1790,7 +1877,7 @@
       "detailPath": "entities/songs/4b7cf3997518af9a.json"
     },
     {
-      "rank": 15440,
+      "rank": 15442,
       "id": "adcbfc14eefcb916",
       "name": "鱗〈Uroko〉",
       "secondary": "秦基博",
@@ -1836,7 +1923,7 @@
       "detailPath": "entities/songs/adcbfc14eefcb916.json"
     },
     {
-      "rank": 15441,
+      "rank": 15443,
       "id": "c1d6b17236b7d1cb",
       "name": "瑠璃色コンパス",
       "secondary": "百瑠璃せいらん",
@@ -1881,7 +1968,7 @@
       "detailPath": "entities/songs/c1d6b17236b7d1cb.json"
     },
     {
-      "rank": 15442,
+      "rank": 15444,
       "id": "2a63db8e57a09f4e",
       "name": "瑠璃色の地球",
       "secondary": "未記載",
@@ -1926,7 +2013,7 @@
       "detailPath": "entities/songs/2a63db8e57a09f4e.json"
     },
     {
-      "rank": 15443,
+      "rank": 15445,
       "id": "0e58dc49b953521d",
       "name": "瑠璃色の地球",
       "secondary": "手嶌 葵",
@@ -1974,7 +2061,7 @@
       "detailPath": "entities/songs/0e58dc49b953521d.json"
     },
     {
-      "rank": 15444,
+      "rank": 15446,
       "id": "9238117536bd6c81",
       "name": "瑠璃色の地球(「未来への航海」バージョン)",
       "secondary": "手嶌 葵",
@@ -2019,7 +2106,7 @@
       "detailPath": "entities/songs/9238117536bd6c81.json"
     },
     {
-      "rank": 15445,
+      "rank": 15447,
       "id": "193dd18a39ecb1b7",
       "name": "涙サプライズ！",
       "secondary": "未記載",
@@ -2064,7 +2151,7 @@
       "detailPath": "entities/songs/193dd18a39ecb1b7.json"
     },
     {
-      "rank": 15446,
+      "rank": 15448,
       "id": "d516a99ba271b010",
       "name": "涙そうそう",
       "secondary": "森山良子,BEGIN",
@@ -2111,7 +2198,7 @@
       "detailPath": "entities/songs/d516a99ba271b010.json"
     },
     {
-      "rank": 15447,
+      "rank": 15449,
       "id": "49aed99d5c16409e",
       "name": "涙そうそう",
       "secondary": "森山良子(森山良子,BEGIN)",
@@ -2157,7 +2244,7 @@
       "detailPath": "entities/songs/49aed99d5c16409e.json"
     },
     {
-      "rank": 15448,
+      "rank": 15450,
       "id": "d0e951218fdbd013",
       "name": "涙そうそう",
       "secondary": "BEGIN",
@@ -2200,97 +2287,6 @@
         }
       ],
       "detailPath": "entities/songs/d0e951218fdbd013.json"
-    },
-    {
-      "rank": 15449,
-      "id": "0b4bb9061dc9199b",
-      "name": "涙そうそう",
-      "secondary": "夏川りみ（ピアノ伴奏Ver.）",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "S6eq8uq2jrM",
-          "videoTitle": "【 歌枠┊︎初見さんおいで】癒しの歌をお届けします🌙ピアノ伴奏縛り【 #儚羽みう┊︎新人vtubar 】",
-          "channelName": "Miu Ch.儚羽みう",
-          "publishedAt": "2026-10-09T14:12:20.598Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/S6eq8uq2jrM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-zNNCsQVKUak5qctl9aidPXZreA",
-          "sourcePath": "sources/S6/S6eq8uq2jrM.json",
-          "time": "0:22:28",
-          "seconds": 1348,
-          "songTitle": "涙そうそう",
-          "artist": "夏川りみ（ピアノ伴奏Ver.）"
-        },
-        {
-          "videoId": "9nwJw1OOm5w",
-          "videoTitle": "【 歌枠┊︎Karaoke 】ピアノ伴奏縛り歌枠🌙寝落ち・癒されたい人おいで【 #儚羽みう┊︎新人vtubar 】",
-          "channelName": "Miu Ch.儚羽みう",
-          "publishedAt": "2026-09-11T15:21:06.268Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9nwJw1OOm5w/hqdefault.jpg",
-          "sourcePath": "sources/9n/9nwJw1OOm5w.json",
-          "time": "0:04:54",
-          "seconds": 294,
-          "songTitle": "涙そうそう",
-          "artist": "夏川りみ（ピアノ伴奏Ver.）"
-        }
-      ],
-      "detailPath": "entities/songs/0b4bb9061dc9199b.json"
-    },
-    {
-      "rank": 15450,
-      "id": "8c86669208d9a9e5",
-      "name": "涙の温度",
-      "secondary": "シド",
-      "channelId": "UCV5fHI5euR7ZC4ZqhYqlwYw",
-      "channelHandle": "@OHGARUKIch",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "zO_AE0f6kqY",
-          "videoTitle": "❮#歌枠 #耐久❯ 30曲歌うまで終われまテン✨4000人突破しました!! #羽月うずな #Vsinger #Vtuber #逃げやがったぞおぃ",
-          "channelName": "羽月うずな / Hazuki Uzuna",
-          "publishedAt": "2026-07-16T14:51:33.039Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zO_AE0f6kqY/hqdefault.jpg",
-          "sourcePath": "sources/zO/zO_AE0f6kqY.json",
-          "time": "4:34:19",
-          "seconds": 16459,
-          "songTitle": "涙の温度",
-          "artist": "シド"
-        },
-        {
-          "videoId": "CrVgCIzZucU",
-          "videoTitle": "〖#歌枠 〗ワンマン現地チケット５枚売るまで終われない！！！🔥 #vtuber #凰牙人類攻略",
-          "channelName": "RUKI Ch. 凰牙るき",
-          "publishedAt": "2026-07-01T11:21:29.212Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/CrVgCIzZucU/hqdefault.jpg",
-          "sourcePath": "sources/Cr/CrVgCIzZucU.json",
-          "time": "4:06:00",
-          "seconds": 14760,
-          "songTitle": "涙の温度",
-          "artist": "シド"
-        }
-      ],
-      "detailPath": "entities/songs/8c86669208d9a9e5.json"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "items": [
     {
       "id": "39a61459a594a675",
@@ -6351,8 +6351,8 @@
       "type": "songs",
       "name": "あの夢をなぞって",
       "secondary": "YOASOBI",
-      "occurrenceCount": 77,
-      "videoCount": 77,
+      "occurrenceCount": 78,
+      "videoCount": 78,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -6378,8 +6378,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 18,
-          "videoCount": 18
+          "occurrenceCount": 19,
+          "videoCount": 19
         }
       },
       "text": "あの夢をなぞってyoasobi"
@@ -8333,8 +8333,8 @@
       "type": "songs",
       "name": "OK!",
       "secondary": "松本 梨香",
-      "occurrenceCount": 30,
-      "videoCount": 30,
+      "occurrenceCount": 31,
+      "videoCount": 31,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -8359,8 +8359,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 11,
-          "videoCount": 11
+          "occurrenceCount": 12,
+          "videoCount": 12
         }
       },
       "text": "ok松本梨香"
@@ -76423,8 +76423,8 @@
       "type": "artists",
       "name": "ヨルシカ",
       "secondary": "",
-      "occurrenceCount": 6368,
-      "videoCount": 3033,
+      "occurrenceCount": 6369,
+      "videoCount": 3034,
       "keywords": [
         "karaoke",
         "month",
@@ -76452,8 +76452,8 @@
           "videoCount": 71
         },
         "30d": {
-          "occurrenceCount": 2307,
-          "videoCount": 1114
+          "occurrenceCount": 2308,
+          "videoCount": 1115
         }
       },
       "text": "ヨルシカ"
@@ -100494,19 +100494,20 @@
       "type": "artists",
       "name": "すこっぷp",
       "secondary": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
-        "弾き語り"
+        "弾き語り",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/artists/3135f478fecff752.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "すこっぷp"
@@ -105443,6 +105444,31 @@
         }
       },
       "text": "green"
+    },
+    {
+      "id": "39b701d6a50c932d",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "artists",
+      "name": "耳郎響香",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/artists/39b701d6a50c932d.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "耳郎響香"
     },
     {
       "id": "3afe24e3632e26b4",

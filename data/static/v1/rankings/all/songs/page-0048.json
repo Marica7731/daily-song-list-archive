@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 48,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 2351,
+      "id": "116e9d9273cb5753",
+      "name": "〜 え？あぁ、そう",
+      "secondary": "蝶々P feat.初音ミク",
+      "channelId": "UC2jE6JRO8HH2wxwN_-u-kuQ",
+      "channelHandle": "@%E3%81%86%E3%81%9F%E3%81%9F%E3%81%AD_%E3%82%86%E3%82%86",
+      "channelUrl": "",
+      "occurrenceCount": 11,
+      "videoCount": 11,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ianlqqUU3BM",
+          "videoTitle": "【#歌枠 】ガチ恋距離で歌枠配信【ミラ・ルプス/ハコネクト】",
+          "channelName": "ミラ・ルプス Mira Ch.",
+          "publishedAt": "2026-10-09T16:11:32.864Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ianlqqUU3BM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzFfvMgGsIPv1HmolfOeVVWjmAAw",
+          "sourcePath": "sources/ia/ianlqqUU3BM.json",
+          "time": "1:40:56",
+          "seconds": 6056,
+          "songTitle": "え？あぁ、そう",
+          "artist": "蝶々P feat. 初音ミク"
+        },
+        {
+          "videoId": "m_oYeKXTnRY",
+          "videoTitle": "【リクエストOK】新人VTuberが歌います！【 #歌枠 / #karaoke 】",
+          "channelName": "杣菜つくも / Somana ch.",
+          "publishedAt": "2026-10-01T14:44:03.376Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_oYeKXTnRY/hqdefault.jpg",
+          "sourcePath": "sources/m_/m_oYeKXTnRY.json",
+          "time": "0:24:13",
+          "seconds": 1453,
+          "songTitle": "え？あぁ、そう",
+          "artist": "蝶々P feat.初音ミク"
+        },
+        {
+          "videoId": "TB9Sk9EUDDw",
+          "videoTitle": "初見さん歓迎！新人Vが歌います★【 #歌枠 / #karaoke 】#shorts",
+          "channelName": "杣菜つくも / Somana ch.",
+          "publishedAt": "2026-09-21T05:36:59.534Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TB9Sk9EUDDw/hqdefault.jpg",
+          "sourcePath": "sources/TB/TB9Sk9EUDDw.json",
+          "time": "3:55:01",
+          "seconds": 14101,
+          "songTitle": "え？あぁ、そう",
+          "artist": "蝶々P feat.初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/116e9d9273cb5753.json"
+    },
+    {
+      "rank": 2352,
       "id": "65ba8d6b17a50494",
       "name": "《セーラー服と機関銃》",
       "secondary": "薬師丸ひろ子",
@@ -70,7 +130,7 @@
       "detailPath": "entities/songs/65ba8d6b17a50494.json"
     },
     {
-      "rank": 2352,
+      "rank": 2353,
       "id": "e3e03966beca2cea",
       "name": "「ひとりで生きられそう」って それってねえ、褒めているの？",
       "secondary": "Juice=Juice",
@@ -130,7 +190,7 @@
       "detailPath": "entities/songs/e3e03966beca2cea.json"
     },
     {
-      "rank": 2353,
+      "rank": 2354,
       "id": "e0ed6f33523f3822",
       "name": "# あくあ色パレット",
       "secondary": "湊あくあ",
@@ -190,7 +250,7 @@
       "detailPath": "entities/songs/e0ed6f33523f3822.json"
     },
     {
-      "rank": 2354,
+      "rank": 2355,
       "id": "b8bcf53f9956f696",
       "name": "～ AURORA",
       "secondary": "藍井エイル",
@@ -248,7 +308,7 @@
       "detailPath": "entities/songs/b8bcf53f9956f696.json"
     },
     {
-      "rank": 2355,
+      "rank": 2356,
       "id": "9b134a2264502d75",
       "name": "⭐千本桜",
       "secondary": "WhiteFlame feat.初音ミク",
@@ -308,7 +368,7 @@
       "detailPath": "entities/songs/9b134a2264502d75.json"
     },
     {
-      "rank": 2356,
+      "rank": 2357,
       "id": "6cbd523b45a15e2e",
       "name": "Absolute 5",
       "secondary": "ワルキューレ",
@@ -368,7 +428,7 @@
       "detailPath": "entities/songs/6cbd523b45a15e2e.json"
     },
     {
-      "rank": 2357,
+      "rank": 2358,
       "id": "9413ad935162e4c0",
       "name": "Asphodelus-アスフォデルス",
       "secondary": "Ceui",
@@ -425,7 +485,7 @@
       "detailPath": "entities/songs/9413ad935162e4c0.json"
     },
     {
-      "rank": 2358,
+      "rank": 2359,
       "id": "2be9eb9b72e51cdb",
       "name": "astral ability",
       "secondary": "橋本みゆき&佐咲紗花",
@@ -482,7 +542,7 @@
       "detailPath": "entities/songs/2be9eb9b72e51cdb.json"
     },
     {
-      "rank": 2359,
+      "rank": 2360,
       "id": "96cc486785fa0f77",
       "name": "BALALAIKA",
       "secondary": "9Lana",
@@ -542,7 +602,7 @@
       "detailPath": "entities/songs/96cc486785fa0f77.json"
     },
     {
-      "rank": 2360,
+      "rank": 2361,
       "id": "ba6d0ea262a7fc1e",
       "name": "bumpy-Jumpy!",
       "secondary": "KOTOKO",
@@ -601,7 +661,7 @@
       "detailPath": "entities/songs/ba6d0ea262a7fc1e.json"
     },
     {
-      "rank": 2361,
+      "rank": 2362,
       "id": "54b72b78e591a0bd",
       "name": "Bのリベンジ",
       "secondary": "B小町",
@@ -659,63 +719,6 @@
         }
       ],
       "detailPath": "entities/songs/54b72b78e591a0bd.json"
-    },
-    {
-      "rank": 2362,
-      "id": "7ec9a5f402c1f137",
-      "name": "Climax Jump",
-      "secondary": "AAA",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 11,
-      "videoCount": 11,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "QzDDE-QyvOs",
-          "videoTitle": "⟬ #歌枠・ KARAOKE ⟭ チャンネル登録5000人耐久歌枠です⁉️ ⟬ #コトトイ ・ Re:AcT ⟭",
-          "channelName": "kototo!",
-          "publishedAt": "2026-09-22T17:57:08.104Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QzDDE-QyvOs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsd3RAvAIFJzepnCrja0-VEG4J8A",
-          "sourcePath": "sources/Qz/QzDDE-QyvOs.json",
-          "time": "3:05:27",
-          "seconds": 11127,
-          "songTitle": "Climax Jump",
-          "artist": "AAA"
-        },
-        {
-          "videoId": "NxrD5N4EMQE",
-          "videoTitle": "【 歌枠 】コ ラ ボ 💜🩵めっちゃ歌う！！！！！【#にぼラティ 】",
-          "channelName": "ラティオ・ユィリスOfficial",
-          "publishedAt": "2026-09-22T15:43:01.034Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/NxrD5N4EMQE/hqdefault.jpg",
-          "sourcePath": "sources/Nx/NxrD5N4EMQE.json",
-          "time": "0:25:42",
-          "seconds": 1542,
-          "songTitle": "Climax Jump",
-          "artist": "AAA"
-        },
-        {
-          "videoId": "-HhQq2ATCvM",
-          "videoTitle": "【 耐久 / 歌枠 】初見さん5人来て！同接50&高評価200耐久!アニソン・ボカロ・jpop入室お名前呼び #vtuber #karaoke",
-          "channelName": "碧葉リア / Ria Aoba",
-          "publishedAt": "2026-09-18T14:09:15.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-HhQq2ATCvM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlxpsuie7oNL3MvDvnpA3UZHr5gg",
-          "sourcePath": "sources/-H/-HhQq2ATCvM.json",
-          "time": "0:56:45",
-          "seconds": 3405,
-          "songTitle": "Climax Jump",
-          "artist": "AAA"
-        }
-      ],
-      "detailPath": "entities/songs/7ec9a5f402c1f137.json"
     },
     {
       "rank": 2363,

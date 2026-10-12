@@ -1,16 +1,107 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 277,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 13801,
+      "id": "7a1c6158c584e9aa",
+      "name": "歌うたいのバラッド",
+      "secondary": "斉藤和義ｻﾝ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "m7378gtO6l4",
+          "videoTitle": "【歌枠】低音男子のまったり歌枠・騒がしくない配信をお探しの方を待っています【VTuber】",
+          "channelName": "ただのかえる【TADANO KAERU】",
+          "publishedAt": "2026-10-02T14:26:15.499Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m7378gtO6l4/hqdefault.jpg",
+          "sourcePath": "sources/m7/m7378gtO6l4.json",
+          "time": "0:02:38",
+          "seconds": 158,
+          "songTitle": "歌うたいのバラッド",
+          "artist": "斉藤和義ｻﾝ"
+        },
+        {
+          "videoId": "yAVquRzLHyk",
+          "videoTitle": "【#歌枠 #弾き語り 】リクエスト大歓迎！ #vtuber",
+          "channelName": "ただのかえる【TADANO KAERU】",
+          "publishedAt": "2026-09-16T14:53:50.175Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yAVquRzLHyk/hqdefault.jpg",
+          "sourcePath": "sources/yA/yAVquRzLHyk.json",
+          "time": "0:03:44",
+          "seconds": 224,
+          "songTitle": "歌うたいのバラッド",
+          "artist": "斉藤和義ｻﾝ"
+        }
+      ],
+      "detailPath": "entities/songs/7a1c6158c584e9aa.json"
+    },
+    {
+      "rank": 13802,
+      "id": "c35c6c1b6ae9d05d",
+      "name": "歌えばそこに君がいるから",
+      "secondary": "鈴木このみ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "a9cM-J6RGOE",
+          "videoTitle": "【歌枠｜縦型】９月最初の歌枠だよ～！リクエスト〇！【Vtuber/汐那】",
+          "channelName": "汐那(しおな)୨୧🩵",
+          "publishedAt": "2026-09-02T14:35:04.298Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a9cM-J6RGOE/hqdefault.jpg",
+          "sourcePath": "sources/a9/a9cM-J6RGOE.json",
+          "time": "0:26:19",
+          "seconds": 1579,
+          "songTitle": "歌えばそこに君がいるから",
+          "artist": "鈴木このみ"
+        },
+        {
+          "videoId": "IDPX4aXT2x0",
+          "videoTitle": "【 歌雑談 】9月も元気に歌っておしゃべりしよーっ🎤🎶 【 紅月夢叶 / 新人vtuber 】#縦型配信 #shorts",
+          "channelName": "紅月夢叶 / Akatsuki Yukana",
+          "publishedAt": "2026-09-01T14:37:20.947Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IDPX4aXT2x0/hqdefault.jpg",
+          "sourcePath": "sources/ID/IDPX4aXT2x0.json",
+          "time": "0:17:18",
+          "seconds": 1038,
+          "songTitle": "歌えばそこに君がいるから",
+          "artist": "鈴木このみ"
+        }
+      ],
+      "detailPath": "entities/songs/c35c6c1b6ae9d05d.json"
+    },
+    {
+      "rank": 13803,
       "id": "a4aaf7becd38542c",
       "name": "歌に形はないけれど",
       "secondary": "きりたんP",
@@ -56,7 +147,7 @@
       "detailPath": "entities/songs/a4aaf7becd38542c.json"
     },
     {
-      "rank": 13802,
+      "rank": 13804,
       "id": "aa6e8e76a7bcbc14",
       "name": "歌に形はないけれど piano ver",
       "secondary": "doriko feat. 初音ミク",
@@ -101,7 +192,7 @@
       "detailPath": "entities/songs/aa6e8e76a7bcbc14.json"
     },
     {
-      "rank": 13803,
+      "rank": 13805,
       "id": "d496cadf989fd965",
       "name": "歌に形はないけれど-Piano Ver",
       "secondary": "doriko",
@@ -146,7 +237,7 @@
       "detailPath": "entities/songs/d496cadf989fd965.json"
     },
     {
-      "rank": 13804,
+      "rank": 13806,
       "id": "e4cddb573c7cb7ae",
       "name": "歌舞伎町の女王",
       "secondary": "",
@@ -191,7 +282,7 @@
       "detailPath": "entities/songs/e4cddb573c7cb7ae.json"
     },
     {
-      "rank": 13805,
+      "rank": 13807,
       "id": "cc29103e830bbe5d",
       "name": "火種",
       "secondary": "未記載",
@@ -236,7 +327,7 @@
       "detailPath": "entities/songs/cc29103e830bbe5d.json"
     },
     {
-      "rank": 13806,
+      "rank": 13808,
       "id": "eae37d2fa4b51aa4",
       "name": "火星人",
       "secondary": "未記載",
@@ -282,7 +373,7 @@
       "detailPath": "entities/songs/eae37d2fa4b51aa4.json"
     },
     {
-      "rank": 13807,
+      "rank": 13809,
       "id": "8c00a27b57ad0340",
       "name": "花cherie",
       "secondary": "西島隆弘",
@@ -328,7 +419,7 @@
       "detailPath": "entities/songs/8c00a27b57ad0340.json"
     },
     {
-      "rank": 13808,
+      "rank": 13810,
       "id": "bbd7953c83f75bd2",
       "name": "花になって",
       "secondary": "緑黄色社会(長屋晴子,穴見真吾)",
@@ -375,7 +466,7 @@
       "detailPath": "entities/songs/bbd7953c83f75bd2.json"
     },
     {
-      "rank": 13809,
+      "rank": 13811,
       "id": "e05d277e3d023fd5",
       "name": "花になって",
       "secondary": "緑黄色野菜",
@@ -420,7 +511,7 @@
       "detailPath": "entities/songs/e05d277e3d023fd5.json"
     },
     {
-      "rank": 13810,
+      "rank": 13812,
       "id": "082b021f2365c444",
       "name": "花に雨を、君に歌を",
       "secondary": "THE BINARY",
@@ -465,7 +556,7 @@
       "detailPath": "entities/songs/082b021f2365c444.json"
     },
     {
-      "rank": 13811,
+      "rank": 13813,
       "id": "9c10eba321e0efb2",
       "name": "花に風",
       "secondary": "須田景凪",
@@ -513,7 +604,7 @@
       "detailPath": "entities/songs/9c10eba321e0efb2.json"
     },
     {
-      "rank": 13812,
+      "rank": 13814,
       "id": "19b20e1673b69a4a",
       "name": "花の塔",
       "secondary": "さユリ",
@@ -561,7 +652,7 @@
       "detailPath": "entities/songs/19b20e1673b69a4a.json"
     },
     {
-      "rank": 13813,
+      "rank": 13815,
       "id": "700512abf2447eb8",
       "name": "花の塔",
       "secondary": "サユリ",
@@ -606,7 +697,7 @@
       "detailPath": "entities/songs/700512abf2447eb8.json"
     },
     {
-      "rank": 13814,
+      "rank": 13816,
       "id": "27926086966bceb7",
       "name": "花の塔",
       "secondary": "さユり ※JOYSOUND",
@@ -651,7 +742,7 @@
       "detailPath": "entities/songs/27926086966bceb7.json"
     },
     {
-      "rank": 13815,
+      "rank": 13817,
       "id": "ac38f7004836e6ce",
       "name": "花の塔",
       "secondary": "さユり（ピアノ伴奏Ver.）",
@@ -696,7 +787,7 @@
       "detailPath": "entities/songs/ac38f7004836e6ce.json"
     },
     {
-      "rank": 13816,
+      "rank": 13818,
       "id": "8f040135246528d4",
       "name": "花の塔/さユり",
       "secondary": "リコリス・リコイル",
@@ -741,7 +832,7 @@
       "detailPath": "entities/songs/8f040135246528d4.json"
     },
     {
-      "rank": 13817,
+      "rank": 13819,
       "id": "a3277190b4429e7e",
       "name": "花は桜 君は美し",
       "secondary": "いきものがかり(水野良樹)",
@@ -786,7 +877,7 @@
       "detailPath": "entities/songs/a3277190b4429e7e.json"
     },
     {
-      "rank": 13818,
+      "rank": 13820,
       "id": "5b6a0b57859797d5",
       "name": "花ハ踊レヤいろはにほ",
       "secondary": "",
@@ -828,7 +919,7 @@
       "detailPath": "entities/songs/5b6a0b57859797d5.json"
     },
     {
-      "rank": 13819,
+      "rank": 13821,
       "id": "805b01758d18ab45",
       "name": "花を唄う",
       "secondary": "シノ",
@@ -874,7 +965,7 @@
       "detailPath": "entities/songs/805b01758d18ab45.json"
     },
     {
-      "rank": 13820,
+      "rank": 13822,
       "id": "969afc3419ee0f32",
       "name": "花音兎みみ",
       "secondary": "",
@@ -916,7 +1007,7 @@
       "detailPath": "entities/songs/969afc3419ee0f32.json"
     },
     {
-      "rank": 13821,
+      "rank": 13823,
       "id": "fa7bea651d01036a",
       "name": "花火",
       "secondary": "三代目 J Soul Brothers from EXILE TRIBE",
@@ -960,7 +1051,7 @@
       "detailPath": "entities/songs/fa7bea651d01036a.json"
     },
     {
-      "rank": 13822,
+      "rank": 13824,
       "id": "f145cd6de923bbf2",
       "name": "花火",
       "secondary": "三代目 J Soul Brothers",
@@ -1006,7 +1097,7 @@
       "detailPath": "entities/songs/f145cd6de923bbf2.json"
     },
     {
-      "rank": 13823,
+      "rank": 13825,
       "id": "6649c85ceb69e446",
       "name": "花火(불꽃놀이)",
       "secondary": "aiko",
@@ -1052,7 +1143,7 @@
       "detailPath": "entities/songs/6649c85ceb69e446.json"
     },
     {
-      "rank": 13824,
+      "rank": 13826,
       "id": "af89d30952e20aea",
       "name": "花降らし",
       "secondary": "n-buna feat. 初音ミク",
@@ -1097,7 +1188,7 @@
       "detailPath": "entities/songs/af89d30952e20aea.json"
     },
     {
-      "rank": 13825,
+      "rank": 13827,
       "id": "30b8189130c598e1",
       "name": "花咲く乙女",
       "secondary": "帝国歌劇団 花組",
@@ -1139,7 +1230,7 @@
       "detailPath": "entities/songs/30b8189130c598e1.json"
     },
     {
-      "rank": 13826,
+      "rank": 13828,
       "id": "171a10e87128849e",
       "name": "花雪",
       "secondary": "smileY inc",
@@ -1184,7 +1275,7 @@
       "detailPath": "entities/songs/171a10e87128849e.json"
     },
     {
-      "rank": 13827,
+      "rank": 13829,
       "id": "997bc1df6906bc82",
       "name": "花束のかわりにメロディーを",
       "secondary": "未記載",
@@ -1229,7 +1320,7 @@
       "detailPath": "entities/songs/997bc1df6906bc82.json"
     },
     {
-      "rank": 13828,
+      "rank": 13830,
       "id": "af7973808bc39132",
       "name": "花無双",
       "secondary": "アイナ・ジ・エンド",
@@ -1275,7 +1366,7 @@
       "detailPath": "entities/songs/af7973808bc39132.json"
     },
     {
-      "rank": 13829,
+      "rank": 13831,
       "id": "ba81ec4c97a0e3f3",
       "name": "過食性: アイドル症候群",
       "secondary": "スズム",
@@ -1320,7 +1411,7 @@
       "detailPath": "entities/songs/ba81ec4c97a0e3f3.json"
     },
     {
-      "rank": 13830,
+      "rank": 13832,
       "id": "09c231477d2e19e8",
       "name": "我愛イ尓",
       "secondary": "Penthouse",
@@ -1367,7 +1458,7 @@
       "detailPath": "entities/songs/09c231477d2e19e8.json"
     },
     {
-      "rank": 13831,
+      "rank": 13833,
       "id": "f2ac227714405dc9",
       "name": "我愛你",
       "secondary": "Penthouse",
@@ -1413,7 +1504,7 @@
       "detailPath": "entities/songs/f2ac227714405dc9.json"
     },
     {
-      "rank": 13832,
+      "rank": 13834,
       "id": "61b86458ed530a2b",
       "name": "我喜歡",
       "secondary": "梁靜茹",
@@ -1458,7 +1549,7 @@
       "detailPath": "entities/songs/61b86458ed530a2b.json"
     },
     {
-      "rank": 13833,
+      "rank": 13835,
       "id": "ad0e45e13df7c295",
       "name": "我等！鷹の爪団",
       "secondary": "manzo",
@@ -1503,7 +1594,7 @@
       "detailPath": "entities/songs/ad0e45e13df7c295.json"
     },
     {
-      "rank": 13834,
+      "rank": 13836,
       "id": "b31f641ddf219266",
       "name": "我武者羅",
       "secondary": "CHiCO with HoneyWorks",
@@ -1551,7 +1642,7 @@
       "detailPath": "entities/songs/b31f641ddf219266.json"
     },
     {
-      "rank": 13835,
+      "rank": 13837,
       "id": "ea56b2a07f3cd29f",
       "name": "我本人",
       "secondary": "吳雨霏",
@@ -1596,7 +1687,7 @@
       "detailPath": "entities/songs/ea56b2a07f3cd29f.json"
     },
     {
-      "rank": 13836,
+      "rank": 13838,
       "id": "7bcab39d3294aeba",
       "name": "我問天",
       "secondary": "翁立友",
@@ -1641,7 +1732,7 @@
       "detailPath": "entities/songs/7bcab39d3294aeba.json"
     },
     {
-      "rank": 13837,
+      "rank": 13839,
       "id": "2a4f6e28d3a34daa",
       "name": "我們都是第一次做人",
       "secondary": "菲道爾",
@@ -1686,7 +1777,7 @@
       "detailPath": "entities/songs/2a4f6e28d3a34daa.json"
     },
     {
-      "rank": 13838,
+      "rank": 13840,
       "id": "b3c80948c915f656",
       "name": "会いたい",
       "secondary": "GUMI",
@@ -1731,7 +1822,7 @@
       "detailPath": "entities/songs/b3c80948c915f656.json"
     },
     {
-      "rank": 13839,
+      "rank": 13841,
       "id": "36fe1299aea262ce",
       "name": "会いたくて",
       "secondary": "Ado",
@@ -1778,7 +1869,7 @@
       "detailPath": "entities/songs/36fe1299aea262ce.json"
     },
     {
-      "rank": 13840,
+      "rank": 13842,
       "id": "bcceb7b8bd1f556f",
       "name": "会いたくて",
       "secondary": "",
@@ -1823,7 +1914,7 @@
       "detailPath": "entities/songs/bcceb7b8bd1f556f.json"
     },
     {
-      "rank": 13841,
+      "rank": 13843,
       "id": "1337de12bb41dc1e",
       "name": "会心の一撃",
       "secondary": "",
@@ -1868,7 +1959,7 @@
       "detailPath": "entities/songs/1337de12bb41dc1e.json"
     },
     {
-      "rank": 13842,
+      "rank": 13844,
       "id": "7b09f363973ab773",
       "name": "会心の一撃",
       "secondary": "YOASOBI",
@@ -1913,7 +2004,7 @@
       "detailPath": "entities/songs/7b09f363973ab773.json"
     },
     {
-      "rank": 13843,
+      "rank": 13845,
       "id": "dd5ff0a79a9c9339",
       "name": "回る空うさぎ",
       "secondary": "ダズビー",
@@ -1959,7 +2050,7 @@
       "detailPath": "entities/songs/dd5ff0a79a9c9339.json"
     },
     {
-      "rank": 13844,
+      "rank": 13846,
       "id": "5e081d93f7768f75",
       "name": "回る空うさぎ (feat. 初音ミク)",
       "secondary": "Orangestar",
@@ -2001,7 +2092,7 @@
       "detailPath": "entities/songs/5e081d93f7768f75.json"
     },
     {
-      "rank": 13845,
+      "rank": 13847,
       "id": "6c98c30628e5e8d5",
       "name": "回る空兎",
       "secondary": "Orangestar",
@@ -2046,7 +2137,7 @@
       "detailPath": "entities/songs/6c98c30628e5e8d5.json"
     },
     {
-      "rank": 13846,
+      "rank": 13848,
       "id": "77f5f22fa61833b1",
       "name": "回春",
       "secondary": "女王蜂",
@@ -2091,7 +2182,7 @@
       "detailPath": "entities/songs/77f5f22fa61833b1.json"
     },
     {
-      "rank": 13847,
+      "rank": 13849,
       "id": "95679de6ed3ad5e4",
       "name": "快晴",
       "secondary": "",
@@ -2136,7 +2227,7 @@
       "detailPath": "entities/songs/95679de6ed3ad5e4.json"
     },
     {
-      "rank": 13848,
+      "rank": 13850,
       "id": "999596a3f12d473e",
       "name": "快晴",
       "secondary": "Orangestar feat. IA",
@@ -2179,96 +2270,6 @@
         }
       ],
       "detailPath": "entities/songs/999596a3f12d473e.json"
-    },
-    {
-      "rank": 13849,
-      "id": "a0652e94ef31a614",
-      "name": "快眠！安眠！スヤリスト生活",
-      "secondary": "スヤリス姫（CV:水瀬いのり）",
-      "channelId": "UCyQPYsySxSNTQw1Ips5ZAtQ",
-      "channelHandle": "@nakaraisawaomi",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "karaoke",
-        "歌"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8Z9SC0UaBQ0",
-          "videoTitle": "【歌枠】ひたすら歌う｜カラオケJOYSOUND for STREAMER",
-          "channelName": "半井 さわおみ",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8Z9SC0UaBQ0/hqdefault.jpg",
-          "sourcePath": "sources/8Z/8Z9SC0UaBQ0.json",
-          "time": "0:56:27",
-          "seconds": 3387,
-          "songTitle": "快眠！安眠！スヤリスト生活",
-          "artist": "スヤリス姫（CV:水瀬いのり）"
-        },
-        {
-          "videoId": "Vq8NzwhwWIk",
-          "videoTitle": "【 歌枠┆KARAOKE 】2020年代アニメソング歌枠をします！【Vtuber】",
-          "channelName": "Rara Channel",
-          "publishedAt": "2025-10-05T22:33:45.607Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Vq8NzwhwWIk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOXvwEUkr80_rDx8B4oYvsGp0EkA",
-          "sourcePath": "sources/Vq/Vq8NzwhwWIk.json",
-          "time": "0:21:46",
-          "seconds": 1306,
-          "songTitle": "快眠!安眠!スヤリスト生活",
-          "artist": "スヤリス姫(CV: 水瀬いのり)"
-        }
-      ],
-      "detailPath": "entities/songs/a0652e94ef31a614.json"
-    },
-    {
-      "rank": 13850,
-      "id": "f352f058347d1030",
-      "name": "快眠！安眠！スヤリスト生活",
-      "secondary": "",
-      "channelId": "UC1APdN7qfr0s7r8Y3cy68DA",
-      "channelHandle": "@pina_chi",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Txv6kURpMP0",
-          "videoTitle": "【#歌枠 #vtuber #KARAOKE 】でかい声で歌うときが来た！テストも兼ねた歌枠！【 カラオケJOYSOUND for STREAMER 】",
-          "channelName": "樫野木アロン- kashinogi aron-",
-          "publishedAt": "2026-10-04T05:10:21.180Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Txv6kURpMP0/hqdefault.jpg",
-          "sourcePath": "sources/Tx/Txv6kURpMP0.json",
-          "time": "0:19:00",
-          "seconds": 1140,
-          "songTitle": "快眠！安眠！スヤリスト生活",
-          "artist": ""
-        },
-        {
-          "videoId": "YlXO_UHFVHc",
-          "videoTitle": "🌟 #歌枠 🌟うさぴなコラボ来てくださってありがとう！｜ 20260918🐥",
-          "channelName": "ぴなち",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YlXO_UHFVHc/hqdefault.jpg",
-          "sourcePath": "sources/Yl/YlXO_UHFVHc.json",
-          "time": "1:30:37",
-          "seconds": 5437,
-          "songTitle": "快眠！安眠！スヤリスト生活",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/f352f058347d1030.json"
     }
   ]
 }

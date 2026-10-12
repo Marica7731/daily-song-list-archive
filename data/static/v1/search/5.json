@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "items": [
     {
       "id": "540e0c073fd08e36",
@@ -69274,6 +69274,31 @@
       "text": "ウィークエンドロール"
     },
     {
+      "id": "51950bbc74e77f9c",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "Ovewdose",
+      "secondary": "なとり",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/51950bbc74e77f9c.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "ovewdoseなとり"
+    },
+    {
       "id": "5a326c8bbbbc5d7c",
       "channelId": "",
       "channelHandle": "",
@@ -73363,8 +73388,8 @@
       "type": "artists",
       "name": "さユり",
       "secondary": "",
-      "occurrenceCount": 508,
-      "videoCount": 421,
+      "occurrenceCount": 509,
+      "videoCount": 422,
       "keywords": [
         "karaoke",
         "month",
@@ -73392,8 +73417,8 @@
           "videoCount": 15
         },
         "30d": {
-          "occurrenceCount": 215,
-          "videoCount": 177
+          "occurrenceCount": 216,
+          "videoCount": 178
         }
       },
       "text": "さユり"
@@ -74005,8 +74030,8 @@
       "type": "artists",
       "name": "德永英明",
       "secondary": "",
-      "occurrenceCount": 14,
-      "videoCount": 13,
+      "occurrenceCount": 15,
+      "videoCount": 14,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -74019,8 +74044,8 @@
       "detailPath": "entities/artists/5fa43d63b5ddf28f.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 8,
-          "videoCount": 8
+          "occurrenceCount": 9,
+          "videoCount": 9
         }
       },
       "text": "德永英明"
@@ -74230,8 +74255,8 @@
       "type": "artists",
       "name": "しぐれ うい",
       "secondary": "",
-      "occurrenceCount": 123,
-      "videoCount": 118,
+      "occurrenceCount": 124,
+      "videoCount": 119,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -74248,8 +74273,8 @@
           "videoCount": 2
         },
         "30d": {
-          "occurrenceCount": 56,
-          "videoCount": 53
+          "occurrenceCount": 57,
+          "videoCount": 54
         }
       },
       "text": "しぐれうい"

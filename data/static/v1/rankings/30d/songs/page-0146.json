@@ -1,16 +1,103 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "songs",
   "page": 146,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27672,
+  "totalCount": 27684,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7251,
+      "id": "5c9404303b134673",
+      "name": "僕らは今の中で",
+      "secondary": "μ's",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ZRw7NG_TBak",
+          "videoTitle": "【歌枠】ラブライブ（μ's）縛り歌枠【天尊譜らいむ/Vtuber】",
+          "channelName": "天尊譜らいむ【Freeks】",
+          "publishedAt": "2026-09-26T15:54:09.732Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZRw7NG_TBak/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCV0QDqmO7GGwzGHtLa5-oWOsS5Aw",
+          "sourcePath": "sources/ZR/ZRw7NG_TBak.json",
+          "time": "2:02:52",
+          "seconds": 7372,
+          "songTitle": "僕らは今の中で",
+          "artist": "μ's"
+        },
+        {
+          "videoId": "9baOGcT6H9w",
+          "videoTitle": "【 #歌枠 】はじめてのうたわくー！！リクエスト有りです✨【 #彩巴輝レア / #Vtuber 】 #shorts",
+          "channelName": "【新】Rea Ch. 彩巴輝レア -Saihate Rea-【極】",
+          "publishedAt": "2026-09-20T18:04:11.204Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9baOGcT6H9w/hqdefault.jpg",
+          "sourcePath": "sources/9b/9baOGcT6H9w.json",
+          "time": "2:15:34",
+          "seconds": 8134,
+          "songTitle": "僕らは今の中で",
+          "artist": "μ's"
+        }
+      ],
+      "detailPath": "entities/songs/5c9404303b134673.json"
+    },
+    {
+      "rank": 7252,
+      "id": "3d0f9974974659ae",
+      "name": "僕らは今日も車の中",
+      "secondary": "Hump Back",
+      "channelId": "UCM48FPVMJopLzOsVuEJb-Zg",
+      "channelHandle": "@asuyumekanae",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "KdXjeIQ0upw",
+          "videoTitle": "【縦型歌枠/KARAOKE】9月ももう中旬だよなアコギ弾き語り🐺#Shorts #VSinger【水瀬 凪/RK Musicライブユニオン】",
+          "channelName": "水瀬 凪/MINASE Nagi",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KdXjeIQ0upw/hqdefault.jpg",
+          "sourcePath": "sources/Kd/KdXjeIQ0upw.json",
+          "time": "0:12:15",
+          "seconds": 735,
+          "songTitle": "僕らは今日も車の中",
+          "artist": "Hump Back"
+        },
+        {
+          "videoId": "SBD7Amd4cuA",
+          "videoTitle": "【弾き語り】安眠ラジオ #睡眠導入【guitar singing】",
+          "channelName": "明日夢かなえ",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SBD7Amd4cuA/hqdefault.jpg",
+          "sourcePath": "sources/SB/SBD7Amd4cuA.json",
+          "time": "1:06:07",
+          "seconds": 3967,
+          "songTitle": "僕らは今日も車の中",
+          "artist": "Hump Back"
+        }
+      ],
+      "detailPath": "entities/songs/3d0f9974974659ae.json"
+    },
+    {
+      "rank": 7253,
       "id": "4eb163c45e3b5a9b",
       "name": "僕達は天使だった",
       "secondary": "影山ヒロノブ（ドラゴンボールZ ED）",
@@ -55,7 +142,7 @@
       "detailPath": "entities/songs/4eb163c45e3b5a9b.json"
     },
     {
-      "rank": 7252,
+      "rank": 7254,
       "id": "80b7017994ea3020",
       "name": "摩天楼",
       "secondary": "iri",
@@ -100,7 +187,7 @@
       "detailPath": "entities/songs/80b7017994ea3020.json"
     },
     {
-      "rank": 7253,
+      "rank": 7255,
       "id": "f3a47df9af3b0dd1",
       "name": "魔法の人",
       "secondary": "奥華子",
@@ -145,7 +232,7 @@
       "detailPath": "entities/songs/f3a47df9af3b0dd1.json"
     },
     {
-      "rank": 7254,
+      "rank": 7256,
       "id": "00be9c38831af0ea",
       "name": "魔法の絨毯",
       "secondary": "",
@@ -190,7 +277,7 @@
       "detailPath": "entities/songs/00be9c38831af0ea.json"
     },
     {
-      "rank": 7255,
+      "rank": 7257,
       "id": "f31c8ca1eaa9a415",
       "name": "魔法鏡",
       "secondary": "RADWIMPS",
@@ -235,7 +322,7 @@
       "detailPath": "entities/songs/f31c8ca1eaa9a415.json"
     },
     {
-      "rank": 7256,
+      "rank": 7258,
       "id": "482a1a6e8b278261",
       "name": "魔法少女とチョコレゐト",
       "secondary": "",
@@ -280,7 +367,7 @@
       "detailPath": "entities/songs/482a1a6e8b278261.json"
     },
     {
-      "rank": 7257,
+      "rank": 7259,
       "id": "36cab2118c6c8c9f",
       "name": "魔訶不思議アドベンチャー",
       "secondary": "高橋洋樹",
@@ -325,7 +412,7 @@
       "detailPath": "entities/songs/36cab2118c6c8c9f.json"
     },
     {
-      "rank": 7258,
+      "rank": 7260,
       "id": "f938ac4f19cae907",
       "name": "幕が上がる",
       "secondary": "back number",
@@ -370,7 +457,7 @@
       "detailPath": "entities/songs/f938ac4f19cae907.json"
     },
     {
-      "rank": 7259,
+      "rank": 7261,
       "id": "def4d1ba8575a63c",
       "name": "又三郎",
       "secondary": "",
@@ -415,7 +502,7 @@
       "detailPath": "entities/songs/def4d1ba8575a63c.json"
     },
     {
-      "rank": 7260,
+      "rank": 7262,
       "id": "851633529f070377",
       "name": "慢冷",
       "secondary": "梁靜茹",
@@ -460,7 +547,7 @@
       "detailPath": "entities/songs/851633529f070377.json"
     },
     {
-      "rank": 7261,
+      "rank": 7263,
       "id": "c16ca0229948ac6b",
       "name": "満月の夜なら",
       "secondary": "あいみょん",
@@ -505,7 +592,7 @@
       "detailPath": "entities/songs/c16ca0229948ac6b.json"
     },
     {
-      "rank": 7262,
+      "rank": 7264,
       "id": "1152f4142c78d970",
       "name": "未確認中学生X",
       "secondary": "私立恵比寿中学",
@@ -550,7 +637,7 @@
       "detailPath": "entities/songs/1152f4142c78d970.json"
     },
     {
-      "rank": 7263,
+      "rank": 7265,
       "id": "78654cc5c05719aa",
       "name": "未完成",
       "secondary": "オリ曲",
@@ -596,7 +683,7 @@
       "detailPath": "entities/songs/78654cc5c05719aa.json"
     },
     {
-      "rank": 7264,
+      "rank": 7266,
       "id": "5e157358ae5bfa41",
       "name": "未完成交響曲",
       "secondary": "ONE OK ROCK",
@@ -641,7 +728,7 @@
       "detailPath": "entities/songs/5e157358ae5bfa41.json"
     },
     {
-      "rank": 7265,
+      "rank": 7267,
       "id": "1143abe063ad4826",
       "name": "未完成婚姻論",
       "secondary": "",
@@ -686,7 +773,7 @@
       "detailPath": "entities/songs/1143abe063ad4826.json"
     },
     {
-      "rank": 7266,
+      "rank": 7268,
       "id": "5fa4819e8933bf30",
       "name": "未熟DREAMER",
       "secondary": "Aqours",
@@ -731,7 +818,7 @@
       "detailPath": "entities/songs/5fa4819e8933bf30.json"
     },
     {
-      "rank": 7267,
+      "rank": 7269,
       "id": "afd3421201dc14c2",
       "name": "未来",
       "secondary": "Kalafina",
@@ -773,7 +860,7 @@
       "detailPath": "entities/songs/afd3421201dc14c2.json"
     },
     {
-      "rank": 7268,
+      "rank": 7270,
       "id": "2d623a6083e24531",
       "name": "未来の地図",
       "secondary": "Mi",
@@ -818,7 +905,7 @@
       "detailPath": "entities/songs/2d623a6083e24531.json"
     },
     {
-      "rank": 7269,
+      "rank": 7271,
       "id": "27a0d19e7236d377",
       "name": "未来への道 ~Road to million~",
       "secondary": "琥珀ひなた",
@@ -863,7 +950,7 @@
       "detailPath": "entities/songs/27a0d19e7236d377.json"
     },
     {
-      "rank": 7270,
+      "rank": 7272,
       "id": "0f02ced5a1b708d0",
       "name": "魅せられて",
       "secondary": "ジュディ・オング",
@@ -908,7 +995,7 @@
       "detailPath": "entities/songs/0f02ced5a1b708d0.json"
     },
     {
-      "rank": 7271,
+      "rank": 7273,
       "id": "69c7966abe76840b",
       "name": "眠りの国",
       "secondary": "アイオン(やなぎなぎ)",
@@ -953,7 +1040,7 @@
       "detailPath": "entities/songs/69c7966abe76840b.json"
     },
     {
-      "rank": 7272,
+      "rank": 7274,
       "id": "82d19063c0049a25",
       "name": "眠れぬ月夜のランデブー",
       "secondary": "涼風しとら",
@@ -998,7 +1085,7 @@
       "detailPath": "entities/songs/82d19063c0049a25.json"
     },
     {
-      "rank": 7273,
+      "rank": 7275,
       "id": "6dcbe7623f47a771",
       "name": "夢じゃない",
       "secondary": "スピッツ",
@@ -1043,7 +1130,7 @@
       "detailPath": "entities/songs/6dcbe7623f47a771.json"
     },
     {
-      "rank": 7274,
+      "rank": 7276,
       "id": "351ba7ebe8a9ec0e",
       "name": "夢であるように",
       "secondary": "",
@@ -1088,7 +1175,7 @@
       "detailPath": "entities/songs/351ba7ebe8a9ec0e.json"
     },
     {
-      "rank": 7275,
+      "rank": 7277,
       "id": "54c899376e5ee978",
       "name": "夢にエール!パティシエール♪",
       "secondary": "五條真由美",
@@ -1133,7 +1220,7 @@
       "detailPath": "entities/songs/54c899376e5ee978.json"
     },
     {
-      "rank": 7276,
+      "rank": 7278,
       "id": "8251910dfaff682d",
       "name": "夢のつづき",
       "secondary": "帝国歌劇団",
@@ -1178,7 +1265,7 @@
       "detailPath": "entities/songs/8251910dfaff682d.json"
     },
     {
-      "rank": 7277,
+      "rank": 7279,
       "id": "a69f42599396f930",
       "name": "夢のまた夢",
       "secondary": "まふまふ",
@@ -1223,7 +1310,7 @@
       "detailPath": "entities/songs/a69f42599396f930.json"
     },
     {
-      "rank": 7278,
+      "rank": 7280,
       "id": "2182fb26d75dec2c",
       "name": "夢のマント",
       "secondary": "大森玲子",
@@ -1268,7 +1355,7 @@
       "detailPath": "entities/songs/2182fb26d75dec2c.json"
     },
     {
-      "rank": 7279,
+      "rank": 7281,
       "id": "375317a911d4ce90",
       "name": "夢の外へ",
       "secondary": "星野源",
@@ -1310,7 +1397,7 @@
       "detailPath": "entities/songs/375317a911d4ce90.json"
     },
     {
-      "rank": 7280,
+      "rank": 7282,
       "id": "2e1f612384980f32",
       "name": "夢ファンファーレ",
       "secondary": "LIP×LIP",
@@ -1355,7 +1442,7 @@
       "detailPath": "entities/songs/2e1f612384980f32.json"
     },
     {
-      "rank": 7281,
+      "rank": 7283,
       "id": "ed00e6fb510052c5",
       "name": "夢やぶれて",
       "secondary": "レ・ミゼラブル",
@@ -1397,7 +1484,7 @@
       "detailPath": "entities/songs/ed00e6fb510052c5.json"
     },
     {
-      "rank": 7282,
+      "rank": 7284,
       "id": "aed03e98e9a6320d",
       "name": "夢をあきらめないで",
       "secondary": "岡村孝子",
@@ -1443,7 +1530,7 @@
       "detailPath": "entities/songs/aed03e98e9a6320d.json"
     },
     {
-      "rank": 7283,
+      "rank": 7285,
       "id": "f7fdb305b4e9607a",
       "name": "夢見ていよう",
       "secondary": "横山智佐&帝国歌劇団",
@@ -1488,7 +1575,7 @@
       "detailPath": "entities/songs/f7fdb305b4e9607a.json"
     },
     {
-      "rank": 7284,
+      "rank": 7286,
       "id": "20ada3f1abed2b19",
       "name": "夢見る隙間",
       "secondary": "Aiko",
@@ -1533,7 +1620,7 @@
       "detailPath": "entities/songs/20ada3f1abed2b19.json"
     },
     {
-      "rank": 7285,
+      "rank": 7287,
       "id": "a54db9351cfdad9c",
       "name": "夢中",
       "secondary": "BE:FIRST",
@@ -1578,7 +1665,7 @@
       "detailPath": "entities/songs/a54db9351cfdad9c.json"
     },
     {
-      "rank": 7286,
+      "rank": 7288,
       "id": "7a372c487b145bce",
       "name": "夢町コントラスト",
       "secondary": "電ポルP",
@@ -1623,7 +1710,7 @@
       "detailPath": "entities/songs/7a372c487b145bce.json"
     },
     {
-      "rank": 7287,
+      "rank": 7289,
       "id": "d28515e4e36ed6ec",
       "name": "夢灯篭",
       "secondary": "RADWIMPS",
@@ -1668,7 +1755,7 @@
       "detailPath": "entities/songs/d28515e4e36ed6ec.json"
     },
     {
-      "rank": 7288,
+      "rank": 7290,
       "id": "f1de17c26b1cbdda",
       "name": "名古屋なも",
       "secondary": "",
@@ -1710,7 +1797,7 @@
       "detailPath": "entities/songs/f1de17c26b1cbdda.json"
     },
     {
-      "rank": 7289,
+      "rank": 7291,
       "id": "f6f7cf05ae1193d5",
       "name": "名前のない怪物",
       "secondary": "EGOIST ※JOYSOUND",
@@ -1755,7 +1842,7 @@
       "detailPath": "entities/songs/f6f7cf05ae1193d5.json"
     },
     {
-      "rank": 7290,
+      "rank": 7292,
       "id": "9c89ee3efb81d035",
       "name": "命に嫌われている",
       "secondary": "カンザキイオリ feat. 初音ミク",
@@ -1800,7 +1887,7 @@
       "detailPath": "entities/songs/9c89ee3efb81d035.json"
     },
     {
-      "rank": 7291,
+      "rank": 7293,
       "id": "596a623ab0afc730",
       "name": "命ばっかり",
       "secondary": "ぬゆりfeat.Flower•結月ゆかり",
@@ -1846,7 +1933,7 @@
       "detailPath": "entities/songs/596a623ab0afc730.json"
     },
     {
-      "rank": 7292,
+      "rank": 7294,
       "id": "04669ac97d4b56e5",
       "name": "明日の記憶",
       "secondary": "嵐",
@@ -1888,7 +1975,7 @@
       "detailPath": "entities/songs/04669ac97d4b56e5.json"
     },
     {
-      "rank": 7293,
+      "rank": 7295,
       "id": "b613a2c8a6aba9db",
       "name": "明日もし君が壊れても",
       "secondary": "WANDS",
@@ -1930,7 +2017,7 @@
       "detailPath": "entities/songs/b613a2c8a6aba9db.json"
     },
     {
-      "rank": 7294,
+      "rank": 7296,
       "id": "ecbf6d34d1c0ea7f",
       "name": "明日世界が終わるなら",
       "secondary": "中島美嘉",
@@ -1975,7 +2062,7 @@
       "detailPath": "entities/songs/ecbf6d34d1c0ea7f.json"
     },
     {
-      "rank": 7295,
+      "rank": 7297,
       "id": "591e1a3ff7b4396c",
       "name": "迷宮バタフライ",
       "secondary": "ほしな歌唄(CV:水樹奈々)",
@@ -2020,7 +2107,7 @@
       "detailPath": "entities/songs/591e1a3ff7b4396c.json"
     },
     {
-      "rank": 7296,
+      "rank": 7298,
       "id": "14161aede57501d3",
       "name": "迷子犬と雨のビート",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -2065,7 +2152,7 @@
       "detailPath": "entities/songs/14161aede57501d3.json"
     },
     {
-      "rank": 7297,
+      "rank": 7299,
       "id": "589ed5f317224170",
       "name": "面影ワープ",
       "secondary": "nano.RIPE",
@@ -2110,7 +2197,7 @@
       "detailPath": "entities/songs/589ed5f317224170.json"
     },
     {
-      "rank": 7298,
+      "rank": 7300,
       "id": "51d32d083d810cb6",
       "name": "妄想疾患■ガール",
       "secondary": "れるりり",
@@ -2153,96 +2240,6 @@
         }
       ],
       "detailPath": "entities/songs/51d32d083d810cb6.json"
-    },
-    {
-      "rank": 7299,
-      "id": "7754fb528802e02f",
-      "name": "妄想疾患■ガール",
-      "secondary": "大柴広己(もじゃ)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "I-YJQ-g-_Ik",
-          "videoTitle": "【 #歌枠 】同接230名様耐久✨ BGMや睡眠導入、初見さん◎ ボカロ・アニソン等の静か目曲中心 ゆるり歌枠＆雑談💭 #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
-          "channelName": "Azato Ch. 赤魔アザト",
-          "publishedAt": "2026-09-21T20:38:33.795Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/I-YJQ-g-_Ik/hqdefault.jpg",
-          "sourcePath": "sources/I-/I-YJQ-g-_Ik.json",
-          "time": "0:39:20",
-          "seconds": 2360,
-          "songTitle": "妄想疾患■ガール",
-          "artist": "大柴広己（もじゃ）"
-        },
-        {
-          "videoId": "2DR8EwSuHdg",
-          "videoTitle": "【歌枠/Karaoke 】深夜の夜更かしまったり歌枠！一曲聞いてってくださいな🦊歌うの大好きVtuber #新人vtuber 【初見さん・作業用・寝落ち歓迎】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-09-17T18:53:14.396Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2DR8EwSuHdg/hqdefault.jpg",
-          "sourcePath": "sources/2D/2DR8EwSuHdg.json",
-          "time": "1:21:19",
-          "seconds": 4879,
-          "songTitle": "妄想疾患■ガール",
-          "artist": "大柴広己(もじゃ)"
-        }
-      ],
-      "detailPath": "entities/songs/7754fb528802e02f.json"
-    },
-    {
-      "rank": 7300,
-      "id": "7565c27335269630",
-      "name": "妄想税",
-      "secondary": "DECO*27 feat.初音ミク",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "uHn71Z36pTo",
-          "videoTitle": "【歌枠｜KARAOKE】いつのまにか夏も終わり秋だった【見習い天使系VTuber｜#星彩らいむ☆ 】",
-          "channelName": "星彩らいむ☆／SeisaiRaimu",
-          "publishedAt": "2026-10-01T15:38:19.775Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/uHn71Z36pTo/hqdefault.jpg",
-          "sourcePath": "sources/uH/uHn71Z36pTo.json",
-          "time": "0:40:47",
-          "seconds": 2447,
-          "songTitle": "妄想税",
-          "artist": "DECO*27 feat.初音ミク"
-        },
-        {
-          "videoId": "mikLsW0CfY4",
-          "videoTitle": "【#声かっこかわいいV歌枠リレー 】ばに団長です⚔かっこいいもかわいいも全力でいきます🔥【ばに団長/#ばにたいむ 】",
-          "channelName": "ばに団長 -Vanita Scarlet-",
-          "publishedAt": "2026-09-26T11:40:41.281Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mikLsW0CfY4/hqdefault.jpg",
-          "sourcePath": "sources/mi/mikLsW0CfY4.json",
-          "time": "0:15:16",
-          "seconds": 916,
-          "songTitle": "妄想税",
-          "artist": "DECO*27 feat.初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/7565c27335269630.json"
     }
   ]
 }

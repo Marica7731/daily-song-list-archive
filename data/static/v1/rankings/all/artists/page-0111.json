@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "artists",
   "page": 111,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20007,
+  "totalCount": 20013,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5501,
+      "id": "0f55f8f4d67b2a31",
+      "name": "いきものがかりさん",
+      "secondary": "",
+      "channelId": "UCPCqeKKPJvkErl-ijJ-Z5FQ",
+      "channelHandle": "@ChitaCh.%E5%A0%95%E5%A4%A9%E3%81%A1%E3%81%9F",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "PZPwqBtYM2I",
+          "videoTitle": "0725【歌枠】優しいチル声でリラックス...する？作業＆睡眠BGMにもオススメ【#のりまきゆずゆ #vtuber #vsinger #karaoke 】",
+          "channelName": "のりまきゆずゆ",
+          "publishedAt": "2026-07-25T20:00:25.518Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PZPwqBtYM2I/hqdefault.jpg",
+          "sourcePath": "sources/PZ/PZPwqBtYM2I.json",
+          "time": "5:19:06",
+          "seconds": 19146,
+          "songTitle": "気まぐれロマンティック",
+          "artist": "いきものがかりさん"
+        },
+        {
+          "videoId": "YTyhxMo36b4",
+          "videoTitle": "【 #歌枠 】朝から歌わせてください！【 #新人vtuber ／ #堕天ちた 】",
+          "channelName": "Chita Ch.堕天ちた",
+          "publishedAt": "2026-07-15T03:14:59.552Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YTyhxMo36b4/hqdefault.jpg",
+          "sourcePath": "sources/YT/YTyhxMo36b4.json",
+          "time": "2:00:47",
+          "seconds": 7247,
+          "songTitle": "ブルーバード",
+          "artist": "いきものがかりさん"
+        }
+      ],
+      "detailPath": "entities/artists/0f55f8f4d67b2a31.json"
+    },
+    {
+      "rank": 5502,
       "id": "209b748f0765c276",
       "name": "いきものがたり",
       "secondary": "",
@@ -56,7 +101,7 @@
       "detailPath": "entities/artists/209b748f0765c276.json"
     },
     {
-      "rank": 5502,
+      "rank": 5503,
       "id": "9bbb18286c01eb24",
       "name": "いすゞCMソング",
       "secondary": "",
@@ -102,7 +147,7 @@
       "detailPath": "entities/artists/9bbb18286c01eb24.json"
     },
     {
-      "rank": 5503,
+      "rank": 5504,
       "id": "97475fc3df96344f",
       "name": "イタリア (浪川大輔)",
       "secondary": "",
@@ -147,7 +192,7 @@
       "detailPath": "entities/artists/97475fc3df96344f.json"
     },
     {
-      "rank": 5504,
+      "rank": 5505,
       "id": "68cec0a2bde79e53",
       "name": "イモ欽トリオ",
       "secondary": "",
@@ -192,7 +237,7 @@
       "detailPath": "entities/artists/68cec0a2bde79e53.json"
     },
     {
-      "rank": 5505,
+      "rank": 5506,
       "id": "8655b706c5b29d14",
       "name": "いよわ feat.可不(KAFU) ※JOYSOUND",
       "secondary": "",
@@ -239,7 +284,7 @@
       "detailPath": "entities/artists/8655b706c5b29d14.json"
     },
     {
-      "rank": 5506,
+      "rank": 5507,
       "id": "368d350e33b3e83f",
       "name": "イルミネーションスターズ",
       "secondary": "",
@@ -286,7 +331,7 @@
       "detailPath": "entities/artists/368d350e33b3e83f.json"
     },
     {
-      "rank": 5507,
+      "rank": 5508,
       "id": "aa0ace8cbee8614b",
       "name": "いろはにほへっと あやふぶみ",
       "secondary": "",
@@ -332,7 +377,7 @@
       "detailPath": "entities/artists/aa0ace8cbee8614b.json"
     },
     {
-      "rank": 5508,
+      "rank": 5509,
       "id": "969f8cdfcdc9a047",
       "name": "いろみね",
       "secondary": "",
@@ -374,7 +419,7 @@
       "detailPath": "entities/artists/969f8cdfcdc9a047.json"
     },
     {
-      "rank": 5509,
+      "rank": 5510,
       "id": "16324360b4d6ac6e",
       "name": "うずら",
       "secondary": "",
@@ -422,7 +467,7 @@
       "detailPath": "entities/artists/16324360b4d6ac6e.json"
     },
     {
-      "rank": 5510,
+      "rank": 5511,
       "id": "f924af32be886195",
       "name": "うたねがと",
       "secondary": "",
@@ -464,7 +509,7 @@
       "detailPath": "entities/artists/f924af32be886195.json"
     },
     {
-      "rank": 5511,
+      "rank": 5512,
       "id": "d6577668f2078061",
       "name": "ウルトラマンネクサス",
       "secondary": "",
@@ -509,7 +554,7 @@
       "detailPath": "entities/artists/d6577668f2078061.json"
     },
     {
-      "rank": 5512,
+      "rank": 5513,
       "id": "8cc6d4e105c09d1a",
       "name": "エアプ",
       "secondary": "",
@@ -551,7 +596,7 @@
       "detailPath": "entities/artists/8cc6d4e105c09d1a.json"
     },
     {
-      "rank": 5513,
+      "rank": 5514,
       "id": "ccc5363e77565a01",
       "name": "エイティシックス",
       "secondary": "",
@@ -596,7 +641,7 @@
       "detailPath": "entities/artists/ccc5363e77565a01.json"
     },
     {
-      "rank": 5514,
+      "rank": 5515,
       "id": "e9e96c206e9e0bb2",
       "name": "エイハブ 👈🆕",
       "secondary": "",
@@ -644,7 +689,7 @@
       "detailPath": "entities/artists/e9e96c206e9e0bb2.json"
     },
     {
-      "rank": 5515,
+      "rank": 5516,
       "id": "8b76b732efed0ccf",
       "name": "エグスプロージョン",
       "secondary": "",
@@ -690,7 +735,7 @@
       "detailPath": "entities/artists/8b76b732efed0ccf.json"
     },
     {
-      "rank": 5516,
+      "rank": 5517,
       "id": "06631ccb0a50ebba",
       "name": "えこ。 feat.初音ミク",
       "secondary": "",
@@ -735,7 +780,7 @@
       "detailPath": "entities/artists/06631ccb0a50ebba.json"
     },
     {
-      "rank": 5517,
+      "rank": 5518,
       "id": "173e8fe197f9782f",
       "name": "えこ。・はいのことん",
       "secondary": "",
@@ -777,7 +822,7 @@
       "detailPath": "entities/artists/173e8fe197f9782f.json"
     },
     {
-      "rank": 5518,
+      "rank": 5519,
       "id": "6078e293c16a85be",
       "name": "エコーあり",
       "secondary": "",
@@ -822,7 +867,7 @@
       "detailPath": "entities/artists/6078e293c16a85be.json"
     },
     {
-      "rank": 5519,
+      "rank": 5520,
       "id": "d63069489eae438f",
       "name": "えぬ",
       "secondary": "",
@@ -867,7 +912,7 @@
       "detailPath": "entities/artists/d63069489eae438f.json"
     },
     {
-      "rank": 5520,
+      "rank": 5521,
       "id": "7a047a72933b6b3e",
       "name": "エミリア",
       "secondary": "",
@@ -915,7 +960,7 @@
       "detailPath": "entities/artists/7a047a72933b6b3e.json"
     },
     {
-      "rank": 5521,
+      "rank": 5522,
       "id": "7fba3a9ed1ad39af",
       "name": "エメ",
       "secondary": "",
@@ -963,7 +1008,7 @@
       "detailPath": "entities/artists/7fba3a9ed1ad39af.json"
     },
     {
-      "rank": 5522,
+      "rank": 5523,
       "id": "e60892dcf6574310",
       "name": "エンジェルスハーモニー",
       "secondary": "",
@@ -1009,7 +1054,7 @@
       "detailPath": "entities/artists/e60892dcf6574310.json"
     },
     {
-      "rank": 5523,
+      "rank": 5524,
       "id": "a089ef9985c000ea",
       "name": "おおきく振りかぶって Big Windup!",
       "secondary": "",
@@ -1054,7 +1099,7 @@
       "detailPath": "entities/artists/a089ef9985c000ea.json"
     },
     {
-      "rank": 5524,
+      "rank": 5525,
       "id": "09cb01cb225cc0f9",
       "name": "おおたか静流",
       "secondary": "",
@@ -1099,7 +1144,7 @@
       "detailPath": "entities/artists/09cb01cb225cc0f9.json"
     },
     {
-      "rank": 5525,
+      "rank": 5526,
       "id": "dc02296989d93384",
       "name": "オーバーロードII OVERLORDII",
       "secondary": "",
@@ -1144,7 +1189,7 @@
       "detailPath": "entities/artists/dc02296989d93384.json"
     },
     {
-      "rank": 5526,
+      "rank": 5527,
       "id": "b9feab76632e3e6a",
       "name": "オカメインコ",
       "secondary": "",
@@ -1189,7 +1234,7 @@
       "detailPath": "entities/artists/b9feab76632e3e6a.json"
     },
     {
-      "rank": 5527,
+      "rank": 5528,
       "id": "4c889dcbb1cd461c",
       "name": "おくすり飲んで寝よう",
       "secondary": "",
@@ -1231,7 +1276,7 @@
       "detailPath": "entities/artists/4c889dcbb1cd461c.json"
     },
     {
-      "rank": 5528,
+      "rank": 5529,
       "id": "e741ff0c7d2ea7a9",
       "name": "おじぇいまる",
       "secondary": "",
@@ -1276,7 +1321,7 @@
       "detailPath": "entities/artists/e741ff0c7d2ea7a9.json"
     },
     {
-      "rank": 5529,
+      "rank": 5530,
       "id": "353f9adf0959d6f1",
       "name": "おジャ魔女どれみ",
       "secondary": "",
@@ -1321,7 +1366,7 @@
       "detailPath": "entities/artists/353f9adf0959d6f1.json"
     },
     {
-      "rank": 5530,
+      "rank": 5531,
       "id": "b90a6a09344417d3",
       "name": "おしりかじり虫",
       "secondary": "",
@@ -1367,7 +1412,7 @@
       "detailPath": "entities/artists/b90a6a09344417d3.json"
     },
     {
-      "rank": 5531,
+      "rank": 5532,
       "id": "03cef097cf6d60db",
       "name": "オススメ",
       "secondary": "",
@@ -1412,7 +1457,7 @@
       "detailPath": "entities/artists/03cef097cf6d60db.json"
     },
     {
-      "rank": 5532,
+      "rank": 5533,
       "id": "37793e97f6f31ce7",
       "name": "オズの魔法使い",
       "secondary": "",
@@ -1454,7 +1499,7 @@
       "detailPath": "entities/artists/37793e97f6f31ce7.json"
     },
     {
-      "rank": 5533,
+      "rank": 5534,
       "id": "be77c03b515cd191",
       "name": "オゾン",
       "secondary": "",
@@ -1499,7 +1544,7 @@
       "detailPath": "entities/artists/be77c03b515cd191.json"
     },
     {
-      "rank": 5534,
+      "rank": 5535,
       "id": "12696163f244cf39",
       "name": "おつゆく",
       "secondary": "",
@@ -1544,7 +1589,7 @@
       "detailPath": "entities/artists/12696163f244cf39.json"
     },
     {
-      "rank": 5535,
+      "rank": 5536,
       "id": "002b09b1698a5218",
       "name": "おとぎ feat. えん/neG",
       "secondary": "",
@@ -1586,7 +1631,7 @@
       "detailPath": "entities/artists/002b09b1698a5218.json"
     },
     {
-      "rank": 5536,
+      "rank": 5537,
       "id": "4f8a9d10887c22f6",
       "name": "おとぎ銃士 赤ずきん",
       "secondary": "",
@@ -1631,7 +1676,7 @@
       "detailPath": "entities/artists/4f8a9d10887c22f6.json"
     },
     {
-      "rank": 5537,
+      "rank": 5538,
       "id": "6dea53b600bcf743",
       "name": "おニャン子クラブ",
       "secondary": "",
@@ -1676,7 +1721,7 @@
       "detailPath": "entities/artists/6dea53b600bcf743.json"
     },
     {
-      "rank": 5538,
+      "rank": 5539,
       "id": "9a2e4f97500c788d",
       "name": "おやすみ泣き声、さよなら歌姫",
       "secondary": "",
@@ -1720,7 +1765,7 @@
       "detailPath": "entities/artists/9a2e4f97500c788d.json"
     },
     {
-      "rank": 5539,
+      "rank": 5540,
       "id": "bcd551a983683aa2",
       "name": "オヨネーズ",
       "secondary": "",
@@ -1765,7 +1810,7 @@
       "detailPath": "entities/artists/bcd551a983683aa2.json"
     },
     {
-      "rank": 5540,
+      "rank": 5541,
       "id": "b84dd1bc17945822",
       "name": "オワタ＼(^o^)",
       "secondary": "",
@@ -1812,7 +1857,7 @@
       "detailPath": "entities/artists/b84dd1bc17945822.json"
     },
     {
-      "rank": 5541,
+      "rank": 5542,
       "id": "7b03d5ba8d07ad35",
       "name": "オワタＰ feat . 初音ミク",
       "secondary": "",
@@ -1859,7 +1904,7 @@
       "detailPath": "entities/artists/7b03d5ba8d07ad35.json"
     },
     {
-      "rank": 5542,
+      "rank": 5543,
       "id": "0037eee061c4838a",
       "name": "かいりきベア・まふまふ",
       "secondary": "",
@@ -1904,7 +1949,7 @@
       "detailPath": "entities/artists/0037eee061c4838a.json"
     },
     {
-      "rank": 5543,
+      "rank": 5544,
       "id": "df5e5f659548a82c",
       "name": "かずき山盛り",
       "secondary": "",
@@ -1950,7 +1995,7 @@
       "detailPath": "entities/artists/df5e5f659548a82c.json"
     },
     {
-      "rank": 5544,
+      "rank": 5545,
       "id": "7ea796c0870cf1ef",
       "name": "かてらざわ",
       "secondary": "",
@@ -1997,7 +2042,7 @@
       "detailPath": "entities/artists/7ea796c0870cf1ef.json"
     },
     {
-      "rank": 5545,
+      "rank": 5546,
       "id": "f40894e08e9f39a6",
       "name": "かにみそP",
       "secondary": "",
@@ -2042,7 +2087,7 @@
       "detailPath": "entities/artists/f40894e08e9f39a6.json"
     },
     {
-      "rank": 5546,
+      "rank": 5547,
       "id": "a32b089598052654",
       "name": "カミサマ・ネコサマ",
       "secondary": "",
@@ -2090,7 +2135,7 @@
       "detailPath": "entities/artists/a32b089598052654.json"
     },
     {
-      "rank": 5547,
+      "rank": 5548,
       "id": "30eb3fdb4eac77ab",
       "name": "カラーズ☆スラッシュ",
       "secondary": "",
@@ -2135,7 +2180,7 @@
       "detailPath": "entities/artists/30eb3fdb4eac77ab.json"
     },
     {
-      "rank": 5548,
+      "rank": 5549,
       "id": "5b45fbecd3e5c8af",
       "name": "カラーズ☆スラッシュ<結衣(CV.高田憂希)、さっちゃん(CV.高野麻里佳)、琴葉(CV.日岡なつみ)>",
       "secondary": "",
@@ -2180,7 +2225,7 @@
       "detailPath": "entities/artists/5b45fbecd3e5c8af.json"
     },
     {
-      "rank": 5549,
+      "rank": 5550,
       "id": "1dce4049e0af9cc6",
       "name": "カルロス袴田(サイゼP)",
       "secondary": "",
@@ -2223,54 +2268,6 @@
         }
       ],
       "detailPath": "entities/artists/1dce4049e0af9cc6.json"
-    },
-    {
-      "rank": 5550,
-      "id": "39a334973e43bfc5",
-      "name": "カロンズベカラズ",
-      "secondary": "",
-      "channelId": "UCOy0HcyhLvwHVzAn8bTJPOA",
-      "channelHandle": "@sazanamiserena",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "KxOnRiExkro",
-          "videoTitle": "【歌枠／karaoke】美3Dセルフアプデ＋αお披露目✧耐久🎤♩【#さざなみセレナ Vtuber VSinger】",
-          "channelName": "さざなみセレナ Serena Sazanami",
-          "publishedAt": "2026-09-30T14:17:27.551Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KxOnRiExkro/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQdDMGkL0MchnLsy9F_XMUgBba-A",
-          "sourcePath": "sources/Kx/KxOnRiExkro.json",
-          "time": "4:11:15",
-          "seconds": 15075,
-          "songTitle": "エンバーミング",
-          "artist": "カロンズベカラズ"
-        },
-        {
-          "videoId": "7pgf3QAcDX0",
-          "videoTitle": "【歌枠／karaoke】高評価150耐久✧達成で初出し曲♩セイレーンのお盆歌枠🎤♩✧【#さざなみセレナ Vtuber VSinger】",
-          "channelName": "さざなみセレナ Serena Sazanami",
-          "publishedAt": "2026-08-12T12:24:40.871Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7pgf3QAcDX0/hqdefault.jpg",
-          "sourcePath": "sources/7p/7pgf3QAcDX0.json",
-          "time": "2:27:56",
-          "seconds": 8876,
-          "songTitle": "エンバーミング",
-          "artist": "カロンズベカラズ"
-        }
-      ],
-      "detailPath": "entities/artists/39a334973e43bfc5.json"
     }
   ]
 }

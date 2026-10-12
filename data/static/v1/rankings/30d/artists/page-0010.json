@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "30d",
   "type": "artists",
   "page": 10,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10851,
+  "totalCount": 10857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2250,6 +2250,63 @@
     },
     {
       "rank": 490,
+      "id": "a73747c9fbdd6e62",
+      "name": "AAA",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 21,
+      "videoCount": 20,
+      "songCount": 10,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "T66HttbkpYg",
+          "videoTitle": "【 歌枠 / KARAOKE 】10月初めの1時間限定歌枠🎤【 甘従ひよ / #新人Vtuber 】",
+          "channelName": "甘従ひよ / Amatsugu Hiyo",
+          "publishedAt": "2026-10-06T15:04:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/T66HttbkpYg/hqdefault.jpg",
+          "sourcePath": "sources/T6/T66HttbkpYg.json",
+          "time": "0:27:56",
+          "seconds": 1676,
+          "songTitle": "04_恋音と雨空",
+          "artist": "AAA"
+        },
+        {
+          "videoId": "R2QxqU-RXxg",
+          "videoTitle": "【歌枠🎤】激レア！出会ったきみは豪運✨ 歌成長したかも？【#蒼宮よづり #vtuber 】",
+          "channelName": "Aomiya Yozuri Ch. 蒼宮よづり",
+          "publishedAt": "2026-10-04T14:22:03.051Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/R2QxqU-RXxg/hqdefault.jpg",
+          "sourcePath": "sources/R2/R2QxqU-RXxg.json",
+          "time": "0:56:57",
+          "seconds": 3417,
+          "songTitle": "Climax Jump",
+          "artist": "AAA"
+        },
+        {
+          "videoId": "NDFA-4a-fhQ",
+          "videoTitle": "【#歌枠】眠れないから逆にバラードで睡眠導入剤するか #初見さん大歓迎 #ROM大歓迎 【LiccaLin/#VTuber】#ぶいなっぷ",
+          "channelName": "LiccaLin",
+          "publishedAt": "2026-10-03T21:04:33.023Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NDFA-4a-fhQ/hqdefault.jpg",
+          "sourcePath": "sources/ND/NDFA-4a-fhQ.json",
+          "time": "1:40:44",
+          "seconds": 6044,
+          "songTitle": "• 【カラオケ】さよならの前に",
+          "artist": "AAA"
+        }
+      ],
+      "detailPath": "entities/artists/a73747c9fbdd6e62.json"
+    },
+    {
+      "rank": 491,
       "id": "33599da71808eb78",
       "name": "REISAI",
       "secondary": "",
@@ -2306,7 +2363,7 @@
       "detailPath": "entities/artists/33599da71808eb78.json"
     },
     {
-      "rank": 491,
+      "rank": 492,
       "id": "0302e2d21908eb30",
       "name": "かいりきベア feat. 初音ミク",
       "secondary": "",
@@ -2363,7 +2420,7 @@
       "detailPath": "entities/artists/0302e2d21908eb30.json"
     },
     {
-      "rank": 492,
+      "rank": 493,
       "id": "f1b00da81e8f5ff6",
       "name": "カラスヤサボウ",
       "secondary": "",
@@ -2420,7 +2477,7 @@
       "detailPath": "entities/artists/f1b00da81e8f5ff6.json"
     },
     {
-      "rank": 493,
+      "rank": 494,
       "id": "7a2f9e34ba9c5975",
       "name": "ハチワレ(田中誠人)",
       "secondary": "",
@@ -2477,7 +2534,7 @@
       "detailPath": "entities/artists/7a2f9e34ba9c5975.json"
     },
     {
-      "rank": 494,
+      "rank": 495,
       "id": "36feb560f13f0c5e",
       "name": "神宿",
       "secondary": "",
@@ -2535,7 +2592,7 @@
       "detailPath": "entities/artists/36feb560f13f0c5e.json"
     },
     {
-      "rank": 495,
+      "rank": 496,
       "id": "7b3dbf6bb95180b3",
       "name": "とあ",
       "secondary": "",
@@ -2592,7 +2649,7 @@
       "detailPath": "entities/artists/7b3dbf6bb95180b3.json"
     },
     {
-      "rank": 496,
+      "rank": 497,
       "id": "935f2dff6079c8fb",
       "name": "ハチワレ",
       "secondary": "",
@@ -2650,7 +2707,7 @@
       "detailPath": "entities/artists/935f2dff6079c8fb.json"
     },
     {
-      "rank": 497,
+      "rank": 498,
       "id": "2496ea52716809e3",
       "name": "ゆこぴ",
       "secondary": "",
@@ -2707,7 +2764,7 @@
       "detailPath": "entities/artists/2496ea52716809e3.json"
     },
     {
-      "rank": 498,
+      "rank": 499,
       "id": "2fc0ee1758735d1c",
       "name": "ピノキオピー feat.初音ミク",
       "secondary": "",
@@ -2764,7 +2821,7 @@
       "detailPath": "entities/artists/2fc0ee1758735d1c.json"
     },
     {
-      "rank": 499,
+      "rank": 500,
       "id": "37258d7fa71a90d7",
       "name": "*Luna",
       "secondary": "",
@@ -2819,63 +2876,6 @@
         }
       ],
       "detailPath": "entities/artists/37258d7fa71a90d7.json"
-    },
-    {
-      "rank": 500,
-      "id": "92e460ab92ec0ee5",
-      "name": "i☆Ris",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 21,
-      "videoCount": 17,
-      "songCount": 9,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "wuUKmErOD8Y",
-          "videoTitle": "【#歌枠 】初見さん歓迎中！もうすぐハロウィンだ…！ #shorts #vtuber #vsinger",
-          "channelName": "YOSHIKA⁂Ch.",
-          "publishedAt": "2026-10-09T17:24:32.864Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wuUKmErOD8Y/hqdefault.jpg",
-          "sourcePath": "sources/wu/wuUKmErOD8Y.json",
-          "time": "1:18:35",
-          "seconds": 4715,
-          "songTitle": "Welcome to あざとさワールド",
-          "artist": "i☆Ris"
-        },
-        {
-          "videoId": "nKQcAhAMfhc",
-          "videoTitle": "【 歌枠 / 参加型 / 初見歓迎 】アニソン・ボカロ・J-POPの神曲たちを完全自律型AIが歌い尽くすわ！【 AITuber / 九重リンカ VTuber VSinger 】",
-          "channelName": "九重リンカ / Kokonoe Rinka Ch.【AI VTuber】",
-          "publishedAt": "2026-10-04T11:18:12.722Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nKQcAhAMfhc/hqdefault.jpg",
-          "sourcePath": "sources/nK/nKQcAhAMfhc.json",
-          "time": "0:21:37",
-          "seconds": 1297,
-          "songTitle": "Make it!",
-          "artist": "i☆Ris"
-        },
-        {
-          "videoId": "TiI5aDefzLw",
-          "videoTitle": "【 歌枠 / Karaoke 】日曜定期歌枠𝜗𝜚.⋆ リクエスト歌わせてっ！初見さん歓迎🎀🔔‎🤍Singing Stream【 #鈴花いのり 】",
-          "channelName": "鈴花いのり - Suzuhana Inori -",
-          "publishedAt": "2026-10-04T08:49:36.798Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TiI5aDefzLw/hqdefault.jpg",
-          "sourcePath": "sources/Ti/TiI5aDefzLw.json",
-          "time": "3:33:49",
-          "seconds": 12829,
-          "songTitle": "Make it!",
-          "artist": "i☆Ris"
-        }
-      ],
-      "detailPath": "entities/artists/92e460ab92ec0ee5.json"
     }
   ]
 }

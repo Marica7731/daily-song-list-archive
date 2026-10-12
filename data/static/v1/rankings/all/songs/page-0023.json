@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 23,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2350,6 +2350,67 @@
     },
     {
       "rank": 1140,
+      "id": "e59b26362a7bb2a9",
+      "name": "花束",
+      "secondary": "back number",
+      "channelId": "UCqe0-vqZwAvZUb22wCMu1fA",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 25,
+      "videoCount": 25,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "kNxhOLH5zZ8",
+          "videoTitle": "【定期歌枠 第52回 / Karaoke】初見さん大歓迎！！リクエストだけ歌う歌枠！【#神凪アンナ/Re:AcT】",
+          "channelName": "神凪アンナ - Kannagi Anna -",
+          "publishedAt": "2026-10-10T04:59:07.725Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kNxhOLH5zZ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9UcaP5Ioy_Gr-qnkna_oLZdEozQ",
+          "sourcePath": "sources/kN/kNxhOLH5zZ8.json",
+          "time": "0:50:36",
+          "seconds": 3036,
+          "songTitle": "花束",
+          "artist": "back number"
+        },
+        {
+          "videoId": "NYFqA07mEcM",
+          "videoTitle": "〖Chill┊弾き語り〗今歌いたくなった曲をゆるっと弾き語りする.*˚〖acoustic/まろん井上〗",
+          "channelName": "まろん井上ちゃんねる",
+          "publishedAt": "2026-10-04T14:22:07.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NYFqA07mEcM/hqdefault.jpg",
+          "sourcePath": "sources/NY/NYFqA07mEcM.json",
+          "time": "1:48:42",
+          "seconds": 6522,
+          "songTitle": "花束",
+          "artist": "back number"
+        },
+        {
+          "videoId": "B6b3Qa9U-Zg",
+          "videoTitle": "【歌枠】華金のおともに🌙✨チルな雰囲気だしていきたい😳【＃空音杏(きょー)】#新人vtuber #個人VTuber #そらねきょー ＃Vsinger",
+          "channelName": "こびとの空音杏(きょー) / Kyo Sorane",
+          "publishedAt": "2026-10-02T15:14:01.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/B6b3Qa9U-Zg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWLUkn1v0EeL1qkbTkWeXGXCXYFg",
+          "sourcePath": "sources/B6/B6b3Qa9U-Zg.json",
+          "time": "0:42:57",
+          "seconds": 2577,
+          "songTitle": "花束",
+          "artist": "back number"
+        }
+      ],
+      "detailPath": "entities/songs/e59b26362a7bb2a9.json"
+    },
+    {
+      "rank": 1141,
       "id": "5dbcfa65912f8e14",
       "name": "灰色と青",
       "secondary": "米津玄師 & 菅田 将暉",
@@ -2410,7 +2471,7 @@
       "detailPath": "entities/songs/5dbcfa65912f8e14.json"
     },
     {
-      "rank": 1141,
+      "rank": 1142,
       "id": "781371cb4ae13f65",
       "name": "崖の上のポニョ",
       "secondary": "藤岡藤巻と大橋のぞみ",
@@ -2471,7 +2532,7 @@
       "detailPath": "entities/songs/781371cb4ae13f65.json"
     },
     {
-      "rank": 1142,
+      "rank": 1143,
       "id": "f920e90a7f9896dc",
       "name": "気まぐれロマンティック",
       "secondary": "",
@@ -2529,7 +2590,7 @@
       "detailPath": "entities/songs/f920e90a7f9896dc.json"
     },
     {
-      "rank": 1143,
+      "rank": 1144,
       "id": "c7aabe8e0e877689",
       "name": "輝夜の城で踊りたい",
       "secondary": "μ's",
@@ -2589,7 +2650,7 @@
       "detailPath": "entities/songs/c7aabe8e0e877689.json"
     },
     {
-      "rank": 1144,
+      "rank": 1145,
       "id": "680b820bd5a7e041",
       "name": "今宵、月が見えずとも",
       "secondary": "ポルノグラフィティ",
@@ -2649,7 +2710,7 @@
       "detailPath": "entities/songs/680b820bd5a7e041.json"
     },
     {
-      "rank": 1145,
+      "rank": 1146,
       "id": "c21806e109304e43",
       "name": "修羅場",
       "secondary": "東京事変",
@@ -2709,7 +2770,7 @@
       "detailPath": "entities/songs/c21806e109304e43.json"
     },
     {
-      "rank": 1146,
+      "rank": 1147,
       "id": "67eab4f1239a6d41",
       "name": "深昏睡",
       "secondary": "春野",
@@ -2769,7 +2830,7 @@
       "detailPath": "entities/songs/67eab4f1239a6d41.json"
     },
     {
-      "rank": 1147,
+      "rank": 1148,
       "id": "683b6687197aff79",
       "name": "星間飛行",
       "secondary": "",
@@ -2826,7 +2887,7 @@
       "detailPath": "entities/songs/683b6687197aff79.json"
     },
     {
-      "rank": 1148,
+      "rank": 1149,
       "id": "21032a6f65de0cd9",
       "name": "創聖のアクエリオン",
       "secondary": "",
@@ -2884,7 +2945,7 @@
       "detailPath": "entities/songs/21032a6f65de0cd9.json"
     },
     {
-      "rank": 1149,
+      "rank": 1150,
       "id": "6025944e8dda99b0",
       "name": "蒼のエーテル",
       "secondary": "ランカ・リー＝中島愛",
@@ -2944,67 +3005,6 @@
         }
       ],
       "detailPath": "entities/songs/6025944e8dda99b0.json"
-    },
-    {
-      "rank": 1150,
-      "id": "45bef800035981bb",
-      "name": "Jupiter",
-      "secondary": "平原綾香",
-      "channelId": "UCpxU2IKqNzXudnp17iHJT0Q",
-      "channelHandle": "@fuyumoekokona",
-      "channelUrl": "",
-      "occurrenceCount": 25,
-      "videoCount": 24,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XK3Bhad_aao",
-          "videoTitle": "【 #歌枠/Singing】平成縛り歌枠❢❢初見さん・ROMさん大歓迎！作業や睡眠のお供に🦊見つけてください！【 #新人vtuber 】",
-          "channelName": "月詠命こん",
-          "publishedAt": "2026-10-09T15:52:44.712Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XK3Bhad_aao/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALkW7FuD0UOoYM9evz1edRxn86Cg",
-          "sourcePath": "sources/XK/XK3Bhad_aao.json",
-          "time": "0:57:22",
-          "seconds": 3442,
-          "songTitle": "Jupiter",
-          "artist": "平原綾香"
-        },
-        {
-          "videoId": "JbHIw5fe37k",
-          "videoTitle": "【#縦型歌枠｜KARAOKE】睡眠導入や作業BGMにどうぞ🍵 夜に聞きたいやさしい声 #vtuber #shorts",
-          "channelName": "Aoi Ch. 港町あおい",
-          "publishedAt": "2026-10-03T14:57:10.818Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JbHIw5fe37k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCEwzV-lz9KSrCOSut5Wx3NXk23EQ",
-          "sourcePath": "sources/Jb/JbHIw5fe37k.json",
-          "time": "0:04:36",
-          "seconds": 276,
-          "songTitle": "Jupiter",
-          "artist": "平原綾香"
-        },
-        {
-          "videoId": "LP7LsYVFFMs",
-          "videoTitle": "【 #歌枠 二星ぼに】リアルタイムでリクエスト募集！10月2日【 #vtuber #singing 】",
-          "channelName": "二星ぼに / BONI",
-          "publishedAt": "2026-10-02T11:14:01.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LP7LsYVFFMs/hqdefault.jpg",
-          "sourcePath": "sources/LP/LP7LsYVFFMs.json",
-          "time": "0:09:06",
-          "seconds": 546,
-          "songTitle": "Jupiter",
-          "artist": "平原綾香"
-        }
-      ],
-      "detailPath": "entities/songs/45bef800035981bb.json"
     }
   ]
 }

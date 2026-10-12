@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 64,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3151,
+      "id": "0d505e114077fe0f",
+      "name": "Daydream café",
+      "secondary": "Petit Rabbit's",
+      "channelId": "UCg07Ij3Uov3k9rYgBwDQLVQ",
+      "channelHandle": "@ameru_hoshifuru",
+      "channelUrl": "",
+      "occurrenceCount": 8,
+      "videoCount": 8,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-m25jA-fyUU",
+          "videoTitle": "♰ 歌枠 ♰ 久々にお歌と雑談するぞ～♩【 #終末むくろ / #すぺしゃりて 】",
+          "channelName": "終末むくろ / Mukuro Owarino",
+          "publishedAt": "2026-10-07T18:11:43.576Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-m25jA-fyUU/hqdefault.jpg",
+          "sourcePath": "sources/-m/-m25jA-fyUU.json",
+          "time": "0:56:30",
+          "seconds": 3390,
+          "songTitle": "Daydream café",
+          "artist": "Petit Rabbit's"
+        },
+        {
+          "videoId": "TgpjKVZYJys",
+          "videoTitle": "【歌枠】声優さんが歌うアニソン、キャラソンを歌うー！！！！ #ウタノライブ 【KARAOKE/VTuber】",
+          "channelName": "UTANO ch. 白玖ウタノ",
+          "publishedAt": "2026-10-03T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TgpjKVZYJys/hqdefault.jpg",
+          "sourcePath": "sources/Tg/TgpjKVZYJys.json",
+          "time": "1:26:40",
+          "seconds": 5200,
+          "songTitle": "Daydream café",
+          "artist": "Petit Rabbit's"
+        },
+        {
+          "videoId": "Eeyo9wengFM",
+          "videoTitle": "【#歌枠】かわいいもかっこいいも欲張りに歌っちゃいます🐈‍⬛🖤￤KARAOKE Singing Stream【明堂しろね/ハコネクト】",
+          "channelName": "明堂しろね Shirone Ch.",
+          "publishedAt": "2026-09-21T04:44:51.595Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Eeyo9wengFM/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLA4rA1F9nveHnrXlKZQFekLVtyFDQ",
+          "sourcePath": "sources/Ee/Eeyo9wengFM.json",
+          "time": "1:00:24",
+          "seconds": 3624,
+          "songTitle": "Daydream café",
+          "artist": "Petit Rabbit's"
+        }
+      ],
+      "detailPath": "entities/songs/0d505e114077fe0f.json"
+    },
+    {
+      "rank": 3152,
       "id": "3253713d40cf3e80",
       "name": "ELECT",
       "secondary": "niki",
@@ -70,7 +130,7 @@
       "detailPath": "entities/songs/3253713d40cf3e80.json"
     },
     {
-      "rank": 3152,
+      "rank": 3153,
       "id": "c18aac7f88a6617b",
       "name": "Endless Story",
       "secondary": "田村ゆかり",
@@ -130,7 +190,7 @@
       "detailPath": "entities/songs/c18aac7f88a6617b.json"
     },
     {
-      "rank": 3153,
+      "rank": 3154,
       "id": "9299f3c1bd90e58a",
       "name": "ERROR",
       "secondary": "niki feat.Lily",
@@ -190,7 +250,7 @@
       "detailPath": "entities/songs/9299f3c1bd90e58a.json"
     },
     {
-      "rank": 3154,
+      "rank": 3155,
       "id": "aba7db271f94bcd4",
       "name": "Esperanza",
       "secondary": "西野カナ",
@@ -250,7 +310,7 @@
       "detailPath": "entities/songs/aba7db271f94bcd4.json"
     },
     {
-      "rank": 3155,
+      "rank": 3156,
       "id": "c2e32f7f7cb18007",
       "name": "Eternal Destiny",
       "secondary": "榊原ゆい",
@@ -307,7 +367,7 @@
       "detailPath": "entities/songs/c2e32f7f7cb18007.json"
     },
     {
-      "rank": 3156,
+      "rank": 3157,
       "id": "8fdc36ab716a1a2f",
       "name": "Face of Fact",
       "secondary": "KOTOKO",
@@ -364,7 +424,7 @@
       "detailPath": "entities/songs/8fdc36ab716a1a2f.json"
     },
     {
-      "rank": 3157,
+      "rank": 3158,
       "id": "125a7d6202d00fa5",
       "name": "fix",
       "secondary": "keeno",
@@ -424,7 +484,7 @@
       "detailPath": "entities/songs/125a7d6202d00fa5.json"
     },
     {
-      "rank": 3158,
+      "rank": 3159,
       "id": "5ddb709d6777778c",
       "name": "FLAGS",
       "secondary": "T.M.Revolution",
@@ -484,7 +544,7 @@
       "detailPath": "entities/songs/5ddb709d6777778c.json"
     },
     {
-      "rank": 3159,
+      "rank": 3160,
       "id": "5e2fda5eb7220e34",
       "name": "FLY HIGH!!",
       "secondary": "BURNOUT SYNDROMES",
@@ -544,7 +604,7 @@
       "detailPath": "entities/songs/5e2fda5eb7220e34.json"
     },
     {
-      "rank": 3160,
+      "rank": 3161,
       "id": "082a011d24456170",
       "name": "Get Wild",
       "secondary": "",
@@ -601,7 +661,7 @@
       "detailPath": "entities/songs/082a011d24456170.json"
     },
     {
-      "rank": 3161,
+      "rank": 3162,
       "id": "f1885303d5638fed",
       "name": "Girl meets Love",
       "secondary": "片霧烈火&鈴湯",
@@ -658,7 +718,7 @@
       "detailPath": "entities/songs/f1885303d5638fed.json"
     },
     {
-      "rank": 3162,
+      "rank": 3163,
       "id": "4f80a32ffc8c7969",
       "name": "GOOD LUCK MY WAY",
       "secondary": "L'Arc~en~Ciel",
@@ -715,7 +775,7 @@
       "detailPath": "entities/songs/4f80a32ffc8c7969.json"
     },
     {
-      "rank": 3163,
+      "rank": 3164,
       "id": "cb3af2b9a33efc90",
       "name": "GURU",
       "secondary": "じん",
@@ -775,7 +835,7 @@
       "detailPath": "entities/songs/cb3af2b9a33efc90.json"
     },
     {
-      "rank": 3164,
+      "rank": 3165,
       "id": "dbc547ae7ce518e7",
       "name": "HAPPY",
       "secondary": "BUMP OF CHICKEN",
@@ -835,7 +895,7 @@
       "detailPath": "entities/songs/dbc547ae7ce518e7.json"
     },
     {
-      "rank": 3165,
+      "rank": 3166,
       "id": "367e9d81477fef6a",
       "name": "HARUKAZE",
       "secondary": "SCANDAL",
@@ -895,7 +955,7 @@
       "detailPath": "entities/songs/367e9d81477fef6a.json"
     },
     {
-      "rank": 3166,
+      "rank": 3167,
       "id": "09e26cab9950d01c",
       "name": "home",
       "secondary": "木山裕策",
@@ -952,7 +1012,7 @@
       "detailPath": "entities/songs/09e26cab9950d01c.json"
     },
     {
-      "rank": 3167,
+      "rank": 3168,
       "id": "37a41b785aac592b",
       "name": "I I I",
       "secondary": "宝鐘マリン&こぼ・かなえる 🆕",
@@ -1011,7 +1071,7 @@
       "detailPath": "entities/songs/37a41b785aac592b.json"
     },
     {
-      "rank": 3168,
+      "rank": 3169,
       "id": "5b3e65a44c99a1ce",
       "name": "Jewelry tears",
       "secondary": "美郷あき",
@@ -1068,7 +1128,7 @@
       "detailPath": "entities/songs/5b3e65a44c99a1ce.json"
     },
     {
-      "rank": 3169,
+      "rank": 3170,
       "id": "b5b533ae9ad83bd9",
       "name": "LIFE",
       "secondary": "中島美嘉",
@@ -1128,7 +1188,7 @@
       "detailPath": "entities/songs/b5b533ae9ad83bd9.json"
     },
     {
-      "rank": 3170,
+      "rank": 3171,
       "id": "920f8e34b239e6e2",
       "name": "LIVE for LIFE ～狼たちの夜～",
       "secondary": "愛美",
@@ -1188,7 +1248,7 @@
       "detailPath": "entities/songs/920f8e34b239e6e2.json"
     },
     {
-      "rank": 3171,
+      "rank": 3172,
       "id": "1501f1527b9664a3",
       "name": "Luna say maybe",
       "secondary": "月村手毬(cv.小鹿なお)",
@@ -1248,7 +1308,7 @@
       "detailPath": "entities/songs/1501f1527b9664a3.json"
     },
     {
-      "rank": 3172,
+      "rank": 3173,
       "id": "adf8588980f734d8",
       "name": "Luna say maybe",
       "secondary": "月村手毬(小鹿なお)",
@@ -1308,7 +1368,7 @@
       "detailPath": "entities/songs/adf8588980f734d8.json"
     },
     {
-      "rank": 3173,
+      "rank": 3174,
       "id": "e1bb0fe35fd7e962",
       "name": "MajiでKoiする5秒前",
       "secondary": "広末涼子",
@@ -1368,7 +1428,7 @@
       "detailPath": "entities/songs/e1bb0fe35fd7e962.json"
     },
     {
-      "rank": 3174,
+      "rank": 3175,
       "id": "f4927c23fcc67eb9",
       "name": "MILABO",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1428,7 +1488,7 @@
       "detailPath": "entities/songs/f4927c23fcc67eb9.json"
     },
     {
-      "rank": 3175,
+      "rank": 3176,
       "id": "aa051b1ae7dfbc16",
       "name": "MINATO",
       "secondary": "@minato_v_kikakuya",
@@ -1482,7 +1542,7 @@
       "detailPath": "entities/songs/aa051b1ae7dfbc16.json"
     },
     {
-      "rank": 3176,
+      "rank": 3177,
       "id": "ecd421f5809d491b",
       "name": "MOON SIGNAL",
       "secondary": "スフィア",
@@ -1542,7 +1602,7 @@
       "detailPath": "entities/songs/ecd421f5809d491b.json"
     },
     {
-      "rank": 3177,
+      "rank": 3178,
       "id": "e6f7943a4909447c",
       "name": "MY BOY",
       "secondary": "Buono!",
@@ -1602,7 +1662,7 @@
       "detailPath": "entities/songs/e6f7943a4909447c.json"
     },
     {
-      "rank": 3178,
+      "rank": 3179,
       "id": "66ef0f47222b217a",
       "name": "My Song",
       "secondary": "Girls Dead Monster",
@@ -1663,7 +1723,7 @@
       "detailPath": "entities/songs/66ef0f47222b217a.json"
     },
     {
-      "rank": 3179,
+      "rank": 3180,
       "id": "2da602a2e83c76f8",
       "name": "never no astray",
       "secondary": "fripSide",
@@ -1720,7 +1780,7 @@
       "detailPath": "entities/songs/2da602a2e83c76f8.json"
     },
     {
-      "rank": 3180,
+      "rank": 3181,
       "id": "a60f72fe5e704e79",
       "name": "No brand girls",
       "secondary": "μ's",
@@ -1780,7 +1840,7 @@
       "detailPath": "entities/songs/a60f72fe5e704e79.json"
     },
     {
-      "rank": 3181,
+      "rank": 3182,
       "id": "30f3e1a093c9a01c",
       "name": "No Regret",
       "secondary": "倖田來未",
@@ -1839,7 +1899,7 @@
       "detailPath": "entities/songs/30f3e1a093c9a01c.json"
     },
     {
-      "rank": 3182,
+      "rank": 3183,
       "id": "a19324fe205648f2",
       "name": "ODDS&ENDS",
       "secondary": "Ryo",
@@ -1896,7 +1956,7 @@
       "detailPath": "entities/songs/a19324fe205648f2.json"
     },
     {
-      "rank": 3183,
+      "rank": 3184,
       "id": "6c7f9b564703c770",
       "name": "Only Human",
       "secondary": "K",
@@ -1957,7 +2017,7 @@
       "detailPath": "entities/songs/6c7f9b564703c770.json"
     },
     {
-      "rank": 3184,
+      "rank": 3185,
       "id": "912034d6dcd566ff",
       "name": "Orange Sapphire",
       "secondary": "城ヶ崎莉嘉(山本希望)諸星きらり(松嵜麗)城ヶ崎美嘉(佳村はるか)本田未央(原紗友里)赤城みりあ(黒沢ともよ)",
@@ -2014,7 +2074,7 @@
       "detailPath": "entities/songs/912034d6dcd566ff.json"
     },
     {
-      "rank": 3185,
+      "rank": 3186,
       "id": "09ea04a7bac1ce85",
       "name": "PAIN IS BEAUTY",
       "secondary": "ちゃんみな *",
@@ -2074,7 +2134,7 @@
       "detailPath": "entities/songs/09ea04a7bac1ce85.json"
     },
     {
-      "rank": 3186,
+      "rank": 3187,
       "id": "08965e7a2367960c",
       "name": "PAPERMOON",
       "secondary": "Tommy heavenly6",
@@ -2134,7 +2194,7 @@
       "detailPath": "entities/songs/08965e7a2367960c.json"
     },
     {
-      "rank": 3187,
+      "rank": 3188,
       "id": "540420c70a7e820f",
       "name": "past",
       "secondary": "駆空なぎ",
@@ -2194,7 +2254,7 @@
       "detailPath": "entities/songs/540420c70a7e820f.json"
     },
     {
-      "rank": 3188,
+      "rank": 3189,
       "id": "34d2341534f1faff",
       "name": "Planetes",
       "secondary": "EGOIST ※JOYSOUND",
@@ -2254,7 +2314,7 @@
       "detailPath": "entities/songs/34d2341534f1faff.json"
     },
     {
-      "rank": 3189,
+      "rank": 3190,
       "id": "d40a8cdf3089c344",
       "name": "PPPP",
       "secondary": "TAK feat. 初音ミク,重音テト",
@@ -2313,7 +2373,7 @@
       "detailPath": "entities/songs/d40a8cdf3089c344.json"
     },
     {
-      "rank": 3190,
+      "rank": 3191,
       "id": "bc07d95ced84032a",
       "name": "Pretender",
       "secondary": "",
@@ -2370,7 +2430,7 @@
       "detailPath": "entities/songs/bc07d95ced84032a.json"
     },
     {
-      "rank": 3191,
+      "rank": 3192,
       "id": "5ed4636fae687104",
       "name": "Prototype",
       "secondary": "石川智晶",
@@ -2430,7 +2490,7 @@
       "detailPath": "entities/songs/5ed4636fae687104.json"
     },
     {
-      "rank": 3192,
+      "rank": 3193,
       "id": "d4edbba548a552ac",
       "name": "Rainy veil",
       "secondary": "やなぎなぎ",
@@ -2492,7 +2552,7 @@
       "detailPath": "entities/songs/d4edbba548a552ac.json"
     },
     {
-      "rank": 3193,
+      "rank": 3194,
       "id": "b27629b196c5c318",
       "name": "raspberry cube",
       "secondary": "松下",
@@ -2549,7 +2609,7 @@
       "detailPath": "entities/songs/b27629b196c5c318.json"
     },
     {
-      "rank": 3194,
+      "rank": 3195,
       "id": "0a021826515adfbc",
       "name": "READY!!",
       "secondary": "765PRO ALLSTARS",
@@ -2609,7 +2669,7 @@
       "detailPath": "entities/songs/0a021826515adfbc.json"
     },
     {
-      "rank": 3195,
+      "rank": 3196,
       "id": "f1698d17402d00d8",
       "name": "REVIVER",
       "secondary": "MY FIRST STORY",
@@ -2669,7 +2729,7 @@
       "detailPath": "entities/songs/f1698d17402d00d8.json"
     },
     {
-      "rank": 3196,
+      "rank": 3197,
       "id": "18bbb81baf4ed00c",
       "name": "Runner",
       "secondary": "爆風スランプ",
@@ -2729,7 +2789,7 @@
       "detailPath": "entities/songs/18bbb81baf4ed00c.json"
     },
     {
-      "rank": 3197,
+      "rank": 3198,
       "id": "33b87aabf0428afe",
       "name": "Shadow Shadow",
       "secondary": "Azari",
@@ -2789,7 +2849,7 @@
       "detailPath": "entities/songs/33b87aabf0428afe.json"
     },
     {
-      "rank": 3198,
+      "rank": 3199,
       "id": "3ff62bf45af959ac",
       "name": "SHAKE",
       "secondary": "SMAP",
@@ -2849,7 +2909,7 @@
       "detailPath": "entities/songs/3ff62bf45af959ac.json"
     },
     {
-      "rank": 3199,
+      "rank": 3200,
       "id": "27bab3688feeaa42",
       "name": "Sleepwalk",
       "secondary": "なとり",
@@ -2904,66 +2964,6 @@
         }
       ],
       "detailPath": "entities/songs/27bab3688feeaa42.json"
-    },
-    {
-      "rank": 3200,
-      "id": "bb95359023197e2d",
-      "name": "Stand By You",
-      "secondary": "Official髭男dism",
-      "channelId": "UCuk7vapXKckSw6yCGGDspDg",
-      "channelHandle": "@Hizuki_Yui_",
-      "channelUrl": "",
-      "occurrenceCount": 8,
-      "videoCount": 8,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "x4cwrCJ6Wf8",
-          "videoTitle": "【歌枠】リクエスト大歓迎♫ 記念日を祝いつつ、嬉しいお知らせも🥂【wouca : RK Music】#utawouca 66",
-          "channelName": "wouca",
-          "publishedAt": "2026-09-29T17:40:05.685Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/x4cwrCJ6Wf8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfdAk5AK5F9tuYb5wxh3O2X_hmIA",
-          "sourcePath": "sources/x4/x4cwrCJ6Wf8.json",
-          "time": "1:42:45",
-          "seconds": 6165,
-          "songTitle": "Stand by You",
-          "artist": "Official髭男dism"
-        },
-        {
-          "videoId": "VxCx28oSNUs",
-          "videoTitle": "【 #歌枠：低音ハスキー】最近お出かけした話をしたり、大好きな歌を笑顔で歌いたい！！#初見さん大歓迎 【駆空なぎ/ステラリズ】",
-          "channelName": "駆空なぎ【魂で歌うVsinger】-Stellarhyth",
-          "publishedAt": "2026-09-29T12:40:05.685Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/VxCx28oSNUs/hqdefault.jpg",
-          "sourcePath": "sources/Vx/VxCx28oSNUs.json",
-          "time": "0:46:03",
-          "seconds": 2763,
-          "songTitle": "Stand By You",
-          "artist": "Official髭男dism"
-        },
-        {
-          "videoId": "Vpc6M9Yg190",
-          "videoTitle": "【 歌枠￤karaoke 】叫びました。【 芽々守あん￤#新人VTuber 】",
-          "channelName": "芽々守あん / Mememori An",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Vpc6M9Yg190/hqdefault.jpg",
-          "sourcePath": "sources/Vp/Vpc6M9Yg190.json",
-          "time": "1:59:08",
-          "seconds": 7148,
-          "songTitle": "Stand By You",
-          "artist": "Official髭男dism"
-        }
-      ],
-      "detailPath": "entities/songs/bb95359023197e2d.json"
     }
   ]
 }

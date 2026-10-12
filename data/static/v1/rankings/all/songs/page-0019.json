@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 19,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 901,
+      "id": "f5bbbe1304f94c46",
+      "name": "WILL",
+      "secondary": "米倉千尋",
+      "channelId": "UC7cZJOAJZD1W4aOfqnRgWiA",
+      "channelHandle": "@MunMosh",
+      "channelUrl": "",
+      "occurrenceCount": 31,
+      "videoCount": 31,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "y3RmA7YkSYQ",
+          "videoTitle": "【歌枠】80〜90年代🌟深夜歌枠！ノスタルジー✨【 アニソン / Jpop 】初見さんも大歓迎✨ライブ配信中！",
+          "channelName": "時羽あいの",
+          "publishedAt": "2026-10-06T19:13:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/y3RmA7YkSYQ/hqdefault.jpg",
+          "sourcePath": "sources/y3/y3RmA7YkSYQ.json",
+          "time": "3:36:49",
+          "seconds": 13009,
+          "songTitle": "WILL",
+          "artist": "米倉千尋"
+        },
+        {
+          "videoId": "kg3s60ifMHI",
+          "videoTitle": "【karaoke】同接50人目指して歌う耐久歌枠💙高評価で応援よろしくお願いしますっ！【#新人vtuber #ひいろライブ】",
+          "channelName": "Hiiro Ch. 天結ひいろ",
+          "publishedAt": "2026-10-06T16:28:06.554Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/kg3s60ifMHI/hqdefault.jpg",
+          "sourcePath": "sources/kg/kg3s60ifMHI.json",
+          "time": "2:27:34",
+          "seconds": 8854,
+          "songTitle": "WILL",
+          "artist": "米倉千尋"
+        },
+        {
+          "videoId": "r3qx-x2qULg",
+          "videoTitle": "【 #歌枠 】平成38年アニソン歌枠🎵【 #薔薇魔女放送局 / #新人vtuber 】",
+          "channelName": "アリシア・アルテローザ ｰ Alicia Alterosa ｰ",
+          "publishedAt": "2026-10-06T15:40:10.929Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/r3qx-x2qULg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpoKlJiftFz8eC_7qJ1qm9QDSTJQ",
+          "sourcePath": "sources/r3/r3qx-x2qULg.json",
+          "time": "0:42:45",
+          "seconds": 2565,
+          "songTitle": "WILL",
+          "artist": "米倉千尋"
+        }
+      ],
+      "detailPath": "entities/songs/f5bbbe1304f94c46.json"
+    },
+    {
+      "rank": 902,
       "id": "9246a9faf26eddd0",
       "name": "ヴィーナスとジーザス",
       "secondary": "やくしまるえつこ",
@@ -72,7 +132,7 @@
       "detailPath": "entities/songs/9246a9faf26eddd0.json"
     },
     {
-      "rank": 902,
+      "rank": 903,
       "id": "662c6bb25c746b97",
       "name": "おどるポンポコリン",
       "secondary": "B.B.クィーンズ",
@@ -132,7 +192,7 @@
       "detailPath": "entities/songs/662c6bb25c746b97.json"
     },
     {
-      "rank": 903,
+      "rank": 904,
       "id": "a8fdbd898d979c4f",
       "name": "からくりピエロ",
       "secondary": "",
@@ -189,7 +249,7 @@
       "detailPath": "entities/songs/a8fdbd898d979c4f.json"
     },
     {
-      "rank": 904,
+      "rank": 905,
       "id": "64fa3d4c6d2802b4",
       "name": "きゅうくらりん",
       "secondary": "いよわ feat.可不",
@@ -249,7 +309,7 @@
       "detailPath": "entities/songs/64fa3d4c6d2802b4.json"
     },
     {
-      "rank": 905,
+      "rank": 906,
       "id": "223719f8f28beb6f",
       "name": "タイプ:ワイルド",
       "secondary": "松本梨香",
@@ -309,7 +369,7 @@
       "detailPath": "entities/songs/223719f8f28beb6f.json"
     },
     {
-      "rank": 906,
+      "rank": 907,
       "id": "16482168044a535d",
       "name": "フラジール",
       "secondary": "ぬゆり",
@@ -370,7 +430,7 @@
       "detailPath": "entities/songs/16482168044a535d.json"
     },
     {
-      "rank": 907,
+      "rank": 908,
       "id": "3bf773cbdcfbb1ea",
       "name": "マジLOVE1000％",
       "secondary": "ST☆RISH",
@@ -430,7 +490,7 @@
       "detailPath": "entities/songs/3bf773cbdcfbb1ea.json"
     },
     {
-      "rank": 908,
+      "rank": 909,
       "id": "22d82193dbced03b",
       "name": "もってけ!セーラーふく",
       "secondary": "泉こなた(平野綾)、柊かがみ(加藤英美里)、柊つかさ(福原香織)、高良みゆき(遠藤綾)",
@@ -491,7 +551,7 @@
       "detailPath": "entities/songs/22d82193dbced03b.json"
     },
     {
-      "rank": 909,
+      "rank": 910,
       "id": "965cca74c9644c85",
       "name": "ラピスラズリ",
       "secondary": "藍井エイル",
@@ -551,7 +611,7 @@
       "detailPath": "entities/songs/965cca74c9644c85.json"
     },
     {
-      "rank": 910,
+      "rank": 911,
       "id": "0001e485541a7fd4",
       "name": "ルマ",
       "secondary": "かいりきベア",
@@ -611,7 +671,7 @@
       "detailPath": "entities/songs/0001e485541a7fd4.json"
     },
     {
-      "rank": 911,
+      "rank": 912,
       "id": "b279121be065e568",
       "name": "夏の半券",
       "secondary": "みきとP",
@@ -672,7 +732,7 @@
       "detailPath": "entities/songs/b279121be065e568.json"
     },
     {
-      "rank": 912,
+      "rank": 913,
       "id": "20cc0d8c816b48a7",
       "name": "歌に形はないけれど",
       "secondary": "doriko",
@@ -732,7 +792,7 @@
       "detailPath": "entities/songs/20cc0d8c816b48a7.json"
     },
     {
-      "rank": 913,
+      "rank": 914,
       "id": "f47b776aad12129d",
       "name": "火炎",
       "secondary": "女王蜂",
@@ -792,7 +852,7 @@
       "detailPath": "entities/songs/f47b776aad12129d.json"
     },
     {
-      "rank": 914,
+      "rank": 915,
       "id": "4ae70adbf5362103",
       "name": "正解",
       "secondary": "RADWIMPS",
@@ -853,7 +913,7 @@
       "detailPath": "entities/songs/4ae70adbf5362103.json"
     },
     {
-      "rank": 915,
+      "rank": 916,
       "id": "7d05ecd0589c1372",
       "name": "大阪LOVER",
       "secondary": "DREAMS COME TRUE",
@@ -914,7 +974,7 @@
       "detailPath": "entities/songs/7d05ecd0589c1372.json"
     },
     {
-      "rank": 916,
+      "rank": 917,
       "id": "21dbca6391e92dc0",
       "name": "白金ディスコ",
       "secondary": "阿良々木月火(井口裕香)",
@@ -974,7 +1034,7 @@
       "detailPath": "entities/songs/21dbca6391e92dc0.json"
     },
     {
-      "rank": 917,
+      "rank": 918,
       "id": "fca58f8051d91fab",
       "name": "裸の勇者",
       "secondary": "Vaundy",
@@ -1034,7 +1094,7 @@
       "detailPath": "entities/songs/fca58f8051d91fab.json"
     },
     {
-      "rank": 918,
+      "rank": 919,
       "id": "b0ad8b2962e3489f",
       "name": "恋、はじめました",
       "secondary": "＝LOVE",
@@ -1091,7 +1151,7 @@
       "detailPath": "entities/songs/b0ad8b2962e3489f.json"
     },
     {
-      "rank": 919,
+      "rank": 920,
       "id": "302419be82c5c081",
       "name": "1・2・3",
       "secondary": "After the Rain",
@@ -1152,7 +1212,7 @@
       "detailPath": "entities/songs/302419be82c5c081.json"
     },
     {
-      "rank": 920,
+      "rank": 921,
       "id": "6422fd2941ae345f",
       "name": "Reason",
       "secondary": "玉置成実",
@@ -1213,7 +1273,7 @@
       "detailPath": "entities/songs/6422fd2941ae345f.json"
     },
     {
-      "rank": 921,
+      "rank": 922,
       "id": "af0924286665191d",
       "name": "V.I.P",
       "secondary": "シド",
@@ -1273,7 +1333,7 @@
       "detailPath": "entities/songs/af0924286665191d.json"
     },
     {
-      "rank": 922,
+      "rank": 923,
       "id": "cd51ed15db52cb5f",
       "name": "かもめが翔んだ日",
       "secondary": "渡辺真知子",
@@ -1333,7 +1393,7 @@
       "detailPath": "entities/songs/cd51ed15db52cb5f.json"
     },
     {
-      "rank": 923,
+      "rank": 924,
       "id": "bb2779ed1a6e4f34",
       "name": "明け星",
       "secondary": "LiSA",
@@ -1393,7 +1453,7 @@
       "detailPath": "entities/songs/bb2779ed1a6e4f34.json"
     },
     {
-      "rank": 924,
+      "rank": 925,
       "id": "7018b68b1d651eae",
       "name": "ルミナス",
       "secondary": "ClariS",
@@ -1454,7 +1514,7 @@
       "detailPath": "entities/songs/7018b68b1d651eae.json"
     },
     {
-      "rank": 925,
+      "rank": 926,
       "id": "0e01c1c5a8203cd6",
       "name": "departure!",
       "secondary": "小野正利",
@@ -1515,7 +1575,7 @@
       "detailPath": "entities/songs/0e01c1c5a8203cd6.json"
     },
     {
-      "rank": 926,
+      "rank": 927,
       "id": "e86140ba5d4dd698",
       "name": "LIFE",
       "secondary": "YUI",
@@ -1574,66 +1634,6 @@
         }
       ],
       "detailPath": "entities/songs/e86140ba5d4dd698.json"
-    },
-    {
-      "rank": 927,
-      "id": "3d67d6b8239e8074",
-      "name": "OK!",
-      "secondary": "松本 梨香",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 30,
-      "videoCount": 30,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "TbuTnYYHe6s",
-          "videoTitle": "【 #歌枠 】初見大歓迎💡デビュー1ヵ月！CH登録4000人✨初耐久歌枠！【 #新人Vtuber｜ #白叉ねむ 】",
-          "channelName": "白叉ねむ / Shiramata Nemu",
-          "publishedAt": "2026-10-11T20:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/TbuTnYYHe6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIUGXJrMCjk2bz5ybJ0K-vncuilQ",
-          "sourcePath": "sources/Tb/TbuTnYYHe6s.json",
-          "time": "6:01:36",
-          "seconds": 21696,
-          "songTitle": "OK!",
-          "artist": "松本梨香"
-        },
-        {
-          "videoId": "5KfLFUwB8GI",
-          "videoTitle": "【 #歌枠 】5周年おめでとう100耐久！アニソンで盛り上がるよ～！【 #旺閻サポ #初見歓迎 】",
-          "channelName": "旺閻サポ",
-          "publishedAt": "2026-10-03T17:23:13.123Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5KfLFUwB8GI/hqdefault.jpg",
-          "sourcePath": "sources/5K/5KfLFUwB8GI.json",
-          "time": "1:28:22",
-          "seconds": 5302,
-          "songTitle": "OK！",
-          "artist": "松本梨香"
-        },
-        {
-          "videoId": "SxsXCYMEwXc",
-          "videoTitle": "【縦型歌枠 #shorts 】まったり朝活する日【 #無原唱レコード / ＃ルシェルーム 】",
-          "channelName": "宮島ルシェル / LECIEL MIYAJIMA",
-          "publishedAt": "2026-09-28T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SxsXCYMEwXc/hqdefault.jpg",
-          "sourcePath": "sources/Sx/SxsXCYMEwXc.json",
-          "time": "1:26:57",
-          "seconds": 5217,
-          "songTitle": "OK!",
-          "artist": "松本梨香"
-        }
-      ],
-      "detailPath": "entities/songs/3d67d6b8239e8074.json"
     },
     {
       "rank": 928,

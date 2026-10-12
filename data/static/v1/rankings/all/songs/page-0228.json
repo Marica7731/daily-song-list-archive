@@ -1,16 +1,107 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 228,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 11351,
+      "id": "c05d9bb73893c905",
+      "name": "SOMEONE ELSE",
+      "secondary": "種島ぽぷら(阿澄佳奈),伊波まひる(藤田咲),轟八千代(喜多村英梨)",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TgpjKVZYJys",
+          "videoTitle": "【歌枠】声優さんが歌うアニソン、キャラソンを歌うー！！！！ #ウタノライブ 【KARAOKE/VTuber】",
+          "channelName": "UTANO ch. 白玖ウタノ",
+          "publishedAt": "2026-10-03T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TgpjKVZYJys/hqdefault.jpg",
+          "sourcePath": "sources/Tg/TgpjKVZYJys.json",
+          "time": "0:48:54",
+          "seconds": 2934,
+          "songTitle": "SOMEONE ELSE",
+          "artist": "種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)"
+        },
+        {
+          "videoId": "SX1LlzZg6Iw",
+          "videoTitle": "🏮 実写歌枠｜2010年代ベストアニソンを歌いまくるぜ!! #shorts #Vtuber ∞ 響架",
+          "channelName": "Kyoka Ch. -響架-",
+          "publishedAt": "2026-09-28T16:55:45.212Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SX1LlzZg6Iw/hqdefault.jpg",
+          "sourcePath": "sources/SX/SX1LlzZg6Iw.json",
+          "time": "0:40:52",
+          "seconds": 2452,
+          "songTitle": "SOMEONE ELSE",
+          "artist": "種島ぽぷら(阿澄佳奈),伊波まひる(藤田咲),轟八千代(喜多村英梨)"
+        }
+      ],
+      "detailPath": "entities/songs/c05d9bb73893c905.json"
+    },
+    {
+      "rank": 11352,
+      "id": "1fdd78658086d922",
+      "name": "Someone You Loved",
+      "secondary": "Lewis Capaldi",
+      "channelId": "UCqe0-vqZwAvZUb22wCMu1fA",
+      "channelHandle": "/channel/UCqe0-vqZwAvZUb22wCMu1fA",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "YRJZnpeqGK0",
+          "videoTitle": "//歌枠// 九月第一次唱歌 語言月就多唱點外國歌吧yayaya | 賽特珞 Cetro",
+          "channelName": "Cetro Ch. 賽特珞",
+          "publishedAt": "2026-09-02T16:58:38.737Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YRJZnpeqGK0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC92BDjTPnfnrWnmUYxCxDYi08eLA",
+          "sourcePath": "sources/YR/YRJZnpeqGK0.json",
+          "time": "1:35:57",
+          "seconds": 5757,
+          "songTitle": "Someone You Loved",
+          "artist": "Lewis Capaldi"
+        },
+        {
+          "videoId": "-iOsziIkWtw",
+          "videoTitle": "【歌枠】ちるちる┊︎#音ノ乃のの #ののん家",
+          "channelName": "音ノ乃のの / NononoNono",
+          "publishedAt": "2026-07-02T21:13:05.244Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-iOsziIkWtw/hqdefault.jpg",
+          "sourcePath": "sources/-i/-iOsziIkWtw.json",
+          "time": "1:45:53",
+          "seconds": 6353,
+          "songTitle": "Someone You Loved",
+          "artist": "Lewis Capaldi"
+        }
+      ],
+      "detailPath": "entities/songs/1fdd78658086d922.json"
+    },
+    {
+      "rank": 11353,
       "id": "39ef6e673c49c83c",
       "name": "Sora mo Toberu Hazu",
       "secondary": "Spitz",
@@ -56,7 +147,7 @@
       "detailPath": "entities/songs/39ef6e673c49c83c.json"
     },
     {
-      "rank": 11352,
+      "rank": 11354,
       "id": "f09f5ee05f40949a",
       "name": "Soranji",
       "secondary": "未記載",
@@ -101,7 +192,7 @@
       "detailPath": "entities/songs/f09f5ee05f40949a.json"
     },
     {
-      "rank": 11353,
+      "rank": 11355,
       "id": "769c5b44422dce4a",
       "name": "Sorega anata no shiawase to shitemo",
       "secondary": "Heavenz",
@@ -146,7 +237,7 @@
       "detailPath": "entities/songs/769c5b44422dce4a.json"
     },
     {
-      "rank": 11354,
+      "rank": 11356,
       "id": "29b0a9170279fcef",
       "name": "Sorrows",
       "secondary": "King Gnu",
@@ -192,7 +283,7 @@
       "detailPath": "entities/songs/29b0a9170279fcef.json"
     },
     {
-      "rank": 11355,
+      "rank": 11357,
       "id": "9487200e4e59a8dc",
       "name": "Space Sonic",
       "secondary": "ELLEGARDEN",
@@ -239,7 +330,7 @@
       "detailPath": "entities/songs/9487200e4e59a8dc.json"
     },
     {
-      "rank": 11356,
+      "rank": 11358,
       "id": "177fd13d0b389842",
       "name": "Sparkle☆Time!!",
       "secondary": "セブンスシスターズ",
@@ -285,7 +376,7 @@
       "detailPath": "entities/songs/177fd13d0b389842.json"
     },
     {
-      "rank": 11357,
+      "rank": 11359,
       "id": "f7f8c25cecc5694b",
       "name": "SPECIALZ",
       "secondary": "King Gnu ／ 呪術廻戦「渋谷事変」(2023年)",
@@ -330,7 +421,7 @@
       "detailPath": "entities/songs/f7f8c25cecc5694b.json"
     },
     {
-      "rank": 11358,
+      "rank": 11360,
       "id": "ba07715eacfa6fe8",
       "name": "SPECIALZ",
       "secondary": "",
@@ -375,7 +466,7 @@
       "detailPath": "entities/songs/ba07715eacfa6fe8.json"
     },
     {
-      "rank": 11359,
+      "rank": 11361,
       "id": "3cdc7f25f64fa433",
       "name": "SPEED STAR",
       "secondary": "GARNiDELiA",
@@ -423,7 +514,7 @@
       "detailPath": "entities/songs/3cdc7f25f64fa433.json"
     },
     {
-      "rank": 11360,
+      "rank": 11362,
       "id": "23c64e17f116a41a",
       "name": "SPELL MAGIC",
       "secondary": "",
@@ -468,7 +559,7 @@
       "detailPath": "entities/songs/23c64e17f116a41a.json"
     },
     {
-      "rank": 11361,
+      "rank": 11363,
       "id": "40bd0ce46e2588b9",
       "name": "SPIRAL WORLD",
       "secondary": "LAST ALLIANCE",
@@ -515,7 +606,7 @@
       "detailPath": "entities/songs/40bd0ce46e2588b9.json"
     },
     {
-      "rank": 11362,
+      "rank": 11364,
       "id": "0d9a7dce4495944f",
       "name": "SPLASH FREE",
       "secondary": "STYLE FIVE",
@@ -561,7 +652,7 @@
       "detailPath": "entities/songs/0d9a7dce4495944f.json"
     },
     {
-      "rank": 11363,
+      "rank": 11365,
       "id": "9f5935aa48ad9514",
       "name": "squall",
       "secondary": "松本英子（福山雅治）",
@@ -609,7 +700,7 @@
       "detailPath": "entities/songs/9f5935aa48ad9514.json"
     },
     {
-      "rank": 11364,
+      "rank": 11366,
       "id": "f6eb140db1920bfc",
       "name": "Stand by U",
       "secondary": "東方神起",
@@ -656,7 +747,7 @@
       "detailPath": "entities/songs/f6eb140db1920bfc.json"
     },
     {
-      "rank": 11365,
+      "rank": 11367,
       "id": "59a339c38f2f6946",
       "name": "Stand Out Fit In",
       "secondary": "ONE OK ROCK",
@@ -701,7 +792,7 @@
       "detailPath": "entities/songs/59a339c38f2f6946.json"
     },
     {
-      "rank": 11366,
+      "rank": 11368,
       "id": "862f0db3591876a0",
       "name": "STAND UP TO THE VICTORY",
       "secondary": "",
@@ -746,7 +837,7 @@
       "detailPath": "entities/songs/862f0db3591876a0.json"
     },
     {
-      "rank": 11367,
+      "rank": 11369,
       "id": "714667a45f2ccdde",
       "name": "STAND UP TO THE VICTORY",
       "secondary": "川添智久",
@@ -791,7 +882,7 @@
       "detailPath": "entities/songs/714667a45f2ccdde.json"
     },
     {
-      "rank": 11368,
+      "rank": 11370,
       "id": "46c341ed8dc0146d",
       "name": "staple stable",
       "secondary": "斎藤千和",
@@ -837,7 +928,7 @@
       "detailPath": "entities/songs/46c341ed8dc0146d.json"
     },
     {
-      "rank": 11369,
+      "rank": 11371,
       "id": "746964e08e0fe3b2",
       "name": "staple stable",
       "secondary": "化物語",
@@ -882,7 +973,7 @@
       "detailPath": "entities/songs/746964e08e0fe3b2.json"
     },
     {
-      "rank": 11370,
+      "rank": 11372,
       "id": "f8056a6ce2c8af7d",
       "name": "STAR BEAT～ホシノコドウ～",
       "secondary": "Poppin'Party",
@@ -926,7 +1017,7 @@
       "detailPath": "entities/songs/f8056a6ce2c8af7d.json"
     },
     {
-      "rank": 11371,
+      "rank": 11373,
       "id": "fad524e6f5ba452e",
       "name": "Star Diamond",
       "secondary": "スタァライト九九組",
@@ -971,7 +1062,7 @@
       "detailPath": "entities/songs/fad524e6f5ba452e.json"
     },
     {
-      "rank": 11372,
+      "rank": 11374,
       "id": "4f28ebd1f6911ac4",
       "name": "Star Trail",
       "secondary": "長谷川育美",
@@ -1016,7 +1107,7 @@
       "detailPath": "entities/songs/4f28ebd1f6911ac4.json"
     },
     {
-      "rank": 11373,
+      "rank": 11375,
       "id": "0f05aa86c1497ef3",
       "name": "Star☆Glitter",
       "secondary": "セブンスシスターズ",
@@ -1058,7 +1149,7 @@
       "detailPath": "entities/songs/0f05aa86c1497ef3.json"
     },
     {
-      "rank": 11374,
+      "rank": 11376,
       "id": "2b06b470d7eb0ee3",
       "name": "Stardust",
       "secondary": "",
@@ -1103,7 +1194,7 @@
       "detailPath": "entities/songs/2b06b470d7eb0ee3.json"
     },
     {
-      "rank": 11375,
+      "rank": 11377,
       "id": "1050d9af6447cbc9",
       "name": "Starlight Prologue",
       "secondary": "Liella!",
@@ -1148,7 +1239,7 @@
       "detailPath": "entities/songs/1050d9af6447cbc9.json"
     },
     {
-      "rank": 11376,
+      "rank": 11378,
       "id": "839e6a00d5430136",
       "name": "Starlight Prologue",
       "secondary": "海月シェル",
@@ -1193,7 +1284,7 @@
       "detailPath": "entities/songs/839e6a00d5430136.json"
     },
     {
-      "rank": 11377,
+      "rank": 11379,
       "id": "de24bd403f01c107",
       "name": "StarRingChild",
       "secondary": "未記載",
@@ -1239,7 +1330,7 @@
       "detailPath": "entities/songs/de24bd403f01c107.json"
     },
     {
-      "rank": 11378,
+      "rank": 11380,
       "id": "b1bb8afa583dceb1",
       "name": "start",
       "secondary": "マイクオン",
@@ -1284,7 +1375,7 @@
       "detailPath": "entities/songs/b1bb8afa583dceb1.json"
     },
     {
-      "rank": 11379,
+      "rank": 11381,
       "id": "48ad567c853390f1",
       "name": "Start",
       "secondary": "スタート",
@@ -1326,7 +1417,7 @@
       "detailPath": "entities/songs/48ad567c853390f1.json"
     },
     {
-      "rank": 11380,
+      "rank": 11382,
       "id": "6b8c47b740c326e8",
       "name": "START",
       "secondary": "愛内里菜",
@@ -1368,7 +1459,7 @@
       "detailPath": "entities/songs/6b8c47b740c326e8.json"
     },
     {
-      "rank": 11381,
+      "rank": 11383,
       "id": "1dd5f96cda51318a",
       "name": "START:DASH!!",
       "secondary": "高坂穂乃果(新田恵海)、南ことり(内田彩)、園田海未(三森すずこ)",
@@ -1414,7 +1505,7 @@
       "detailPath": "entities/songs/1dd5f96cda51318a.json"
     },
     {
-      "rank": 11382,
+      "rank": 11384,
       "id": "2f6e7dd1d70bc753",
       "name": "StarTRain",
       "secondary": "遊女",
@@ -1458,7 +1549,7 @@
       "detailPath": "entities/songs/2f6e7dd1d70bc753.json"
     },
     {
-      "rank": 11383,
+      "rank": 11385,
       "id": "f3018b6926314908",
       "name": "Stay",
       "secondary": "Mii",
@@ -1500,7 +1591,7 @@
       "detailPath": "entities/songs/f3018b6926314908.json"
     },
     {
-      "rank": 11384,
+      "rank": 11386,
       "id": "0f4dc6eff8fc98a9",
       "name": "STAY",
       "secondary": "コブクロ",
@@ -1546,7 +1637,7 @@
       "detailPath": "entities/songs/0f4dc6eff8fc98a9.json"
     },
     {
-      "rank": 11385,
+      "rank": 11387,
       "id": "1156c66aba78ffc5",
       "name": "STAY",
       "secondary": "The Kid LAROI & Justin Bieber(Stay)",
@@ -1591,7 +1682,7 @@
       "detailPath": "entities/songs/1156c66aba78ffc5.json"
     },
     {
-      "rank": 11386,
+      "rank": 11388,
       "id": "d3f0683d89f0bb9b",
       "name": "Stay Alive",
       "secondary": "エミリア",
@@ -1639,7 +1730,7 @@
       "detailPath": "entities/songs/d3f0683d89f0bb9b.json"
     },
     {
-      "rank": 11387,
+      "rank": 11389,
       "id": "bd167e0fee351017",
       "name": "Stay by my side",
       "secondary": "倉木麻衣",
@@ -1684,7 +1775,7 @@
       "detailPath": "entities/songs/bd167e0fee351017.json"
     },
     {
-      "rank": 11388,
+      "rank": 11390,
       "id": "bc621c8748aabb25",
       "name": "Stay Gold",
       "secondary": "宇多田ヒカル",
@@ -1732,7 +1823,7 @@
       "detailPath": "entities/songs/bc621c8748aabb25.json"
     },
     {
-      "rank": 11389,
+      "rank": 11391,
       "id": "f0996cd36ad0cfca",
       "name": "Stay The Night",
       "secondary": "Zedd",
@@ -1779,7 +1870,7 @@
       "detailPath": "entities/songs/f0996cd36ad0cfca.json"
     },
     {
-      "rank": 11390,
+      "rank": 11392,
       "id": "8d6a31844e3e5a94",
       "name": "stay with me",
       "secondary": "back number",
@@ -1825,7 +1916,7 @@
       "detailPath": "entities/songs/8d6a31844e3e5a94.json"
     },
     {
-      "rank": 11391,
+      "rank": 11393,
       "id": "8507181998c74954",
       "name": "Stella",
       "secondary": "SEKAI NO OWARI",
@@ -1870,7 +1961,7 @@
       "detailPath": "entities/songs/8507181998c74954.json"
     },
     {
-      "rank": 11392,
+      "rank": 11394,
       "id": "999af349ba641b0b",
       "name": "Stellar Stellar",
       "secondary": "星街すいせい ※JOYSOUND",
@@ -1915,7 +2006,7 @@
       "detailPath": "entities/songs/999af349ba641b0b.json"
     },
     {
-      "rank": 11393,
+      "rank": 11395,
       "id": "de158076899d25ef",
       "name": "STEP",
       "secondary": "ClariS",
@@ -1963,7 +2054,7 @@
       "detailPath": "entities/songs/de158076899d25ef.json"
     },
     {
-      "rank": 11394,
+      "rank": 11396,
       "id": "ef577dabf620ce05",
       "name": "STIGMA",
       "secondary": "DUSTCELL",
@@ -2008,7 +2099,7 @@
       "detailPath": "entities/songs/ef577dabf620ce05.json"
     },
     {
-      "rank": 11395,
+      "rank": 11397,
       "id": "86f9e4423867815b",
       "name": "Still",
       "secondary": "嵐 *",
@@ -2053,7 +2144,7 @@
       "detailPath": "entities/songs/86f9e4423867815b.json"
     },
     {
-      "rank": 11396,
+      "rank": 11398,
       "id": "8eeb3a4fe9e84673",
       "name": "stone cold",
       "secondary": "セイクリッドセブン",
@@ -2098,7 +2189,7 @@
       "detailPath": "entities/songs/8eeb3a4fe9e84673.json"
     },
     {
-      "rank": 11397,
+      "rank": 11399,
       "id": "d6dde60937076958",
       "name": "STORM",
       "secondary": "",
@@ -2143,7 +2234,7 @@
       "detailPath": "entities/songs/d6dde60937076958.json"
     },
     {
-      "rank": 11398,
+      "rank": 11400,
       "id": "458ce069d2a1ed93",
       "name": "story",
       "secondary": "前島麻由",
@@ -2187,102 +2278,6 @@
         }
       ],
       "detailPath": "entities/songs/458ce069d2a1ed93.json"
-    },
-    {
-      "rank": 11399,
-      "id": "36dc90c4e6aa37ad",
-      "name": "Story [Piano ver",
-      "secondary": "AI",
-      "channelId": "UCjoGLVLapRciX38bwgDtttw",
-      "channelHandle": "@Hao_RKMusic",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "qTk3a3ej0vw",
-          "videoTitle": "【 歌枠 / #karaoke 】シルバーウィーク、ゆっくりしていきませんか🦉 │真夜中のメロウ便 27【羽緒 / RK Music】#羽緒集魂中 #vtuber #vsinger #作業用BGM",
-          "channelName": "羽緒",
-          "publishedAt": "2026-09-22T17:48:01.034Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qTk3a3ej0vw/hqdefault.jpg",
-          "sourcePath": "sources/qT/qTk3a3ej0vw.json",
-          "time": "1:44:36",
-          "seconds": 6276,
-          "songTitle": "Story [Piano ver",
-          "artist": "AI"
-        },
-        {
-          "videoId": "MUoPFgb55bs",
-          "videoTitle": "【 歌枠 / #karaoke 】ここはゆったりチル区🦉│真夜中のメロウ便 22【羽緒 / RK Music】#羽緒集魂中 #作業用BGM",
-          "channelName": "羽緒",
-          "publishedAt": "2026-08-11T17:46:43.628Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MUoPFgb55bs/hqdefault.jpg",
-          "sourcePath": "sources/MU/MUoPFgb55bs.json",
-          "time": "1:23:49",
-          "seconds": 5029,
-          "songTitle": "Story [Piano ver",
-          "artist": "AI"
-        }
-      ],
-      "detailPath": "entities/songs/36dc90c4e6aa37ad.json"
-    },
-    {
-      "rank": 11400,
-      "id": "3a54601c6735c065",
-      "name": "Story of My Life",
-      "secondary": "One Direction",
-      "channelId": "UCJABeTIKrhExlG6tBTov_ZA",
-      "channelHandle": "@blanc_ulica",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "rJwzp-pm9YQ",
-          "videoTitle": "【#歌枠 & 雑談】English comments are welcome!【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
-          "channelName": "ブランク・ウリカ - Blanc Ulica -",
-          "publishedAt": "2026-08-30T20:39:25.411Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rJwzp-pm9YQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDBpFZ_UJRS9vCicJ9oo0jGQkujew",
-          "sourcePath": "sources/rJ/rJwzp-pm9YQ.json",
-          "time": "0:04:33",
-          "seconds": 273,
-          "songTitle": "Story of My Life",
-          "artist": "One Direction"
-        },
-        {
-          "videoId": "IS_arLzxc88",
-          "videoTitle": "【#歌枠 & 雑談】English comments are welcome!【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
-          "channelName": "ブランク・ウリカ - Blanc Ulica -",
-          "publishedAt": "2026-08-10T19:45:31.124Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/IS_arLzxc88/hqdefault.jpg",
-          "sourcePath": "sources/IS/IS_arLzxc88.json",
-          "time": "0:19:37",
-          "seconds": 1177,
-          "songTitle": "Story of My Life",
-          "artist": "One Direction"
-        }
-      ],
-      "detailPath": "entities/songs/3a54601c6735c065.json"
     }
   ]
 }

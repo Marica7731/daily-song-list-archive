@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 81,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1533,6 +1533,67 @@
     },
     {
       "rank": 4027,
+      "id": "423cf47975988460",
+      "name": "戯言スピーカー",
+      "secondary": "ねこぼーろ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "NYFqA07mEcM",
+          "videoTitle": "〖Chill┊弾き語り〗今歌いたくなった曲をゆるっと弾き語りする.*˚〖acoustic/まろん井上〗",
+          "channelName": "まろん井上ちゃんねる",
+          "publishedAt": "2026-10-04T14:22:07.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NYFqA07mEcM/hqdefault.jpg",
+          "sourcePath": "sources/NY/NYFqA07mEcM.json",
+          "time": "1:35:24",
+          "seconds": 5724,
+          "songTitle": "戯言スピーカー",
+          "artist": "ねこぼーろ"
+        },
+        {
+          "videoId": "fbJQXEv1Ur8",
+          "videoTitle": "【#歌枠】#ボカロ 縛り50曲、歌います！【#新人Vtuber #vsinger #夜は紺色】",
+          "channelName": "夜紺 火花 / Yakon Hibana",
+          "publishedAt": "2026-09-26T08:51:35.306Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fbJQXEv1Ur8/hqdefault.jpg",
+          "sourcePath": "sources/fb/fbJQXEv1Ur8.json",
+          "time": "1:19:02",
+          "seconds": 4742,
+          "songTitle": "戯言スピーカー",
+          "artist": "ねこぼーろ"
+        },
+        {
+          "videoId": "_19qOGuEPGc",
+          "videoTitle": "【#歌枠】まったり歌う夜があってもいい【#個人Vtuber/夜帳ライラ】",
+          "channelName": "Laila ch.夜帳ライラ",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_19qOGuEPGc/hqdefault.jpg",
+          "sourcePath": "sources/_1/_19qOGuEPGc.json",
+          "time": "0:43:09",
+          "seconds": 2589,
+          "songTitle": "戯言スピーカー",
+          "artist": "ねこぼーろ"
+        }
+      ],
+      "detailPath": "entities/songs/423cf47975988460.json"
+    },
+    {
+      "rank": 4028,
       "id": "20163de1f3b7012c",
       "name": "打上花火",
       "secondary": "DAOKOと米津玄師",
@@ -1591,7 +1652,7 @@
       "detailPath": "entities/songs/20163de1f3b7012c.json"
     },
     {
-      "rank": 4028,
+      "rank": 4029,
       "id": "9916c93b5d3ea290",
       "name": "分かっちゃいないね",
       "secondary": "monet（full）",
@@ -1651,7 +1712,7 @@
       "detailPath": "entities/songs/9916c93b5d3ea290.json"
     },
     {
-      "rank": 4029,
+      "rank": 4030,
       "id": "024e5b3b733acb75",
       "name": "きっと青春が聞こえる",
       "secondary": "μ's",
@@ -1711,7 +1772,7 @@
       "detailPath": "entities/songs/024e5b3b733acb75.json"
     },
     {
-      "rank": 4030,
+      "rank": 4031,
       "id": "9ae2b788871e8c9a",
       "name": "テルミーアンサー",
       "secondary": "キノシタ feat. 鏡音リン",
@@ -1769,7 +1830,7 @@
       "detailPath": "entities/songs/9ae2b788871e8c9a.json"
     },
     {
-      "rank": 4031,
+      "rank": 4032,
       "id": "3b416af87c407933",
       "name": "《なのです☆》",
       "secondary": "羽入(堀江由衣)",
@@ -1829,7 +1890,7 @@
       "detailPath": "entities/songs/3b416af87c407933.json"
     },
     {
-      "rank": 4032,
+      "rank": 4033,
       "id": "36ab442b3fe7daa2",
       "name": "《まっくら森の歌》",
       "secondary": "谷山浩子",
@@ -1886,7 +1947,7 @@
       "detailPath": "entities/songs/36ab442b3fe7daa2.json"
     },
     {
-      "rank": 4033,
+      "rank": 4034,
       "id": "1a23a980757cafee",
       "name": "《輝く空の静寂には》",
       "secondary": "Kalafina",
@@ -1944,7 +2005,7 @@
       "detailPath": "entities/songs/1a23a980757cafee.json"
     },
     {
-      "rank": 4034,
+      "rank": 4035,
       "id": "e33331a1c79b4303",
       "name": "《荒野流転》",
       "secondary": "FictionJunction YUUKA",
@@ -2004,7 +2065,7 @@
       "detailPath": "entities/songs/e33331a1c79b4303.json"
     },
     {
-      "rank": 4035,
+      "rank": 4036,
       "id": "dc3becd675f2d1d5",
       "name": "＊ハロー、プラネット",
       "secondary": "Sasakure.UK",
@@ -2065,7 +2126,7 @@
       "detailPath": "entities/songs/dc3becd675f2d1d5.json"
     },
     {
-      "rank": 4036,
+      "rank": 4037,
       "id": "b1a2ac92f8abb9c8",
       "name": "～ No buts!",
       "secondary": "川田まみ",
@@ -2123,7 +2184,7 @@
       "detailPath": "entities/songs/b1a2ac92f8abb9c8.json"
     },
     {
-      "rank": 4037,
+      "rank": 4038,
       "id": "3dfcd98cd4622432",
       "name": "～ Philosophyz",
       "secondary": "水谷瑠奈",
@@ -2182,7 +2243,7 @@
       "detailPath": "entities/songs/3dfcd98cd4622432.json"
     },
     {
-      "rank": 4038,
+      "rank": 4039,
       "id": "7acae164039774ac",
       "name": "～ あなたがいた森",
       "secondary": "樹海",
@@ -2242,7 +2303,7 @@
       "detailPath": "entities/songs/7acae164039774ac.json"
     },
     {
-      "rank": 4039,
+      "rank": 4040,
       "id": "d731797b15622e85",
       "name": "1・2・3",
       "secondary": "そらる×まふまふ",
@@ -2299,7 +2360,7 @@
       "detailPath": "entities/songs/d731797b15622e85.json"
     },
     {
-      "rank": 4040,
+      "rank": 4041,
       "id": "2fb28cc06394915a",
       "name": "1000の言葉",
       "secondary": "倖田來未",
@@ -2359,7 +2420,7 @@
       "detailPath": "entities/songs/2fb28cc06394915a.json"
     },
     {
-      "rank": 4041,
+      "rank": 4042,
       "id": "094aadd29bc66d4e",
       "name": "1925",
       "secondary": "",
@@ -2416,7 +2477,7 @@
       "detailPath": "entities/songs/094aadd29bc66d4e.json"
     },
     {
-      "rank": 4042,
+      "rank": 4043,
       "id": "c22742f47e4fcc07",
       "name": "365日",
       "secondary": "Mr.Children",
@@ -2477,7 +2538,7 @@
       "detailPath": "entities/songs/c22742f47e4fcc07.json"
     },
     {
-      "rank": 4043,
+      "rank": 4044,
       "id": "6276475134a742ea",
       "name": "A]ddiction",
       "secondary": "EVO+",
@@ -2537,7 +2598,7 @@
       "detailPath": "entities/songs/6276475134a742ea.json"
     },
     {
-      "rank": 4044,
+      "rank": 4045,
       "id": "2ad59ff93030af01",
       "name": "About You",
       "secondary": "ロクデナシ",
@@ -2597,7 +2658,7 @@
       "detailPath": "entities/songs/2ad59ff93030af01.json"
     },
     {
-      "rank": 4045,
+      "rank": 4046,
       "id": "247ade16b7bb7601",
       "name": "Absolute Soul",
       "secondary": "鈴木このみ",
@@ -2657,7 +2718,7 @@
       "detailPath": "entities/songs/247ade16b7bb7601.json"
     },
     {
-      "rank": 4046,
+      "rank": 4047,
       "id": "ff017c7c37202876",
       "name": "absolute wish",
       "secondary": "fripSide",
@@ -2714,7 +2775,7 @@
       "detailPath": "entities/songs/ff017c7c37202876.json"
     },
     {
-      "rank": 4047,
+      "rank": 4048,
       "id": "6678697ddde2fdf6",
       "name": "Aitai",
       "secondary": "加藤ミリヤ",
@@ -2771,7 +2832,7 @@
       "detailPath": "entities/songs/6678697ddde2fdf6.json"
     },
     {
-      "rank": 4048,
+      "rank": 4049,
       "id": "9708b7adf7637bfb",
       "name": "Alive A life",
       "secondary": "松本梨香",
@@ -2830,7 +2891,7 @@
       "detailPath": "entities/songs/9708b7adf7637bfb.json"
     },
     {
-      "rank": 4049,
+      "rank": 4050,
       "id": "75e531aca0336034",
       "name": "ALL IN",
       "secondary": "HANA",
@@ -2888,63 +2949,6 @@
         }
       ],
       "detailPath": "entities/songs/75e531aca0336034.json"
-    },
-    {
-      "rank": 4050,
-      "id": "f647a717f918759d",
-      "name": "appears",
-      "secondary": "浜崎あゆみ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ZgzIQmEnlMU",
-          "videoTitle": "【 歌枠 】懐かしの歌で盛り上がるよん 30代40代50代来てね 三ツ星ルナちゃん",
-          "channelName": "歌う 三ツ星ルナちゃん",
-          "publishedAt": "2026-09-29T20:28:59.948Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZgzIQmEnlMU/hqdefault.jpg",
-          "sourcePath": "sources/Zg/ZgzIQmEnlMU.json",
-          "time": "0:07:50",
-          "seconds": 470,
-          "songTitle": "appears",
-          "artist": "浜崎あゆみ"
-        },
-        {
-          "videoId": "OLU9sFUFUY0",
-          "videoTitle": "【 歌枠 】覚えたて浜崎あゆみ11曲頑張る！ 懐かしの歌で盛り上がるよん 30代40代50代来てね 三ツ星ルナちゃん",
-          "channelName": "歌う 三ツ星ルナちゃん",
-          "publishedAt": "2026-09-27T07:45:05.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/OLU9sFUFUY0/hqdefault.jpg",
-          "sourcePath": "sources/OL/OLU9sFUFUY0.json",
-          "time": "1:48:06",
-          "seconds": 6486,
-          "songTitle": "appears",
-          "artist": "浜崎あゆみ"
-        },
-        {
-          "videoId": "9Ets_A-eKTI",
-          "videoTitle": "【 歌枠 】浜崎あゆみ 懐かしの歌で盛り上がるよん 30代40代50代来てね 三ツ星ルナちゃん",
-          "channelName": "歌う 三ツ星ルナちゃん",
-          "publishedAt": "2026-09-24T10:55:04.472Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9Ets_A-eKTI/hqdefault.jpg",
-          "sourcePath": "sources/9E/9Ets_A-eKTI.json",
-          "time": "0:18:03",
-          "seconds": 1083,
-          "songTitle": "appears",
-          "artist": "浜崎あゆみ"
-        }
-      ],
-      "detailPath": "entities/songs/f647a717f918759d.json"
     }
   ]
 }

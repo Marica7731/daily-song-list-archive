@@ -1,16 +1,64 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "artists",
   "page": 109,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20007,
+  "totalCount": 20013,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5401,
+      "id": "42987aca3d8282bc",
+      "name": "Wednesday Campanella",
+      "secondary": "",
+      "channelId": "UCfpcs6jK285d1TJWFhjej-Q",
+      "channelHandle": "@KUGURUKASAYA",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "rRhgI9fV_oo",
+          "videoTitle": "【#歌枠/ KARAOKE】リハビリです…！！ #RIOTMUSIC #vtuber #vsinger 【 #無原唱レコード / #メーメントヴァニタス 】",
+          "channelName": "メーメントヴァニタス / MEMENTOVANITAS",
+          "publishedAt": "2026-08-26T15:45:22.879Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rRhgI9fV_oo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQRom_QjX-7ksWzctHtKxEhqomtQ",
+          "sourcePath": "sources/rR/rRhgI9fV_oo.json",
+          "time": "0:47:05",
+          "seconds": 2825,
+          "songTitle": "Edison",
+          "artist": "Wednesday Campanella"
+        },
+        {
+          "videoId": "sYPXl4U0o0k",
+          "videoTitle": "【 縦型 #歌枠 】はじめてのド深夜おうた【#無原唱レコード / #くぐる屋さん / #shorts】",
+          "channelName": "傘屋くぐる / KUGURU KASAYA",
+          "publishedAt": "2026-08-21T19:16:20.725Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sYPXl4U0o0k/hqdefault.jpg",
+          "sourcePath": "sources/sY/sYPXl4U0o0k.json",
+          "time": "0:42:32",
+          "seconds": 2552,
+          "songTitle": "Edison",
+          "artist": "Wednesday Campanella"
+        }
+      ],
+      "detailPath": "entities/artists/42987aca3d8282bc.json"
+    },
+    {
+      "rank": 5402,
       "id": "c4992e8d3c4ae21d",
       "name": "WEST",
       "secondary": "",
@@ -55,7 +103,7 @@
       "detailPath": "entities/artists/c4992e8d3c4ae21d.json"
     },
     {
-      "rank": 5402,
+      "rank": 5403,
       "id": "db34222ba138fe7e",
       "name": "White Berry／ドラマ『ふしぎな話』主題歌／2000/08/09",
       "secondary": "",
@@ -97,7 +145,7 @@
       "detailPath": "entities/artists/db34222ba138fe7e.json"
     },
     {
-      "rank": 5403,
+      "rank": 5404,
       "id": "0c7550f5542f4cd2",
       "name": "whiteeeen",
       "secondary": "",
@@ -142,7 +190,7 @@
       "detailPath": "entities/artists/0c7550f5542f4cd2.json"
     },
     {
-      "rank": 5404,
+      "rank": 5405,
       "id": "64ff443e9368ba50",
       "name": "WhiteFlame feat. KAITO",
       "secondary": "",
@@ -187,7 +235,7 @@
       "detailPath": "entities/artists/64ff443e9368ba50.json"
     },
     {
-      "rank": 5405,
+      "rank": 5406,
       "id": "9367751d74db6758",
       "name": "WhiteFrame",
       "secondary": "",
@@ -232,7 +280,7 @@
       "detailPath": "entities/artists/9367751d74db6758.json"
     },
     {
-      "rank": 5406,
+      "rank": 5407,
       "id": "9c336930a502161f",
       "name": "Wish*",
       "secondary": "",
@@ -280,7 +328,7 @@
       "detailPath": "entities/artists/9c336930a502161f.json"
     },
     {
-      "rank": 5407,
+      "rank": 5408,
       "id": "2ad8cf96283d6e03",
       "name": "WITCH NUMBER 4",
       "secondary": "",
@@ -325,7 +373,7 @@
       "detailPath": "entities/artists/2ad8cf96283d6e03.json"
     },
     {
-      "rank": 5408,
+      "rank": 5409,
       "id": "8efcf7b465457b5c",
       "name": "WOODZ",
       "secondary": "",
@@ -371,7 +419,7 @@
       "detailPath": "entities/artists/8efcf7b465457b5c.json"
     },
     {
-      "rank": 5409,
+      "rank": 5410,
       "id": "77363edf0cdfb333",
       "name": "wotaku feat . KAITO",
       "secondary": "",
@@ -416,7 +464,7 @@
       "detailPath": "entities/artists/77363edf0cdfb333.json"
     },
     {
-      "rank": 5410,
+      "rank": 5411,
       "id": "c2eafac7f8897696",
       "name": "wowaka feat.初音ミク ※JOYSOUND",
       "secondary": "",
@@ -461,7 +509,7 @@
       "detailPath": "entities/artists/c2eafac7f8897696.json"
     },
     {
-      "rank": 5411,
+      "rank": 5412,
       "id": "542b3a89882b8368",
       "name": "Wowoka",
       "secondary": "",
@@ -506,7 +554,7 @@
       "detailPath": "entities/artists/542b3a89882b8368.json"
     },
     {
-      "rank": 5412,
+      "rank": 5413,
       "id": "c014d55391d1de45",
       "name": "www.youtube.com/live/6cwUJqDI",
       "secondary": "",
@@ -548,7 +596,7 @@
       "detailPath": "entities/artists/c014d55391d1de45.json"
     },
     {
-      "rank": 5413,
+      "rank": 5414,
       "id": "123271dcb91b3e40",
       "name": "www.youtube.com/live/7Z9D24D0",
       "secondary": "",
@@ -590,7 +638,7 @@
       "detailPath": "entities/artists/123271dcb91b3e40.json"
     },
     {
-      "rank": 5414,
+      "rank": 5415,
       "id": "1f1f8e4ed561141d",
       "name": "www.youtube.com/live/D2403NJk",
       "secondary": "",
@@ -632,7 +680,7 @@
       "detailPath": "entities/artists/1f1f8e4ed561141d.json"
     },
     {
-      "rank": 5415,
+      "rank": 5416,
       "id": "629e38c95ed62cc9",
       "name": "www.youtube.com/live/ddjhmyII",
       "secondary": "",
@@ -674,7 +722,7 @@
       "detailPath": "entities/artists/629e38c95ed62cc9.json"
     },
     {
-      "rank": 5416,
+      "rank": 5417,
       "id": "b5dbed1e6265fff1",
       "name": "www.youtube.com/live/enSIuq-v",
       "secondary": "",
@@ -716,7 +764,7 @@
       "detailPath": "entities/artists/b5dbed1e6265fff1.json"
     },
     {
-      "rank": 5417,
+      "rank": 5418,
       "id": "579c0501938eece7",
       "name": "www.youtube.com/live/GRTkCbrH",
       "secondary": "",
@@ -758,7 +806,7 @@
       "detailPath": "entities/artists/579c0501938eece7.json"
     },
     {
-      "rank": 5418,
+      "rank": 5419,
       "id": "3e4d2f7d8e2194e9",
       "name": "www.youtube.com/live/K7A_ceYN",
       "secondary": "",
@@ -800,7 +848,7 @@
       "detailPath": "entities/artists/3e4d2f7d8e2194e9.json"
     },
     {
-      "rank": 5419,
+      "rank": 5420,
       "id": "249b962e4fe045b1",
       "name": "www.youtube.com/live/l8Q10T0g",
       "secondary": "",
@@ -842,7 +890,7 @@
       "detailPath": "entities/artists/249b962e4fe045b1.json"
     },
     {
-      "rank": 5420,
+      "rank": 5421,
       "id": "984f2b2bd7beee40",
       "name": "www.youtube.com/live/RLcq_w8L",
       "secondary": "",
@@ -884,7 +932,7 @@
       "detailPath": "entities/artists/984f2b2bd7beee40.json"
     },
     {
-      "rank": 5421,
+      "rank": 5422,
       "id": "b17485840e4550f1",
       "name": "www.youtube.com/live/Wz5skVjx",
       "secondary": "",
@@ -926,7 +974,7 @@
       "detailPath": "entities/artists/b17485840e4550f1.json"
     },
     {
-      "rank": 5422,
+      "rank": 5423,
       "id": "0f44ced38f8cd9e9",
       "name": "www.youtube.com/live/zqNJmnIwu6E",
       "secondary": "",
@@ -968,7 +1016,7 @@
       "detailPath": "entities/artists/0f44ced38f8cd9e9.json"
     },
     {
-      "rank": 5423,
+      "rank": 5424,
       "id": "a00b62fbb781e8c8",
       "name": "X / Y",
       "secondary": "",
@@ -1016,7 +1064,7 @@
       "detailPath": "entities/artists/a00b62fbb781e8c8.json"
     },
     {
-      "rank": 5424,
+      "rank": 5425,
       "id": "6425f73671bd7880",
       "name": "x.com/VT_KaraseJaga",
       "secondary": "",
@@ -1058,7 +1106,7 @@
       "detailPath": "entities/artists/6425f73671bd7880.json"
     },
     {
-      "rank": 5425,
+      "rank": 5426,
       "id": "66f26a2f479cbd52",
       "name": "Xs",
       "secondary": "",
@@ -1103,7 +1151,7 @@
       "detailPath": "entities/artists/66f26a2f479cbd52.json"
     },
     {
-      "rank": 5426,
+      "rank": 5427,
       "id": "080caf22d7e09938",
       "name": "Ya-Ya-yah",
       "secondary": "",
@@ -1151,7 +1199,7 @@
       "detailPath": "entities/artists/080caf22d7e09938.json"
     },
     {
-      "rank": 5427,
+      "rank": 5428,
       "id": "66c8fb7b7c1eff38",
       "name": "yama ※JOYSOUND",
       "secondary": "",
@@ -1196,7 +1244,7 @@
       "detailPath": "entities/artists/66c8fb7b7c1eff38.json"
     },
     {
-      "rank": 5428,
+      "rank": 5429,
       "id": "132e3bd7c3bd49ab",
       "name": "Yami_Q_ray",
       "secondary": "",
@@ -1241,7 +1289,7 @@
       "detailPath": "entities/artists/132e3bd7c3bd49ab.json"
     },
     {
-      "rank": 5429,
+      "rank": 5430,
       "id": "954ef052277c4670",
       "name": "Yo Hitoto",
       "secondary": "",
@@ -1286,7 +1334,7 @@
       "detailPath": "entities/artists/954ef052277c4670.json"
     },
     {
-      "rank": 5430,
+      "rank": 5431,
       "id": "8e7ea077a658ef0e",
       "name": "Yoake to Hotaru n-buna feat. 初音ミク / n-buna feat. Hatsune Miku",
       "secondary": "",
@@ -1331,7 +1379,7 @@
       "detailPath": "entities/artists/8e7ea077a658ef0e.json"
     },
     {
-      "rank": 5431,
+      "rank": 5432,
       "id": "9de65cb529ee428d",
       "name": "YOASOBI (ワンコーラス)",
       "secondary": "",
@@ -1376,7 +1424,7 @@
       "detailPath": "entities/artists/9de65cb529ee428d.json"
     },
     {
-      "rank": 5432,
+      "rank": 5433,
       "id": "3d894631ae933b38",
       "name": "YOASOBI ／ むこうのくに(2020年)",
       "secondary": "",
@@ -1418,7 +1466,7 @@
       "detailPath": "entities/artists/3d894631ae933b38.json"
     },
     {
-      "rank": 5433,
+      "rank": 5434,
       "id": "7afbc6b05382f20e",
       "name": "YOASOBI ／ 葬送のフリーレン(2023年)",
       "secondary": "",
@@ -1463,7 +1511,7 @@
       "detailPath": "entities/artists/7afbc6b05382f20e.json"
     },
     {
-      "rank": 5434,
+      "rank": 5435,
       "id": "1e6f149e68dc2be4",
       "name": "Yohaku",
       "secondary": "",
@@ -1509,7 +1557,7 @@
       "detailPath": "entities/artists/1e6f149e68dc2be4.json"
     },
     {
-      "rank": 5435,
+      "rank": 5436,
       "id": "c3daaad88aa9b41d",
       "name": "Yomosugara Kimi Omou TOKOTOKO（西沢さんP） / TOKOTOKO",
       "secondary": "",
@@ -1554,7 +1602,7 @@
       "detailPath": "entities/artists/c3daaad88aa9b41d.json"
     },
     {
-      "rank": 5436,
+      "rank": 5437,
       "id": "96c27d75256f91c4",
       "name": "Yoru no Odoriko サカナクション / Sakanaction",
       "secondary": "",
@@ -1599,7 +1647,7 @@
       "detailPath": "entities/artists/96c27d75256f91c4.json"
     },
     {
-      "rank": 5437,
+      "rank": 5438,
       "id": "03e557ad72c1daf1",
       "name": "yoshiko",
       "secondary": "",
@@ -1644,7 +1692,7 @@
       "detailPath": "entities/artists/03e557ad72c1daf1.json"
     },
     {
-      "rank": 5438,
+      "rank": 5439,
       "id": "91dbbc6acd8d50d6",
       "name": "you",
       "secondary": "",
@@ -1689,7 +1737,7 @@
       "detailPath": "entities/artists/91dbbc6acd8d50d6.json"
     },
     {
-      "rank": 5439,
+      "rank": 5440,
       "id": "c5e555ef27220258",
       "name": "youtube.com/live/8wJbbTEK-Po",
       "secondary": "",
@@ -1731,7 +1779,7 @@
       "detailPath": "entities/artists/c5e555ef27220258.json"
     },
     {
-      "rank": 5440,
+      "rank": 5441,
       "id": "6343c05d34d85b6d",
       "name": "youtube.com/live/cYthAVttDp8",
       "secondary": "",
@@ -1773,7 +1821,7 @@
       "detailPath": "entities/artists/6343c05d34d85b6d.json"
     },
     {
-      "rank": 5441,
+      "rank": 5442,
       "id": "b01b01d8e2dfd8ec",
       "name": "youtube.com/live/jkhkHF5suPY?",
       "secondary": "",
@@ -1815,7 +1863,7 @@
       "detailPath": "entities/artists/b01b01d8e2dfd8ec.json"
     },
     {
-      "rank": 5442,
+      "rank": 5443,
       "id": "a720d242bcdac664",
       "name": "youtube.com/live/LMMq9VJgEOM?",
       "secondary": "",
@@ -1857,7 +1905,7 @@
       "detailPath": "entities/artists/a720d242bcdac664.json"
     },
     {
-      "rank": 5443,
+      "rank": 5444,
       "id": "dfd23fc5a683de84",
       "name": "youtube.com/live/ODUtCUtdq6M?",
       "secondary": "",
@@ -1899,7 +1947,7 @@
       "detailPath": "entities/artists/dfd23fc5a683de84.json"
     },
     {
-      "rank": 5444,
+      "rank": 5445,
       "id": "0fef62298a31baae",
       "name": "youtube.com/live/U3svdKgXpnE?",
       "secondary": "",
@@ -1941,7 +1989,7 @@
       "detailPath": "entities/artists/0fef62298a31baae.json"
     },
     {
-      "rank": 5445,
+      "rank": 5446,
       "id": "83250b646f893807",
       "name": "youtube.com/live/UEzyup7UMmY",
       "secondary": "",
@@ -1983,7 +2031,7 @@
       "detailPath": "entities/artists/83250b646f893807.json"
     },
     {
-      "rank": 5446,
+      "rank": 5447,
       "id": "eea043e2b4965808",
       "name": "youtube.com/live/vHmNA6w8aCU?",
       "secondary": "",
@@ -2025,7 +2073,7 @@
       "detailPath": "entities/artists/eea043e2b4965808.json"
     },
     {
-      "rank": 5447,
+      "rank": 5448,
       "id": "3065dc223d565e64",
       "name": "youtube.com/live/wa8gqGLCVbM",
       "secondary": "",
@@ -2067,7 +2115,7 @@
       "detailPath": "entities/artists/3065dc223d565e64.json"
     },
     {
-      "rank": 5448,
+      "rank": 5449,
       "id": "da504c897a06ad3a",
       "name": "youtube.com/live/xO5Zp6T-Gy0",
       "secondary": "",
@@ -2109,7 +2157,7 @@
       "detailPath": "entities/artists/da504c897a06ad3a.json"
     },
     {
-      "rank": 5449,
+      "rank": 5450,
       "id": "4a5cfa8767e28574",
       "name": "youtube.com/live/Y3w2DGDgnoE?",
       "secondary": "",
@@ -2149,51 +2197,6 @@
         }
       ],
       "detailPath": "entities/artists/4a5cfa8767e28574.json"
-    },
-    {
-      "rank": 5450,
-      "id": "ec2730cb19189102",
-      "name": "YUI (YUI)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "npa_r_khCFU",
-          "videoTitle": "【 #歌枠 / #KARAOKE 】J-POP•アニソン•ボカロ #酔眠はやね",
-          "channelName": "酔眠はやね / Hayane",
-          "publishedAt": "2026-10-04T13:09:32.264Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/npa_r_khCFU/hqdefault.jpg",
-          "sourcePath": "sources/np/npa_r_khCFU.json",
-          "time": "2:25:34",
-          "seconds": 8734,
-          "songTitle": "Rolling star",
-          "artist": "YUI(YUI)"
-        },
-        {
-          "videoId": "LO7bXN2rVAM",
-          "videoTitle": "【 歌枠 / Karaoke 】まったり朝の縦横歌枠🎶 Singing Stream【 #aoineno / #vtuber 】 #shorts",
-          "channelName": "Neonoah Ch. 碧生ねの",
-          "publishedAt": "2026-09-20T23:49:56.766Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LO7bXN2rVAM/hqdefault.jpg",
-          "sourcePath": "sources/LO/LO7bXN2rVAM.json",
-          "time": "1:29:09",
-          "seconds": 5349,
-          "songTitle": "again (again)",
-          "artist": "YUI (YUI)"
-        }
-      ],
-      "detailPath": "entities/artists/ec2730cb19189102.json"
     }
   ]
 }

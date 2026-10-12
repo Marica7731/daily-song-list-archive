@@ -1,16 +1,103 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 198,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9851,
+      "id": "202d9b8db0a29756",
+      "name": "1296",
+      "secondary": "",
+      "channelId": "UCKjj1k2_AiIZeL8ZI3PduNQ",
+      "channelHandle": "@%E8%97%A4%E9%88%B4%E5%91%BC",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qjUkbnMP07A",
+          "videoTitle": "おしゃべりすずこ 1296回目 2026.9.10(1/2)",
+          "channelName": "藤鈴呼",
+          "publishedAt": "2026-09-13T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qjUkbnMP07A/hqdefault.jpg",
+          "sourcePath": "sources/qj/qjUkbnMP07A.json",
+          "time": "0:00:00",
+          "seconds": 0,
+          "songTitle": "1296",
+          "artist": ""
+        },
+        {
+          "videoId": "Z5CX9dGT2gw",
+          "videoTitle": "おしゃべりすずこ 1296回目 2026.9.10(2/2)",
+          "channelName": "藤鈴呼",
+          "publishedAt": "2026-09-13T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Z5CX9dGT2gw/hqdefault.jpg",
+          "sourcePath": "sources/Z5/Z5CX9dGT2gw.json",
+          "time": "0:00:00",
+          "seconds": 0,
+          "songTitle": "1296",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/202d9b8db0a29756.json"
+    },
+    {
+      "rank": 9852,
+      "id": "91cf69fa1c66c698",
+      "name": "1⃣3⃣",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "mI9uinSLJDY",
+          "videoTitle": "【歌枠】新学期、日本語マスターになるぞー☆彡👓🎓 | 知花Chika",
+          "channelName": "知花 / Chika Ch.",
+          "publishedAt": "2026-09-18T09:09:15.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mI9uinSLJDY/hqdefault.jpg",
+          "sourcePath": "sources/mI/mI9uinSLJDY.json",
+          "time": "1:23:18",
+          "seconds": 4998,
+          "songTitle": "1⃣3⃣",
+          "artist": ""
+        },
+        {
+          "videoId": "WjqcLWqlc4s",
+          "videoTitle": "【歌枠】人魚的家還在瘋狂下雨☔今天可以用魔法小卡點歌💙 | 知花Chika",
+          "channelName": "知花 / Chika Ch.",
+          "publishedAt": "2026-09-01T08:37:20.947Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WjqcLWqlc4s/hqdefault.jpg",
+          "sourcePath": "sources/Wj/WjqcLWqlc4s.json",
+          "time": "1:19:34",
+          "seconds": 4774,
+          "songTitle": "1⃣3⃣",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/91cf69fa1c66c698.json"
+    },
+    {
+      "rank": 9853,
       "id": "04862823e9229edf",
       "name": "𝟏𝟑. きゅうくらりん",
       "secondary": "いよわ feat.可不",
@@ -55,7 +142,7 @@
       "detailPath": "entities/songs/04862823e9229edf.json"
     },
     {
-      "rank": 9852,
+      "rank": 9854,
       "id": "a331cf564beda855",
       "name": "1306",
       "secondary": "",
@@ -97,7 +184,7 @@
       "detailPath": "entities/songs/a331cf564beda855.json"
     },
     {
-      "rank": 9853,
+      "rank": 9855,
       "id": "74feb5a95f8aee19",
       "name": "1381",
       "secondary": "",
@@ -139,7 +226,7 @@
       "detailPath": "entities/songs/74feb5a95f8aee19.json"
     },
     {
-      "rank": 9854,
+      "rank": 9856,
       "id": "43a99737d99c3fe7",
       "name": "1393",
       "secondary": "",
@@ -181,7 +268,7 @@
       "detailPath": "entities/songs/43a99737d99c3fe7.json"
     },
     {
-      "rank": 9855,
+      "rank": 9857,
       "id": "c48ea4589af6efe5",
       "name": "13の冬",
       "secondary": "Linked Horizon",
@@ -226,7 +313,7 @@
       "detailPath": "entities/songs/c48ea4589af6efe5.json"
     },
     {
-      "rank": 9856,
+      "rank": 9858,
       "id": "a2b785e3b205a92e",
       "name": "𝟏𝟒. ちゅ、多様性",
       "secondary": "ano",
@@ -271,7 +358,7 @@
       "detailPath": "entities/songs/a2b785e3b205a92e.json"
     },
     {
-      "rank": 9857,
+      "rank": 9859,
       "id": "4cd02a1b82bc7ec2",
       "name": "1411",
       "secondary": "",
@@ -313,7 +400,7 @@
       "detailPath": "entities/songs/4cd02a1b82bc7ec2.json"
     },
     {
-      "rank": 9858,
+      "rank": 9860,
       "id": "c63b778ba620661c",
       "name": "1474",
       "secondary": "",
@@ -355,7 +442,7 @@
       "detailPath": "entities/songs/c63b778ba620661c.json"
     },
     {
-      "rank": 9859,
+      "rank": 9861,
       "id": "9441c3d811bdc944",
       "name": "1⃣5⃣",
       "secondary": "",
@@ -400,7 +487,7 @@
       "detailPath": "entities/songs/9441c3d811bdc944.json"
     },
     {
-      "rank": 9860,
+      "rank": 9862,
       "id": "f60ca3cfa33dae40",
       "name": "𝟏𝟓. 🆕夢をかなえてドラえもん",
       "secondary": "mao",
@@ -445,7 +532,7 @@
       "detailPath": "entities/songs/f60ca3cfa33dae40.json"
     },
     {
-      "rank": 9861,
+      "rank": 9863,
       "id": "f0b5e7cfe7da792b",
       "name": "𝟏𝟓. きゅうくらりん",
       "secondary": "いよわ",
@@ -490,7 +577,7 @@
       "detailPath": "entities/songs/f0b5e7cfe7da792b.json"
     },
     {
-      "rank": 9862,
+      "rank": 9864,
       "id": "b7cfc20abcc8b6cf",
       "name": "𝟏𝟓. きゅうくらりん",
       "secondary": "いよわ feat.可不",
@@ -535,7 +622,7 @@
       "detailPath": "entities/songs/b7cfc20abcc8b6cf.json"
     },
     {
-      "rank": 9863,
+      "rank": 9865,
       "id": "9418c1eabf6951f5",
       "name": "𝟏𝟓. ハイドアンド・シーク",
       "secondary": "19's Sound Factory feat.初音ミク",
@@ -580,7 +667,7 @@
       "detailPath": "entities/songs/9418c1eabf6951f5.json"
     },
     {
-      "rank": 9864,
+      "rank": 9866,
       "id": "81c14096c59ea061",
       "name": "151_マリーゴールド",
       "secondary": "あいみょん",
@@ -625,7 +712,7 @@
       "detailPath": "entities/songs/81c14096c59ea061.json"
     },
     {
-      "rank": 9865,
+      "rank": 9867,
       "id": "33ac027600c4baa8",
       "name": "1536",
       "secondary": "",
@@ -670,7 +757,7 @@
       "detailPath": "entities/songs/33ac027600c4baa8.json"
     },
     {
-      "rank": 9866,
+      "rank": 9868,
       "id": "776b04155c719399",
       "name": "15歳の主張",
       "secondary": "傘村トータ",
@@ -716,7 +803,7 @@
       "detailPath": "entities/songs/776b04155c719399.json"
     },
     {
-      "rank": 9867,
+      "rank": 9869,
       "id": "5ef247df8a16a0e1",
       "name": "1⃣6⃣",
       "secondary": "",
@@ -761,7 +848,7 @@
       "detailPath": "entities/songs/5ef247df8a16a0e1.json"
     },
     {
-      "rank": 9868,
+      "rank": 9870,
       "id": "2392e8b2b5726828",
       "name": "16_やさしさに包まれたなら",
       "secondary": "荒井由実",
@@ -806,7 +893,7 @@
       "detailPath": "entities/songs/2392e8b2b5726828.json"
     },
     {
-      "rank": 9869,
+      "rank": 9871,
       "id": "b37b852cfebd11a1",
       "name": "𝟏𝟔. カタオモイ",
       "secondary": "Aimer",
@@ -851,7 +938,7 @@
       "detailPath": "entities/songs/b37b852cfebd11a1.json"
     },
     {
-      "rank": 9870,
+      "rank": 9872,
       "id": "5aa39212d668e611",
       "name": "16┊Magia",
       "secondary": "Kalafina",
@@ -893,7 +980,7 @@
       "detailPath": "entities/songs/5aa39212d668e611.json"
     },
     {
-      "rank": 9871,
+      "rank": 9873,
       "id": "4636eec4d9a275f3",
       "name": "1⃣7⃣",
       "secondary": "",
@@ -938,7 +1025,7 @@
       "detailPath": "entities/songs/4636eec4d9a275f3.json"
     },
     {
-      "rank": 9872,
+      "rank": 9874,
       "id": "05c18b16f7ff4036",
       "name": "𝟏𝟕. きゅうくらりん",
       "secondary": "いよわ feat.可不",
@@ -983,7 +1070,7 @@
       "detailPath": "entities/songs/05c18b16f7ff4036.json"
     },
     {
-      "rank": 9873,
+      "rank": 9875,
       "id": "dc0e96a046e824c9",
       "name": "𝟏𝟕. ハイドアンド・シーク",
       "secondary": "19's Sound Factory feat.初音ミク",
@@ -1028,7 +1115,7 @@
       "detailPath": "entities/songs/dc0e96a046e824c9.json"
     },
     {
-      "rank": 9874,
+      "rank": 9876,
       "id": "c22d054beebc9506",
       "name": "𝟏𝟕. 気まぐれロマンティック",
       "secondary": "いきものがかり",
@@ -1073,7 +1160,7 @@
       "detailPath": "entities/songs/c22d054beebc9506.json"
     },
     {
-      "rank": 9875,
+      "rank": 9877,
       "id": "178fef69a68c59f7",
       "name": "𝟏𝟕. 水流のロック",
       "secondary": "日食なつこ",
@@ -1118,7 +1205,7 @@
       "detailPath": "entities/songs/178fef69a68c59f7.json"
     },
     {
-      "rank": 9876,
+      "rank": 9878,
       "id": "7327093092f251cc",
       "name": "𝟏𝟖. 初恋サイダー",
       "secondary": "Buono!",
@@ -1163,7 +1250,7 @@
       "detailPath": "entities/songs/7327093092f251cc.json"
     },
     {
-      "rank": 9877,
+      "rank": 9879,
       "id": "6400f7572a9ca5f6",
       "name": "18┊IRIS OUT",
       "secondary": "米津玄師",
@@ -1205,7 +1292,7 @@
       "detailPath": "entities/songs/6400f7572a9ca5f6.json"
     },
     {
-      "rank": 9878,
+      "rank": 9880,
       "id": "f15de54f02766c52",
       "name": "𝟏𝟗. Sparkling Daydream",
       "secondary": "ZAQ",
@@ -1247,7 +1334,7 @@
       "detailPath": "entities/songs/f15de54f02766c52.json"
     },
     {
-      "rank": 9879,
+      "rank": 9881,
       "id": "15d17f9809c63a27",
       "name": "𝟏𝟗. チェリボム",
       "secondary": "SILENT SIREN",
@@ -1292,7 +1379,7 @@
       "detailPath": "entities/songs/15d17f9809c63a27.json"
     },
     {
-      "rank": 9880,
+      "rank": 9882,
       "id": "cf2a7feeb29298dd",
       "name": "𝟏𝟗. メルト",
       "secondary": "ryo(supercell) feat.初音ミク",
@@ -1337,7 +1424,7 @@
       "detailPath": "entities/songs/cf2a7feeb29298dd.json"
     },
     {
-      "rank": 9881,
+      "rank": 9883,
       "id": "f6cb5ca20180b270",
       "name": "1925",
       "secondary": "未記載",
@@ -1383,7 +1470,7 @@
       "detailPath": "entities/songs/f6cb5ca20180b270.json"
     },
     {
-      "rank": 9882,
+      "rank": 9884,
       "id": "232f3c6921f9dbb9",
       "name": "1925",
       "secondary": "富田悠斗",
@@ -1428,7 +1515,7 @@
       "detailPath": "entities/songs/232f3c6921f9dbb9.json"
     },
     {
-      "rank": 9883,
+      "rank": 9885,
       "id": "17bca3be4d750db8",
       "name": "1991",
       "secondary": "米津 玄師(ハチ)",
@@ -1473,7 +1560,7 @@
       "detailPath": "entities/songs/17bca3be4d750db8.json"
     },
     {
-      "rank": 9884,
+      "rank": 9886,
       "id": "6543d8b7dc0640ac",
       "name": "1991 (1991)",
       "secondary": "米津玄師",
@@ -1521,7 +1608,7 @@
       "detailPath": "entities/songs/6543d8b7dc0640ac.json"
     },
     {
-      "rank": 9885,
+      "rank": 9887,
       "id": "8baccec0e882ece6",
       "name": "1992*4##111",
       "secondary": "二宮和也(嵐)",
@@ -1566,7 +1653,7 @@
       "detailPath": "entities/songs/8baccec0e882ece6.json"
     },
     {
-      "rank": 9886,
+      "rank": 9888,
       "id": "44aae90ce0413b2b",
       "name": "19才",
       "secondary": "",
@@ -1611,7 +1698,7 @@
       "detailPath": "entities/songs/44aae90ce0413b2b.json"
     },
     {
-      "rank": 9887,
+      "rank": 9889,
       "id": "b7a1c8391cfd1de4",
       "name": "1on1",
       "secondary": "",
@@ -1656,7 +1743,7 @@
       "detailPath": "entities/songs/b7a1c8391cfd1de4.json"
     },
     {
-      "rank": 9888,
+      "rank": 9890,
       "id": "9bb7f04448454bd3",
       "name": "2⃣",
       "secondary": "",
@@ -1701,7 +1788,7 @@
       "detailPath": "entities/songs/9bb7f04448454bd3.json"
     },
     {
-      "rank": 9889,
+      "rank": 9891,
       "id": "73a38226dc31349f",
       "name": "2℃目の彼女",
       "secondary": "シド",
@@ -1749,7 +1836,7 @@
       "detailPath": "entities/songs/73a38226dc31349f.json"
     },
     {
-      "rank": 9890,
+      "rank": 9892,
       "id": "8ce742924986122c",
       "name": "𝟐𝟎. 君のせい",
       "secondary": "the peggies",
@@ -1794,7 +1881,7 @@
       "detailPath": "entities/songs/8ce742924986122c.json"
     },
     {
-      "rank": 9891,
+      "rank": 9893,
       "id": "131894ede06503ff",
       "name": "20+∞Century Boys",
       "secondary": "Acid Black Cherry",
@@ -1839,7 +1926,7 @@
       "detailPath": "entities/songs/131894ede06503ff.json"
     },
     {
-      "rank": 9892,
+      "rank": 9894,
       "id": "e773e455c092ffaa",
       "name": "20┊ray",
       "secondary": "BUMP OF CHICKEN",
@@ -1881,7 +1968,7 @@
       "detailPath": "entities/songs/e773e455c092ffaa.json"
     },
     {
-      "rank": 9893,
+      "rank": 9895,
       "id": "d3e636b812f0bc10",
       "name": "2026/08",
       "secondary": "20 22:00頃まで印刷可能",
@@ -1923,7 +2010,7 @@
       "detailPath": "entities/songs/d3e636b812f0bc10.json"
     },
     {
-      "rank": 9894,
+      "rank": 9896,
       "id": "af3e7c3d76855912",
       "name": "2026年11月28日",
       "secondary": "土曜日",
@@ -1965,7 +2052,7 @@
       "detailPath": "entities/songs/af3e7c3d76855912.json"
     },
     {
-      "rank": 9895,
+      "rank": 9897,
       "id": "584a93ba2a724744",
       "name": "2026年6月16日",
       "secondary": "火",
@@ -2007,7 +2094,7 @@
       "detailPath": "entities/songs/584a93ba2a724744.json"
     },
     {
-      "rank": 9896,
+      "rank": 9898,
       "id": "1185ebdc8ebb33b5",
       "name": "2026年7月15日",
       "secondary": "水",
@@ -2049,7 +2136,7 @@
       "detailPath": "entities/songs/1185ebdc8ebb33b5.json"
     },
     {
-      "rank": 9897,
+      "rank": 9899,
       "id": "59ce6d623d636887",
       "name": "2⃣1⃣",
       "secondary": "",
@@ -2094,7 +2181,7 @@
       "detailPath": "entities/songs/59ce6d623d636887.json"
     },
     {
-      "rank": 9898,
+      "rank": 9900,
       "id": "b2d09d35f9f640f1",
       "name": "𝟐𝟏. 怪獣の花唄",
       "secondary": "Vaundy",
@@ -2137,93 +2224,6 @@
         }
       ],
       "detailPath": "entities/songs/b2d09d35f9f640f1.json"
-    },
-    {
-      "rank": 9899,
-      "id": "d048aae533ff9b22",
-      "name": "21┊白ゆき",
-      "secondary": "n-buna",
-      "channelId": "UCNZHLeBjtWAIpgh-LONoBHA",
-      "channelHandle": "@amayado_rain",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "alAQRoBmRhE",
-          "videoTitle": "【 歌枠┊︎Karaoke 】朝から元気に歌うよん🎶【 ボカロ┊︎アニソン┊︎J-POP 】",
-          "channelName": "Rain ch.雨宿れいん",
-          "publishedAt": "2026-09-16T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/alAQRoBmRhE/hqdefault.jpg",
-          "sourcePath": "sources/al/alAQRoBmRhE.json",
-          "time": "3:37:03",
-          "seconds": 13023,
-          "songTitle": "21┊白ゆき",
-          "artist": "n-buna"
-        },
-        {
-          "videoId": "1RezpaGR1sA",
-          "videoTitle": "【 歌枠┊︎Karaoke 】朝から元気に歌うよん🎶【 ボカロ┊︎アニソン┊︎J-POP 】",
-          "channelName": "Rain ch.雨宿れいん",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1RezpaGR1sA/hqdefault.jpg",
-          "sourcePath": "sources/1R/1RezpaGR1sA.json",
-          "time": "3:10:31",
-          "seconds": 11431,
-          "songTitle": "21┊白ゆき",
-          "artist": "n-buna"
-        }
-      ],
-      "detailPath": "entities/songs/d048aae533ff9b22.json"
-    },
-    {
-      "rank": 9900,
-      "id": "d74c95bf427ac5ff",
-      "name": "𝟐𝟐. メランコリック",
-      "secondary": "Junky feat. 鏡音リン",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "z1RyS-50wE0",
-          "videoTitle": "【 縦型歌枠 】もりもり歌うぞー！！🐣初見さん大歓迎◎【 #新人vtuber / 芽森ひより 】【 #朝活 】【 #歌枠 】",
-          "channelName": "芽森ひより",
-          "publishedAt": "2026-09-27T01:22:39.593Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/z1RyS-50wE0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdHT3PftgIp5xfPq0ugdEhpoofAg",
-          "sourcePath": "sources/z1/z1RyS-50wE0.json",
-          "time": "3:52:12",
-          "seconds": 13932,
-          "songTitle": "𝟐𝟐. メランコリック",
-          "artist": "Junky feat.鏡音リン"
-        },
-        {
-          "videoId": "iZeSz36Zmtk",
-          "videoTitle": "【 朝活歌枠 】200人におはようしたい🐣初見さん・ROM勢さんも大歓迎◎【 #新人vtuber / 芽森ひより 】【 #朝活 】【 #歌枠 】",
-          "channelName": "芽森ひより",
-          "publishedAt": "2026-08-27T03:45:22.879Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iZeSz36Zmtk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAws_z8Kjfq-ahaOPFDKVYxZNfHAw",
-          "sourcePath": "sources/iZ/iZeSz36Zmtk.json",
-          "time": "4:43:42",
-          "seconds": 17022,
-          "songTitle": "𝟐𝟐. メランコリック",
-          "artist": "Junky feat. 鏡音リン"
-        }
-      ],
-      "detailPath": "entities/songs/d74c95bf427ac5ff.json"
     }
   ]
 }

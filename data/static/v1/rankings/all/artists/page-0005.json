@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "artists",
   "page": 5,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20007,
+  "totalCount": 20013,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -254,6 +254,67 @@
     },
     {
       "rank": 205,
+      "id": "4da58243b44691e0",
+      "name": "AKASAKI",
+      "secondary": "",
+      "channelId": "UC9zLKU6WiRdcKtAh-6o_zmA",
+      "channelHandle": "@ibaramuan",
+      "channelUrl": "",
+      "occurrenceCount": 154,
+      "videoCount": 153,
+      "songCount": 10,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6eiU70mwsms",
+          "videoTitle": "【 歌枠 】深夜の歌枠雑談🪽初見さん・ROM勢さんも大歓迎◎【 #新人vtuber / 芽森ひより 】【 #夜活 】【 #歌枠 】",
+          "channelName": "芽森ひより",
+          "publishedAt": "2026-10-11T19:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6eiU70mwsms/hqdefault.jpg",
+          "sourcePath": "sources/6e/6eiU70mwsms.json",
+          "time": "0:35:19",
+          "seconds": 2119,
+          "songTitle": "𝟎𝟏. 🆕Bunny Girl",
+          "artist": "AKASAKI"
+        },
+        {
+          "videoId": "AkTC14YKdg8",
+          "videoTitle": "【歌枠】深夜にちょいと歌うよ【水上蒼太/ゆにれいど！】",
+          "channelName": "水上蒼太 / Souta Mizukami",
+          "publishedAt": "2026-10-09T17:24:54.011Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AkTC14YKdg8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHsZifxCXXXpgY4PTqsfJeN4LduA",
+          "sourcePath": "sources/Ak/AkTC14YKdg8.json",
+          "time": "0:11:50",
+          "seconds": 710,
+          "songTitle": "Bunny Girl",
+          "artist": "AKASAKI"
+        },
+        {
+          "videoId": "QROspTNU9gE",
+          "videoTitle": "【 #歌枠 】同接240名様達成ありがとう！耐久✨ 作業BGMや睡眠導入に💭 歌枠＆雑談！ ボカロ・アニソン等の静か目曲🎶 #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
+          "channelName": "Azato Ch. 赤魔アザト",
+          "publishedAt": "2026-10-07T21:46:41.526Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QROspTNU9gE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCiKRL2Xf3RCNim3MPTN-FhuXNEwg",
+          "sourcePath": "sources/QR/QROspTNU9gE.json",
+          "time": "2:58:51",
+          "seconds": 10731,
+          "songTitle": "Bunny Girl",
+          "artist": "AKASAKI"
+        }
+      ],
+      "detailPath": "entities/artists/4da58243b44691e0.json"
+    },
+    {
+      "rank": 206,
       "id": "84fd62b7ce03a988",
       "name": "岩崎良美",
       "secondary": "",
@@ -314,7 +375,7 @@
       "detailPath": "entities/artists/84fd62b7ce03a988.json"
     },
     {
-      "rank": 206,
+      "rank": 207,
       "id": "0a31cb5897d98395",
       "name": "ALI PROJECT",
       "secondary": "",
@@ -374,67 +435,6 @@
         }
       ],
       "detailPath": "entities/artists/0a31cb5897d98395.json"
-    },
-    {
-      "rank": 207,
-      "id": "4da58243b44691e0",
-      "name": "AKASAKI",
-      "secondary": "",
-      "channelId": "UC9zLKU6WiRdcKtAh-6o_zmA",
-      "channelHandle": "@ibaramuan",
-      "channelUrl": "",
-      "occurrenceCount": 153,
-      "videoCount": 152,
-      "songCount": 9,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "6eiU70mwsms",
-          "videoTitle": "【 歌枠 】深夜の歌枠雑談🪽初見さん・ROM勢さんも大歓迎◎【 #新人vtuber / 芽森ひより 】【 #夜活 】【 #歌枠 】",
-          "channelName": "芽森ひより",
-          "publishedAt": "2026-10-11T19:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6eiU70mwsms/hqdefault.jpg",
-          "sourcePath": "sources/6e/6eiU70mwsms.json",
-          "time": "0:35:19",
-          "seconds": 2119,
-          "songTitle": "𝟎𝟏. 🆕Bunny Girl",
-          "artist": "AKASAKI"
-        },
-        {
-          "videoId": "AkTC14YKdg8",
-          "videoTitle": "【歌枠】深夜にちょいと歌うよ【水上蒼太/ゆにれいど！】",
-          "channelName": "水上蒼太 / Souta Mizukami",
-          "publishedAt": "2026-10-09T17:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AkTC14YKdg8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHsZifxCXXXpgY4PTqsfJeN4LduA",
-          "sourcePath": "sources/Ak/AkTC14YKdg8.json",
-          "time": "0:11:50",
-          "seconds": 710,
-          "songTitle": "Bunny Girl",
-          "artist": "AKASAKI"
-        },
-        {
-          "videoId": "QROspTNU9gE",
-          "videoTitle": "【 #歌枠 】同接240名様達成ありがとう！耐久✨ 作業BGMや睡眠導入に💭 歌枠＆雑談！ ボカロ・アニソン等の静か目曲🎶 #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
-          "channelName": "Azato Ch. 赤魔アザト",
-          "publishedAt": "2026-10-07T21:46:41.526Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QROspTNU9gE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCiKRL2Xf3RCNim3MPTN-FhuXNEwg",
-          "sourcePath": "sources/QR/QROspTNU9gE.json",
-          "time": "2:58:51",
-          "seconds": 10731,
-          "songTitle": "Bunny Girl",
-          "artist": "AKASAKI"
-        }
-      ],
-      "detailPath": "entities/artists/4da58243b44691e0.json"
     },
     {
       "rank": 208,
@@ -2527,8 +2527,8 @@
       "channelId": "UCWNV-ixuEAxaso9rLk5PRFQ",
       "channelHandle": "/@aoisizukuv",
       "channelUrl": "",
-      "occurrenceCount": 123,
-      "videoCount": 118,
+      "occurrenceCount": 124,
+      "videoCount": 119,
       "songCount": 12,
       "keywords": [
         "month",
@@ -2565,15 +2565,15 @@
           "artist": "しぐれうい"
         },
         {
-          "videoId": "8Mpcq8y3PFk",
-          "videoTitle": "【歌枠】高評価でイラスト公開...？┊#karaoke",
-          "channelName": "ねぴん / Nepin ch.",
-          "publishedAt": "2026-10-04T13:22:03.051Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8Mpcq8y3PFk/hqdefault.jpg",
-          "sourcePath": "sources/8M/8Mpcq8y3PFk.json",
-          "time": "3:31:01",
-          "seconds": 12661,
-          "songTitle": "粛聖!!ロリ神レクイエム☆",
+          "videoId": "R2QxqU-RXxg",
+          "videoTitle": "【歌枠🎤】激レア！出会ったきみは豪運✨ 歌成長したかも？【#蒼宮よづり #vtuber 】",
+          "channelName": "Aomiya Yozuri Ch. 蒼宮よづり",
+          "publishedAt": "2026-10-04T14:22:03.051Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/R2QxqU-RXxg/hqdefault.jpg",
+          "sourcePath": "sources/R2/R2QxqU-RXxg.json",
+          "time": "1:13:19",
+          "seconds": 4399,
+          "songTitle": "Wishing Umbrella",
           "artist": "しぐれうい"
         }
       ],

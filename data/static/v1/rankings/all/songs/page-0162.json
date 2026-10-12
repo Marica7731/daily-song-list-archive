@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:19:06.575Z",
+  "generatedAt": "2026-10-12T14:26:16.991Z",
   "range": "all",
   "type": "songs",
   "page": 162,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52835,
+  "totalCount": 52846,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 8051,
+      "id": "823095fc1192b681",
+      "name": "お勉強しといてよ",
+      "secondary": "ずっと真夜中でいいのに。（勉強中）",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "MLWA5F4swUk",
+          "videoTitle": "【 #歌枠 】一週間がんばりました。【鈴木沙透/パレデミア学園】",
+          "channelName": "鈴木 沙透 / Suzuki Sato",
+          "publishedAt": "2026-10-02T17:26:15.499Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MLWA5F4swUk/hqdefault.jpg",
+          "sourcePath": "sources/ML/MLWA5F4swUk.json",
+          "time": "1:08:54",
+          "seconds": 4134,
+          "songTitle": "お勉強しといてよ",
+          "artist": "ずっと真夜中でいいのに。（勉強中）"
+        },
+        {
+          "videoId": "yzEX0LHNfso",
+          "videoTitle": "【 #歌枠 】イベントありがとうとかいろいろ【鈴木沙透/パレデミア学園】",
+          "channelName": "鈴木 沙透 / Suzuki Sato",
+          "publishedAt": "2026-09-28T15:42:09.439Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yzEX0LHNfso/hqdefault.jpg",
+          "sourcePath": "sources/yz/yzEX0LHNfso.json",
+          "time": "0:43:05",
+          "seconds": 2585,
+          "songTitle": "お勉強しといてよ",
+          "artist": "ずっと真夜中でいいのに。（勉強中）"
+        },
+        {
+          "videoId": "tMMeGc6OHJs",
+          "videoTitle": "【#歌枠 】歌を歌いたいんだよォー！【鈴木沙透/パレデミア学園】",
+          "channelName": "鈴木 沙透 / Suzuki Sato",
+          "publishedAt": "2026-09-24T16:59:22.075Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tMMeGc6OHJs/hqdefault.jpg",
+          "sourcePath": "sources/tM/tMMeGc6OHJs.json",
+          "time": "0:52:20",
+          "seconds": 3140,
+          "songTitle": "お勉強しといてよ",
+          "artist": "ずっと真夜中でいいのに。（勉強中）"
+        }
+      ],
+      "detailPath": "entities/songs/823095fc1192b681.json"
+    },
+    {
+      "rank": 8052,
       "id": "9a090ad6cb8cb7fa",
       "name": "ガーネット",
       "secondary": "未記載",
@@ -68,7 +125,7 @@
       "detailPath": "entities/songs/9a090ad6cb8cb7fa.json"
     },
     {
-      "rank": 8052,
+      "rank": 8053,
       "id": "c01e550ec5ecdbc2",
       "name": "ガーネット",
       "secondary": "奥華子 ／ 時をかける少女(2006年)",
@@ -125,7 +182,7 @@
       "detailPath": "entities/songs/c01e550ec5ecdbc2.json"
     },
     {
-      "rank": 8053,
+      "rank": 8054,
       "id": "d2b15d641f2693b3",
       "name": "ガーベラ",
       "secondary": "MUCC",
@@ -183,7 +240,7 @@
       "detailPath": "entities/songs/d2b15d641f2693b3.json"
     },
     {
-      "rank": 8054,
+      "rank": 8055,
       "id": "862ef5d199d6314e",
       "name": "カーマイン",
       "secondary": "ELLEGARDEN",
@@ -242,7 +299,7 @@
       "detailPath": "entities/songs/862ef5d199d6314e.json"
     },
     {
-      "rank": 8055,
+      "rank": 8056,
       "id": "e5c9c983e15da4ee",
       "name": "かえるのがっしょう",
       "secondary": "童謡",
@@ -302,7 +359,7 @@
       "detailPath": "entities/songs/e5c9c983e15da4ee.json"
     },
     {
-      "rank": 8056,
+      "rank": 8057,
       "id": "3956493464c97b14",
       "name": "かえるの唄",
       "secondary": "クリープハイプ",
@@ -360,7 +417,7 @@
       "detailPath": "entities/songs/3956493464c97b14.json"
     },
     {
-      "rank": 8057,
+      "rank": 8058,
       "id": "a22b7ee2c407f29f",
       "name": "かげろう",
       "secondary": "Vaundy",
@@ -417,7 +474,7 @@
       "detailPath": "entities/songs/a22b7ee2c407f29f.json"
     },
     {
-      "rank": 8058,
+      "rank": 8059,
       "id": "2142048f9fb2a48f",
       "name": "カゼノネ",
       "secondary": "Yae",
@@ -474,7 +531,7 @@
       "detailPath": "entities/songs/2142048f9fb2a48f.json"
     },
     {
-      "rank": 8059,
+      "rank": 8060,
       "id": "f289ed7fdacd4a8f",
       "name": "カタオモイ",
       "secondary": "未記載",
@@ -532,7 +589,7 @@
       "detailPath": "entities/songs/f289ed7fdacd4a8f.json"
     },
     {
-      "rank": 8060,
+      "rank": 8061,
       "id": "f02bba340ee970a6",
       "name": "カタオモイ〈Kataomoi〉",
       "secondary": "Aimer",
@@ -592,7 +649,7 @@
       "detailPath": "entities/songs/f02bba340ee970a6.json"
     },
     {
-      "rank": 8061,
+      "rank": 8062,
       "id": "113c57ac95eaa2ae",
       "name": "かたこひ",
       "secondary": "まにこ（オリジナル・フル）",
@@ -649,7 +706,7 @@
       "detailPath": "entities/songs/113c57ac95eaa2ae.json"
     },
     {
-      "rank": 8062,
+      "rank": 8063,
       "id": "c7722431a9d38963",
       "name": "ガッツだぜ",
       "secondary": "ウルフルズ",
@@ -706,7 +763,7 @@
       "detailPath": "entities/songs/c7722431a9d38963.json"
     },
     {
-      "rank": 8063,
+      "rank": 8064,
       "id": "fa63b6b6397df9ba",
       "name": "カヌレ",
       "secondary": "HoneyWorks",
@@ -763,7 +820,7 @@
       "detailPath": "entities/songs/fa63b6b6397df9ba.json"
     },
     {
-      "rank": 8064,
+      "rank": 8065,
       "id": "72de34d4f8f62126",
       "name": "カノン",
       "secondary": "柊マグネタイト",
@@ -821,7 +878,7 @@
       "detailPath": "entities/songs/72de34d4f8f62126.json"
     },
     {
-      "rank": 8065,
+      "rank": 8066,
       "id": "ca53e46fd3fd9211",
       "name": "カブトムシ",
       "secondary": "未記載",
@@ -879,7 +936,7 @@
       "detailPath": "entities/songs/ca53e46fd3fd9211.json"
     },
     {
-      "rank": 8066,
+      "rank": 8067,
       "id": "372f60531e173bd2",
       "name": "カムパネルラ",
       "secondary": "",
@@ -936,7 +993,7 @@
       "detailPath": "entities/songs/372f60531e173bd2.json"
     },
     {
-      "rank": 8067,
+      "rank": 8068,
       "id": "f46991801040f929",
       "name": "カメリア",
       "secondary": "天野月子",
@@ -995,7 +1052,7 @@
       "detailPath": "entities/songs/f46991801040f929.json"
     },
     {
-      "rank": 8068,
+      "rank": 8069,
       "id": "468c0635d51674d8",
       "name": "カメレオンアクター",
       "secondary": "焔魔るり",
@@ -1055,7 +1112,7 @@
       "detailPath": "entities/songs/468c0635d51674d8.json"
     },
     {
-      "rank": 8069,
+      "rank": 8070,
       "id": "3036f61b0df00b20",
       "name": "から2026/09",
       "secondary": "30",
@@ -1112,7 +1169,7 @@
       "detailPath": "entities/songs/3036f61b0df00b20.json"
     },
     {
-      "rank": 8070,
+      "rank": 8071,
       "id": "a2e9e7d29870fa9e",
       "name": "カラクリアゲハ",
       "secondary": "骨盤P",
@@ -1172,7 +1229,7 @@
       "detailPath": "entities/songs/a2e9e7d29870fa9e.json"
     },
     {
-      "rank": 8071,
+      "rank": 8072,
       "id": "40648e3a13884a92",
       "name": "からくりピエロ",
       "secondary": "40meterP",
@@ -1232,7 +1289,7 @@
       "detailPath": "entities/songs/40648e3a13884a92.json"
     },
     {
-      "rank": 8072,
+      "rank": 8073,
       "id": "17a0e2fa23dcbcab",
       "name": "からくりピエロ",
       "secondary": "40㍍P feat. 初音ミク",
@@ -1292,7 +1349,7 @@
       "detailPath": "entities/songs/17a0e2fa23dcbcab.json"
     },
     {
-      "rank": 8073,
+      "rank": 8074,
       "id": "0762575d0c1badc1",
       "name": "からくりピエロ",
       "secondary": "初音ミク(40㍍P,40mP,虎次朗,イナメトオル)",
@@ -1352,7 +1409,7 @@
       "detailPath": "entities/songs/0762575d0c1badc1.json"
     },
     {
-      "rank": 8074,
+      "rank": 8075,
       "id": "3bbae0f86ccdddda",
       "name": "カラノココロ",
       "secondary": "Anly",
@@ -1410,7 +1467,7 @@
       "detailPath": "entities/songs/3bbae0f86ccdddda.json"
     },
     {
-      "rank": 8075,
+      "rank": 8076,
       "id": "6b35a03ffe8d7898",
       "name": "かわいいさがしてくれますか？",
       "secondary": "CUTIE STREET",
@@ -1467,7 +1524,7 @@
       "detailPath": "entities/songs/6b35a03ffe8d7898.json"
     },
     {
-      "rank": 8076,
+      "rank": 8077,
       "id": "d4e091bab39f7e9e",
       "name": "カントリー・ロード",
       "secondary": "本名陽子 (アカペラ)",
@@ -1521,7 +1578,7 @@
       "detailPath": "entities/songs/d4e091bab39f7e9e.json"
     },
     {
-      "rank": 8077,
+      "rank": 8078,
       "id": "d3d15c8860d5151a",
       "name": "カンパイでハロー！",
       "secondary": "",
@@ -1578,7 +1635,7 @@
       "detailPath": "entities/songs/d3d15c8860d5151a.json"
     },
     {
-      "rank": 8078,
+      "rank": 8079,
       "id": "ca4609ce98a9c18d",
       "name": "ギー太に首ったけ",
       "secondary": "平沢唯 (CV.豊崎愛生)",
@@ -1638,7 +1695,7 @@
       "detailPath": "entities/songs/ca4609ce98a9c18d.json"
     },
     {
-      "rank": 8079,
+      "rank": 8080,
       "id": "f07b7d20c8f77493",
       "name": "きえない",
       "secondary": "NOMELON NOLEMON",
@@ -1695,7 +1752,7 @@
       "detailPath": "entities/songs/f07b7d20c8f77493.json"
     },
     {
-      "rank": 8080,
+      "rank": 8081,
       "id": "42c232139045fade",
       "name": "きえないで",
       "secondary": "アイナ・ジ・エンド",
@@ -1756,7 +1813,7 @@
       "detailPath": "entities/songs/42c232139045fade.json"
     },
     {
-      "rank": 8081,
+      "rank": 8082,
       "id": "f7633c61841176f9",
       "name": "キスキツネ",
       "secondary": "ヒメヒナ",
@@ -1816,7 +1873,7 @@
       "detailPath": "entities/songs/f7633c61841176f9.json"
     },
     {
-      "rank": 8082,
+      "rank": 8083,
       "id": "8db3a30f2369a983",
       "name": "キタカゼ",
       "secondary": "SIX LOUNGE",
@@ -1875,7 +1932,7 @@
       "detailPath": "entities/songs/8db3a30f2369a983.json"
     },
     {
-      "rank": 8083,
+      "rank": 8084,
       "id": "d44e9da04e3ff83f",
       "name": "キッカイケッタイ",
       "secondary": "メドミア",
@@ -1932,7 +1989,7 @@
       "detailPath": "entities/songs/d44e9da04e3ff83f.json"
     },
     {
-      "rank": 8084,
+      "rank": 8085,
       "id": "ba6c947c590f87b9",
       "name": "きっと忘れない",
       "secondary": "ZARD",
@@ -1992,7 +2049,7 @@
       "detailPath": "entities/songs/ba6c947c590f87b9.json"
     },
     {
-      "rank": 8085,
+      "rank": 8086,
       "id": "82c1c1b579cb8223",
       "name": "キティ",
       "secondary": "ツミキ",
@@ -2049,7 +2106,7 @@
       "detailPath": "entities/songs/82c1c1b579cb8223.json"
     },
     {
-      "rank": 8086,
+      "rank": 8087,
       "id": "db9ee6e440070b4d",
       "name": "キティ",
       "secondary": "25時、ナイトコードで。",
@@ -2106,7 +2163,7 @@
       "detailPath": "entities/songs/db9ee6e440070b4d.json"
     },
     {
-      "rank": 8087,
+      "rank": 8088,
       "id": "874f39b943bed4bf",
       "name": "ギプス",
       "secondary": "椎名林檎",
@@ -2165,7 +2222,7 @@
       "detailPath": "entities/songs/874f39b943bed4bf.json"
     },
     {
-      "rank": 8088,
+      "rank": 8089,
       "id": "8e7a1e4b3bcae491",
       "name": "きみがいれば",
       "secondary": "伊織",
@@ -2222,7 +2279,7 @@
       "detailPath": "entities/songs/8e7a1e4b3bcae491.json"
     },
     {
-      "rank": 8089,
+      "rank": 8090,
       "id": "d5a95dbceae6670a",
       "name": "ギミギミック",
       "secondary": "RADWIMP",
@@ -2282,7 +2339,7 @@
       "detailPath": "entities/songs/d5a95dbceae6670a.json"
     },
     {
-      "rank": 8090,
+      "rank": 8091,
       "id": "46e26e254f19f8fd",
       "name": "ギミチョコ!!",
       "secondary": "BABYMETAL",
@@ -2342,7 +2399,7 @@
       "detailPath": "entities/songs/46e26e254f19f8fd.json"
     },
     {
-      "rank": 8091,
+      "rank": 8092,
       "id": "a00756332907464d",
       "name": "キミとアイドルプリキュア♪Light Up!",
       "secondary": "石井あみ・熊田茜音・吉武千颯",
@@ -2399,7 +2456,7 @@
       "detailPath": "entities/songs/a00756332907464d.json"
     },
     {
-      "rank": 8092,
+      "rank": 8093,
       "id": "f4aa9f75df888be8",
       "name": "キミとセミブルー",
       "secondary": "初星学園（有村麻央・姫崎莉波・紫雲清夏）",
@@ -2456,7 +2513,7 @@
       "detailPath": "entities/songs/f4aa9f75df888be8.json"
     },
     {
-      "rank": 8093,
+      "rank": 8094,
       "id": "b939073b9ba072b5",
       "name": "きみのかみ",
       "secondary": "澤田空海理",
@@ -2513,7 +2570,7 @@
       "detailPath": "entities/songs/b939073b9ba072b5.json"
     },
     {
-      "rank": 8094,
+      "rank": 8095,
       "id": "7cda5300fb1dfb1a",
       "name": "きみのこえ",
       "secondary": "川嶋あい",
@@ -2572,7 +2629,7 @@
       "detailPath": "entities/songs/7cda5300fb1dfb1a.json"
     },
     {
-      "rank": 8095,
+      "rank": 8096,
       "id": "f4a778c53c1235d4",
       "name": "キミのとなりで恋がしたい！",
       "secondary": "茶太",
@@ -2629,7 +2686,7 @@
       "detailPath": "entities/songs/f4a778c53c1235d4.json"
     },
     {
-      "rank": 8096,
+      "rank": 8097,
       "id": "dc60e05195990919",
       "name": "キミはともだち",
       "secondary": "平井堅",
@@ -2689,7 +2746,7 @@
       "detailPath": "entities/songs/dc60e05195990919.json"
     },
     {
-      "rank": 8097,
+      "rank": 8098,
       "id": "37634dbc89d5e150",
       "name": "キミを忘れないよ",
       "secondary": "大原櫻子",
@@ -2747,7 +2804,7 @@
       "detailPath": "entities/songs/37634dbc89d5e150.json"
     },
     {
-      "rank": 8098,
+      "rank": 8099,
       "id": "e6c8d14f45973c0e",
       "name": "キャットフード",
       "secondary": "",
@@ -2804,7 +2861,7 @@
       "detailPath": "entities/songs/e6c8d14f45973c0e.json"
     },
     {
-      "rank": 8099,
+      "rank": 8100,
       "id": "3fd7a52b2ca3576c",
       "name": "キャプテンハーロック",
       "secondary": "水木一郎",
@@ -2860,63 +2917,6 @@
         }
       ],
       "detailPath": "entities/songs/3fd7a52b2ca3576c.json"
-    },
-    {
-      "rank": 8100,
-      "id": "1929b49d54c80a69",
-      "name": "キャンディ キャンディ",
-      "secondary": "堀江美都子",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "BTTvfG-JDis",
-          "videoTitle": "【昭和歌謡縛り #歌枠】〜昭和へタイムスリップ〜あなたの好きな曲教えて！【#vtuber #新人vtuber 】",
-          "channelName": "詩乃すぴか-うたのすぴか Utano Supica",
-          "publishedAt": "2026-09-23T14:12:59.656Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BTTvfG-JDis/hqdefault.jpg",
-          "sourcePath": "sources/BT/BTTvfG-JDis.json",
-          "time": "1:24:39",
-          "seconds": 5079,
-          "songTitle": "キャンディキャンディ",
-          "artist": "堀江美都子"
-        },
-        {
-          "videoId": "KHmqkLq-BTo",
-          "videoTitle": "【歌枠】休日のお昼は歌枠日和！14時頃まで歌うよ🎤リクエストは概要欄見てね～【柚園】#shorts #vtuber",
-          "channelName": "柚園🍊ぞのちゃんねる",
-          "publishedAt": "2026-09-20T05:05:46.232Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KHmqkLq-BTo/hqdefault.jpg",
-          "sourcePath": "sources/KH/KHmqkLq-BTo.json",
-          "time": "1:15:55",
-          "seconds": 4555,
-          "songTitle": "キャンディキャンディ",
-          "artist": "堀江美都子"
-        },
-        {
-          "videoId": "N9CzUuH33DU",
-          "videoTitle": "【#歌枠 】アニソン歌枠しながら高評価150件目指そう！🌺【#メーレv 】",
-          "channelName": "メーレ-mele-",
-          "publishedAt": "2026-08-24T14:51:32.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/N9CzUuH33DU/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAzOJEdplbyNTSAki0-Y9hCBJWtUA",
-          "sourcePath": "sources/N9/N9CzUuH33DU.json",
-          "time": "1:01:37",
-          "seconds": 3697,
-          "songTitle": "キャンディ キャンディ",
-          "artist": "堀江美都子"
-        }
-      ],
-      "detailPath": "entities/songs/1929b49d54c80a69.json"
     }
   ]
 }
