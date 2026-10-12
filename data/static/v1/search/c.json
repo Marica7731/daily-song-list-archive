@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "items": [
     {
       "id": "ce40ae9ff803c85c",
@@ -385,8 +385,8 @@
       "type": "songs",
       "name": "シュガーソングとビターステップ",
       "secondary": "UNISON SQUARE GARDEN",
-      "occurrenceCount": 254,
-      "videoCount": 254,
+      "occurrenceCount": 255,
+      "videoCount": 255,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -412,8 +412,8 @@
           "videoCount": 7
         },
         "30d": {
-          "occurrenceCount": 108,
-          "videoCount": 108
+          "occurrenceCount": 109,
+          "videoCount": 109
         }
       },
       "text": "シュガーソングとビターステップunisonsquaregarden"
@@ -10799,8 +10799,8 @@
       "type": "songs",
       "name": "言葉にせずとも",
       "secondary": "SIX LOUNGE",
-      "occurrenceCount": 3,
-      "videoCount": 3,
+      "occurrenceCount": 4,
+      "videoCount": 4,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -10810,7 +10810,12 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/c955812e07820066.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "言葉にせずともsixlounge"
     },
     {
@@ -66086,8 +66091,8 @@
       "type": "songs",
       "name": "Believe",
       "secondary": "玉置成実 ※JOYSOUND",
-      "occurrenceCount": 2,
-      "videoCount": 1,
+      "occurrenceCount": 3,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -66097,8 +66102,8 @@
       "detailPath": "entities/songs/cb1671e7168a9490.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 1
+          "occurrenceCount": 3,
+          "videoCount": 2
         }
       },
       "text": "believe玉置成実joysound"
@@ -74268,6 +74273,31 @@
       "text": "01catlovingkashiimoimiftkafu"
     },
     {
+      "id": "cad5b1b3d2a1a8c8",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "前しか向かねえ",
+      "secondary": "AKB48",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/cad5b1b3d2a1a8c8.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "前しか向かねえakb48"
+    },
+    {
       "id": "cf02bb62abe8f2f9",
       "channelId": "",
       "channelHandle": "",
@@ -79060,8 +79090,8 @@
       "type": "artists",
       "name": "スキマスイッチ",
       "secondary": "",
-      "occurrenceCount": 534,
-      "videoCount": 469,
+      "occurrenceCount": 536,
+      "videoCount": 471,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -79083,8 +79113,8 @@
           "videoCount": 12
         },
         "30d": {
-          "occurrenceCount": 213,
-          "videoCount": 189
+          "occurrenceCount": 215,
+          "videoCount": 191
         }
       },
       "text": "スキマスイッチ"
@@ -108152,17 +108182,24 @@
       "type": "vtubers",
       "name": "二茅ニナ / Nigaya Nina",
       "secondary": "",
-      "occurrenceCount": 28,
-      "videoCount": 1,
+      "occurrenceCount": 46,
+      "videoCount": 2,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/vtubers/c71199a5dfe555c8.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 18,
+          "videoCount": 1
+        }
+      },
       "text": "二茅ニナnigayanina"
     },
     {

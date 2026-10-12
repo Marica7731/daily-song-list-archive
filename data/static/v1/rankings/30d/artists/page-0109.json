@@ -1,16 +1,139 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "30d",
   "type": "artists",
   "page": 109,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10864,
+  "totalCount": 10870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5401,
+      "id": "1eb1880e6b88d3ff",
+      "name": "LEWNE (Kuusousen)",
+      "secondary": "",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelHandle": "@LEWNE_RKMusic",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "QFKmanUrOxg",
+          "videoTitle": "【#歌枠 / #karaoke 】遅くなりましたが16ヵ月らしいです #vsinger #Vtuber #LEWREC 【LEWNE / RK Music】",
+          "channelName": "LEWNE",
+          "publishedAt": "2026-09-15T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QFKmanUrOxg/hqdefault.jpg",
+          "sourcePath": "sources/QF/QFKmanUrOxg.json",
+          "time": "1:55:41",
+          "seconds": 6941,
+          "songTitle": "空想線",
+          "artist": "LEWNE (Kuusousen)"
+        }
+      ],
+      "detailPath": "entities/artists/1eb1880e6b88d3ff.json"
+    },
+    {
+      "rank": 5402,
+      "id": "02634fe69d2debec",
+      "name": "LEWNE (Nocturne Blue)",
+      "secondary": "",
+      "channelId": "UCw0ty0mpHBx6xZt-K_hfNcA",
+      "channelHandle": "@LEWNE_RKMusic",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "QFKmanUrOxg",
+          "videoTitle": "【#歌枠 / #karaoke 】遅くなりましたが16ヵ月らしいです #vsinger #Vtuber #LEWREC 【LEWNE / RK Music】",
+          "channelName": "LEWNE",
+          "publishedAt": "2026-09-15T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QFKmanUrOxg/hqdefault.jpg",
+          "sourcePath": "sources/QF/QFKmanUrOxg.json",
+          "time": "2:01:47",
+          "seconds": 7307,
+          "songTitle": "ノクタンブルー",
+          "artist": "LEWNE (Nocturne Blue)"
+        }
+      ],
+      "detailPath": "entities/artists/02634fe69d2debec.json"
+    },
+    {
+      "rank": 5403,
+      "id": "b81c388fe3ec950c",
+      "name": "Lia [Air]",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "V1SuJLJNU5g",
+          "videoTitle": "【#Karaoke / #歌枠】 Malam Minggu, Jangan Galau Dulu | LIVE RTD Ep. 142 【Vtuber Indonesia】",
+          "channelName": "Lisette Ch.",
+          "publishedAt": "2026-10-03T13:26:25.634Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/V1SuJLJNU5g/hqdefault.jpg",
+          "sourcePath": "sources/V1/V1SuJLJNU5g.json",
+          "time": "0:01:25",
+          "seconds": 85,
+          "songTitle": "Tori No Uta",
+          "artist": "Lia [Air]"
+        }
+      ],
+      "detailPath": "entities/artists/b81c388fe3ec950c.json"
+    },
+    {
+      "rank": 5404,
+      "id": "356e0149762a097d",
+      "name": "Lia ／ CLANNAD 〜AFTER STORY〜(2008年)",
+      "secondary": "",
+      "channelId": "UCCtRWnIUz1LRp-TI5gaw6gw",
+      "channelHandle": "@maria_amunea",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "KFXmYsw3IxA",
+          "videoTitle": "【歌枠/#歌枠配信】一曲だけでもきいてって！ きてくれた人数分くらいｳﾀｲﾀｲ！頭痛やだ！！ 【初見さん歓迎/karaokestream /Vtuber /#karaoke 】",
+          "channelName": "マリア・アムネア.CH👼",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KFXmYsw3IxA/hqdefault.jpg",
+          "sourcePath": "sources/KF/KFXmYsw3IxA.json",
+          "time": "8:11:20",
+          "seconds": 29480,
+          "songTitle": "時を刻む唄",
+          "artist": "Lia ／ CLANNAD 〜AFTER STORY〜(2008年)"
+        }
+      ],
+      "detailPath": "entities/artists/356e0149762a097d.json"
+    },
+    {
+      "rank": 5405,
       "id": "c9e804e4d8381a71",
       "name": "Lia🌟事前リク曲",
       "secondary": "",
@@ -43,7 +166,7 @@
       "detailPath": "entities/artists/c9e804e4d8381a71.json"
     },
     {
-      "rank": 5402,
+      "rank": 5406,
       "id": "bb3d3b32bcf12212",
       "name": "Liana Flores",
       "secondary": "",
@@ -76,7 +199,7 @@
       "detailPath": "entities/artists/bb3d3b32bcf12212.json"
     },
     {
-      "rank": 5403,
+      "rank": 5407,
       "id": "7d2c978d3500062a",
       "name": "Liella! (2021)（ラブライブ！スーパースター!!）",
       "secondary": "",
@@ -106,7 +229,7 @@
       "detailPath": "entities/artists/7d2c978d3500062a.json"
     },
     {
-      "rank": 5404,
+      "rank": 5408,
       "id": "a0e84f75027ffca0",
       "name": "Liella! ラブライブ！スーパースター！より",
       "secondary": "",
@@ -136,7 +259,7 @@
       "detailPath": "entities/artists/a0e84f75027ffca0.json"
     },
     {
-      "rank": 5405,
+      "rank": 5409,
       "id": "9836950cab4c408e",
       "name": "Lilas & Kevin Penkin",
       "secondary": "",
@@ -169,7 +292,7 @@
       "detailPath": "entities/artists/9836950cab4c408e.json"
     },
     {
-      "rank": 5406,
+      "rank": 5410,
       "id": "c2b53960740a6e3d",
       "name": "LILIUM-リリウム 少女純潔歌劇",
       "secondary": "",
@@ -199,7 +322,7 @@
       "detailPath": "entities/artists/c2b53960740a6e3d.json"
     },
     {
-      "rank": 5407,
+      "rank": 5411,
       "id": "79f9bf67d2513444",
       "name": "lily white (2013)（ラブライブ！School idol project）",
       "secondary": "",
@@ -229,7 +352,7 @@
       "detailPath": "entities/artists/79f9bf67d2513444.json"
     },
     {
-      "rank": 5408,
+      "rank": 5412,
       "id": "92602fb230f92855",
       "name": "LilyPichu",
       "secondary": "",
@@ -262,7 +385,7 @@
       "detailPath": "entities/artists/92602fb230f92855.json"
     },
     {
-      "rank": 5409,
+      "rank": 5413,
       "id": "1692564b4ef69083",
       "name": "Limet",
       "secondary": "",
@@ -295,7 +418,7 @@
       "detailPath": "entities/artists/1692564b4ef69083.json"
     },
     {
-      "rank": 5410,
+      "rank": 5414,
       "id": "166b41d4a5db6082",
       "name": "Lion May’n・中島愛 / May’n & Megumi Nakajima",
       "secondary": "",
@@ -328,7 +451,7 @@
       "detailPath": "entities/artists/166b41d4a5db6082.json"
     },
     {
-      "rank": 5411,
+      "rank": 5415,
       "id": "2a863ab6396b7d19",
       "name": "LIP×LIP(勇次郎・愛蔵/CV:内山昂輝・島崎信長)",
       "secondary": "",
@@ -361,7 +484,7 @@
       "detailPath": "entities/artists/2a863ab6396b7d19.json"
     },
     {
-      "rank": 5412,
+      "rank": 5416,
       "id": "6f36633df53f22f9",
       "name": "LIP×LIP(勇次郎・愛蔵/CV:内山昂輝・島崎信長) ※JOYSOUND",
       "secondary": "",
@@ -394,7 +517,7 @@
       "detailPath": "entities/artists/6f36633df53f22f9.json"
     },
     {
-      "rank": 5413,
+      "rank": 5417,
       "id": "ae0944ac225b643b",
       "name": "LiSA [マネ]",
       "secondary": "",
@@ -427,7 +550,7 @@
       "detailPath": "entities/artists/ae0944ac225b643b.json"
     },
     {
-      "rank": 5414,
+      "rank": 5418,
       "id": "73950c7c98411fd2",
       "name": "LiSA / JS",
       "secondary": "",
@@ -460,7 +583,7 @@
       "detailPath": "entities/artists/73950c7c98411fd2.json"
     },
     {
-      "rank": 5415,
+      "rank": 5419,
       "id": "1ec8f968b393dbf3",
       "name": "LiSA ／ ソードアート・オンライン アインクラッド編(2012年)",
       "secondary": "",
@@ -490,7 +613,7 @@
       "detailPath": "entities/artists/1ec8f968b393dbf3.json"
     },
     {
-      "rank": 5416,
+      "rank": 5420,
       "id": "98bcdb513d26bd61",
       "name": "LISA /《我的英雄學院第二季》ED",
       "secondary": "",
@@ -523,7 +646,7 @@
       "detailPath": "entities/artists/98bcdb513d26bd61.json"
     },
     {
-      "rank": 5417,
+      "rank": 5421,
       "id": "44eb137837873a47",
       "name": "LISA /《鬼滅之刃》OP",
       "secondary": "",
@@ -556,7 +679,7 @@
       "detailPath": "entities/artists/44eb137837873a47.json"
     },
     {
-      "rank": 5418,
+      "rank": 5422,
       "id": "b34c03828c9de1af",
       "name": "LiSA /《刀劍神域》OP",
       "secondary": "",
@@ -589,7 +712,7 @@
       "detailPath": "entities/artists/b34c03828c9de1af.json"
     },
     {
-      "rank": 5419,
+      "rank": 5423,
       "id": "f353ec121867467c",
       "name": "LiSA,草野華余子",
       "secondary": "",
@@ -622,7 +745,7 @@
       "detailPath": "entities/artists/f353ec121867467c.json"
     },
     {
-      "rank": 5420,
+      "rank": 5424,
       "id": "caa1e823055c2f69",
       "name": "LiSA（Girls Dead Monster STARRING LiSA）",
       "secondary": "",
@@ -655,7 +778,7 @@
       "detailPath": "entities/artists/caa1e823055c2f69.json"
     },
     {
-      "rank": 5421,
+      "rank": 5425,
       "id": "a604f01ec9732ad4",
       "name": "LiSA／アニメ『Angel Beats!』劇中歌／2010/12/08",
       "secondary": "",
@@ -685,7 +808,7 @@
       "detailPath": "entities/artists/a604f01ec9732ad4.json"
     },
     {
-      "rank": 5422,
+      "rank": 5426,
       "id": "6bdd5ae751dc3266",
       "name": "LiSA／アニメ『ソードアート・オンライン アインクラッド編』OP／2012/08/08",
       "secondary": "",
@@ -715,7 +838,7 @@
       "detailPath": "entities/artists/6bdd5ae751dc3266.json"
     },
     {
-      "rank": 5423,
+      "rank": 5427,
       "id": "87ef7b93f26f2deb",
       "name": "livetune adding Takuro Sugawara(from 9mm Parabellum Bullet)",
       "secondary": "",
@@ -748,7 +871,7 @@
       "detailPath": "entities/artists/87ef7b93f26f2deb.json"
     },
     {
-      "rank": 5424,
+      "rank": 5428,
       "id": "69db6e334e5a0ef6",
       "name": "live講習",
       "secondary": "",
@@ -781,7 +904,7 @@
       "detailPath": "entities/artists/69db6e334e5a0ef6.json"
     },
     {
-      "rank": 5425,
+      "rank": 5429,
       "id": "0439dd743a6a78aa",
       "name": "Liz Triangle",
       "secondary": "",
@@ -814,7 +937,7 @@
       "detailPath": "entities/artists/0439dd743a6a78aa.json"
     },
     {
-      "rank": 5426,
+      "rank": 5430,
       "id": "e094f79c751893db",
       "name": "Lizz Robinett",
       "secondary": "",
@@ -847,7 +970,7 @@
       "detailPath": "entities/artists/e094f79c751893db.json"
     },
     {
-      "rank": 5427,
+      "rank": 5431,
       "id": "b523a2c91d711197",
       "name": "LMFAO",
       "secondary": "",
@@ -880,7 +1003,7 @@
       "detailPath": "entities/artists/b523a2c91d711197.json"
     },
     {
-      "rank": 5428,
+      "rank": 5432,
       "id": "63e1123e3f25ac1b",
       "name": "Logic",
       "secondary": "",
@@ -913,7 +1036,7 @@
       "detailPath": "entities/artists/63e1123e3f25ac1b.json"
     },
     {
-      "rank": 5429,
+      "rank": 5433,
       "id": "9c4ce38a2e70dccd",
       "name": "lol",
       "secondary": "",
@@ -946,7 +1069,7 @@
       "detailPath": "entities/artists/9c4ce38a2e70dccd.json"
     },
     {
-      "rank": 5430,
+      "rank": 5434,
       "id": "bb82a51a59d2d42c",
       "name": "LOLUET",
       "secondary": "",
@@ -979,7 +1102,7 @@
       "detailPath": "entities/artists/bb82a51a59d2d42c.json"
     },
     {
-      "rank": 5431,
+      "rank": 5435,
       "id": "1e32e4706030a775",
       "name": "lose control",
       "secondary": "",
@@ -1012,7 +1135,7 @@
       "detailPath": "entities/artists/1e32e4706030a775.json"
     },
     {
-      "rank": 5432,
+      "rank": 5436,
       "id": "775a1e2210e250c3",
       "name": "LOST IN TIME",
       "secondary": "",
@@ -1045,7 +1168,7 @@
       "detailPath": "entities/artists/775a1e2210e250c3.json"
     },
     {
-      "rank": 5433,
+      "rank": 5437,
       "id": "78a68cf515445dc2",
       "name": "Love Live!(AiScReam) / JS",
       "secondary": "",
@@ -1078,7 +1201,7 @@
       "detailPath": "entities/artists/78a68cf515445dc2.json"
     },
     {
-      "rank": 5434,
+      "rank": 5438,
       "id": "4a43e3178b86d24d",
       "name": "Love Novels",
       "secondary": "",
@@ -1111,7 +1234,7 @@
       "detailPath": "entities/artists/4a43e3178b86d24d.json"
     },
     {
-      "rank": 5435,
+      "rank": 5439,
       "id": "3e027df0e28fcc2d",
       "name": "Love Story",
       "secondary": "",
@@ -1144,7 +1267,7 @@
       "detailPath": "entities/artists/3e027df0e28fcc2d.json"
     },
     {
-      "rank": 5436,
+      "rank": 5440,
       "id": "64eb3dd572594d8d",
       "name": "LOVO",
       "secondary": "",
@@ -1174,7 +1297,7 @@
       "detailPath": "entities/artists/64eb3dd572594d8d.json"
     },
     {
-      "rank": 5437,
+      "rank": 5441,
       "id": "c44645a5c44bbbf3",
       "name": "Lucky Kilimanjaro 様",
       "secondary": "",
@@ -1207,7 +1330,7 @@
       "detailPath": "entities/artists/c44645a5c44bbbf3.json"
     },
     {
-      "rank": 5438,
+      "rank": 5442,
       "id": "a5718598fe935bb8",
       "name": "Luis Fonsi & Daddy Yankee",
       "secondary": "",
@@ -1240,7 +1363,7 @@
       "detailPath": "entities/artists/a5718598fe935bb8.json"
     },
     {
-      "rank": 5439,
+      "rank": 5443,
       "id": "b46e0d8256f19570",
       "name": "Lullaby of birdland",
       "secondary": "",
@@ -1273,7 +1396,7 @@
       "detailPath": "entities/artists/b46e0d8256f19570.json"
     },
     {
-      "rank": 5440,
+      "rank": 5444,
       "id": "1e63369fbe883320",
       "name": "lumo",
       "secondary": "",
@@ -1306,7 +1429,7 @@
       "detailPath": "entities/artists/1e63369fbe883320.json"
     },
     {
-      "rank": 5441,
+      "rank": 5445,
       "id": "57cecc5e677d8cbb",
       "name": "Luna ft. flower",
       "secondary": "",
@@ -1339,7 +1462,7 @@
       "detailPath": "entities/artists/57cecc5e677d8cbb.json"
     },
     {
-      "rank": 5442,
+      "rank": 5446,
       "id": "924be2af2b0d5be9",
       "name": "Lyn",
       "secondary": "",
@@ -1372,7 +1495,7 @@
       "detailPath": "entities/artists/924be2af2b0d5be9.json"
     },
     {
-      "rank": 5443,
+      "rank": 5447,
       "id": "9c5f01e82f6280e5",
       "name": "lynch",
       "secondary": "",
@@ -1405,7 +1528,7 @@
       "detailPath": "entities/artists/9c5f01e82f6280e5.json"
     },
     {
-      "rank": 5444,
+      "rank": 5448,
       "id": "18c3c39ba161b102",
       "name": "Lynn (2026) ゲーム「原神」タイアップ曲",
       "secondary": "",
@@ -1435,7 +1558,7 @@
       "detailPath": "entities/artists/18c3c39ba161b102.json"
     },
     {
-      "rank": 5445,
+      "rank": 5449,
       "id": "e0ec30dd182c6996",
       "name": "m.c.A.T",
       "secondary": "",
@@ -1465,7 +1588,7 @@
       "detailPath": "entities/artists/e0ec30dd182c6996.json"
     },
     {
-      "rank": 5446,
+      "rank": 5450,
       "id": "f3b1452c2800265d",
       "name": "M.o.v.e",
       "secondary": "",
@@ -1496,132 +1619,6 @@
         }
       ],
       "detailPath": "entities/artists/f3b1452c2800265d.json"
-    },
-    {
-      "rank": 5447,
-      "id": "2ce8c545878de98d",
-      "name": "M.S.S.Project",
-      "secondary": "",
-      "channelId": "UCioGmfm1793M7vPpGGgNdEw",
-      "channelHandle": "@Kanagi_Ina",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ezqR2sBiJZU",
-          "videoTitle": "【歌枠】お昼のこっそり歌練習！🐺🎵【初見さん・リクエスト歓迎】 #vtuber #初見さん大歓迎 #shorts",
-          "channelName": "十七夜 いな(Kanagi_Ina)",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ezqR2sBiJZU/hqdefault.jpg",
-          "sourcePath": "sources/ez/ezqR2sBiJZU.json",
-          "time": "3:00:57",
-          "seconds": 10857,
-          "songTitle": "M.S.S.Planet",
-          "artist": "M.S.S.Project"
-        }
-      ],
-      "detailPath": "entities/artists/2ce8c545878de98d.json"
-    },
-    {
-      "rank": 5448,
-      "id": "807b4cbcf61ceede",
-      "name": "M@STER VERSION",
-      "secondary": "",
-      "channelId": "UCxc8EqhUyYaRywhQKpu-2sg",
-      "channelHandle": "@NekozukiMio",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ngrMQQCw-7c",
-          "videoTitle": "【 #歌枠 】寝る前にちょっとだけ歌うからきて？💙【#猫月みお/ #Vtuber / #karaoke 】",
-          "channelName": "Mio Ch. 猫月みお【あみゅどる】",
-          "publishedAt": "2026-10-06T17:13:42.999Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ngrMQQCw-7c/hqdefault.jpg",
-          "sourcePath": "sources/ng/ngrMQQCw-7c.json",
-          "time": "1:53:03",
-          "seconds": 6783,
-          "songTitle": "Tulip",
-          "artist": "M@STER VERSION"
-        }
-      ],
-      "detailPath": "entities/artists/807b4cbcf61ceede.json"
-    },
-    {
-      "rank": 5449,
-      "id": "87c218bf3bf9f249",
-      "name": "M2U feat.Guriri",
-      "secondary": "",
-      "channelId": "UCngjNluk0InGM3RShD_J_cw",
-      "channelHandle": "@NemoTerminus",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "S_nxrg3lYfg",
-          "videoTitle": "【 歌枠 ⁞ Karaoke 】日向に流れる音楽【最高音質】 #初見歓迎 #歌枠 #Vsinger #Karaoke",
-          "channelName": "ネモ・テルミナス",
-          "publishedAt": "2026-09-24T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/S_nxrg3lYfg/hqdefault.jpg",
-          "sourcePath": "sources/S_/S_nxrg3lYfg.json",
-          "time": "1:23:19",
-          "seconds": 4999,
-          "songTitle": "Magnolia",
-          "artist": "M2U feat.Guriri"
-        }
-      ],
-      "detailPath": "entities/artists/87c218bf3bf9f249.json"
-    },
-    {
-      "rank": 5450,
-      "id": "bf5bc7722a4c4fc8",
-      "name": "M2U x ダズビー",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "d0JUwIm3jKo",
-          "videoTitle": "【#歌枠 】10月になったって！好きな秋曲教えて～～！#緋那ちび 【#vsinger #vtuber 】",
-          "channelName": "緋那ちび_Vtuber",
-          "publishedAt": "2026-10-02T15:14:01.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/d0JUwIm3jKo/hqdefault.jpg",
-          "sourcePath": "sources/d0/d0JUwIm3jKo.json",
-          "time": "1:23:37",
-          "seconds": 5017,
-          "songTitle": "夜明けの歌",
-          "artist": "M2U x ダズビー"
-        }
-      ],
-      "detailPath": "entities/artists/bf5bc7722a4c4fc8.json"
     }
   ]
 }

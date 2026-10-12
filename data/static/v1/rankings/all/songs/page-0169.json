@@ -1,16 +1,244 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "all",
   "type": "songs",
   "page": 169,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52815,
+  "totalCount": 52824,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 8401,
+      "id": "2e6da9e9aaa2bee6",
+      "name": "はじまりはじまり！",
+      "secondary": "",
+      "channelId": "UC6EVyDoc4fmajbMtlQzPqtQ",
+      "channelHandle": "@VRSonger",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "-0bA1c-sOpM",
+          "videoTitle": "VR商店街の弾き語りおねーさん のライブ配信 2026年9月11日",
+          "channelName": "VR商店街の弾き語りおねーさん",
+          "publishedAt": "2026-09-11T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-0bA1c-sOpM/hqdefault.jpg",
+          "sourcePath": "sources/-0/-0bA1c-sOpM.json",
+          "time": "0:00:00",
+          "seconds": 0,
+          "songTitle": "はじまりはじまり！",
+          "artist": ""
+        },
+        {
+          "videoId": "Hucu4oCOYSQ",
+          "videoTitle": "VR商店街の弾き語りおねーさん のライブ配信 2026年9月5日",
+          "channelName": "VR商店街の弾き語りおねーさん",
+          "publishedAt": "2026-09-05T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Hucu4oCOYSQ/hqdefault.jpg",
+          "sourcePath": "sources/Hu/Hucu4oCOYSQ.json",
+          "time": "0:00:00",
+          "seconds": 0,
+          "songTitle": "はじまりはじまり！",
+          "artist": ""
+        },
+        {
+          "videoId": "EuweIvH-dxc",
+          "videoTitle": "VR商店街の弾き語りおねーさん のライブ配信 2026年8月29日",
+          "channelName": "VR商店街の弾き語りおねーさん",
+          "publishedAt": "2026-08-29T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/EuweIvH-dxc/hqdefault.jpg",
+          "sourcePath": "sources/Eu/EuweIvH-dxc.json",
+          "time": "0:00:00",
+          "seconds": 0,
+          "songTitle": "はじまりはじまり！",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/2e6da9e9aaa2bee6.json"
+    },
+    {
+      "rank": 8402,
+      "id": "3171fb6e73c7602a",
+      "name": "はじめてのチュウ",
+      "secondary": "実川俊晴",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "xGi0fvmGy6k",
+          "videoTitle": "【 朝活歌枠 】200人におはようしたい🐣初見さん・ROM勢さんも大歓迎◎【 #新人vtuber /芽森ひより 】【 #朝活 】【 #歌枠 】",
+          "channelName": "芽森ひより",
+          "publishedAt": "2026-07-31T02:57:39.350Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xGi0fvmGy6k/hqdefault.jpg",
+          "sourcePath": "sources/xG/xGi0fvmGy6k.json",
+          "time": "3:42:13",
+          "seconds": 13333,
+          "songTitle": "はじめてのチュウ",
+          "artist": "＠実川俊晴"
+        },
+        {
+          "videoId": "dme0IqQKyfg",
+          "videoTitle": "【 朝活歌枠 】150→175→200人におはようしたい🐣初見さん・ROM勢さんも大歓迎◎【 #新人vtuber /芽森ひより 】【 #朝活 】【 #歌枠 】",
+          "channelName": "芽森ひより",
+          "publishedAt": "2026-07-29T02:57:25.526Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dme0IqQKyfg/hqdefault.jpg",
+          "sourcePath": "sources/dm/dme0IqQKyfg.json",
+          "time": "1:47:28",
+          "seconds": 6448,
+          "songTitle": "はじめてのチュウ",
+          "artist": "＠実川俊晴"
+        },
+        {
+          "videoId": "usoUkXGUId4",
+          "videoTitle": "【#歌枠】歌まみれ【 ARAWAZA / 月草かなで 】#karaoke",
+          "channelName": "月草かなで",
+          "publishedAt": "2026-07-14T15:46:04.178Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/usoUkXGUId4/hqdefault.jpg",
+          "sourcePath": "sources/us/usoUkXGUId4.json",
+          "time": "0:46:38",
+          "seconds": 2798,
+          "songTitle": "はじめてのチュウ",
+          "artist": "実川俊晴"
+        }
+      ],
+      "detailPath": "entities/songs/3171fb6e73c7602a.json"
+    },
+    {
+      "rank": 8403,
+      "id": "aa4a184b66ce48fa",
+      "name": "パズルガール",
+      "secondary": "とあ feat. 初音ミク",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "f1LSmJa5WL0",
+          "videoTitle": "【#歌枠 ¦ #karaoke 】初見さんもROMさんも大歓迎♪ お名前呼び🌟歌枠 #新人vtuber #雑談",
+          "channelName": "真白ましろ /Mashiro Ch.",
+          "publishedAt": "2026-09-23T14:55:04.472Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/f1LSmJa5WL0/hqdefault.jpg",
+          "sourcePath": "sources/f1/f1LSmJa5WL0.json",
+          "time": "1:20:57",
+          "seconds": 4857,
+          "songTitle": "パズルガール",
+          "artist": "とあ feat. 初音ミク"
+        },
+        {
+          "videoId": "m_lWS4CgWw8",
+          "videoTitle": "【 耐久歌枠 】同接200チャレンジだ！🔥🔥【 惑世いと┆#vtuber 】",
+          "channelName": "惑世いと - wakuse ito-",
+          "publishedAt": "2026-09-01T12:19:49.837Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/m_lWS4CgWw8/hqdefault.jpg",
+          "sourcePath": "sources/m_/m_lWS4CgWw8.json",
+          "time": "2:41:28",
+          "seconds": 9688,
+          "songTitle": "パズルガール",
+          "artist": "とあ feat. 初音ミク"
+        },
+        {
+          "videoId": "okMET825HcI",
+          "videoTitle": "【歌枠】かわいいお歌いっぱい歌います！！【Singing Stream】",
+          "channelName": "Rara Channel",
+          "publishedAt": "2022-10-07T01:15:17.362Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/okMET825HcI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCYnWCs9WcWy_N7iVQtNT7eIffdHA",
+          "sourcePath": "sources/ok/okMET825HcI.json",
+          "time": "0:09:24",
+          "seconds": 564,
+          "songTitle": "パズルガール",
+          "artist": "とあ feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/aa4a184b66ce48fa.json"
+    },
+    {
+      "rank": 8404,
+      "id": "4e3c796b7642163f",
+      "name": "はたらきたくない",
+      "secondary": "打首獄門同好会",
+      "channelId": "UCJABeTIKrhExlG6tBTov_ZA",
+      "channelHandle": "@blanc_ulica",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ryf32mkXSds",
+          "videoTitle": "【#歌枠 & 雑談】高評価500耐久！初見さんもゆっくりしていってね【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
+          "channelName": "ブランク・ウリカ - Blanc Ulica -",
+          "publishedAt": "2026-09-15T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ryf32mkXSds/hqdefault.jpg",
+          "sourcePath": "sources/ry/ryf32mkXSds.json",
+          "time": "3:40:49",
+          "seconds": 13249,
+          "songTitle": "はたらきたくない",
+          "artist": "打首獄門同好会"
+        },
+        {
+          "videoId": "yM2s6bVqWsU",
+          "videoTitle": "【#歌枠 & 雑談】ようこそ、夜更かしさん【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
+          "channelName": "ブランク・ウリカ - Blanc Ulica -",
+          "publishedAt": "2026-07-26T20:59:35.979Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yM2s6bVqWsU/hqdefault.jpg",
+          "sourcePath": "sources/yM/yM2s6bVqWsU.json",
+          "time": "4:26:55",
+          "seconds": 16015,
+          "songTitle": "はたらきたくない",
+          "artist": "打首獄門同好会"
+        },
+        {
+          "videoId": "XXQkn6_ijOM",
+          "videoTitle": "【#歌枠 & 雑談】8時間睡眠はあまりにも健康的すぎますね【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
+          "channelName": "ブランク・ウリカ - Blanc Ulica -",
+          "publishedAt": "2026-07-14T18:36:23.953Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XXQkn6_ijOM/hqdefault.jpg",
+          "sourcePath": "sources/XX/XXQkn6_ijOM.json",
+          "time": "1:37:19",
+          "seconds": 5839,
+          "songTitle": "はたらきたくない",
+          "artist": "打首獄門同好会"
+        }
+      ],
+      "detailPath": "entities/songs/4e3c796b7642163f.json"
+    },
+    {
+      "rank": 8405,
       "id": "e30160b0b02c5a38",
       "name": "バッド・ダンス・ホール",
       "secondary": "カラスヤサボウ feat.鏡音リン",
@@ -64,7 +292,7 @@
       "detailPath": "entities/songs/e30160b0b02c5a38.json"
     },
     {
-      "rank": 8402,
+      "rank": 8406,
       "id": "74fd2de5d199bdfb",
       "name": "バッドパラドックス",
       "secondary": "BLUE ENCOUNT",
@@ -121,7 +349,7 @@
       "detailPath": "entities/songs/74fd2de5d199bdfb.json"
     },
     {
-      "rank": 8403,
+      "rank": 8407,
       "id": "efae0ff10f7f25af",
       "name": "ハッピー・ジャムジャム",
       "secondary": "M.S.J/アニメ「しましまとらのしまじろう」ED2/1993",
@@ -179,7 +407,7 @@
       "detailPath": "entities/songs/efae0ff10f7f25af.json"
     },
     {
-      "rank": 8404,
+      "rank": 8408,
       "id": "db948c808ce21caa",
       "name": "ハッピージャムジャム",
       "secondary": "",
@@ -236,7 +464,7 @@
       "detailPath": "entities/songs/db948c808ce21caa.json"
     },
     {
-      "rank": 8405,
+      "rank": 8409,
       "id": "2530bfebf99a183c",
       "name": "ハッピーシンセサイザー",
       "secondary": "",
@@ -293,7 +521,7 @@
       "detailPath": "entities/songs/2530bfebf99a183c.json"
     },
     {
-      "rank": 8406,
+      "rank": 8410,
       "id": "9f8f56a2c41c84f4",
       "name": "ハッピーラッキーチャッピー",
       "secondary": "あの",
@@ -352,7 +580,7 @@
       "detailPath": "entities/songs/9f8f56a2c41c84f4.json"
     },
     {
-      "rank": 8407,
+      "rank": 8411,
       "id": "28d33a5b2428a869",
       "name": "バトルクライ",
       "secondary": "BUMP OF CHICKEN",
@@ -412,7 +640,7 @@
       "detailPath": "entities/songs/28d33a5b2428a869.json"
     },
     {
-      "rank": 8408,
+      "rank": 8412,
       "id": "0e3bd38285587f0a",
       "name": "はなごろも",
       "secondary": "",
@@ -469,7 +697,7 @@
       "detailPath": "entities/songs/0e3bd38285587f0a.json"
     },
     {
-      "rank": 8409,
+      "rank": 8413,
       "id": "86ff7053efd14154",
       "name": "ハナタバ",
       "secondary": "MIMI",
@@ -529,7 +757,7 @@
       "detailPath": "entities/songs/86ff7053efd14154.json"
     },
     {
-      "rank": 8410,
+      "rank": 8414,
       "id": "0182844c855cd55f",
       "name": "バナナチョモランマの乱(無修整版)",
       "secondary": "悠木碧",
@@ -586,7 +814,7 @@
       "detailPath": "entities/songs/0182844c855cd55f.json"
     },
     {
-      "rank": 8411,
+      "rank": 8415,
       "id": "989185c94573d401",
       "name": "ハナノイロ",
       "secondary": "nano.RIPE",
@@ -644,7 +872,7 @@
       "detailPath": "entities/songs/989185c94573d401.json"
     },
     {
-      "rank": 8412,
+      "rank": 8416,
       "id": "63fda215e75d614a",
       "name": "はなびら",
       "secondary": "back number",
@@ -702,7 +930,7 @@
       "detailPath": "entities/songs/63fda215e75d614a.json"
     },
     {
-      "rank": 8413,
+      "rank": 8417,
       "id": "2ccfcbaf496fb7d9",
       "name": "はなまるぴっぴはよいこだけ",
       "secondary": "未記載",
@@ -761,7 +989,7 @@
       "detailPath": "entities/songs/2ccfcbaf496fb7d9.json"
     },
     {
-      "rank": 8414,
+      "rank": 8418,
       "id": "f6de91abd584423e",
       "name": "ハナミズキ",
       "secondary": "未記載",
@@ -819,7 +1047,7 @@
       "detailPath": "entities/songs/f6de91abd584423e.json"
     },
     {
-      "rank": 8415,
+      "rank": 8419,
       "id": "d9c6c259ef007b00",
       "name": "ハナムケのハナタバ",
       "secondary": "コメティック",
@@ -879,7 +1107,7 @@
       "detailPath": "entities/songs/d9c6c259ef007b00.json"
     },
     {
-      "rank": 8416,
+      "rank": 8420,
       "id": "99725f20145e6b30",
       "name": "ババーンと推参！バーンブレイバーン",
       "secondary": "鈴村健一",
@@ -939,7 +1167,7 @@
       "detailPath": "entities/songs/99725f20145e6b30.json"
     },
     {
-      "rank": 8417,
+      "rank": 8421,
       "id": "153237ba2d35fae6",
       "name": "ハピネス",
       "secondary": "AI",
@@ -1000,7 +1228,7 @@
       "detailPath": "entities/songs/153237ba2d35fae6.json"
     },
     {
-      "rank": 8418,
+      "rank": 8422,
       "id": "6100c71a91c10727",
       "name": "パプリカ",
       "secondary": "Foorin×米津玄師🪟🫶，",
@@ -1058,7 +1286,7 @@
       "detailPath": "entities/songs/6100c71a91c10727.json"
     },
     {
-      "rank": 8419,
+      "rank": 8423,
       "id": "455a3bf19c46b458",
       "name": "ハム太郎とっとこうた",
       "secondary": "未記載",
@@ -1116,7 +1344,7 @@
       "detailPath": "entities/songs/455a3bf19c46b458.json"
     },
     {
-      "rank": 8420,
+      "rank": 8424,
       "id": "b744081a27832255",
       "name": "ハム太郎とっとこうた",
       "secondary": "河井リツ子",
@@ -1175,7 +1403,7 @@
       "detailPath": "entities/songs/b744081a27832255.json"
     },
     {
-      "rank": 8421,
+      "rank": 8425,
       "id": "277e956ede2f9c3e",
       "name": "パメラ",
       "secondary": "バルーン feat. v flower",
@@ -1232,7 +1460,7 @@
       "detailPath": "entities/songs/277e956ede2f9c3e.json"
     },
     {
-      "rank": 8422,
+      "rank": 8426,
       "id": "e013cb2ed517d6c6",
       "name": "パラボラ",
       "secondary": "Official髭男dism",
@@ -1289,7 +1517,7 @@
       "detailPath": "entities/songs/e013cb2ed517d6c6.json"
     },
     {
-      "rank": 8423,
+      "rank": 8427,
       "id": "66eb83371d9f362f",
       "name": "バラ色の日々",
       "secondary": "THE YELLOW MONKEY",
@@ -1349,7 +1577,7 @@
       "detailPath": "entities/songs/66eb83371d9f362f.json"
     },
     {
-      "rank": 8424,
+      "rank": 8428,
       "id": "454528f7d5883cf5",
       "name": "ハリケーンミキサー",
       "secondary": "新谷良子",
@@ -1409,7 +1637,7 @@
       "detailPath": "entities/songs/454528f7d5883cf5.json"
     },
     {
-      "rank": 8425,
+      "rank": 8429,
       "id": "1f226f860f772f4b",
       "name": "ハルトキ ～Spring Moment～",
       "secondary": "米倉千尋",
@@ -1466,7 +1694,7 @@
       "detailPath": "entities/songs/1f226f860f772f4b.json"
     },
     {
-      "rank": 8426,
+      "rank": 8430,
       "id": "3c3ab3756d1362fd",
       "name": "ハルノカゼ",
       "secondary": "風車ひまり",
@@ -1520,7 +1748,7 @@
       "detailPath": "entities/songs/3c3ab3756d1362fd.json"
     },
     {
-      "rank": 8427,
+      "rank": 8431,
       "id": "24f36ec6bf34088e",
       "name": "パレード",
       "secondary": "",
@@ -1577,7 +1805,7 @@
       "detailPath": "entities/songs/24f36ec6bf34088e.json"
     },
     {
-      "rank": 8428,
+      "rank": 8432,
       "id": "b72d4fe2b3653473",
       "name": "パレオはエメラルド",
       "secondary": "SKE48",
@@ -1635,7 +1863,7 @@
       "detailPath": "entities/songs/b72d4fe2b3653473.json"
     },
     {
-      "rank": 8429,
+      "rank": 8433,
       "id": "d3cee9ae1835d0f8",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒの憂鬱",
@@ -1694,7 +1922,7 @@
       "detailPath": "entities/songs/d3cee9ae1835d0f8.json"
     },
     {
-      "rank": 8430,
+      "rank": 8434,
       "id": "157005731cb139a3",
       "name": "ハローグッバイ",
       "secondary": "藍坊主",
@@ -1752,7 +1980,7 @@
       "detailPath": "entities/songs/157005731cb139a3.json"
     },
     {
-      "rank": 8431,
+      "rank": 8435,
       "id": "4249686f055f1551",
       "name": "ハローマリーナ",
       "secondary": "稲葉曇",
@@ -1809,7 +2037,7 @@
       "detailPath": "entities/songs/4249686f055f1551.json"
     },
     {
-      "rank": 8432,
+      "rank": 8436,
       "id": "ae687d72f313104e",
       "name": "パンこげこげになっちゃった",
       "secondary": "picdo feat. 足立レイ",
@@ -1866,7 +2094,7 @@
       "detailPath": "entities/songs/ae687d72f313104e.json"
     },
     {
-      "rank": 8433,
+      "rank": 8437,
       "id": "61044ac19ab279cb",
       "name": "ビーナスバグ",
       "secondary": "星街すいせい",
@@ -1926,7 +2154,7 @@
       "detailPath": "entities/songs/61044ac19ab279cb.json"
     },
     {
-      "rank": 8434,
+      "rank": 8438,
       "id": "a8383ec7d6d210e1",
       "name": "ピエロ",
       "secondary": "",
@@ -1983,7 +2211,7 @@
       "detailPath": "entities/songs/a8383ec7d6d210e1.json"
     },
     {
-      "rank": 8435,
+      "rank": 8439,
       "id": "a3bcb4c375a56315",
       "name": "ピカピカまっさいチュウ",
       "secondary": "ポケモンキッズ＆オーキド博士(＋ピカチュウ)",
@@ -2040,7 +2268,7 @@
       "detailPath": "entities/songs/a3bcb4c375a56315.json"
     },
     {
-      "rank": 8436,
+      "rank": 8440,
       "id": "c4030208fdf37850",
       "name": "ビターチョコデコレーション",
       "secondary": "syudou feat . 初音ミク",
@@ -2100,7 +2328,7 @@
       "detailPath": "entities/songs/c4030208fdf37850.json"
     },
     {
-      "rank": 8437,
+      "rank": 8441,
       "id": "7fc5748a9b739ce0",
       "name": "ビターチョコデコレーション",
       "secondary": "",
@@ -2157,7 +2385,7 @@
       "detailPath": "entities/songs/7fc5748a9b739ce0.json"
     },
     {
-      "rank": 8438,
+      "rank": 8442,
       "id": "769f8b9f76ce4979",
       "name": "ひたむき",
       "secondary": "SUPER BEAVER",
@@ -2214,7 +2442,7 @@
       "detailPath": "entities/songs/769f8b9f76ce4979.json"
     },
     {
-      "rank": 8439,
+      "rank": 8443,
       "id": "c3c822e5a7475f79",
       "name": "ひとりで生きていたならば",
       "secondary": "SUPER BEAVER",
@@ -2273,7 +2501,7 @@
       "detailPath": "entities/songs/c3c822e5a7475f79.json"
     },
     {
-      "rank": 8440,
+      "rank": 8444,
       "id": "daec1ceecabe5487",
       "name": "ひなげし",
       "secondary": "中嶋美智代",
@@ -2329,7 +2557,7 @@
       "detailPath": "entities/songs/daec1ceecabe5487.json"
     },
     {
-      "rank": 8441,
+      "rank": 8445,
       "id": "8823586d4e15f2ac",
       "name": "ビバナミダ",
       "secondary": "岡村靖幸",
@@ -2386,7 +2614,7 @@
       "detailPath": "entities/songs/8823586d4e15f2ac.json"
     },
     {
-      "rank": 8442,
+      "rank": 8446,
       "id": "e513d129ecda95fc",
       "name": "ヒバリ",
       "secondary": "HIMEHINA",
@@ -2443,7 +2671,7 @@
       "detailPath": "entities/songs/e513d129ecda95fc.json"
     },
     {
-      "rank": 8443,
+      "rank": 8447,
       "id": "ad24d991c8e408e2",
       "name": "ビビディ・バビディ・ブー",
       "secondary": "伊集加代子 ･ 東京混声合唱団",
@@ -2503,7 +2731,7 @@
       "detailPath": "entities/songs/ad24d991c8e408e2.json"
     },
     {
-      "rank": 8444,
+      "rank": 8448,
       "id": "590990974a74215e",
       "name": "ひまわり",
       "secondary": "遊助",
@@ -2560,7 +2788,7 @@
       "detailPath": "entities/songs/590990974a74215e.json"
     },
     {
-      "rank": 8445,
+      "rank": 8449,
       "id": "77599abb61fe9432",
       "name": "ヒマワリの教会",
       "secondary": "はな",
@@ -2617,7 +2845,7 @@
       "detailPath": "entities/songs/77599abb61fe9432.json"
     },
     {
-      "rank": 8446,
+      "rank": 8450,
       "id": "fad04bacd4244dff",
       "name": "ひゃくごじゅういち",
       "secondary": "オーキド博士とポケモンキッズ",
@@ -2675,234 +2903,6 @@
         }
       ],
       "detailPath": "entities/songs/fad04bacd4244dff.json"
-    },
-    {
-      "rank": 8447,
-      "id": "40f558e1584d6212",
-      "name": "ピリオド",
-      "secondary": "fatmanP",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "p0YTvGz_5Q8",
-          "videoTitle": "【#歌枠/#VIERtime4】深夜のチル歌枠【VIER/NynChord Production】",
-          "channelName": "VIER",
-          "publishedAt": "2026-09-12T17:39:38.492Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/p0YTvGz_5Q8/hqdefault.jpg",
-          "sourcePath": "sources/p0/p0YTvGz_5Q8.json",
-          "time": "0:52:12",
-          "seconds": 3132,
-          "songTitle": "ピリオド",
-          "artist": "fatmanP"
-        },
-        {
-          "videoId": "foSEozY1pxI",
-          "videoTitle": "【#歌枠/#VIERtime4】午前０時にドアを開けて、かっこいい曲多めかも【VIER/NynChord Production】",
-          "channelName": "VIER",
-          "publishedAt": "2026-09-11T17:21:06.268Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/foSEozY1pxI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtvQiVG9gkyRmRtt0zUch7TbVRpQ",
-          "sourcePath": "sources/fo/foSEozY1pxI.json",
-          "time": "0:42:25",
-          "seconds": 2545,
-          "songTitle": "ピリオド",
-          "artist": "fatmanP"
-        },
-        {
-          "videoId": "6j0zWmFVNFs",
-          "videoTitle": "【#歌枠/#VIERtime4】かっこいい曲を歌う。ニコニコ老人曲もうたう、それだけ【VIER/NynChord Production】",
-          "channelName": "VIER",
-          "publishedAt": "2026-09-05T14:56:52.788Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6j0zWmFVNFs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0JYwXKDN1j4Kgj4pJVi6SKUElLw",
-          "sourcePath": "sources/6j/6j0zWmFVNFs.json",
-          "time": "0:32:56",
-          "seconds": 1976,
-          "songTitle": "ピリオド",
-          "artist": "fatmanP"
-        }
-      ],
-      "detailPath": "entities/songs/40f558e1584d6212.json"
-    },
-    {
-      "rank": 8448,
-      "id": "067d19cc2db174ea",
-      "name": "ひるねむいさん",
-      "secondary": "",
-      "channelId": "UCQLnaELN60GHz8c8ngXyK8w",
-      "channelHandle": "@Tsumuchan_26",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8yTSe-O11hI",
-          "videoTitle": "【#秋月に照らされる歌枠リレー】 キョンシーと女児と団子 #歌枠リレー【つむちゃん＆猫霊みうちゃん】",
-          "channelName": "つむちゃん(7)",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8yTSe-O11hI/hqdefault.jpg",
-          "sourcePath": "sources/8y/8yTSe-O11hI.json",
-          "time": "0:20:30",
-          "seconds": 1230,
-          "songTitle": "ひるねむいさん",
-          "artist": ""
-        },
-        {
-          "videoId": "gB09OTEwpak",
-          "videoTitle": "꒰ #歌枠/#karaoke ꒱ #秋月に照らされる歌枠リレー꒰#或原のんか ꒱",
-          "channelName": "或原のんか",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gB09OTEwpak/hqdefault.jpg",
-          "sourcePath": "sources/gB/gB09OTEwpak.json",
-          "time": "0:20:30",
-          "seconds": 1230,
-          "songTitle": "ひるねむいさん",
-          "artist": ""
-        },
-        {
-          "videoId": "HQiVAJ260VM",
-          "videoTitle": "【#秋月に照らされる歌枠リレー 】晴れてて嬉しい女児とキョンシー【つむちゃん＆猫霊みうちゃん】",
-          "channelName": "つむちゃん(7)",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/HQiVAJ260VM/hqdefault.jpg",
-          "sourcePath": "sources/HQ/HQiVAJ260VM.json",
-          "time": "0:20:30",
-          "seconds": 1230,
-          "songTitle": "ひるねむいさん",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/067d19cc2db174ea.json"
-    },
-    {
-      "rank": 8449,
-      "id": "12afedf5430de433",
-      "name": "ピンクスパイダー",
-      "secondary": "hide with Spread Beaver",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XV8Gi76teeA",
-          "videoTitle": "【#懐メロ歌枠 #らんちぅ寿希】「ただいま」を聞かせて！2時間ノンストップ歌枠！70、80、90年代のヒット曲をお届け【#Vtuber #KARAOKE】",
-          "channelName": "らんちぅ寿希Live",
-          "publishedAt": "2026-09-14T10:53:27.606Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XV8Gi76teeA/hqdefault.jpg",
-          "sourcePath": "sources/XV/XV8Gi76teeA.json",
-          "time": "0:51:20",
-          "seconds": 3080,
-          "songTitle": "ピンクスパイダー",
-          "artist": "hide with Spread Beaver"
-        },
-        {
-          "videoId": "ySkFFATYpJI",
-          "videoTitle": "【歌枠】配信頻度変更後３回目の歌枠ですッ！【黒狐ゆき】コメント歓迎！初見さん大歓迎！",
-          "channelName": "くろきつねch. 黒狐ゆき",
-          "publishedAt": "2026-08-25T15:06:00.389Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ySkFFATYpJI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDglhmuJWyK-ulX85HBIbX2e-91WQ",
-          "sourcePath": "sources/yS/ySkFFATYpJI.json",
-          "time": "0:38:14",
-          "seconds": 2294,
-          "songTitle": "ピンクスパイダー",
-          "artist": "hide with Spread Beaver"
-        },
-        {
-          "videoId": "4GcYl1BdoO0",
-          "videoTitle": "【歌枠】お1人様、1時間のご利用ですね？【黒狐ゆき】コメント歓迎！初見さん大歓迎！",
-          "channelName": "くろきつねch. 黒狐ゆき",
-          "publishedAt": "2026-07-16T12:04:59.353Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4GcYl1BdoO0/hqdefault.jpg",
-          "sourcePath": "sources/4G/4GcYl1BdoO0.json",
-          "time": "0:46:35",
-          "seconds": 2795,
-          "songTitle": "ピンクスパイダー",
-          "artist": "hide with Spread Beaver"
-        }
-      ],
-      "detailPath": "entities/songs/12afedf5430de433.json"
-    },
-    {
-      "rank": 8450,
-      "id": "7ca946190fda66aa",
-      "name": "ピンクレモネード",
-      "secondary": "三月のパンタシア",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "jgn30Y01XgA",
-          "videoTitle": "✞ 歌枠だよ ꙳ ✞ 用歌聲開啟白比的一周 ̖́- 唱喜歡的歌 💗 量產標準歌回 ✨┊ Square Live 白白虹",
-          "channelName": "xxhacucoxx ch. 白白虹",
-          "publishedAt": "2026-09-15T17:46:20.929Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jgn30Y01XgA/hqdefault.jpg",
-          "sourcePath": "sources/jg/jgn30Y01XgA.json",
-          "time": "0:43:03",
-          "seconds": 2583,
-          "songTitle": "ピンクレモネード",
-          "artist": "三月のパンタシア"
-        },
-        {
-          "videoId": "A7HOX5DfpS8",
-          "videoTitle": "【縦型歌枠/KARAOKE】ハロー9月。今月も楽しいことありそう🐺#Shorts #VSinger【水瀬 凪/ライブユニオン】",
-          "channelName": "水瀬 凪/MINASE Nagi",
-          "publishedAt": "2026-09-03T14:19:35.996Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/A7HOX5DfpS8/hqdefault.jpg",
-          "sourcePath": "sources/A7/A7HOX5DfpS8.json",
-          "time": "0:34:59",
-          "seconds": 2099,
-          "songTitle": "ピンクレモネード",
-          "artist": "三月のパンタシア"
-        },
-        {
-          "videoId": "PDCIVjD62_o",
-          "videoTitle": "【 #歌枠 】ライブ振り返り＆深夜の歌枠 ✨クラウドファンディング残り1日💡【 白餅だんご】 #VTuber",
-          "channelName": "白餅だんご🍡✤",
-          "publishedAt": "2026-08-29T20:16:39.133Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PDCIVjD62_o/hqdefault.jpg",
-          "sourcePath": "sources/PD/PDCIVjD62_o.json",
-          "time": "2:29:22",
-          "seconds": 8962,
-          "songTitle": "ピンクレモネード",
-          "artist": "三月のパンタシア"
-        }
-      ],
-      "detailPath": "entities/songs/7ca946190fda66aa.json"
     }
   ]
 }

@@ -1,16 +1,130 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "30d",
   "type": "songs",
   "page": 40,
   "pageSize": 50,
-  "pageCount": 554,
-  "totalCount": 27698,
+  "pageCount": 555,
+  "totalCount": 27715,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1951,
+      "id": "65ba8d6b17a50494",
+      "name": "セーラー服と機関銃",
+      "secondary": "薬師丸ひろ子",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "WAd-_YSuJV8",
+          "videoTitle": "【 #歌枠 】目指せ100点！！採点チャレンジ歌枠【 #vtuber / 詠音ガト 】",
+          "channelName": "詠音ガト",
+          "publishedAt": "2026-10-07T16:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/WAd-_YSuJV8/hqdefault.jpg",
+          "sourcePath": "sources/WA/WAd-_YSuJV8.json",
+          "time": "1:12:00",
+          "seconds": 4320,
+          "songTitle": "セーラー服と機関銃",
+          "artist": "薬師丸ひろ子"
+        },
+        {
+          "videoId": "0NIGy52tVnQ",
+          "videoTitle": "【バ美肉ボイチェン】サンデーモーニング歌枠【VTuber #夜御牧れる】",
+          "channelName": "夜御牧れる🌘🌪️",
+          "publishedAt": "2026-10-03T21:28:31.539Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0NIGy52tVnQ/hqdefault.jpg",
+          "sourcePath": "sources/0N/0NIGy52tVnQ.json",
+          "time": "1:04:19",
+          "seconds": 3859,
+          "songTitle": "セーラー服と機関銃",
+          "artist": "薬師丸ひろ子"
+        },
+        {
+          "videoId": "Zv1zxozhfqM",
+          "videoTitle": "【 歌枠 】懐かしの歌で盛り上がるよん 30代40代50代来てね 三ツ星ルナちゃん",
+          "channelName": "歌う 三ツ星ルナちゃん",
+          "publishedAt": "2026-10-01T12:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Zv1zxozhfqM/hqdefault.jpg",
+          "sourcePath": "sources/Zv/Zv1zxozhfqM.json",
+          "time": "2:07:17",
+          "seconds": 7637,
+          "songTitle": "セーラー服と機関銃",
+          "artist": "薬師丸ひろ子"
+        }
+      ],
+      "detailPath": "entities/songs/65ba8d6b17a50494.json"
+    },
+    {
+      "rank": 1952,
+      "id": "cc4c95898ee311ef",
+      "name": "セプテンバーさん",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "NM8J5pBM69I",
+          "videoTitle": "〖歌枠〗あまりにも秋 ⋆˙⟡┊︎柴田こむぎ 〖アーカイブ期間限定〗",
+          "channelName": "柴田こむぎ",
+          "publishedAt": "2026-09-26T22:03:05.009Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NM8J5pBM69I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQviiadSNHRqrfB2TSrGCz3Ro5UA",
+          "sourcePath": "sources/NM/NM8J5pBM69I.json",
+          "time": "1:07:49",
+          "seconds": 4069,
+          "songTitle": "セプテンバーさん",
+          "artist": ""
+        },
+        {
+          "videoId": "pB6dibE8yEw",
+          "videoTitle": "【歌枠】夜のチル歌枠！雑談しながらゆったり！｜作業BGM・ROM大歓迎｜※メンギフ、Super Thanks禁止【ナズ＝シア】",
+          "channelName": "ナズ＝シア",
+          "publishedAt": "2026-09-26T13:48:54.683Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/pB6dibE8yEw/hqdefault.jpg",
+          "sourcePath": "sources/pB/pB6dibE8yEw.json",
+          "time": "0:02:51",
+          "seconds": 171,
+          "songTitle": "セプテンバーさん",
+          "artist": ""
+        },
+        {
+          "videoId": "LtHuHMpBzdQ",
+          "videoTitle": "🥛〖 歌枠：KARAOKE 〗ひさしぶりの歌枠！寝起きでも盛り上がっていくぞ⤴️ #shorts〖 小牛田みる / #vtuber 〗",
+          "channelName": "小牛田みる / Mil Koushida",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LtHuHMpBzdQ/hqdefault.jpg",
+          "sourcePath": "sources/Lt/LtHuHMpBzdQ.json",
+          "time": "0:18:13",
+          "seconds": 1093,
+          "songTitle": "セプテンバーさん",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/cc4c95898ee311ef.json"
+    },
+    {
+      "rank": 1953,
       "id": "b6726bdbc4188ae9",
       "name": "セレナーデ",
       "secondary": "",
@@ -67,7 +181,7 @@
       "detailPath": "entities/songs/b6726bdbc4188ae9.json"
     },
     {
-      "rank": 1952,
+      "rank": 1954,
       "id": "bb9384464a77bf1a",
       "name": "ゼロ",
       "secondary": "BUMP OF CHICKEN",
@@ -125,7 +239,7 @@
       "detailPath": "entities/songs/bb9384464a77bf1a.json"
     },
     {
-      "rank": 1953,
+      "rank": 1955,
       "id": "77fa3abd1a6ce709",
       "name": "ダイヤモンド",
       "secondary": "BUMP OF CHICKEN",
@@ -183,7 +297,7 @@
       "detailPath": "entities/songs/77fa3abd1a6ce709.json"
     },
     {
-      "rank": 1954,
+      "rank": 1956,
       "id": "6046582fd77569f9",
       "name": "ダウナーウィッチ",
       "secondary": "廉",
@@ -240,7 +354,7 @@
       "detailPath": "entities/songs/6046582fd77569f9.json"
     },
     {
-      "rank": 1955,
+      "rank": 1957,
       "id": "a0efc4befa4d06e1",
       "name": "ダブルラリアット",
       "secondary": "アゴアニキ",
@@ -297,7 +411,7 @@
       "detailPath": "entities/songs/a0efc4befa4d06e1.json"
     },
     {
-      "rank": 1956,
+      "rank": 1958,
       "id": "a51b2c7e17024c3b",
       "name": "チューリングラブ",
       "secondary": "ナナヲアカリ",
@@ -354,7 +468,7 @@
       "detailPath": "entities/songs/a51b2c7e17024c3b.json"
     },
     {
-      "rank": 1957,
+      "rank": 1959,
       "id": "2beba6e8d3a2cde8",
       "name": "テオ",
       "secondary": "Omoi",
@@ -411,7 +525,7 @@
       "detailPath": "entities/songs/2beba6e8d3a2cde8.json"
     },
     {
-      "rank": 1958,
+      "rank": 1960,
       "id": "0157d09cb3325c75",
       "name": "テオ",
       "secondary": "Omoi feat.初音ミク",
@@ -468,7 +582,7 @@
       "detailPath": "entities/songs/0157d09cb3325c75.json"
     },
     {
-      "rank": 1959,
+      "rank": 1961,
       "id": "04730716963846d9",
       "name": "できっこないを やらなくちゃ",
       "secondary": "サンボマスター",
@@ -525,7 +639,7 @@
       "detailPath": "entities/songs/04730716963846d9.json"
     },
     {
-      "rank": 1960,
+      "rank": 1962,
       "id": "7d6db555c4d241ec",
       "name": "テトリス",
       "secondary": "柊マグネタイト feat. 重音テト",
@@ -582,7 +696,7 @@
       "detailPath": "entities/songs/7d6db555c4d241ec.json"
     },
     {
-      "rank": 1961,
+      "rank": 1963,
       "id": "c4df81fc7cf971b7",
       "name": "テレキャスタービーボーイ",
       "secondary": "",
@@ -639,7 +753,7 @@
       "detailPath": "entities/songs/c4df81fc7cf971b7.json"
     },
     {
-      "rank": 1962,
+      "rank": 1964,
       "id": "89492439f8ce73e1",
       "name": "とくべチュ、して",
       "secondary": "",
@@ -696,7 +810,7 @@
       "detailPath": "entities/songs/89492439f8ce73e1.json"
     },
     {
-      "rank": 1963,
+      "rank": 1965,
       "id": "90c9c67bb83e3a6e",
       "name": "トコハナ",
       "secondary": "やなぎなぎ",
@@ -754,7 +868,7 @@
       "detailPath": "entities/songs/90c9c67bb83e3a6e.json"
     },
     {
-      "rank": 1964,
+      "rank": 1966,
       "id": "425bfae629ec1fb7",
       "name": "トンツカタンタン",
       "secondary": "クレイジーウォウウォ!!",
@@ -811,7 +925,7 @@
       "detailPath": "entities/songs/425bfae629ec1fb7.json"
     },
     {
-      "rank": 1965,
+      "rank": 1967,
       "id": "89a92960083419e5",
       "name": "にんじゃりばんばん",
       "secondary": "きゃりーぱみゅぱみゅ",
@@ -869,7 +983,7 @@
       "detailPath": "entities/songs/89a92960083419e5.json"
     },
     {
-      "rank": 1966,
+      "rank": 1968,
       "id": "b09736e19b2f3768",
       "name": "ノーザンクロス",
       "secondary": "シェリル・ノーム",
@@ -926,7 +1040,7 @@
       "detailPath": "entities/songs/b09736e19b2f3768.json"
     },
     {
-      "rank": 1967,
+      "rank": 1969,
       "id": "a553fee92bf986f7",
       "name": "ハオ",
       "secondary": "DECO*27",
@@ -984,7 +1098,7 @@
       "detailPath": "entities/songs/a553fee92bf986f7.json"
     },
     {
-      "rank": 1968,
+      "rank": 1970,
       "id": "66a3994b46867cd9",
       "name": "パドドゥ",
       "secondary": "ヨルシカ",
@@ -1042,7 +1156,7 @@
       "detailPath": "entities/songs/66a3994b46867cd9.json"
     },
     {
-      "rank": 1969,
+      "rank": 1971,
       "id": "365fefa86160c129",
       "name": "バビロン",
       "secondary": "トーマ",
@@ -1099,7 +1213,7 @@
       "detailPath": "entities/songs/365fefa86160c129.json"
     },
     {
-      "rank": 1970,
+      "rank": 1972,
       "id": "809e2572109ce23c",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ(CV.平野綾)、長門有希(CV.茅原実里)、朝比奈みくる(CV.後藤邑子)",
@@ -1156,7 +1270,7 @@
       "detailPath": "entities/songs/809e2572109ce23c.json"
     },
     {
-      "rank": 1971,
+      "rank": 1973,
       "id": "6f7f3bd3611a7ad8",
       "name": "ヒーロー",
       "secondary": "supercell",
@@ -1213,7 +1327,7 @@
       "detailPath": "entities/songs/6f7f3bd3611a7ad8.json"
     },
     {
-      "rank": 1972,
+      "rank": 1974,
       "id": "969f99e1c23f2ba8",
       "name": "ヒカリへ",
       "secondary": "ザ・ベイビースターズ",
@@ -1270,7 +1384,7 @@
       "detailPath": "entities/songs/969f99e1c23f2ba8.json"
     },
     {
-      "rank": 1973,
+      "rank": 1975,
       "id": "7edcd41b68ee541e",
       "name": "ビターバカンス",
       "secondary": "Mrs. GREEN APPLE",
@@ -1327,7 +1441,7 @@
       "detailPath": "entities/songs/7edcd41b68ee541e.json"
     },
     {
-      "rank": 1974,
+      "rank": 1976,
       "id": "0803c8d471e4c3ea",
       "name": "ヒトヒラのハナビラ",
       "secondary": "ステレオポニー",
@@ -1384,7 +1498,7 @@
       "detailPath": "entities/songs/0803c8d471e4c3ea.json"
     },
     {
-      "rank": 1975,
+      "rank": 1977,
       "id": "06c54b432961d2a7",
       "name": "ヒバナ",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -1441,7 +1555,7 @@
       "detailPath": "entities/songs/06c54b432961d2a7.json"
     },
     {
-      "rank": 1976,
+      "rank": 1978,
       "id": "57034c7d78223cf5",
       "name": "フォニィ",
       "secondary": "ツミキ",
@@ -1498,7 +1612,7 @@
       "detailPath": "entities/songs/57034c7d78223cf5.json"
     },
     {
-      "rank": 1977,
+      "rank": 1979,
       "id": "95757c98a9d0476a",
       "name": "ブラッディ·グルービー",
       "secondary": "ChroNoiR",
@@ -1555,7 +1669,7 @@
       "detailPath": "entities/songs/95757c98a9d0476a.json"
     },
     {
-      "rank": 1978,
+      "rank": 1980,
       "id": "6f78e2dbb233831a",
       "name": "プラネタリウム",
       "secondary": "BUMP OF CHICKEN",
@@ -1612,7 +1726,7 @@
       "detailPath": "entities/songs/6f78e2dbb233831a.json"
     },
     {
-      "rank": 1979,
+      "rank": 1981,
       "id": "1d930ed356346110",
       "name": "プラネテス",
       "secondary": "キタニタツヤ",
@@ -1669,7 +1783,7 @@
       "detailPath": "entities/songs/1d930ed356346110.json"
     },
     {
-      "rank": 1980,
+      "rank": 1982,
       "id": "259b8901379c1c42",
       "name": "フリージア",
       "secondary": "",
@@ -1726,7 +1840,7 @@
       "detailPath": "entities/songs/259b8901379c1c42.json"
     },
     {
-      "rank": 1981,
+      "rank": 1983,
       "id": "2f76264ba2a31936",
       "name": "プリキュア5、スマイル go go!",
       "secondary": "工藤真由",
@@ -1783,7 +1897,7 @@
       "detailPath": "entities/songs/2f76264ba2a31936.json"
     },
     {
-      "rank": 1982,
+      "rank": 1984,
       "id": "cf1eab7240127e36",
       "name": "プロポーズ",
       "secondary": "内緒のピアス feat.可不",
@@ -1840,7 +1954,7 @@
       "detailPath": "entities/songs/cf1eab7240127e36.json"
     },
     {
-      "rank": 1983,
+      "rank": 1985,
       "id": "6c8dcdc6aa9f18a7",
       "name": "プロミスザスター",
       "secondary": "BiSH",
@@ -1897,7 +2011,7 @@
       "detailPath": "entities/songs/6c8dcdc6aa9f18a7.json"
     },
     {
-      "rank": 1984,
+      "rank": 1986,
       "id": "bd5382378ee44da1",
       "name": "ふわふわ♪",
       "secondary": "牧野由依",
@@ -1954,7 +2068,7 @@
       "detailPath": "entities/songs/bd5382378ee44da1.json"
     },
     {
-      "rank": 1985,
+      "rank": 1987,
       "id": "bbb094c21dbedaf9",
       "name": "ヘビースモーク",
       "secondary": "にしな",
@@ -2012,7 +2126,7 @@
       "detailPath": "entities/songs/bbb094c21dbedaf9.json"
     },
     {
-      "rank": 1986,
+      "rank": 1988,
       "id": "99123d1826fa3874",
       "name": "ぼくはくま",
       "secondary": "宇多田ヒカル",
@@ -2070,7 +2184,7 @@
       "detailPath": "entities/songs/99123d1826fa3874.json"
     },
     {
-      "rank": 1987,
+      "rank": 1989,
       "id": "71fdb5936af5dba1",
       "name": "ホシアイ",
       "secondary": "レフティーモンスターP",
@@ -2128,7 +2242,7 @@
       "detailPath": "entities/songs/71fdb5936af5dba1.json"
     },
     {
-      "rank": 1988,
+      "rank": 1990,
       "id": "220f88abfe2fa9c1",
       "name": "ポジティブ・パレード",
       "secondary": "DECO*27",
@@ -2185,7 +2299,7 @@
       "detailPath": "entities/songs/220f88abfe2fa9c1.json"
     },
     {
-      "rank": 1989,
+      "rank": 1991,
       "id": "4e97e2e363076333",
       "name": "ポスト春",
       "secondary": "ヨルシカ",
@@ -2243,7 +2357,7 @@
       "detailPath": "entities/songs/4e97e2e363076333.json"
     },
     {
-      "rank": 1990,
+      "rank": 1992,
       "id": "930557d3648d1750",
       "name": "ホワイトハッピー",
       "secondary": "MARETU",
@@ -2300,7 +2414,7 @@
       "detailPath": "entities/songs/930557d3648d1750.json"
     },
     {
-      "rank": 1991,
+      "rank": 1993,
       "id": "d752a3965ac85609",
       "name": "まちがいさがし",
       "secondary": "菅田将暉",
@@ -2357,7 +2471,7 @@
       "detailPath": "entities/songs/d752a3965ac85609.json"
     },
     {
-      "rank": 1992,
+      "rank": 1994,
       "id": "89762a93fa40d034",
       "name": "マトリョーシカ",
       "secondary": "あいみょん",
@@ -2414,7 +2528,7 @@
       "detailPath": "entities/songs/89762a93fa40d034.json"
     },
     {
-      "rank": 1993,
+      "rank": 1995,
       "id": "a6c9d8d797dd6c25",
       "name": "モブノデレラ",
       "secondary": "≠ME",
@@ -2471,7 +2585,7 @@
       "detailPath": "entities/songs/a6c9d8d797dd6c25.json"
     },
     {
-      "rank": 1994,
+      "rank": 1996,
       "id": "6c4da9c4eed0231e",
       "name": "ユーフォリア",
       "secondary": "牧野由依",
@@ -2528,7 +2642,7 @@
       "detailPath": "entities/songs/6c4da9c4eed0231e.json"
     },
     {
-      "rank": 1995,
+      "rank": 1997,
       "id": "8868f36f2ff82464",
       "name": "ライラック",
       "secondary": "美波",
@@ -2585,7 +2699,7 @@
       "detailPath": "entities/songs/8868f36f2ff82464.json"
     },
     {
-      "rank": 1996,
+      "rank": 1998,
       "id": "efe743006cd38145",
       "name": "リンダリンダ",
       "secondary": "THE BLUE HEARTS",
@@ -2642,7 +2756,7 @@
       "detailPath": "entities/songs/efe743006cd38145.json"
     },
     {
-      "rank": 1997,
+      "rank": 1999,
       "id": "b4a923eff4e25c8e",
       "name": "ルバート",
       "secondary": "ヨルシカ",
@@ -2700,7 +2814,7 @@
       "detailPath": "entities/songs/b4a923eff4e25c8e.json"
     },
     {
-      "rank": 1998,
+      "rank": 2000,
       "id": "f13c3f45d4570421",
       "name": "レイニーブルー",
       "secondary": "德永 英明",
@@ -2755,120 +2869,6 @@
         }
       ],
       "detailPath": "entities/songs/f13c3f45d4570421.json"
-    },
-    {
-      "rank": 1999,
-      "id": "ceb9a679db0654dc",
-      "name": "レイメイ",
-      "secondary": "さユり×MY FIRST STORY",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ejBmbgkTiig",
-          "videoTitle": "【 定期歌枠】第134回土曜日は歌枠の時間！ 夜道を歩きましょう #ゆきみなうっ / Re:AcT 】",
-          "channelName": "白音ゆき-Shirane Yuki-",
-          "publishedAt": "2026-09-26T15:54:09.732Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ejBmbgkTiig/hqdefault.jpg",
-          "sourcePath": "sources/ej/ejBmbgkTiig.json",
-          "time": "0:23:04",
-          "seconds": 1384,
-          "songTitle": "レイメイ",
-          "artist": "さユり×MY FIRST STORY"
-        },
-        {
-          "videoId": "xrjDHN4HfX8",
-          "videoTitle": "【#歌枠 】ROCK LIVE⚡#Astrize満員大作戦 連続歌枠DAY1【#shorts #vtuber #vsinger 】",
-          "channelName": "巫てんり / Kannagi Tenri",
-          "publishedAt": "2026-09-20T14:53:54.430Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xrjDHN4HfX8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_iBQKB3idbJrIll4ALr2PtD6IIQ",
-          "sourcePath": "sources/xr/xrjDHN4HfX8.json",
-          "time": "0:26:04",
-          "seconds": 1564,
-          "songTitle": "レイメイ",
-          "artist": "さユり×MY FIRST STORY"
-        },
-        {
-          "videoId": "jFmmNXOcQ9Y",
-          "videoTitle": "【 #弾き語り 】9/20 [ sun ] 日曜日恒例──✦癒しの弾き語り。睡眠導入｜ギター🌙𓂃𝄞【ロマニードットアイオー】#romlive",
-          "channelName": "ロマニードットアイオー / ROMANY. io",
-          "publishedAt": "2026-09-20T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jFmmNXOcQ9Y/hqdefault.jpg",
-          "sourcePath": "sources/jF/jFmmNXOcQ9Y.json",
-          "time": "1:44:49",
-          "seconds": 6289,
-          "songTitle": "レイメイ",
-          "artist": "さユり ✕ MY FIRST STORY"
-        }
-      ],
-      "detailPath": "entities/songs/ceb9a679db0654dc.json"
-    },
-    {
-      "rank": 2000,
-      "id": "e89448f9939697ee",
-      "name": "レクイエム",
-      "secondary": "Kanaria",
-      "channelId": "UCf4FRQpYUnujY7gcY2DvkKg",
-      "channelHandle": "@XXX-XXX33",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Fav1aBg2VH0",
-          "videoTitle": "歌枠｜5.5周年とかありがとう55曲耐久歌枠【 中岡なあか / 個人Vtuber 】",
-          "channelName": "中岡なあか",
-          "publishedAt": "2026-10-03T09:52:42.614Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Fav1aBg2VH0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUhS6LqgegWUYkoBlwIs1GC7AhNw",
-          "sourcePath": "sources/Fa/Fav1aBg2VH0.json",
-          "time": "3:58:29",
-          "seconds": 14309,
-          "songTitle": "レクイエム",
-          "artist": "Kanaria"
-        },
-        {
-          "videoId": "mqxmNSIRV4c",
-          "videoTitle": "【#歌枠】 よーし！ 歌ってこ～🎤✨ 【霧乃ヴェール / Kirino Veil】 #shorts",
-          "channelName": "霧乃ヴェール / Kirino Veil",
-          "publishedAt": "2026-10-02T13:09:11.932Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mqxmNSIRV4c/hqdefault.jpg",
-          "sourcePath": "sources/mq/mqxmNSIRV4c.json",
-          "time": "0:50:01",
-          "seconds": 3001,
-          "songTitle": "レクイエム",
-          "artist": "kanaria"
-        },
-        {
-          "videoId": "bGE1mCe3YJo",
-          "videoTitle": "【歌枠┊︎初見さん・Rom◎】９月最後の歌枠🎤爽やかな歌声聞いていきませんか？‪𓈒 𓂂𓏸 #歌枠 #新人vtuber",
-          "channelName": "音乃葉 美夜 -Otonoha Miya-",
-          "publishedAt": "2026-09-28T04:13:07.807Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bGE1mCe3YJo/hqdefault.jpg",
-          "sourcePath": "sources/bG/bGE1mCe3YJo.json",
-          "time": "1:13:53",
-          "seconds": 4433,
-          "songTitle": "レクイエム",
-          "artist": "Kanaria"
-        }
-      ],
-      "detailPath": "entities/songs/e89448f9939697ee.json"
     }
   ]
 }

@@ -1,16 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "all",
   "type": "songs",
   "page": 62,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52815,
+  "totalCount": 52824,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3051,
+      "id": "a73b0ebc58dc48cf",
+      "name": "星の唄",
+      "secondary": "buzzG",
+      "channelId": "UCdQYcUyffHZoz0KOwuiG0lQ",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 9,
+      "videoCount": 9,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "E-AP2_6wdRA",
+          "videoTitle": "【歌枠/KARAOKE】10月最初のアコギ弾き語り！🐺🎸リクエスト〇【水瀬 凪/RK Musicライブユニオン】",
+          "channelName": "水瀬 凪/MINASE Nagi",
+          "publishedAt": "2026-10-01T14:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/E-AP2_6wdRA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDj-0VOK7-YPlc8y4vqbNFJz6Alvw",
+          "sourcePath": "sources/E-/E-AP2_6wdRA.json",
+          "time": "1:14:29",
+          "seconds": 4469,
+          "songTitle": "星の唄",
+          "artist": "buzzG"
+        },
+        {
+          "videoId": "e9mcsY5gVC8",
+          "videoTitle": "【縦型歌枠 /#karaoke 】一番ジューシーな部分【深影 / RK Music】#ghostreaming #歌枠",
+          "channelName": "深影",
+          "publishedAt": "2026-09-29T18:40:05.685Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/e9mcsY5gVC8/hqdefault.jpg",
+          "sourcePath": "sources/e9/e9mcsY5gVC8.json",
+          "time": "1:35:03",
+          "seconds": 5703,
+          "songTitle": "星の唄",
+          "artist": "buzzG"
+        },
+        {
+          "videoId": "cQuVm6C0_vg",
+          "videoTitle": "【#歌枠/#karaoke 】定期うたわく～！！【#個人勢vtuber/しゃいる】",
+          "channelName": "Shairu.chしゃいる",
+          "publishedAt": "2026-09-17T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cQuVm6C0_vg/hqdefault.jpg",
+          "sourcePath": "sources/cQ/cQuVm6C0_vg.json",
+          "time": "1:08:43",
+          "seconds": 4123,
+          "songTitle": "星の唄",
+          "artist": "buzzG"
+        }
+      ],
+      "detailPath": "entities/songs/a73b0ebc58dc48cf.json"
+    },
+    {
+      "rank": 3052,
       "id": "73eb15fc07690b18",
       "name": "声",
       "secondary": "羊文学",
@@ -71,7 +132,7 @@
       "detailPath": "entities/songs/73eb15fc07690b18.json"
     },
     {
-      "rank": 3052,
+      "rank": 3053,
       "id": "1b5b4cdb61ba56de",
       "name": "青",
       "secondary": "164",
@@ -131,7 +192,7 @@
       "detailPath": "entities/songs/1b5b4cdb61ba56de.json"
     },
     {
-      "rank": 3053,
+      "rank": 3054,
       "id": "2d16cfc3369890c4",
       "name": "青空Jumping Heart",
       "secondary": "Aqours",
@@ -191,7 +252,7 @@
       "detailPath": "entities/songs/2d16cfc3369890c4.json"
     },
     {
-      "rank": 3054,
+      "rank": 3055,
       "id": "e2d2a62265e9972d",
       "name": "雪、無音、窓辺にて",
       "secondary": "長門有希(CV:茅原実里)",
@@ -251,7 +312,7 @@
       "detailPath": "entities/songs/e2d2a62265e9972d.json"
     },
     {
-      "rank": 3055,
+      "rank": 3056,
       "id": "80ec97b09719a88b",
       "name": "想像フォレスト",
       "secondary": "じん",
@@ -312,7 +373,7 @@
       "detailPath": "entities/songs/80ec97b09719a88b.json"
     },
     {
-      "rank": 3056,
+      "rank": 3057,
       "id": "4c9fd3a1af74253a",
       "name": "待つわ",
       "secondary": "あみん",
@@ -372,7 +433,7 @@
       "detailPath": "entities/songs/4c9fd3a1af74253a.json"
     },
     {
-      "rank": 3057,
+      "rank": 3058,
       "id": "ab925d8c3220ef71",
       "name": "竹取オーバーナイトセンセーション",
       "secondary": "HoneyWorks",
@@ -432,7 +493,7 @@
       "detailPath": "entities/songs/ab925d8c3220ef71.json"
     },
     {
-      "rank": 3058,
+      "rank": 3059,
       "id": "f3e9700e134b6af7",
       "name": "島のうた",
       "secondary": "",
@@ -489,7 +550,7 @@
       "detailPath": "entities/songs/f3e9700e134b6af7.json"
     },
     {
-      "rank": 3059,
+      "rank": 3060,
       "id": "61cbf6041de67f4a",
       "name": "島唄",
       "secondary": "THE BOOM",
@@ -549,7 +610,7 @@
       "detailPath": "entities/songs/61cbf6041de67f4a.json"
     },
     {
-      "rank": 3060,
+      "rank": 3061,
       "id": "3ed6452644189e80",
       "name": "東京流通センター",
       "secondary": "",
@@ -603,7 +664,7 @@
       "detailPath": "entities/songs/3ed6452644189e80.json"
     },
     {
-      "rank": 3061,
+      "rank": 3062,
       "id": "cbd49ad9ffdc31aa",
       "name": "桃ノ花ビラ",
       "secondary": "大塚愛",
@@ -663,7 +724,7 @@
       "detailPath": "entities/songs/cbd49ad9ffdc31aa.json"
     },
     {
-      "rank": 3062,
+      "rank": 3063,
       "id": "33be932e8f14176b",
       "name": "透明",
       "secondary": "Novelbright",
@@ -723,7 +784,7 @@
       "detailPath": "entities/songs/33be932e8f14176b.json"
     },
     {
-      "rank": 3063,
+      "rank": 3064,
       "id": "f4ee0dd689fb22d2",
       "name": "謎謎",
       "secondary": "RADWIMPS",
@@ -784,7 +845,7 @@
       "detailPath": "entities/songs/f4ee0dd689fb22d2.json"
     },
     {
-      "rank": 3064,
+      "rank": 3065,
       "id": "82d4512cf83ff892",
       "name": "虹色の戦争",
       "secondary": "SEKAI NO OWARI",
@@ -843,7 +904,7 @@
       "detailPath": "entities/songs/82d4512cf83ff892.json"
     },
     {
-      "rank": 3065,
+      "rank": 3066,
       "id": "7ac2f168c549f105",
       "name": "熱帯夜",
       "secondary": "SHISHAMO",
@@ -903,7 +964,7 @@
       "detailPath": "entities/songs/7ac2f168c549f105.json"
     },
     {
-      "rank": 3066,
+      "rank": 3067,
       "id": "ec06991d9798b724",
       "name": "廃墟の国のアリス",
       "secondary": "まふまふ",
@@ -963,7 +1024,7 @@
       "detailPath": "entities/songs/ec06991d9798b724.json"
     },
     {
-      "rank": 3067,
+      "rank": 3068,
       "id": "47f64d6fb26aa6b7",
       "name": "白い雪のプリンセスは",
       "secondary": "のぼる↑P",
@@ -1023,7 +1084,7 @@
       "detailPath": "entities/songs/47f64d6fb26aa6b7.json"
     },
     {
-      "rank": 3068,
+      "rank": 3069,
       "id": "c278f2c51c2c7256",
       "name": "白い雪のプリンセスは",
       "secondary": "",
@@ -1080,7 +1141,7 @@
       "detailPath": "entities/songs/c278f2c51c2c7256.json"
     },
     {
-      "rank": 3069,
+      "rank": 3070,
       "id": "f1e54f18d069a584",
       "name": "白ゆき",
       "secondary": "n-buna",
@@ -1140,7 +1201,7 @@
       "detailPath": "entities/songs/f1e54f18d069a584.json"
     },
     {
-      "rank": 3070,
+      "rank": 3071,
       "id": "aaac0238f59fbb7f",
       "name": "白金ディスコ",
       "secondary": "井口裕香",
@@ -1200,7 +1261,7 @@
       "detailPath": "entities/songs/aaac0238f59fbb7f.json"
     },
     {
-      "rank": 3071,
+      "rank": 3072,
       "id": "a66f0f255da88d45",
       "name": "八月のレイニー",
       "secondary": "はるまきごはん",
@@ -1261,7 +1322,7 @@
       "detailPath": "entities/songs/a66f0f255da88d45.json"
     },
     {
-      "rank": 3072,
+      "rank": 3073,
       "id": "b58de763837bb3b8",
       "name": "飛んでイスタンブール",
       "secondary": "庄野真代",
@@ -1320,7 +1381,7 @@
       "detailPath": "entities/songs/b58de763837bb3b8.json"
     },
     {
-      "rank": 3073,
+      "rank": 3074,
       "id": "9fa747fd6d728f04",
       "name": "美少女無罪・パイレーツ",
       "secondary": "",
@@ -1377,7 +1438,7 @@
       "detailPath": "entities/songs/9fa747fd6d728f04.json"
     },
     {
-      "rank": 3074,
+      "rank": 3075,
       "id": "e508d8f0ba040da0",
       "name": "風と町",
       "secondary": "Mrs. GREEN APPLE",
@@ -1438,7 +1499,7 @@
       "detailPath": "entities/songs/e508d8f0ba040da0.json"
     },
     {
-      "rank": 3075,
+      "rank": 3076,
       "id": "619f1c048adfe3b2",
       "name": "風立ちぬ",
       "secondary": "松田聖子",
@@ -1498,7 +1559,7 @@
       "detailPath": "entities/songs/619f1c048adfe3b2.json"
     },
     {
-      "rank": 3076,
+      "rank": 3077,
       "id": "4855bf7563673b82",
       "name": "僕たちはひとつの光",
       "secondary": "μ's",
@@ -1558,7 +1619,7 @@
       "detailPath": "entities/songs/4855bf7563673b82.json"
     },
     {
-      "rank": 3077,
+      "rank": 3078,
       "id": "e535f886b10050d9",
       "name": "未来への咆哮",
       "secondary": "JAM Project",
@@ -1618,7 +1679,7 @@
       "detailPath": "entities/songs/e535f886b10050d9.json"
     },
     {
-      "rank": 3078,
+      "rank": 3079,
       "id": "da5f4d0eabe78369",
       "name": "蜜月アン・ドゥ・トロワ",
       "secondary": "",
@@ -1676,7 +1737,7 @@
       "detailPath": "entities/songs/da5f4d0eabe78369.json"
     },
     {
-      "rank": 3079,
+      "rank": 3080,
       "id": "1e80da40930839a4",
       "name": "夢と色でできている",
       "secondary": "佐咲紗花",
@@ -1733,7 +1794,7 @@
       "detailPath": "entities/songs/1e80da40930839a4.json"
     },
     {
-      "rank": 3080,
+      "rank": 3081,
       "id": "2cd3d21dd1f29e52",
       "name": "夢をかなえてドラえもん",
       "secondary": "mao ※JOYSOUND",
@@ -1793,7 +1854,7 @@
       "detailPath": "entities/songs/2cd3d21dd1f29e52.json"
     },
     {
-      "rank": 3081,
+      "rank": 3082,
       "id": "55d8dba3293b15d4",
       "name": "夢番地",
       "secondary": "RADWIMPS",
@@ -1852,7 +1913,7 @@
       "detailPath": "entities/songs/55d8dba3293b15d4.json"
     },
     {
-      "rank": 3082,
+      "rank": 3083,
       "id": "6548735d3435e3cf",
       "name": "猛独が襲う",
       "secondary": "一二三",
@@ -1912,7 +1973,7 @@
       "detailPath": "entities/songs/6548735d3435e3cf.json"
     },
     {
-      "rank": 3083,
+      "rank": 3084,
       "id": "5f565ff22bdefdd0",
       "name": "木",
       "secondary": "",
@@ -1966,7 +2027,7 @@
       "detailPath": "entities/songs/5f565ff22bdefdd0.json"
     },
     {
-      "rank": 3084,
+      "rank": 3085,
       "id": "8722be9ddaf943f5",
       "name": "夜のピエロ",
       "secondary": "Ado",
@@ -2025,7 +2086,7 @@
       "detailPath": "entities/songs/8722be9ddaf943f5.json"
     },
     {
-      "rank": 3085,
+      "rank": 3086,
       "id": "2a130a28683a94ca",
       "name": "恋しくて",
       "secondary": "BEGIN",
@@ -2085,7 +2146,7 @@
       "detailPath": "entities/songs/2a130a28683a94ca.json"
     },
     {
-      "rank": 3086,
+      "rank": 3087,
       "id": "9141c118c35572e7",
       "name": "恋しさとせつなさと心強さと",
       "secondary": "篠原涼子 with t.komuro",
@@ -2145,7 +2206,7 @@
       "detailPath": "entities/songs/9141c118c35572e7.json"
     },
     {
-      "rank": 3087,
+      "rank": 3088,
       "id": "598f7129557a0a5f",
       "name": "恋のスーパーボール",
       "secondary": "aiko",
@@ -2204,65 +2265,6 @@
         }
       ],
       "detailPath": "entities/songs/598f7129557a0a5f.json"
-    },
-    {
-      "rank": 3088,
-      "id": "2a32818a40314504",
-      "name": "恋文",
-      "secondary": "Every Little Thing",
-      "channelId": "UC8TVZmQuOl0GNbpvThwwSdQ",
-      "channelHandle": "@wouca",
-      "channelUrl": "",
-      "occurrenceCount": 9,
-      "videoCount": 9,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "tB3f9IvcV88",
-          "videoTitle": "【#歌枠 】ゆったりまったり高評価70目標で歌うよ～【#Vtuber #猫〆しあ】",
-          "channelName": "猫〆しあ🥢🦐Nekome-Shia",
-          "publishedAt": "2026-10-02T01:38:19.775Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tB3f9IvcV88/hqdefault.jpg",
-          "sourcePath": "sources/tB/tB3f9IvcV88.json",
-          "time": "1:17:40",
-          "seconds": 4660,
-          "songTitle": "恋文",
-          "artist": "Every Little Thing"
-        },
-        {
-          "videoId": "B0fnEsJk_FE",
-          "videoTitle": "【歌枠 / karaoke】初見さん歓迎◎ 週末、心地よい空間を #shorts #VTuber",
-          "channelName": "心呼 / xoxo",
-          "publishedAt": "2026-09-19T15:05:32.382Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/B0fnEsJk_FE/hqdefault.jpg",
-          "sourcePath": "sources/B0/B0fnEsJk_FE.json",
-          "time": "1:48:53",
-          "seconds": 6533,
-          "songTitle": "恋文",
-          "artist": "Every Little Thing"
-        },
-        {
-          "videoId": "WK_SJCWUrpg",
-          "videoTitle": "【 #歌枠 】初見さん20人おむかえするまで終われないみたい【 #MUZU | PROJECT ALVIZIA 】",
-          "channelName": "MUZU‐むずちゃんねる‐【Vtuber】",
-          "publishedAt": "2026-09-19T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/WK_SJCWUrpg/hqdefault.jpg",
-          "sourcePath": "sources/WK/WK_SJCWUrpg.json",
-          "time": "0:41:29",
-          "seconds": 2489,
-          "songTitle": "恋文",
-          "artist": "Every Little Thing"
-        }
-      ],
-      "detailPath": "entities/songs/2a32818a40314504.json"
     },
     {
       "rank": 3089,

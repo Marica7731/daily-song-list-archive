@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "30d",
   "type": "artists",
   "page": 7,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10864,
+  "totalCount": 10870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 301,
+      "id": "ce29bf66af6780ad",
+      "name": "niki",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 38,
+      "videoCount": 35,
+      "songCount": 10,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "jVqv7kCTN-4",
+          "videoTitle": "【#歌枠￤#KARAOKE 】ごきげんよう。【#新人Vtuber #vsinger #夜は紺色】",
+          "channelName": "夜紺 火花 / Yakon Hibana",
+          "publishedAt": "2026-10-03T14:48:36.542Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jVqv7kCTN-4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUABovOX_wMOCJeHg9YGGODqBCDgqAE=&rs=AOn4CLC1lLW84M8OQTIxcHERIlPBZoXA6Q&usqp=CBU",
+          "sourcePath": "sources/jV/jVqv7kCTN-4.json",
+          "time": "1:52:09",
+          "seconds": 6729,
+          "songTitle": "WAVE",
+          "artist": "niki"
+        },
+        {
+          "videoId": "ZhJAvsDLsPE",
+          "videoTitle": "【 歌枠 】 作業用BGMお探しですか？アニソン･ボカロで作業はかどる歌枠！【葵井詩雫】 Vsinger | karaoke | animesong",
+          "channelName": "aoi sizuku ch. 葵井詩雫",
+          "publishedAt": "2026-10-02T05:15:52.307Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZhJAvsDLsPE/hqdefault.jpg",
+          "sourcePath": "sources/Zh/ZhJAvsDLsPE.json",
+          "time": "2:18:35",
+          "seconds": 8315,
+          "songTitle": "WAVE",
+          "artist": "niki"
+        },
+        {
+          "videoId": "NTSpCcaJidw",
+          "videoTitle": "【歌枠 / Karaoke】初見さん大歓迎✨やっぱり歌いたくなった!!【🤍68 / 楚白ぱきら】 #vtuber",
+          "channelName": "楚白ぱきら / Soshiro Pakira",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NTSpCcaJidw/hqdefault.jpg",
+          "sourcePath": "sources/NT/NTSpCcaJidw.json",
+          "time": "0:53:29",
+          "seconds": 3209,
+          "songTitle": "ジッタードール",
+          "artist": "niki"
+        }
+      ],
+      "detailPath": "entities/artists/ce29bf66af6780ad.json"
+    },
+    {
+      "rank": 302,
       "id": "8d63fa73a6d8c468",
       "name": "Girls Dead Monster",
       "secondary": "",
@@ -68,7 +126,7 @@
       "detailPath": "entities/artists/8d63fa73a6d8c468.json"
     },
     {
-      "rank": 302,
+      "rank": 303,
       "id": "3282e06e21c459a3",
       "name": "HIMEHINA",
       "secondary": "",
@@ -125,7 +183,7 @@
       "detailPath": "entities/artists/3282e06e21c459a3.json"
     },
     {
-      "rank": 303,
+      "rank": 304,
       "id": "384b17e2dfd0a624",
       "name": "ゴールデンボンバー",
       "secondary": "",
@@ -183,7 +241,7 @@
       "detailPath": "entities/artists/384b17e2dfd0a624.json"
     },
     {
-      "rank": 304,
+      "rank": 305,
       "id": "c21fc60b61fd03ec",
       "name": "GARNET CROW",
       "secondary": "",
@@ -240,7 +298,7 @@
       "detailPath": "entities/artists/c21fc60b61fd03ec.json"
     },
     {
-      "rank": 305,
+      "rank": 306,
       "id": "a20756dbbf2a0aa5",
       "name": "doriko feat. 初音ミク",
       "secondary": "",
@@ -298,7 +356,7 @@
       "detailPath": "entities/artists/a20756dbbf2a0aa5.json"
     },
     {
-      "rank": 306,
+      "rank": 307,
       "id": "8c6bb0a80678d78b",
       "name": "香椎モイミ",
       "secondary": "",
@@ -355,7 +413,7 @@
       "detailPath": "entities/artists/8c6bb0a80678d78b.json"
     },
     {
-      "rank": 307,
+      "rank": 308,
       "id": "dfa90938d635883c",
       "name": "ジミーサムP feat. 初音ミク",
       "secondary": "",
@@ -411,64 +469,6 @@
         }
       ],
       "detailPath": "entities/artists/dfa90938d635883c.json"
-    },
-    {
-      "rank": 308,
-      "id": "8fe01fea341de611",
-      "name": "ロードオブメジャー",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 37,
-      "videoCount": 35,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "K1-tWs1Tchg",
-          "videoTitle": "〖歌枠〗リクエスト拾う！Chill弾き語り🎸〖Vsinger〗",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-08T15:47:12.988Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/K1-tWs1Tchg/hqdefault.jpg",
-          "sourcePath": "sources/K1/K1-tWs1Tchg.json",
-          "time": "0:42:18",
-          "seconds": 2538,
-          "songTitle": "心絵",
-          "artist": "ロードオブメジャー"
-        },
-        {
-          "videoId": "P12LehWy_bw",
-          "videoTitle": "【#歌枠/#karaoke 】定期うたわく～！！【#個人勢vtuber/しゃいる】",
-          "channelName": "Shairu.chしゃいる",
-          "publishedAt": "2026-10-07T16:46:41.526Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/P12LehWy_bw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTXRk_5QmtDyGVwNVwOOnr7UlMfA",
-          "sourcePath": "sources/P1/P12LehWy_bw.json",
-          "time": "1:50:25",
-          "seconds": 6625,
-          "songTitle": "心絵",
-          "artist": "ロードオブメジャー"
-        },
-        {
-          "videoId": "k0LcTqnOQCY",
-          "videoTitle": "【歌枠/KARAOKE】10/4 のんびり歌を歌います！初見さんも大歓迎！【熊野ふぁい/Vtuber/懐メロ/作業用/BGM/配信中】",
-          "channelName": "熊野ふぁい / Kumano Phay ch",
-          "publishedAt": "2026-10-04T13:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/k0LcTqnOQCY/hqdefault.jpg",
-          "sourcePath": "sources/k0/k0LcTqnOQCY.json",
-          "time": "0:53:42",
-          "seconds": 3222,
-          "songTitle": "心絵",
-          "artist": "ロードオブメジャー"
-        }
-      ],
-      "detailPath": "entities/artists/8fe01fea341de611.json"
     },
     {
       "rank": 309,
@@ -1512,6 +1512,63 @@
     },
     {
       "rank": 327,
+      "id": "8cadd69de93a0354",
+      "name": "サスケ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 35,
+      "videoCount": 35,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "OOVhsSDuHy0",
+          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
+          "channelName": "苺咲べりぃ / Maisaki Berry",
+          "publishedAt": "2026-10-05T14:55:33.875Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OOVhsSDuHy0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDocEXQd9iROi78ZONFM9g58c628Q",
+          "sourcePath": "sources/OO/OOVhsSDuHy0.json",
+          "time": "1:23:14",
+          "seconds": 4994,
+          "songTitle": "青いベンチ",
+          "artist": "サスケ"
+        },
+        {
+          "videoId": "ryy6vGKqqgU",
+          "videoTitle": "【 #歌枠 】ライブ出演を経ての成長をみせたい！！【 #vtuber / 白熊かぷり】",
+          "channelName": "白熊 かぷり shirakuma kapri",
+          "publishedAt": "2026-10-04T15:46:33.488Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ryy6vGKqqgU/hqdefault.jpg",
+          "sourcePath": "sources/ry/ryy6vGKqqgU.json",
+          "time": "0:11:33",
+          "seconds": 693,
+          "songTitle": "青いベンチ",
+          "artist": "サスケ"
+        },
+        {
+          "videoId": "7MEIsQqa-_k",
+          "videoTitle": "【 #歌枠 】チャンネル登録300人耐久歌枠やるぞやるぞやるぞ！！！【 #新人Vtuber 】",
+          "channelName": "らむ音らむ",
+          "publishedAt": "2026-10-04T13:48:23.513Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7MEIsQqa-_k/hqdefault.jpg",
+          "sourcePath": "sources/7M/7MEIsQqa-_k.json",
+          "time": "2:19:29",
+          "seconds": 8369,
+          "songTitle": "青いベンチ",
+          "artist": "サスケ"
+        }
+      ],
+      "detailPath": "entities/artists/8cadd69de93a0354.json"
+    },
+    {
+      "rank": 328,
       "id": "73dfc1384616c0f5",
       "name": "夏代孝明",
       "secondary": "",
@@ -1568,7 +1625,7 @@
       "detailPath": "entities/artists/73dfc1384616c0f5.json"
     },
     {
-      "rank": 328,
+      "rank": 329,
       "id": "285ad7d991a2537b",
       "name": "川崎鷹也",
       "secondary": "",
@@ -1626,7 +1683,7 @@
       "detailPath": "entities/artists/285ad7d991a2537b.json"
     },
     {
-      "rank": 329,
+      "rank": 330,
       "id": "4fbd399286519640",
       "name": "sumika",
       "secondary": "",
@@ -1683,7 +1740,7 @@
       "detailPath": "entities/artists/4fbd399286519640.json"
     },
     {
-      "rank": 330,
+      "rank": 331,
       "id": "7b6bbc218caee566",
       "name": "影山ヒロノブ",
       "secondary": "",
@@ -1738,63 +1795,6 @@
         }
       ],
       "detailPath": "entities/artists/7b6bbc218caee566.json"
-    },
-    {
-      "rank": 331,
-      "id": "8cadd69de93a0354",
-      "name": "サスケ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 34,
-      "videoCount": 34,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "OOVhsSDuHy0",
-          "videoTitle": "【 #歌枠 / karaoke 】初見歓迎！歌枠！！！- Singing / 歌回【 苺咲べりぃ 】#vtuber #vsinger",
-          "channelName": "苺咲べりぃ / Maisaki Berry",
-          "publishedAt": "2026-10-05T14:55:33.875Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/OOVhsSDuHy0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDocEXQd9iROi78ZONFM9g58c628Q",
-          "sourcePath": "sources/OO/OOVhsSDuHy0.json",
-          "time": "1:23:14",
-          "seconds": 4994,
-          "songTitle": "青いベンチ",
-          "artist": "サスケ"
-        },
-        {
-          "videoId": "ryy6vGKqqgU",
-          "videoTitle": "【 #歌枠 】ライブ出演を経ての成長をみせたい！！【 #vtuber / 白熊かぷり】",
-          "channelName": "白熊 かぷり shirakuma kapri",
-          "publishedAt": "2026-10-04T15:46:33.488Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ryy6vGKqqgU/hqdefault.jpg",
-          "sourcePath": "sources/ry/ryy6vGKqqgU.json",
-          "time": "0:11:33",
-          "seconds": 693,
-          "songTitle": "青いベンチ",
-          "artist": "サスケ"
-        },
-        {
-          "videoId": "8Z3a1JoWlCo",
-          "videoTitle": "【 歌枠 】30代に刺さる懐かし平成歌枠【 灯守カンナ / 新人VTuber 】",
-          "channelName": "灯守カンナ",
-          "publishedAt": "2026-10-03T20:24:12.046Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8Z3a1JoWlCo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBgPrMB8JdCRaKsLAt1H_ct9JiPQw",
-          "sourcePath": "sources/8Z/8Z3a1JoWlCo.json",
-          "time": "5:02:44",
-          "seconds": 18164,
-          "songTitle": "青いベンチ",
-          "artist": "サスケ"
-        }
-      ],
-      "detailPath": "entities/artists/8cadd69de93a0354.json"
     },
     {
       "rank": 332,
@@ -2312,6 +2312,63 @@
     },
     {
       "rank": 341,
+      "id": "51f06c2fd20e9782",
+      "name": "ももいろクローバーZ",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 33,
+      "videoCount": 29,
+      "songCount": 12,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "FAwTEEuh2Nk",
+          "videoTitle": "【#歌枠】初見さんみつけて🔰寝る前にすこしだけ歌の練習をするヨン🎤弾幕してね💕 #新人vtuber",
+          "channelName": "それゆけゆめこ / GOGO Yumeko",
+          "publishedAt": "2026-10-08T18:04:30.759Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/FAwTEEuh2Nk/hqdefault.jpg",
+          "sourcePath": "sources/FA/FAwTEEuh2Nk.json",
+          "time": "1:14:28",
+          "seconds": 4468,
+          "songTitle": "Chai Maxx",
+          "artist": "ももいろクローバーZ"
+        },
+        {
+          "videoId": "5dGoZp_HRJU",
+          "videoTitle": "🌈歌雑やるよぉぉぉぉ🍉 #vtuber #歌枠 #shortvideo #歌枠配信 #カラオケ #雑談",
+          "channelName": "亜神 柚羽(agami yuzuha)",
+          "publishedAt": "2026-10-04T13:46:33.488Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5dGoZp_HRJU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBLYZOB0kJEqbOU7xDTMUOzcsvChg",
+          "sourcePath": "sources/5d/5dGoZp_HRJU.json",
+          "time": "1:32:25",
+          "seconds": 5545,
+          "songTitle": "MOON PRIDE",
+          "artist": "ももいろクローバーZ"
+        },
+        {
+          "videoId": "UkfKSk3QFgw",
+          "videoTitle": "第6回 定期公演 「未来への道 vol.6」 #歌枠 #琥珀ひなた",
+          "channelName": "琥珀ひなた",
+          "publishedAt": "2026-10-03T20:04:33.023Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/UkfKSk3QFgw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJHskULhsXKx-BXwIbS0mwE-9TrQ",
+          "sourcePath": "sources/Uk/UkfKSk3QFgw.json",
+          "time": "1:35:57",
+          "seconds": 5757,
+          "songTitle": "ワニとシャンプー",
+          "artist": "ももいろクローバーZ"
+        }
+      ],
+      "detailPath": "entities/artists/51f06c2fd20e9782.json"
+    },
+    {
+      "rank": 342,
       "id": "5605ee062eb51d08",
       "name": "JAM Project",
       "secondary": "",
@@ -2368,7 +2425,7 @@
       "detailPath": "entities/artists/5605ee062eb51d08.json"
     },
     {
-      "rank": 342,
+      "rank": 343,
       "id": "ca9a5be68ff22885",
       "name": "Dixie Flatline",
       "secondary": "",
@@ -2426,7 +2483,7 @@
       "detailPath": "entities/artists/ca9a5be68ff22885.json"
     },
     {
-      "rank": 343,
+      "rank": 344,
       "id": "826d5bf9b08fad23",
       "name": "Whiteberry",
       "secondary": "",
@@ -2484,7 +2541,7 @@
       "detailPath": "entities/artists/826d5bf9b08fad23.json"
     },
     {
-      "rank": 344,
+      "rank": 345,
       "id": "da4d9678ea4df773",
       "name": "松原みき",
       "secondary": "",
@@ -2542,7 +2599,7 @@
       "detailPath": "entities/artists/da4d9678ea4df773.json"
     },
     {
-      "rank": 345,
+      "rank": 346,
       "id": "8329949a04927e08",
       "name": "中西保志",
       "secondary": "",
@@ -2599,7 +2656,7 @@
       "detailPath": "entities/artists/8329949a04927e08.json"
     },
     {
-      "rank": 346,
+      "rank": 347,
       "id": "1c936ca3246bde1e",
       "name": "神はサイコロを振らない",
       "secondary": "",
@@ -2657,7 +2714,7 @@
       "detailPath": "entities/artists/1c936ca3246bde1e.json"
     },
     {
-      "rank": 347,
+      "rank": 348,
       "id": "3e710c8dd77fc942",
       "name": "中島愛",
       "secondary": "",
@@ -2713,63 +2770,6 @@
         }
       ],
       "detailPath": "entities/artists/3e710c8dd77fc942.json"
-    },
-    {
-      "rank": 348,
-      "id": "51f06c2fd20e9782",
-      "name": "ももいろクローバーZ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 32,
-      "videoCount": 28,
-      "songCount": 12,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "FAwTEEuh2Nk",
-          "videoTitle": "【#歌枠】初見さんみつけて🔰寝る前にすこしだけ歌の練習をするヨン🎤弾幕してね💕 #新人vtuber",
-          "channelName": "それゆけゆめこ / GOGO Yumeko",
-          "publishedAt": "2026-10-08T18:04:30.759Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FAwTEEuh2Nk/hqdefault.jpg",
-          "sourcePath": "sources/FA/FAwTEEuh2Nk.json",
-          "time": "1:14:28",
-          "seconds": 4468,
-          "songTitle": "Chai Maxx",
-          "artist": "ももいろクローバーZ"
-        },
-        {
-          "videoId": "UkfKSk3QFgw",
-          "videoTitle": "第6回 定期公演 「未来への道 vol.6」 #歌枠 #琥珀ひなた",
-          "channelName": "琥珀ひなた",
-          "publishedAt": "2026-10-03T20:04:33.023Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UkfKSk3QFgw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJHskULhsXKx-BXwIbS0mwE-9TrQ",
-          "sourcePath": "sources/Uk/UkfKSk3QFgw.json",
-          "time": "1:35:57",
-          "seconds": 5757,
-          "songTitle": "ワニとシャンプー",
-          "artist": "ももいろクローバーZ"
-        },
-        {
-          "videoId": "Mr9PnfIbkBk",
-          "videoTitle": "衣装お披露目しながら定期歌枠【パレプロ/常磐カナメ】",
-          "channelName": "常磐カナメ -TOKIWA Kaname - パレプロ",
-          "publishedAt": "2026-10-03T12:48:36.542Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Mr9PnfIbkBk/hqdefault.jpg",
-          "sourcePath": "sources/Mr/Mr9PnfIbkBk.json",
-          "time": "0:23:16",
-          "seconds": 1396,
-          "songTitle": "MOON PRIDE",
-          "artist": "ももいろクローバーZ"
-        }
-      ],
-      "detailPath": "entities/artists/51f06c2fd20e9782.json"
     },
     {
       "rank": 349,

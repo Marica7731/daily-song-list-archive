@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "all",
   "type": "songs",
   "page": 34,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52815,
+  "totalCount": 52824,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -665,6 +665,67 @@
     },
     {
       "rank": 1662,
+      "id": "b3a56f028115a2f2",
+      "name": "虹",
+      "secondary": "Aqua Timez",
+      "channelId": "UCGLrsPlc2DpavAxmj1QV1tw",
+      "channelHandle": "@hibanamomose",
+      "channelUrl": "",
+      "occurrenceCount": 17,
+      "videoCount": 17,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "7MEIsQqa-_k",
+          "videoTitle": "【 #歌枠 】チャンネル登録300人耐久歌枠やるぞやるぞやるぞ！！！【 #新人Vtuber 】",
+          "channelName": "らむ音らむ",
+          "publishedAt": "2026-10-04T13:48:23.513Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7MEIsQqa-_k/hqdefault.jpg",
+          "sourcePath": "sources/7M/7MEIsQqa-_k.json",
+          "time": "3:42:00",
+          "seconds": 13320,
+          "songTitle": "虹",
+          "artist": "AquaTimez"
+        },
+        {
+          "videoId": "g73kHMyX37A",
+          "videoTitle": "【 #歌枠 】10月こんにちはゆる歌枠【#はくゆ / #VTuber】",
+          "channelName": "はくゆ",
+          "publishedAt": "2026-10-04T07:22:03.051Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/g73kHMyX37A/hqdefault.jpg",
+          "sourcePath": "sources/g7/g73kHMyX37A.json",
+          "time": "1:21:08",
+          "seconds": 4868,
+          "songTitle": "虹",
+          "artist": "Aqua Timez"
+        },
+        {
+          "videoId": "oOsg_US39wg",
+          "videoTitle": "【#歌枠】ライブに向けていっぱい歌う🎤 #初見さん大歓迎【#華崎びいず】",
+          "channelName": "Biizu Ch. 華崎びいず",
+          "publishedAt": "2026-10-03T13:26:25.634Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oOsg_US39wg/hqdefault.jpg",
+          "sourcePath": "sources/oO/oOsg_US39wg.json",
+          "time": "1:42:27",
+          "seconds": 6147,
+          "songTitle": "虹",
+          "artist": "Aqua Timez"
+        }
+      ],
+      "detailPath": "entities/songs/b3a56f028115a2f2.json"
+    },
+    {
+      "rank": 1663,
       "id": "b1799ae683b13439",
       "name": "風になる",
       "secondary": "",
@@ -721,7 +782,7 @@
       "detailPath": "entities/songs/b1799ae683b13439.json"
     },
     {
-      "rank": 1663,
+      "rank": 1664,
       "id": "570d29aa25899b5c",
       "name": "忘れじの言の葉",
       "secondary": "",
@@ -779,7 +840,7 @@
       "detailPath": "entities/songs/570d29aa25899b5c.json"
     },
     {
-      "rank": 1664,
+      "rank": 1665,
       "id": "07707bf1c76aedca",
       "name": "夜もすがら君想ふ",
       "secondary": "TOKOTOKO",
@@ -839,7 +900,7 @@
       "detailPath": "entities/songs/07707bf1c76aedca.json"
     },
     {
-      "rank": 1665,
+      "rank": 1666,
       "id": "d3c8ae5e76cd0639",
       "name": "夜明けと蛍",
       "secondary": "未記載",
@@ -897,7 +958,7 @@
       "detailPath": "entities/songs/d3c8ae5e76cd0639.json"
     },
     {
-      "rank": 1666,
+      "rank": 1667,
       "id": "b4ee027463d287d1",
       "name": "夜明けと蛍",
       "secondary": "ナブナ",
@@ -959,7 +1020,7 @@
       "detailPath": "entities/songs/b4ee027463d287d1.json"
     },
     {
-      "rank": 1667,
+      "rank": 1668,
       "id": "8ffb66311d52beda",
       "name": "BRAIN",
       "secondary": "kanaria",
@@ -1019,7 +1080,7 @@
       "detailPath": "entities/songs/8ffb66311d52beda.json"
     },
     {
-      "rank": 1668,
+      "rank": 1669,
       "id": "cdcc88bb94012ee8",
       "name": "evolution",
       "secondary": "浜崎あゆみ",
@@ -1079,7 +1140,7 @@
       "detailPath": "entities/songs/cdcc88bb94012ee8.json"
     },
     {
-      "rank": 1669,
+      "rank": 1670,
       "id": "2605708341f9a749",
       "name": "MAKE IT!",
       "secondary": "i☆Ris",
@@ -1139,7 +1200,7 @@
       "detailPath": "entities/songs/2605708341f9a749.json"
     },
     {
-      "rank": 1670,
+      "rank": 1671,
       "id": "6d816de4980b98c2",
       "name": "PPAP",
       "secondary": "ピコ太郎",
@@ -1199,7 +1260,7 @@
       "detailPath": "entities/songs/6d816de4980b98c2.json"
     },
     {
-      "rank": 1671,
+      "rank": 1672,
       "id": "8139baced1289dc9",
       "name": "サマータイムレコード",
       "secondary": "じん（自然の敵P）",
@@ -1259,7 +1320,7 @@
       "detailPath": "entities/songs/8139baced1289dc9.json"
     },
     {
-      "rank": 1672,
+      "rank": 1673,
       "id": "9109f9464e19e18e",
       "name": "スターラブレイション",
       "secondary": "ケラケラ",
@@ -1319,7 +1380,7 @@
       "detailPath": "entities/songs/9109f9464e19e18e.json"
     },
     {
-      "rank": 1673,
+      "rank": 1674,
       "id": "6ee68b0992805382",
       "name": "ターゲット～赤い衝撃～",
       "secondary": "和田光司",
@@ -1379,7 +1440,7 @@
       "detailPath": "entities/songs/6ee68b0992805382.json"
     },
     {
-      "rank": 1674,
+      "rank": 1675,
       "id": "66aef45fbf1b3f7d",
       "name": "ヨンジュウナナ",
       "secondary": "みきとP",
@@ -1439,7 +1500,7 @@
       "detailPath": "entities/songs/66aef45fbf1b3f7d.json"
     },
     {
-      "rank": 1675,
+      "rank": 1676,
       "id": "28c927a1b34604c3",
       "name": "誰かの願いが叶うころ",
       "secondary": "宇多田ヒカル",
@@ -1499,7 +1560,7 @@
       "detailPath": "entities/songs/28c927a1b34604c3.json"
     },
     {
-      "rank": 1676,
+      "rank": 1677,
       "id": "a03807bf6fb367cc",
       "name": "I Really Want to Stay at Your House",
       "secondary": "Rosa Walton",
@@ -1560,7 +1621,7 @@
       "detailPath": "entities/songs/a03807bf6fb367cc.json"
     },
     {
-      "rank": 1677,
+      "rank": 1678,
       "id": "586d85b4f7abb76d",
       "name": "《allegretto～そらときみ～》",
       "secondary": "KOTOKO",
@@ -1621,7 +1682,7 @@
       "detailPath": "entities/songs/586d85b4f7abb76d.json"
     },
     {
-      "rank": 1678,
+      "rank": 1679,
       "id": "744f1dd7d0e55f90",
       "name": "～ Sparkling Daydream",
       "secondary": "ZAQ",
@@ -1682,7 +1743,7 @@
       "detailPath": "entities/songs/744f1dd7d0e55f90.json"
     },
     {
-      "rank": 1679,
+      "rank": 1680,
       "id": "9c5afd35408a6a1d",
       "name": "🎸残ってる",
       "secondary": "吉澤嘉代子",
@@ -1743,7 +1804,7 @@
       "detailPath": "entities/songs/9c5afd35408a6a1d.json"
     },
     {
-      "rank": 1680,
+      "rank": 1681,
       "id": "94b48dd8df569e1d",
       "name": "Andromeda",
       "secondary": "星街すいせい",
@@ -1803,7 +1864,7 @@
       "detailPath": "entities/songs/94b48dd8df569e1d.json"
     },
     {
-      "rank": 1681,
+      "rank": 1682,
       "id": "cd68db1622462697",
       "name": "Blessing",
       "secondary": "halyosy",
@@ -1863,7 +1924,7 @@
       "detailPath": "entities/songs/cd68db1622462697.json"
     },
     {
-      "rank": 1682,
+      "rank": 1683,
       "id": "c6b79b85696c8932",
       "name": "Boys ＆ Girls",
       "secondary": "浜崎あゆみ",
@@ -1923,7 +1984,7 @@
       "detailPath": "entities/songs/c6b79b85696c8932.json"
     },
     {
-      "rank": 1683,
+      "rank": 1684,
       "id": "95cb5937f993f325",
       "name": "Catch You Catch Me",
       "secondary": "日向めぐみ",
@@ -1983,7 +2044,7 @@
       "detailPath": "entities/songs/95cb5937f993f325.json"
     },
     {
-      "rank": 1684,
+      "rank": 1685,
       "id": "d5b7b030e62913fd",
       "name": "ENDLESS STORY",
       "secondary": "REIRA starring YUNA ITO",
@@ -2043,7 +2104,7 @@
       "detailPath": "entities/songs/d5b7b030e62913fd.json"
     },
     {
-      "rank": 1685,
+      "rank": 1686,
       "id": "8bc8323bee966c0f",
       "name": "Family Song",
       "secondary": "星野源",
@@ -2104,7 +2165,7 @@
       "detailPath": "entities/songs/8bc8323bee966c0f.json"
     },
     {
-      "rank": 1686,
+      "rank": 1687,
       "id": "311a0e5723cead03",
       "name": "if",
       "secondary": "西野カナ",
@@ -2164,7 +2225,7 @@
       "detailPath": "entities/songs/311a0e5723cead03.json"
     },
     {
-      "rank": 1687,
+      "rank": 1688,
       "id": "e7110abbe0cab37a",
       "name": "K",
       "secondary": "BUMP OF CHICKEN",
@@ -2223,7 +2284,7 @@
       "detailPath": "entities/songs/e7110abbe0cab37a.json"
     },
     {
-      "rank": 1688,
+      "rank": 1689,
       "id": "136a9fb237b6f980",
       "name": "life hack",
       "secondary": "Vaundy",
@@ -2284,7 +2345,7 @@
       "detailPath": "entities/songs/136a9fb237b6f980.json"
     },
     {
-      "rank": 1689,
+      "rank": 1690,
       "id": "266b67745166cffd",
       "name": "magnet",
       "secondary": "minato(流星P) feat.初音ミク,巡音ルカ",
@@ -2344,7 +2405,7 @@
       "detailPath": "entities/songs/266b67745166cffd.json"
     },
     {
-      "rank": 1690,
+      "rank": 1691,
       "id": "d287409ccfdacb96",
       "name": "Monster",
       "secondary": "嵐",
@@ -2404,7 +2465,7 @@
       "detailPath": "entities/songs/d287409ccfdacb96.json"
     },
     {
-      "rank": 1691,
+      "rank": 1692,
       "id": "7fd8ccd98f12d696",
       "name": "mosi mosi？",
       "secondary": "楽音",
@@ -2465,7 +2526,7 @@
       "detailPath": "entities/songs/7fd8ccd98f12d696.json"
     },
     {
-      "rank": 1692,
+      "rank": 1693,
       "id": "a92a1dbd4f2e2615",
       "name": "M八七",
       "secondary": "米津玄師",
@@ -2525,7 +2586,7 @@
       "detailPath": "entities/songs/a92a1dbd4f2e2615.json"
     },
     {
-      "rank": 1693,
+      "rank": 1694,
       "id": "aaa3615451e95803",
       "name": "Snow fairy",
       "secondary": "FUNKIST",
@@ -2585,7 +2646,7 @@
       "detailPath": "entities/songs/aaa3615451e95803.json"
     },
     {
-      "rank": 1694,
+      "rank": 1695,
       "id": "59c3fb82c747a422",
       "name": "Super Driver",
       "secondary": "平野綾",
@@ -2645,7 +2706,7 @@
       "detailPath": "entities/songs/59c3fb82c747a422.json"
     },
     {
-      "rank": 1695,
+      "rank": 1696,
       "id": "053b37f3112ea213",
       "name": "TAO",
       "secondary": "Do As Infinity",
@@ -2706,7 +2767,7 @@
       "detailPath": "entities/songs/053b37f3112ea213.json"
     },
     {
-      "rank": 1696,
+      "rank": 1697,
       "id": "bb728136e032072b",
       "name": "Wonderful Rush",
       "secondary": "μ's",
@@ -2766,7 +2827,7 @@
       "detailPath": "entities/songs/bb728136e032072b.json"
     },
     {
-      "rank": 1697,
+      "rank": 1698,
       "id": "1389daafd9bad62d",
       "name": "インドア系ならトラックメイカー",
       "secondary": "Yunomi & nicamoq",
@@ -2826,7 +2887,7 @@
       "detailPath": "entities/songs/1389daafd9bad62d.json"
     },
     {
-      "rank": 1698,
+      "rank": 1699,
       "id": "5d3e48909e7b0c1d",
       "name": "ガーデン",
       "secondary": "藤井風",
@@ -2887,7 +2948,7 @@
       "detailPath": "entities/songs/5d3e48909e7b0c1d.json"
     },
     {
-      "rank": 1699,
+      "rank": 1700,
       "id": "370bc197f2a989e1",
       "name": "カオスが極まる",
       "secondary": "UNISON SQUARE GARDEN",
@@ -2945,67 +3006,6 @@
         }
       ],
       "detailPath": "entities/songs/370bc197f2a989e1.json"
-    },
-    {
-      "rank": 1700,
-      "id": "e9ed3cb53823bc8e",
-      "name": "カナタハルカ",
-      "secondary": "RADWIMPS",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 16,
-      "videoCount": 16,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "5-I1J3R_9S4",
-          "videoTitle": "【#歌枠】いつもの歌枠【@へいわん】初見さん歓迎☆",
-          "channelName": "へいわん",
-          "publishedAt": "2026-10-01T15:38:19.775Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5-I1J3R_9S4/hqdefault.jpg",
-          "sourcePath": "sources/5-/5-I1J3R_9S4.json",
-          "time": "0:51:28",
-          "seconds": 3088,
-          "songTitle": "カナタハルカ",
-          "artist": "RADWIMPS"
-        },
-        {
-          "videoId": "MxjLfrHOyJc",
-          "videoTitle": "【#弾き語り/노래뱅】邦ロック🎸を中心に、もねアレンジで歌います！【260930】",
-          "channelName": "氷晶もね",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MxjLfrHOyJc/hqdefault.jpg",
-          "sourcePath": "sources/Mx/MxjLfrHOyJc.json",
-          "time": "0:16:40",
-          "seconds": 1000,
-          "songTitle": "カナタハルカ",
-          "artist": "RADWIMPS"
-        },
-        {
-          "videoId": "bMDXYMNmAEg",
-          "videoTitle": "22:30～明日は4.5周年✨アコギ弾き語り歌枠🌙【#歌枠 /#弾き語り/#Vtuber】【睡眠導入/作業用BGM】Singing Stream",
-          "channelName": "汐音ベリーちゃん Berry Ch",
-          "publishedAt": "2026-09-27T16:22:39.593Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bMDXYMNmAEg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQ5dI9Nr63bHX8Nh_nt4G7ctSDQg",
-          "sourcePath": "sources/bM/bMDXYMNmAEg.json",
-          "time": "1:26:15",
-          "seconds": 5175,
-          "songTitle": "カナタハルカ",
-          "artist": "RADWIMPS"
-        }
-      ],
-      "detailPath": "entities/songs/e9ed3cb53823bc8e.json"
     }
   ]
 }

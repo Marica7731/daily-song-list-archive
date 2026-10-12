@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "all",
   "type": "songs",
   "page": 101,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52815,
+  "totalCount": 52824,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5001,
+      "id": "8ff19cf81c960b82",
+      "name": "you",
+      "secondary": "癒月ひぐらし",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 5,
+      "videoCount": 5,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "KWqw4s_yOIA",
+          "videoTitle": "【#歌枠】週末癒しの弾き語り / Singing stream【 #vtuber 】",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-09T18:24:54.011Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KWqw4s_yOIA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdnv_b5-lMZ05zRj99M8AV9-KRCA",
+          "sourcePath": "sources/KW/KWqw4s_yOIA.json",
+          "time": "0:30:58",
+          "seconds": 1858,
+          "songTitle": "you",
+          "artist": "癒月ひぐらし"
+        },
+        {
+          "videoId": "zchN5OpcUfY",
+          "videoTitle": "〖歌枠〗秋の音と弾き語り〖Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-09-22T09:02:16.140Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zchN5OpcUfY/hqdefault.jpg",
+          "sourcePath": "sources/zc/zchN5OpcUfY.json",
+          "time": "0:52:34",
+          "seconds": 3154,
+          "songTitle": "you",
+          "artist": "癒月ひぐらし"
+        },
+        {
+          "videoId": "Wy5gr71XMrU",
+          "videoTitle": "〖歌枠〗雨と夕暮れ。まったり弾き語り 〖Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-08-30T10:16:39.133Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wy5gr71XMrU/hqdefault.jpg",
+          "sourcePath": "sources/Wy/Wy5gr71XMrU.json",
+          "time": "1:26:35",
+          "seconds": 5195,
+          "songTitle": "you",
+          "artist": "癒月ひぐらし"
+        }
+      ],
+      "detailPath": "entities/songs/8ff19cf81c960b82.json"
+    },
+    {
+      "rank": 5002,
       "id": "ecf22744ea1d8d3b",
       "name": "YOU GET TO BURNING",
       "secondary": "松澤由実",
@@ -70,7 +130,7 @@
       "detailPath": "entities/songs/ecf22744ea1d8d3b.json"
     },
     {
-      "rank": 5002,
+      "rank": 5003,
       "id": "a59956da1ffcd9b3",
       "name": "You Raise Me Up",
       "secondary": "Celtic Woman",
@@ -128,7 +188,7 @@
       "detailPath": "entities/songs/a59956da1ffcd9b3.json"
     },
     {
-      "rank": 5003,
+      "rank": 5004,
       "id": "a5036c1b61b258fa",
       "name": "you／癒月",
       "secondary": "「ひぐらしのなく頃に解」",
@@ -185,7 +245,7 @@
       "detailPath": "entities/songs/a5036c1b61b258fa.json"
     },
     {
-      "rank": 5004,
+      "rank": 5005,
       "id": "349b8a1961e9a3e2",
       "name": "your little sister",
       "secondary": "片霧烈火",
@@ -242,7 +302,7 @@
       "detailPath": "entities/songs/349b8a1961e9a3e2.json"
     },
     {
-      "rank": 5005,
+      "rank": 5006,
       "id": "c37982ad425cd7a8",
       "name": "youthful beautiful",
       "secondary": "内田真礼",
@@ -303,7 +363,7 @@
       "detailPath": "entities/songs/c37982ad425cd7a8.json"
     },
     {
-      "rank": 5006,
+      "rank": 5007,
       "id": "ebfa3cec263152d8",
       "name": "YUME日和",
       "secondary": "島谷ひとみ ※JOYSOUND",
@@ -362,7 +422,7 @@
       "detailPath": "entities/songs/ebfa3cec263152d8.json"
     },
     {
-      "rank": 5007,
+      "rank": 5008,
       "id": "b27a490f4c943408",
       "name": "あゝ無情",
       "secondary": "アン・ルイス",
@@ -419,7 +479,7 @@
       "detailPath": "entities/songs/b27a490f4c943408.json"
     },
     {
-      "rank": 5008,
+      "rank": 5009,
       "id": "8bd567e83407549f",
       "name": "アイウエ",
       "secondary": "MAISONdes",
@@ -479,7 +539,7 @@
       "detailPath": "entities/songs/8bd567e83407549f.json"
     },
     {
-      "rank": 5009,
+      "rank": 5010,
       "id": "4e3e6db084a27da0",
       "name": "アイデン貞貞メルトダウン",
       "secondary": "えなこ feat.P丸様。",
@@ -538,7 +598,7 @@
       "detailPath": "entities/songs/4e3e6db084a27da0.json"
     },
     {
-      "rank": 5010,
+      "rank": 5011,
       "id": "1e72665b8b13dbfb",
       "name": "アイモ",
       "secondary": "ランカ・リー=中島 愛",
@@ -598,7 +658,7 @@
       "detailPath": "entities/songs/1e72665b8b13dbfb.json"
     },
     {
-      "rank": 5011,
+      "rank": 5012,
       "id": "92e5d606936837df",
       "name": "アイヲウタエ",
       "secondary": "春奈るな",
@@ -658,7 +718,7 @@
       "detailPath": "entities/songs/92e5d606936837df.json"
     },
     {
-      "rank": 5012,
+      "rank": 5013,
       "id": "12cfcc414ef5ce90",
       "name": "アウターサイエンス",
       "secondary": "じん（自然の敵P）",
@@ -715,7 +775,7 @@
       "detailPath": "entities/songs/12cfcc414ef5ce90.json"
     },
     {
-      "rank": 5013,
+      "rank": 5014,
       "id": "c04d4ccfcccf858e",
       "name": "アップルティー",
       "secondary": "杏沙子",
@@ -775,7 +835,7 @@
       "detailPath": "entities/songs/c04d4ccfcccf858e.json"
     },
     {
-      "rank": 5014,
+      "rank": 5015,
       "id": "331af7c271ef096b",
       "name": "あつまれ！パーティーピーポー",
       "secondary": "ヤバイTシャツ屋さん",
@@ -833,7 +893,7 @@
       "detailPath": "entities/songs/331af7c271ef096b.json"
     },
     {
-      "rank": 5015,
+      "rank": 5016,
       "id": "1fa68400672f6da0",
       "name": "あとひとつ",
       "secondary": "FUNKY MONKEY BABYS",
@@ -890,7 +950,7 @@
       "detailPath": "entities/songs/1fa68400672f6da0.json"
     },
     {
-      "rank": 5016,
+      "rank": 5017,
       "id": "1b8549972ec29524",
       "name": "あなたが…いない",
       "secondary": "栗林みな実",
@@ -949,7 +1009,7 @@
       "detailPath": "entities/songs/1b8549972ec29524.json"
     },
     {
-      "rank": 5017,
+      "rank": 5018,
       "id": "7edbdf4ffc3df614",
       "name": "あなたのキスを数えましょう 〜You were mine〜",
       "secondary": "小柳ゆき",
@@ -1009,7 +1069,7 @@
       "detailPath": "entities/songs/7edbdf4ffc3df614.json"
     },
     {
-      "rank": 5018,
+      "rank": 5019,
       "id": "e4919bf205ee743f",
       "name": "アポリア",
       "secondary": "",
@@ -1066,7 +1126,7 @@
       "detailPath": "entities/songs/e4919bf205ee743f.json"
     },
     {
-      "rank": 5019,
+      "rank": 5020,
       "id": "6e8d0fef7d0ed75d",
       "name": "アポロ",
       "secondary": "",
@@ -1123,7 +1183,7 @@
       "detailPath": "entities/songs/6e8d0fef7d0ed75d.json"
     },
     {
-      "rank": 5020,
+      "rank": 5021,
       "id": "c288bf84d7c94584",
       "name": "アリバイ",
       "secondary": "シド",
@@ -1181,7 +1241,7 @@
       "detailPath": "entities/songs/c288bf84d7c94584.json"
     },
     {
-      "rank": 5021,
+      "rank": 5022,
       "id": "78b83e1d44589725",
       "name": "アンインストール",
       "secondary": "石川智晶(石川知亜紀)",
@@ -1240,7 +1300,7 @@
       "detailPath": "entities/songs/78b83e1d44589725.json"
     },
     {
-      "rank": 5022,
+      "rank": 5023,
       "id": "c609b032b4bf5ac6",
       "name": "アンドロイドガール",
       "secondary": "DECO*27",
@@ -1297,7 +1357,7 @@
       "detailPath": "entities/songs/c609b032b4bf5ac6.json"
     },
     {
-      "rank": 5023,
+      "rank": 5024,
       "id": "859a8ac86f0642fa",
       "name": "あんなに一緒だったのに",
       "secondary": "See-Saw ※JOYSOUND",
@@ -1354,7 +1414,7 @@
       "detailPath": "entities/songs/859a8ac86f0642fa.json"
     },
     {
-      "rank": 5024,
+      "rank": 5025,
       "id": "5f09d1279305c597",
       "name": "いきどまり",
       "secondary": "星野源",
@@ -1413,7 +1473,7 @@
       "detailPath": "entities/songs/5f09d1279305c597.json"
     },
     {
-      "rank": 5025,
+      "rank": 5026,
       "id": "58f8612cc1c4f04b",
       "name": "いつか空に届いて",
       "secondary": "機動戦士ガンダム0080 ポケットの中の戦争",
@@ -1473,7 +1533,7 @@
       "detailPath": "entities/songs/58f8612cc1c4f04b.json"
     },
     {
-      "rank": 5026,
+      "rank": 5027,
       "id": "f767d5cc5bc717bc",
       "name": "イデア",
       "secondary": "天月 - あまつき",
@@ -1530,7 +1590,7 @@
       "detailPath": "entities/songs/f767d5cc5bc717bc.json"
     },
     {
-      "rank": 5027,
+      "rank": 5028,
       "id": "e3978bc29a3fd3a2",
       "name": "いらない",
       "secondary": "サカナクション",
@@ -1589,7 +1649,7 @@
       "detailPath": "entities/songs/e3978bc29a3fd3a2.json"
     },
     {
-      "rank": 5028,
+      "rank": 5029,
       "id": "ab144b495d78da00",
       "name": "インドア系ならトラックメイカー",
       "secondary": "Yunomi",
@@ -1649,7 +1709,7 @@
       "detailPath": "entities/songs/ab144b495d78da00.json"
     },
     {
-      "rank": 5029,
+      "rank": 5030,
       "id": "e9723e538c0c3716",
       "name": "うどん",
       "secondary": "Gero",
@@ -1706,7 +1766,7 @@
       "detailPath": "entities/songs/e9723e538c0c3716.json"
     },
     {
-      "rank": 5030,
+      "rank": 5031,
       "id": "75182456dcc19296",
       "name": "うまぴょい伝説",
       "secondary": "未記載",
@@ -1764,7 +1824,7 @@
       "detailPath": "entities/songs/75182456dcc19296.json"
     },
     {
-      "rank": 5031,
+      "rank": 5032,
       "id": "6188fb0f467938e4",
       "name": "うるうびと",
       "secondary": "RADWIMPS",
@@ -1825,7 +1885,7 @@
       "detailPath": "entities/songs/6188fb0f467938e4.json"
     },
     {
-      "rank": 5032,
+      "rank": 5033,
       "id": "57caef7a2bf0e12d",
       "name": "ウルフ",
       "secondary": "CHiCO with HoneyWorks",
@@ -1885,7 +1945,7 @@
       "detailPath": "entities/songs/57caef7a2bf0e12d.json"
     },
     {
-      "rank": 5033,
+      "rank": 5034,
       "id": "2cbd9dce1fe88f63",
       "name": "え？あぁ、そう",
       "secondary": "",
@@ -1942,7 +2002,7 @@
       "detailPath": "entities/songs/2cbd9dce1fe88f63.json"
     },
     {
-      "rank": 5034,
+      "rank": 5035,
       "id": "d4250ab74ea659cf",
       "name": "エアーマンが倒せない",
       "secondary": "Team.ねこかん【猫】",
@@ -2002,7 +2062,7 @@
       "detailPath": "entities/songs/d4250ab74ea659cf.json"
     },
     {
-      "rank": 5035,
+      "rank": 5036,
       "id": "17f4c67320cb9d4b",
       "name": "エキストラ",
       "secondary": "KAN",
@@ -2060,7 +2120,7 @@
       "detailPath": "entities/songs/17f4c67320cb9d4b.json"
     },
     {
-      "rank": 5036,
+      "rank": 5037,
       "id": "db0c75eea72010a5",
       "name": "エバ",
       "secondary": "柊キライ",
@@ -2119,7 +2179,7 @@
       "detailPath": "entities/songs/db0c75eea72010a5.json"
     },
     {
-      "rank": 5037,
+      "rank": 5038,
       "id": "bef96e7b40e1e77f",
       "name": "えれくとりっく・えんじぇぅ",
       "secondary": "ヤスオP",
@@ -2179,7 +2239,7 @@
       "detailPath": "entities/songs/bef96e7b40e1e77f.json"
     },
     {
-      "rank": 5038,
+      "rank": 5039,
       "id": "694a9a44015cb654",
       "name": "エンヴィーベイビー",
       "secondary": "Kanaria feat.GUMI",
@@ -2237,7 +2297,7 @@
       "detailPath": "entities/songs/694a9a44015cb654.json"
     },
     {
-      "rank": 5039,
+      "rank": 5040,
       "id": "97ab48d84eba345a",
       "name": "エンヴィキャットウォーク",
       "secondary": "",
@@ -2294,7 +2354,7 @@
       "detailPath": "entities/songs/97ab48d84eba345a.json"
     },
     {
-      "rank": 5040,
+      "rank": 5041,
       "id": "bb597ffe0eed8309",
       "name": "オーダーメイド",
       "secondary": "傘村トータ",
@@ -2354,7 +2414,7 @@
       "detailPath": "entities/songs/bb597ffe0eed8309.json"
     },
     {
-      "rank": 5041,
+      "rank": 5042,
       "id": "941dd99900445245",
       "name": "おじゃま虫",
       "secondary": "",
@@ -2411,7 +2471,7 @@
       "detailPath": "entities/songs/941dd99900445245.json"
     },
     {
-      "rank": 5042,
+      "rank": 5043,
       "id": "9add6385e49eb761",
       "name": "おやすみ泣き声、さよなら歌姫",
       "secondary": "未記載",
@@ -2469,7 +2529,7 @@
       "detailPath": "entities/songs/9add6385e49eb761.json"
     },
     {
-      "rank": 5043,
+      "rank": 5044,
       "id": "f1d7d263419c9d9c",
       "name": "オラはにんきもの",
       "secondary": "のはらしんのすけ",
@@ -2526,7 +2586,7 @@
       "detailPath": "entities/songs/f1d7d263419c9d9c.json"
     },
     {
-      "rank": 5044,
+      "rank": 5045,
       "id": "0f438d76114b7af3",
       "name": "オリオンをなぞる",
       "secondary": "",
@@ -2583,7 +2643,7 @@
       "detailPath": "entities/songs/0f438d76114b7af3.json"
     },
     {
-      "rank": 5045,
+      "rank": 5046,
       "id": "114ec20fb6dd832a",
       "name": "オレサマ愛歌",
       "secondary": "来栖翔",
@@ -2643,7 +2703,7 @@
       "detailPath": "entities/songs/114ec20fb6dd832a.json"
     },
     {
-      "rank": 5046,
+      "rank": 5047,
       "id": "305546c511e6591a",
       "name": "オレンジ",
       "secondary": "とらドラ！",
@@ -2700,7 +2760,7 @@
       "detailPath": "entities/songs/305546c511e6591a.json"
     },
     {
-      "rank": 5047,
+      "rank": 5048,
       "id": "c9c802fdbe916bbf",
       "name": "オレンジ",
       "secondary": "SMAP",
@@ -2757,7 +2817,7 @@
       "detailPath": "entities/songs/c9c802fdbe916bbf.json"
     },
     {
-      "rank": 5048,
+      "rank": 5049,
       "id": "f76faf74cd6cdc48",
       "name": "お願いマッスル",
       "secondary": "",
@@ -2814,7 +2874,7 @@
       "detailPath": "entities/songs/f76faf74cd6cdc48.json"
     },
     {
-      "rank": 5049,
+      "rank": 5050,
       "id": "638a2b069f83b474",
       "name": "ガールズルール",
       "secondary": "乃木坂46",
@@ -2872,67 +2932,6 @@
         }
       ],
       "detailPath": "entities/songs/638a2b069f83b474.json"
-    },
-    {
-      "rank": 5050,
-      "id": "0a70f0983696cb3c",
-      "name": "カゲロウ",
-      "secondary": "ONE OK ROCK",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 5,
-      "videoCount": 5,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "EBMZ8YfTK2Q",
-          "videoTitle": "【#耐久配信￤#歌枠】新髪型で100曲歌う！達成でミニお披露目！￤低音に自信アリ￤#sh1arch1ve【sh1an ￤個人Vsinger】",
-          "channelName": "𝐬𝐡𝟏𝐚𝐧",
-          "publishedAt": "2026-09-12T07:14:02.543Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EBMZ8YfTK2Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrV0JyRZ-HBc3qDwsZMsVPqHwKOQ",
-          "sourcePath": "sources/EB/EBMZ8YfTK2Q.json",
-          "time": "5:42:14",
-          "seconds": 20534,
-          "songTitle": "カゲロウ",
-          "artist": "ONE OK ROCK"
-        },
-        {
-          "videoId": "2iGWkPvq70Y",
-          "videoTitle": "【#歌枠】お昼の歌枠！ #うたうよしん #karaoke #vsinger",
-          "channelName": "shin",
-          "publishedAt": "2026-09-10T09:12:59.361Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2iGWkPvq70Y/hqdefault.jpg",
-          "sourcePath": "sources/2i/2iGWkPvq70Y.json",
-          "time": "2:47:05",
-          "seconds": 10025,
-          "songTitle": "カゲロウ",
-          "artist": "ONE OK ROCK"
-        },
-        {
-          "videoId": "u_0BbT5wgdI",
-          "videoTitle": "【歌枠】今日もおつかえさま！！🐸🫧Singing Stream【#vtuber /#vsinger /#かえるあんこう】",
-          "channelName": "かえる あんこう",
-          "publishedAt": "2026-09-02T14:41:39.439Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/u_0BbT5wgdI/hqdefault.jpg",
-          "sourcePath": "sources/u_/u_0BbT5wgdI.json",
-          "time": "0:56:33",
-          "seconds": 3393,
-          "songTitle": "カゲロウ",
-          "artist": "ONE OK ROCK"
-        }
-      ],
-      "detailPath": "entities/songs/0a70f0983696cb3c.json"
     }
   ]
 }

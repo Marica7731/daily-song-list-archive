@@ -1,16 +1,213 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "all",
   "type": "songs",
   "page": 649,
   "pageSize": 50,
   "pageCount": 1057,
-  "totalCount": 52815,
+  "totalCount": 52824,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 32401,
+      "id": "982d9e94f160a2bc",
+      "name": "ガラクタのアルペジオ",
+      "secondary": "ヤヅキ",
+      "channelId": "UCm4cYzeY3HYbjIHfQGF0keQ",
+      "channelHandle": "@%E3%82%84%E3%81%A5%E3%81%91%E3%82%93",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "n3ppfAClc_w",
+          "videoTitle": "お酒飲みながらアコギ弾く【弾き語り配信】",
+          "channelName": "ヤヅキ / やづけん",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/n3ppfAClc_w/hqdefault.jpg",
+          "sourcePath": "sources/n3/n3ppfAClc_w.json",
+          "time": "3:46:39",
+          "seconds": 13599,
+          "songTitle": "ガラクタのアルペジオ",
+          "artist": "ヤヅキ"
+        }
+      ],
+      "detailPath": "entities/songs/982d9e94f160a2bc.json"
+    },
+    {
+      "rank": 32402,
+      "id": "1bb1ee204472c80b",
+      "name": "がらくたのマーチ",
+      "secondary": "YASUHIRO",
+      "channelId": "UCr-8b1zH-JzsCBPwpj8llkw",
+      "channelHandle": "@%E5%A4%A2%E9%87%8E%E3%81%A6%E3%81%86",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Dp0hjq_1q0A",
+          "videoTitle": "歌枠 放課後 僕らは 教室で 「好きな歌を歌う」 夢野てう",
+          "channelName": "夢野てう",
+          "publishedAt": "2026-10-03T10:46:36.798Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Dp0hjq_1q0A/hqdefault.jpg",
+          "sourcePath": "sources/Dp/Dp0hjq_1q0A.json",
+          "time": "0:13:03",
+          "seconds": 783,
+          "songTitle": "がらくたのマーチ",
+          "artist": "YASUHIRO"
+        }
+      ],
+      "detailPath": "entities/songs/1bb1ee204472c80b.json"
+    },
+    {
+      "rank": 32403,
+      "id": "3a6062dc4e409d73",
+      "name": "ガラクタロード",
+      "secondary": "学マス",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Jw2Tb63ZZYc",
+          "videoTitle": "【 #歌枠 / KARAOKE 】すこしだけゲリラ【甘音あむ / ネオポルテ】",
+          "channelName": "甘音あむ / Amane Amu",
+          "publishedAt": "2026-09-10T13:14:12.932Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Jw2Tb63ZZYc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHmoRRHvrD9ldnhjksu16nxGTMGg",
+          "sourcePath": "sources/Jw/Jw2Tb63ZZYc.json",
+          "time": "0:22:20",
+          "seconds": 1340,
+          "songTitle": "ガラクタロード",
+          "artist": "学マス"
+        }
+      ],
+      "detailPath": "entities/songs/3a6062dc4e409d73.json"
+    },
+    {
+      "rank": 32404,
+      "id": "e442ab1f74c19818",
+      "name": "からくりピエロ",
+      "secondary": "40mPさん feat. 初音ミク",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "6DHj53W3-PA",
+          "videoTitle": "【 #歌枠 】朝から声出してくぞーーーー！【 #新人vtuber ／ #堕天ちた 】",
+          "channelName": "Chita Ch.堕天ちた",
+          "publishedAt": "2026-07-11T03:10:33.455Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6DHj53W3-PA/hqdefault.jpg",
+          "sourcePath": "sources/6D/6DHj53W3-PA.json",
+          "time": "0:23:08",
+          "seconds": 1388,
+          "songTitle": "からくりピエロ",
+          "artist": "40mPさん feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/e442ab1f74c19818.json"
+    },
+    {
+      "rank": 32405,
+      "id": "e70989c9ac5a7696",
+      "name": "からくりピエロ",
+      "secondary": "40mP,Chano feat.初音ミク（2011年）",
+      "channelId": "UC7O0stCdkTxnDJK0dgs_llw",
+      "channelHandle": "@kokona_miko",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ibDIX3Fv5NA",
+          "videoTitle": "【 #歌枠 】歌枠リレーに向けてお歌練習！【 #心奏みこ #新人Vtuber 】",
+          "channelName": "心奏みこ",
+          "publishedAt": "2026-07-22T08:17:48.726Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ibDIX3Fv5NA/hqdefault.jpg",
+          "sourcePath": "sources/ib/ibDIX3Fv5NA.json",
+          "time": "1:37:28",
+          "seconds": 5848,
+          "songTitle": "からくりピエロ",
+          "artist": "40mP,Chano feat.初音ミク（2011年）"
+        }
+      ],
+      "detailPath": "entities/songs/e70989c9ac5a7696.json"
+    },
+    {
+      "rank": 32406,
+      "id": "75b45b88c4c1448e",
+      "name": "からくりピエロ",
+      "secondary": "ピアノver",
+      "channelId": "UClFHHhLwUst2x5Fe5TVQ_vw",
+      "channelHandle": "@jyangaria_n",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "028R3hlw-Og",
+          "videoTitle": "【#歌枠】海鮮丼or水道水?!🔥豪華ランチをかけたビンゴ歌枠!!🌞🎤 #karaoke #vtuber 【朝活/公宴中】",
+          "channelName": "じゃんがりあん 🐹🍶 Jyangarian Ch.",
+          "publishedAt": "2026-07-30T01:52:11.195Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/028R3hlw-Og/hqdefault.jpg",
+          "sourcePath": "sources/02/028R3hlw-Og.json",
+          "time": "1:23:09",
+          "seconds": 4989,
+          "songTitle": "からくりピエロ",
+          "artist": "ピアノver"
+        }
+      ],
+      "detailPath": "entities/songs/75b45b88c4c1448e.json"
+    },
+    {
+      "rank": 32407,
       "id": "78be529498cb79e1",
       "name": "からくりピエロ",
       "secondary": "40mP feat. 初音ミク〈2011〉",
@@ -43,7 +240,7 @@
       "detailPath": "entities/songs/78be529498cb79e1.json"
     },
     {
-      "rank": 32402,
+      "rank": 32408,
       "id": "dca65bfedeb482f3",
       "name": "からくりピエロ",
       "secondary": "40mP 92.444",
@@ -73,7 +270,7 @@
       "detailPath": "entities/songs/dca65bfedeb482f3.json"
     },
     {
-      "rank": 32403,
+      "rank": 32409,
       "id": "f0d1c4b5c60b51c1",
       "name": "からくりピエロ",
       "secondary": "キー間違い",
@@ -106,7 +303,7 @@
       "detailPath": "entities/songs/f0d1c4b5c60b51c1.json"
     },
     {
-      "rank": 32404,
+      "rank": 32410,
       "id": "09cfeb36c92b0119",
       "name": "からくりピエロ",
       "secondary": "40mP feat.初音ミク 2011年",
@@ -139,7 +336,7 @@
       "detailPath": "entities/songs/09cfeb36c92b0119.json"
     },
     {
-      "rank": 32405,
+      "rank": 32411,
       "id": "c49719d792a604dc",
       "name": "からくりピエロ",
       "secondary": "40mP feat. 初音ミク • 【カラオケ】からくりピエロ / 40mP feat. 初音ミク",
@@ -169,7 +366,7 @@
       "detailPath": "entities/songs/c49719d792a604dc.json"
     },
     {
-      "rank": 32406,
+      "rank": 32412,
       "id": "424ede7214af20d2",
       "name": "からくりピエロ",
       "secondary": "feat.初音ミク",
@@ -202,7 +399,7 @@
       "detailPath": "entities/songs/424ede7214af20d2.json"
     },
     {
-      "rank": 32407,
+      "rank": 32413,
       "id": "f80d07a57a786e9d",
       "name": "からくりピエロ",
       "secondary": "初音ミク",
@@ -232,7 +429,7 @@
       "detailPath": "entities/songs/f80d07a57a786e9d.json"
     },
     {
-      "rank": 32408,
+      "rank": 32414,
       "id": "4a981c9804c4b606",
       "name": "からくりピエロ",
       "secondary": "8点",
@@ -265,7 +462,7 @@
       "detailPath": "entities/songs/4a981c9804c4b606.json"
     },
     {
-      "rank": 32409,
+      "rank": 32415,
       "id": "31772a6c556a27ec",
       "name": "からくりピエロ",
       "secondary": "作∶40㍍P、歌∶初音ミク",
@@ -298,7 +495,7 @@
       "detailPath": "entities/songs/31772a6c556a27ec.json"
     },
     {
-      "rank": 32410,
+      "rank": 32416,
       "id": "87c750904607d6e9",
       "name": "からくりピエロ",
       "secondary": "イナメトオル",
@@ -328,7 +525,7 @@
       "detailPath": "entities/songs/87c750904607d6e9.json"
     },
     {
-      "rank": 32411,
+      "rank": 32417,
       "id": "faefc336793cf8e8",
       "name": "からくりピエロ",
       "secondary": "40mP ※ピアノアレンジ",
@@ -358,7 +555,7 @@
       "detailPath": "entities/songs/faefc336793cf8e8.json"
     },
     {
-      "rank": 32412,
+      "rank": 32418,
       "id": "68e259f62db71b05",
       "name": "からくりピエロ",
       "secondary": "40㍍",
@@ -391,7 +588,7 @@
       "detailPath": "entities/songs/68e259f62db71b05.json"
     },
     {
-      "rank": 32413,
+      "rank": 32419,
       "id": "59c5da713fa87f0c",
       "name": "カラクリピエロ",
       "secondary": "40mP feat. 初音ミク",
@@ -424,7 +621,7 @@
       "detailPath": "entities/songs/59c5da713fa87f0c.json"
     },
     {
-      "rank": 32414,
+      "rank": 32420,
       "id": "38d165279c36887c",
       "name": "からくりピエロ",
       "secondary": "40mP feat. 初音ミク（ピアノ伴奏Ver.）",
@@ -457,7 +654,7 @@
       "detailPath": "entities/songs/38d165279c36887c.json"
     },
     {
-      "rank": 32415,
+      "rank": 32421,
       "id": "10571a45bb417d91",
       "name": "からくりピエロ",
       "secondary": "40㍍P / JS",
@@ -490,7 +687,7 @@
       "detailPath": "entities/songs/10571a45bb417d91.json"
     },
     {
-      "rank": 32416,
+      "rank": 32422,
       "id": "736fa4b165317191",
       "name": "からくりピエロ -Pf",
       "secondary": "40mP",
@@ -523,7 +720,7 @@
       "detailPath": "entities/songs/736fa4b165317191.json"
     },
     {
-      "rank": 32417,
+      "rank": 32423,
       "id": "497ff1b8e350f67a",
       "name": "からくりピエロ –Piano Ver",
       "secondary": "40mP feat. 初音ミク",
@@ -553,7 +750,7 @@
       "detailPath": "entities/songs/497ff1b8e350f67a.json"
     },
     {
-      "rank": 32418,
+      "rank": 32424,
       "id": "2dc24a967def516f",
       "name": "からくりピエロ feat. 初音ミク",
       "secondary": "",
@@ -586,7 +783,7 @@
       "detailPath": "entities/songs/2dc24a967def516f.json"
     },
     {
-      "rank": 32419,
+      "rank": 32425,
       "id": "ff7a35c81a08e3f4",
       "name": "からくりピエロ　低音もかっこええんかい",
       "secondary": "",
@@ -619,7 +816,7 @@
       "detailPath": "entities/songs/ff7a35c81a08e3f4.json"
     },
     {
-      "rank": 32420,
+      "rank": 32426,
       "id": "808a6dd0bdcac51e",
       "name": "からくりピエロ(2011年)",
       "secondary": "40mP",
@@ -649,7 +846,7 @@
       "detailPath": "entities/songs/808a6dd0bdcac51e.json"
     },
     {
-      "rank": 32421,
+      "rank": 32427,
       "id": "1f249d37cb9c7ff1",
       "name": "からくりピエロ（ﾋﾟｱﾉ,口笛入り）",
       "secondary": "40mP",
@@ -682,7 +879,7 @@
       "detailPath": "entities/songs/1f249d37cb9c7ff1.json"
     },
     {
-      "rank": 32422,
+      "rank": 32428,
       "id": "b3ca1c0f199d7bec",
       "name": "からくりピエロ（途中-3）",
       "secondary": "40mP",
@@ -715,7 +912,7 @@
       "detailPath": "entities/songs/b3ca1c0f199d7bec.json"
     },
     {
-      "rank": 32423,
+      "rank": 32429,
       "id": "8eeba07064773fc5",
       "name": "からくりんね",
       "secondary": "未記載",
@@ -749,7 +946,7 @@
       "detailPath": "entities/songs/8eeba07064773fc5.json"
     },
     {
-      "rank": 32424,
+      "rank": 32430,
       "id": "531fbe432ce24640",
       "name": "からくりんね",
       "secondary": "",
@@ -779,7 +976,7 @@
       "detailPath": "entities/songs/531fbe432ce24640.json"
     },
     {
-      "rank": 32425,
+      "rank": 32431,
       "id": "3ed9d3450c351e9c",
       "name": "からくりんね さん",
       "secondary": "",
@@ -812,7 +1009,7 @@
       "detailPath": "entities/songs/3ed9d3450c351e9c.json"
     },
     {
-      "rank": 32426,
+      "rank": 32432,
       "id": "ae28771f8a7ca6a1",
       "name": "からくり卍ばーすと",
       "secondary": "ひとしずく×やま△",
@@ -845,7 +1042,7 @@
       "detailPath": "entities/songs/ae28771f8a7ca6a1.json"
     },
     {
-      "rank": 32427,
+      "rank": 32433,
       "id": "8ef75210a25fc6ea",
       "name": "からくり卍ばーすと",
       "secondary": "ひとしずく×やま△(かなり忘れてて壊滅的でホンマにすみません…)",
@@ -875,7 +1072,7 @@
       "detailPath": "entities/songs/8ef75210a25fc6ea.json"
     },
     {
-      "rank": 32428,
+      "rank": 32434,
       "id": "fef87a52c3048164",
       "name": "カラコンウインク",
       "secondary": "AKB48",
@@ -907,7 +1104,7 @@
       "detailPath": "entities/songs/fef87a52c3048164.json"
     },
     {
-      "rank": 32429,
+      "rank": 32435,
       "id": "09e8538dc5114590",
       "name": "カラス",
       "secondary": "",
@@ -940,7 +1137,7 @@
       "detailPath": "entities/songs/09e8538dc5114590.json"
     },
     {
-      "rank": 32430,
+      "rank": 32436,
       "id": "d47ff182d2b431d5",
       "name": "カラス",
       "secondary": "うぴ子",
@@ -973,7 +1170,7 @@
       "detailPath": "entities/songs/d47ff182d2b431d5.json"
     },
     {
-      "rank": 32431,
+      "rank": 32437,
       "id": "78debe9cfbc7e988",
       "name": "カラス",
       "secondary": "長渕剛",
@@ -1006,7 +1203,7 @@
       "detailPath": "entities/songs/78debe9cfbc7e988.json"
     },
     {
-      "rank": 32432,
+      "rank": 32438,
       "id": "adc0cbbc7bd293f3",
       "name": "ガラスのPALM TREE",
       "secondary": "杉山清貴&オメガトライブ",
@@ -1038,7 +1235,7 @@
       "detailPath": "entities/songs/adc0cbbc7bd293f3.json"
     },
     {
-      "rank": 32433,
+      "rank": 32439,
       "id": "de5c1827d80d52ab",
       "name": "ガラスの仮面",
       "secondary": "芦部真梨子",
@@ -1071,7 +1268,7 @@
       "detailPath": "entities/songs/de5c1827d80d52ab.json"
     },
     {
-      "rank": 32434,
+      "rank": 32440,
       "id": "1c3cce535fcc482e",
       "name": "ガラスの花",
       "secondary": "奥華子",
@@ -1104,7 +1301,7 @@
       "detailPath": "entities/songs/1c3cce535fcc482e.json"
     },
     {
-      "rank": 32435,
+      "rank": 32441,
       "id": "e581b8da4965b91f",
       "name": "ガラスの花(テイルズ オブ ファンタジア なりきりダンジョンX)",
       "secondary": "奥華子",
@@ -1138,7 +1335,7 @@
       "detailPath": "entities/songs/e581b8da4965b91f.json"
     },
     {
-      "rank": 32436,
+      "rank": 32442,
       "id": "73a07cc07045d880",
       "name": "ガラスの十代",
       "secondary": "光GENJIを歌唱",
@@ -1171,7 +1368,7 @@
       "detailPath": "entities/songs/73a07cc07045d880.json"
     },
     {
-      "rank": 32437,
+      "rank": 32443,
       "id": "1a2ffef1dd4015d2",
       "name": "ガラスの十代",
       "secondary": "光GENJI",
@@ -1201,7 +1398,7 @@
       "detailPath": "entities/songs/1a2ffef1dd4015d2.json"
     },
     {
-      "rank": 32438,
+      "rank": 32444,
       "id": "eb99bc084500152a",
       "name": "ガラスの少年",
       "secondary": "KinKi Kids",
@@ -1231,7 +1428,7 @@
       "detailPath": "entities/songs/eb99bc084500152a.json"
     },
     {
-      "rank": 32439,
+      "rank": 32445,
       "id": "8ecf34c3e6a2aba1",
       "name": "ガラスの林檎",
       "secondary": "未記載",
@@ -1264,7 +1461,7 @@
       "detailPath": "entities/songs/8ecf34c3e6a2aba1.json"
     },
     {
-      "rank": 32440,
+      "rank": 32446,
       "id": "ad25ed344e09ca47",
       "name": "カラスは真っ白",
       "secondary": "fake!fake!",
@@ -1294,7 +1491,7 @@
       "detailPath": "entities/songs/ad25ed344e09ca47.json"
     },
     {
-      "rank": 32441,
+      "rank": 32447,
       "id": "56ab44392a975d77",
       "name": "ガラスペン",
       "secondary": "カンザキイオリ",
@@ -1327,7 +1524,7 @@
       "detailPath": "entities/songs/56ab44392a975d77.json"
     },
     {
-      "rank": 32442,
+      "rank": 32448,
       "id": "ee741fad3c1acc71",
       "name": "ガラスモザイク",
       "secondary": "咲乃木ロク",
@@ -1357,7 +1554,7 @@
       "detailPath": "entities/songs/ee741fad3c1acc71.json"
     },
     {
-      "rank": 32443,
+      "rank": 32449,
       "id": "44fb20d802615c07",
       "name": "ガラスを割れ！",
       "secondary": "欅坂46",
@@ -1390,7 +1587,7 @@
       "detailPath": "entities/songs/44fb20d802615c07.json"
     },
     {
-      "rank": 32444,
+      "rank": 32450,
       "id": "5c91ac970f164052",
       "name": "ｶﾞﾗｽ越しに消えた夏",
       "secondary": "鈴木雅之",
@@ -1421,202 +1618,6 @@
         }
       ],
       "detailPath": "entities/songs/5c91ac970f164052.json"
-    },
-    {
-      "rank": 32445,
-      "id": "4edd25984ab0e5f4",
-      "name": "からっぽ",
-      "secondary": "ゆず",
-      "channelId": "UC07joq7um_YQSZsregQnLnA",
-      "channelHandle": "@Captain_Joe_san",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "zRHn6hDzzFs",
-          "videoTitle": "[泥酔歌枠] エモい後味を残したいの俺は！ [男性Vtuber]",
-          "channelName": "キャプテン・ジョーさん / Captain Joe-san",
-          "publishedAt": "2026-10-04T10:27:18.810Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zRHn6hDzzFs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYo3wshNb724oQmQHUbDMIhwOmXQ",
-          "sourcePath": "sources/zR/zRHn6hDzzFs.json",
-          "time": "0:20:49",
-          "seconds": 1249,
-          "songTitle": "からっぽ",
-          "artist": "ゆず"
-        }
-      ],
-      "detailPath": "entities/songs/4edd25984ab0e5f4.json"
-    },
-    {
-      "rank": 32446,
-      "id": "e9b8717fc570ec40",
-      "name": "からっぽのまにまに",
-      "secondary": "ピノキオP",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vJSHy7YlBiY",
-          "videoTitle": "【#歌枠 】げりら【 #vtuber /おうるない】",
-          "channelName": "おうるない‐Boogie owl‐",
-          "publishedAt": "2026-09-07T11:22:13.501Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vJSHy7YlBiY/hqdefault.jpg",
-          "sourcePath": "sources/vJ/vJSHy7YlBiY.json",
-          "time": "0:34:53",
-          "seconds": 2093,
-          "songTitle": "からっぽのまにまに",
-          "artist": "ピノキオP"
-        }
-      ],
-      "detailPath": "entities/songs/e9b8717fc570ec40.json"
-    },
-    {
-      "rank": 32447,
-      "id": "a6f260fcf068d2a7",
-      "name": "ガラナ",
-      "secondary": "スキマスイッチ ※JOYSOUND",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "9ziqrPeOCFY",
-          "videoTitle": "【歌枠/Singing Stream】夏の終わりに聴きたい曲を歌いたい🌼✨初見歓迎 #karaoke 【#Ria_Live / #新人Vtuber】",
-          "channelName": "花栖リア",
-          "publishedAt": "2026-09-29T03:05:06.513Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9ziqrPeOCFY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAS9ByQPEdZpiEAWxg_Soe2Qdj-3g",
-          "sourcePath": "sources/9z/9ziqrPeOCFY.json",
-          "time": "0:39:34",
-          "seconds": 2374,
-          "songTitle": "ガラナ",
-          "artist": "スキマスイッチ ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/songs/a6f260fcf068d2a7.json"
-    },
-    {
-      "rank": 32448,
-      "id": "18b64db23f262b41",
-      "name": "からの終わり方が優しくてすごくよかった、刺さった",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "fucMLzxVD9A",
-          "videoTitle": "【歌枠】大阪名古屋公演お疲れ様だよ！！のこすは東京！！！【如月ゆう】【すたぽら】",
-          "channelName": "如月ゆう",
-          "publishedAt": "2026-08-31T15:33:06.903Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/fucMLzxVD9A/hqdefault.jpg",
-          "sourcePath": "sources/fu/fucMLzxVD9A.json",
-          "time": "1:04:48",
-          "seconds": 3888,
-          "songTitle": "からの終わり方が優しくてすごくよかった、刺さった",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/18b64db23f262b41.json"
-    },
-    {
-      "rank": 32449,
-      "id": "395de4f3fd8647ac",
-      "name": "カラビナ",
-      "secondary": "小豆沢あずき",
-      "channelId": "UC6PZatC-Nv-lH8oOGitq7qQ",
-      "channelHandle": "@Azukizawa_Azuki",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "siml_OJWonQ",
-          "videoTitle": "【#戦V時代歌枠リレー】月曜日から熱くさせるZE☆",
-          "channelName": "Azukizawa Official YouTube Channel",
-          "publishedAt": "2026-08-24T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/siml_OJWonQ/hqdefault.jpg",
-          "sourcePath": "sources/si/siml_OJWonQ.json",
-          "time": "0:14:52",
-          "seconds": 892,
-          "songTitle": "カラビナ",
-          "artist": "小豆沢あずき"
-        }
-      ],
-      "detailPath": "entities/songs/395de4f3fd8647ac.json"
-    },
-    {
-      "rank": 32450,
-      "id": "91adad2fc67d0309",
-      "name": "カラフル",
-      "secondary": "ClariS/映画「劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語 」OP/2013",
-      "channelId": "UCqskJ0nmw-_eweWfsKvbrzQ",
-      "channelHandle": "@Tirol_Tsukinoki",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "aSFl4nX4yOk",
-          "videoTitle": "【歌枠┆後半】朝に聞きたくなる歌声を…✨ アイドルソング┆Kalafinaさん┆YUKIちゃん┆牧野由依さん┆ゆかりんが好きな方～ 【月野木ちろる‐Tirol Tsukinoki‐/ななしいんく】",
-          "channelName": "月野木ちろる / Tirol Channel 【ななしいんく】",
-          "publishedAt": "2026-08-09T05:58:25.168Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/aSFl4nX4yOk/hqdefault.jpg",
-          "sourcePath": "sources/aS/aSFl4nX4yOk.json",
-          "time": "0:33:56",
-          "seconds": 2036,
-          "songTitle": "カラフル",
-          "artist": "ClariS/映画「劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語 」OP/2013"
-        }
-      ],
-      "detailPath": "entities/songs/91adad2fc67d0309.json"
     }
   ]
 }

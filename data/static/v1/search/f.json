@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "items": [
     {
       "id": "f79634cd4c37ea6e",
@@ -519,8 +519,8 @@
       "type": "songs",
       "name": "天城越え",
       "secondary": "石川さゆり",
-      "occurrenceCount": 76,
-      "videoCount": 48,
+      "occurrenceCount": 77,
+      "videoCount": 49,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -537,8 +537,8 @@
           "videoCount": 3
         },
         "30d": {
-          "occurrenceCount": 14,
-          "videoCount": 14
+          "occurrenceCount": 15,
+          "videoCount": 15
         }
       },
       "text": "天城越え石川さゆり"
@@ -2947,8 +2947,8 @@
       "type": "songs",
       "name": "ハム太郎 とっとこうた",
       "secondary": "ハムちゃんず",
-      "occurrenceCount": 178,
-      "videoCount": 174,
+      "occurrenceCount": 179,
+      "videoCount": 175,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2974,8 +2974,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 71,
-          "videoCount": 71
+          "occurrenceCount": 72,
+          "videoCount": 72
         }
       },
       "text": "ハム太郎とっとこうたハムちゃんず"
@@ -4056,8 +4056,8 @@
       "type": "songs",
       "name": "愛のうた",
       "secondary": "倖田來未",
-      "occurrenceCount": 29,
-      "videoCount": 29,
+      "occurrenceCount": 30,
+      "videoCount": 30,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -4074,8 +4074,8 @@
           "videoCount": 1
         },
         "30d": {
-          "occurrenceCount": 12,
-          "videoCount": 12
+          "occurrenceCount": 13,
+          "videoCount": 13
         }
       },
       "text": "愛のうた倖田來未"
@@ -18235,8 +18235,8 @@
       "type": "songs",
       "name": "プレゼント",
       "secondary": "JITTERIN'JINN",
-      "occurrenceCount": 2,
-      "videoCount": 2,
+      "occurrenceCount": 3,
+      "videoCount": 3,
       "keywords": [
         "month",
         "mygit今日快照",
@@ -18246,7 +18246,12 @@
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/fb58adaf08c1277f.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "プレゼントjitterinjinn"
     },
     {
@@ -61312,8 +61317,8 @@
       "type": "songs",
       "name": "I Will",
       "secondary": "Sowelu",
-      "occurrenceCount": 2,
-      "videoCount": 2,
+      "occurrenceCount": 3,
+      "videoCount": 3,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -61323,8 +61328,8 @@
       "detailPath": "entities/songs/f65807e9de3fe947.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 3,
+          "videoCount": 3
         }
       },
       "text": "iwillsowelu"
@@ -76660,8 +76665,8 @@
       "type": "artists",
       "name": "高橋洋子",
       "secondary": "",
-      "occurrenceCount": 516,
-      "videoCount": 441,
+      "occurrenceCount": 517,
+      "videoCount": 442,
       "keywords": [
         "karaoke",
         "month",
@@ -76689,8 +76694,8 @@
           "videoCount": 13
         },
         "30d": {
-          "occurrenceCount": 231,
-          "videoCount": 192
+          "occurrenceCount": 232,
+          "videoCount": 193
         }
       },
       "text": "高橋洋子"
@@ -79216,8 +79221,8 @@
       "type": "artists",
       "name": "mona(CV:夏川椎菜)feat.HoneyWorks",
       "secondary": "",
-      "occurrenceCount": 21,
-      "videoCount": 19,
+      "occurrenceCount": 22,
+      "videoCount": 20,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -79230,8 +79235,8 @@
       "detailPath": "entities/artists/f8ef8eb417043ef5.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 9,
-          "videoCount": 9
+          "occurrenceCount": 10,
+          "videoCount": 10
         }
       },
       "text": "monacv夏川椎菜feathoneyworks"
@@ -100555,8 +100560,8 @@
       "type": "artists",
       "name": "玉置成実 ※JOYSOUND",
       "secondary": "",
-      "occurrenceCount": 3,
-      "videoCount": 1,
+      "occurrenceCount": 5,
+      "videoCount": 2,
       "keywords": [
         "mygit今日快照",
         "歌枠"
@@ -100566,8 +100571,8 @@
       "detailPath": "entities/artists/fe40bf9dc11ea4a5.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 3,
-          "videoCount": 1
+          "occurrenceCount": 5,
+          "videoCount": 2
         }
       },
       "text": "玉置成実joysound"

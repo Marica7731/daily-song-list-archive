@@ -1,16 +1,148 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "30d",
   "type": "artists",
   "page": 127,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10864,
+  "totalCount": 10870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6301,
+      "id": "c500a038d206d5d3",
+      "name": "TM NETWORKを歌唱",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "sWRetVRXvbY",
+          "videoTitle": "【歌枠 / #karaoke 】ロボットアニメ歌枠！ガンダムあり！リクエストあり！【生返るるる / #Vtuber 】",
+          "channelName": "生返るるる",
+          "publishedAt": "2026-09-27T12:22:39.593Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/sWRetVRXvbY/hqdefault.jpg",
+          "sourcePath": "sources/sW/sWRetVRXvbY.json",
+          "time": "1:05:01",
+          "seconds": 3901,
+          "songTitle": "BEYOND THE TIME (メビウスの宇宙を越えて)",
+          "artist": "TM NETWORKを歌唱"
+        }
+      ],
+      "detailPath": "entities/artists/c500a038d206d5d3.json"
+    },
+    {
+      "rank": 6302,
+      "id": "950b8a8f39e21de7",
+      "name": "TMN",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "YgPkvNF6atY",
+          "videoTitle": "懐メロ歌います！🎤 #歌枠 #live2d #個人勢vtuber",
+          "channelName": "ヴァンパイアップル",
+          "publishedAt": "2026-09-30T05:43:10.608Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YgPkvNF6atY/hqdefault.jpg",
+          "sourcePath": "sources/Yg/YgPkvNF6atY.json",
+          "time": "0:17:14",
+          "seconds": 1034,
+          "songTitle": "GET WILD",
+          "artist": "TMN"
+        }
+      ],
+      "detailPath": "entities/artists/950b8a8f39e21de7.json"
+    },
+    {
+      "rank": 6303,
+      "id": "135d30860a92ed70",
+      "name": "Tobira no Mukou e",
+      "secondary": "",
+      "channelId": "UCbduOmr1D7zk3L5XAIiWlDA",
+      "channelHandle": "@Oshiriko_ch",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "oZ-bbbl61yk",
+          "videoTitle": "【歌枠 / KARAOKE】Afternoon Practice ~ 【Oshiriko】",
+          "channelName": "Oshiriko",
+          "publishedAt": "2026-10-07T16:39:38.288Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oZ-bbbl61yk/hqdefault.jpg",
+          "sourcePath": "sources/oZ/oZ-bbbl61yk.json",
+          "time": "1:54:38",
+          "seconds": 6878,
+          "songTitle": "Yellow Generation",
+          "artist": "Tobira no Mukou e"
+        }
+      ],
+      "detailPath": "entities/artists/135d30860a92ed70.json"
+    },
+    {
+      "rank": 6304,
+      "id": "fe09a43d14fdfc05",
+      "name": "tofubeats feat. オノマトペ大臣",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "RrFqrWXsb_o",
+          "videoTitle": "【#夜に溶ける歌枠リレー】初歌枠リレー！！エモ×透明感な弾き語り🌙【INARI / 新人VTuber】#いなりお使い中",
+          "channelName": "INARI",
+          "publishedAt": "2026-09-20T13:53:54.430Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RrFqrWXsb_o/hqdefault.jpg",
+          "sourcePath": "sources/Rr/RrFqrWXsb_o.json",
+          "time": "0:11:39",
+          "seconds": 699,
+          "songTitle": "水星",
+          "artist": "tofubeats feat. オノマトペ大臣"
+        }
+      ],
+      "detailPath": "entities/artists/fe09a43d14fdfc05.json"
+    },
+    {
+      "rank": 6305,
       "id": "27de8861ab5d445d",
       "name": "Togenashi Togeari",
       "secondary": "",
@@ -43,7 +175,7 @@
       "detailPath": "entities/artists/27de8861ab5d445d.json"
     },
     {
-      "rank": 6302,
+      "rank": 6306,
       "id": "2d72a2b8c05f2147",
       "name": "Tohma feat. Hatsune Miku",
       "secondary": "",
@@ -76,7 +208,7 @@
       "detailPath": "entities/artists/2d72a2b8c05f2147.json"
     },
     {
-      "rank": 6303,
+      "rank": 6307,
       "id": "c4aa9e484da00ebf",
       "name": "Tokai Teio (CV. Machico)",
       "secondary": "",
@@ -109,7 +241,7 @@
       "detailPath": "entities/artists/c4aa9e484da00ebf.json"
     },
     {
-      "rank": 6304,
+      "rank": 6308,
       "id": "bb202f087cb8a15d",
       "name": "TOKIO を熱唱",
       "secondary": "",
@@ -142,7 +274,7 @@
       "detailPath": "entities/artists/bb202f087cb8a15d.json"
     },
     {
-      "rank": 6305,
+      "rank": 6309,
       "id": "c37293f9585aaa87",
       "name": "TOKIO を披露",
       "secondary": "",
@@ -175,7 +307,7 @@
       "detailPath": "entities/artists/c37293f9585aaa87.json"
     },
     {
-      "rank": 6306,
+      "rank": 6310,
       "id": "bcbe449778f8e214",
       "name": "TOKOTOKO (-3Key)",
       "secondary": "",
@@ -205,7 +337,7 @@
       "detailPath": "entities/artists/bcbe449778f8e214.json"
     },
     {
-      "rank": 6307,
+      "rank": 6311,
       "id": "4e4c696051f8094b",
       "name": "TOKOTOKO (Nishizawasan-P) feat. Otomachi Una",
       "secondary": "",
@@ -235,7 +367,7 @@
       "detailPath": "entities/artists/4e4c696051f8094b.json"
     },
     {
-      "rank": 6308,
+      "rank": 6312,
       "id": "2c6b083ab5673b5e",
       "name": "TOKOTOKO ft. GUMI",
       "secondary": "",
@@ -268,7 +400,7 @@
       "detailPath": "entities/artists/2c6b083ab5673b5e.json"
     },
     {
-      "rank": 6309,
+      "rank": 6313,
       "id": "54c48b9ca9ac66c7",
       "name": "TOKOTOKO P",
       "secondary": "",
@@ -298,7 +430,7 @@
       "detailPath": "entities/artists/54c48b9ca9ac66c7.json"
     },
     {
-      "rank": 6310,
+      "rank": 6314,
       "id": "10f2b6824790ae50",
       "name": "TOKOTOKO 様",
       "secondary": "",
@@ -328,7 +460,7 @@
       "detailPath": "entities/artists/10f2b6824790ae50.json"
     },
     {
-      "rank": 6311,
+      "rank": 6315,
       "id": "4e21095e45ca3757",
       "name": "TOKOTOKO(NishizawasanP) feat.GUMI",
       "secondary": "",
@@ -361,7 +493,7 @@
       "detailPath": "entities/artists/4e21095e45ca3757.json"
     },
     {
-      "rank": 6312,
+      "rank": 6316,
       "id": "fabad2118cf9cd77",
       "name": "TOKOTOKO（西沢さんP feat. 音街ウナ（2019年）",
       "secondary": "",
@@ -394,7 +526,7 @@
       "detailPath": "entities/artists/fabad2118cf9cd77.json"
     },
     {
-      "rank": 6313,
+      "rank": 6317,
       "id": "686ed4437d970e3a",
       "name": "TOKOTOKO(西沢さんP) feat. GUMI [マネ]",
       "secondary": "",
@@ -427,7 +559,7 @@
       "detailPath": "entities/artists/686ed4437d970e3a.json"
     },
     {
-      "rank": 6314,
+      "rank": 6318,
       "id": "b4a9bd6c5a9281fb",
       "name": "TOKOTOKO(西沢さんP) feat. 音街ウナ (途中までアカペラ)",
       "secondary": "",
@@ -460,7 +592,7 @@
       "detailPath": "entities/artists/b4a9bd6c5a9281fb.json"
     },
     {
-      "rank": 6315,
+      "rank": 6319,
       "id": "8ebc92525d5f9e4b",
       "name": "TOKOTOKO(西沢さんP) feat.ぱなまん",
       "secondary": "",
@@ -493,7 +625,7 @@
       "detailPath": "entities/artists/8ebc92525d5f9e4b.json"
     },
     {
-      "rank": 6316,
+      "rank": 6320,
       "id": "795d1767a17996c7",
       "name": "TOKOTOKO(西沢さんP) feat.音街ウナ ※JOYSOUND",
       "secondary": "",
@@ -526,7 +658,7 @@
       "detailPath": "entities/artists/795d1767a17996c7.json"
     },
     {
-      "rank": 6317,
+      "rank": 6321,
       "id": "c435c97b480d3a12",
       "name": "Tokyo Caster",
       "secondary": "",
@@ -559,7 +691,7 @@
       "detailPath": "entities/artists/c435c97b480d3a12.json"
     },
     {
-      "rank": 6318,
+      "rank": 6322,
       "id": "bd6360f01fa78c39",
       "name": "TOKYO No.1 SOUL SET + HALCALI",
       "secondary": "",
@@ -592,7 +724,7 @@
       "detailPath": "entities/artists/bd6360f01fa78c39.json"
     },
     {
-      "rank": 6319,
+      "rank": 6323,
       "id": "2f388f431013b4f3",
       "name": "ToLOVEる",
       "secondary": "",
@@ -625,7 +757,7 @@
       "detailPath": "entities/artists/2f388f431013b4f3.json"
     },
     {
-      "rank": 6320,
+      "rank": 6324,
       "id": "0bee80c37cc79dbc",
       "name": "Tommy feat. Hatsune Miku",
       "secondary": "",
@@ -658,7 +790,7 @@
       "detailPath": "entities/artists/0bee80c37cc79dbc.json"
     },
     {
-      "rank": 6321,
+      "rank": 6325,
       "id": "e5a463ab277a8684",
       "name": "Tommy february6 ※JOYSOUND",
       "secondary": "",
@@ -691,7 +823,7 @@
       "detailPath": "entities/artists/e5a463ab277a8684.json"
     },
     {
-      "rank": 6322,
+      "rank": 6326,
       "id": "1aa13f40ef50fb1d",
       "name": "Tommy heavenly",
       "secondary": "",
@@ -724,7 +856,7 @@
       "detailPath": "entities/artists/1aa13f40ef50fb1d.json"
     },
     {
-      "rank": 6323,
+      "rank": 6327,
       "id": "98bba7d88bd24730",
       "name": "Tommy heavenly6 ※JOYSOUND",
       "secondary": "",
@@ -757,7 +889,7 @@
       "detailPath": "entities/artists/98bba7d88bd24730.json"
     },
     {
-      "rank": 6324,
+      "rank": 6328,
       "id": "289d62361bc5bd6b",
       "name": "Tommy heavenly6(Tommy heavenly6,Chris Walker)",
       "secondary": "",
@@ -790,7 +922,7 @@
       "detailPath": "entities/artists/289d62361bc5bd6b.json"
     },
     {
-      "rank": 6325,
+      "rank": 6329,
       "id": "bccdae7614b6a3ea",
       "name": "Tommy heavenly6[銀魂]",
       "secondary": "",
@@ -820,7 +952,7 @@
       "detailPath": "entities/artists/bccdae7614b6a3ea.json"
     },
     {
-      "rank": 6326,
+      "rank": 6330,
       "id": "def93b5d7bd412ba",
       "name": "TOMOMI,田鹿祐一",
       "secondary": "",
@@ -853,7 +985,7 @@
       "detailPath": "entities/artists/def93b5d7bd412ba.json"
     },
     {
-      "rank": 6327,
+      "rank": 6331,
       "id": "38279464a6226d9b",
       "name": "TOMONARI SORA",
       "secondary": "",
@@ -886,7 +1018,7 @@
       "detailPath": "entities/artists/38279464a6226d9b.json"
     },
     {
-      "rank": 6328,
+      "rank": 6332,
       "id": "558eb36963a2bfcb",
       "name": "Tomorrow",
       "secondary": "",
@@ -919,7 +1051,7 @@
       "detailPath": "entities/artists/558eb36963a2bfcb.json"
     },
     {
-      "rank": 6329,
+      "rank": 6333,
       "id": "e85d70f958e7ab95",
       "name": "Tonbi",
       "secondary": "",
@@ -949,7 +1081,7 @@
       "detailPath": "entities/artists/e85d70f958e7ab95.json"
     },
     {
-      "rank": 6330,
+      "rank": 6334,
       "id": "8db9c9eba867d3d6",
       "name": "Tonchinkan Feast",
       "secondary": "",
@@ -979,7 +1111,7 @@
       "detailPath": "entities/artists/8db9c9eba867d3d6.json"
     },
     {
-      "rank": 6331,
+      "rank": 6335,
       "id": "0e6c10c0a55be736",
       "name": "TOOBOE (john)",
       "secondary": "",
@@ -1012,7 +1144,7 @@
       "detailPath": "entities/artists/0e6c10c0a55be736.json"
     },
     {
-      "rank": 6332,
+      "rank": 6336,
       "id": "931d026b563c77f2",
       "name": "Tooi Kioku ❇ (椎名 恵)",
       "secondary": "",
@@ -1045,7 +1177,7 @@
       "detailPath": "entities/artists/931d026b563c77f2.json"
     },
     {
-      "rank": 6333,
+      "rank": 6337,
       "id": "e2089dd3525a3112",
       "name": "Train",
       "secondary": "",
@@ -1078,7 +1210,7 @@
       "detailPath": "entities/artists/e2089dd3525a3112.json"
     },
     {
-      "rank": 6334,
+      "rank": 6338,
       "id": "4f98f3bcb70a076a",
       "name": "TRAIN-TRAIN THE BLUE HEARTS / THE BLUE HEARTS",
       "secondary": "",
@@ -1111,7 +1243,7 @@
       "detailPath": "entities/artists/4f98f3bcb70a076a.json"
     },
     {
-      "rank": 6335,
+      "rank": 6339,
       "id": "277e8a73d5a9561c",
       "name": "Triad Primus",
       "secondary": "",
@@ -1144,7 +1276,7 @@
       "detailPath": "entities/artists/277e8a73d5a9561c.json"
     },
     {
-      "rank": 6336,
+      "rank": 6340,
       "id": "8405f9c1fc65c28c",
       "name": "TRIPLANE",
       "secondary": "",
@@ -1174,7 +1306,7 @@
       "detailPath": "entities/artists/8405f9c1fc65c28c.json"
     },
     {
-      "rank": 6337,
+      "rank": 6341,
       "id": "1875339ac00f242f",
       "name": "TRONICBOX",
       "secondary": "",
@@ -1207,7 +1339,7 @@
       "detailPath": "entities/artists/1875339ac00f242f.json"
     },
     {
-      "rank": 6338,
+      "rank": 6342,
       "id": "fe210826664e61ac",
       "name": "TRUE ／ ヴァイオレット・エヴァーガーデン(2018年)",
       "secondary": "",
@@ -1237,7 +1369,7 @@
       "detailPath": "entities/artists/fe210826664e61ac.json"
     },
     {
-      "rank": 6339,
+      "rank": 6343,
       "id": "d6d69eeb7fc356c2",
       "name": "TRUE // ヴァイオレット・エヴァーガーデン",
       "secondary": "",
@@ -1270,7 +1402,7 @@
       "detailPath": "entities/artists/d6d69eeb7fc356c2.json"
     },
     {
-      "rank": 6340,
+      "rank": 6344,
       "id": "54f13400a9dc651d",
       "name": "TRUE ※JOYSOUND",
       "secondary": "",
@@ -1303,7 +1435,7 @@
       "detailPath": "entities/artists/54f13400a9dc651d.json"
     },
     {
-      "rank": 6341,
+      "rank": 6345,
       "id": "3572c26f1738ecdf",
       "name": "TRUE 2018年",
       "secondary": "",
@@ -1333,7 +1465,7 @@
       "detailPath": "entities/artists/3572c26f1738ecdf.json"
     },
     {
-      "rank": 6342,
+      "rank": 6346,
       "id": "70fc8c04dc360c1a",
       "name": "true tears",
       "secondary": "",
@@ -1366,7 +1498,7 @@
       "detailPath": "entities/artists/70fc8c04dc360c1a.json"
     },
     {
-      "rank": 6343,
+      "rank": 6347,
       "id": "4ba2e3b385ab0a9e",
       "name": "TRUE唐沢美帆",
       "secondary": "",
@@ -1399,7 +1531,7 @@
       "detailPath": "entities/artists/4ba2e3b385ab0a9e.json"
     },
     {
-      "rank": 6344,
+      "rank": 6348,
       "id": "ea9ecf7ca57931f6",
       "name": "TRUSTRICK",
       "secondary": "",
@@ -1432,7 +1564,7 @@
       "detailPath": "entities/artists/ea9ecf7ca57931f6.json"
     },
     {
-      "rank": 6345,
+      "rank": 6349,
       "id": "888bcfbb227ae0a4",
       "name": "TrySail (2017) アニメ「エロマンガ先生」ED",
       "secondary": "",
@@ -1465,7 +1597,7 @@
       "detailPath": "entities/artists/888bcfbb227ae0a4.json"
     },
     {
-      "rank": 6346,
+      "rank": 6350,
       "id": "c757192ac4100336",
       "name": "Tsubasa アンダーグラフ / UNDER GRAPH",
       "secondary": "",
@@ -1496,139 +1628,6 @@
         }
       ],
       "detailPath": "entities/artists/c757192ac4100336.json"
-    },
-    {
-      "rank": 6347,
-      "id": "b4c7cf398fcac78b",
-      "name": "Tsubomi 🤍 (コブクロ)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "hh86160EWAM",
-          "videoTitle": "【 #歌枠】魂のバラード歌枠🎙️Singing Stream【 #松永依織 / #無原唱レコード】",
-          "channelName": "松永依織 / IORI MATSUNAGA",
-          "publishedAt": "2026-09-25T15:21:45.724Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/hh86160EWAM/hqdefault.jpg",
-          "sourcePath": "sources/hh/hh86160EWAM.json",
-          "time": "0:15:05",
-          "seconds": 905,
-          "songTitle": "蕾",
-          "artist": "Tsubomi 🤍 (コブクロ)"
-        }
-      ],
-      "detailPath": "entities/artists/b4c7cf398fcac78b.json"
-    },
-    {
-      "rank": 6348,
-      "id": "aaad608f62ffbf19",
-      "name": "Tsuji Ayano",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "EyMzFkoZnAU",
-          "videoTitle": "【 #弾き語り】ライブで出会ったきみへ。夜の癒し歌枠 初見さん大歓迎【 #323みすみ 】#Vtuber",
-          "channelName": "323(みすみ) -Misumi-",
-          "publishedAt": "2026-09-27T19:03:05.009Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EyMzFkoZnAU/hqdefault.jpg",
-          "sourcePath": "sources/Ey/EyMzFkoZnAU.json",
-          "time": "0:45:05",
-          "seconds": 2705,
-          "songTitle": "Kaze ni Naru",
-          "artist": "Tsuji Ayano"
-        }
-      ],
-      "detailPath": "entities/artists/aaad608f62ffbf19.json"
-    },
-    {
-      "rank": 6349,
-      "id": "6fab65f674564763",
-      "name": "Tsuki Kai ポルノグラフィティ / Porno Graffiti",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Y0fCc8pbIDM",
-          "videoTitle": "【定期 #歌枠】#48 ～月と夜 編～【解 #VTuber】",
-          "channelName": "解 -Kai-",
-          "publishedAt": "2026-09-18T11:46:48.956Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Y0fCc8pbIDM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOLo_xjwS4DWeQNGkPBqvWLXsnYA",
-          "sourcePath": "sources/Y0/Y0fCc8pbIDM.json",
-          "time": "0:36:22",
-          "seconds": 2182,
-          "songTitle": "月飼い",
-          "artist": "Tsuki Kai ポルノグラフィティ / Porno Graffiti"
-        }
-      ],
-      "detailPath": "entities/artists/6fab65f674564763.json"
-    },
-    {
-      "rank": 6350,
-      "id": "b803481a825c3122",
-      "name": "Tsuki no Mayu ❇ (奥井 亜紀)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "b6khQQLy8qE",
-          "videoTitle": "【歌枠】ガンダムシリーズ楽曲縛り🎙🤖今夜はバラードOnlyだよ～🎙🌙【#皇美緒奈 / #MIONA_LIVE】",
-          "channelName": "皇 美緒奈 / MIONA SUMERAGI",
-          "publishedAt": "2026-09-27T15:22:39.593Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/b6khQQLy8qE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAa5alhxJ8cDjdIkCUQ_eV_0hKa1g",
-          "sourcePath": "sources/b6/b6khQQLy8qE.json",
-          "time": "0:36:18",
-          "seconds": 2178,
-          "songTitle": "月の繭",
-          "artist": "Tsuki no Mayu ❇ (奥井 亜紀)"
-        }
-      ],
-      "detailPath": "entities/artists/b803481a825c3122.json"
     }
   ]
 }

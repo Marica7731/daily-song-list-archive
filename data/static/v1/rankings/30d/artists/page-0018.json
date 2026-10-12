@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "30d",
   "type": "artists",
   "page": 18,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10864,
+  "totalCount": 10870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 851,
+      "id": "5a52d10e80e82572",
+      "name": "工藤静香",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 10,
+      "videoCount": 9,
+      "songCount": 6,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ktBtS2-VQps",
+          "videoTitle": "10/9 10:00~13:00【 歌枠 】ドラゴンボールメインで歌い魔ス！！！【 レヴィ・アタン 】 #shorts #vtuber",
+          "channelName": "レヴィ・アタン",
+          "publishedAt": "2026-10-09T04:34:41.257Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ktBtS2-VQps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NZ0zf5_lwAzwWa7ZvKirDxnzjQ",
+          "sourcePath": "sources/kt/ktBtS2-VQps.json",
+          "time": "0:35:58",
+          "seconds": 2158,
+          "songTitle": "Blue Velvet",
+          "artist": "工藤静香"
+        },
+        {
+          "videoId": "tNi3f8rBpj8",
+          "videoTitle": "【#歌枠】老人会会場はこちらです。昭和縛りで歌うよん【きなこ。/ #きなこdot】🍃火曜の夜は定期歌枠🍃",
+          "channelName": "きなこ。",
+          "publishedAt": "2026-10-06T14:38:16.543Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tNi3f8rBpj8/hqdefault.jpg",
+          "sourcePath": "sources/tN/tNi3f8rBpj8.json",
+          "time": "1:41:05",
+          "seconds": 6065,
+          "songTitle": "MUGO・ん…色っぽい",
+          "artist": "工藤静香"
+        },
+        {
+          "videoId": "wdrshsZ1XEs",
+          "videoTitle": "リクエスト可！歌謡曲多め★【 #歌枠 / #karaoke 】#shorts",
+          "channelName": "杣菜つくも / Somana ch.",
+          "publishedAt": "2026-09-24T15:09:07.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wdrshsZ1XEs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_6dAq3J7BgFR_yYMB5srptwNw0Q",
+          "sourcePath": "sources/wd/wdrshsZ1XEs.json",
+          "time": "0:10:06",
+          "seconds": 606,
+          "songTitle": "くちびるから媚薬",
+          "artist": "工藤静香"
+        }
+      ],
+      "detailPath": "entities/artists/5a52d10e80e82572.json"
+    },
+    {
+      "rank": 852,
       "id": "72a1e414cae8a1b2",
       "name": "三月のパンタシア",
       "secondary": "",
@@ -67,7 +124,7 @@
       "detailPath": "entities/artists/72a1e414cae8a1b2.json"
     },
     {
-      "rank": 852,
+      "rank": 853,
       "id": "306a2dd942182d6e",
       "name": "松山千春",
       "secondary": "",
@@ -125,7 +182,7 @@
       "detailPath": "entities/artists/306a2dd942182d6e.json"
     },
     {
-      "rank": 853,
+      "rank": 854,
       "id": "c515da6e44d62018",
       "name": "大槻マキ",
       "secondary": "",
@@ -182,7 +239,7 @@
       "detailPath": "entities/artists/c515da6e44d62018.json"
     },
     {
-      "rank": 854,
+      "rank": 855,
       "id": "d715538495cf50ce",
       "name": "藤井フミヤ",
       "secondary": "",
@@ -239,7 +296,7 @@
       "detailPath": "entities/artists/d715538495cf50ce.json"
     },
     {
-      "rank": 855,
+      "rank": 856,
       "id": "966f373e33fe4b4d",
       "name": "平野綾, 茅原実里, 後藤邑子",
       "secondary": "",
@@ -296,7 +353,7 @@
       "detailPath": "entities/artists/966f373e33fe4b4d.json"
     },
     {
-      "rank": 856,
+      "rank": 857,
       "id": "4b82d2e8acb6172e",
       "name": "堀江 晶太",
       "secondary": "",
@@ -353,7 +410,7 @@
       "detailPath": "entities/artists/4b82d2e8acb6172e.json"
     },
     {
-      "rank": 857,
+      "rank": 858,
       "id": "95e60059b9869e80",
       "name": "765PRO ALLSTARS",
       "secondary": "",
@@ -410,7 +467,7 @@
       "detailPath": "entities/artists/95e60059b9869e80.json"
     },
     {
-      "rank": 858,
+      "rank": 859,
       "id": "a341fc80d2c89d52",
       "name": "CHEMISTRY",
       "secondary": "",
@@ -467,7 +524,7 @@
       "detailPath": "entities/artists/a341fc80d2c89d52.json"
     },
     {
-      "rank": 859,
+      "rank": 860,
       "id": "84ff89439eba35c2",
       "name": "ClariS ※JOYSOUND",
       "secondary": "",
@@ -524,7 +581,7 @@
       "detailPath": "entities/artists/84ff89439eba35c2.json"
     },
     {
-      "rank": 860,
+      "rank": 861,
       "id": "eb6f7ad7eb7ccad6",
       "name": "Hololive IDOL PROJECT",
       "secondary": "",
@@ -581,7 +638,7 @@
       "detailPath": "entities/artists/eb6f7ad7eb7ccad6.json"
     },
     {
-      "rank": 861,
+      "rank": 862,
       "id": "3c680615653386ce",
       "name": "ISSA",
       "secondary": "",
@@ -639,7 +696,7 @@
       "detailPath": "entities/artists/3c680615653386ce.json"
     },
     {
-      "rank": 862,
+      "rank": 863,
       "id": "de07bff7f711390b",
       "name": "PENGUIN RESEARCH",
       "secondary": "",
@@ -696,7 +753,7 @@
       "detailPath": "entities/artists/de07bff7f711390b.json"
     },
     {
-      "rank": 863,
+      "rank": 864,
       "id": "1907cd0403a807fd",
       "name": "Printemps",
       "secondary": "",
@@ -753,7 +810,7 @@
       "detailPath": "entities/artists/1907cd0403a807fd.json"
     },
     {
-      "rank": 864,
+      "rank": 865,
       "id": "f1efbcb8f5bcebe2",
       "name": "the peggies",
       "secondary": "",
@@ -810,7 +867,7 @@
       "detailPath": "entities/artists/f1efbcb8f5bcebe2.json"
     },
     {
-      "rank": 865,
+      "rank": 866,
       "id": "3fecb32775e7975a",
       "name": "TOKIO",
       "secondary": "",
@@ -867,7 +924,7 @@
       "detailPath": "entities/artists/3fecb32775e7975a.json"
     },
     {
-      "rank": 866,
+      "rank": 867,
       "id": "86c0681d34f4b4c3",
       "name": "なきごと",
       "secondary": "",
@@ -924,7 +981,7 @@
       "detailPath": "entities/artists/86c0681d34f4b4c3.json"
     },
     {
-      "rank": 867,
+      "rank": 868,
       "id": "dd6a4aadfeb24443",
       "name": "ナナホシ管弦楽団 feat. ONE",
       "secondary": "",
@@ -981,7 +1038,7 @@
       "detailPath": "entities/artists/dd6a4aadfeb24443.json"
     },
     {
-      "rank": 868,
+      "rank": 869,
       "id": "b909949374ddd99e",
       "name": "ハチ(米津玄師)",
       "secondary": "",
@@ -1038,7 +1095,7 @@
       "detailPath": "entities/artists/b909949374ddd99e.json"
     },
     {
-      "rank": 869,
+      "rank": 870,
       "id": "181e8d79d2c17e24",
       "name": "佐藤朱美",
       "secondary": "",
@@ -1095,7 +1152,7 @@
       "detailPath": "entities/artists/181e8d79d2c17e24.json"
     },
     {
-      "rank": 870,
+      "rank": 871,
       "id": "0ed906058d089ae6",
       "name": "DIR EN GREY",
       "secondary": "",
@@ -1152,7 +1209,7 @@
       "detailPath": "entities/artists/0ed906058d089ae6.json"
     },
     {
-      "rank": 871,
+      "rank": 872,
       "id": "a57ec412b15ff599",
       "name": "ハチ feat. 初音ミク",
       "secondary": "",
@@ -1209,7 +1266,7 @@
       "detailPath": "entities/artists/a57ec412b15ff599.json"
     },
     {
-      "rank": 872,
+      "rank": 873,
       "id": "2e54de311767513b",
       "name": "松澤由美",
       "secondary": "",
@@ -1266,7 +1323,7 @@
       "detailPath": "entities/artists/2e54de311767513b.json"
     },
     {
-      "rank": 873,
+      "rank": 874,
       "id": "a64d1950646277e7",
       "name": "鈴木みのり",
       "secondary": "",
@@ -1323,7 +1380,7 @@
       "detailPath": "entities/artists/a64d1950646277e7.json"
     },
     {
-      "rank": 874,
+      "rank": 875,
       "id": "273e495c5b503666",
       "name": "RADWINPS",
       "secondary": "",
@@ -1381,7 +1438,7 @@
       "detailPath": "entities/artists/273e495c5b503666.json"
     },
     {
-      "rank": 875,
+      "rank": 876,
       "id": "564534c9de80392a",
       "name": "リトル・マーメイド",
       "secondary": "",
@@ -1438,7 +1495,7 @@
       "detailPath": "entities/artists/564534c9de80392a.json"
     },
     {
-      "rank": 876,
+      "rank": 877,
       "id": "552eb9a02b2031ac",
       "name": "黒夢",
       "secondary": "",
@@ -1495,7 +1552,7 @@
       "detailPath": "entities/artists/552eb9a02b2031ac.json"
     },
     {
-      "rank": 877,
+      "rank": 878,
       "id": "78e2bc989a809a2a",
       "name": "初出し",
       "secondary": "",
@@ -1553,7 +1610,7 @@
       "detailPath": "entities/artists/78e2bc989a809a2a.json"
     },
     {
-      "rank": 878,
+      "rank": 879,
       "id": "e413fe7f514e8642",
       "name": "1996年",
       "secondary": "",
@@ -1611,7 +1668,7 @@
       "detailPath": "entities/artists/e413fe7f514e8642.json"
     },
     {
-      "rank": 879,
+      "rank": 880,
       "id": "04acf1c9248823cb",
       "name": "宮崎奈穂子(ｵﾘｼﾞﾅﾙ)",
       "secondary": "",
@@ -1656,7 +1713,7 @@
       "detailPath": "entities/artists/04acf1c9248823cb.json"
     },
     {
-      "rank": 880,
+      "rank": 881,
       "id": "a6602a6e0f1f333a",
       "name": "髙城靖雄",
       "secondary": "",
@@ -1689,7 +1746,7 @@
       "detailPath": "entities/artists/a6602a6e0f1f333a.json"
     },
     {
-      "rank": 881,
+      "rank": 882,
       "id": "b97a116fa5127057",
       "name": "『ユイカ』",
       "secondary": "",
@@ -1746,7 +1803,7 @@
       "detailPath": "entities/artists/b97a116fa5127057.json"
     },
     {
-      "rank": 882,
+      "rank": 883,
       "id": "df0a1cb54598de56",
       "name": "CHiCO",
       "secondary": "",
@@ -1803,7 +1860,7 @@
       "detailPath": "entities/artists/df0a1cb54598de56.json"
     },
     {
-      "rank": 883,
+      "rank": 884,
       "id": "9100b70a7ec892b3",
       "name": "Conton Candy",
       "secondary": "",
@@ -1860,7 +1917,7 @@
       "detailPath": "entities/artists/9100b70a7ec892b3.json"
     },
     {
-      "rank": 884,
+      "rank": 885,
       "id": "8da59782ab88c47c",
       "name": "DATEKEN feat.鏡音リン",
       "secondary": "",
@@ -1917,7 +1974,7 @@
       "detailPath": "entities/artists/8da59782ab88c47c.json"
     },
     {
-      "rank": 885,
+      "rank": 886,
       "id": "d1646f5b3cdab34f",
       "name": "eufonius",
       "secondary": "",
@@ -1975,7 +2032,7 @@
       "detailPath": "entities/artists/d1646f5b3cdab34f.json"
     },
     {
-      "rank": 886,
+      "rank": 887,
       "id": "52f8fb308b2a75fe",
       "name": "FEEL SO BAD",
       "secondary": "",
@@ -2032,7 +2089,7 @@
       "detailPath": "entities/artists/52f8fb308b2a75fe.json"
     },
     {
-      "rank": 887,
+      "rank": 888,
       "id": "300b7fe9bb8eee1c",
       "name": "FUNKY MONKEY BABYS",
       "secondary": "",
@@ -2089,7 +2146,7 @@
       "detailPath": "entities/artists/300b7fe9bb8eee1c.json"
     },
     {
-      "rank": 888,
+      "rank": 889,
       "id": "ed3902dd02613ea5",
       "name": "kemu feat.IA",
       "secondary": "",
@@ -2146,7 +2203,7 @@
       "detailPath": "entities/artists/ed3902dd02613ea5.json"
     },
     {
-      "rank": 889,
+      "rank": 890,
       "id": "fd52e1d2deb30eff",
       "name": "Last Note. feat.GUMI",
       "secondary": "",
@@ -2203,7 +2260,7 @@
       "detailPath": "entities/artists/fd52e1d2deb30eff.json"
     },
     {
-      "rank": 890,
+      "rank": 891,
       "id": "e8620eb4f49ca562",
       "name": "MAN WITH A MISSION",
       "secondary": "",
@@ -2258,63 +2315,6 @@
         }
       ],
       "detailPath": "entities/artists/e8620eb4f49ca562.json"
-    },
-    {
-      "rank": 891,
-      "id": "f8ef8eb417043ef5",
-      "name": "mona(cv.夏川椎菜) feat.HoneyWorks",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 9,
-      "videoCount": 9,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "V_JgI9TY_zA",
-          "videoTitle": "【歌枠】part13！初見歓迎🍵30分うたう！🔥【 真神晴／Makami hare】#Vtuber",
-          "channelName": "⛩真神 晴⛩／Makami Hare",
-          "publishedAt": "2026-09-27T17:54:51.348Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/V_JgI9TY_zA/hqdefault.jpg",
-          "sourcePath": "sources/V_/V_JgI9TY_zA.json",
-          "time": "0:31:54",
-          "seconds": 1914,
-          "songTitle": "アイドルでよかった",
-          "artist": "mona(CV:夏川椎菜) feat. HoneyWorks"
-        },
-        {
-          "videoId": "ZLgvjExG3To",
-          "videoTitle": "【 #声かっこかわいいV歌枠リレー 】かっこかわいいを両立したうさぎ…頑張ります！【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
-          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
-          "publishedAt": "2026-09-26T13:45:05.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZLgvjExG3To/hqdefault.jpg",
-          "sourcePath": "sources/ZL/ZLgvjExG3To.json",
-          "time": "0:22:19",
-          "seconds": 1339,
-          "songTitle": "ファンサ",
-          "artist": "mona(CV.夏川椎菜) feat.HoneyWorks"
-        },
-        {
-          "videoId": "xImeU47fZvU",
-          "videoTitle": "【#あいどるみっくす歌枠リレー】最強アイドルパワーで魅せちゃうぞっ🤍【#涼乃衣兎 #歌枠 #Vtuber #KARAOKE】",
-          "channelName": "涼乃 衣兎 / Suzushino Ito",
-          "publishedAt": "2026-09-26T11:02:34.908Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xImeU47fZvU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzUTG5N6mLbcv367q224qaZPDeXw",
-          "sourcePath": "sources/xI/xImeU47fZvU.json",
-          "time": "0:10:26",
-          "seconds": 626,
-          "songTitle": "誇り高きアイドル",
-          "artist": "mona ( CV : 夏川 椎菜 ) feat . HoneyWorks"
-        }
-      ],
-      "detailPath": "entities/artists/f8ef8eb417043ef5.json"
     },
     {
       "rank": 892,

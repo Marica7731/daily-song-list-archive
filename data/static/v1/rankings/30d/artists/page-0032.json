@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:45:28.449Z",
+  "generatedAt": "2026-10-12T13:51:27.435Z",
   "range": "30d",
   "type": "artists",
   "page": 32,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10864,
+  "totalCount": 10870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1150,6 +1150,51 @@
     },
     {
       "rank": 1573,
+      "id": "fe40bf9dc11ea4a5",
+      "name": "玉置成実 ※JOYSOUND",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 5,
+      "videoCount": 2,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "00cJrN-VHaE",
+          "videoTitle": "【 #歌枠 #karaoke 】はじめてのジャンル縛り歌枠！第1回目はガンダム縛りでいきます！ #shorts 【#るーしぃ詠唱中 / #新人Vtuber 】",
+          "channelName": "るーしぃ",
+          "publishedAt": "2026-10-04T13:46:33.488Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/00cJrN-VHaE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7nloXZpsiyWFrZz27pvLjdVR4-A",
+          "sourcePath": "sources/00/00cJrN-VHaE.json",
+          "time": "0:27:40",
+          "seconds": 1660,
+          "songTitle": "Believe",
+          "artist": "玉置成実 ※JOYSOUND"
+        },
+        {
+          "videoId": "GXpZjS0TjTY",
+          "videoTitle": "【#歌枠 】ガンダムSEED only歌枠♡激アツ歌枠間違いなし！【 音色はるか / #初見さん大歓迎 】",
+          "channelName": "neiro ch. 音色はるか",
+          "publishedAt": "2026-09-26T18:22:39.593Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/GXpZjS0TjTY/hqdefault.jpg",
+          "sourcePath": "sources/GX/GXpZjS0TjTY.json",
+          "time": "0:38:26",
+          "seconds": 2306,
+          "songTitle": "Believe",
+          "artist": "玉置成実 ※JOYSOUND"
+        }
+      ],
+      "detailPath": "entities/artists/fe40bf9dc11ea4a5.json"
+    },
+    {
+      "rank": 1574,
       "id": "91f487ac1b02a0e8",
       "name": "自作カラオケ",
       "secondary": "",
@@ -1194,7 +1239,7 @@
       "detailPath": "entities/artists/91f487ac1b02a0e8.json"
     },
     {
-      "rank": 1574,
+      "rank": 1575,
       "id": "b43d8ff860c5e319",
       "name": "水魚みぃむ",
       "secondary": "",
@@ -1239,7 +1284,7 @@
       "detailPath": "entities/artists/b43d8ff860c5e319.json"
     },
     {
-      "rank": 1575,
+      "rank": 1576,
       "id": "7b7d9d40c6a09dbb",
       "name": "田村ゆかり ※JOYSOUND",
       "secondary": "",
@@ -1284,7 +1329,7 @@
       "detailPath": "entities/artists/7b7d9d40c6a09dbb.json"
     },
     {
-      "rank": 1576,
+      "rank": 1577,
       "id": "55418c1599edceb1",
       "name": "白玖ウタノ",
       "secondary": "",
@@ -1329,7 +1374,7 @@
       "detailPath": "entities/artists/55418c1599edceb1.json"
     },
     {
-      "rank": 1577,
+      "rank": 1578,
       "id": "b09a6e45a2bbb861",
       "name": "髪型変更",
       "secondary": "",
@@ -1374,7 +1419,7 @@
       "detailPath": "entities/artists/b09a6e45a2bbb861.json"
     },
     {
-      "rank": 1578,
+      "rank": 1579,
       "id": "ae2cb1fd1de44d81",
       "name": "凛々咲",
       "secondary": "",
@@ -1419,7 +1464,7 @@
       "detailPath": "entities/artists/ae2cb1fd1de44d81.json"
     },
     {
-      "rank": 1579,
+      "rank": 1580,
       "id": "314ba98dce1d8892",
       "name": "Makino Yui",
       "secondary": "",
@@ -1452,7 +1497,7 @@
       "detailPath": "entities/artists/314ba98dce1d8892.json"
     },
     {
-      "rank": 1580,
+      "rank": 1581,
       "id": "d7417b2ad6259b1b",
       "name": "Piano Ver",
       "secondary": "",
@@ -1482,7 +1527,7 @@
       "detailPath": "entities/artists/d7417b2ad6259b1b.json"
     },
     {
-      "rank": 1581,
+      "rank": 1582,
       "id": "4e3b0ffc6c5a305b",
       "name": "アカペラ、一番のみ",
       "secondary": "",
@@ -1512,7 +1557,7 @@
       "detailPath": "entities/artists/4e3b0ffc6c5a305b.json"
     },
     {
-      "rank": 1582,
+      "rank": 1583,
       "id": "4ca4567af6fcbed1",
       "name": "小宵",
       "secondary": "",
@@ -1545,7 +1590,7 @@
       "detailPath": "entities/artists/4ca4567af6fcbed1.json"
     },
     {
-      "rank": 1583,
+      "rank": 1584,
       "id": "006af5df308f6092",
       "name": "星降あめる",
       "secondary": "",
@@ -1578,7 +1623,7 @@
       "detailPath": "entities/artists/006af5df308f6092.json"
     },
     {
-      "rank": 1584,
+      "rank": 1585,
       "id": "befd843a453148ec",
       "name": "星草もゆり",
       "secondary": "",
@@ -1611,7 +1656,7 @@
       "detailPath": "entities/artists/befd843a453148ec.json"
     },
     {
-      "rank": 1585,
+      "rank": 1586,
       "id": "d61a504645c3c9ce",
       "name": "眩暈SIREN",
       "secondary": "",
@@ -1641,7 +1686,7 @@
       "detailPath": "entities/artists/d61a504645c3c9ce.json"
     },
     {
-      "rank": 1586,
+      "rank": 1587,
       "id": "df72560c3f16988e",
       "name": "『魔法少女まどか☆マギカ』",
       "secondary": "",
@@ -1698,7 +1743,7 @@
       "detailPath": "entities/artists/df72560c3f16988e.json"
     },
     {
-      "rank": 1587,
+      "rank": 1588,
       "id": "c765c08c51f6448b",
       "name": "@810rian",
       "secondary": "",
@@ -1752,7 +1797,7 @@
       "detailPath": "entities/artists/c765c08c51f6448b.json"
     },
     {
-      "rank": 1588,
+      "rank": 1589,
       "id": "6ad3c50a710d32e8",
       "name": "@chino_pretzel",
       "secondary": "",
@@ -1806,7 +1851,7 @@
       "detailPath": "entities/artists/6ad3c50a710d32e8.json"
     },
     {
-      "rank": 1589,
+      "rank": 1590,
       "id": "11904586f62e45e1",
       "name": "@harubeni_imo",
       "secondary": "",
@@ -1860,7 +1905,7 @@
       "detailPath": "entities/artists/11904586f62e45e1.json"
     },
     {
-      "rank": 1590,
+      "rank": 1591,
       "id": "cdfbd2cb062dec6b",
       "name": "@ssmn_0125",
       "secondary": "",
@@ -1914,7 +1959,7 @@
       "detailPath": "entities/artists/cdfbd2cb062dec6b.json"
     },
     {
-      "rank": 1591,
+      "rank": 1592,
       "id": "1901148960ae4e7a",
       "name": "@suyqris",
       "secondary": "",
@@ -1968,7 +2013,7 @@
       "detailPath": "entities/artists/1901148960ae4e7a.json"
     },
     {
-      "rank": 1592,
+      "rank": 1593,
       "id": "3edd3e1558ebafae",
       "name": "@日本酒サラ",
       "secondary": "",
@@ -2022,7 +2067,7 @@
       "detailPath": "entities/artists/3edd3e1558ebafae.json"
     },
     {
-      "rank": 1593,
+      "rank": 1594,
       "id": "0e01287362e60bf1",
       "name": "04 Limited Sazabys",
       "secondary": "",
@@ -2079,7 +2124,7 @@
       "detailPath": "entities/artists/0e01287362e60bf1.json"
     },
     {
-      "rank": 1594,
+      "rank": 1595,
       "id": "ff1cc67382f266f5",
       "name": "1640mP .feat初音ミク",
       "secondary": "",
@@ -2137,7 +2182,7 @@
       "detailPath": "entities/artists/ff1cc67382f266f5.json"
     },
     {
-      "rank": 1595,
+      "rank": 1596,
       "id": "3b26d8371e6d5e7e",
       "name": "30 23:59迄！！",
       "secondary": "",
@@ -2191,7 +2236,7 @@
       "detailPath": "entities/artists/3b26d8371e6d5e7e.json"
     },
     {
-      "rank": 1596,
+      "rank": 1597,
       "id": "f400178ec889916d",
       "name": "31",
       "secondary": "",
@@ -2245,7 +2290,7 @@
       "detailPath": "entities/artists/f400178ec889916d.json"
     },
     {
-      "rank": 1597,
+      "rank": 1598,
       "id": "194fc0ba0d295e3e",
       "name": "40mP feat.GUMI ※JOYSOUND",
       "secondary": "",
@@ -2302,7 +2347,7 @@
       "detailPath": "entities/artists/194fc0ba0d295e3e.json"
     },
     {
-      "rank": 1598,
+      "rank": 1599,
       "id": "be41a62d8e57b329",
       "name": "4Luxury",
       "secondary": "",
@@ -2359,7 +2404,7 @@
       "detailPath": "entities/artists/be41a62d8e57b329.json"
     },
     {
-      "rank": 1599,
+      "rank": 1600,
       "id": "ecdd15121ee57b5e",
       "name": "9mm Parabellum Bullet",
       "secondary": "",
@@ -2414,63 +2459,6 @@
         }
       ],
       "detailPath": "entities/artists/ecdd15121ee57b5e.json"
-    },
-    {
-      "rank": 1600,
-      "id": "89686d63dcb37472",
-      "name": "Alan",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 4,
-      "songCount": 2,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XHb0_1sHRLE",
-          "videoTitle": "ガチぶいVO3 出るから 普段 歌ってる人の フリしないと【歌枠配信】",
-          "channelName": "四ッ谷やえ-Yotuya yae-",
-          "publishedAt": "2026-10-03T14:53:59.684Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XHb0_1sHRLE/hqdefault.jpg",
-          "sourcePath": "sources/XH/XHb0_1sHRLE.json",
-          "time": "0:05:15",
-          "seconds": 315,
-          "songTitle": "Over the clouds",
-          "artist": "alan"
-        },
-        {
-          "videoId": "qIdcEUzLy3Q",
-          "videoTitle": "【歌枠┊KARAOKE】エモ黄昏、アニソン・J-POP 初見さんも大歓迎！【Vsinger Vtuber┊御神楽すずめ】",
-          "channelName": "御神楽すずめ / Mikagura Suzume",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qIdcEUzLy3Q/hqdefault.jpg",
-          "sourcePath": "sources/qI/qIdcEUzLy3Q.json",
-          "time": "1:34:26",
-          "seconds": 5666,
-          "songTitle": "my life",
-          "artist": "alan"
-        },
-        {
-          "videoId": "cC2M-fCdfnE",
-          "videoTitle": "【#歌枠】リクエストください！深夜のお家カラオケ JOYSOUND for STREAMERをつかってみる！!【#空乃ひめか】",
-          "channelName": "空乃ひめか",
-          "publishedAt": "2026-09-24T19:34:34.985Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cC2M-fCdfnE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCx_VlbgBf9Ertuu3bmgwhKJzTVnQ",
-          "sourcePath": "sources/cC/cC2M-fCdfnE.json",
-          "time": "1:49:48",
-          "seconds": 6588,
-          "songTitle": "Over the clouds",
-          "artist": "alan"
-        }
-      ],
-      "detailPath": "entities/artists/89686d63dcb37472.json"
     }
   ]
 }
