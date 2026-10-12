@@ -1,16 +1,70 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "songs",
   "page": 188,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52857,
+  "totalCount": 52870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9351,
+      "id": "497eb109c92b1c3c",
+      "name": "配信枠:https",
+      "secondary": "www.youtube.com/live/a7o7fkzN",
+      "channelId": "UCmReIad5h8lvyD4wIxWd_fg",
+      "channelHandle": "@futokage",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "PrhF-MvjrNg",
+          "videoTitle": "【エンドレスサマー歌祭】風の狼、歌います…！【ケモV / 風狼 サキ】",
+          "channelName": "風狼 サキ",
+          "publishedAt": "2026-08-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PrhF-MvjrNg/hqdefault.jpg",
+          "sourcePath": "sources/Pr/PrhF-MvjrNg.json",
+          "time": "0:20:30",
+          "seconds": 1230,
+          "songTitle": "配信枠:https",
+          "artist": "www.youtube.com/live/a7o7fkzN"
+        },
+        {
+          "videoId": "AahmLK9meyA",
+          "videoTitle": "【歌配信】エンドレスサマー歌祭 1日目【2DAYS 歌枠リレー】",
+          "channelName": "太影-FUTOKAGE-",
+          "publishedAt": "2026-08-29T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AahmLK9meyA/hqdefault.jpg",
+          "sourcePath": "sources/Aa/AahmLK9meyA.json",
+          "time": "0:20:30",
+          "seconds": 1230,
+          "songTitle": "配信枠:https",
+          "artist": "www.youtube.com/live/a7o7fkzN"
+        },
+        {
+          "videoId": "E0T96PJE3k8",
+          "videoTitle": "【歌枠リレー】ケモアイドル、かわいい曲だけ歌います。【エンドレスサマー歌祭】",
+          "channelName": "星音ユウ Vtuber",
+          "publishedAt": "2026-08-29T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/E0T96PJE3k8/hqdefault.jpg",
+          "sourcePath": "sources/E0/E0T96PJE3k8.json",
+          "time": "0:20:30",
+          "seconds": 1230,
+          "songTitle": "配信枠:https",
+          "artist": "www.youtube.com/live/a7o7fkzN"
+        }
+      ],
+      "detailPath": "entities/songs/497eb109c92b1c3c.json"
+    },
+    {
+      "rank": 9352,
       "id": "bff0e7bbb1452495",
       "name": "配信枠:https",
       "secondary": "www.youtube.com/live/2VSKgNsp",
@@ -64,7 +118,7 @@
       "detailPath": "entities/songs/bff0e7bbb1452495.json"
     },
     {
-      "rank": 9352,
+      "rank": 9353,
       "id": "b3dcfd895c782c17",
       "name": "配信枠:https",
       "secondary": "www.youtube.com/live/AahmLK9m",
@@ -118,7 +172,7 @@
       "detailPath": "entities/songs/b3dcfd895c782c17.json"
     },
     {
-      "rank": 9353,
+      "rank": 9354,
       "id": "323171efbdfabb38",
       "name": "伯方の塩",
       "secondary": "未記載",
@@ -176,7 +230,7 @@
       "detailPath": "entities/songs/323171efbdfabb38.json"
     },
     {
-      "rank": 9354,
+      "rank": 9355,
       "id": "63e1a0907c2d7648",
       "name": "白い雪のプリンセス",
       "secondary": "",
@@ -233,7 +287,7 @@
       "detailPath": "entities/songs/63e1a0907c2d7648.json"
     },
     {
-      "rank": 9355,
+      "rank": 9356,
       "id": "98090ef13a72f68c",
       "name": "白い雪のプリンセスは",
       "secondary": "未記載",
@@ -291,7 +345,7 @@
       "detailPath": "entities/songs/98090ef13a72f68c.json"
     },
     {
-      "rank": 9356,
+      "rank": 9357,
       "id": "89aa2126890f772c",
       "name": "白くまは左利き",
       "secondary": "萌水団",
@@ -351,7 +405,7 @@
       "detailPath": "entities/songs/89aa2126890f772c.json"
     },
     {
-      "rank": 9357,
+      "rank": 9358,
       "id": "a441f3101d585b44",
       "name": "白線",
       "secondary": "初星学園",
@@ -411,7 +465,7 @@
       "detailPath": "entities/songs/a441f3101d585b44.json"
     },
     {
-      "rank": 9358,
+      "rank": 9359,
       "id": "e2204121ff4c6a70",
       "name": "白線",
       "secondary": "葛城リーリヤ(花岩香奈)",
@@ -469,7 +523,7 @@
       "detailPath": "entities/songs/e2204121ff4c6a70.json"
     },
     {
-      "rank": 9359,
+      "rank": 9360,
       "id": "eb0baa81c46671e6",
       "name": "薄ら氷心中",
       "secondary": "椎名林檎",
@@ -528,7 +582,7 @@
       "detailPath": "entities/songs/eb0baa81c46671e6.json"
     },
     {
-      "rank": 9360,
+      "rank": 9361,
       "id": "0162306c4af70283",
       "name": "薄氷かさね",
       "secondary": "",
@@ -582,7 +636,7 @@
       "detailPath": "entities/songs/0162306c4af70283.json"
     },
     {
-      "rank": 9361,
+      "rank": 9362,
       "id": "203b9f86f3e98f5e",
       "name": "爆◯音頭",
       "secondary": "爆◯三国志",
@@ -641,7 +695,7 @@
       "detailPath": "entities/songs/203b9f86f3e98f5e.json"
     },
     {
-      "rank": 9362,
+      "rank": 9363,
       "id": "2c2dce4960712a53",
       "name": "爆裂愛してる",
       "secondary": "MiLK",
@@ -698,7 +752,7 @@
       "detailPath": "entities/songs/2c2dce4960712a53.json"
     },
     {
-      "rank": 9363,
+      "rank": 9364,
       "id": "2e29d7461fb74a4e",
       "name": "爆裂愛してる・Bakuretsu Aishiteru",
       "secondary": "M!LK",
@@ -758,7 +812,7 @@
       "detailPath": "entities/songs/2e29d7461fb74a4e.json"
     },
     {
-      "rank": 9364,
+      "rank": 9365,
       "id": "d9e1c791afdd41c4",
       "name": "抜錨",
       "secondary": "未記載",
@@ -815,7 +869,7 @@
       "detailPath": "entities/songs/d9e1c791afdd41c4.json"
     },
     {
-      "rank": 9365,
+      "rank": 9366,
       "id": "ca9000260ce23331",
       "name": "抜錨",
       "secondary": "巡音ルカ - ナナホシ管弦楽団",
@@ -873,7 +927,7 @@
       "detailPath": "entities/songs/ca9000260ce23331.json"
     },
     {
-      "rank": 9366,
+      "rank": 9367,
       "id": "b4456bb4f021b402",
       "name": "半透明",
       "secondary": "獅子志司",
@@ -930,7 +984,7 @@
       "detailPath": "entities/songs/b4456bb4f021b402.json"
     },
     {
-      "rank": 9367,
+      "rank": 9368,
       "id": "923abee2188b03c4",
       "name": "晩夏（ひとりの季節）",
       "secondary": "荒井由実",
@@ -987,7 +1041,7 @@
       "detailPath": "entities/songs/923abee2188b03c4.json"
     },
     {
-      "rank": 9368,
+      "rank": 9369,
       "id": "5e738550206374df",
       "name": "番凩",
       "secondary": "仕事してP",
@@ -1044,7 +1098,7 @@
       "detailPath": "entities/songs/5e738550206374df.json"
     },
     {
-      "rank": 9369,
+      "rank": 9370,
       "id": "4fde4ed3feac1635",
       "name": "彼の落書き",
       "secondary": "aiko",
@@ -1104,7 +1158,7 @@
       "detailPath": "entities/songs/4fde4ed3feac1635.json"
     },
     {
-      "rank": 9370,
+      "rank": 9371,
       "id": "66c84cce76e38435",
       "name": "彼氏はいません今夜だけ",
       "secondary": "コレサワ",
@@ -1164,7 +1218,7 @@
       "detailPath": "entities/songs/66c84cce76e38435.json"
     },
     {
-      "rank": 9371,
+      "rank": 9372,
       "id": "63a839d7ab545955",
       "name": "彼女になれますか?",
       "secondary": "AKB48",
@@ -1221,7 +1275,7 @@
       "detailPath": "entities/songs/63a839d7ab545955.json"
     },
     {
-      "rank": 9372,
+      "rank": 9373,
       "id": "987518bf7fb44da6",
       "name": "悲しみのキズ",
       "secondary": "北出菜奈",
@@ -1281,7 +1335,64 @@
       "detailPath": "entities/songs/987518bf7fb44da6.json"
     },
     {
-      "rank": 9373,
+      "rank": 9374,
+      "id": "5dbd9671dc1216e3",
+      "name": "悲しみの果て",
+      "secondary": "エレファントカシマシ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "9Uop__mtsFg",
+          "videoTitle": "【実写歌枠】同接50人&高評価100目標！たくさん広まれ俺の歌！！【イザナギ・エルヴァ】",
+          "channelName": "イザナギ・エルヴァ / IZANAGI ELVA",
+          "publishedAt": "2026-10-04T15:00:50.452Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9Uop__mtsFg/hqdefault.jpg",
+          "sourcePath": "sources/9U/9Uop__mtsFg.json",
+          "time": "1:04:52",
+          "seconds": 3892,
+          "songTitle": "悲しみの果て",
+          "artist": "エレファントカシマシ"
+        },
+        {
+          "videoId": "SwujufjHZtI",
+          "videoTitle": "【 歌枠 / Karaoke 】初見さん・ROM専さん大歓迎！常連も盛り上がる歌枠【 #黄ノ瀬オブリ 】",
+          "channelName": "黄ノ瀬 オブリ - Obbli Kinose -",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SwujufjHZtI/hqdefault.jpg",
+          "sourcePath": "sources/Sw/SwujufjHZtI.json",
+          "time": "1:27:33",
+          "seconds": 5253,
+          "songTitle": "悲しみの果て",
+          "artist": "エレファントカシマシ"
+        },
+        {
+          "videoId": "vbW1w95JbGM",
+          "videoTitle": "【縦型歌枠】憂鬱な雨の日に送るあげあげ歌枠🚙【 ナナホシナナ 】",
+          "channelName": "Nana CH. /ナナホシ ナナ",
+          "publishedAt": "2026-08-27T15:50:13.758Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vbW1w95JbGM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8DkKl7FcTUaotMPhSTFtpHZELDA",
+          "sourcePath": "sources/vb/vbW1w95JbGM.json",
+          "time": "0:36:00",
+          "seconds": 2160,
+          "songTitle": "悲しみの果て",
+          "artist": "エレファントカシマシ"
+        }
+      ],
+      "detailPath": "entities/songs/5dbd9671dc1216e3.json"
+    },
+    {
+      "rank": 9375,
       "id": "889c679c1204e44d",
       "name": "悲しみは雪のように",
       "secondary": "浜田省吾",
@@ -1338,7 +1449,7 @@
       "detailPath": "entities/songs/889c679c1204e44d.json"
     },
     {
-      "rank": 9374,
+      "rank": 9376,
       "id": "f3f56eb0ef2d9eae",
       "name": "悲しみよこんにちは",
       "secondary": "",
@@ -1392,7 +1503,7 @@
       "detailPath": "entities/songs/f3f56eb0ef2d9eae.json"
     },
     {
-      "rank": 9375,
+      "rank": 9377,
       "id": "995d704a852859b5",
       "name": "秘密",
       "secondary": "SUPER BEAVER",
@@ -1451,7 +1562,7 @@
       "detailPath": "entities/songs/995d704a852859b5.json"
     },
     {
-      "rank": 9376,
+      "rank": 9378,
       "id": "94a5593166ce7671",
       "name": "秘密く・だ・さ・い",
       "secondary": "宮里久美",
@@ -1509,7 +1620,7 @@
       "detailPath": "entities/songs/94a5593166ce7671.json"
     },
     {
-      "rank": 9377,
+      "rank": 9379,
       "id": "bbd86b0fd5f9257b",
       "name": "秘密の扉から会いに来て",
       "secondary": "田村ゆかり",
@@ -1567,7 +1678,7 @@
       "detailPath": "entities/songs/bbd86b0fd5f9257b.json"
     },
     {
-      "rank": 9378,
+      "rank": 9380,
       "id": "46f63dd56109f5ea",
       "name": "非実在系のわたし達",
       "secondary": "綾瀬理恵",
@@ -1624,7 +1735,7 @@
       "detailPath": "entities/songs/46f63dd56109f5ea.json"
     },
     {
-      "rank": 9379,
+      "rank": 9381,
       "id": "9cbc47f3945ca6df",
       "name": "飛ぶ時",
       "secondary": "Vaundy（ワンコーラス）",
@@ -1681,7 +1792,7 @@
       "detailPath": "entities/songs/9cbc47f3945ca6df.json"
     },
     {
-      "rank": 9380,
+      "rank": 9382,
       "id": "5e45efe427b7f260",
       "name": "微笑みの爆弾",
       "secondary": "",
@@ -1738,7 +1849,7 @@
       "detailPath": "entities/songs/5e45efe427b7f260.json"
     },
     {
-      "rank": 9381,
+      "rank": 9383,
       "id": "e236c38a1c32a7dc",
       "name": "美しい鰭",
       "secondary": "SPITZ",
@@ -1796,7 +1907,7 @@
       "detailPath": "entities/songs/e236c38a1c32a7dc.json"
     },
     {
-      "rank": 9382,
+      "rank": 9384,
       "id": "f81515818a1d2e18",
       "name": "美女と野獣",
       "secondary": "昆夏美＆山崎育三郎",
@@ -1855,7 +1966,7 @@
       "detailPath": "entities/songs/f81515818a1d2e18.json"
     },
     {
-      "rank": 9383,
+      "rank": 9385,
       "id": "1a8f64578af31b72",
       "name": "美少女無罪・パイレーツ",
       "secondary": "宝鐘マリン ※JOYSOUND",
@@ -1915,7 +2026,7 @@
       "detailPath": "entities/songs/1a8f64578af31b72.json"
     },
     {
-      "rank": 9384,
+      "rank": 9386,
       "id": "7438651d74bbe727",
       "name": "百花繚乱",
       "secondary": "",
@@ -1972,7 +2083,7 @@
       "detailPath": "entities/songs/7438651d74bbe727.json"
     },
     {
-      "rank": 9385,
+      "rank": 9387,
       "id": "a564f6f6ee2a1b54",
       "name": "百花繚乱ファンタズム",
       "secondary": "真理絵",
@@ -2029,7 +2140,7 @@
       "detailPath": "entities/songs/a564f6f6ee2a1b54.json"
     },
     {
-      "rank": 9386,
+      "rank": 9388,
       "id": "746666aeaddb1672",
       "name": "百合園える",
       "secondary": "",
@@ -2086,7 +2197,7 @@
       "detailPath": "entities/songs/746666aeaddb1672.json"
     },
     {
-      "rank": 9387,
+      "rank": 9389,
       "id": "9eb4fbbd2749684c",
       "name": "標",
       "secondary": "初星学園",
@@ -2143,7 +2254,7 @@
       "detailPath": "entities/songs/9eb4fbbd2749684c.json"
     },
     {
-      "rank": 9388,
+      "rank": 9390,
       "id": "3b19b18ce41f89db",
       "name": "秒針",
       "secondary": "nqrse",
@@ -2203,7 +2314,7 @@
       "detailPath": "entities/songs/3b19b18ce41f89db.json"
     },
     {
-      "rank": 9389,
+      "rank": 9391,
       "id": "b6633e7a8d71751b",
       "name": "不可解",
       "secondary": "花譜",
@@ -2261,7 +2372,7 @@
       "detailPath": "entities/songs/b6633e7a8d71751b.json"
     },
     {
-      "rank": 9390,
+      "rank": 9392,
       "id": "9671babb82ab6d5c",
       "name": "不可幸力",
       "secondary": "",
@@ -2318,7 +2429,7 @@
       "detailPath": "entities/songs/9671babb82ab6d5c.json"
     },
     {
-      "rank": 9391,
+      "rank": 9393,
       "id": "a568986d2853bfca",
       "name": "不可思議のカルテ",
       "secondary": "",
@@ -2375,7 +2486,7 @@
       "detailPath": "entities/songs/a568986d2853bfca.json"
     },
     {
-      "rank": 9392,
+      "rank": 9394,
       "id": "84c129499e88f0c3",
       "name": "不死鳥のフランメ",
       "secondary": "日笠陽子×水樹奈々",
@@ -2434,7 +2545,7 @@
       "detailPath": "entities/songs/84c129499e88f0c3.json"
     },
     {
-      "rank": 9393,
+      "rank": 9395,
       "id": "6e70de01b334fcd5",
       "name": "不自然なガール",
       "secondary": "Perfume",
@@ -2493,7 +2604,7 @@
       "detailPath": "entities/songs/6e70de01b334fcd5.json"
     },
     {
-      "rank": 9394,
+      "rank": 9396,
       "id": "6cbab2caff6ce243",
       "name": "富士サファリパークCMソング",
       "secondary": "串田アキラ",
@@ -2553,7 +2664,7 @@
       "detailPath": "entities/songs/6cbab2caff6ce243.json"
     },
     {
-      "rank": 9395,
+      "rank": 9397,
       "id": "8be06af07d2ae930",
       "name": "浮気されたけどまだ好きって曲",
       "secondary": "りりあ。",
@@ -2612,7 +2723,7 @@
       "detailPath": "entities/songs/8be06af07d2ae930.json"
     },
     {
-      "rank": 9396,
+      "rank": 9398,
       "id": "e58abd53c37131a1",
       "name": "負け犬にアンコールはいらない",
       "secondary": "",
@@ -2669,7 +2780,7 @@
       "detailPath": "entities/songs/e58abd53c37131a1.json"
     },
     {
-      "rank": 9397,
+      "rank": 9399,
       "id": "72844f53c8516d9e",
       "name": "楓／ｽﾋﾟｯﾂ",
       "secondary": "",
@@ -2727,7 +2838,7 @@
       "detailPath": "entities/songs/72844f53c8516d9e.json"
     },
     {
-      "rank": 9398,
+      "rank": 9400,
       "id": "96f5141d6fa578b2",
       "name": "風が吹いている",
       "secondary": "いきものがかり",
@@ -2782,122 +2893,6 @@
         }
       ],
       "detailPath": "entities/songs/96f5141d6fa578b2.json"
-    },
-    {
-      "rank": 9399,
-      "id": "03b4708941400de3",
-      "name": "風と町",
-      "secondary": "Mrs. GREEN APPLEｻﾝ",
-      "channelId": "UCnLHUdfjsxzP6nGz5hbbdqg",
-      "channelHandle": "@tadanokaeru",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XxQTOw2bJ5k",
-          "videoTitle": "【#歌枠 #弾き語り 】リクエスト大歓迎！ #vtuber",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-09-13T15:03:10.653Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XxQTOw2bJ5k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDT4x-Q-ToZ3i8ahiIWtY8W2o8qZA",
-          "sourcePath": "sources/Xx/XxQTOw2bJ5k.json",
-          "time": "1:04:00",
-          "seconds": 3840,
-          "songTitle": "風と町",
-          "artist": "Mrs. GREEN APPLEｻﾝ"
-        },
-        {
-          "videoId": "CKU7z_0ZRDI",
-          "videoTitle": "【#歌枠】1時間くらい #vtuber",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-07-14T15:13:11.105Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/CKU7z_0ZRDI/hqdefault.jpg",
-          "sourcePath": "sources/CK/CKU7z_0ZRDI.json",
-          "time": "0:03:47",
-          "seconds": 227,
-          "songTitle": "風と町",
-          "artist": "Mrs. GREEN APPLEｻﾝ"
-        },
-        {
-          "videoId": "0IFMjbr8b9g",
-          "videoTitle": "【#歌枠 #弾き語り 】22時まで #vtuber",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-07-06T06:34:22.931Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0IFMjbr8b9g/hqdefault.jpg",
-          "sourcePath": "sources/0I/0IFMjbr8b9g.json",
-          "time": "0:48:08",
-          "seconds": 2888,
-          "songTitle": "風と町",
-          "artist": "Mrs. GREEN APPLEｻﾝ"
-        }
-      ],
-      "detailPath": "entities/songs/03b4708941400de3.json"
-    },
-    {
-      "rank": 9400,
-      "id": "653aa9e66920630a",
-      "name": "風になりたい",
-      "secondary": "THE BOOM",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ptbXDGKz1Bs",
-          "videoTitle": "【 #歌枠 / KARAOKE 】1週間の疲れを癒す二度寝推奨バラード歌枠♪初見さんROM専さんも大歓迎♡【 Vsinger / #織夢りちぇ 】",
-          "channelName": "織夢りちぇ🦄🐰- Riche Ch.",
-          "publishedAt": "2026-10-03T04:40:16.406Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ptbXDGKz1Bs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAF0hDUeEBsaXt4WUSJzvaCn2HeBg",
-          "sourcePath": "sources/pt/ptbXDGKz1Bs.json",
-          "time": "1:57:23",
-          "seconds": 7043,
-          "songTitle": "風になりたい",
-          "artist": "THE BOOM"
-        },
-        {
-          "videoId": "LqcKw6dPGEM",
-          "videoTitle": "【歌枠 / KARAOKE】80～90年代J-POP🍪懐メロっていいなぁ🍑【 #もかん #vtuber #vsinger】",
-          "channelName": "もかん ch / Mokan",
-          "publishedAt": "2026-09-03T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LqcKw6dPGEM/hqdefault.jpg",
-          "sourcePath": "sources/Lq/LqcKw6dPGEM.json",
-          "time": "0:49:49",
-          "seconds": 2989,
-          "songTitle": "風になりたい",
-          "artist": "THE BOOM"
-        },
-        {
-          "videoId": "FcOsUQB62Is",
-          "videoTitle": "【 #歌枠 】 昭和～平成初期が似合うおトイレ 【オマル・ド・ボンヌ】",
-          "channelName": "オマル・ド・ボンヌ",
-          "publishedAt": "2026-08-25T15:06:00.389Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FcOsUQB62Is/hqdefault.jpg",
-          "sourcePath": "sources/Fc/FcOsUQB62Is.json",
-          "time": "0:38:36",
-          "seconds": 2316,
-          "songTitle": "風になりたい",
-          "artist": "THE BOOM"
-        }
-      ],
-      "detailPath": "entities/songs/653aa9e66920630a.json"
     }
   ]
 }

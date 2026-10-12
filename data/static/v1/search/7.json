@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "items": [
     {
       "id": "78330f06194d369f",
@@ -239,8 +239,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 11,
-          "videoCount": 11
+          "occurrenceCount": 10,
+          "videoCount": 10
         },
         "30d": {
           "occurrenceCount": 134,
@@ -3193,8 +3193,8 @@
       "type": "songs",
       "name": "パレード",
       "secondary": "ヨルシカ",
-      "occurrenceCount": 92,
-      "videoCount": 90,
+      "occurrenceCount": 93,
+      "videoCount": 91,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -3208,8 +3208,8 @@
       "detailPath": "entities/songs/728b152544363585.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 31,
-          "videoCount": 31
+          "occurrenceCount": 32,
+          "videoCount": 32
         }
       },
       "text": "パレードヨルシカ"
@@ -3715,8 +3715,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 2,
-          "videoCount": 2
+          "occurrenceCount": 1,
+          "videoCount": 1
         },
         "30d": {
           "occurrenceCount": 10,
@@ -5154,8 +5154,8 @@
       "type": "songs",
       "name": "ソワレ",
       "secondary": "星街すいせい",
-      "occurrenceCount": 83,
-      "videoCount": 83,
+      "occurrenceCount": 84,
+      "videoCount": 84,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -5173,8 +5173,8 @@
           "videoCount": 4
         },
         "30d": {
-          "occurrenceCount": 37,
-          "videoCount": 37
+          "occurrenceCount": 38,
+          "videoCount": 38
         }
       },
       "text": "ソワレ星街すいせい"
@@ -5749,15 +5749,22 @@
       "type": "songs",
       "name": "初期衝動",
       "secondary": "ロマニードットアイオー",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
-        "month"
+        "month",
+        "mygit今日快照",
+        "弾き語り"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/76ef7f65457d7f54.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "初期衝動ロマニードットアイオー"
     },
     {
@@ -8796,10 +8803,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/70c55a5212636241.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 5,
           "videoCount": 5
@@ -112549,6 +112552,31 @@
         }
       },
       "text": "餅付ぬるぽmochitukenullpo"
+    },
+    {
+      "id": "73218f34898bfde3",
+      "channelId": "UCSA-NLHfTehPC6JceCileLg",
+      "channelHandle": "@nekonomeme",
+      "channelUrl": "",
+      "type": "vtubers",
+      "name": "MusicStudio猫乃メメ",
+      "secondary": "",
+      "occurrenceCount": 17,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/vtubers/73218f34898bfde3.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 17,
+          "videoCount": 1
+        }
+      },
+      "text": "musicstudio猫乃メメ"
     },
     {
       "id": "78792d31d6ce1b64",

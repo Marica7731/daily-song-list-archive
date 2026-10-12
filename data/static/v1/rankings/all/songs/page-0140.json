@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "songs",
   "page": 140,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52857,
+  "totalCount": 52870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6951,
+      "id": "589ed5f317224170",
+      "name": "面影ワープ",
+      "secondary": "nano.RIPE",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "z19JtYSJUIc",
+          "videoTitle": "【歌枠#18】7月テーマ「アニメ」【沙那依さな/VTuber】",
+          "channelName": "沙那依さな",
+          "publishedAt": "2026-10-02T18:26:25.634Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/z19JtYSJUIc/hqdefault.jpg",
+          "sourcePath": "sources/z1/z19JtYSJUIc.json",
+          "time": "1:25:15",
+          "seconds": 5115,
+          "songTitle": "面影ワープ",
+          "artist": "nano.RIPE"
+        },
+        {
+          "videoId": "7LO5Jbx1F54",
+          "videoTitle": "【 歌枠 】ま、ゆっくりしてってよ。🍵／定期歌枠 #91 【 惑世いと┆#vtuber 】",
+          "channelName": "惑世いと - wakuse ito-",
+          "publishedAt": "2026-10-02T12:51:11.612Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/7LO5Jbx1F54/hqdefault.jpg",
+          "sourcePath": "sources/7L/7LO5Jbx1F54.json",
+          "time": "0:27:21",
+          "seconds": 1641,
+          "songTitle": "面影ワープ",
+          "artist": "nano.RIPE"
+        },
+        {
+          "videoId": "qQd8rgZXWdg",
+          "videoTitle": "〖 #歌枠￤KARAOKE 〗アニソン￤JPOP 夜のひと時を一緒に過ごそ？🌙 #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+          "channelName": "魔ノむえる -Mano Mueru-",
+          "publishedAt": "2026-09-05T16:12:20.431Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qQd8rgZXWdg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOIfbNXB3hIPVo-gwfYYwNyTjvFA",
+          "sourcePath": "sources/qQ/qQd8rgZXWdg.json",
+          "time": "1:39:23",
+          "seconds": 5963,
+          "songTitle": "面影ワープ",
+          "artist": "Nano.RIPE"
+        }
+      ],
+      "detailPath": "entities/songs/589ed5f317224170.json"
+    },
+    {
+      "rank": 6952,
       "id": "eb6dc5c0e12d6299",
       "name": "木枯らしに抱かれて",
       "secondary": "小泉今日子",
@@ -71,7 +128,7 @@
       "detailPath": "entities/songs/eb6dc5c0e12d6299.json"
     },
     {
-      "rank": 6952,
+      "rank": 6953,
       "id": "16d665b074b7ed10",
       "name": "目抜き通り",
       "secondary": "椎名林檎とトータス松本",
@@ -125,7 +182,7 @@
       "detailPath": "entities/songs/16d665b074b7ed10.json"
     },
     {
-      "rank": 6953,
+      "rank": 6954,
       "id": "894900fb0cf1052a",
       "name": "勿忘",
       "secondary": "Awesome City Club",
@@ -185,7 +242,7 @@
       "detailPath": "entities/songs/894900fb0cf1052a.json"
     },
     {
-      "rank": 6954,
+      "rank": 6955,
       "id": "c2ea6fc9ca18895c",
       "name": "夜",
       "secondary": "",
@@ -239,7 +296,7 @@
       "detailPath": "entities/songs/c2ea6fc9ca18895c.json"
     },
     {
-      "rank": 6955,
+      "rank": 6956,
       "id": "19942aea2ae0975f",
       "name": "夜にダンス",
       "secondary": "フレンズ",
@@ -297,7 +354,7 @@
       "detailPath": "entities/songs/19942aea2ae0975f.json"
     },
     {
-      "rank": 6956,
+      "rank": 6957,
       "id": "0af731cf54c1a2ea",
       "name": "夜の歌",
       "secondary": "大道寺知世(岩男潤子)",
@@ -354,7 +411,7 @@
       "detailPath": "entities/songs/0af731cf54c1a2ea.json"
     },
     {
-      "rank": 6957,
+      "rank": 6958,
       "id": "d27488627307ec13",
       "name": "夜の部",
       "secondary": "",
@@ -411,7 +468,7 @@
       "detailPath": "entities/songs/d27488627307ec13.json"
     },
     {
-      "rank": 6958,
+      "rank": 6959,
       "id": "ed7eb84dca6b2081",
       "name": "夜もすがら君想う",
       "secondary": "西沢さんP",
@@ -468,7 +525,7 @@
       "detailPath": "entities/songs/ed7eb84dca6b2081.json"
     },
     {
-      "rank": 6959,
+      "rank": 6960,
       "id": "cb85ef6c6c936a37",
       "name": "夜もすがら君想ふ",
       "secondary": "西沢さんP feat.GUMI",
@@ -528,7 +585,7 @@
       "detailPath": "entities/songs/cb85ef6c6c936a37.json"
     },
     {
-      "rank": 6960,
+      "rank": 6961,
       "id": "90d64211bacf2188",
       "name": "夜空",
       "secondary": "鈴木みのり",
@@ -586,7 +643,7 @@
       "detailPath": "entities/songs/90d64211bacf2188.json"
     },
     {
-      "rank": 6961,
+      "rank": 6962,
       "id": "c69b3d790de63ddb",
       "name": "夜撫でるメノウ",
       "secondary": "未記載",
@@ -643,7 +700,7 @@
       "detailPath": "entities/songs/c69b3d790de63ddb.json"
     },
     {
-      "rank": 6962,
+      "rank": 6963,
       "id": "569120e4310c5442",
       "name": "夜明けと蛍",
       "secondary": "n-buna feat.初音ミク ※JOYSOUND",
@@ -700,7 +757,7 @@
       "detailPath": "entities/songs/569120e4310c5442.json"
     },
     {
-      "rank": 6963,
+      "rank": 6964,
       "id": "b391d0064c7a5b60",
       "name": "夜咄ディセイブ",
       "secondary": "じん(自然の敵P)",
@@ -760,7 +817,7 @@
       "detailPath": "entities/songs/b391d0064c7a5b60.json"
     },
     {
-      "rank": 6964,
+      "rank": 6965,
       "id": "cc2ff6ca36f6475e",
       "name": "約束",
       "secondary": "FictionJunction YUUKA",
@@ -820,7 +877,7 @@
       "detailPath": "entities/songs/cc2ff6ca36f6475e.json"
     },
     {
-      "rank": 6965,
+      "rank": 6966,
       "id": "46b4704f2581bddd",
       "name": "優しくキミは微笑んでいた",
       "secondary": "三谷朋世",
@@ -878,7 +935,7 @@
       "detailPath": "entities/songs/46b4704f2581bddd.json"
     },
     {
-      "rank": 6966,
+      "rank": 6967,
       "id": "b4c2e411aee7eaa8",
       "name": "幽霊みたい",
       "secondary": "佐藤乃子",
@@ -936,7 +993,7 @@
       "detailPath": "entities/songs/b4c2e411aee7eaa8.json"
     },
     {
-      "rank": 6967,
+      "rank": 6968,
       "id": "1b13e15a7c89c3ab",
       "name": "憂一乗",
       "secondary": "",
@@ -993,7 +1050,7 @@
       "detailPath": "entities/songs/1b13e15a7c89c3ab.json"
     },
     {
-      "rank": 6968,
+      "rank": 6969,
       "id": "678f83fede320b02",
       "name": "夕景イエスタデイ",
       "secondary": "じん feat. IA",
@@ -1052,7 +1109,7 @@
       "detailPath": "entities/songs/678f83fede320b02.json"
     },
     {
-      "rank": 6969,
+      "rank": 6970,
       "id": "aeec159e84cecf80",
       "name": "夕照禮音",
       "secondary": "",
@@ -1106,7 +1163,7 @@
       "detailPath": "entities/songs/aeec159e84cecf80.json"
     },
     {
-      "rank": 6970,
+      "rank": 6971,
       "id": "9d2373816ab63c6a",
       "name": "妖精",
       "secondary": "シェリル•ノーム",
@@ -1166,7 +1223,7 @@
       "detailPath": "entities/songs/9d2373816ab63c6a.json"
     },
     {
-      "rank": 6971,
+      "rank": 6972,
       "id": "6bca716470665227",
       "name": "踊り子",
       "secondary": "",
@@ -1224,7 +1281,7 @@
       "detailPath": "entities/songs/6bca716470665227.json"
     },
     {
-      "rank": 6972,
+      "rank": 6973,
       "id": "bfb73532e72f2b2a",
       "name": "踊れオーケストラ",
       "secondary": "YASUHIRO",
@@ -1281,7 +1338,7 @@
       "detailPath": "entities/songs/bfb73532e72f2b2a.json"
     },
     {
-      "rank": 6973,
+      "rank": 6974,
       "id": "b89e7604b79cddc1",
       "name": "陽炎",
       "secondary": "フジファブリック",
@@ -1338,7 +1395,7 @@
       "detailPath": "entities/songs/b89e7604b79cddc1.json"
     },
     {
-      "rank": 6974,
+      "rank": 6975,
       "id": "632b1f8de579b8ab",
       "name": "浴槽とネオンテトラ",
       "secondary": "",
@@ -1395,7 +1452,7 @@
       "detailPath": "entities/songs/632b1f8de579b8ab.json"
     },
     {
-      "rank": 6975,
+      "rank": 6976,
       "id": "565851eb61f73877",
       "name": "翼をください",
       "secondary": "林原めぐみ",
@@ -1453,7 +1510,7 @@
       "detailPath": "entities/songs/565851eb61f73877.json"
     },
     {
-      "rank": 6976,
+      "rank": 6977,
       "id": "cf75c235972e7e88",
       "name": "嵐の中で輝いて",
       "secondary": "",
@@ -1510,7 +1567,7 @@
       "detailPath": "entities/songs/cf75c235972e7e88.json"
     },
     {
-      "rank": 6977,
+      "rank": 6978,
       "id": "4dca7547e9f672af",
       "name": "濫觴生命",
       "secondary": "Orangestar",
@@ -1570,7 +1627,7 @@
       "detailPath": "entities/songs/4dca7547e9f672af.json"
     },
     {
-      "rank": 6978,
+      "rank": 6979,
       "id": "0837c60eed2649de",
       "name": "流星ドリームライン",
       "secondary": "プラズマジカ",
@@ -1628,7 +1685,7 @@
       "detailPath": "entities/songs/0837c60eed2649de.json"
     },
     {
-      "rank": 6979,
+      "rank": 6980,
       "id": "e3fdee4fb3322e70",
       "name": "臨界ダイバー",
       "secondary": "うみろ（こじろー）",
@@ -1687,7 +1744,7 @@
       "detailPath": "entities/songs/e3fdee4fb3322e70.json"
     },
     {
-      "rank": 6980,
+      "rank": 6981,
       "id": "8fc771667251ce4d",
       "name": "臨界ダイバー",
       "secondary": "こじろー",
@@ -1747,7 +1804,7 @@
       "detailPath": "entities/songs/8fc771667251ce4d.json"
     },
     {
-      "rank": 6981,
+      "rank": 6982,
       "id": "5e89acc0fa3b14b2",
       "name": "臨界ダイバー",
       "secondary": "うみろ",
@@ -1804,7 +1861,7 @@
       "detailPath": "entities/songs/5e89acc0fa3b14b2.json"
     },
     {
-      "rank": 6982,
+      "rank": 6983,
       "id": "3babcccba6d9bc52",
       "name": "隣に…",
       "secondary": "三浦あずさ(たかはし智秋)",
@@ -1863,7 +1920,7 @@
       "detailPath": "entities/songs/3babcccba6d9bc52.json"
     },
     {
-      "rank": 6983,
+      "rank": 6984,
       "id": "ade1bbbb90c10be3",
       "name": "涙サプライズ",
       "secondary": "AKB48",
@@ -1921,7 +1978,7 @@
       "detailPath": "entities/songs/ade1bbbb90c10be3.json"
     },
     {
-      "rank": 6984,
+      "rank": 6985,
       "id": "efc6e122ad6c3286",
       "name": "例えば、今此処に置かれた花に",
       "secondary": "164",
@@ -1979,7 +2036,7 @@
       "detailPath": "entities/songs/efc6e122ad6c3286.json"
     },
     {
-      "rank": 6985,
+      "rank": 6986,
       "id": "a5e8721b967a378d",
       "name": "冷たい壁のむこうに",
       "secondary": "yuki",
@@ -2036,7 +2093,7 @@
       "detailPath": "entities/songs/a5e8721b967a378d.json"
     },
     {
-      "rank": 6986,
+      "rank": 6987,
       "id": "78f5208f9c93979e",
       "name": "冷めたアールグレイ",
       "secondary": "まにこ(オリジナル・フル)",
@@ -2093,7 +2150,7 @@
       "detailPath": "entities/songs/78f5208f9c93979e.json"
     },
     {
-      "rank": 6987,
+      "rank": 6988,
       "id": "35b214e747ca8150",
       "name": "劣等上等",
       "secondary": "Giga feat. 鏡音リン,鏡音レン",
@@ -2150,7 +2207,7 @@
       "detailPath": "entities/songs/35b214e747ca8150.json"
     },
     {
-      "rank": 6988,
+      "rank": 6989,
       "id": "dfbc57d8253c9c08",
       "name": "恋☆カナ",
       "secondary": "月島きらり starring久住小春(モーニング娘。)",
@@ -2207,7 +2264,7 @@
       "detailPath": "entities/songs/dfbc57d8253c9c08.json"
     },
     {
-      "rank": 6989,
+      "rank": 6990,
       "id": "9d6f239edd5f58a6",
       "name": "恋する神様",
       "secondary": "Penthouse",
@@ -2264,7 +2321,7 @@
       "detailPath": "entities/songs/9d6f239edd5f58a6.json"
     },
     {
-      "rank": 6990,
+      "rank": 6991,
       "id": "f9bf4ac4ace02c85",
       "name": "恋する地縛霊",
       "secondary": "カノエラナ",
@@ -2324,7 +2381,7 @@
       "detailPath": "entities/songs/f9bf4ac4ace02c85.json"
     },
     {
-      "rank": 6991,
+      "rank": 6992,
       "id": "34682d328e947275",
       "name": "恋におちたら",
       "secondary": "Crystal Kay",
@@ -2384,7 +2441,7 @@
       "detailPath": "entities/songs/34682d328e947275.json"
     },
     {
-      "rank": 6992,
+      "rank": 6993,
       "id": "914a92bbe5b0cc03",
       "name": "恋に落ちて",
       "secondary": "小林明子",
@@ -2444,7 +2501,7 @@
       "detailPath": "entities/songs/914a92bbe5b0cc03.json"
     },
     {
-      "rank": 6993,
+      "rank": 6994,
       "id": "3f48df77d9c0e144",
       "name": "恋に恋して",
       "secondary": "倉木麻衣",
@@ -2504,7 +2561,7 @@
       "detailPath": "entities/songs/3f48df77d9c0e144.json"
     },
     {
-      "rank": 6994,
+      "rank": 6995,
       "id": "bad519937937c3c3",
       "name": "恋のダンスサイト",
       "secondary": "モーニング娘。",
@@ -2564,7 +2621,7 @@
       "detailPath": "entities/songs/bad519937937c3c3.json"
     },
     {
-      "rank": 6995,
+      "rank": 6996,
       "id": "e7041bee476be238",
       "name": "恋のバカンス",
       "secondary": "ザ・ピーナッツ",
@@ -2621,7 +2678,7 @@
       "detailPath": "entities/songs/e7041bee476be238.json"
     },
     {
-      "rank": 6996,
+      "rank": 6997,
       "id": "2f5c6cafee10e317",
       "name": "恋のミクル伝説",
       "secondary": "朝比奈みくる",
@@ -2681,7 +2738,7 @@
       "detailPath": "entities/songs/2f5c6cafee10e317.json"
     },
     {
-      "rank": 6997,
+      "rank": 6998,
       "id": "e9811a9d7903857a",
       "name": "恋ノ行方",
       "secondary": "あかせあかり",
@@ -2740,7 +2797,7 @@
       "detailPath": "entities/songs/e9811a9d7903857a.json"
     },
     {
-      "rank": 6998,
+      "rank": 6999,
       "id": "cf3dcc0fa7aa67db",
       "name": "恋はア・ラ・モード",
       "secondary": "東京ミュウミュウ",
@@ -2797,7 +2854,7 @@
       "detailPath": "entities/songs/cf3dcc0fa7aa67db.json"
     },
     {
-      "rank": 6999,
+      "rank": 7000,
       "id": "98ebc8f0bca335c2",
       "name": "恋は戦争",
       "secondary": "ryo(supercell)",
@@ -2852,63 +2909,6 @@
         }
       ],
       "detailPath": "entities/songs/98ebc8f0bca335c2.json"
-    },
-    {
-      "rank": 7000,
-      "id": "bf0f6265d4aede96",
-      "name": "恋愛フィロソフィア",
-      "secondary": "White Flame",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 4,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "NU2DqTt4ZCM",
-          "videoTitle": "【#歌枠配信 】忘れてしまってない？ 【 #vtuber #vsinger / 乃子 】",
-          "channelName": "乃子-noko-☾·̩͙⋆Vsinger",
-          "publishedAt": "2026-09-16T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/NU2DqTt4ZCM/hqdefault.jpg",
-          "sourcePath": "sources/NU/NU2DqTt4ZCM.json",
-          "time": "0:18:01",
-          "seconds": 1081,
-          "songTitle": "恋愛フィロソフィア",
-          "artist": "WhiteFlame"
-        },
-        {
-          "videoId": "_DRzbQ0ny4o",
-          "videoTitle": "【チャンネル3000人記念歌枠】懐かしボカロ曲気ままに歌う配信【JOYSOUND for STREAMER】",
-          "channelName": "Uraba",
-          "publishedAt": "2026-09-11T13:14:02.543Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_DRzbQ0ny4o/hqdefault.jpg",
-          "sourcePath": "sources/_D/_DRzbQ0ny4o.json",
-          "time": "0:27:45",
-          "seconds": 1665,
-          "songTitle": "恋愛フィロソフィア",
-          "artist": "White Flame"
-        },
-        {
-          "videoId": "bIa6nbAIgVw",
-          "videoTitle": "【 #歌枠 / Karaoke 】平日を生き抜くための歌枠🔥初見さんも大歓迎🙌【 #あかつきるき 】",
-          "channelName": "あかつき るき / Akatsuki Luci",
-          "publishedAt": "2026-09-08T16:36:44.719Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bIa6nbAIgVw/hqdefault.jpg",
-          "sourcePath": "sources/bI/bIa6nbAIgVw.json",
-          "time": "1:20:47",
-          "seconds": 4847,
-          "songTitle": "恋愛フィロソフィア",
-          "artist": "WhiteFlame"
-        }
-      ],
-      "detailPath": "entities/songs/bf0f6265d4aede96.json"
     }
   ]
 }

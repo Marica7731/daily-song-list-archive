@@ -1,16 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "artists",
   "page": 77,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20018,
+  "totalCount": 20021,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3801,
+      "id": "bcc1fa0c8ea3e347",
+      "name": "M2U",
+      "secondary": "",
+      "channelId": "UCvzw0gUNosiKA9mwchAeWlQ",
+      "channelHandle": "@KarakuRinne",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ktMhf3fnpoE",
+          "videoTitle": "【歌枠／弾き語り】チャンネル登録者8888に目指して！お昼のお歌たーいむ！！一曲だけでも聴きに来ませんか？#Vsinger #からくりんね Singing Stream",
+          "channelName": "からくりんね-KarakuRinne",
+          "publishedAt": "2026-09-05T07:58:34.842Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ktMhf3fnpoE/hqdefault.jpg",
+          "sourcePath": "sources/kt/ktMhf3fnpoE.json",
+          "time": "1:24:44",
+          "seconds": 5084,
+          "songTitle": "夜明けの歌",
+          "artist": "M2U"
+        },
+        {
+          "videoId": "jPlzvYEkgPA",
+          "videoTitle": "꒰ 音圧0な歌枠 ꒱ やわらか～に眠気を誘うよ🎐 #宵夢ふわむ #vtuber",
+          "channelName": "宵夢 ふわむ【Fuwamu Ch.】",
+          "publishedAt": "2026-08-19T18:08:00.296Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jPlzvYEkgPA/hqdefault.jpg",
+          "sourcePath": "sources/jP/jPlzvYEkgPA.json",
+          "time": "1:11:26",
+          "seconds": 4286,
+          "songTitle": "夜明けの歌",
+          "artist": "M2U"
+        },
+        {
+          "videoId": "cIbOSwHupEA",
+          "videoTitle": "【歌枠／弾き語り】のんびりお歌の時間だよ～！！🎹🎸Singing Stream【#弾き語り #Vsinger】#からくりんね",
+          "channelName": "からくりんね-KarakuRinne",
+          "publishedAt": "2026-07-02T23:03:56.849Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cIbOSwHupEA/hqdefault.jpg",
+          "sourcePath": "sources/cI/cIbOSwHupEA.json",
+          "time": "0:45:02",
+          "seconds": 2702,
+          "songTitle": "夜明けの歌",
+          "artist": "M2U"
+        }
+      ],
+      "detailPath": "entities/artists/bcc1fa0c8ea3e347.json"
+    },
+    {
+      "rank": 3802,
       "id": "87c218bf3bf9f249",
       "name": "M2U feat.Guriri",
       "secondary": "",
@@ -70,7 +131,7 @@
       "detailPath": "entities/artists/87c218bf3bf9f249.json"
     },
     {
-      "rank": 3802,
+      "rank": 3803,
       "id": "2a6bbf1da2dc98e0",
       "name": "MAGIC OF LiFE",
       "secondary": "",
@@ -130,7 +191,7 @@
       "detailPath": "entities/artists/2a6bbf1da2dc98e0.json"
     },
     {
-      "rank": 3803,
+      "rank": 3804,
       "id": "38e07aedea4e3678",
       "name": "MAISONdes feat. asmi, すりぃ",
       "secondary": "",
@@ -189,7 +250,7 @@
       "detailPath": "entities/artists/38e07aedea4e3678.json"
     },
     {
-      "rank": 3804,
+      "rank": 3805,
       "id": "422de0e00c47f946",
       "name": "MAISONdes feat. 和ぬか, asmi",
       "secondary": "",
@@ -248,7 +309,7 @@
       "detailPath": "entities/artists/422de0e00c47f946.json"
     },
     {
-      "rank": 3805,
+      "rank": 3806,
       "id": "06512cd422cb5114",
       "name": "marasy",
       "secondary": "",
@@ -306,7 +367,7 @@
       "detailPath": "entities/artists/06512cd422cb5114.json"
     },
     {
-      "rank": 3806,
+      "rank": 3807,
       "id": "f2eb6930d1128b55",
       "name": "MARUDARUMA",
       "secondary": "",
@@ -363,7 +424,7 @@
       "detailPath": "entities/artists/f2eb6930d1128b55.json"
     },
     {
-      "rank": 3807,
+      "rank": 3808,
       "id": "17bc1db7d007a0c6",
       "name": "May'n/中島愛 ※JOYSOUND",
       "secondary": "",
@@ -420,7 +481,7 @@
       "detailPath": "entities/artists/17bc1db7d007a0c6.json"
     },
     {
-      "rank": 3808,
+      "rank": 3809,
       "id": "51a34839edb374ae",
       "name": "May'nとシェリル・ノーム",
       "secondary": "",
@@ -480,7 +541,7 @@
       "detailPath": "entities/artists/51a34839edb374ae.json"
     },
     {
-      "rank": 3809,
+      "rank": 3810,
       "id": "6d65c31a505166bd",
       "name": "Mayumi Gojo",
       "secondary": "",
@@ -539,7 +600,7 @@
       "detailPath": "entities/artists/6d65c31a505166bd.json"
     },
     {
-      "rank": 3810,
+      "rank": 3811,
       "id": "e040d876e9c1696d",
       "name": "MAZZEL",
       "secondary": "",
@@ -596,7 +657,7 @@
       "detailPath": "entities/artists/e040d876e9c1696d.json"
     },
     {
-      "rank": 3811,
+      "rank": 3812,
       "id": "262dfda6a8298bbf",
       "name": "me, Stand by you./ 平井大",
       "secondary": "",
@@ -653,7 +714,7 @@
       "detailPath": "entities/artists/262dfda6a8298bbf.json"
     },
     {
-      "rank": 3812,
+      "rank": 3813,
       "id": "464538164b9a43f7",
       "name": "ME:I",
       "secondary": "",
@@ -710,7 +771,7 @@
       "detailPath": "entities/artists/464538164b9a43f7.json"
     },
     {
-      "rank": 3813,
+      "rank": 3814,
       "id": "4b1342cc4bffde8d",
       "name": "MEGUMI",
       "secondary": "",
@@ -767,7 +828,7 @@
       "detailPath": "entities/artists/4b1342cc4bffde8d.json"
     },
     {
-      "rank": 3814,
+      "rank": 3815,
       "id": "f7eea3e1217bc3a1",
       "name": "Mei , Henrii",
       "secondary": "",
@@ -825,7 +886,7 @@
       "detailPath": "entities/artists/f7eea3e1217bc3a1.json"
     },
     {
-      "rank": 3815,
+      "rank": 3816,
       "id": "37226a5dd9ee3f18",
       "name": "milet × MAN WITH A MISSION",
       "secondary": "",
@@ -884,7 +945,7 @@
       "detailPath": "entities/artists/37226a5dd9ee3f18.json"
     },
     {
-      "rank": 3816,
+      "rank": 3817,
       "id": "ce2084c2aa4745eb",
       "name": "milet×Aimer×幾田りら",
       "secondary": "",
@@ -943,7 +1004,7 @@
       "detailPath": "entities/artists/ce2084c2aa4745eb.json"
     },
     {
-      "rank": 3817,
+      "rank": 3818,
       "id": "10df1d8231aca1f2",
       "name": "millennium parade x Belle",
       "secondary": "",
@@ -1001,7 +1062,7 @@
       "detailPath": "entities/artists/10df1d8231aca1f2.json"
     },
     {
-      "rank": 3818,
+      "rank": 3819,
       "id": "733d19530a5eda30",
       "name": "MILLIONSTARS",
       "secondary": "",
@@ -1060,7 +1121,7 @@
       "detailPath": "entities/artists/733d19530a5eda30.json"
     },
     {
-      "rank": 3819,
+      "rank": 3820,
       "id": "d51d7dfddc4d1ac3",
       "name": "minato feat.初音ミク&巡音ルカ",
       "secondary": "",
@@ -1119,7 +1180,7 @@
       "detailPath": "entities/artists/d51d7dfddc4d1ac3.json"
     },
     {
-      "rank": 3820,
+      "rank": 3821,
       "id": "9cdcb7bdb96b48de",
       "name": "Mix Speaker's,Inc",
       "secondary": "",
@@ -1176,7 +1237,7 @@
       "detailPath": "entities/artists/9cdcb7bdb96b48de.json"
     },
     {
-      "rank": 3821,
+      "rank": 3822,
       "id": "3c8744e1f6e6a0c2",
       "name": "Mori Calliope",
       "secondary": "",
@@ -1233,7 +1294,7 @@
       "detailPath": "entities/artists/3c8744e1f6e6a0c2.json"
     },
     {
-      "rank": 3822,
+      "rank": 3823,
       "id": "0be4437277b41fb0",
       "name": "Mothy",
       "secondary": "",
@@ -1291,7 +1352,7 @@
       "detailPath": "entities/artists/0be4437277b41fb0.json"
     },
     {
-      "rank": 3823,
+      "rank": 3824,
       "id": "b2e89f8b092b18d1",
       "name": "MUSH&Co.",
       "secondary": "",
@@ -1351,7 +1412,7 @@
       "detailPath": "entities/artists/b2e89f8b092b18d1.json"
     },
     {
-      "rank": 3824,
+      "rank": 3825,
       "id": "99d660f85788f04f",
       "name": "My Chemical Romance",
       "secondary": "",
@@ -1411,7 +1472,7 @@
       "detailPath": "entities/artists/99d660f85788f04f.json"
     },
     {
-      "rank": 3825,
+      "rank": 3826,
       "id": "73e798fd11132121",
       "name": "n-buna feat.Hatsune Miku",
       "secondary": "",
@@ -1471,7 +1532,7 @@
       "detailPath": "entities/artists/73e798fd11132121.json"
     },
     {
-      "rank": 3826,
+      "rank": 3827,
       "id": "bee0abebd2b4ead7",
       "name": "nｰbuna",
       "secondary": "",
@@ -1528,7 +1589,7 @@
       "detailPath": "entities/artists/bee0abebd2b4ead7.json"
     },
     {
-      "rank": 3827,
+      "rank": 3828,
       "id": "aeab5ca7ed00db36",
       "name": "Nadeko Sengoku (Kana Hanazawa)",
       "secondary": "",
@@ -1585,7 +1646,7 @@
       "detailPath": "entities/artists/aeab5ca7ed00db36.json"
     },
     {
-      "rank": 3828,
+      "rank": 3829,
       "id": "19852f40c287c01f",
       "name": "Nanashi Inc",
       "secondary": "",
@@ -1645,7 +1706,7 @@
       "detailPath": "entities/artists/19852f40c287c01f.json"
     },
     {
-      "rank": 3829,
+      "rank": 3830,
       "id": "22cae598273e696d",
       "name": "narry/",
       "secondary": "",
@@ -1705,7 +1766,7 @@
       "detailPath": "entities/artists/22cae598273e696d.json"
     },
     {
-      "rank": 3830,
+      "rank": 3831,
       "id": "1bead807fb70b92d",
       "name": "Neru feat.鏡音リン（ピアノ伴奏Ver.）",
       "secondary": "",
@@ -1762,7 +1823,7 @@
       "detailPath": "entities/artists/1bead807fb70b92d.json"
     },
     {
-      "rank": 3831,
+      "rank": 3832,
       "id": "2e217843bda9a6ac",
       "name": "Neru様",
       "secondary": "",
@@ -1816,7 +1877,7 @@
       "detailPath": "entities/artists/2e217843bda9a6ac.json"
     },
     {
-      "rank": 3832,
+      "rank": 3833,
       "id": "14e3879874ee6875",
       "name": "NieR Gestalt & NieR Replicant",
       "secondary": "",
@@ -1873,7 +1934,7 @@
       "detailPath": "entities/artists/14e3879874ee6875.json"
     },
     {
-      "rank": 3833,
+      "rank": 3834,
       "id": "659c819233b85919",
       "name": "Nio-P",
       "secondary": "",
@@ -1930,7 +1991,7 @@
       "detailPath": "entities/artists/659c819233b85919.json"
     },
     {
-      "rank": 3834,
+      "rank": 3835,
       "id": "5e3e3c344e147b7b",
       "name": "NO PLAN",
       "secondary": "",
@@ -1987,7 +2048,7 @@
       "detailPath": "entities/artists/5e3e3c344e147b7b.json"
     },
     {
-      "rank": 3835,
+      "rank": 3836,
       "id": "ad2c88888c69e7ef",
       "name": "noristry.bitfan.id/schedules",
       "secondary": "",
@@ -2041,7 +2102,7 @@
       "detailPath": "entities/artists/ad2c88888c69e7ef.json"
     },
     {
-      "rank": 3836,
+      "rank": 3837,
       "id": "5ffd411f402031c8",
       "name": "NUMBER GIRL",
       "secondary": "",
@@ -2098,7 +2159,7 @@
       "detailPath": "entities/artists/5ffd411f402031c8.json"
     },
     {
-      "rank": 3837,
+      "rank": 3838,
       "id": "c47bbd7ecb296fb6",
       "name": "nyanyannya",
       "secondary": "",
@@ -2155,7 +2216,7 @@
       "detailPath": "entities/artists/c47bbd7ecb296fb6.json"
     },
     {
-      "rank": 3838,
+      "rank": 3839,
       "id": "730460a4e134b173",
       "name": "Official髭男dism ※JOYSOUND",
       "secondary": "",
@@ -2212,7 +2273,7 @@
       "detailPath": "entities/artists/730460a4e134b173.json"
     },
     {
-      "rank": 3839,
+      "rank": 3840,
       "id": "6c76bcdebf5563a6",
       "name": "Official髭男dism/ＳＰＹ×ＦＡＭＩＬＹ",
       "secondary": "",
@@ -2269,7 +2330,7 @@
       "detailPath": "entities/artists/6c76bcdebf5563a6.json"
     },
     {
-      "rank": 3840,
+      "rank": 3841,
       "id": "48c74eab8580b853",
       "name": "Onmyo-za",
       "secondary": "",
@@ -2328,7 +2389,7 @@
       "detailPath": "entities/artists/48c74eab8580b853.json"
     },
     {
-      "rank": 3841,
+      "rank": 3842,
       "id": "eb6affe010433a24",
       "name": "ORANGE RANGE ※JOYSOUND",
       "secondary": "",
@@ -2387,7 +2448,7 @@
       "detailPath": "entities/artists/eb6affe010433a24.json"
     },
     {
-      "rank": 3842,
+      "rank": 3843,
       "id": "a07ad52172352fc9",
       "name": "Orangestar feat.IA&初音ミク",
       "secondary": "",
@@ -2447,7 +2508,7 @@
       "detailPath": "entities/artists/a07ad52172352fc9.json"
     },
     {
-      "rank": 3843,
+      "rank": 3844,
       "id": "f0a08ab55588f9e8",
       "name": "Orangestar feat.初音ミク ※JOYSOUND",
       "secondary": "",
@@ -2504,7 +2565,7 @@
       "detailPath": "entities/artists/f0a08ab55588f9e8.json"
     },
     {
-      "rank": 3844,
+      "rank": 3845,
       "id": "2194a9796b03afb5",
       "name": "ORESAMA",
       "secondary": "",
@@ -2561,7 +2622,7 @@
       "detailPath": "entities/artists/2194a9796b03afb5.json"
     },
     {
-      "rank": 3845,
+      "rank": 3846,
       "id": "10f69be049b991d1",
       "name": "Orion wo Nazoru",
       "secondary": "",
@@ -2620,7 +2681,7 @@
       "detailPath": "entities/artists/10f69be049b991d1.json"
     },
     {
-      "rank": 3846,
+      "rank": 3847,
       "id": "da34029e22448a0f",
       "name": "Outer",
       "secondary": "",
@@ -2677,7 +2738,7 @@
       "detailPath": "entities/artists/da34029e22448a0f.json"
     },
     {
-      "rank": 3847,
+      "rank": 3848,
       "id": "19aa31a31e9b5d55",
       "name": "P.I.N.A",
       "secondary": "",
@@ -2734,7 +2795,7 @@
       "detailPath": "entities/artists/19aa31a31e9b5d55.json"
     },
     {
-      "rank": 3848,
+      "rank": 3849,
       "id": "499d992e11e3b27a",
       "name": "Passenger",
       "secondary": "",
@@ -2794,7 +2855,7 @@
       "detailPath": "entities/artists/499d992e11e3b27a.json"
     },
     {
-      "rank": 3849,
+      "rank": 3850,
       "id": "126fb5e647eb98e7",
       "name": "Patterns feat. TOFIE",
       "secondary": "",
@@ -2852,63 +2913,6 @@
         }
       ],
       "detailPath": "entities/artists/126fb5e647eb98e7.json"
-    },
-    {
-      "rank": 3850,
-      "id": "086122325e314be6",
-      "name": "picdo feat. 足立レイ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mikLsW0CfY4",
-          "videoTitle": "【#声かっこかわいいV歌枠リレー 】ばに団長です⚔かっこいいもかわいいも全力でいきます🔥【ばに団長/#ばにたいむ 】",
-          "channelName": "ばに団長 -Vanita Scarlet-",
-          "publishedAt": "2026-09-26T11:40:41.281Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mikLsW0CfY4/hqdefault.jpg",
-          "sourcePath": "sources/mi/mikLsW0CfY4.json",
-          "time": "0:29:51",
-          "seconds": 1791,
-          "songTitle": "パンこげこげになっちゃった",
-          "artist": "picdo feat.足立レイ"
-        },
-        {
-          "videoId": "k4LqR1ifu9k",
-          "videoTitle": "【歌枠/初見さん大歓迎】高評価150目指す🔥キミの力を借りたいとってもキュートな歌枠❤【ばに団長/#ばにたいむ /KARAOKE】",
-          "channelName": "ばに団長 -Vanita Scarlet-",
-          "publishedAt": "2026-09-14T16:17:07.173Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/k4LqR1ifu9k/hqdefault.jpg",
-          "sourcePath": "sources/k4/k4LqR1ifu9k.json",
-          "time": "2:37:41",
-          "seconds": 9461,
-          "songTitle": "パンこげこげになっちゃった",
-          "artist": "picdo feat.足立レイ"
-        },
-        {
-          "videoId": "oR1O1Kj2fWg",
-          "videoTitle": "【歌枠/初見さん大歓迎】初見さん１人で１曲歌えるよーっ✨リクエスト◎【作業用BGM /ばに団長/#ばにたいむ /KARAOKE】",
-          "channelName": "ばに団長 -Vanita Scarlet-",
-          "publishedAt": "2026-08-24T15:42:12.953Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oR1O1Kj2fWg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_L9E-NkHMQ_oMsFgBTs15OIUYSg",
-          "sourcePath": "sources/oR/oR1O1Kj2fWg.json",
-          "time": "1:12:34",
-          "seconds": 4354,
-          "songTitle": "パンこげこげになっちゃった",
-          "artist": "picdo feat. 足立レイ"
-        }
-      ],
-      "detailPath": "entities/artists/086122325e314be6.json"
     }
   ]
 }

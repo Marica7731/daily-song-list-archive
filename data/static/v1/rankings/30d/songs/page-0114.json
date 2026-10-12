@@ -1,16 +1,103 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "songs",
   "page": 114,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27671,
+  "totalCount": 27687,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5651,
+      "id": "8d3987d92125c249",
+      "name": "インフェルノ",
+      "secondary": "Mrs. GREEN APPLE ※JOYSOUND",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "b6WoUsc-Qy4",
+          "videoTitle": "【歌枠】 チケット1枚買ってもらえるようにいっぱい歌う🎤 【#虎蝶奏】",
+          "channelName": "虎蝶 奏 / Kocho Kanade",
+          "publishedAt": "2026-09-17T13:16:13.549Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/b6WoUsc-Qy4/hqdefault.jpg",
+          "sourcePath": "sources/b6/b6WoUsc-Qy4.json",
+          "time": "0:16:02",
+          "seconds": 962,
+          "songTitle": "インフェルノ",
+          "artist": "Mrs. GREEN APPLE ※JOYSOUND"
+        },
+        {
+          "videoId": "k7ODj0Mi3_w",
+          "videoTitle": "【 歌枠 】色々歌いたい🎶土曜の夜はのんびりと~【 #新人vtuber 】",
+          "channelName": "宵月れゆり / Yoiragi Reyuri",
+          "publishedAt": "2026-09-12T18:04:27.565Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/k7ODj0Mi3_w/hqdefault.jpg",
+          "sourcePath": "sources/k7/k7ODj0Mi3_w.json",
+          "time": "0:51:39",
+          "seconds": 3099,
+          "songTitle": "インフェルノ",
+          "artist": "Mrs. GREEN APPLE ※JOYSOUND"
+        }
+      ],
+      "detailPath": "entities/songs/8d3987d92125c249.json"
+    },
+    {
+      "rank": 5652,
+      "id": "c220510a96008549",
+      "name": "ウィアートル",
+      "secondary": "",
+      "channelId": "UCoOPu8WqToJ4jHbBXY6NPrA",
+      "channelHandle": "@wadatsumi_yohira",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "JWFCtxxEGCA",
+          "videoTitle": "【歌枠】最多同時観測者数ありがㇳ┊夢からもう帰れない🪼◦° 心が浄化される魅惑の歌声┊Singing Stream【VTuber/配信中】",
+          "channelName": "Yohira ch. 渉海よひら",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JWFCtxxEGCA/hqdefault.jpg",
+          "sourcePath": "sources/JW/JWFCtxxEGCA.json",
+          "time": "3:05:50",
+          "seconds": 11150,
+          "songTitle": "ウィアートル",
+          "artist": ""
+        },
+        {
+          "videoId": "LeAz50z8_sA",
+          "videoTitle": "【歌枠】Vack-ON!! 感想回┊夢からもう帰れない🪼◦° 海底から響く魅惑の歌声┊Singing Stream【VTuber/配信中】",
+          "channelName": "Yohira ch. 渉海よひら",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LeAz50z8_sA/hqdefault.jpg",
+          "sourcePath": "sources/Le/LeAz50z8_sA.json",
+          "time": "3:02:03",
+          "seconds": 10923,
+          "songTitle": "ウィアートル",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/c220510a96008549.json"
+    },
+    {
+      "rank": 5653,
       "id": "c3f85c5b2c443b0f",
       "name": "ヴィータ",
       "secondary": "柊キライ",
@@ -55,7 +142,7 @@
       "detailPath": "entities/songs/c3f85c5b2c443b0f.json"
     },
     {
-      "rank": 5652,
+      "rank": 5654,
       "id": "567d1b838e9f92a7",
       "name": "ヴィクター",
       "secondary": "",
@@ -100,7 +187,7 @@
       "detailPath": "entities/songs/567d1b838e9f92a7.json"
     },
     {
-      "rank": 5653,
+      "rank": 5655,
       "id": "c69b3c16e70b1ffa",
       "name": "ウェザーリポート",
       "secondary": "BUMP OF CHICKEN",
@@ -145,7 +232,7 @@
       "detailPath": "entities/songs/c69b3c16e70b1ffa.json"
     },
     {
-      "rank": 5654,
+      "rank": 5656,
       "id": "a62bc7d73e04e9ae",
       "name": "うぉんちゅーばっど",
       "secondary": "jon-YAKITORY",
@@ -190,7 +277,7 @@
       "detailPath": "entities/songs/a62bc7d73e04e9ae.json"
     },
     {
-      "rank": 5655,
+      "rank": 5657,
       "id": "c218056f9185d56c",
       "name": "うさぎラップ",
       "secondary": "",
@@ -235,7 +322,7 @@
       "detailPath": "entities/songs/c218056f9185d56c.json"
     },
     {
-      "rank": 5656,
+      "rank": 5658,
       "id": "c11bbfb000b42e6d",
       "name": "うずひ",
       "secondary": "",
@@ -277,7 +364,7 @@
       "detailPath": "entities/songs/c11bbfb000b42e6d.json"
     },
     {
-      "rank": 5657,
+      "rank": 5659,
       "id": "f9dba2e0fe134b1b",
       "name": "ウタカタララバイ",
       "secondary": "ウタ(歌唱:Ado)",
@@ -322,7 +409,7 @@
       "detailPath": "entities/songs/f9dba2e0fe134b1b.json"
     },
     {
-      "rank": 5658,
+      "rank": 5660,
       "id": "0e92a36eb1ca77e7",
       "name": "ウタカタララバイ（ウタ from ONE PIECE FILM RED）",
       "secondary": "Ado",
@@ -367,7 +454,7 @@
       "detailPath": "entities/songs/0e92a36eb1ca77e7.json"
     },
     {
-      "rank": 5659,
+      "rank": 5661,
       "id": "bce5818e3da9ac0a",
       "name": "うたかた花火",
       "secondary": "supercell（ryo）",
@@ -412,7 +499,7 @@
       "detailPath": "entities/songs/bce5818e3da9ac0a.json"
     },
     {
-      "rank": 5660,
+      "rank": 5662,
       "id": "b0a2a64997f9d637",
       "name": "うたわく",
       "secondary": "雑談と炙り",
@@ -457,7 +544,7 @@
       "detailPath": "entities/songs/b0a2a64997f9d637.json"
     },
     {
-      "rank": 5661,
+      "rank": 5663,
       "id": "f4c9e4cb0bcde1d3",
       "name": "うつくしじごく",
       "secondary": "Reol",
@@ -502,7 +589,7 @@
       "detailPath": "entities/songs/f4c9e4cb0bcde1d3.json"
     },
     {
-      "rank": 5662,
+      "rank": 5664,
       "id": "9bd20ecafeaddcec",
       "name": "うつけ論争",
       "secondary": "獅子志司",
@@ -547,7 +634,7 @@
       "detailPath": "entities/songs/9bd20ecafeaddcec.json"
     },
     {
-      "rank": 5663,
+      "rank": 5665,
       "id": "69913277d605b5de",
       "name": "うっせえわ",
       "secondary": "",
@@ -592,7 +679,7 @@
       "detailPath": "entities/songs/69913277d605b5de.json"
     },
     {
-      "rank": 5664,
+      "rank": 5666,
       "id": "945c4399f3ca33b2",
       "name": "うまうま豊穣☆フェスティバル",
       "secondary": "月深ツキ(オリジナル楽曲)",
@@ -637,7 +724,7 @@
       "detailPath": "entities/songs/945c4399f3ca33b2.json"
     },
     {
-      "rank": 5665,
+      "rank": 5667,
       "id": "bc4b7cef22722b06",
       "name": "うまぴょい伝説",
       "secondary": "スペシャルウィーク ( CV. 和氣あず未 ), サイレンススズカ ( CV. 高野麻里佳 ), トウカイテイオー",
@@ -682,7 +769,7 @@
       "detailPath": "entities/songs/bc4b7cef22722b06.json"
     },
     {
-      "rank": 5666,
+      "rank": 5668,
       "id": "d9a6d8a7d527c33c",
       "name": "うまぴょい伝説",
       "secondary": "",
@@ -727,7 +814,7 @@
       "detailPath": "entities/songs/d9a6d8a7d527c33c.json"
     },
     {
-      "rank": 5667,
+      "rank": 5669,
       "id": "f303fddd2605a74c",
       "name": "うゆにば～す！",
       "secondary": "天ノ羽うゆ",
@@ -772,7 +859,7 @@
       "detailPath": "entities/songs/f303fddd2605a74c.json"
     },
     {
-      "rank": 5668,
+      "rank": 5670,
       "id": "09c66658e7d59e10",
       "name": "ウラオモテ・フォーチュン",
       "secondary": "佐倉千代(小澤亜李)",
@@ -817,7 +904,7 @@
       "detailPath": "entities/songs/09c66658e7d59e10.json"
     },
     {
-      "rank": 5669,
+      "rank": 5671,
       "id": "57caef7a2bf0e12d",
       "name": "ウルフ",
       "secondary": "CHiCO with HoneyWorks",
@@ -862,7 +949,7 @@
       "detailPath": "entities/songs/57caef7a2bf0e12d.json"
     },
     {
-      "rank": 5670,
+      "rank": 5672,
       "id": "098e6ad0f88f2b2b",
       "name": "ウルフィズム",
       "secondary": "ふぁるすてぃ",
@@ -907,7 +994,7 @@
       "detailPath": "entities/songs/098e6ad0f88f2b2b.json"
     },
     {
-      "rank": 5671,
+      "rank": 5673,
       "id": "63e073113236ba37",
       "name": "エウテルペ",
       "secondary": "",
@@ -952,7 +1039,7 @@
       "detailPath": "entities/songs/63e073113236ba37.json"
     },
     {
-      "rank": 5672,
+      "rank": 5674,
       "id": "92d42c7acddb635a",
       "name": "エス",
       "secondary": "",
@@ -997,7 +1084,7 @@
       "detailPath": "entities/songs/92d42c7acddb635a.json"
     },
     {
-      "rank": 5673,
+      "rank": 5675,
       "id": "8c332d257bbaa9df",
       "name": "エビカニクス",
       "secondary": "ケロポンズ",
@@ -1042,7 +1129,7 @@
       "detailPath": "entities/songs/8c332d257bbaa9df.json"
     },
     {
-      "rank": 5674,
+      "rank": 5676,
       "id": "95bcc89049c82726",
       "name": "エリカの憂い",
       "secondary": "香椎モイミ",
@@ -1087,7 +1174,7 @@
       "detailPath": "entities/songs/95bcc89049c82726.json"
     },
     {
-      "rank": 5675,
+      "rank": 5677,
       "id": "83232a7f82ac6471",
       "name": "エルの楽園 ［→ side:E →",
       "secondary": "Sound Horizon",
@@ -1132,7 +1219,7 @@
       "detailPath": "entities/songs/83232a7f82ac6471.json"
     },
     {
-      "rank": 5676,
+      "rank": 5678,
       "id": "d5c00bd4b4072eeb",
       "name": "エロ",
       "secondary": "クリープハイプ",
@@ -1178,7 +1265,7 @@
       "detailPath": "entities/songs/d5c00bd4b4072eeb.json"
     },
     {
-      "rank": 5677,
+      "rank": 5679,
       "id": "694a9a44015cb654",
       "name": "エンヴィーベイビー",
       "secondary": "Kanaria feat. GUMI",
@@ -1223,7 +1310,7 @@
       "detailPath": "entities/songs/694a9a44015cb654.json"
     },
     {
-      "rank": 5678,
+      "rank": 5680,
       "id": "97ab48d84eba345a",
       "name": "エンヴィキャットウォーク",
       "secondary": "",
@@ -1268,7 +1355,7 @@
       "detailPath": "entities/songs/97ab48d84eba345a.json"
     },
     {
-      "rank": 5679,
+      "rank": 5681,
       "id": "1d2befc93cfd0c1e",
       "name": "エンドロール",
       "secondary": "",
@@ -1310,7 +1397,7 @@
       "detailPath": "entities/songs/1d2befc93cfd0c1e.json"
     },
     {
-      "rank": 5680,
+      "rank": 5682,
       "id": "ca97c995583514b2",
       "name": "エンドロールBGM「シャイニングデイズ」",
       "secondary": "桜庭羽奈",
@@ -1355,7 +1442,7 @@
       "detailPath": "entities/songs/ca97c995583514b2.json"
     },
     {
-      "rank": 5681,
+      "rank": 5683,
       "id": "8d132dbbed537036",
       "name": "おうたの始まり",
       "secondary": "",
@@ -1400,7 +1487,7 @@
       "detailPath": "entities/songs/8d132dbbed537036.json"
     },
     {
-      "rank": 5682,
+      "rank": 5684,
       "id": "de2fc1257ef65868",
       "name": "オーケストラ",
       "secondary": "",
@@ -1442,7 +1529,7 @@
       "detailPath": "entities/songs/de2fc1257ef65868.json"
     },
     {
-      "rank": 5683,
+      "rank": 5685,
       "id": "00759ee40824d3ac",
       "name": "オートファジー",
       "secondary": "柊キライ",
@@ -1487,7 +1574,7 @@
       "detailPath": "entities/songs/00759ee40824d3ac.json"
     },
     {
-      "rank": 5684,
+      "rank": 5686,
       "id": "686401a939e51256",
       "name": "オールナイトレディオ",
       "secondary": "Ado",
@@ -1532,7 +1619,7 @@
       "detailPath": "entities/songs/686401a939e51256.json"
     },
     {
-      "rank": 5685,
+      "rank": 5687,
       "id": "504f588d72fefbc6",
       "name": "おかしモードでいこっ",
       "secondary": "惑世いと",
@@ -1577,7 +1664,7 @@
       "detailPath": "entities/songs/504f588d72fefbc6.json"
     },
     {
-      "rank": 5686,
+      "rank": 5688,
       "id": "f9df73fada673f3a",
       "name": "おこちゃま戦争",
       "secondary": "Giga",
@@ -1622,7 +1709,7 @@
       "detailPath": "entities/songs/f9df73fada673f3a.json"
     },
     {
-      "rank": 5687,
+      "rank": 5689,
       "id": "f1b0a5d18184ec3e",
       "name": "おじゃま虫",
       "secondary": "DECO*27 feat.初音ミク（ピアノ伴奏Ver.）",
@@ -1667,7 +1754,7 @@
       "detailPath": "entities/songs/f1b0a5d18184ec3e.json"
     },
     {
-      "rank": 5688,
+      "rank": 5690,
       "id": "a4f83be4306558e5",
       "name": "おじゃま虫 feat. 初音ミク",
       "secondary": "DECO*27",
@@ -1712,7 +1799,7 @@
       "detailPath": "entities/songs/a4f83be4306558e5.json"
     },
     {
-      "rank": 5689,
+      "rank": 5691,
       "id": "c822405cec52ba1b",
       "name": "おじゃま虫Ⅱ",
       "secondary": "DECO*27,TeddyLoid feat. 初音ミク",
@@ -1757,7 +1844,7 @@
       "detailPath": "entities/songs/c822405cec52ba1b.json"
     },
     {
-      "rank": 5690,
+      "rank": 5692,
       "id": "5b1037c9fb3e5216",
       "name": "オツキミリサイタル",
       "secondary": "じん（自然の敵P）",
@@ -1802,7 +1889,7 @@
       "detailPath": "entities/songs/5b1037c9fb3e5216.json"
     },
     {
-      "rank": 5691,
+      "rank": 5693,
       "id": "1d898232c6c46d4a",
       "name": "オツキミリサイタル",
       "secondary": "",
@@ -1847,7 +1934,7 @@
       "detailPath": "entities/songs/1d898232c6c46d4a.json"
     },
     {
-      "rank": 5692,
+      "rank": 5694,
       "id": "d6d00d619d68a114",
       "name": "オッドアイ",
       "secondary": "さユり",
@@ -1893,7 +1980,7 @@
       "detailPath": "entities/songs/d6d00d619d68a114.json"
     },
     {
-      "rank": 5693,
+      "rank": 5695,
       "id": "be52da51a5891bfe",
       "name": "おつぷる〜",
       "secondary": "へばな〜",
@@ -1938,7 +2025,7 @@
       "detailPath": "entities/songs/be52da51a5891bfe.json"
     },
     {
-      "rank": 5694,
+      "rank": 5696,
       "id": "4a1ed471a765d07d",
       "name": "おとなの掟",
       "secondary": "Doughnuts Hole",
@@ -1984,7 +2071,7 @@
       "detailPath": "entities/songs/4a1ed471a765d07d.json"
     },
     {
-      "rank": 5695,
+      "rank": 5697,
       "id": "5895dffa4190b053",
       "name": "オトノナルホウへ→",
       "secondary": "Goose house",
@@ -2029,7 +2116,7 @@
       "detailPath": "entities/songs/5895dffa4190b053.json"
     },
     {
-      "rank": 5696,
+      "rank": 5698,
       "id": "ac353201fcd2a960",
       "name": "おどるポンポコリン",
       "secondary": "",
@@ -2074,7 +2161,7 @@
       "detailPath": "entities/songs/ac353201fcd2a960.json"
     },
     {
-      "rank": 5697,
+      "rank": 5699,
       "id": "91e626116c836c2c",
       "name": "おなじ話",
       "secondary": "ハンバート ハンバート",
@@ -2120,7 +2207,7 @@
       "detailPath": "entities/songs/91e626116c836c2c.json"
     },
     {
-      "rank": 5698,
+      "rank": 5700,
       "id": "2d6bef56c7664a1b",
       "name": "おねだり Shall We ～?",
       "secondary": "前川みく(CV:高森奈津美)",
@@ -2163,93 +2250,6 @@
         }
       ],
       "detailPath": "entities/songs/2d6bef56c7664a1b.json"
-    },
-    {
-      "rank": 5699,
-      "id": "6ae9a53bac8679e7",
-      "name": "おねだり Shall We～?",
-      "secondary": "前川みく(高森奈津美)",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "kj16-jA1P1A",
-          "videoTitle": "【歌枠￤朝活】天使とふわふわお歌時間🍂【#初見さん大歓迎 🌸】#甘夢みゆく #karaoke",
-          "channelName": "甘夢みゆく / Amamu Miyuku",
-          "publishedAt": "2026-09-27T02:02:34.908Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kj16-jA1P1A/hqdefault.jpg",
-          "sourcePath": "sources/kj/kj16-jA1P1A.json",
-          "time": "0:56:49",
-          "seconds": 3409,
-          "songTitle": "おねだり Shall We 〜?",
-          "artist": "前川みく(高森奈津美)"
-        },
-        {
-          "videoId": "QtFxMctnKVw",
-          "videoTitle": "【歌枠/KARAOKE】私の歌を聴きなさ〜い！！！【如月たると】#singingstream",
-          "channelName": "如月たると / Kisaragi Tarto",
-          "publishedAt": "2026-09-23T12:47:21.602Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QtFxMctnKVw/hqdefault.jpg",
-          "sourcePath": "sources/Qt/QtFxMctnKVw.json",
-          "time": "0:17:24",
-          "seconds": 1044,
-          "songTitle": "おねだり Shall We～?",
-          "artist": "前川みく(高森奈津美)"
-        }
-      ],
-      "detailPath": "entities/songs/6ae9a53bac8679e7.json"
-    },
-    {
-      "rank": 5700,
-      "id": "2ab864382c41c555",
-      "name": "オネンネ・ネンネ",
-      "secondary": "でびでび・でびる",
-      "channelId": "UChUJbHiTVeGrSkTdBzVfNCQ",
-      "channelHandle": "@JoeRikiichi",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "wxy3COp8ysY",
-          "videoTitle": "【#歌枠】JOYSOUND 初見さん大歓迎！のんびりアニソンボカロソング色々歌枠♪【#vtuber #アニソン #karaoke #縦型配信 #shorts #月香翠 #ボカロ】",
-          "channelName": "月香翠",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wxy3COp8ysY/hqdefault.jpg",
-          "sourcePath": "sources/wx/wxy3COp8ysY.json",
-          "time": "0:22:40",
-          "seconds": 1360,
-          "songTitle": "オネンネ・ネンネ",
-          "artist": "でびでび・でびる"
-        },
-        {
-          "videoId": "wERtxxqVceI",
-          "videoTitle": "【#NIJIRhythmParade】🌈にじさんじオリ曲で繋ぐ七色の歌リレー🕒【ジョー・力一/にじさんじ】",
-          "channelName": "ジョー・力一 Joe Rikiichi",
-          "publishedAt": "2026-09-13T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wERtxxqVceI/hqdefault.jpg",
-          "sourcePath": "sources/wE/wERtxxqVceI.json",
-          "time": "0:14:44",
-          "seconds": 884,
-          "songTitle": "オネンネ・ネンネ",
-          "artist": "でびでび・でびる"
-        }
-      ],
-      "detailPath": "entities/songs/2ab864382c41c555.json"
     }
   ]
 }

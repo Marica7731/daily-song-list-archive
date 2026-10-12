@@ -1,16 +1,107 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "songs",
   "page": 120,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27671,
+  "totalCount": 27687,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5951,
+      "id": "94904999c75c946e",
+      "name": "そういう好き",
+      "secondary": "wacciｻﾝ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "lkhECavOEgc",
+          "videoTitle": "【歌枠】低音男子のまったり歌枠・騒がしくない配信をお探しの方を待っています【VTuber】",
+          "channelName": "ただのかえる【TADANO KAERU】",
+          "publishedAt": "2026-09-30T14:43:31.213Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/lkhECavOEgc/hqdefault.jpg",
+          "sourcePath": "sources/lk/lkhECavOEgc.json",
+          "time": "0:25:40",
+          "seconds": 1540,
+          "songTitle": "そういう好き",
+          "artist": "wacciｻﾝ"
+        },
+        {
+          "videoId": "-n9D-Mi4WlE",
+          "videoTitle": "【歌枠】リクエスト大歓迎！ #vtuber #弾き語り",
+          "channelName": "ただのかえる【TADANO KAERU】",
+          "publishedAt": "2026-09-18T15:30:10.791Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-n9D-Mi4WlE/hqdefault.jpg",
+          "sourcePath": "sources/-n/-n9D-Mi4WlE.json",
+          "time": "0:35:46",
+          "seconds": 2146,
+          "songTitle": "そういう好き",
+          "artist": "wacciｻﾝ"
+        }
+      ],
+      "detailPath": "entities/songs/94904999c75c946e.json"
+    },
+    {
+      "rank": 5952,
+      "id": "9f168f6a634b3fed",
+      "name": "そして僕にできるコト(テイルズオブシンフォニア)",
+      "secondary": "day after tomorrow",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Fh7oBKM7eio",
+          "videoTitle": "【#歌枠】晴れたので歌うやよ！【エチェ】",
+          "channelName": "エチェ / Eche",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Fh7oBKM7eio/hqdefault.jpg",
+          "sourcePath": "sources/Fh/Fh7oBKM7eio.json",
+          "time": "1:16:42",
+          "seconds": 4602,
+          "songTitle": "そして僕にできるコト(テイルズオブシンフォニア)",
+          "artist": "day after tomorrow"
+        },
+        {
+          "videoId": "Wg2Z8RGbrOo",
+          "videoTitle": "【#歌枠】雨が続くけれど歌うやよ！【エチェ】",
+          "channelName": "エチェ / Eche",
+          "publishedAt": "2026-09-19T06:59:51.059Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Wg2Z8RGbrOo/hqdefault.jpg",
+          "sourcePath": "sources/Wg/Wg2Z8RGbrOo.json",
+          "time": "1:03:48",
+          "seconds": 3828,
+          "songTitle": "そして僕にできるコト(テイルズオブシンフォニア)",
+          "artist": "day after tomorrow"
+        }
+      ],
+      "detailPath": "entities/songs/9f168f6a634b3fed.json"
+    },
+    {
+      "rank": 5953,
       "id": "4ec7bc8f4f001356",
       "name": "その時、蒼穹へ",
       "secondary": "angela",
@@ -52,7 +143,7 @@
       "detailPath": "entities/songs/4ec7bc8f4f001356.json"
     },
     {
-      "rank": 5952,
+      "rank": 5954,
       "id": "c39cf2ea0c8f72cd",
       "name": "そばかす",
       "secondary": "るろうに剣心",
@@ -97,7 +188,7 @@
       "detailPath": "entities/songs/c39cf2ea0c8f72cd.json"
     },
     {
-      "rank": 5953,
+      "rank": 5955,
       "id": "2fc539181f9b7bc9",
       "name": "ソラニン",
       "secondary": "",
@@ -142,7 +233,7 @@
       "detailPath": "entities/songs/2fc539181f9b7bc9.json"
     },
     {
-      "rank": 5954,
+      "rank": 5956,
       "id": "4ddf315935d16c11",
       "name": "それがあなたの幸せとしても",
       "secondary": "Heavenz feat.巡音ルカ ※JOYSOUND",
@@ -187,7 +278,7 @@
       "detailPath": "entities/songs/4ddf315935d16c11.json"
     },
     {
-      "rank": 5955,
+      "rank": 5957,
       "id": "19a959e12fec79b7",
       "name": "それでも好きだよ",
       "secondary": "すいそうぐらし",
@@ -232,7 +323,7 @@
       "detailPath": "entities/songs/19a959e12fec79b7.json"
     },
     {
-      "rank": 5956,
+      "rank": 5958,
       "id": "8d5da00e9e566804",
       "name": "ソングオブザデッド",
       "secondary": "KANA-BOON",
@@ -277,7 +368,7 @@
       "detailPath": "entities/songs/8d5da00e9e566804.json"
     },
     {
-      "rank": 5957,
+      "rank": 5959,
       "id": "c08cd2787b52acdc",
       "name": "ターミナル・ヘヴンズ・ロック",
       "secondary": "the pillows",
@@ -323,7 +414,7 @@
       "detailPath": "entities/songs/c08cd2787b52acdc.json"
     },
     {
-      "rank": 5958,
+      "rank": 5960,
       "id": "78c3340c209749b4",
       "name": "ダーリン",
       "secondary": "須田景凪 ※JOYSOUND",
@@ -368,7 +459,7 @@
       "detailPath": "entities/songs/78c3340c209749b4.json"
     },
     {
-      "rank": 5959,
+      "rank": 5961,
       "id": "4a9b18468ed7b758",
       "name": "ダーリン- Mrs. GREEN APPLE",
       "secondary": "",
@@ -413,7 +504,7 @@
       "detailPath": "entities/songs/4a9b18468ed7b758.json"
     },
     {
-      "rank": 5960,
+      "rank": 5962,
       "id": "b25e8349c7d2287c",
       "name": "ターンAターン",
       "secondary": "西城秀樹",
@@ -458,7 +549,7 @@
       "detailPath": "entities/songs/b25e8349c7d2287c.json"
     },
     {
-      "rank": 5961,
+      "rank": 5963,
       "id": "29952d645cee644b",
       "name": "ダイアモンドクレバス",
       "secondary": "シェリル・ノーム starring May'n／アニメ『マクロスF』ED／2008/05/08",
@@ -500,7 +591,7 @@
       "detailPath": "entities/songs/29952d645cee644b.json"
     },
     {
-      "rank": 5962,
+      "rank": 5964,
       "id": "b6fc8172bf60a79a",
       "name": "タイムマシン",
       "secondary": "1640mP（164×40mP）",
@@ -545,7 +636,7 @@
       "detailPath": "entities/songs/b6fc8172bf60a79a.json"
     },
     {
-      "rank": 5963,
+      "rank": 5965,
       "id": "4666a580dce32d05",
       "name": "タイムマシン",
       "secondary": "",
@@ -590,7 +681,7 @@
       "detailPath": "entities/songs/4666a580dce32d05.json"
     },
     {
-      "rank": 5964,
+      "rank": 5966,
       "id": "63e30f28589ad5ab",
       "name": "タキシード・ミラージュ",
       "secondary": "三石琴乃・富沢美智恵・久川綾・篠原恵美・深見梨加",
@@ -635,7 +726,7 @@
       "detailPath": "entities/songs/63e30f28589ad5ab.json"
     },
     {
-      "rank": 5965,
+      "rank": 5967,
       "id": "895988aceb964066",
       "name": "タキシード・ミラージュ",
       "secondary": "",
@@ -680,7 +771,7 @@
       "detailPath": "entities/songs/895988aceb964066.json"
     },
     {
-      "rank": 5966,
+      "rank": 5968,
       "id": "026c19475f633f4b",
       "name": "ただ⋯逢いたくて",
       "secondary": "EXILE",
@@ -725,7 +816,7 @@
       "detailPath": "entities/songs/026c19475f633f4b.json"
     },
     {
-      "rank": 5967,
+      "rank": 5969,
       "id": "82e011235dac50a9",
       "name": "ただいまおかえり",
       "secondary": "宮崎奈穂子(ｵﾘｼﾞﾅﾙ)",
@@ -770,7 +861,7 @@
       "detailPath": "entities/songs/82e011235dac50a9.json"
     },
     {
-      "rank": 5968,
+      "rank": 5970,
       "id": "9bccc6b87dcaaf4e",
       "name": "ダダダダ天使",
       "secondary": "",
@@ -815,7 +906,7 @@
       "detailPath": "entities/songs/9bccc6b87dcaaf4e.json"
     },
     {
-      "rank": 5969,
+      "rank": 5971,
       "id": "3ef78540551151cf",
       "name": "ただ泣きたくなるの",
       "secondary": "中山美穂",
@@ -860,7 +951,7 @@
       "detailPath": "entities/songs/3ef78540551151cf.json"
     },
     {
-      "rank": 5970,
+      "rank": 5972,
       "id": "5246827b43dbff96",
       "name": "タッチ",
       "secondary": "岩崎良美（アニメ「タッチ」OP）",
@@ -902,7 +993,7 @@
       "detailPath": "entities/songs/5246827b43dbff96.json"
     },
     {
-      "rank": 5971,
+      "rank": 5973,
       "id": "266dc1555b4d30d2",
       "name": "たばこ〈Tabaco〉",
       "secondary": "コレサワ",
@@ -944,7 +1035,7 @@
       "detailPath": "entities/songs/266dc1555b4d30d2.json"
     },
     {
-      "rank": 5972,
+      "rank": 5974,
       "id": "c1be5bb0c23c7ed2",
       "name": "タマシイレボリューション",
       "secondary": "Superfly ※JOYSOUND",
@@ -989,7 +1080,7 @@
       "detailPath": "entities/songs/c1be5bb0c23c7ed2.json"
     },
     {
-      "rank": 5973,
+      "rank": 5975,
       "id": "cd4d56e18de09490",
       "name": "ダリア",
       "secondary": "ちゃんみな",
@@ -1034,7 +1125,7 @@
       "detailPath": "entities/songs/cd4d56e18de09490.json"
     },
     {
-      "rank": 5974,
+      "rank": 5976,
       "id": "2c20336b46e1e9c9",
       "name": "タワー",
       "secondary": "KEI",
@@ -1079,7 +1170,7 @@
       "detailPath": "entities/songs/2c20336b46e1e9c9.json"
     },
     {
-      "rank": 5975,
+      "rank": 5977,
       "id": "ef3d840b3a343ea1",
       "name": "ダンシング☆サムライ",
       "secondary": "",
@@ -1124,7 +1215,7 @@
       "detailPath": "entities/songs/ef3d840b3a343ea1.json"
     },
     {
-      "rank": 5976,
+      "rank": 5978,
       "id": "e216b844db6ea7b8",
       "name": "ダンス・デカダンス",
       "secondary": "Chevon",
@@ -1169,7 +1260,7 @@
       "detailPath": "entities/songs/e216b844db6ea7b8.json"
     },
     {
-      "rank": 5977,
+      "rank": 5979,
       "id": "ea26b76ea774c1e1",
       "name": "ダンスはやめられない",
       "secondary": "モーツァルト！",
@@ -1211,7 +1302,7 @@
       "detailPath": "entities/songs/ea26b76ea774c1e1.json"
     },
     {
-      "rank": 5978,
+      "rank": 5980,
       "id": "f2508b60e779c086",
       "name": "だんだん早くなる",
       "secondary": "40mP",
@@ -1256,7 +1347,7 @@
       "detailPath": "entities/songs/f2508b60e779c086.json"
     },
     {
-      "rank": 5979,
+      "rank": 5981,
       "id": "610295930b603701",
       "name": "ダンバイン とぶ",
       "secondary": "聖戦士ダンバイン",
@@ -1301,7 +1392,7 @@
       "detailPath": "entities/songs/610295930b603701.json"
     },
     {
-      "rank": 5980,
+      "rank": 5982,
       "id": "4ce4e5b96fc9285e",
       "name": "ダンバインとぶ",
       "secondary": "MIQ（MIO）",
@@ -1346,7 +1437,7 @@
       "detailPath": "entities/songs/4ce4e5b96fc9285e.json"
     },
     {
-      "rank": 5981,
+      "rank": 5983,
       "id": "259a1aa4caeaffe0",
       "name": "チーズケーキ・ファクトリー",
       "secondary": "ELLEGARDEN",
@@ -1391,7 +1482,7 @@
       "detailPath": "entities/songs/259a1aa4caeaffe0.json"
     },
     {
-      "rank": 5982,
+      "rank": 5984,
       "id": "b9e70aa2e06f12bb",
       "name": "チェックのワンピース",
       "secondary": "back number",
@@ -1436,7 +1527,7 @@
       "detailPath": "entities/songs/b9e70aa2e06f12bb.json"
     },
     {
-      "rank": 5983,
+      "rank": 5985,
       "id": "5ebf7de1576c56dc",
       "name": "チェリー",
       "secondary": "",
@@ -1481,7 +1572,7 @@
       "detailPath": "entities/songs/5ebf7de1576c56dc.json"
     },
     {
-      "rank": 5984,
+      "rank": 5986,
       "id": "cfdd9a7ca02dd098",
       "name": "チキチキバンバン",
       "secondary": "",
@@ -1526,7 +1617,7 @@
       "detailPath": "entities/songs/cfdd9a7ca02dd098.json"
     },
     {
-      "rank": 5985,
+      "rank": 5987,
       "id": "c4e6afbfbe879e8d",
       "name": "チチをもげ！",
       "secondary": "パルコ・フォルゴレ(高橋広樹)",
@@ -1571,7 +1662,7 @@
       "detailPath": "entities/songs/c4e6afbfbe879e8d.json"
     },
     {
-      "rank": 5986,
+      "rank": 5988,
       "id": "1c87f5ba71929053",
       "name": "チャイナアドバイス",
       "secondary": "",
@@ -1616,7 +1707,7 @@
       "detailPath": "entities/songs/1c87f5ba71929053.json"
     },
     {
-      "rank": 5987,
+      "rank": 5989,
       "id": "243b3a9be7eb75a7",
       "name": "チャンス！",
       "secondary": "月島きらり starring 久住小春(モーニング娘。)",
@@ -1661,7 +1752,7 @@
       "detailPath": "entities/songs/243b3a9be7eb75a7.json"
     },
     {
-      "rank": 5988,
+      "rank": 5990,
       "id": "50bc45d202d6cda8",
       "name": "ちゆうさ",
       "secondary": "",
@@ -1703,7 +1794,7 @@
       "detailPath": "entities/songs/50bc45d202d6cda8.json"
     },
     {
-      "rank": 5989,
+      "rank": 5991,
       "id": "9989b3cd955a7e71",
       "name": "チュープリ",
       "secondary": "ZOCX",
@@ -1748,7 +1839,7 @@
       "detailPath": "entities/songs/9989b3cd955a7e71.json"
     },
     {
-      "rank": 5990,
+      "rank": 5992,
       "id": "b2bf371ea1116544",
       "name": "チューリップのアップリケ",
       "secondary": "岡林信康",
@@ -1794,7 +1885,7 @@
       "detailPath": "entities/songs/b2bf371ea1116544.json"
     },
     {
-      "rank": 5991,
+      "rank": 5993,
       "id": "359214624a82ef0f",
       "name": "チューリングラブ",
       "secondary": "",
@@ -1839,7 +1930,7 @@
       "detailPath": "entities/songs/359214624a82ef0f.json"
     },
     {
-      "rank": 5992,
+      "rank": 5994,
       "id": "bc16212797ee15ac",
       "name": "チューリングラブ feat. Sou",
       "secondary": "ナナヲアカリ",
@@ -1884,7 +1975,7 @@
       "detailPath": "entities/songs/bc16212797ee15ac.json"
     },
     {
-      "rank": 5993,
+      "rank": 5995,
       "id": "33fcbbade905ad0e",
       "name": "チョコデート・サンデー",
       "secondary": "園田智代子（白石晴香）",
@@ -1929,7 +2020,7 @@
       "detailPath": "entities/songs/33fcbbade905ad0e.json"
     },
     {
-      "rank": 5994,
+      "rank": 5996,
       "id": "8ec76e4479c23c0e",
       "name": "ちょっとあざとい",
       "secondary": "才歌",
@@ -1974,7 +2065,7 @@
       "detailPath": "entities/songs/8ec76e4479c23c0e.json"
     },
     {
-      "rank": 5995,
+      "rank": 5997,
       "id": "9a5eb8075906148a",
       "name": "ちょっと待って！",
       "secondary": "澄花",
@@ -2019,7 +2110,7 @@
       "detailPath": "entities/songs/9a5eb8075906148a.json"
     },
     {
-      "rank": 5996,
+      "rank": 5998,
       "id": "da57401af3d4de8d",
       "name": "チルノのパーフェクトさんすう教室",
       "secondary": "",
@@ -2064,7 +2155,7 @@
       "detailPath": "entities/songs/da57401af3d4de8d.json"
     },
     {
-      "rank": 5997,
+      "rank": 5999,
       "id": "a7f572ca8a0f1d56",
       "name": "つぐない",
       "secondary": "テレサ・テン",
@@ -2109,7 +2200,7 @@
       "detailPath": "entities/songs/a7f572ca8a0f1d56.json"
     },
     {
-      "rank": 5998,
+      "rank": 6000,
       "id": "2be1a06f5b7c1bf7",
       "name": "つないだ手",
       "secondary": "Lil'B",
@@ -2152,96 +2243,6 @@
         }
       ],
       "detailPath": "entities/songs/2be1a06f5b7c1bf7.json"
-    },
-    {
-      "rank": 5999,
-      "id": "83d603493e32aca3",
-      "name": "ツヨク想う",
-      "secondary": "絢香",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "_Jx155ILKL4",
-          "videoTitle": "【 歌枠 | #karaoke 】LIVEありがとうとかCOVERありがとうとかでかいプリンとか【深影 / RK Music】#ghostreaming",
-          "channelName": "深影",
-          "publishedAt": "2026-09-28T19:55:45.212Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_Jx155ILKL4/hqdefault.jpg",
-          "sourcePath": "sources/_J/_Jx155ILKL4.json",
-          "time": "0:39:06",
-          "seconds": 2346,
-          "songTitle": "ツヨク想う",
-          "artist": "絢香"
-        },
-        {
-          "videoId": "mSrCXR77iHU",
-          "videoTitle": "【#歌枠 】連休始めの午後歌枠☕まったり聞いていってね♪ 初見さんも大歓迎✨【華白あらみ】#shorts #karaoke",
-          "channelName": "華白あらみ / Arami ch.",
-          "publishedAt": "2026-09-19T09:09:54.994Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mSrCXR77iHU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCk5gfeQnhHE5GzzzwQqHHd_CjjSg",
-          "sourcePath": "sources/mS/mSrCXR77iHU.json",
-          "time": "2:34:39",
-          "seconds": 9279,
-          "songTitle": "ツヨク想う",
-          "artist": "絢香"
-        }
-      ],
-      "detailPath": "entities/songs/83d603493e32aca3.json"
-    },
-    {
-      "rank": 6000,
-      "id": "bb16fe1c6ee22c21",
-      "name": "ディア",
-      "secondary": "Giga",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "nio5UApqAHs",
-          "videoTitle": "【歌枠】お歌の帝王とはアタシ様のことだよ！",
-          "channelName": "Aokiro!",
-          "publishedAt": "2026-10-02T12:09:11.932Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nio5UApqAHs/hqdefault.jpg",
-          "sourcePath": "sources/ni/nio5UApqAHs.json",
-          "time": "0:08:59",
-          "seconds": 539,
-          "songTitle": "ディア",
-          "artist": "giga"
-        },
-        {
-          "videoId": "ZBmFqNetvfI",
-          "videoTitle": "【 #届けわたしの声歌枠リレー 】大好き、それだけで、まだ歌声は続く。【#LiraVioletta】",
-          "channelName": "Lira Violetta",
-          "publishedAt": "2026-09-26T13:02:34.908Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZBmFqNetvfI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtxxwQdAWciLn_flZrBOhu9G4X2w",
-          "sourcePath": "sources/ZB/ZBmFqNetvfI.json",
-          "time": "0:09:53",
-          "seconds": 593,
-          "songTitle": "ディア",
-          "artist": "Giga"
-        }
-      ],
-      "detailPath": "entities/songs/bb16fe1c6ee22c21.json"
     }
   ]
 }

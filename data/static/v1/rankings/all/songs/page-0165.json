@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "songs",
   "page": 165,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52857,
+  "totalCount": 52870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 8201,
+      "id": "1110a06511ed0cc2",
+      "name": "さよならミッドナイト",
+      "secondary": "もじゃ",
+      "channelId": "UC9zLKU6WiRdcKtAh-6o_zmA",
+      "channelHandle": "@ibaramuan",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "uFubDGL3j8c",
+          "videoTitle": "【#歌枠】お歌と雑談?少し♪ 初見さんも大歓迎✨【華白あらみ】#shorts #karaoke",
+          "channelName": "華白あらみ / Arami ch.",
+          "publishedAt": "2026-09-13T18:03:11.179Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uFubDGL3j8c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMG940umI4Fa_IUmjlY98Sj9Kj7Q",
+          "sourcePath": "sources/uF/uFubDGL3j8c.json",
+          "time": "0:52:11",
+          "seconds": 3131,
+          "songTitle": "さよならミッドナイト",
+          "artist": "もじゃ"
+        },
+        {
+          "videoId": "mZ1CEOzKoPE",
+          "videoTitle": "【 #歌枠 】チル会場はこちらです。 初見さん歓迎【 茨むあん︙Vsinger 】#vtuber #睡眠導入",
+          "channelName": "Muan ch.茨むあん",
+          "publishedAt": "2026-07-21T16:53:48.552Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mZ1CEOzKoPE/hqdefault.jpg",
+          "sourcePath": "sources/mZ/mZ1CEOzKoPE.json",
+          "time": "1:06:06",
+          "seconds": 3966,
+          "songTitle": "さよならミッドナイト",
+          "artist": "もじゃ"
+        },
+        {
+          "videoId": "5MfDQs8OqkQ",
+          "videoTitle": "【 #歌枠 】明日はライブ！楽しんでこ✊初見さん歓迎【 茨むあん︙Vsinger 】#vtuber #karaoke",
+          "channelName": "Muan ch.茨むあん",
+          "publishedAt": "2026-07-10T19:11:44.454Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5MfDQs8OqkQ/hqdefault.jpg",
+          "sourcePath": "sources/5M/5MfDQs8OqkQ.json",
+          "time": "3:21:49",
+          "seconds": 12109,
+          "songTitle": "さよならミッドナイト",
+          "artist": "もじゃ"
+        }
+      ],
+      "detailPath": "entities/songs/1110a06511ed0cc2.json"
+    },
+    {
+      "rank": 8202,
       "id": "e439cb2d19f07e35",
       "name": "さよならを教えて",
       "secondary": "MELL",
@@ -67,7 +127,7 @@
       "detailPath": "entities/songs/e439cb2d19f07e35.json"
     },
     {
-      "rank": 8202,
+      "rank": 8203,
       "id": "4a5eb728ceca616a",
       "name": "さよなら夏の日",
       "secondary": "山下達郎",
@@ -128,7 +188,7 @@
       "detailPath": "entities/songs/4a5eb728ceca616a.json"
     },
     {
-      "rank": 8203,
+      "rank": 8204,
       "id": "9dc2c56049eefce8",
       "name": "サライ",
       "secondary": "谷村新司",
@@ -185,7 +245,7 @@
       "detailPath": "entities/songs/9dc2c56049eefce8.json"
     },
     {
-      "rank": 8204,
+      "rank": 8205,
       "id": "5882a6f9dd16ce90",
       "name": "さらば碧き面影",
       "secondary": "ロードオブメジャー",
@@ -245,7 +305,7 @@
       "detailPath": "entities/songs/5882a6f9dd16ce90.json"
     },
     {
-      "rank": 8205,
+      "rank": 8206,
       "id": "a8366f0609e86ca3",
       "name": "サラマンダー",
       "secondary": "DECO*27 feat. 初音ミク",
@@ -303,7 +363,7 @@
       "detailPath": "entities/songs/a8366f0609e86ca3.json"
     },
     {
-      "rank": 8206,
+      "rank": 8207,
       "id": "08bb6d3ae17fc22c",
       "name": "サンキュー!!",
       "secondary": "HOME MADE 家族",
@@ -363,7 +423,7 @@
       "detailPath": "entities/songs/08bb6d3ae17fc22c.json"
     },
     {
-      "rank": 8207,
+      "rank": 8208,
       "id": "bc3897a5bb91b539",
       "name": "サンタマリア",
       "secondary": "米津玄師",
@@ -423,7 +483,7 @@
       "detailPath": "entities/songs/bc3897a5bb91b539.json"
     },
     {
-      "rank": 8208,
+      "rank": 8209,
       "id": "9845e8fe102dbccf",
       "name": "サンドリヨン",
       "secondary": "シグナルP feat.初音ミク、KAITO",
@@ -480,7 +540,7 @@
       "detailPath": "entities/songs/9845e8fe102dbccf.json"
     },
     {
-      "rank": 8209,
+      "rank": 8210,
       "id": "380eba9e9c0f3f36",
       "name": "サンドリヨン",
       "secondary": "",
@@ -537,7 +597,7 @@
       "detailPath": "entities/songs/380eba9e9c0f3f36.json"
     },
     {
-      "rank": 8210,
+      "rank": 8211,
       "id": "355bcbe2fb75fff3",
       "name": "さんぽ",
       "secondary": "",
@@ -594,7 +654,7 @@
       "detailPath": "entities/songs/355bcbe2fb75fff3.json"
     },
     {
-      "rank": 8211,
+      "rank": 8212,
       "id": "a48984a696b418f3",
       "name": "シアワセネイロ",
       "secondary": "ORANGERANGE",
@@ -651,7 +711,7 @@
       "detailPath": "entities/songs/a48984a696b418f3.json"
     },
     {
-      "rank": 8212,
+      "rank": 8213,
       "id": "ad3fe30903ea63e8",
       "name": "シーグラス",
       "secondary": "Saucy Dog",
@@ -708,7 +768,7 @@
       "detailPath": "entities/songs/ad3fe30903ea63e8.json"
     },
     {
-      "rank": 8213,
+      "rank": 8214,
       "id": "afdbf33beb8a6e9b",
       "name": "シークレットプリンセス",
       "secondary": "桜井優亜(cv.釘宮理恵)",
@@ -765,7 +825,7 @@
       "detailPath": "entities/songs/afdbf33beb8a6e9b.json"
     },
     {
-      "rank": 8214,
+      "rank": 8215,
       "id": "604ccc7dd38578ec",
       "name": "シズムリウム",
       "secondary": "焔魔るり",
@@ -824,7 +884,7 @@
       "detailPath": "entities/songs/604ccc7dd38578ec.json"
     },
     {
-      "rank": 8215,
+      "rank": 8216,
       "id": "c6b97427751758c7",
       "name": "シックス・フィート・アンダー",
       "secondary": "Aqu3ra",
@@ -881,7 +941,7 @@
       "detailPath": "entities/songs/c6b97427751758c7.json"
     },
     {
-      "rank": 8216,
+      "rank": 8217,
       "id": "46914ddf37a038b5",
       "name": "シャイニングデイズ",
       "secondary": "桜庭羽奈",
@@ -940,7 +1000,7 @@
       "detailPath": "entities/songs/46914ddf37a038b5.json"
     },
     {
-      "rank": 8217,
+      "rank": 8218,
       "id": "854def6606fd838f",
       "name": "ジャスミン",
       "secondary": "牧野由依",
@@ -997,7 +1057,7 @@
       "detailPath": "entities/songs/854def6606fd838f.json"
     },
     {
-      "rank": 8218,
+      "rank": 8219,
       "id": "cc4ed632a4611aee",
       "name": "シャルル",
       "secondary": "flower",
@@ -1058,7 +1118,7 @@
       "detailPath": "entities/songs/cc4ed632a4611aee.json"
     },
     {
-      "rank": 8219,
+      "rank": 8220,
       "id": "a358ee047f0cef24",
       "name": "ジャングルジム",
       "secondary": "BUMP OF CHICKEN",
@@ -1118,7 +1178,7 @@
       "detailPath": "entities/songs/a358ee047f0cef24.json"
     },
     {
-      "rank": 8220,
+      "rank": 8221,
       "id": "fa98e3cf28b9f137",
       "name": "シャンティ",
       "secondary": "未記載",
@@ -1175,7 +1235,7 @@
       "detailPath": "entities/songs/fa98e3cf28b9f137.json"
     },
     {
-      "rank": 8221,
+      "rank": 8222,
       "id": "75f672af9fadceec",
       "name": "ジャンピン",
       "secondary": "KARA",
@@ -1233,7 +1293,7 @@
       "detailPath": "entities/songs/75f672af9fadceec.json"
     },
     {
-      "rank": 8222,
+      "rank": 8223,
       "id": "0a4c6632c424c2fd",
       "name": "シュガー",
       "secondary": "内緒のピアス",
@@ -1290,7 +1350,7 @@
       "detailPath": "entities/songs/0a4c6632c424c2fd.json"
     },
     {
-      "rank": 8223,
+      "rank": 8224,
       "id": "e38eade7687db186",
       "name": "シュガーコート",
       "secondary": "ダズビー",
@@ -1349,7 +1409,7 @@
       "detailPath": "entities/songs/e38eade7687db186.json"
     },
     {
-      "rank": 8224,
+      "rank": 8225,
       "id": "562a10df3bc782c2",
       "name": "しゅきぴ",
       "secondary": "",
@@ -1406,7 +1466,7 @@
       "detailPath": "entities/songs/562a10df3bc782c2.json"
     },
     {
-      "rank": 8225,
+      "rank": 8226,
       "id": "5d1e1a9dbd3903c5",
       "name": "ジュゴンの見える丘",
       "secondary": "Cocco",
@@ -1464,7 +1524,7 @@
       "detailPath": "entities/songs/5d1e1a9dbd3903c5.json"
     },
     {
-      "rank": 8226,
+      "rank": 8227,
       "id": "c7377ccccde99b7b",
       "name": "シュビドゥビ☆スイーツタイム",
       "secondary": "宮本佳那子",
@@ -1524,7 +1584,7 @@
       "detailPath": "entities/songs/c7377ccccde99b7b.json"
     },
     {
-      "rank": 8227,
+      "rank": 8228,
       "id": "4be68990e311cd9f",
       "name": "ジュブナイル",
       "secondary": "Dixie Flatline feat. 鏡音リン×鏡音レン",
@@ -1583,7 +1643,7 @@
       "detailPath": "entities/songs/4be68990e311cd9f.json"
     },
     {
-      "rank": 8228,
+      "rank": 8229,
       "id": "881ea9d12f58b85b",
       "name": "ジュブナイル",
       "secondary": "Dixie Flatline",
@@ -1640,7 +1700,7 @@
       "detailPath": "entities/songs/881ea9d12f58b85b.json"
     },
     {
-      "rank": 8229,
+      "rank": 8230,
       "id": "5413e6fb1625ad5e",
       "name": "ジョジョ その血の記憶～end of THE WORLD～",
       "secondary": "JO☆STARS ~TOMMY,Coda,JIN~",
@@ -1697,7 +1757,7 @@
       "detailPath": "entities/songs/5413e6fb1625ad5e.json"
     },
     {
-      "rank": 8230,
+      "rank": 8231,
       "id": "019efbf8ede5239d",
       "name": "シリョクケンサ",
       "secondary": "40mP feat.初音ミク",
@@ -1757,7 +1817,7 @@
       "detailPath": "entities/songs/019efbf8ede5239d.json"
     },
     {
-      "rank": 8231,
+      "rank": 8232,
       "id": "8e8bb7bba4ce9eae",
       "name": "シリョクケンサ",
       "secondary": "",
@@ -1814,7 +1874,7 @@
       "detailPath": "entities/songs/8e8bb7bba4ce9eae.json"
     },
     {
-      "rank": 8232,
+      "rank": 8233,
       "id": "1847bc470ae8d4d7",
       "name": "シル・ヴ・プレジデント",
       "secondary": "未記載",
@@ -1871,7 +1931,7 @@
       "detailPath": "entities/songs/1847bc470ae8d4d7.json"
     },
     {
-      "rank": 8233,
+      "rank": 8234,
       "id": "e80c84edbc04cc9e",
       "name": "シルエット",
       "secondary": "Penthouse",
@@ -1928,7 +1988,7 @@
       "detailPath": "entities/songs/e80c84edbc04cc9e.json"
     },
     {
-      "rank": 8234,
+      "rank": 8235,
       "id": "9af1c45790c85ea1",
       "name": "シルエット",
       "secondary": "KANAｰBOON",
@@ -1982,7 +2042,7 @@
       "detailPath": "entities/songs/9af1c45790c85ea1.json"
     },
     {
-      "rank": 8235,
+      "rank": 8236,
       "id": "8a1f1671df100de7",
       "name": "シルエット・ロマンス",
       "secondary": "大橋純子",
@@ -2039,7 +2099,7 @@
       "detailPath": "entities/songs/8a1f1671df100de7.json"
     },
     {
-      "rank": 8236,
+      "rank": 8237,
       "id": "cf7a96209da36f5d",
       "name": "ジングルベル",
       "secondary": "童謡",
@@ -2096,7 +2156,7 @@
       "detailPath": "entities/songs/cf7a96209da36f5d.json"
     },
     {
-      "rank": 8237,
+      "rank": 8238,
       "id": "0badb846f45ebeb7",
       "name": "シンクロサイクロトロン・スピリチュアライザー",
       "secondary": "砂粒 feat. GUMI",
@@ -2154,7 +2214,7 @@
       "detailPath": "entities/songs/0badb846f45ebeb7.json"
     },
     {
-      "rank": 8238,
+      "rank": 8239,
       "id": "ca396bb7d5395125",
       "name": "シンクロニシティ",
       "secondary": "乃木坂46",
@@ -2211,7 +2271,7 @@
       "detailPath": "entities/songs/ca396bb7d5395125.json"
     },
     {
-      "rank": 8239,
+      "rank": 8240,
       "id": "f331dcab03f87e6e",
       "name": "シンシア・愛する人",
       "secondary": "岡崎律子",
@@ -2271,7 +2331,7 @@
       "detailPath": "entities/songs/f331dcab03f87e6e.json"
     },
     {
-      "rank": 8240,
+      "rank": 8241,
       "id": "13a10f894bb3771b",
       "name": "シンデレラ",
       "secondary": "奧華子",
@@ -2331,7 +2391,7 @@
       "detailPath": "entities/songs/13a10f894bb3771b.json"
     },
     {
-      "rank": 8241,
+      "rank": 8242,
       "id": "8fcb048ffff4f14e",
       "name": "す、好きじゃない!",
       "secondary": "≠ME",
@@ -2390,7 +2450,7 @@
       "detailPath": "entities/songs/8fcb048ffff4f14e.json"
     },
     {
-      "rank": 8242,
+      "rank": 8243,
       "id": "2682607f7f3dceb8",
       "name": "スイートマジック",
       "secondary": "ろん×Junky",
@@ -2448,7 +2508,7 @@
       "detailPath": "entities/songs/2682607f7f3dceb8.json"
     },
     {
-      "rank": 8243,
+      "rank": 8244,
       "id": "6c59e98a9dd5169b",
       "name": "スーサイドパレヱド",
       "secondary": "ユリイ・カノン feat. GUMI",
@@ -2505,7 +2565,7 @@
       "detailPath": "entities/songs/6c59e98a9dd5169b.json"
     },
     {
-      "rank": 8244,
+      "rank": 8245,
       "id": "da9f75a3fcee5cb1",
       "name": "スカーレット",
       "secondary": "岩男潤子",
@@ -2563,7 +2623,7 @@
       "detailPath": "entities/songs/da9f75a3fcee5cb1.json"
     },
     {
-      "rank": 8245,
+      "rank": 8246,
       "id": "53944a14c69b9c75",
       "name": "すき、きらい",
       "secondary": "ファントムシータ",
@@ -2620,7 +2680,7 @@
       "detailPath": "entities/songs/53944a14c69b9c75.json"
     },
     {
-      "rank": 8246,
+      "rank": 8247,
       "id": "803c8b6a29198bd9",
       "name": "スキキライ",
       "secondary": "HoneyWorks feat.鏡音リン,鏡音レン",
@@ -2679,7 +2739,7 @@
       "detailPath": "entities/songs/803c8b6a29198bd9.json"
     },
     {
-      "rank": 8247,
+      "rank": 8248,
       "id": "4f7189e083e36401",
       "name": "スキスキハンター",
       "secondary": "Special for Princess!",
@@ -2736,7 +2796,7 @@
       "detailPath": "entities/songs/4f7189e083e36401.json"
     },
     {
-      "rank": 8248,
+      "rank": 8249,
       "id": "ac825c498e4e6883",
       "name": "スキスキ絶 頂症",
       "secondary": "koyori",
@@ -2793,7 +2853,7 @@
       "detailPath": "entities/songs/ac825c498e4e6883.json"
     },
     {
-      "rank": 8249,
+      "rank": 8250,
       "id": "4a30d583b36bef6d",
       "name": "すきっちゅーの！",
       "secondary": "HoneyWorks feat. かぴ",
@@ -2848,64 +2908,6 @@
         }
       ],
       "detailPath": "entities/songs/4a30d583b36bef6d.json"
-    },
-    {
-      "rank": 8250,
-      "id": "34a11205cec6b577",
-      "name": "スキップ・ビート",
-      "secondary": "KUWATA BAND",
-      "channelId": "UCC1plsUdlS1xmW4NHcceH9w",
-      "channelHandle": "@%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89ch",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "_SLqcc3gUF0",
-          "videoTitle": "#02 野郎の弾き語り雑談 - けものさん",
-          "channelName": "けものさん",
-          "publishedAt": "2026-09-26T15:09:58.726Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_SLqcc3gUF0/hqdefault.jpg",
-          "sourcePath": "sources/_S/_SLqcc3gUF0.json",
-          "time": "0:12:52",
-          "seconds": 772,
-          "songTitle": "スキップ・ビート",
-          "artist": "KUWATA BAND"
-        },
-        {
-          "videoId": "mSrCXR77iHU",
-          "videoTitle": "【#歌枠 】連休始めの午後歌枠☕まったり聞いていってね♪ 初見さんも大歓迎✨【華白あらみ】#shorts #karaoke",
-          "channelName": "華白あらみ / Arami ch.",
-          "publishedAt": "2026-09-19T09:09:54.994Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mSrCXR77iHU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCk5gfeQnhHE5GzzzwQqHHd_CjjSg",
-          "sourcePath": "sources/mS/mSrCXR77iHU.json",
-          "time": "1:52:37",
-          "seconds": 6757,
-          "songTitle": "スキップ・ビート",
-          "artist": "KUWATA BAND"
-        },
-        {
-          "videoId": "klCWmp73v3Y",
-          "videoTitle": "【懐メロ歌枠】今夜は、あの頃に帰ろう。80〜90年代ロック＆POPを歌う夜🎤｜AIサブローとカラオケLIVE",
-          "channelName": "Richard-ch リチャードチャンネル",
-          "publishedAt": "2026-09-11T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/klCWmp73v3Y/hqdefault.jpg",
-          "sourcePath": "sources/kl/klCWmp73v3Y.json",
-          "time": "1:09:40",
-          "seconds": 4180,
-          "songTitle": "スキップ・ビート",
-          "artist": "KUWATA BAND"
-        }
-      ],
-      "detailPath": "entities/songs/34a11205cec6b577.json"
     }
   ]
 }

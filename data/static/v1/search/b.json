@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "items": [
     {
       "id": "b9c0b1d013fc22a1",
@@ -1763,8 +1763,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
           "occurrenceCount": 40,
@@ -25485,17 +25485,24 @@
       "type": "songs",
       "name": "恋わずらい",
       "secondary": "椿屋四重奏",
-      "occurrenceCount": 1,
-      "videoCount": 1,
+      "occurrenceCount": 2,
+      "videoCount": 2,
       "keywords": [
         "month",
         "mygit_today_snapshot",
-        "today"
+        "mygit今日快照",
+        "today",
+        "歌枠"
       ],
       "collected": false,
       "collectionId": "",
       "detailPath": "entities/songs/bdc16061608ca178.json",
-      "rangeMetrics": {},
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
       "text": "恋わずらい椿屋四重奏"
     },
     {
@@ -76159,8 +76166,8 @@
           "videoCount": 4
         },
         "7d": {
-          "occurrenceCount": 23,
-          "videoCount": 20
+          "occurrenceCount": 21,
+          "videoCount": 19
         },
         "30d": {
           "occurrenceCount": 274,
@@ -76549,8 +76556,8 @@
           "videoCount": 7
         },
         "7d": {
-          "occurrenceCount": 28,
-          "videoCount": 21
+          "occurrenceCount": 26,
+          "videoCount": 20
         },
         "30d": {
           "occurrenceCount": 347,
@@ -78950,8 +78957,8 @@
       "type": "artists",
       "name": "ナノウ",
       "secondary": "",
-      "occurrenceCount": 125,
-      "videoCount": 123,
+      "occurrenceCount": 126,
+      "videoCount": 124,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78966,8 +78973,8 @@
       "detailPath": "entities/artists/b591f513476a5a90.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 46,
-          "videoCount": 44
+          "occurrenceCount": 47,
+          "videoCount": 45
         }
       },
       "text": "ナノウ"

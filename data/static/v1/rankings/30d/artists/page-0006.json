@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "artists",
   "page": 6,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10852,
+  "totalCount": 10856,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 251,
+      "id": "82d0810272454fc5",
+      "name": "MONGOL800",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 46,
+      "videoCount": 46,
+      "songCount": 2,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "R_V3yADtHfs",
+          "videoTitle": "真夜中にアコギ弾く【弾き語り配信】",
+          "channelName": "ヤヅキ / やづけん",
+          "publishedAt": "2026-10-09T18:25:12.646Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/R_V3yADtHfs/hqdefault.jpg",
+          "sourcePath": "sources/R_/R_V3yADtHfs.json",
+          "time": "1:40:18",
+          "seconds": 6018,
+          "songTitle": "小さな恋のうた",
+          "artist": "MONGOL800"
+        },
+        {
+          "videoId": "tOD_O0-wI0c",
+          "videoTitle": "【歌枠/karaoke】高評価111&同接30人目標！！1曲聴いていって～～！ 久遠なつめ【#9on_air 】 #vtuber",
+          "channelName": "久遠なつめ natsume channel",
+          "publishedAt": "2026-10-06T15:28:06.554Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tOD_O0-wI0c/hqdefault.jpg",
+          "sourcePath": "sources/tO/tOD_O0-wI0c.json",
+          "time": "2:13:30",
+          "seconds": 8010,
+          "songTitle": "小さな恋のうた",
+          "artist": "MONGOL800"
+        },
+        {
+          "videoId": "w738YGbPQtQ",
+          "videoTitle": "【定期歌枠/karaoke】初見さん大歓迎✨今日はどんな曲で盛り上がる？？オリ曲も歌詞動画付きで歌うよ！",
+          "channelName": "天音 彩🫧Amane Iro",
+          "publishedAt": "2026-10-05T16:43:46.809Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w738YGbPQtQ/hqdefault.jpg",
+          "sourcePath": "sources/w7/w738YGbPQtQ.json",
+          "time": "1:57:34",
+          "seconds": 7054,
+          "songTitle": "小さな恋のうた",
+          "artist": "MONGOL800"
+        }
+      ],
+      "detailPath": "entities/artists/82d0810272454fc5.json"
+    },
+    {
+      "rank": 252,
       "id": "f8f4ecb7d0ec3f80",
       "name": "Heavenz",
       "secondary": "",
@@ -66,64 +124,6 @@
         }
       ],
       "detailPath": "entities/artists/f8f4ecb7d0ec3f80.json"
-    },
-    {
-      "rank": 252,
-      "id": "b591f513476a5a90",
-      "name": "ナノウ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 46,
-      "videoCount": 44,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ek9_Odm7hR0",
-          "videoTitle": "〖歌枠〗古城よりゆったりお歌をお届けします🥀✨〖Rosetta〗| #ローズガーデンでお茶会 #karaoke",
-          "channelName": "Rosetta / ロゼッタ",
-          "publishedAt": "2026-10-04T15:51:44.743Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ek9_Odm7hR0/hqdefault.jpg",
-          "sourcePath": "sources/ek/ek9_Odm7hR0.json",
-          "time": "0:19:00",
-          "seconds": 1140,
-          "songTitle": "ハロ/ハワユ",
-          "artist": "ナノウ"
-        },
-        {
-          "videoId": "1DQwdmWPSNM",
-          "videoTitle": "【歌枠】お昼の歌枠🎤14時頃まで！リクエストする時は概要欄見てね🙌【柚園】#shorts #vtuber",
-          "channelName": "柚園🍊ぞのちゃんねる",
-          "publishedAt": "2026-10-04T05:11:03.733Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1DQwdmWPSNM/hqdefault.jpg",
-          "sourcePath": "sources/1D/1DQwdmWPSNM.json",
-          "time": "0:34:45",
-          "seconds": 2085,
-          "songTitle": "ハロ／ハワユ",
-          "artist": "ナノウ"
-        },
-        {
-          "videoId": "XQd0KcQs7yA",
-          "videoTitle": "【歌枠】ガチ練習します【vtuber】",
-          "channelName": "ナガレ",
-          "publishedAt": "2026-10-02T14:51:11.612Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XQd0KcQs7yA/hqdefault.jpg",
-          "sourcePath": "sources/XQ/XQd0KcQs7yA.json",
-          "time": "0:44:33",
-          "seconds": 2673,
-          "songTitle": "ハロ/ハワユ",
-          "artist": "ナノウ"
-        }
-      ],
-      "detailPath": "entities/artists/b591f513476a5a90.json"
     },
     {
       "rank": 253,

@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "artists",
   "page": 370,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20018,
+  "totalCount": 20021,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 18451,
+      "id": "6f8ba9541cf162a6",
+      "name": "田村ゆかり / 極上生徒会",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "hsWrL7YgWsA",
+          "videoTitle": "【#歌枠】ヒットソングアニソンメドレー#2【#新人vtuber】",
+          "channelName": "春原すずの",
+          "publishedAt": "2026-09-12T06:52:31.987Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hsWrL7YgWsA/hqdefault.jpg",
+          "sourcePath": "sources/hs/hsWrL7YgWsA.json",
+          "time": "1:24:24",
+          "seconds": 5064,
+          "songTitle": "恋せよ女の子",
+          "artist": "田村ゆかり / 極上生徒会"
+        }
+      ],
+      "detailPath": "entities/artists/6f8ba9541cf162a6.json"
+    },
+    {
+      "rank": 18452,
       "id": "6bbac33be55784ee",
       "name": "田村ゆかり / 変態王子と笑わない猫。",
       "secondary": "",
@@ -43,7 +76,7 @@
       "detailPath": "entities/artists/6bbac33be55784ee.json"
     },
     {
-      "rank": 18452,
+      "rank": 18453,
       "id": "5d61ccdb1bd5fbfc",
       "name": "田村ゆかり(2006年)",
       "secondary": "",
@@ -76,7 +109,7 @@
       "detailPath": "entities/artists/5d61ccdb1bd5fbfc.json"
     },
     {
-      "rank": 18453,
+      "rank": 18454,
       "id": "5e7cbf3d3e64e9f5",
       "name": "田村ゆかり（TVアニメ『変態王子と笑わない猫。』OPテーマ）",
       "secondary": "",
@@ -106,7 +139,7 @@
       "detailPath": "entities/artists/5e7cbf3d3e64e9f5.json"
     },
     {
-      "rank": 18454,
+      "rank": 18455,
       "id": "eee65b34289b38ce",
       "name": "田村ゆかり(三井ゆきこ,太田雅友)",
       "secondary": "",
@@ -140,7 +173,7 @@
       "detailPath": "entities/artists/eee65b34289b38ce.json"
     },
     {
-      "rank": 18455,
+      "rank": 18456,
       "id": "2edaa776d4049307",
       "name": "田村ゆかり(畑亜貴,太田雅友)",
       "secondary": "",
@@ -174,7 +207,7 @@
       "detailPath": "entities/artists/2edaa776d4049307.json"
     },
     {
-      "rank": 18456,
+      "rank": 18457,
       "id": "c365a438c1a16b77",
       "name": "田村英里子",
       "secondary": "",
@@ -207,7 +240,7 @@
       "detailPath": "entities/artists/c365a438c1a16b77.json"
     },
     {
-      "rank": 18457,
+      "rank": 18458,
       "id": "36b6201418d219fb",
       "name": "田村直美 ポケットモンスターより",
       "secondary": "",
@@ -237,7 +270,7 @@
       "detailPath": "entities/artists/36b6201418d219fb.json"
     },
     {
-      "rank": 18458,
+      "rank": 18459,
       "id": "e508b47726990cec",
       "name": "田村直美（90.895点）",
       "secondary": "",
@@ -271,7 +304,7 @@
       "detailPath": "entities/artists/e508b47726990cec.json"
     },
     {
-      "rank": 18459,
+      "rank": 18460,
       "id": "3dd8288acccefbc3",
       "name": "田村直美（91.791点）",
       "secondary": "",
@@ -305,7 +338,7 @@
       "detailPath": "entities/artists/3dd8288acccefbc3.json"
     },
     {
-      "rank": 18460,
+      "rank": 18461,
       "id": "f8ce46e89365281a",
       "name": "田村直美（アニメ『魔法騎士レイアース』OP）",
       "secondary": "",
@@ -338,7 +371,7 @@
       "detailPath": "entities/artists/f8ce46e89365281a.json"
     },
     {
-      "rank": 18461,
+      "rank": 18462,
       "id": "6a227374b645a3bc",
       "name": "田村直美（少しだけ）",
       "secondary": "",
@@ -371,7 +404,7 @@
       "detailPath": "entities/artists/6a227374b645a3bc.json"
     },
     {
-      "rank": 18462,
+      "rank": 18463,
       "id": "adfee3b45ef86658",
       "name": "田中 誠人 (2022年6月)",
       "secondary": "",
@@ -404,7 +437,7 @@
       "detailPath": "entities/artists/adfee3b45ef86658.json"
     },
     {
-      "rank": 18463,
+      "rank": 18464,
       "id": "19446cb5ce762b99",
       "name": "田中B (-2)",
       "secondary": "",
@@ -437,7 +470,7 @@
       "detailPath": "entities/artists/19446cb5ce762b99.json"
     },
     {
-      "rank": 18464,
+      "rank": 18465,
       "id": "c100c565e810ac79",
       "name": "田中あいみ (2015年8月)",
       "secondary": "",
@@ -470,7 +503,7 @@
       "detailPath": "entities/artists/c100c565e810ac79.json"
     },
     {
-      "rank": 18465,
+      "rank": 18466,
       "id": "b7bba76fcda87feb",
       "name": "田中あいみ (2017年11月)",
       "secondary": "",
@@ -503,7 +536,7 @@
       "detailPath": "entities/artists/b7bba76fcda87feb.json"
     },
     {
-      "rank": 18466,
+      "rank": 18467,
       "id": "86b7da4f44495a1b",
       "name": "田中エイミ",
       "secondary": "",
@@ -537,7 +570,7 @@
       "detailPath": "entities/artists/86b7da4f44495a1b.json"
     },
     {
-      "rank": 18467,
+      "rank": 18468,
       "id": "ef16e3dcaa496a8d",
       "name": "田中マイミ / JS",
       "secondary": "",
@@ -570,7 +603,7 @@
       "detailPath": "entities/artists/ef16e3dcaa496a8d.json"
     },
     {
-      "rank": 18468,
+      "rank": 18469,
       "id": "5f7f040513b71646",
       "name": "田中昌之（仮面ライダークウガ）",
       "secondary": "",
@@ -604,7 +637,7 @@
       "detailPath": "entities/artists/5f7f040513b71646.json"
     },
     {
-      "rank": 18469,
+      "rank": 18470,
       "id": "872c8f1b3253c9da",
       "name": "田中誠人（2026年）",
       "secondary": "",
@@ -637,7 +670,7 @@
       "detailPath": "entities/artists/872c8f1b3253c9da.json"
     },
     {
-      "rank": 18470,
+      "rank": 18471,
       "id": "2ca0b87241fcb2fe",
       "name": "田中理恵 清唱 Revenge",
       "secondary": "",
@@ -670,7 +703,7 @@
       "detailPath": "entities/artists/2ca0b87241fcb2fe.json"
     },
     {
-      "rank": 18471,
+      "rank": 18472,
       "id": "fb18d2a4d0a69360",
       "name": "田中理恵 様(ラクス・クライン\" 様\")",
       "secondary": "",
@@ -703,7 +736,7 @@
       "detailPath": "entities/artists/fb18d2a4d0a69360.json"
     },
     {
-      "rank": 18472,
+      "rank": 18473,
       "id": "f38f31accc0c0589",
       "name": "田中理恵(ミーア・キャンベル)",
       "secondary": "",
@@ -736,7 +769,7 @@
       "detailPath": "entities/artists/f38f31accc0c0589.json"
     },
     {
-      "rank": 18473,
+      "rank": 18474,
       "id": "f7416f13e32581ec",
       "name": "田中理恵(ミーア・キャンベル) 93.163",
       "secondary": "",
@@ -766,7 +799,7 @@
       "detailPath": "entities/artists/f7416f13e32581ec.json"
     },
     {
-      "rank": 18474,
+      "rank": 18475,
       "id": "efc7b470176468b2",
       "name": "田中理恵(ミーア・キャンベル) 94.131",
       "secondary": "",
@@ -796,7 +829,7 @@
       "detailPath": "entities/artists/efc7b470176468b2.json"
     },
     {
-      "rank": 18475,
+      "rank": 18476,
       "id": "1bffc7a94d206f9b",
       "name": "田中理恵(ラクス・クライン) ※JOYSOUND",
       "secondary": "",
@@ -829,7 +862,7 @@
       "detailPath": "entities/artists/1bffc7a94d206f9b.json"
     },
     {
-      "rank": 18476,
+      "rank": 18477,
       "id": "144ae426f789b8e7",
       "name": "田柾國 Ft. Latto",
       "secondary": "",
@@ -862,7 +895,7 @@
       "detailPath": "entities/artists/144ae426f789b8e7.json"
     },
     {
-      "rank": 18477,
+      "rank": 18478,
       "id": "4b7743c5979d6b71",
       "name": "田馥甄(小梅)",
       "secondary": "",
@@ -895,7 +928,7 @@
       "detailPath": "entities/artists/4b7743c5979d6b71.json"
     },
     {
-      "rank": 18478,
+      "rank": 18479,
       "id": "64ab2ba6f52e499b",
       "name": "田馥甄(娜比)",
       "secondary": "",
@@ -928,7 +961,7 @@
       "detailPath": "entities/artists/64ab2ba6f52e499b.json"
     },
     {
-      "rank": 18479,
+      "rank": 18480,
       "id": "4c2bcc74f939f2bf",
       "name": "電ǂ鯨 様",
       "secondary": "",
@@ -958,7 +991,7 @@
       "detailPath": "entities/artists/4c2bcc74f939f2bf.json"
     },
     {
-      "rank": 18480,
+      "rank": 18481,
       "id": "20702ddbbdb9d748",
       "name": "電ポル",
       "secondary": "",
@@ -991,7 +1024,7 @@
       "detailPath": "entities/artists/20702ddbbdb9d748.json"
     },
     {
-      "rank": 18481,
+      "rank": 18482,
       "id": "b46b6f03611daaab",
       "name": "電ポルP (Denpol-P) ft. 初音ミク",
       "secondary": "",
@@ -1025,7 +1058,7 @@
       "detailPath": "entities/artists/b46b6f03611daaab.json"
     },
     {
-      "rank": 18482,
+      "rank": 18483,
       "id": "28e590795b6061fc",
       "name": "電ポルP feat. v flower",
       "secondary": "",
@@ -1058,7 +1091,7 @@
       "detailPath": "entities/artists/28e590795b6061fc.json"
     },
     {
-      "rank": 18483,
+      "rank": 18484,
       "id": "18f93f849b11c94b",
       "name": "電ポルP feat.flower",
       "secondary": "",
@@ -1091,7 +1124,7 @@
       "detailPath": "entities/artists/18f93f849b11c94b.json"
     },
     {
-      "rank": 18484,
+      "rank": 18485,
       "id": "f5a40c53524de296",
       "name": "電ポルP feat.GUMI ※JOYSOUND",
       "secondary": "",
@@ -1124,7 +1157,7 @@
       "detailPath": "entities/artists/f5a40c53524de296.json"
     },
     {
-      "rank": 18485,
+      "rank": 18486,
       "id": "52423668ccaad1fd",
       "name": "電ポルP feat.初音ミク ※JOYSOUND",
       "secondary": "",
@@ -1157,7 +1190,7 @@
       "detailPath": "entities/artists/52423668ccaad1fd.json"
     },
     {
-      "rank": 18486,
+      "rank": 18487,
       "id": "ca511f979943c25d",
       "name": "電ポルP(koyori) feat. GUMI",
       "secondary": "",
@@ -1190,7 +1223,7 @@
       "detailPath": "entities/artists/ca511f979943c25d.json"
     },
     {
-      "rank": 18487,
+      "rank": 18488,
       "id": "a86e6025636ba4fe",
       "name": "電影《超時空要塞マクロス 愛・おぼえていますか》主題曲",
       "secondary": "",
@@ -1224,7 +1257,7 @@
       "detailPath": "entities/artists/a86e6025636ba4fe.json"
     },
     {
-      "rank": 18488,
+      "rank": 18489,
       "id": "eb099a2a30e62099",
       "name": "電影《唐紅的戀歌》主題曲",
       "secondary": "",
@@ -1257,7 +1290,7 @@
       "detailPath": "entities/artists/eb099a2a30e62099.json"
     },
     {
-      "rank": 18489,
+      "rank": 18490,
       "id": "b642653a606a5311",
       "name": "電影《動物方城市2》主題曲",
       "secondary": "",
@@ -1291,7 +1324,7 @@
       "detailPath": "entities/artists/b642653a606a5311.json"
     },
     {
-      "rank": 18490,
+      "rank": 18491,
       "id": "cfe154cf10be5d26",
       "name": "電影《聲之形》主題曲",
       "secondary": "",
@@ -1325,7 +1358,7 @@
       "detailPath": "entities/artists/cfe154cf10be5d26.json"
     },
     {
-      "rank": 18491,
+      "rank": 18492,
       "id": "dea9ee9203bab6ad",
       "name": "電音部,TAKU INOUE,東雲和音 (CV:天音みほ)",
       "secondary": "",
@@ -1358,7 +1391,7 @@
       "detailPath": "entities/artists/dea9ee9203bab6ad.json"
     },
     {
-      "rank": 18492,
+      "rank": 18493,
       "id": "f05922656c6ca685",
       "name": "電気科わっしょい",
       "secondary": "",
@@ -1391,7 +1424,7 @@
       "detailPath": "entities/artists/f05922656c6ca685.json"
     },
     {
-      "rank": 18493,
+      "rank": 18494,
       "id": "2dfa7211ba2b3943",
       "name": "電撃戦隊チェンジマン",
       "secondary": "",
@@ -1424,7 +1457,7 @@
       "detailPath": "entities/artists/2dfa7211ba2b3943.json"
     },
     {
-      "rank": 18494,
+      "rank": 18495,
       "id": "ee0f887f9b227f3c",
       "name": "電子戦隊デンジマン",
       "secondary": "",
@@ -1457,7 +1490,7 @@
       "detailPath": "entities/artists/ee0f887f9b227f3c.json"
     },
     {
-      "rank": 18495,
+      "rank": 18496,
       "id": "553996e1eec89da7",
       "name": "電磁戦隊メガレンジャー",
       "secondary": "",
@@ -1490,7 +1523,7 @@
       "detailPath": "entities/artists/553996e1eec89da7.json"
     },
     {
-      "rank": 18496,
+      "rank": 18497,
       "id": "7888f30545474028",
       "name": "電波悪いかもです",
       "secondary": "",
@@ -1520,7 +1553,7 @@
       "detailPath": "entities/artists/7888f30545474028.json"
     },
     {
-      "rank": 18497,
+      "rank": 18498,
       "id": "db13713c57208dbf",
       "name": "電波女と青春男",
       "secondary": "",
@@ -1550,7 +1583,7 @@
       "detailPath": "entities/artists/db13713c57208dbf.json"
     },
     {
-      "rank": 18498,
+      "rank": 18499,
       "id": "eebf44300a985d31",
       "name": "電波少女",
       "secondary": "",
@@ -1583,7 +1616,7 @@
       "detailPath": "entities/artists/eebf44300a985d31.json"
     },
     {
-      "rank": 18499,
+      "rank": 18500,
       "id": "78e008292e744895",
       "name": "吐息feat. 倚水",
       "secondary": "",
@@ -1614,38 +1647,6 @@
         }
       ],
       "detailPath": "entities/artists/78e008292e744895.json"
-    },
-    {
-      "rank": 18500,
-      "id": "1b96e05951a072ca",
-      "name": "吐息Ver",
-      "secondary": "",
-      "channelId": "UC-O0yAOb7iu1I_XcF_2Pfhg",
-      "channelHandle": "@kasane_teion",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "month"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "4jXVj5sLUY8",
-          "videoTitle": "【#歌枠 】✨１万人記念✨みんなに感謝を込めて！歌うよ～～！！ 【 #蹄音かさね / すぺしゃりて 】",
-          "channelName": "蹄音かさね / Kasane Teion",
-          "publishedAt": "2026-07-09T07:35:47.693Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4jXVj5sLUY8/hqdefault.jpg",
-          "sourcePath": "sources/4j/4jXVj5sLUY8.json",
-          "time": "1:25:54",
-          "seconds": 5154,
-          "songTitle": "群青",
-          "artist": "吐息Ver"
-        }
-      ],
-      "detailPath": "entities/artists/1b96e05951a072ca.json"
     }
   ]
 }

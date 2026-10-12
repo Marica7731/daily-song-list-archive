@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "artists",
   "page": 21,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20018,
+  "totalCount": 20021,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1699,6 +1699,66 @@
     },
     {
       "rank": 1029,
+      "id": "010e89afa21b616d",
+      "name": "ロマニードットアイオー",
+      "secondary": "",
+      "channelId": "UCi-RFlRj6gIpSoJAEp5_MnQ",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 19,
+      "videoCount": 10,
+      "songCount": 7,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "_vSBka_XA6M",
+          "videoTitle": "【 #弾き語り 】10/04 [ sun ] 日曜日恒例──✦ゆっくりまったりチルくギター弾き語り。睡眠導入🌙𓂃𝄞【ロマニードットアイオー】#romlive",
+          "channelName": "ロマニードットアイオー / ROMANY. io",
+          "publishedAt": "2026-10-04T14:59:46.358Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_vSBka_XA6M/hqdefault.jpg",
+          "sourcePath": "sources/_v/_vSBka_XA6M.json",
+          "time": "0:14:29",
+          "seconds": 869,
+          "songTitle": "Sunday n\"AI\"ght (with BT)",
+          "artist": "ロマニードットアイオー 🔷"
+        },
+        {
+          "videoId": "M16V71V_VmA",
+          "videoTitle": "【 #弾き語り 】9/27 [ sun ] 日曜日恒例──✦眠れるギター弾き語り。睡眠導入🌙𓂃𝄞【ロマニードットアイオー】#romlive",
+          "channelName": "ロマニードットアイオー / ROMANY. io",
+          "publishedAt": "2026-09-27T15:22:58.252Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/M16V71V_VmA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBE4I057Qx2cAu9ukWEaTQXRraXYQ",
+          "sourcePath": "sources/M1/M16V71V_VmA.json",
+          "time": "0:22:46",
+          "seconds": 1366,
+          "songTitle": "Sunday n\"AI\"ght (with BT)",
+          "artist": "ロマニードットアイオー 🔷"
+        },
+        {
+          "videoId": "jFmmNXOcQ9Y",
+          "videoTitle": "【 #弾き語り 】9/20 [ sun ] 日曜日恒例──✦癒しの弾き語り。睡眠導入｜ギター🌙𓂃𝄞【ロマニードットアイオー】#romlive",
+          "channelName": "ロマニードットアイオー / ROMANY. io",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jFmmNXOcQ9Y/hqdefault.jpg",
+          "sourcePath": "sources/jF/jFmmNXOcQ9Y.json",
+          "time": "0:18:34",
+          "seconds": 1114,
+          "songTitle": "Sunday n“AI”ght",
+          "artist": "ロマニードットアイオー"
+        }
+      ],
+      "detailPath": "entities/artists/010e89afa21b616d.json"
+    },
+    {
+      "rank": 1030,
       "id": "a0c7fc9730a44178",
       "name": "笑",
       "secondary": "",
@@ -1758,7 +1818,7 @@
       "detailPath": "entities/artists/a0c7fc9730a44178.json"
     },
     {
-      "rank": 1030,
+      "rank": 1031,
       "id": "60d94566a273351b",
       "name": "容祖兒",
       "secondary": "",
@@ -1818,7 +1878,7 @@
       "detailPath": "entities/artists/60d94566a273351b.json"
     },
     {
-      "rank": 1031,
+      "rank": 1032,
       "id": "55418c1599edceb1",
       "name": "白玖ウタノ",
       "secondary": "",
@@ -1877,7 +1937,7 @@
       "detailPath": "entities/artists/55418c1599edceb1.json"
     },
     {
-      "rank": 1032,
+      "rank": 1033,
       "id": "59323072145d89fc",
       "name": "初見",
       "secondary": "",
@@ -1937,7 +1997,7 @@
       "detailPath": "entities/artists/59323072145d89fc.json"
     },
     {
-      "rank": 1033,
+      "rank": 1034,
       "id": "813d53c38b1803b2",
       "name": "彩華すゞり",
       "secondary": "",
@@ -1994,7 +2054,7 @@
       "detailPath": "entities/artists/813d53c38b1803b2.json"
     },
     {
-      "rank": 1034,
+      "rank": 1035,
       "id": "630fe8ded778bc7b",
       "name": "SLAVE.V-V-R",
       "secondary": "",
@@ -2054,7 +2114,7 @@
       "detailPath": "entities/artists/630fe8ded778bc7b.json"
     },
     {
-      "rank": 1035,
+      "rank": 1036,
       "id": "8c5b63551b4c4f92",
       "name": "Yunomi & nicamoq",
       "secondary": "",
@@ -2114,7 +2174,7 @@
       "detailPath": "entities/artists/8c5b63551b4c4f92.json"
     },
     {
-      "rank": 1036,
+      "rank": 1037,
       "id": "64560025ebbe78d4",
       "name": "かわいい",
       "secondary": "",
@@ -2175,7 +2235,7 @@
       "detailPath": "entities/artists/64560025ebbe78d4.json"
     },
     {
-      "rank": 1037,
+      "rank": 1038,
       "id": "fbdb08ee70c3dcb0",
       "name": "ナノウ feat. 初音ミク",
       "secondary": "",
@@ -2235,7 +2295,7 @@
       "detailPath": "entities/artists/fbdb08ee70c3dcb0.json"
     },
     {
-      "rank": 1038,
+      "rank": 1039,
       "id": "d8763c85df077fe2",
       "name": "パペットスンスン",
       "secondary": "",
@@ -2296,7 +2356,7 @@
       "detailPath": "entities/artists/d8763c85df077fe2.json"
     },
     {
-      "rank": 1039,
+      "rank": 1040,
       "id": "50fd01884c5aa23f",
       "name": "笠原弘子",
       "secondary": "",
@@ -2358,7 +2418,7 @@
       "detailPath": "entities/artists/50fd01884c5aa23f.json"
     },
     {
-      "rank": 1040,
+      "rank": 1041,
       "id": "0e7cf612f86143cb",
       "name": "西沢幸奏",
       "secondary": "",
@@ -2420,7 +2480,7 @@
       "detailPath": "entities/artists/0e7cf612f86143cb.json"
     },
     {
-      "rank": 1041,
+      "rank": 1042,
       "id": "731e8479bfbb6023",
       "name": "石田燿子",
       "secondary": "",
@@ -2481,7 +2541,7 @@
       "detailPath": "entities/artists/731e8479bfbb6023.json"
     },
     {
-      "rank": 1042,
+      "rank": 1043,
       "id": "69bf9628ca01911c",
       "name": "平松愛理",
       "secondary": "",
@@ -2541,7 +2601,7 @@
       "detailPath": "entities/artists/69bf9628ca01911c.json"
     },
     {
-      "rank": 1043,
+      "rank": 1044,
       "id": "564488a3216b7d50",
       "name": "Omoi",
       "secondary": "",
@@ -2601,7 +2661,7 @@
       "detailPath": "entities/artists/564488a3216b7d50.json"
     },
     {
-      "rank": 1044,
+      "rank": 1045,
       "id": "93ecf6b22f5b4239",
       "name": "スガシカオ",
       "secondary": "",
@@ -2662,7 +2722,7 @@
       "detailPath": "entities/artists/93ecf6b22f5b4239.json"
     },
     {
-      "rank": 1045,
+      "rank": 1046,
       "id": "dc7a74bb80c5cfd6",
       "name": "ももいろクローバー",
       "secondary": "",
@@ -2722,7 +2782,7 @@
       "detailPath": "entities/artists/dc7a74bb80c5cfd6.json"
     },
     {
-      "rank": 1046,
+      "rank": 1047,
       "id": "864c9bab1bd6b5a7",
       "name": "れをる",
       "secondary": "",
@@ -2782,7 +2842,7 @@
       "detailPath": "entities/artists/864c9bab1bd6b5a7.json"
     },
     {
-      "rank": 1047,
+      "rank": 1048,
       "id": "5cf04c793f4fc161",
       "name": "涼宮ハルヒ(CV:平野綾)、長門有希(CV:茅原実里)、朝比奈みくる(CV:後藤邑子)",
       "secondary": "",
@@ -2842,7 +2902,7 @@
       "detailPath": "entities/artists/5cf04c793f4fc161.json"
     },
     {
-      "rank": 1048,
+      "rank": 1049,
       "id": "279c86e480c176f3",
       "name": "礼賛",
       "secondary": "",
@@ -2902,7 +2962,7 @@
       "detailPath": "entities/artists/279c86e480c176f3.json"
     },
     {
-      "rank": 1049,
+      "rank": 1050,
       "id": "0c3170604e9a7e49",
       "name": "Bruno Mars",
       "secondary": "",
@@ -2960,68 +3020,6 @@
         }
       ],
       "detailPath": "entities/artists/0c3170604e9a7e49.json"
-    },
-    {
-      "rank": 1050,
-      "id": "9bfdfc67d3b3df2e",
-      "name": "ELISA",
-      "secondary": "",
-      "channelId": "UCBC7vYFNQoGPupe5NxPG4Bw",
-      "channelHandle": "@QuonTama",
-      "channelUrl": "",
-      "occurrenceCount": 18,
-      "videoCount": 16,
-      "songCount": 8,
-      "keywords": [
-        "karaoke",
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "mFMMfVOpmGQ",
-          "videoTitle": "【#歌枠/#karaoke】 定例歌枠するぞ！",
-          "channelName": "雛月シロナ@かわいいを心がける",
-          "publishedAt": "2026-10-04T03:02:21.009Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mFMMfVOpmGQ/hqdefault.jpg",
-          "sourcePath": "sources/mF/mFMMfVOpmGQ.json",
-          "time": "3:50:08",
-          "seconds": 13808,
-          "songTitle": "ebullient future",
-          "artist": "ELISA"
-        },
-        {
-          "videoId": "UfHT2WnHlUs",
-          "videoTitle": "9月も終盤！お昼の歌枠🍎 #shorts #歌枠",
-          "channelName": "ヴァンパイアップル",
-          "publishedAt": "2026-09-25T06:21:45.724Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UfHT2WnHlUs/hqdefault.jpg",
-          "sourcePath": "sources/Uf/UfHT2WnHlUs.json",
-          "time": "3:06:50",
-          "seconds": 11210,
-          "songTitle": "EONIAN -イオニアン",
-          "artist": "ELISA"
-        },
-        {
-          "videoId": "vKkYCVsWjQ0",
-          "videoTitle": "【歌枠】リクエスト歓迎！キミの好きなアニメソング歌う！【#小鳥遊ゆとは/Vsinger/Vtuber】",
-          "channelName": "小鳥遊ゆとは -Yutoha Takanashi-",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vKkYCVsWjQ0/hqdefault.jpg",
-          "sourcePath": "sources/vK/vKkYCVsWjQ0.json",
-          "time": "1:30:17",
-          "seconds": 5417,
-          "songTitle": "ebullient future",
-          "artist": "ELISA"
-        }
-      ],
-      "detailPath": "entities/artists/9bfdfc67d3b3df2e.json"
     }
   ]
 }

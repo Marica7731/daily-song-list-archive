@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "artists",
   "page": 27,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10852,
+  "totalCount": 10856,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1301,
+      "id": "26ef224fd66e689d",
+      "name": "アラジン",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 5,
+      "songCount": 5,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Y9e9fIb5Yf4",
+          "videoTitle": "【10/7 歌枠】はちなつセッションにNORISTRYと町山マチカが現れた！！",
+          "channelName": "ハッチャン",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Y9e9fIb5Yf4/hqdefault.jpg",
+          "sourcePath": "sources/Y9/Y9e9fIb5Yf4.json",
+          "time": "1:35:11",
+          "seconds": 5711,
+          "songTitle": "A Whole New World",
+          "artist": "アラジン"
+        },
+        {
+          "videoId": "aJG4jNMwn08",
+          "videoTitle": "【 #歌枠 】超大事なお知らせ付き❤ひめみ歌枠 #姫宮レーニャ /Vtuber",
+          "channelName": "🌸Reinya Himemiya / 姫宮レーニャ",
+          "publishedAt": "2026-10-04T03:11:03.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aJG4jNMwn08/hqdefault.jpg",
+          "sourcePath": "sources/aJ/aJG4jNMwn08.json",
+          "time": "0:13:35",
+          "seconds": 815,
+          "songTitle": "ホール・ニュー・ワールド",
+          "artist": "アラジン"
+        },
+        {
+          "videoId": "3YXv9aYKIU0",
+          "videoTitle": "【 #歌枠 】届け物語！ミュージカルソング歌枠！【 #vtuber / 詠音ガト 】",
+          "channelName": "詠音ガト",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/3YXv9aYKIU0/hqdefault.jpg",
+          "sourcePath": "sources/3Y/3YXv9aYKIU0.json",
+          "time": "0:51:41",
+          "seconds": 3101,
+          "songTitle": "ホール・ニュー・ワールド",
+          "artist": "アラジン"
+        }
+      ],
+      "detailPath": "entities/artists/26ef224fd66e689d.json"
+    },
+    {
+      "rank": 1302,
       "id": "6b7a9d7aef00a7e9",
       "name": "うろ覚え",
       "secondary": "",
@@ -67,7 +124,7 @@
       "detailPath": "entities/artists/6b7a9d7aef00a7e9.json"
     },
     {
-      "rank": 1302,
+      "rank": 1303,
       "id": "f9a935a22119ad3d",
       "name": "カネコアヤノ",
       "secondary": "",
@@ -125,7 +182,7 @@
       "detailPath": "entities/artists/f9a935a22119ad3d.json"
     },
     {
-      "rank": 1303,
+      "rank": 1304,
       "id": "7ed905cc1aee32c5",
       "name": "さとう",
       "secondary": "",
@@ -182,7 +239,7 @@
       "detailPath": "entities/artists/7ed905cc1aee32c5.json"
     },
     {
-      "rank": 1304,
+      "rank": 1305,
       "id": "1c057c0a76a89842",
       "name": "ナイトメア",
       "secondary": "",
@@ -239,7 +296,7 @@
       "detailPath": "entities/artists/1c057c0a76a89842.json"
     },
     {
-      "rank": 1305,
+      "rank": 1306,
       "id": "c808c70703b0ea82",
       "name": "なにわ男子",
       "secondary": "",
@@ -297,7 +354,7 @@
       "detailPath": "entities/artists/c808c70703b0ea82.json"
     },
     {
-      "rank": 1306,
+      "rank": 1307,
       "id": "94b395042fc42dea",
       "name": "ひらぎ",
       "secondary": "",
@@ -354,7 +411,7 @@
       "detailPath": "entities/artists/94b395042fc42dea.json"
     },
     {
-      "rank": 1307,
+      "rank": 1308,
       "id": "c6e62f44f4864bd5",
       "name": "ワルキューレ ※JOYSOUND",
       "secondary": "",
@@ -411,7 +468,7 @@
       "detailPath": "entities/artists/c6e62f44f4864bd5.json"
     },
     {
-      "rank": 1308,
+      "rank": 1309,
       "id": "133a4805cb6611f5",
       "name": "宇野ゆう子",
       "secondary": "",
@@ -469,7 +526,7 @@
       "detailPath": "entities/artists/133a4805cb6611f5.json"
     },
     {
-      "rank": 1309,
+      "rank": 1310,
       "id": "b4fec3e7b334fd2f",
       "name": "花海咲季",
       "secondary": "",
@@ -526,7 +583,7 @@
       "detailPath": "entities/artists/b4fec3e7b334fd2f.json"
     },
     {
-      "rank": 1310,
+      "rank": 1311,
       "id": "b46e9da17d96ba86",
       "name": "鋼の錬金術師",
       "secondary": "",
@@ -583,7 +640,7 @@
       "detailPath": "entities/artists/b46e9da17d96ba86.json"
     },
     {
-      "rank": 1311,
+      "rank": 1312,
       "id": "82dc6fa46aa81fca",
       "name": "高橋洋子 ※JOYSOUND",
       "secondary": "",
@@ -640,7 +697,7 @@
       "detailPath": "entities/artists/82dc6fa46aa81fca.json"
     },
     {
-      "rank": 1312,
+      "rank": 1313,
       "id": "6966052cc3221631",
       "name": "風",
       "secondary": "",
@@ -697,7 +754,7 @@
       "detailPath": "entities/artists/6966052cc3221631.json"
     },
     {
-      "rank": 1313,
+      "rank": 1314,
       "id": "34a45842b9a9be20",
       "name": "24",
       "secondary": "",
@@ -751,7 +808,7 @@
       "detailPath": "entities/artists/34a45842b9a9be20.json"
     },
     {
-      "rank": 1314,
+      "rank": 1315,
       "id": "5e5cba66efc6a6b9",
       "name": "BLEACH",
       "secondary": "",
@@ -808,7 +865,7 @@
       "detailPath": "entities/artists/5e5cba66efc6a6b9.json"
     },
     {
-      "rank": 1315,
+      "rank": 1316,
       "id": "10048a60b51dc817",
       "name": "DYES IWASAKI",
       "secondary": "",
@@ -865,7 +922,7 @@
       "detailPath": "entities/artists/10048a60b51dc817.json"
     },
     {
-      "rank": 1316,
+      "rank": 1317,
       "id": "91ff411bf41669b7",
       "name": "Islet feat.倚水",
       "secondary": "",
@@ -922,7 +979,7 @@
       "detailPath": "entities/artists/91ff411bf41669b7.json"
     },
     {
-      "rank": 1317,
+      "rank": 1318,
       "id": "8a3c21f0c640c3d8",
       "name": "maroon 5",
       "secondary": "",
@@ -979,7 +1036,7 @@
       "detailPath": "entities/artists/8a3c21f0c640c3d8.json"
     },
     {
-      "rank": 1318,
+      "rank": 1319,
       "id": "d3bcd2ea27afb231",
       "name": "Neko Hacker",
       "secondary": "",
@@ -1036,7 +1093,7 @@
       "detailPath": "entities/artists/d3bcd2ea27afb231.json"
     },
     {
-      "rank": 1319,
+      "rank": 1320,
       "id": "ef7f7cb086d96985",
       "name": "NIGHTMARE",
       "secondary": "",
@@ -1093,7 +1150,7 @@
       "detailPath": "entities/artists/ef7f7cb086d96985.json"
     },
     {
-      "rank": 1320,
+      "rank": 1321,
       "id": "b3b292b4febb1e97",
       "name": "Pay money To my Pain",
       "secondary": "",
@@ -1150,7 +1207,7 @@
       "detailPath": "entities/artists/b3b292b4febb1e97.json"
     },
     {
-      "rank": 1321,
+      "rank": 1322,
       "id": "6cb0e3ea4606554d",
       "name": "Sheena Ringo",
       "secondary": "",
@@ -1208,7 +1265,7 @@
       "detailPath": "entities/artists/6cb0e3ea4606554d.json"
     },
     {
-      "rank": 1322,
+      "rank": 1323,
       "id": "b69fb7d38f8dcfb5",
       "name": "SPLAY",
       "secondary": "",
@@ -1266,7 +1323,7 @@
       "detailPath": "entities/artists/b69fb7d38f8dcfb5.json"
     },
     {
-      "rank": 1323,
+      "rank": 1324,
       "id": "bc2e3a4d64823b7c",
       "name": "Varium",
       "secondary": "",
@@ -1323,7 +1380,7 @@
       "detailPath": "entities/artists/bc2e3a4d64823b7c.json"
     },
     {
-      "rank": 1324,
+      "rank": 1325,
       "id": "f3e789d68b69b303",
       "name": "ViViD",
       "secondary": "",
@@ -1380,7 +1437,7 @@
       "detailPath": "entities/artists/f3e789d68b69b303.json"
     },
     {
-      "rank": 1325,
+      "rank": 1326,
       "id": "abdf91e1ce1c97cd",
       "name": "つばきファクトリー",
       "secondary": "",
@@ -1437,7 +1494,7 @@
       "detailPath": "entities/artists/abdf91e1ce1c97cd.json"
     },
     {
-      "rank": 1326,
+      "rank": 1327,
       "id": "c26ad20623c18eb4",
       "name": "るか・もな・みきfrom AIKATSU☆STARS!",
       "secondary": "",
@@ -1494,7 +1551,7 @@
       "detailPath": "entities/artists/c26ad20623c18eb4.json"
     },
     {
-      "rank": 1327,
+      "rank": 1328,
       "id": "1ed11e0d2785c53a",
       "name": "化物語",
       "secondary": "",
@@ -1551,7 +1608,7 @@
       "detailPath": "entities/artists/1ed11e0d2785c53a.json"
     },
     {
-      "rank": 1328,
+      "rank": 1329,
       "id": "9fb10a17df40f597",
       "name": "機動戦士ガンダム 水星の魔女",
       "secondary": "",
@@ -1608,7 +1665,7 @@
       "detailPath": "entities/artists/9fb10a17df40f597.json"
     },
     {
-      "rank": 1329,
+      "rank": 1330,
       "id": "ce3e327b4b810b76",
       "name": "鎖那",
       "secondary": "",
@@ -1666,7 +1723,7 @@
       "detailPath": "entities/artists/ce3e327b4b810b76.json"
     },
     {
-      "rank": 1330,
+      "rank": 1331,
       "id": "bfe03cf42181493c",
       "name": "風車ひまり",
       "secondary": "",
@@ -1720,7 +1777,7 @@
       "detailPath": "entities/artists/bfe03cf42181493c.json"
     },
     {
-      "rank": 1331,
+      "rank": 1332,
       "id": "1b4dc16d91b3a82a",
       "name": "涼宮ハルヒの憂鬱",
       "secondary": "",
@@ -1777,7 +1834,7 @@
       "detailPath": "entities/artists/1b4dc16d91b3a82a.json"
     },
     {
-      "rank": 1332,
+      "rank": 1333,
       "id": "36f18a353df28a59",
       "name": "衞蘭",
       "secondary": "",
@@ -1834,7 +1891,7 @@
       "detailPath": "entities/artists/36f18a353df28a59.json"
     },
     {
-      "rank": 1333,
+      "rank": 1334,
       "id": "876f0d0f5ca71209",
       "name": "25",
       "secondary": "",
@@ -1888,7 +1945,7 @@
       "detailPath": "entities/artists/876f0d0f5ca71209.json"
     },
     {
-      "rank": 1334,
+      "rank": 1335,
       "id": "a49d420dbba75a4b",
       "name": "Alpha Betta",
       "secondary": "",
@@ -1945,7 +2002,7 @@
       "detailPath": "entities/artists/a49d420dbba75a4b.json"
     },
     {
-      "rank": 1335,
+      "rank": 1336,
       "id": "3512c4322f568d58",
       "name": "FLANICA",
       "secondary": "",
@@ -2002,7 +2059,7 @@
       "detailPath": "entities/artists/3512c4322f568d58.json"
     },
     {
-      "rank": 1336,
+      "rank": 1337,
       "id": "f05888ffa8ebf916",
       "name": "Seiko Matsuda",
       "secondary": "",
@@ -2060,7 +2117,7 @@
       "detailPath": "entities/artists/f05888ffa8ebf916.json"
     },
     {
-      "rank": 1337,
+      "rank": 1338,
       "id": "e9e155fd92719891",
       "name": "Tia",
       "secondary": "",
@@ -2117,7 +2174,7 @@
       "detailPath": "entities/artists/e9e155fd92719891.json"
     },
     {
-      "rank": 1338,
+      "rank": 1339,
       "id": "22c22afda9813f35",
       "name": "えるるん",
       "secondary": "",
@@ -2175,7 +2232,7 @@
       "detailPath": "entities/artists/22c22afda9813f35.json"
     },
     {
-      "rank": 1339,
+      "rank": 1340,
       "id": "b361f457d341ff4d",
       "name": "リズム感のある者たちver.",
       "secondary": "",
@@ -2230,63 +2287,6 @@
         }
       ],
       "detailPath": "entities/artists/b361f457d341ff4d.json"
-    },
-    {
-      "rank": 1340,
-      "id": "010e89afa21b616d",
-      "name": "ロマニードットアイオー 🔷",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 3,
-      "songCount": 4,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "M16V71V_VmA",
-          "videoTitle": "【 #弾き語り 】9/27 [ sun ] 日曜日恒例──✦眠れるギター弾き語り。睡眠導入🌙𓂃𝄞【ロマニードットアイオー】#romlive",
-          "channelName": "ロマニードットアイオー / ROMANY. io",
-          "publishedAt": "2026-09-27T15:22:58.252Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/M16V71V_VmA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBE4I057Qx2cAu9ukWEaTQXRraXYQ",
-          "sourcePath": "sources/M1/M16V71V_VmA.json",
-          "time": "0:22:46",
-          "seconds": 1366,
-          "songTitle": "Sunday n\"AI\"ght (with BT)",
-          "artist": "ロマニードットアイオー 🔷"
-        },
-        {
-          "videoId": "jFmmNXOcQ9Y",
-          "videoTitle": "【 #弾き語り 】9/20 [ sun ] 日曜日恒例──✦癒しの弾き語り。睡眠導入｜ギター🌙𓂃𝄞【ロマニードットアイオー】#romlive",
-          "channelName": "ロマニードットアイオー / ROMANY. io",
-          "publishedAt": "2026-09-20T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jFmmNXOcQ9Y/hqdefault.jpg",
-          "sourcePath": "sources/jF/jFmmNXOcQ9Y.json",
-          "time": "0:18:34",
-          "seconds": 1114,
-          "songTitle": "Sunday n“AI”ght",
-          "artist": "ロマニードットアイオー"
-        },
-        {
-          "videoId": "M8b-6yWxf8s",
-          "videoTitle": "【 #弾き語り 】9/13 [ sun ] 日曜日恒例──✦睡眠導入にできますでしょうか。｜ギター🌙𓂃𝄞【ロマニードットアイオー】#romlive",
-          "channelName": "ロマニードットアイオー / ROMANY. io",
-          "publishedAt": "2026-09-13T15:03:29.137Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/M8b-6yWxf8s/hqdefault.jpg",
-          "sourcePath": "sources/M8/M8b-6yWxf8s.json",
-          "time": "0:47:16",
-          "seconds": 2836,
-          "songTitle": "Sunday n\"AI\"ght (with BT)",
-          "artist": "ロマニードットアイオー 🔷"
-        }
-      ],
-      "detailPath": "entities/artists/010e89afa21b616d.json"
     },
     {
       "rank": 1341,

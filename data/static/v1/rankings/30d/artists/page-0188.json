@@ -1,16 +1,82 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "artists",
   "page": 188,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10852,
+  "totalCount": 10856,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9351,
+      "id": "dce64a3cb94476ab",
+      "name": "少女病",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "SRcAEcB_tGc",
+          "videoTitle": "【#歌枠】セカンドチャンネルができたよ！土曜日の歌枠🎤 #初見さん歓迎 【#新人Vtuber #karaoke #憂涙といろ 】",
+          "channelName": "憂涙といろ / YunamiToiro",
+          "publishedAt": "2026-09-19T11:57:48.785Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SRcAEcB_tGc/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClinpho7pk_Cy2gtTgmhNixcVinw",
+          "sourcePath": "sources/SR/SRcAEcB_tGc.json",
+          "time": "0:45:14",
+          "seconds": 2714,
+          "songTitle": "偽りなき聲",
+          "artist": "少女病"
+        }
+      ],
+      "detailPath": "entities/artists/dce64a3cb94476ab.json"
+    },
+    {
+      "rank": 9352,
+      "id": "03c42e463ad74af1",
+      "name": "少年アシベ2",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "zZho3TrKWwU",
+          "videoTitle": "【アニソン歌枠 第593回】🎵リクOK🎵昭和・平成・令和のアニソンのごった煮はいかがですか？Let's sing ANIME music【うさ丸】",
+          "channelName": "うさ丸 usamaru",
+          "publishedAt": "2026-09-15T17:16:17.097Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zZho3TrKWwU/hqdefault.jpg",
+          "sourcePath": "sources/zZ/zZho3TrKWwU.json",
+          "time": "0:43:21",
+          "seconds": 2601,
+          "songTitle": "まかせて!チン・トン・シャン'93",
+          "artist": "少年アシベ2"
+        }
+      ],
+      "detailPath": "entities/artists/03c42e463ad74af1.json"
+    },
+    {
+      "rank": 9353,
       "id": "4bf5c7563677ece6",
       "name": "少年よ我に帰れ",
       "secondary": "",
@@ -40,7 +106,7 @@
       "detailPath": "entities/artists/4bf5c7563677ece6.json"
     },
     {
-      "rank": 9352,
+      "rank": 9354,
       "id": "8d17c13f3c641d18",
       "name": "少年時代（ピラメキーノ）",
       "secondary": "",
@@ -73,7 +139,7 @@
       "detailPath": "entities/artists/8d17c13f3c641d18.json"
     },
     {
-      "rank": 9353,
+      "rank": 9355,
       "id": "4d81348e5b9c1171",
       "name": "少年隊",
       "secondary": "",
@@ -106,7 +172,7 @@
       "detailPath": "entities/artists/4d81348e5b9c1171.json"
     },
     {
-      "rank": 9354,
+      "rank": 9356,
       "id": "03348b0b459ed424",
       "name": "少年隊 を歌唱",
       "secondary": "",
@@ -139,7 +205,7 @@
       "detailPath": "entities/artists/03348b0b459ed424.json"
     },
     {
-      "rank": 9355,
+      "rank": 9357,
       "id": "f60c39390b764523",
       "name": "床哥 x Novel Fergus",
       "secondary": "",
@@ -172,7 +238,7 @@
       "detailPath": "entities/artists/f60c39390b764523.json"
     },
     {
-      "rank": 9356,
+      "rank": 9358,
       "id": "471ea0f03774b58c",
       "name": "松たか子 From『アナと雪の女王』",
       "secondary": "",
@@ -205,7 +271,7 @@
       "detailPath": "entities/artists/471ea0f03774b58c.json"
     },
     {
-      "rank": 9357,
+      "rank": 9359,
       "id": "df6de74fef0c79f2",
       "name": "松たか子を歌唱（うろ覚えのため途中で切り上げ）",
       "secondary": "",
@@ -238,7 +304,7 @@
       "detailPath": "entities/artists/df6de74fef0c79f2.json"
     },
     {
-      "rank": 9358,
+      "rank": 9360,
       "id": "6d9c819bbde39080",
       "name": "松浦 亜弥 ( 少しだけｱｶﾍﾟﾗ )",
       "secondary": "",
@@ -268,7 +334,7 @@
       "detailPath": "entities/artists/6d9c819bbde39080.json"
     },
     {
-      "rank": 9359,
+      "rank": 9361,
       "id": "0e6ebf7a67d30b38",
       "name": "松浦亜弥 ※JOYSOUND",
       "secondary": "",
@@ -301,7 +367,7 @@
       "detailPath": "entities/artists/0e6ebf7a67d30b38.json"
     },
     {
-      "rank": 9360,
+      "rank": 9362,
       "id": "28ad394ee4d1d1e5",
       "name": "松浦亜弥(つんく)",
       "secondary": "",
@@ -334,7 +400,7 @@
       "detailPath": "entities/artists/28ad394ee4d1d1e5.json"
     },
     {
-      "rank": 9361,
+      "rank": 9363,
       "id": "28c59820be67f743",
       "name": "松永夏代子",
       "secondary": "",
@@ -364,7 +430,7 @@
       "detailPath": "entities/artists/28c59820be67f743.json"
     },
     {
-      "rank": 9362,
+      "rank": 9364,
       "id": "649035fd6994efb3",
       "name": "松原 ゆき",
       "secondary": "",
@@ -397,7 +463,7 @@
       "detailPath": "entities/artists/649035fd6994efb3.json"
     },
     {
-      "rank": 9363,
+      "rank": 9365,
       "id": "c8f1d591e2b82bdf",
       "name": "松原みき(機動戦士ガンダム0083 STARDUST MEMORY OP1)",
       "secondary": "",
@@ -430,7 +496,7 @@
       "detailPath": "entities/artists/c8f1d591e2b82bdf.json"
     },
     {
-      "rank": 9364,
+      "rank": 9366,
       "id": "9d050122cd3463ff",
       "name": "松原みき真夜中のドア",
       "secondary": "",
@@ -463,7 +529,7 @@
       "detailPath": "entities/artists/9d050122cd3463ff.json"
     },
     {
-      "rank": 9365,
+      "rank": 9367,
       "id": "021f0975f0ebc7f8",
       "name": "松原剛志",
       "secondary": "",
@@ -493,7 +559,7 @@
       "detailPath": "entities/artists/021f0975f0ebc7f8.json"
     },
     {
-      "rank": 9366,
+      "rank": 9368,
       "id": "2fbcff3cd4eee5ae",
       "name": "松村香澄・奥井雅美",
       "secondary": "",
@@ -526,7 +592,7 @@
       "detailPath": "entities/artists/2fbcff3cd4eee5ae.json"
     },
     {
-      "rank": 9367,
+      "rank": 9369,
       "id": "00a00f8396da042b",
       "name": "松谷祐子 ／ うる星やつら(1981年)",
       "secondary": "",
@@ -556,7 +622,7 @@
       "detailPath": "entities/artists/00a00f8396da042b.json"
     },
     {
-      "rank": 9368,
+      "rank": 9370,
       "id": "e34da1bdf8824cc7",
       "name": "松谷祐子（アニメ「うる星やつら」OP）",
       "secondary": "",
@@ -586,7 +652,7 @@
       "detailPath": "entities/artists/e34da1bdf8824cc7.json"
     },
     {
-      "rank": 9369,
+      "rank": 9371,
       "id": "879c0075fdf1186c",
       "name": "松田聖子（1980年）",
       "secondary": "",
@@ -616,7 +682,7 @@
       "detailPath": "entities/artists/879c0075fdf1186c.json"
     },
     {
-      "rank": 9370,
+      "rank": 9372,
       "id": "9a0c99b26e08563e",
       "name": "松田聖子さん",
       "secondary": "",
@@ -649,7 +715,7 @@
       "detailPath": "entities/artists/9a0c99b26e08563e.json"
     },
     {
-      "rank": 9371,
+      "rank": 9373,
       "id": "c96f245b80dfb1e4",
       "name": "松任谷由実 ⇒ 演奏のみ",
       "secondary": "",
@@ -682,7 +748,7 @@
       "detailPath": "entities/artists/c96f245b80dfb1e4.json"
     },
     {
-      "rank": 9372,
+      "rank": 9374,
       "id": "c77840098aedbe8c",
       "name": "松任谷由実(フル)",
       "secondary": "",
@@ -712,7 +778,7 @@
       "detailPath": "entities/artists/c77840098aedbe8c.json"
     },
     {
-      "rank": 9373,
+      "rank": 9375,
       "id": "b805b7461ae7ce45",
       "name": "松任谷由実(荒井由實)",
       "secondary": "",
@@ -745,7 +811,7 @@
       "detailPath": "entities/artists/b805b7461ae7ce45.json"
     },
     {
-      "rank": 9374,
+      "rank": 9376,
       "id": "f95fae4b6ac6566a",
       "name": "松平健（リスナーさんリクエスト）",
       "secondary": "",
@@ -778,7 +844,7 @@
       "detailPath": "entities/artists/f95fae4b6ac6566a.json"
     },
     {
-      "rank": 9375,
+      "rank": 9377,
       "id": "a11133b8580e7695",
       "name": "松平健(一番)",
       "secondary": "",
@@ -811,7 +877,7 @@
       "detailPath": "entities/artists/a11133b8580e7695.json"
     },
     {
-      "rank": 9376,
+      "rank": 9378,
       "id": "7dc58935eb7f7e2b",
       "name": "松本 伊代",
       "secondary": "",
@@ -844,7 +910,7 @@
       "detailPath": "entities/artists/7dc58935eb7f7e2b.json"
     },
     {
-      "rank": 9377,
+      "rank": 9379,
       "id": "5c35dc406492ce0e",
       "name": "松本かれん",
       "secondary": "",
@@ -874,7 +940,7 @@
       "detailPath": "entities/artists/5c35dc406492ce0e.json"
     },
     {
-      "rank": 9378,
+      "rank": 9380,
       "id": "d57f7f432ad710ed",
       "name": "松本素生",
       "secondary": "",
@@ -907,7 +973,7 @@
       "detailPath": "entities/artists/d57f7f432ad710ed.json"
     },
     {
-      "rank": 9379,
+      "rank": 9381,
       "id": "543d8ae444194515",
       "name": "松本梨香 (2010年)",
       "secondary": "",
@@ -940,7 +1006,7 @@
       "detailPath": "entities/artists/543d8ae444194515.json"
     },
     {
-      "rank": 9380,
+      "rank": 9382,
       "id": "825a08bdb4491978",
       "name": "松本梨香 (仮面ライダー龍騎)",
       "secondary": "",
@@ -973,7 +1039,7 @@
       "detailPath": "entities/artists/825a08bdb4491978.json"
     },
     {
-      "rank": 9381,
+      "rank": 9383,
       "id": "eae64fd007789d71",
       "name": "松本梨香 / JS",
       "secondary": "",
@@ -1006,7 +1072,7 @@
       "detailPath": "entities/artists/eae64fd007789d71.json"
     },
     {
-      "rank": 9382,
+      "rank": 9384,
       "id": "dfcf485517212cb4",
       "name": "松本梨香 ／ ポケットモンスター(1999年)",
       "secondary": "",
@@ -1036,7 +1102,7 @@
       "detailPath": "entities/artists/dfcf485517212cb4.json"
     },
     {
-      "rank": 9383,
+      "rank": 9385,
       "id": "53f11cb8d31b941a",
       "name": "松本梨香 ／ 仮面ライダー龍騎(2002年)",
       "secondary": "",
@@ -1069,7 +1135,7 @@
       "detailPath": "entities/artists/53f11cb8d31b941a.json"
     },
     {
-      "rank": 9384,
+      "rank": 9386,
       "id": "a9e3d1c93f2ce7f1",
       "name": "松本梨香（2011年）",
       "secondary": "",
@@ -1102,7 +1168,7 @@
       "detailPath": "entities/artists/a9e3d1c93f2ce7f1.json"
     },
     {
-      "rank": 9385,
+      "rank": 9387,
       "id": "bb1602bd45091dad",
       "name": "松本梨香さん",
       "secondary": "",
@@ -1135,7 +1201,7 @@
       "detailPath": "entities/artists/bb1602bd45091dad.json"
     },
     {
-      "rank": 9386,
+      "rank": 9388,
       "id": "4e6d68ace82c3486",
       "name": "松葉みき",
       "secondary": "",
@@ -1168,7 +1234,7 @@
       "detailPath": "entities/artists/4e6d68ace82c3486.json"
     },
     {
-      "rank": 9387,
+      "rank": 9389,
       "id": "a57899145a6dc729",
       "name": "消失",
       "secondary": "",
@@ -1201,7 +1267,7 @@
       "detailPath": "entities/artists/a57899145a6dc729.json"
     },
     {
-      "rank": 9388,
+      "rank": 9390,
       "id": "2b1267e8666d166f",
       "name": "消灯",
       "secondary": "",
@@ -1234,7 +1300,7 @@
       "detailPath": "entities/artists/2b1267e8666d166f.json"
     },
     {
-      "rank": 9389,
+      "rank": 9391,
       "id": "6eb24980ca2acf49",
       "name": "湘南乃風 様 from",
       "secondary": "",
@@ -1264,7 +1330,7 @@
       "detailPath": "entities/artists/6eb24980ca2acf49.json"
     },
     {
-      "rank": 9390,
+      "rank": 9392,
       "id": "0663767749e1df0b",
       "name": "焦邁奇",
       "secondary": "",
@@ -1297,7 +1363,7 @@
       "detailPath": "entities/artists/0663767749e1df0b.json"
     },
     {
-      "rank": 9391,
+      "rank": 9393,
       "id": "93629265469edfa9",
       "name": "照1",
       "secondary": "",
@@ -1330,7 +1396,7 @@
       "detailPath": "entities/artists/93629265469edfa9.json"
     },
     {
-      "rank": 9392,
+      "rank": 9394,
       "id": "b581601a7b377080",
       "name": "照2",
       "secondary": "",
@@ -1363,7 +1429,7 @@
       "detailPath": "entities/artists/b581601a7b377080.json"
     },
     {
-      "rank": 9393,
+      "rank": 9395,
       "id": "771ccee7ffdc453f",
       "name": "照3",
       "secondary": "",
@@ -1396,7 +1462,7 @@
       "detailPath": "entities/artists/771ccee7ffdc453f.json"
     },
     {
-      "rank": 9394,
+      "rank": 9396,
       "id": "70ad47c4c8f1208f",
       "name": "照橋心美(茅野愛衣)",
       "secondary": "",
@@ -1429,7 +1495,7 @@
       "detailPath": "entities/artists/70ad47c4c8f1208f.json"
     },
     {
-      "rank": 9395,
+      "rank": 9397,
       "id": "2b19d3457be5b5a1",
       "name": "詳細は概要欄をチェック",
       "secondary": "",
@@ -1462,7 +1528,7 @@
       "detailPath": "entities/artists/2b19d3457be5b5a1.json"
     },
     {
-      "rank": 9396,
+      "rank": 9398,
       "id": "36db9d616ede328c",
       "name": "鍾鎮濤",
       "secondary": "",
@@ -1495,7 +1561,7 @@
       "detailPath": "entities/artists/36db9d616ede328c.json"
     },
     {
-      "rank": 9397,
+      "rank": 9399,
       "id": "da581b147fe6f76e",
       "name": "鞘師里保・小田さくら",
       "secondary": "",
@@ -1525,7 +1591,7 @@
       "detailPath": "entities/artists/da581b147fe6f76e.json"
     },
     {
-      "rank": 9398,
+      "rank": 9400,
       "id": "7829807d67df2b5a",
       "name": "鞘師里保・小田さくら（ハモリ）",
       "secondary": "",
@@ -1553,72 +1619,6 @@
         }
       ],
       "detailPath": "entities/artists/7829807d67df2b5a.json"
-    },
-    {
-      "rank": 9399,
-      "id": "b212bcb764d08207",
-      "name": "上々颱風",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "zOthE9bTsBc",
-          "videoTitle": "【#歌枠】JOYSOUND 初見さん大歓迎！のんびりアニソンボカロソング色々歌枠♪【#vtuber #アニソン #karaoke #縦型配信 #shorts #月香翠 #ボカロ】",
-          "channelName": "月香翠",
-          "publishedAt": "2026-09-22T13:32:27.386Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zOthE9bTsBc/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLD6FHnDCvdfsn13y4tlPnrmynP2rA",
-          "sourcePath": "sources/zO/zOthE9bTsBc.json",
-          "time": "1:29:59",
-          "seconds": 5399,
-          "songTitle": "愛より青い海",
-          "artist": "上々颱風"
-        }
-      ],
-      "detailPath": "entities/artists/b212bcb764d08207.json"
-    },
-    {
-      "rank": 9400,
-      "id": "52cd8a58e7508efb",
-      "name": "上顎に貼り付けるタイプののど飴",
-      "secondary": "",
-      "channelId": "UCdTlw9He5XZhG2t5ozOkPAA",
-      "channelHandle": "@teikobonbonch3548",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "L9E08W2FnCI",
-          "videoTitle": "【日曜定期歌枠】みんなが去ってしまってもあなたの背後に大暗黒｜KARAOKE【七原帝子】#vtuber #歌枠 #vsinger",
-          "channelName": "TBB:帝子ボンボンちゃんねる (TBB:Teikobonbon ch)",
-          "publishedAt": "2026-10-04T09:19:35.489Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/L9E08W2FnCI/hqdefault.jpg",
-          "sourcePath": "sources/L9/L9E08W2FnCI.json",
-          "time": "4:00:53",
-          "seconds": 14453,
-          "songTitle": "ピタス",
-          "artist": "上顎に貼り付けるタイプののど飴"
-        }
-      ],
-      "detailPath": "entities/artists/52cd8a58e7508efb.json"
     }
   ]
 }

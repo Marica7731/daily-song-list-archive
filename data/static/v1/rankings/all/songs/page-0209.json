@@ -1,16 +1,106 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "songs",
   "page": 209,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52857,
+  "totalCount": 52870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 10401,
+      "id": "76dd8d6e95806729",
+      "name": "Faraway",
+      "secondary": "PARADISE GO!! GO!!",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "eXymG9UMdlk",
+          "videoTitle": "【 #歌枠 】ゲリラ！どうしても歌いたい... #新人vtuber です！ #はぎおんえあ",
+          "channelName": "萩宮ルナ / hagi piano 新人VTuber",
+          "publishedAt": "2026-09-10T12:56:35.122Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/eXymG9UMdlk/hqdefault.jpg",
+          "sourcePath": "sources/eX/eXymG9UMdlk.json",
+          "time": "1:56:55",
+          "seconds": 7015,
+          "songTitle": "Faraway",
+          "artist": "PARADISE GO!!GO!!"
+        },
+        {
+          "videoId": "q__P1KaVCW8",
+          "videoTitle": "〖歌雑〗元気が出る歌枠にしたいよね〖怠地るべる/#怠配信〗",
+          "channelName": "怠地るべる / Lebel Taruchi",
+          "publishedAt": "2026-09-06T14:09:33.529Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/q__P1KaVCW8/hqdefault.jpg",
+          "sourcePath": "sources/q_/q__P1KaVCW8.json",
+          "time": "2:03:45",
+          "seconds": 7425,
+          "songTitle": "Faraway",
+          "artist": "PARADISE GO!! GO!!"
+        }
+      ],
+      "detailPath": "entities/songs/76dd8d6e95806729.json"
+    },
+    {
+      "rank": 10402,
+      "id": "6319458b72c8a008",
+      "name": "Faux Sentiment",
+      "secondary": "NEPHLA",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "54Qw3Hxdqe8",
+          "videoTitle": "⋮ #歌枠 ⋮ 活動4.5周年記念LIVE🔥🎉貴方に、この世界に、届けたい歌がここにある！✧ #NEPHLA",
+          "channelName": "NEPHLA",
+          "publishedAt": "2026-09-25T13:48:54.463Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/54Qw3Hxdqe8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzBRA_Csa84iGAkJ82VUFHK5Isaw",
+          "sourcePath": "sources/54/54Qw3Hxdqe8.json",
+          "time": "0:38:58",
+          "seconds": 2338,
+          "songTitle": "Faux Sentiment",
+          "artist": "NEPHLA"
+        },
+        {
+          "videoId": "AdYke9iH7T8",
+          "videoTitle": "⋮ #歌枠 No.130 ⋮ メジャーデビュー日までに貴方と出逢いたい！同接350人耐久！✧ #NEPHLA",
+          "channelName": "NEPHLA",
+          "publishedAt": "2026-08-31T15:33:06.903Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AdYke9iH7T8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDp-r8qkP9IdfYXa0r7C7lk3BUXaQ",
+          "sourcePath": "sources/Ad/AdYke9iH7T8.json",
+          "time": "2:51:19",
+          "seconds": 10279,
+          "songTitle": "Faux Sentiment",
+          "artist": "NEPHLA"
+        }
+      ],
+      "detailPath": "entities/songs/6319458b72c8a008.json"
+    },
+    {
+      "rank": 10403,
       "id": "857c8de60a8896ce",
       "name": "favorite song",
       "secondary": "ふみの",
@@ -57,7 +147,7 @@
       "detailPath": "entities/songs/857c8de60a8896ce.json"
     },
     {
-      "rank": 10402,
+      "rank": 10404,
       "id": "120ce9cba5db182d",
       "name": "Feel fine!",
       "secondary": "倉木麻衣",
@@ -103,7 +193,7 @@
       "detailPath": "entities/songs/120ce9cba5db182d.json"
     },
     {
-      "rank": 10403,
+      "rank": 10405,
       "id": "f07df9b7638e153c",
       "name": "Feel Special",
       "secondary": "TWICE",
@@ -148,7 +238,7 @@
       "detailPath": "entities/songs/f07df9b7638e153c.json"
     },
     {
-      "rank": 10404,
+      "rank": 10406,
       "id": "e581e17b35c8e021",
       "name": "Femme fatale",
       "secondary": "MELLOW DEAR US",
@@ -193,7 +283,7 @@
       "detailPath": "entities/songs/e581e17b35c8e021.json"
     },
     {
-      "rank": 10405,
+      "rank": 10407,
       "id": "a1f896041628b401",
       "name": "fictional moon",
       "secondary": "fripSide",
@@ -238,7 +328,7 @@
       "detailPath": "entities/songs/a1f896041628b401.json"
     },
     {
-      "rank": 10406,
+      "rank": 10408,
       "id": "a861be96ed409561",
       "name": "fight",
       "secondary": "YUI",
@@ -283,7 +373,7 @@
       "detailPath": "entities/songs/a861be96ed409561.json"
     },
     {
-      "rank": 10407,
+      "rank": 10409,
       "id": "3f9cf10f024a212d",
       "name": "Fight Together",
       "secondary": "",
@@ -328,7 +418,7 @@
       "detailPath": "entities/songs/3f9cf10f024a212d.json"
     },
     {
-      "rank": 10408,
+      "rank": 10410,
       "id": "cc9ae59008829278",
       "name": "Fighter",
       "secondary": "KANA-BOON",
@@ -375,7 +465,7 @@
       "detailPath": "entities/songs/cc9ae59008829278.json"
     },
     {
-      "rank": 10409,
+      "rank": 10411,
       "id": "51cae68d107435ce",
       "name": "Fighter",
       "secondary": "",
@@ -420,7 +510,7 @@
       "detailPath": "entities/songs/51cae68d107435ce.json"
     },
     {
-      "rank": 10410,
+      "rank": 10412,
       "id": "30eeca9f76ffa57b",
       "name": "filament",
       "secondary": "妖精帝國",
@@ -465,7 +555,7 @@
       "detailPath": "entities/songs/30eeca9f76ffa57b.json"
     },
     {
-      "rank": 10411,
+      "rank": 10413,
       "id": "5b43eb21081b239c",
       "name": "filter",
       "secondary": "まにこ",
@@ -510,7 +600,7 @@
       "detailPath": "entities/songs/5b43eb21081b239c.json"
     },
     {
-      "rank": 10412,
+      "rank": 10414,
       "id": "7cb44599498b9a75",
       "name": "Fin",
       "secondary": "中森明菜",
@@ -555,7 +645,7 @@
       "detailPath": "entities/songs/7cb44599498b9a75.json"
     },
     {
-      "rank": 10413,
+      "rank": 10415,
       "id": "2ec0383158ab2aaa",
       "name": "finale",
       "secondary": "L'Arc~en~Ciel",
@@ -600,7 +690,7 @@
       "detailPath": "entities/songs/2ec0383158ab2aaa.json"
     },
     {
-      "rank": 10414,
+      "rank": 10416,
       "id": "d3ed63dff358a89b",
       "name": "FIND THE WAY",
       "secondary": "Mika Nakashima",
@@ -645,7 +735,7 @@
       "detailPath": "entities/songs/d3ed63dff358a89b.json"
     },
     {
-      "rank": 10415,
+      "rank": 10417,
       "id": "153a723b873a679b",
       "name": "Fine On The Outside",
       "secondary": "Priscilla Ahn",
@@ -690,7 +780,7 @@
       "detailPath": "entities/songs/153a723b873a679b.json"
     },
     {
-      "rank": 10416,
+      "rank": 10418,
       "id": "4e1483ac935b88c2",
       "name": "FIRE!!",
       "secondary": "和田光司 (2002年)",
@@ -738,7 +828,7 @@
       "detailPath": "entities/songs/4e1483ac935b88c2.json"
     },
     {
-      "rank": 10417,
+      "rank": 10419,
       "id": "5bb71b8095de2ddd",
       "name": "FIRE!!",
       "secondary": "",
@@ -783,7 +873,7 @@
       "detailPath": "entities/songs/5bb71b8095de2ddd.json"
     },
     {
-      "rank": 10418,
+      "rank": 10420,
       "id": "d4d36aa3b3e13ad4",
       "name": "Fire◎Flower",
       "secondary": "absorb ※JOYSOUND",
@@ -828,7 +918,7 @@
       "detailPath": "entities/songs/d4d36aa3b3e13ad4.json"
     },
     {
-      "rank": 10419,
+      "rank": 10421,
       "id": "78d643935524ff3b",
       "name": "Fire◎Flower 鏡音レン",
       "secondary": "halyosy",
@@ -876,7 +966,7 @@
       "detailPath": "entities/songs/78d643935524ff3b.json"
     },
     {
-      "rank": 10420,
+      "rank": 10422,
       "id": "fed04633f2900f82",
       "name": "FIREBALL",
       "secondary": "B'z",
@@ -921,7 +1011,7 @@
       "detailPath": "entities/songs/fed04633f2900f82.json"
     },
     {
-      "rank": 10421,
+      "rank": 10423,
       "id": "d7cb171a41fc8e28",
       "name": "Firework",
       "secondary": "Katy Perry",
@@ -969,7 +1059,7 @@
       "detailPath": "entities/songs/d7cb171a41fc8e28.json"
     },
     {
-      "rank": 10422,
+      "rank": 10424,
       "id": "6e2ff78a159f6f3c",
       "name": "first death",
       "secondary": "TK from 凛として時雨",
@@ -1014,7 +1104,7 @@
       "detailPath": "entities/songs/6e2ff78a159f6f3c.json"
     },
     {
-      "rank": 10423,
+      "rank": 10425,
       "id": "24572624f6a541cc",
       "name": "First Good-Bye",
       "secondary": "涼宮ハルヒ",
@@ -1060,7 +1150,7 @@
       "detailPath": "entities/songs/24572624f6a541cc.json"
     },
     {
-      "rank": 10424,
+      "rank": 10426,
       "id": "2f501d8f71d441ab",
       "name": "First Love",
       "secondary": "宇多田光",
@@ -1105,7 +1195,7 @@
       "detailPath": "entities/songs/2f501d8f71d441ab.json"
     },
     {
-      "rank": 10425,
+      "rank": 10427,
       "id": "883f61f2cf47eab3",
       "name": "firstkiss",
       "secondary": "",
@@ -1150,7 +1240,7 @@
       "detailPath": "entities/songs/883f61f2cf47eab3.json"
     },
     {
-      "rank": 10426,
+      "rank": 10428,
       "id": "018b5ac2ca3f65ee",
       "name": "Flamingo",
       "secondary": "未記載",
@@ -1196,7 +1286,7 @@
       "detailPath": "entities/songs/018b5ac2ca3f65ee.json"
     },
     {
-      "rank": 10427,
+      "rank": 10429,
       "id": "ee5ba0848eb981aa",
       "name": "Flamingo(+2key)",
       "secondary": "米津玄師",
@@ -1241,7 +1331,7 @@
       "detailPath": "entities/songs/ee5ba0848eb981aa.json"
     },
     {
-      "rank": 10428,
+      "rank": 10430,
       "id": "c8358fb8192a6885",
       "name": "FLASH",
       "secondary": "Perfume",
@@ -1286,7 +1376,7 @@
       "detailPath": "entities/songs/c8358fb8192a6885.json"
     },
     {
-      "rank": 10429,
+      "rank": 10431,
       "id": "a958ac11a7df78bf",
       "name": "Flash!!!",
       "secondary": "King Gnu",
@@ -1332,7 +1422,7 @@
       "detailPath": "entities/songs/a958ac11a7df78bf.json"
     },
     {
-      "rank": 10430,
+      "rank": 10432,
       "id": "9f90cfacb3497cb7",
       "name": "Flavor Of Life (ballad ver.)",
       "secondary": "宇多田ヒカル",
@@ -1379,7 +1469,7 @@
       "detailPath": "entities/songs/9f90cfacb3497cb7.json"
     },
     {
-      "rank": 10431,
+      "rank": 10433,
       "id": "08927f43e582ba32",
       "name": "flos",
       "secondary": "R Sound Design feat.初音ミク ※JOYSOUND",
@@ -1424,7 +1514,7 @@
       "detailPath": "entities/songs/08927f43e582ba32.json"
     },
     {
-      "rank": 10432,
+      "rank": 10434,
       "id": "a5bb327ba6effa23",
       "name": "flower rhapsody",
       "secondary": "/さくらみこ",
@@ -1470,7 +1560,7 @@
       "detailPath": "entities/songs/a5bb327ba6effa23.json"
     },
     {
-      "rank": 10433,
+      "rank": 10435,
       "id": "dde230f2c6a9ea63",
       "name": "Flowerwall",
       "secondary": "米津玄師ｻﾝ",
@@ -1516,7 +1606,7 @@
       "detailPath": "entities/songs/dde230f2c6a9ea63.json"
     },
     {
-      "rank": 10434,
+      "rank": 10436,
       "id": "09fd615d9a3574ce",
       "name": "Fly again, hero",
       "secondary": "LAST ALLIANCE",
@@ -1563,7 +1653,7 @@
       "detailPath": "entities/songs/09fd615d9a3574ce.json"
     },
     {
-      "rank": 10435,
+      "rank": 10437,
       "id": "450a3aceb90c2d55",
       "name": "FLY HIGH!!",
       "secondary": "",
@@ -1608,7 +1698,7 @@
       "detailPath": "entities/songs/450a3aceb90c2d55.json"
     },
     {
-      "rank": 10436,
+      "rank": 10438,
       "id": "b827731fefe09a17",
       "name": "FLY-DAY CHINATOWN",
       "secondary": "泰葉",
@@ -1654,7 +1744,7 @@
       "detailPath": "entities/songs/b827731fefe09a17.json"
     },
     {
-      "rank": 10437,
+      "rank": 10439,
       "id": "2844ee3caf5585ee",
       "name": "Flyer!",
       "secondary": "Chinozo feat. v flower",
@@ -1702,7 +1792,7 @@
       "detailPath": "entities/songs/2844ee3caf5585ee.json"
     },
     {
-      "rank": 10438,
+      "rank": 10440,
       "id": "263d434c615c4d42",
       "name": "flying/GARNET CROW 2000/11",
       "secondary": "29 テイルズ オブ エターニア テーマソング",
@@ -1747,7 +1837,7 @@
       "detailPath": "entities/songs/263d434c615c4d42.json"
     },
     {
-      "rank": 10439,
+      "rank": 10441,
       "id": "55a746b956014e9d",
       "name": "Flyway",
       "secondary": "halyosy feat.鏡音レン、KAITO ※JOYSOUND",
@@ -1792,7 +1882,7 @@
       "detailPath": "entities/songs/55a746b956014e9d.json"
     },
     {
-      "rank": 10440,
+      "rank": 10442,
       "id": "9ca9a7167408bc2e",
       "name": "For Fruits Basket",
       "secondary": "Ritsuko Okazaki",
@@ -1837,7 +1927,7 @@
       "detailPath": "entities/songs/9ca9a7167408bc2e.json"
     },
     {
-      "rank": 10441,
+      "rank": 10443,
       "id": "2118e3766faac290",
       "name": "For good",
       "secondary": "",
@@ -1882,7 +1972,7 @@
       "detailPath": "entities/songs/2118e3766faac290.json"
     },
     {
-      "rank": 10442,
+      "rank": 10444,
       "id": "73f1f24c89a0f162",
       "name": "FOR REAL",
       "secondary": "徳山秀典（アニメ『幻想魔伝 最遊記』OP）",
@@ -1927,7 +2017,7 @@
       "detailPath": "entities/songs/73f1f24c89a0f162.json"
     },
     {
-      "rank": 10443,
+      "rank": 10445,
       "id": "f7a01f21d5acf98b",
       "name": "For the First Time in Forever",
       "secondary": "Kristen Bell, Idina Menzel",
@@ -1972,7 +2062,7 @@
       "detailPath": "entities/songs/f7a01f21d5acf98b.json"
     },
     {
-      "rank": 10444,
+      "rank": 10446,
       "id": "d2072793535ee8d2",
       "name": "For the moment",
       "secondary": "Every Little Thing",
@@ -2019,7 +2109,7 @@
       "detailPath": "entities/songs/d2072793535ee8d2.json"
     },
     {
-      "rank": 10445,
+      "rank": 10447,
       "id": "67833021ce33032a",
       "name": "For You",
       "secondary": "宇多田ヒカル",
@@ -2064,7 +2154,7 @@
       "detailPath": "entities/songs/67833021ce33032a.json"
     },
     {
-      "rank": 10446,
+      "rank": 10448,
       "id": "9b7f600ec8b28100",
       "name": "forbidden lover",
       "secondary": "L'Arc〜en〜Ciel",
@@ -2109,7 +2199,7 @@
       "detailPath": "entities/songs/9b7f600ec8b28100.json"
     },
     {
-      "rank": 10447,
+      "rank": 10449,
       "id": "7f38b691323671e4",
       "name": "Forever Dream",
       "secondary": "りさ",
@@ -2154,7 +2244,7 @@
       "detailPath": "entities/songs/7f38b691323671e4.json"
     },
     {
-      "rank": 10448,
+      "rank": 10450,
       "id": "6d9cdcc9572805ae",
       "name": "Forget You",
       "secondary": "Cee Lo Green",
@@ -2197,96 +2287,6 @@
         }
       ],
       "detailPath": "entities/songs/6d9cdcc9572805ae.json"
-    },
-    {
-      "rank": 10449,
-      "id": "49555f8165820bb8",
-      "name": "fortissimo -the ultimate crisis",
-      "secondary": "fripSide",
-      "channelId": "UCLIEOGtrywxsLztMPPKtfkA",
-      "channelHandle": "@RaraTakanashi",
-      "channelUrl": "https://www.youtube.com/@RaraTakanashi",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "karaoke",
-        "歌"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "exfF0q-3Wik",
-          "videoTitle": "【 歌枠┆KARAOKE 】fripSideさん楽曲限定歌枠 ✧ 大好きな神曲たくさん歌います！",
-          "channelName": "Rara Channel",
-          "publishedAt": "2026-05-08T22:33:45.607Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/exfF0q-3Wik/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4PNihUJ7fwtzqARjxXzcT-HaVMA",
-          "sourcePath": "sources/ex/exfF0q-3Wik.json",
-          "time": "1:16:38",
-          "seconds": 4598,
-          "songTitle": "fortissimo -the ultimate crisis",
-          "artist": "fripSide"
-        },
-        {
-          "videoId": "6tH_xRt6w3o",
-          "videoTitle": "【 歌枠┆KARAOKE 】fripSideさん楽曲限定歌枠！神曲たくさん歌います ✧【VTuber】",
-          "channelName": "Rara Channel",
-          "publishedAt": "2024-10-05T22:33:45.607Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6tH_xRt6w3o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJqNm-FBFn4WD8leX4851GRsZFAw",
-          "sourcePath": "sources/6t/6tH_xRt6w3o.json",
-          "time": "0:19:47",
-          "seconds": 1187,
-          "songTitle": "fortissimo -the ultimate crisis",
-          "artist": "fripSide"
-        }
-      ],
-      "detailPath": "entities/songs/49555f8165820bb8.json"
-    },
-    {
-      "rank": 10450,
-      "id": "81834ffaa916bf96",
-      "name": "Forフルーツバスケット",
-      "secondary": "",
-      "channelId": "UCu1KdVQP-Z36uU3uj0blc8w",
-      "channelHandle": "@fuyamyuto",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ijo4YyHbe_s",
-          "videoTitle": "歌枠 / Karaoke │ 切ない曲🌃胸がぎゅっとなる曲歌います🤍 Singing Stream 〖 音羽ララ / Vsinger〗",
-          "channelName": "音羽ララ (Otohane Lara) / シアーミュージックV",
-          "publishedAt": "2026-09-05T13:12:20.431Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ijo4YyHbe_s/hqdefault.jpg",
-          "sourcePath": "sources/ij/ijo4YyHbe_s.json",
-          "time": "1:43:39",
-          "seconds": 6219,
-          "songTitle": "For フルーツバスケット",
-          "artist": ""
-        },
-        {
-          "videoId": "JEOKTnTRmU8",
-          "videoTitle": "【歌枠】高評価50目指す‼押してってね✨【#不夜みゅうと 】",
-          "channelName": "不夜みゅうと",
-          "publishedAt": "2026-08-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/JEOKTnTRmU8/hqdefault.jpg",
-          "sourcePath": "sources/JE/JEOKTnTRmU8.json",
-          "time": "0:28:50",
-          "seconds": 1730,
-          "songTitle": "Forフルーツバスケット",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/81834ffaa916bf96.json"
     }
   ]
 }

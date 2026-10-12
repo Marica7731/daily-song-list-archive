@@ -1,16 +1,149 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "songs",
   "page": 259,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52857,
+  "totalCount": 52870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 12901,
+      "id": "c1b0434a7d392e7e",
+      "name": "ハナミズキ",
+      "secondary": "一靑 窈",
+      "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "channelHandle": "@Unit_B_Pre_Debut",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "S7eU_nc_n1U",
+          "videoTitle": "【 歌枠/睡眠導入】雨音と☔&アカペラ 全肯定お姉さんの静かなお歌枠🌙【 花咲すみれ】#すみらいぶ",
+          "channelName": "花咲すみれch ‐hanasaku sumire ch‐",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/S7eU_nc_n1U/hqdefault.jpg",
+          "sourcePath": "sources/S7/S7eU_nc_n1U.json",
+          "time": "1:14:31",
+          "seconds": 4471,
+          "songTitle": "ハナミズキ",
+          "artist": "一靑 窈"
+        },
+        {
+          "videoId": "naWUto4AUOY",
+          "videoTitle": "水中で弾き語り【 #UNIT_B / #清澄ライラ】",
+          "channelName": "UNIT B (Pre-Debut) - mekPark",
+          "publishedAt": "2026-09-13T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/naWUto4AUOY/hqdefault.jpg",
+          "sourcePath": "sources/na/naWUto4AUOY.json",
+          "time": "1:20:13",
+          "seconds": 4813,
+          "songTitle": "ハナミズキ",
+          "artist": "一靑 窈"
+        }
+      ],
+      "detailPath": "entities/songs/c1b0434a7d392e7e.json"
+    },
+    {
+      "rank": 12902,
+      "id": "0be9ff7856edc2c3",
+      "name": "はなれない距離",
+      "secondary": "TrySail",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "_dFyyd5VAO8",
+          "videoTitle": "歌枠￤様々な表情を見せちゃうお歌枠！！【 星ノ音コロン / ハコネクト 】",
+          "channelName": "星ノ音コロン Koron Ch.",
+          "publishedAt": "2026-09-26T18:22:39.593Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/_dFyyd5VAO8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxrAf-TrdvtDpFa6GFbbIY2KPWdA",
+          "sourcePath": "sources/_d/_dFyyd5VAO8.json",
+          "time": "0:21:09",
+          "seconds": 1269,
+          "songTitle": "はなれない距離",
+          "artist": "TrySail"
+        },
+        {
+          "videoId": "JSql_U7p8A8",
+          "videoTitle": "#歌枠┋今年のお誕生日もいっしょに迎えよ～♡┋天海くりね/ハコネクト",
+          "channelName": "天海くりね Kurine Ch.",
+          "publishedAt": "2026-08-26T16:45:22.879Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JSql_U7p8A8/hqdefault.jpg",
+          "sourcePath": "sources/JS/JSql_U7p8A8.json",
+          "time": "1:07:24",
+          "seconds": 4044,
+          "songTitle": "はなれない距離",
+          "artist": "TrySail"
+        }
+      ],
+      "detailPath": "entities/songs/0be9ff7856edc2c3.json"
+    },
+    {
+      "rank": 12903,
+      "id": "1f1f1a8d18568b2d",
+      "name": "はなをぷーん",
+      "secondary": "きら☆ぴか",
+      "channelId": "UC0_-m-qluVjWfvST93dr_4g",
+      "channelHandle": "@%E7%8B%BC%E8%B0%B7%E3%81%AF%E3%82%8B%E3%81%8B",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "DFZGBZCLB_E",
+          "videoTitle": "【#歌枠/KARAOKE】同接100耐久🐼達成で告知あり❣ #早乙女乙葉 #VTuber #初見さん大歓迎 #耐久",
+          "channelName": "早乙女乙葉-SaotomeOtoha-",
+          "publishedAt": "2026-09-12T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DFZGBZCLB_E/hqdefault.jpg",
+          "sourcePath": "sources/DF/DFZGBZCLB_E.json",
+          "time": "1:20:19",
+          "seconds": 4819,
+          "songTitle": "はなをぷーん",
+          "artist": "きら☆ぴか"
+        },
+        {
+          "videoId": "al8e0d8Xxgw",
+          "videoTitle": "〖 #歌枠￤#karaoke 〗高評価444達成でおしらせ発表！！みんな応援してください！！【#新人Vtuber】",
+          "channelName": "狼谷はるか / Kamiya Haruka ch.",
+          "publishedAt": "2026-08-02T10:35:51.152Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/al8e0d8Xxgw/hqdefault.jpg",
+          "sourcePath": "sources/al/al8e0d8Xxgw.json",
+          "time": "4:04:40",
+          "seconds": 14680,
+          "songTitle": "はなをぷーん",
+          "artist": "きら☆ぴか"
+        }
+      ],
+      "detailPath": "entities/songs/1f1f1a8d18568b2d.json"
+    },
+    {
+      "rank": 12904,
       "id": "854a9a9e339b091c",
       "name": "バニー",
       "secondary": "すりぃ",
@@ -55,7 +188,7 @@
       "detailPath": "entities/songs/854a9a9e339b091c.json"
     },
     {
-      "rank": 12902,
+      "rank": 12905,
       "id": "c3ab89ce7ec447e4",
       "name": "バニラ",
       "secondary": "きゃない",
@@ -101,7 +234,7 @@
       "detailPath": "entities/songs/c3ab89ce7ec447e4.json"
     },
     {
-      "rank": 12903,
+      "rank": 12906,
       "id": "d4b12e99eb6d782b",
       "name": "バニラ",
       "secondary": "魚住英里奈",
@@ -147,7 +280,7 @@
       "detailPath": "entities/songs/d4b12e99eb6d782b.json"
     },
     {
-      "rank": 12904,
+      "rank": 12907,
       "id": "4da35918dcb71d92",
       "name": "ババーンと推参！バーンブレイバーン",
       "secondary": "ブレイバーン (Cv. 鈴村健一) / JS",
@@ -192,7 +325,7 @@
       "detailPath": "entities/songs/4da35918dcb71d92.json"
     },
     {
-      "rank": 12905,
+      "rank": 12908,
       "id": "2e6134973111378b",
       "name": "パブリック",
       "secondary": "Mrs. GREEN APPLE",
@@ -237,7 +370,7 @@
       "detailPath": "entities/songs/2e6134973111378b.json"
     },
     {
-      "rank": 12906,
+      "rank": 12909,
       "id": "bb3e206c64fea549",
       "name": "バブリン",
       "secondary": "HIMEHINA",
@@ -282,7 +415,7 @@
       "detailPath": "entities/songs/bb3e206c64fea549.json"
     },
     {
-      "rank": 12907,
+      "rank": 12910,
       "id": "045172d6c8f09a03",
       "name": "バブル",
       "secondary": "tuki.",
@@ -327,7 +460,7 @@
       "detailPath": "entities/songs/045172d6c8f09a03.json"
     },
     {
-      "rank": 12908,
+      "rank": 12911,
       "id": "15222e7be64dc39e",
       "name": "ハミダシモノ",
       "secondary": "楠木ともり",
@@ -372,7 +505,7 @@
       "detailPath": "entities/songs/15222e7be64dc39e.json"
     },
     {
-      "rank": 12909,
+      "rank": 12912,
       "id": "3ffab65ec4b89d2d",
       "name": "ハム太郎とっとこうた",
       "secondary": "とっとこハム太郎",
@@ -417,7 +550,7 @@
       "detailPath": "entities/songs/3ffab65ec4b89d2d.json"
     },
     {
-      "rank": 12910,
+      "rank": 12913,
       "id": "180ff3865d7719e5",
       "name": "ハム太郎とっとこ歌",
       "secondary": "ハムちゃんず",
@@ -462,7 +595,7 @@
       "detailPath": "entities/songs/180ff3865d7719e5.json"
     },
     {
-      "rank": 12911,
+      "rank": 12914,
       "id": "34e67e1e0981aea5",
       "name": "ハム太郎のとっとこうた",
       "secondary": "ハムちゃんず",
@@ -507,7 +640,7 @@
       "detailPath": "entities/songs/34e67e1e0981aea5.json"
     },
     {
-      "rank": 12912,
+      "rank": 12915,
       "id": "e4dd462e863c3360",
       "name": "はやく夜へ",
       "secondary": "水槽",
@@ -552,7 +685,7 @@
       "detailPath": "entities/songs/e4dd462e863c3360.json"
     },
     {
-      "rank": 12913,
+      "rank": 12916,
       "id": "cedd20016fb56854",
       "name": "パラジクロロベンゼン",
       "secondary": "",
@@ -597,7 +730,7 @@
       "detailPath": "entities/songs/cedd20016fb56854.json"
     },
     {
-      "rank": 12914,
+      "rank": 12917,
       "id": "b487ad056bf81a84",
       "name": "パラドキシカルZOO",
       "secondary": "AKINO with bless4",
@@ -641,7 +774,7 @@
       "detailPath": "entities/songs/b487ad056bf81a84.json"
     },
     {
-      "rank": 12915,
+      "rank": 12918,
       "id": "20b48362c5abe16e",
       "name": "ばらばら",
       "secondary": "星野源ｻﾝ",
@@ -687,7 +820,7 @@
       "detailPath": "entities/songs/20b48362c5abe16e.json"
     },
     {
-      "rank": 12916,
+      "rank": 12919,
       "id": "d55e6bd008564f34",
       "name": "バラライカ",
       "secondary": "やらないか！？",
@@ -733,7 +866,7 @@
       "detailPath": "entities/songs/d55e6bd008564f34.json"
     },
     {
-      "rank": 12917,
+      "rank": 12920,
       "id": "1897747780d13542",
       "name": "バラライカ",
       "secondary": "きらりん☆レボリューション KIRARIN REVOLUTION",
@@ -778,7 +911,7 @@
       "detailPath": "entities/songs/1897747780d13542.json"
     },
     {
-      "rank": 12918,
+      "rank": 12921,
       "id": "df63551b9b428395",
       "name": "パラレルナイト",
       "secondary": "凛々咲",
@@ -824,7 +957,7 @@
       "detailPath": "entities/songs/df63551b9b428395.json"
     },
     {
-      "rank": 12919,
+      "rank": 12922,
       "id": "47afc6ac67c82ab8",
       "name": "バリバリ最強No1",
       "secondary": "",
@@ -869,7 +1002,7 @@
       "detailPath": "entities/songs/47afc6ac67c82ab8.json"
     },
     {
-      "rank": 12920,
+      "rank": 12923,
       "id": "df44e97a99266bde",
       "name": "ハルカ",
       "secondary": "",
@@ -914,7 +1047,7 @@
       "detailPath": "entities/songs/df44e97a99266bde.json"
     },
     {
-      "rank": 12921,
+      "rank": 12924,
       "id": "61f09d423730bc13",
       "name": "ハルカカナタ",
       "secondary": "UNLIMITS",
@@ -961,7 +1094,7 @@
       "detailPath": "entities/songs/61f09d423730bc13.json"
     },
     {
-      "rank": 12922,
+      "rank": 12925,
       "id": "da12bc0fa1cdc4be",
       "name": "ハルジオン",
       "secondary": "YOASOBI ／ むこうのくに(2020年)",
@@ -1003,7 +1136,7 @@
       "detailPath": "entities/songs/da12bc0fa1cdc4be.json"
     },
     {
-      "rank": 12923,
+      "rank": 12926,
       "id": "11e70a215244d049",
       "name": "パレイド",
       "secondary": "syh",
@@ -1050,7 +1183,7 @@
       "detailPath": "entities/songs/11e70a215244d049.json"
     },
     {
-      "rank": 12924,
+      "rank": 12927,
       "id": "d728f58015ade2b0",
       "name": "パレード",
       "secondary": "未記載",
@@ -1094,7 +1227,7 @@
       "detailPath": "entities/songs/d728f58015ade2b0.json"
     },
     {
-      "rank": 12925,
+      "rank": 12928,
       "id": "ce2756fe7d129297",
       "name": "バレリーコ",
       "secondary": "みきとP feat.GUMI ※JOYSOUND",
@@ -1139,7 +1272,7 @@
       "detailPath": "entities/songs/ce2756fe7d129297.json"
     },
     {
-      "rank": 12926,
+      "rank": 12929,
       "id": "4478c4ee70ffdcf3",
       "name": "バレンタイン・キッス",
       "secondary": "渡り廊下走り隊",
@@ -1186,7 +1319,7 @@
       "detailPath": "entities/songs/4478c4ee70ffdcf3.json"
     },
     {
-      "rank": 12927,
+      "rank": 12930,
       "id": "e3b2900dcc77133d",
       "name": "ハレ晴レユカイ",
       "secondary": "SOS団",
@@ -1233,7 +1366,7 @@
       "detailPath": "entities/songs/e3b2900dcc77133d.json"
     },
     {
-      "rank": 12928,
+      "rank": 12931,
       "id": "d0c0d87794f13457",
       "name": "ハレ晴レユカイ",
       "secondary": "＠朝比奈みくる×涼宮ハルヒ×長門有希",
@@ -1279,7 +1412,7 @@
       "detailPath": "entities/songs/d0c0d87794f13457.json"
     },
     {
-      "rank": 12929,
+      "rank": 12932,
       "id": "c4fae1ada87eb654",
       "name": "ハレ晴レユカイ",
       "secondary": "平野綾",
@@ -1327,7 +1460,7 @@
       "detailPath": "entities/songs/c4fae1ada87eb654.json"
     },
     {
-      "rank": 12930,
+      "rank": 12933,
       "id": "7cbd512e095af0f2",
       "name": "ハレ晴レユカイ",
       "secondary": "平野綾、茅原実里、後藤邑子 ／ 涼宮ハルヒの憂鬱(2006年)",
@@ -1372,7 +1505,7 @@
       "detailPath": "entities/songs/7cbd512e095af0f2.json"
     },
     {
-      "rank": 12931,
+      "rank": 12934,
       "id": "b58b7a9448e33ac4",
       "name": "ハレ晴れユカイ",
       "secondary": "平野綾・茅原実里・後藤邑子",
@@ -1417,7 +1550,7 @@
       "detailPath": "entities/songs/b58b7a9448e33ac4.json"
     },
     {
-      "rank": 12932,
+      "rank": 12935,
       "id": "0b011c816e40ea3f",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ",
@@ -1462,7 +1595,7 @@
       "detailPath": "entities/songs/0b011c816e40ea3f.json"
     },
     {
-      "rank": 12933,
+      "rank": 12936,
       "id": "4665fd318f537b57",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子) (涼宮ハルヒの憂鬱)",
@@ -1507,7 +1640,7 @@
       "detailPath": "entities/songs/4665fd318f537b57.json"
     },
     {
-      "rank": 12934,
+      "rank": 12937,
       "id": "089a7895380cd714",
       "name": "ハレ晴れユカイ",
       "secondary": "",
@@ -1552,7 +1685,7 @@
       "detailPath": "entities/songs/089a7895380cd714.json"
     },
     {
-      "rank": 12935,
+      "rank": 12938,
       "id": "b04cf82dc5e26fd6",
       "name": "ハレ晴れユカイ",
       "secondary": "涼宮ハルヒ(CV.平野綾)、長門有希(CV.茅原実里)、朝比奈みくる(CV.後藤邑子)",
@@ -1597,7 +1730,7 @@
       "detailPath": "entities/songs/b04cf82dc5e26fd6.json"
     },
     {
-      "rank": 12936,
+      "rank": 12939,
       "id": "dd7e1a327b43eaf7",
       "name": "ハロ",
       "secondary": "ハワユ（ナノウ feat. 初音ミク）",
@@ -1641,7 +1774,7 @@
       "detailPath": "entities/songs/dd7e1a327b43eaf7.json"
     },
     {
-      "rank": 12937,
+      "rank": 12940,
       "id": "b9b91f8a58ceb36d",
       "name": "ハロ",
       "secondary": "ハワユ ナノウ(ほえほえP) feat.初音ミク",
@@ -1686,7 +1819,7 @@
       "detailPath": "entities/songs/b9b91f8a58ceb36d.json"
     },
     {
-      "rank": 12938,
+      "rank": 12941,
       "id": "460e13e6ed2d91f8",
       "name": "ハロ ハワユ",
       "secondary": "",
@@ -1731,7 +1864,7 @@
       "detailPath": "entities/songs/460e13e6ed2d91f8.json"
     },
     {
-      "rank": 12939,
+      "rank": 12942,
       "id": "45156e9ecf3a57d3",
       "name": "ハロ/ハワユ",
       "secondary": "ほえほえP",
@@ -1776,7 +1909,7 @@
       "detailPath": "entities/songs/45156e9ecf3a57d3.json"
     },
     {
-      "rank": 12940,
+      "rank": 12943,
       "id": "2c34008aa6491114",
       "name": "ハロ／ハワユ",
       "secondary": "CIVILIAN",
@@ -1821,7 +1954,7 @@
       "detailPath": "entities/songs/2c34008aa6491114.json"
     },
     {
-      "rank": 12941,
+      "rank": 12944,
       "id": "6d51184ed3bf3214",
       "name": "ハロ/ハワユ",
       "secondary": "Nanou",
@@ -1866,7 +1999,7 @@
       "detailPath": "entities/songs/6d51184ed3bf3214.json"
     },
     {
-      "rank": 12942,
+      "rank": 12945,
       "id": "7b48eefac4fb37b8",
       "name": "ハローディストピア",
       "secondary": "まふまふ",
@@ -1911,7 +2044,7 @@
       "detailPath": "entities/songs/7b48eefac4fb37b8.json"
     },
     {
-      "rank": 12943,
+      "rank": 12946,
       "id": "73aba906bc313702",
       "name": "ハロー大豆の歌",
       "secondary": "かんなぎ",
@@ -1959,7 +2092,7 @@
       "detailPath": "entities/songs/73aba906bc313702.json"
     },
     {
-      "rank": 12944,
+      "rank": 12947,
       "id": "32e02bf59ded0eec",
       "name": "ハンキーパンキー",
       "secondary": "ハナレグミ",
@@ -2007,7 +2140,7 @@
       "detailPath": "entities/songs/32e02bf59ded0eec.json"
     },
     {
-      "rank": 12945,
+      "rank": 12948,
       "id": "2f333c807c30676a",
       "name": "パンダヒーロー",
       "secondary": "ハチ(米津玄師) feat. 巡音ルカ",
@@ -2052,7 +2185,7 @@
       "detailPath": "entities/songs/2f333c807c30676a.json"
     },
     {
-      "rank": 12946,
+      "rank": 12949,
       "id": "fbab5074b46a7c0d",
       "name": "パンダヒーロー・Panda Hero",
       "secondary": "ハチ（米津玄師）",
@@ -2097,7 +2230,7 @@
       "detailPath": "entities/songs/fbab5074b46a7c0d.json"
     },
     {
-      "rank": 12947,
+      "rank": 12950,
       "id": "297b53d77dd87f07",
       "name": "ぱんでみっく ! !",
       "secondary": "Team.ねこかん【猫】featuring 米倉 千尋",
@@ -2143,143 +2276,6 @@
         }
       ],
       "detailPath": "entities/songs/297b53d77dd87f07.json"
-    },
-    {
-      "rank": 12948,
-      "id": "7105c2cb6090b962",
-      "name": "ハンドメイドミライ",
-      "secondary": "西沢さんP",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "qHiWJI1Tlq4",
-          "videoTitle": "【 耐久歌枠┆あと90人 】事務所加入後チャンネル登録者数+10000人まで【 羽澄さひろ┆VEE 】",
-          "channelName": "羽澄さひろ / Hasumi Sahiro",
-          "publishedAt": "2026-09-30T09:51:28.217Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qHiWJI1Tlq4/hqdefault.jpg",
-          "sourcePath": "sources/qH/qHiWJI1Tlq4.json",
-          "time": "0:33:13",
-          "seconds": 1993,
-          "songTitle": "ハンドメイドミライ",
-          "artist": "西沢さんP"
-        },
-        {
-          "videoId": "WCnc3hAkJHU",
-          "videoTitle": "〖 歌枠 〗かわいく歌いたい…！と、思います〖 天川はの 〗",
-          "channelName": "天川はの/AmakawaHano",
-          "publishedAt": "2026-09-06T09:56:52.788Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/WCnc3hAkJHU/hqdefault.jpg",
-          "sourcePath": "sources/WC/WCnc3hAkJHU.json",
-          "time": "2:05:01",
-          "seconds": 7501,
-          "songTitle": "ハンドメイドミライ",
-          "artist": "西沢さんP"
-        }
-      ],
-      "detailPath": "entities/songs/7105c2cb6090b962.json"
-    },
-    {
-      "rank": 12949,
-      "id": "a82a6d4aae427a94",
-      "name": "バンドをやってる友達",
-      "secondary": "ゆらゆら帝国",
-      "channelId": "UCs8hDV9LLPSd-1SgdlMNm5Q",
-      "channelHandle": "@Mcca25",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "fuvG5YMASvg",
-          "videoTitle": "#shorts 【#縦型/弾き語り】ミックスボイスを習得する瞬間を目撃できるかもしれない放送←ひたすら練習する男【#歌枠】その9",
-          "channelName": "MelanchoDori",
-          "publishedAt": "2026-08-15T10:46:04.239Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/fuvG5YMASvg/hqdefault.jpg",
-          "sourcePath": "sources/fu/fuvG5YMASvg.json",
-          "time": "0:56:44",
-          "seconds": 3404,
-          "songTitle": "バンドをやってる友達",
-          "artist": "ゆらゆら帝国"
-        },
-        {
-          "videoId": "-tKQqP3FLoU",
-          "videoTitle": "#shorts 【#縦型/弾き語り】歌、上手くなりてえ。放送【#歌枠】その7",
-          "channelName": "MelanchoDori",
-          "publishedAt": "2026-08-11T10:48:07.351Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-tKQqP3FLoU/hqdefault.jpg",
-          "sourcePath": "sources/-t/-tKQqP3FLoU.json",
-          "time": "0:03:30",
-          "seconds": 210,
-          "songTitle": "バンドをやってる友達",
-          "artist": "ゆらゆら帝国"
-        }
-      ],
-      "detailPath": "entities/songs/a82a6d4aae427a94.json"
-    },
-    {
-      "rank": 12950,
-      "id": "34d41271d8ebd54e",
-      "name": "バンブー・ランデヴー",
-      "secondary": "メイメイ(CV:花澤香菜)",
-      "channelId": "UC5ZEWtlwM3d4x4iLDOnzuww",
-      "channelHandle": "@oto0415",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "UBcwbGYSfJA",
-          "videoTitle": "【 弾き語り / KARAOKE 】かわいい歌がうたいたいんじゃ【 #紗倉おと 】",
-          "channelName": "紗倉おと-Sakura Oto-🎸",
-          "publishedAt": "2026-09-28T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UBcwbGYSfJA/hqdefault.jpg",
-          "sourcePath": "sources/UB/UBcwbGYSfJA.json",
-          "time": "1:16:51",
-          "seconds": 4611,
-          "songTitle": "バンブー・ランデヴー",
-          "artist": "メイメイ(CV:花澤香菜)"
-        },
-        {
-          "videoId": "0NwuY-_vFjU",
-          "videoTitle": "【 弾き語り / KARAOKE 】8月だ！平成アニソン歌枠【 #紗倉おと 】",
-          "channelName": "紗倉おと-Sakura Oto-🎸",
-          "publishedAt": "2026-08-02T12:43:19.350Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0NwuY-_vFjU/hqdefault.jpg",
-          "sourcePath": "sources/0N/0NwuY-_vFjU.json",
-          "time": "1:23:30",
-          "seconds": 5010,
-          "songTitle": "バンブー・ランデヴー",
-          "artist": "メイメイ(CV:花澤香菜)"
-        }
-      ],
-      "detailPath": "entities/songs/34d41271d8ebd54e.json"
     }
   ]
 }

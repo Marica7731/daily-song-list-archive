@@ -1,16 +1,154 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "songs",
   "page": 245,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52857,
+  "totalCount": 52870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 12201,
+      "id": "edf952e0d6a2aa2e",
+      "name": "キミボシ",
+      "secondary": "40mP",
+      "channelId": "UCgGy3QyrsbmXcLDZJGDOKBQ",
+      "channelHandle": "@%E7%99%BD%E6%B1%B0%E3%81%BE%E3%82%86",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "1DQwdmWPSNM",
+          "videoTitle": "【歌枠】お昼の歌枠🎤14時頃まで！リクエストする時は概要欄見てね🙌【柚園】#shorts #vtuber",
+          "channelName": "柚園🍊ぞのちゃんねる",
+          "publishedAt": "2026-10-04T05:11:03.733Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/1DQwdmWPSNM/hqdefault.jpg",
+          "sourcePath": "sources/1D/1DQwdmWPSNM.json",
+          "time": "0:07:59",
+          "seconds": 479,
+          "songTitle": "キミボシ",
+          "artist": "40mP"
+        },
+        {
+          "videoId": "t4iymlm4-hg",
+          "videoTitle": "【歌枠 / Karaoke】 ゲリラで練習歌枠！【#白汰まゆ】",
+          "channelName": "白汰まゆのへや𓂃𓈒𓏸",
+          "publishedAt": "2026-08-13T08:15:48.630Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/t4iymlm4-hg/hqdefault.jpg",
+          "sourcePath": "sources/t4/t4iymlm4-hg.json",
+          "time": "0:06:17",
+          "seconds": 377,
+          "songTitle": "キミボシ",
+          "artist": "40mP"
+        }
+      ],
+      "detailPath": "entities/songs/edf952e0d6a2aa2e.json"
+    },
+    {
+      "rank": 12202,
+      "id": "58133e6483553f4a",
+      "name": "ギミモ",
+      "secondary": "葛葉",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "DnzvEx8rj2c",
+          "videoTitle": "【#うちらが時代卍歌枠リレー】王。【 #輝七瀬 / RIONECTION 】",
+          "channelName": "輝 七瀬 / Nanase Kira",
+          "publishedAt": "2026-09-22T14:41:15.489Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DnzvEx8rj2c/hqdefault.jpg",
+          "sourcePath": "sources/Dn/DnzvEx8rj2c.json",
+          "time": "0:04:02",
+          "seconds": 242,
+          "songTitle": "ギミモ",
+          "artist": "葛葉"
+        },
+        {
+          "videoId": "rkPgJqlbRAM",
+          "videoTitle": "【 #歌枠 】深夜のチル歌枠 #karaoke #新人vtuber 【 #輝七瀬 / RIONECTION】",
+          "channelName": "輝 七瀬 / Nanase Kira",
+          "publishedAt": "2026-09-02T14:58:38.737Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rkPgJqlbRAM/hqdefault.jpg",
+          "sourcePath": "sources/rk/rkPgJqlbRAM.json",
+          "time": "0:04:57",
+          "seconds": 297,
+          "songTitle": "ギミモ",
+          "artist": "葛葉"
+        }
+      ],
+      "detailPath": "entities/songs/58133e6483553f4a.json"
+    },
+    {
+      "rank": 12203,
+      "id": "d6121cb66d6cf01b",
+      "name": "きみも悪い人でよかった",
+      "secondary": "キノピオピー",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "saojjBWxwV4",
+          "videoTitle": "【 #歌枠 】久しぶりにチャレンジ！好きなの気ままに歌う🌟初見さん・ROM専大歓迎🐹【 縦横同時￤karaoke】",
+          "channelName": "星夜らいか🐹🍻",
+          "publishedAt": "2026-09-19T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/saojjBWxwV4/hqdefault.jpg",
+          "sourcePath": "sources/sa/saojjBWxwV4.json",
+          "time": "1:34:20",
+          "seconds": 5660,
+          "songTitle": "きみも悪い人でよかった",
+          "artist": "キノピオピー"
+        },
+        {
+          "videoId": "be3Ovw4ybL4",
+          "videoTitle": "【 #縦型歌枠 】ねぼすけさんの定期歌枠！！初見さん・ROM専大歓迎🐹【 #karaoke ｜#vsinger 】",
+          "channelName": "星夜らいか🐹🍻",
+          "publishedAt": "2026-08-30T06:16:39.133Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/be3Ovw4ybL4/hqdefault.jpg",
+          "sourcePath": "sources/be/be3Ovw4ybL4.json",
+          "time": "1:52:02",
+          "seconds": 6722,
+          "songTitle": "きみも悪い人でよかった",
+          "artist": "キノピオピー"
+        }
+      ],
+      "detailPath": "entities/songs/d6121cb66d6cf01b.json"
+    },
+    {
+      "rank": 12204,
       "id": "c28e357069df3c09",
       "name": "きみわずらい",
       "secondary": "まねきケチャ",
@@ -55,7 +193,7 @@
       "detailPath": "entities/songs/c28e357069df3c09.json"
     },
     {
-      "rank": 12202,
+      "rank": 12205,
       "id": "57d2c9a142f6628c",
       "name": "キミ以上、ボク未満",
       "secondary": "DECO*27",
@@ -100,7 +238,7 @@
       "detailPath": "entities/songs/57d2c9a142f6628c.json"
     },
     {
-      "rank": 12203,
+      "rank": 12206,
       "id": "6eefc51024b3ef36",
       "name": "キャッチボール",
       "secondary": "BUMP OF CHICKEN",
@@ -145,7 +283,7 @@
       "detailPath": "entities/songs/6eefc51024b3ef36.json"
     },
     {
-      "rank": 12204,
+      "rank": 12207,
       "id": "a5201fb31a8bf228",
       "name": "キャメルバックの街",
       "secondary": "やなぎなぎ",
@@ -191,7 +329,7 @@
       "detailPath": "entities/songs/a5201fb31a8bf228.json"
     },
     {
-      "rank": 12205,
+      "rank": 12208,
       "id": "b039da4c76bb1654",
       "name": "キャンディアディクトフルコォス",
       "secondary": "マチゲリータ",
@@ -237,7 +375,7 @@
       "detailPath": "entities/songs/b039da4c76bb1654.json"
     },
     {
-      "rank": 12206,
+      "rank": 12209,
       "id": "1405263eefd79de6",
       "name": "キャンディークッキーチョコレート",
       "secondary": "はろける feat. 初音ミク,重音テト",
@@ -285,7 +423,7 @@
       "detailPath": "entities/songs/1405263eefd79de6.json"
     },
     {
-      "rank": 12207,
+      "rank": 12210,
       "id": "a10eaedb5cf86000",
       "name": "キャンディークッキーチョコレート",
       "secondary": "はろける",
@@ -330,7 +468,7 @@
       "detailPath": "entities/songs/a10eaedb5cf86000.json"
     },
     {
-      "rank": 12208,
+      "rank": 12211,
       "id": "327a9aa957134b3d",
       "name": "ギャンブル",
       "secondary": "椎名林檎",
@@ -376,7 +514,7 @@
       "detailPath": "entities/songs/327a9aa957134b3d.json"
     },
     {
-      "rank": 12209,
+      "rank": 12212,
       "id": "2aa3186c2d875f87",
       "name": "きゅうくらりん",
       "secondary": "いよわ feat.可不(KAFU) ※JOYSOUND",
@@ -423,7 +561,7 @@
       "detailPath": "entities/songs/2aa3186c2d875f87.json"
     },
     {
-      "rank": 12210,
+      "rank": 12213,
       "id": "15619b87bcbacc96",
       "name": "きゅうくらりん 可不",
       "secondary": "いよわ",
@@ -468,7 +606,7 @@
       "detailPath": "entities/songs/15619b87bcbacc96.json"
     },
     {
-      "rank": 12211,
+      "rank": 12214,
       "id": "3ea858b64f6c5832",
       "name": "キューティーハニー",
       "secondary": "未記載",
@@ -513,7 +651,7 @@
       "detailPath": "entities/songs/3ea858b64f6c5832.json"
     },
     {
-      "rank": 12212,
+      "rank": 12215,
       "id": "65ba43e22348f0cd",
       "name": "キューティーハニー",
       "secondary": "キューティーハニー",
@@ -559,7 +697,7 @@
       "detailPath": "entities/songs/65ba43e22348f0cd.json"
     },
     {
-      "rank": 12213,
+      "rank": 12216,
       "id": "cb3db69502b96eb8",
       "name": "キューティーハニー",
       "secondary": "",
@@ -604,7 +742,7 @@
       "detailPath": "entities/songs/cb3db69502b96eb8.json"
     },
     {
-      "rank": 12214,
+      "rank": 12217,
       "id": "3c3fc81681f2b4e1",
       "name": "キュートなカノジョ",
       "secondary": "",
@@ -649,7 +787,7 @@
       "detailPath": "entities/songs/3c3fc81681f2b4e1.json"
     },
     {
-      "rank": 12215,
+      "rank": 12218,
       "id": "5499fb8a31812c2e",
       "name": "キュートなカノジョfeat.可不",
       "secondary": "syudou",
@@ -694,7 +832,7 @@
       "detailPath": "entities/songs/5499fb8a31812c2e.json"
     },
     {
-      "rank": 12216,
+      "rank": 12219,
       "id": "7c57526dc9864f6f",
       "name": "きゅびずむ",
       "secondary": "超てんちゃん",
@@ -740,7 +878,7 @@
       "detailPath": "entities/songs/7c57526dc9864f6f.json"
     },
     {
-      "rank": 12217,
+      "rank": 12220,
       "id": "65a6d235225ceb94",
       "name": "キラー",
       "secondary": "MORE MORE JUMP!",
@@ -785,7 +923,7 @@
       "detailPath": "entities/songs/65a6d235225ceb94.json"
     },
     {
-      "rank": 12218,
+      "rank": 12221,
       "id": "f66fe3162ac21f68",
       "name": "きらいな人",
       "secondary": "石風呂",
@@ -833,7 +971,7 @@
       "detailPath": "entities/songs/f66fe3162ac21f68.json"
     },
     {
-      "rank": 12219,
+      "rank": 12222,
       "id": "0140d579a981654f",
       "name": "キラキラ",
       "secondary": "",
@@ -878,7 +1016,7 @@
       "detailPath": "entities/songs/0140d579a981654f.json"
     },
     {
-      "rank": 12220,
+      "rank": 12223,
       "id": "6158ecfa6302337b",
       "name": "きらきら",
       "secondary": "湊あくあ",
@@ -923,7 +1061,7 @@
       "detailPath": "entities/songs/6158ecfa6302337b.json"
     },
     {
-      "rank": 12221,
+      "rank": 12224,
       "id": "460c96e5418778c3",
       "name": "キラメキ",
       "secondary": "wacci",
@@ -971,7 +1109,7 @@
       "detailPath": "entities/songs/460c96e5418778c3.json"
     },
     {
-      "rank": 12222,
+      "rank": 12225,
       "id": "8feacfd2c71f8596",
       "name": "キラメキラリ",
       "secondary": "高槻やよい(仁後真耶子)",
@@ -1019,7 +1157,7 @@
       "detailPath": "entities/songs/8feacfd2c71f8596.json"
     },
     {
-      "rank": 12223,
+      "rank": 12226,
       "id": "6a070ce4d997768c",
       "name": "ギリギリ・サーフライダー",
       "secondary": "HALCALI",
@@ -1064,7 +1202,7 @@
       "detailPath": "entities/songs/6a070ce4d997768c.json"
     },
     {
-      "rank": 12224,
+      "rank": 12227,
       "id": "39728f6710360e63",
       "name": "キリトリセン",
       "secondary": "40mP feat.初音ミク",
@@ -1110,7 +1248,7 @@
       "detailPath": "entities/songs/39728f6710360e63.json"
     },
     {
-      "rank": 12225,
+      "rank": 12228,
       "id": "0c487d62292c1f94",
       "name": "キリトリセン",
       "secondary": "GUMI(40㍍)",
@@ -1155,7 +1293,7 @@
       "detailPath": "entities/songs/0c487d62292c1f94.json"
     },
     {
-      "rank": 12226,
+      "rank": 12229,
       "id": "32e38336619fda51",
       "name": "キリトリセン",
       "secondary": "40㍍P",
@@ -1200,7 +1338,7 @@
       "detailPath": "entities/songs/32e38336619fda51.json"
     },
     {
-      "rank": 12227,
+      "rank": 12230,
       "id": "269202e7ffcfba72",
       "name": "キリトリセン",
       "secondary": "",
@@ -1245,7 +1383,7 @@
       "detailPath": "entities/songs/269202e7ffcfba72.json"
     },
     {
-      "rank": 12228,
+      "rank": 12231,
       "id": "6851d2d2d6d2a31b",
       "name": "キレイだ",
       "secondary": "スキマスイッチ",
@@ -1290,7 +1428,7 @@
       "detailPath": "entities/songs/6851d2d2d6d2a31b.json"
     },
     {
-      "rank": 12229,
+      "rank": 12232,
       "id": "e57aa3a26d8b18d6",
       "name": "キレイだ",
       "secondary": "w-inds",
@@ -1338,7 +1476,7 @@
       "detailPath": "entities/songs/e57aa3a26d8b18d6.json"
     },
     {
-      "rank": 12230,
+      "rank": 12233,
       "id": "231811d36c923e2f",
       "name": "キワメテカワイイ",
       "secondary": "七海うらら",
@@ -1384,7 +1522,7 @@
       "detailPath": "entities/songs/231811d36c923e2f.json"
     },
     {
-      "rank": 12231,
+      "rank": 12234,
       "id": "674670140bc28e5d",
       "name": "ギンガムチェック",
       "secondary": "AKB48",
@@ -1429,7 +1567,7 @@
       "detailPath": "entities/songs/674670140bc28e5d.json"
     },
     {
-      "rank": 12232,
+      "rank": 12235,
       "id": "ee04588d172500a9",
       "name": "クイーンオブハート",
       "secondary": "奏音69 feat.巡音ルカ",
@@ -1477,7 +1615,7 @@
       "detailPath": "entities/songs/ee04588d172500a9.json"
     },
     {
-      "rank": 12233,
+      "rank": 12236,
       "id": "34242c40c7faa9f2",
       "name": "くいしんぼハッカー",
       "secondary": "Neko Hacker",
@@ -1522,7 +1660,7 @@
       "detailPath": "entities/songs/34242c40c7faa9f2.json"
     },
     {
-      "rank": 12234,
+      "rank": 12237,
       "id": "210031a4328e4924",
       "name": "クエスチョン",
       "secondary": "",
@@ -1567,7 +1705,7 @@
       "detailPath": "entities/songs/210031a4328e4924.json"
     },
     {
-      "rank": 12235,
+      "rank": 12238,
       "id": "e2af21ecd5b2073e",
       "name": "クズリ念",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1616,7 +1754,7 @@
       "detailPath": "entities/songs/e2af21ecd5b2073e.json"
     },
     {
-      "rank": 12236,
+      "rank": 12239,
       "id": "9553b906073b8167",
       "name": "くせのうた",
       "secondary": "星野源ｻﾝ",
@@ -1661,7 +1799,7 @@
       "detailPath": "entities/songs/9553b906073b8167.json"
     },
     {
-      "rank": 12237,
+      "rank": 12240,
       "id": "e8733b9be4e125d7",
       "name": "くたばれPTA",
       "secondary": "梨本うい feat. 初音ミク",
@@ -1703,7 +1841,7 @@
       "detailPath": "entities/songs/e8733b9be4e125d7.json"
     },
     {
-      "rank": 12238,
+      "rank": 12241,
       "id": "d0e5125415890113",
       "name": "くちづけ",
       "secondary": "いきものがかり",
@@ -1748,7 +1886,7 @@
       "detailPath": "entities/songs/d0e5125415890113.json"
     },
     {
-      "rank": 12239,
+      "rank": 12242,
       "id": "a4000d60d8ef0fd6",
       "name": "くちづけ",
       "secondary": "BUCK-TICK",
@@ -1793,7 +1931,7 @@
       "detailPath": "entities/songs/a4000d60d8ef0fd6.json"
     },
     {
-      "rank": 12240,
+      "rank": 12243,
       "id": "75c58a9d65aee3ad",
       "name": "くちづけDiamond",
       "secondary": "WEAVER",
@@ -1838,7 +1976,7 @@
       "detailPath": "entities/songs/75c58a9d65aee3ad.json"
     },
     {
-      "rank": 12241,
+      "rank": 12244,
       "id": "d3c1faded01648c1",
       "name": "くちびる",
       "secondary": "aiko",
@@ -1887,7 +2025,7 @@
       "detailPath": "entities/songs/d3c1faded01648c1.json"
     },
     {
-      "rank": 12242,
+      "rank": 12245,
       "id": "8b1a1b06b621f2b4",
       "name": "くちびるから媚薬",
       "secondary": "工藤静香",
@@ -1935,7 +2073,7 @@
       "detailPath": "entities/songs/8b1a1b06b621f2b4.json"
     },
     {
-      "rank": 12243,
+      "rank": 12246,
       "id": "c0f1e8aaa15c3105",
       "name": "くつずれ",
       "secondary": "田中誠人",
@@ -1980,7 +2118,7 @@
       "detailPath": "entities/songs/c0f1e8aaa15c3105.json"
     },
     {
-      "rank": 12244,
+      "rank": 12247,
       "id": "38c1652e8df1f32e",
       "name": "グッバイ・アイザック",
       "secondary": "秦基博",
@@ -2026,7 +2164,7 @@
       "detailPath": "entities/songs/38c1652e8df1f32e.json"
     },
     {
-      "rank": 12245,
+      "rank": 12248,
       "id": "7b9ef15747e6f290",
       "name": "クフフのフ〜僕と契約〜",
       "secondary": "六道骸",
@@ -2071,7 +2209,7 @@
       "detailPath": "entities/songs/7b9ef15747e6f290.json"
     },
     {
-      "rank": 12246,
+      "rank": 12249,
       "id": "8f862c9500bef1fb",
       "name": "クムリウタ",
       "secondary": "大塚愛",
@@ -2118,7 +2256,7 @@
       "detailPath": "entities/songs/8f862c9500bef1fb.json"
     },
     {
-      "rank": 12247,
+      "rank": 12250,
       "id": "7199d12ccf231bf0",
       "name": "くもりのうた",
       "secondary": "杏夜くもり",
@@ -2164,141 +2302,6 @@
         }
       ],
       "detailPath": "entities/songs/7199d12ccf231bf0.json"
-    },
-    {
-      "rank": 12248,
-      "id": "14266e7a4a63fe59",
-      "name": "グライダー",
-      "secondary": "玉置浩二",
-      "channelId": "UC0MGSywWRcVtilL89oEe3Mg",
-      "channelHandle": "@nokunoku_",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "gE8cyWIxkqw",
-          "videoTitle": "静かなギター弾き語り｜Japanese Songs Acoustic Cover【玉置浩二・安全地帯多め / 作業用・睡眠用】",
-          "channelName": "nokunoku",
-          "publishedAt": "2026-09-13T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gE8cyWIxkqw/hqdefault.jpg",
-          "sourcePath": "sources/gE/gE8cyWIxkqw.json",
-          "time": "0:56:10",
-          "seconds": 3370,
-          "songTitle": "グライダー",
-          "artist": "玉置浩二"
-        },
-        {
-          "videoId": "LbMLNgZPMqY",
-          "videoTitle": "静かなギター弾き語り｜Japanese Songs Acoustic Cover【玉置浩二・安全地帯多め / 作業用・睡眠用】",
-          "channelName": "nokunoku",
-          "publishedAt": "2026-09-09T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LbMLNgZPMqY/hqdefault.jpg",
-          "sourcePath": "sources/Lb/LbMLNgZPMqY.json",
-          "time": "0:33:30",
-          "seconds": 2010,
-          "songTitle": "グライダー",
-          "artist": "玉置浩二"
-        }
-      ],
-      "detailPath": "entities/songs/14266e7a4a63fe59.json"
-    },
-    {
-      "rank": 12249,
-      "id": "6135a0e957450448",
-      "name": "クライマックス",
-      "secondary": "SUPER BEAVERｻﾝ",
-      "channelId": "UCnLHUdfjsxzP6nGz5hbbdqg",
-      "channelHandle": "@tadanokaeru",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "CKU7z_0ZRDI",
-          "videoTitle": "【#歌枠】1時間くらい #vtuber",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-07-14T15:13:11.105Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/CKU7z_0ZRDI/hqdefault.jpg",
-          "sourcePath": "sources/CK/CKU7z_0ZRDI.json",
-          "time": "0:07:53",
-          "seconds": 473,
-          "songTitle": "クライマックス",
-          "artist": "SUPER BEAVERｻﾝ"
-        },
-        {
-          "videoId": "O-ZjZQnMlvY",
-          "videoTitle": "【#歌枠 #弾き語り 】1時間くらい #vtuber",
-          "channelName": "ただのかえる【TADANO KAERU】",
-          "publishedAt": "2026-07-12T15:03:56.780Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/O-ZjZQnMlvY/hqdefault.jpg",
-          "sourcePath": "sources/O-/O-ZjZQnMlvY.json",
-          "time": "0:19:51",
-          "seconds": 1191,
-          "songTitle": "クライマックス",
-          "artist": "SUPER BEAVERｻﾝ"
-        }
-      ],
-      "detailPath": "entities/songs/6135a0e957450448.json"
-    },
-    {
-      "rank": 12250,
-      "id": "bfd8955457c8b51d",
-      "name": "クライヤ",
-      "secondary": "すこっぷ feat.初音ミク",
-      "channelId": "UC3TlnHMKgmYFjDPzkyW1q2w",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "25HGow7zOkk",
-          "videoTitle": "【 歌枠 】 のんびりできる歌枠探してませんか🌱【 惑世いと┆#vtuber 】",
-          "channelName": "惑世いと - wakuse ito-",
-          "publishedAt": "2026-09-15T10:23:49.947Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/25HGow7zOkk/hqdefault.jpg",
-          "sourcePath": "sources/25/25HGow7zOkk.json",
-          "time": "1:27:11",
-          "seconds": 5231,
-          "songTitle": "クライヤ",
-          "artist": "すこっぷ feat. 初音ミク"
-        },
-        {
-          "videoId": "h8hXOEcwRHg",
-          "videoTitle": "【#歌枠 / #比羽沢れいら 】愛重めの天使が、君に病みかわいいをお届けしますっ👼🤍【 #karaoke / #新人vtuber 】",
-          "channelName": "比羽沢れいら",
-          "publishedAt": "2026-07-17T14:19:21.113Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/h8hXOEcwRHg/hqdefault.jpg",
-          "sourcePath": "sources/h8/h8hXOEcwRHg.json",
-          "time": "0:43:40",
-          "seconds": 2620,
-          "songTitle": "クライヤ",
-          "artist": "すこっぷ feat.初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/bfd8955457c8b51d.json"
     }
   ]
 }

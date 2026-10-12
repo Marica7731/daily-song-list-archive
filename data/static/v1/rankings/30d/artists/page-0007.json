@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "artists",
   "page": 7,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10852,
+  "totalCount": 10856,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 301,
+      "id": "8d63fa73a6d8c468",
+      "name": "Girls Dead Monster",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 38,
+      "videoCount": 33,
+      "songCount": 10,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qbebGazbZ94",
+          "videoTitle": "【🎤歌枠🌸】高評価150達成でLive2Dアプデお披露目がしたい.ᐟ【karaoke￤#μyustream 】",
+          "channelName": "Myu Ch. 花宮ミュウ",
+          "publishedAt": "2026-10-09T06:17:11.353Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qbebGazbZ94/hqdefault.jpg",
+          "sourcePath": "sources/qb/qbebGazbZ94.json",
+          "time": "0:20:06",
+          "seconds": 1206,
+          "songTitle": "Crow song",
+          "artist": "Girls Dead Monster"
+        },
+        {
+          "videoId": "5Q7vi_bb8tc",
+          "videoTitle": "【#歌枠￤#KARAOKE 】一曲入魂。【#新人Vtuber #vsinger #夜は紺色】",
+          "channelName": "夜紺 火花 / Yakon Hibana",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5Q7vi_bb8tc/hqdefault.jpg",
+          "sourcePath": "sources/5Q/5Q7vi_bb8tc.json",
+          "time": "3:21:31",
+          "seconds": 12091,
+          "songTitle": "Crow Song",
+          "artist": "Girls Dead Monster"
+        },
+        {
+          "videoId": "PR4Ema_BR00",
+          "videoTitle": "【#歌枠】アニソン老人会〜🐿私を見つけてください🍁Singing│KARAOKE│弾き語り【#むんもっしゅ】",
+          "channelName": "むんもっしゅ",
+          "publishedAt": "2026-10-06T10:55:29.407Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PR4Ema_BR00/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsdhhIeOKMzGmUSrZkCiux8-81qw",
+          "sourcePath": "sources/PR/PR4Ema_BR00.json",
+          "time": "1:32:07",
+          "seconds": 5527,
+          "songTitle": "一番の宝物",
+          "artist": "Girls Dead Monster"
+        }
+      ],
+      "detailPath": "entities/artists/8d63fa73a6d8c468.json"
+    },
+    {
+      "rank": 302,
       "id": "3282e06e21c459a3",
       "name": "HIMEHINA",
       "secondary": "",
@@ -67,7 +125,7 @@
       "detailPath": "entities/artists/3282e06e21c459a3.json"
     },
     {
-      "rank": 302,
+      "rank": 303,
       "id": "384b17e2dfd0a624",
       "name": "ゴールデンボンバー",
       "secondary": "",
@@ -125,7 +183,7 @@
       "detailPath": "entities/artists/384b17e2dfd0a624.json"
     },
     {
-      "rank": 303,
+      "rank": 304,
       "id": "52f622de26e02115",
       "name": "初音ミク",
       "secondary": "",
@@ -182,7 +240,7 @@
       "detailPath": "entities/artists/52f622de26e02115.json"
     },
     {
-      "rank": 304,
+      "rank": 305,
       "id": "a20756dbbf2a0aa5",
       "name": "doriko feat. 初音ミク",
       "secondary": "",
@@ -240,7 +298,7 @@
       "detailPath": "entities/artists/a20756dbbf2a0aa5.json"
     },
     {
-      "rank": 305,
+      "rank": 306,
       "id": "57dd5387e46cd40b",
       "name": "理芽",
       "secondary": "",
@@ -298,7 +356,7 @@
       "detailPath": "entities/artists/57dd5387e46cd40b.json"
     },
     {
-      "rank": 306,
+      "rank": 307,
       "id": "ed9942ba1631ae74",
       "name": "KOKIA",
       "secondary": "",
@@ -356,7 +414,7 @@
       "detailPath": "entities/artists/ed9942ba1631ae74.json"
     },
     {
-      "rank": 307,
+      "rank": 308,
       "id": "8c6bb0a80678d78b",
       "name": "香椎モイミ",
       "secondary": "",
@@ -413,7 +471,7 @@
       "detailPath": "entities/artists/8c6bb0a80678d78b.json"
     },
     {
-      "rank": 308,
+      "rank": 309,
       "id": "dfa90938d635883c",
       "name": "ジミーサムP feat. 初音ミク",
       "secondary": "",
@@ -471,7 +529,7 @@
       "detailPath": "entities/artists/dfa90938d635883c.json"
     },
     {
-      "rank": 309,
+      "rank": 310,
       "id": "299afffea124c213",
       "name": "桑田佳祐",
       "secondary": "",
@@ -529,7 +587,7 @@
       "detailPath": "entities/artists/299afffea124c213.json"
     },
     {
-      "rank": 310,
+      "rank": 311,
       "id": "94b10e86f71234f1",
       "name": "ano",
       "secondary": "",
@@ -587,7 +645,7 @@
       "detailPath": "entities/artists/94b10e86f71234f1.json"
     },
     {
-      "rank": 311,
+      "rank": 312,
       "id": "500ab42a44d85477",
       "name": "KEI",
       "secondary": "",
@@ -643,64 +701,6 @@
         }
       ],
       "detailPath": "entities/artists/500ab42a44d85477.json"
-    },
-    {
-      "rank": 312,
-      "id": "8d63fa73a6d8c468",
-      "name": "Girls Dead Monster",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 37,
-      "videoCount": 32,
-      "songCount": 10,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "qbebGazbZ94",
-          "videoTitle": "【🎤歌枠🌸】高評価150達成でLive2Dアプデお披露目がしたい.ᐟ【karaoke￤#μyustream 】",
-          "channelName": "Myu Ch. 花宮ミュウ",
-          "publishedAt": "2026-10-09T06:17:11.353Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/qbebGazbZ94/hqdefault.jpg",
-          "sourcePath": "sources/qb/qbebGazbZ94.json",
-          "time": "0:20:06",
-          "seconds": 1206,
-          "songTitle": "Crow song",
-          "artist": "Girls Dead Monster"
-        },
-        {
-          "videoId": "5Q7vi_bb8tc",
-          "videoTitle": "【#歌枠￤#KARAOKE 】一曲入魂。【#新人Vtuber #vsinger #夜は紺色】",
-          "channelName": "夜紺 火花 / Yakon Hibana",
-          "publishedAt": "2026-10-07T15:06:49.511Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5Q7vi_bb8tc/hqdefault.jpg",
-          "sourcePath": "sources/5Q/5Q7vi_bb8tc.json",
-          "time": "3:21:31",
-          "seconds": 12091,
-          "songTitle": "Crow Song",
-          "artist": "Girls Dead Monster"
-        },
-        {
-          "videoId": "PR4Ema_BR00",
-          "videoTitle": "【#歌枠】アニソン老人会〜🐿私を見つけてください🍁Singing│KARAOKE│弾き語り【#むんもっしゅ】",
-          "channelName": "むんもっしゅ",
-          "publishedAt": "2026-10-06T10:55:29.407Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/PR4Ema_BR00/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsdhhIeOKMzGmUSrZkCiux8-81qw",
-          "sourcePath": "sources/PR/PR4Ema_BR00.json",
-          "time": "1:32:07",
-          "seconds": 5527,
-          "songTitle": "一番の宝物",
-          "artist": "Girls Dead Monster"
-        }
-      ],
-      "detailPath": "entities/artists/8d63fa73a6d8c468.json"
     },
     {
       "rank": 313,

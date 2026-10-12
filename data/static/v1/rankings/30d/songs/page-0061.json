@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "songs",
   "page": 61,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27671,
+  "totalCount": 27687,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2292,6 +2292,64 @@
     },
     {
       "rank": 3041,
+      "id": "e1ff03a35a0eec50",
+      "name": "案山子",
+      "secondary": "さだまさし",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 4,
+      "videoCount": 4,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "4c4lvP_kfXQ",
+          "videoTitle": "IKE弾き語りライブ♪(2026.10.04)",
+          "channelName": "Healing Singer IKE",
+          "publishedAt": "2026-10-04T14:59:46.358Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4c4lvP_kfXQ/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgRSg3MA8=&rs=AOn4CLBloq2DOJmXxMGnBwFdoKTNlVCwTw",
+          "sourcePath": "sources/4c/4c4lvP_kfXQ.json",
+          "time": "0:41:52",
+          "seconds": 2512,
+          "songTitle": "案山子",
+          "artist": "さだまさし"
+        },
+        {
+          "videoId": "ScnYtwaZsvs",
+          "videoTitle": "【 #歌枠 ⋮ 元メジャー歌手Vtuber 】Japanese Songs! 初見さん10人耐久！#初見さん大歓迎 ( English / 繁體中文 / Español / 한국어 Lyrics )",
+          "channelName": "Aromaの音楽",
+          "publishedAt": "2026-09-26T20:02:34.908Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ScnYtwaZsvs/hqdefault.jpg",
+          "sourcePath": "sources/Sc/ScnYtwaZsvs.json",
+          "time": "4:59:00",
+          "seconds": 17940,
+          "songTitle": "案山子",
+          "artist": "さだまさし"
+        },
+        {
+          "videoId": "SI5RmaRnr5U",
+          "videoTitle": "7:45〜リクエスト即興弾き語り配信 #shorts #縦型配信",
+          "channelName": "宮崎奈穂子*745チャンネル*",
+          "publishedAt": "2026-09-21T13:45:09.761Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SI5RmaRnr5U/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBMFWfsM17DJh8lqIICcuFV0kILLg",
+          "sourcePath": "sources/SI/SI5RmaRnr5U.json",
+          "time": "0:12:58",
+          "seconds": 778,
+          "songTitle": "案山子",
+          "artist": "さだまさし"
+        }
+      ],
+      "detailPath": "entities/songs/e1ff03a35a0eec50.json"
+    },
+    {
+      "rank": 3042,
       "id": "4ba5b369384cfa46",
       "name": "一千万年銀河",
       "secondary": "ひろえ純",
@@ -2348,7 +2406,7 @@
       "detailPath": "entities/songs/4ba5b369384cfa46.json"
     },
     {
-      "rank": 3042,
+      "rank": 3043,
       "id": "3ac550772e983445",
       "name": "一番の宝物 ～Yui final ver.～",
       "secondary": "Girls Dead Monster STARRING LiSA",
@@ -2405,7 +2463,7 @@
       "detailPath": "entities/songs/3ac550772e983445.json"
     },
     {
-      "rank": 3043,
+      "rank": 3044,
       "id": "1e493c6a828b685d",
       "name": "一輪花",
       "secondary": "tuki.",
@@ -2462,7 +2520,7 @@
       "detailPath": "entities/songs/1e493c6a828b685d.json"
     },
     {
-      "rank": 3044,
+      "rank": 3045,
       "id": "a4eea63e8f4c53d5",
       "name": "右肩の蝶",
       "secondary": "",
@@ -2519,7 +2577,7 @@
       "detailPath": "entities/songs/a4eea63e8f4c53d5.json"
     },
     {
-      "rank": 3045,
+      "rank": 3046,
       "id": "cdfea5e34003d349",
       "name": "右肩の蝶",
       "secondary": "のりぴー feat. 鏡音レン",
@@ -2576,7 +2634,7 @@
       "detailPath": "entities/songs/cdfea5e34003d349.json"
     },
     {
-      "rank": 3046,
+      "rank": 3047,
       "id": "94dd6ee33ee80072",
       "name": "雨とペトラ",
       "secondary": "バルーンfeat. v flower",
@@ -2633,7 +2691,7 @@
       "detailPath": "entities/songs/94dd6ee33ee80072.json"
     },
     {
-      "rank": 3047,
+      "rank": 3048,
       "id": "42c6079a47abbc82",
       "name": "嘘",
       "secondary": "鋼の錬金術師 FULLMETAL ALCHEMIST",
@@ -2690,7 +2748,7 @@
       "detailPath": "entities/songs/42c6079a47abbc82.json"
     },
     {
-      "rank": 3048,
+      "rank": 3049,
       "id": "3c368a2b07ce2c46",
       "name": "運営:初見えいび",
       "secondary": "",
@@ -2747,7 +2805,7 @@
       "detailPath": "entities/songs/3c368a2b07ce2c46.json"
     },
     {
-      "rank": 3049,
+      "rank": 3050,
       "id": "35c53fe2bef5b94a",
       "name": "雲雀",
       "secondary": "ASCA",
@@ -2802,63 +2860,6 @@
         }
       ],
       "detailPath": "entities/songs/35c53fe2bef5b94a.json"
-    },
-    {
-      "rank": 3050,
-      "id": "9524b8708799ef65",
-      "name": "永遠の畔でお茶会を",
-      "secondary": "ヴァンパイアップル",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 4,
-      "videoCount": 4,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "AKntuFaMJBU",
-          "videoTitle": "10月最初の金曜歌枠🍁 お昼から歌います〜🎤 #shorts #歌枠",
-          "channelName": "ヴァンパイアップル",
-          "publishedAt": "2026-10-02T06:15:52.307Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AKntuFaMJBU/hqdefault.jpg",
-          "sourcePath": "sources/AK/AKntuFaMJBU.json",
-          "time": "1:21:36",
-          "seconds": 4896,
-          "songTitle": "永遠の畔でお茶会を",
-          "artist": "ヴァンパイアップル"
-        },
-        {
-          "videoId": "T-2PTLYrWtk",
-          "videoTitle": "9月のラスト金曜日歌枠！🎤 #shorts #歌枠",
-          "channelName": "ヴァンパイアップル",
-          "publishedAt": "2026-09-25T12:51:35.306Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/T-2PTLYrWtk/hqdefault.jpg",
-          "sourcePath": "sources/T-/T-2PTLYrWtk.json",
-          "time": "1:23:24",
-          "seconds": 5004,
-          "songTitle": "永遠の畔でお茶会を",
-          "artist": "ヴァンパイアップル"
-        },
-        {
-          "videoId": "UfHT2WnHlUs",
-          "videoTitle": "9月も終盤！お昼の歌枠🍎 #shorts #歌枠",
-          "channelName": "ヴァンパイアップル",
-          "publishedAt": "2026-09-25T06:21:45.724Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UfHT2WnHlUs/hqdefault.jpg",
-          "sourcePath": "sources/Uf/UfHT2WnHlUs.json",
-          "time": "1:55:24",
-          "seconds": 6924,
-          "songTitle": "永遠の畔でお茶会を",
-          "artist": "ヴァンパイアップル"
-        }
-      ],
-      "detailPath": "entities/songs/9524b8708799ef65.json"
     }
   ]
 }

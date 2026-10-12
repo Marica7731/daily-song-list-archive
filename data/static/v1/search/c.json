@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "items": [
     {
       "id": "ce40ae9ff803c85c",
@@ -132,8 +132,8 @@
       "type": "songs",
       "name": "Stellar Stellar",
       "secondary": "星街すいせい",
-      "occurrenceCount": 134,
-      "videoCount": 134,
+      "occurrenceCount": 135,
+      "videoCount": 135,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -155,8 +155,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 45,
-          "videoCount": 45
+          "occurrenceCount": 46,
+          "videoCount": 46
         }
       },
       "text": "stellarstellar星街すいせい"
@@ -619,8 +619,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 4,
-          "videoCount": 4
+          "occurrenceCount": 3,
+          "videoCount": 3
         },
         "30d": {
           "occurrenceCount": 84,
@@ -2357,8 +2357,8 @@
       "type": "songs",
       "name": "アルジャーノン",
       "secondary": "ヨルシカ",
-      "occurrenceCount": 175,
-      "videoCount": 171,
+      "occurrenceCount": 176,
+      "videoCount": 172,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -2384,8 +2384,8 @@
           "videoCount": 5
         },
         "30d": {
-          "occurrenceCount": 75,
-          "videoCount": 74
+          "occurrenceCount": 76,
+          "videoCount": 75
         }
       },
       "text": "アルジャーノンヨルシカ"
@@ -4912,8 +4912,8 @@
       "type": "songs",
       "name": "盗作",
       "secondary": "ヨルシカ",
-      "occurrenceCount": 34,
-      "videoCount": 34,
+      "occurrenceCount": 35,
+      "videoCount": 35,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -4927,8 +4927,8 @@
       "detailPath": "entities/songs/cbcb14182d685b34.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 9,
-          "videoCount": 9
+          "occurrenceCount": 10,
+          "videoCount": 10
         }
       },
       "text": "盗作ヨルシカ"
@@ -9813,8 +9813,8 @@
       "type": "songs",
       "name": "上を向いて歩こう",
       "secondary": "坂本九",
-      "occurrenceCount": 28,
-      "videoCount": 28,
+      "occurrenceCount": 29,
+      "videoCount": 29,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -9828,8 +9828,8 @@
       "detailPath": "entities/songs/c6ea7126a0383588.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 9,
-          "videoCount": 9
+          "occurrenceCount": 10,
+          "videoCount": 10
         }
       },
       "text": "上を向いて歩こう坂本九"
@@ -22050,13 +22050,14 @@
       "type": "songs",
       "name": "遠くで汽笛を聞きながら",
       "secondary": "アリス",
-      "occurrenceCount": 2,
-      "videoCount": 2,
+      "occurrenceCount": 3,
+      "videoCount": 3,
       "keywords": [
         "month",
         "mygit_today_snapshot",
         "mygit今日快照",
         "today",
+        "弾き語り",
         "歌枠"
       ],
       "collected": false,
@@ -22064,8 +22065,8 @@
       "detailPath": "entities/songs/ccb260c67652bf6f.json",
       "rangeMetrics": {
         "30d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
+          "occurrenceCount": 2,
+          "videoCount": 2
         }
       },
       "text": "遠くで汽笛を聞きながらアリス"
@@ -74125,6 +74126,81 @@
       "text": "明日晴れるかな桑田佳祐初出し"
     },
     {
+      "id": "cedacff1c17ce13c",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "Clock",
+      "secondary": "フジファブリック",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/cedacff1c17ce13c.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "clockフジファブリック"
+    },
+    {
+      "id": "cfc2a5c6aee76d8b",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "個人勢Vtuberだってもっと知られたいわい！",
+      "secondary": "イザナギ・エルヴァ",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/cfc2a5c6aee76d8b.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "個人勢vtuberだってもっと知られたいわいイザナギエルヴァ"
+    },
+    {
+      "id": "ca51ddfdbcba4a5a",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "songs",
+      "name": "Follow You（オリジナル）",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/songs/ca51ddfdbcba4a5a.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "followyouオリジナル"
+    },
+    {
       "id": "c3a75d21c69cf9dc",
       "channelId": "",
       "channelHandle": "",
@@ -78492,8 +78568,8 @@
           "videoCount": 4
         },
         "7d": {
-          "occurrenceCount": 29,
-          "videoCount": 21
+          "occurrenceCount": 28,
+          "videoCount": 20
         },
         "30d": {
           "occurrenceCount": 359,
@@ -78712,8 +78788,8 @@
       "type": "artists",
       "name": "スピッツ",
       "secondary": "",
-      "occurrenceCount": 810,
-      "videoCount": 599,
+      "occurrenceCount": 811,
+      "videoCount": 600,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78739,8 +78815,8 @@
           "videoCount": 19
         },
         "30d": {
-          "occurrenceCount": 307,
-          "videoCount": 248
+          "occurrenceCount": 308,
+          "videoCount": 249
         }
       },
       "text": "スピッツ"
@@ -78827,8 +78903,8 @@
       "type": "artists",
       "name": "Aimer",
       "secondary": "",
-      "occurrenceCount": 1379,
-      "videoCount": 1057,
+      "occurrenceCount": 1380,
+      "videoCount": 1058,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -78854,8 +78930,8 @@
           "videoCount": 38
         },
         "30d": {
-          "occurrenceCount": 544,
-          "videoCount": 427
+          "occurrenceCount": 545,
+          "videoCount": 428
         }
       },
       "text": "aimer"
@@ -79136,8 +79212,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 12,
-          "videoCount": 12
+          "occurrenceCount": 11,
+          "videoCount": 11
         },
         "30d": {
           "occurrenceCount": 214,
@@ -106231,8 +106307,8 @@
       "detailPath": "entities/vtubers/ca2c5b2337a2bbc6.json",
       "rangeMetrics": {
         "7d": {
-          "occurrenceCount": 60,
-          "videoCount": 3
+          "occurrenceCount": 40,
+          "videoCount": 2
         },
         "30d": {
           "occurrenceCount": 60,

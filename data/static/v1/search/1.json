@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "items": [
     {
       "id": "1f545e0f54808dff",
@@ -54,8 +54,8 @@
           "videoCount": 1
         },
         "7d": {
-          "occurrenceCount": 5,
-          "videoCount": 5
+          "occurrenceCount": 4,
+          "videoCount": 4
         },
         "30d": {
           "occurrenceCount": 56,
@@ -711,8 +711,8 @@
       "type": "songs",
       "name": "新宝島",
       "secondary": "サカナクション",
-      "occurrenceCount": 140,
-      "videoCount": 140,
+      "occurrenceCount": 141,
+      "videoCount": 141,
       "keywords": [
         "month",
         "mygit_today_snapshot",
@@ -738,8 +738,8 @@
           "videoCount": 6
         },
         "30d": {
-          "occurrenceCount": 57,
-          "videoCount": 57
+          "occurrenceCount": 58,
+          "videoCount": 58
         }
       },
       "text": "新宝島サカナクション"
@@ -812,10 +812,6 @@
       "collectionId": "",
       "detailPath": "entities/songs/12711e3c52836ae8.json",
       "rangeMetrics": {
-        "7d": {
-          "occurrenceCount": 1,
-          "videoCount": 1
-        },
         "30d": {
           "occurrenceCount": 3,
           "videoCount": 3
@@ -105159,6 +105155,31 @@
         }
       },
       "text": "たまゆらhitotose"
+    },
+    {
+      "id": "10c4871a21e1237e",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "type": "artists",
+      "name": "麻枝准×やなぎなぎ（2回目）",
+      "secondary": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "detailPath": "entities/artists/10c4871a21e1237e.json",
+      "rangeMetrics": {
+        "30d": {
+          "occurrenceCount": 1,
+          "videoCount": 1
+        }
+      },
+      "text": "麻枝准やなぎなぎ2回目"
     },
     {
       "id": "1f1852fcd1cb87b7",

@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "30d",
   "type": "songs",
   "page": 8,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27671,
+  "totalCount": 27687,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 351,
+      "id": "c669902ef8f30048",
+      "name": "Get Wild",
+      "secondary": "TM NETWORK",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 28,
+      "videoCount": 27,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "B6eqr6U7gbQ",
+          "videoTitle": "🏮 実写歌枠 ｜毎週金曜22時🎶アツいアニソンを届ける ∞ 響架",
+          "channelName": "Kyoka Ch. -響架-",
+          "publishedAt": "2026-10-09T15:32:44.712Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/B6eqr6U7gbQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC55_n8AUwEjBKLnthTpUDONfCdvg",
+          "sourcePath": "sources/B6/B6eqr6U7gbQ.json",
+          "time": "0:05:59",
+          "seconds": 359,
+          "songTitle": "Get Wild",
+          "artist": "TM NETWORK"
+        },
+        {
+          "videoId": "J7vvHw6an4M",
+          "videoTitle": "【#歌枠】あなたのリクエスト歌いマス🍣✨ 名曲アニソン多め｜初見さん大歓迎！【Vsushinger / #かたことちゃん】",
+          "channelName": "片 琴姫 / Kata Kotohime",
+          "publishedAt": "2026-10-09T15:24:54.011Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/J7vvHw6an4M/hqdefault.jpg",
+          "sourcePath": "sources/J7/J7vvHw6an4M.json",
+          "time": "3:11:36",
+          "seconds": 11496,
+          "songTitle": "Get Wild",
+          "artist": "TM_NETWORK"
+        },
+        {
+          "videoId": "ktBtS2-VQps",
+          "videoTitle": "10/9 10:00~13:00【 歌枠 】ドラゴンボールメインで歌い魔ス！！！【 レヴィ・アタン 】 #shorts #vtuber",
+          "channelName": "レヴィ・アタン",
+          "publishedAt": "2026-10-09T04:34:41.257Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ktBtS2-VQps/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NZ0zf5_lwAzwWa7ZvKirDxnzjQ",
+          "sourcePath": "sources/kt/ktBtS2-VQps.json",
+          "time": "1:29:02",
+          "seconds": 5342,
+          "songTitle": "Get Wild",
+          "artist": "TM NETWORK"
+        }
+      ],
+      "detailPath": "entities/songs/c669902ef8f30048.json"
+    },
+    {
+      "rank": 352,
       "id": "487bd88ee5eb08e4",
       "name": "ようこそジャパリパークへ",
       "secondary": "どうぶつビスケッツ×PPP",
@@ -67,7 +125,7 @@
       "detailPath": "entities/songs/487bd88ee5eb08e4.json"
     },
     {
-      "rank": 352,
+      "rank": 353,
       "id": "d7c684186d1f981d",
       "name": "千鳥",
       "secondary": "ヨルシカ",
@@ -124,7 +182,7 @@
       "detailPath": "entities/songs/d7c684186d1f981d.json"
     },
     {
-      "rank": 353,
+      "rank": 354,
       "id": "140c59b48f6a2012",
       "name": "〜 crossing field",
       "secondary": "LiSA",
@@ -181,7 +239,7 @@
       "detailPath": "entities/songs/140c59b48f6a2012.json"
     },
     {
-      "rank": 354,
+      "rank": 355,
       "id": "f002d23286211e5d",
       "name": "〜 ロミオとシンデレラ",
       "secondary": "doriko feat. 初音ミク",
@@ -239,7 +297,7 @@
       "detailPath": "entities/songs/f002d23286211e5d.json"
     },
     {
-      "rank": 355,
+      "rank": 356,
       "id": "8ee7fa79a1e70249",
       "name": "Catch the Moment",
       "secondary": "LiSA",
@@ -296,7 +354,7 @@
       "detailPath": "entities/songs/8ee7fa79a1e70249.json"
     },
     {
-      "rank": 356,
+      "rank": 357,
       "id": "0af349098d840452",
       "name": "Ghost of a smile",
       "secondary": "EGOIST",
@@ -353,7 +411,7 @@
       "detailPath": "entities/songs/0af349098d840452.json"
     },
     {
-      "rank": 357,
+      "rank": 358,
       "id": "c346986922edce0b",
       "name": "KissHug",
       "secondary": "aiko",
@@ -410,7 +468,7 @@
       "detailPath": "entities/songs/c346986922edce0b.json"
     },
     {
-      "rank": 358,
+      "rank": 359,
       "id": "4fdfabc5ac924e3d",
       "name": "One more time, One more chance",
       "secondary": "山崎まさよし",
@@ -468,7 +526,7 @@
       "detailPath": "entities/songs/4fdfabc5ac924e3d.json"
     },
     {
-      "rank": 359,
+      "rank": 360,
       "id": "00367ab042894639",
       "name": "READY STEADY GO",
       "secondary": "L'Arc-en-Ciel",
@@ -525,7 +583,7 @@
       "detailPath": "entities/songs/00367ab042894639.json"
     },
     {
-      "rank": 360,
+      "rank": 361,
       "id": "aa325f639634d279",
       "name": "Wherever you are",
       "secondary": "ONE OK ROCK",
@@ -580,64 +638,6 @@
         }
       ],
       "detailPath": "entities/songs/aa325f639634d279.json"
-    },
-    {
-      "rank": 361,
-      "id": "0969ec93c468fcf2",
-      "name": "からくりピエロ",
-      "secondary": "40mP feat.初音ミク",
-      "channelId": "UCZwsOhl_T0k2Sgf7S3JReNQ",
-      "channelHandle": "@NekotoKanami",
-      "channelUrl": "",
-      "occurrenceCount": 27,
-      "videoCount": 27,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oolrdDiQK5s",
-          "videoTitle": "【#歌枠】初見さん大歓迎◎おはよう！土曜日の朝に心地よい歌声聞いてく？【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-10-10T01:51:53.498Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oolrdDiQK5s/hqdefault.jpg",
-          "sourcePath": "sources/oo/oolrdDiQK5s.json",
-          "time": "0:22:48",
-          "seconds": 1368,
-          "songTitle": "からくりピエロ",
-          "artist": "40mP feat. 初音ミク"
-        },
-        {
-          "videoId": "ND-WOAa3e88",
-          "videoTitle": "【歌枠 / karaoke 】初見様、ROM勢、作業用BGM◎ 自己満足したいので歌います！ 【#武田玄愛 / ゆにふぃ！】#shortsfeed #shorts",
-          "channelName": "武田玄愛 / Takeda kuroa",
-          "publishedAt": "2026-10-09T14:51:25.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ND-WOAa3e88/hqdefault.jpg",
-          "sourcePath": "sources/ND/ND-WOAa3e88.json",
-          "time": "1:23:08",
-          "seconds": 4988,
-          "songTitle": "からくりピエロ",
-          "artist": "40mP feat. 初音ミク"
-        },
-        {
-          "videoId": "WWI9Bdgn-24",
-          "videoTitle": "【歌枠｜KARAOKE】久しぶりの縦型歌枠！！のんびり歌うよ～！【見習い天使系VTuber｜#星彩らいむ☆ 】#shorts",
-          "channelName": "星彩らいむ☆／SeisaiRaimu",
-          "publishedAt": "2026-10-07T16:24:25.854Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/WWI9Bdgn-24/hqdefault.jpg",
-          "sourcePath": "sources/WW/WWI9Bdgn-24.json",
-          "time": "1:07:09",
-          "seconds": 4029,
-          "songTitle": "からくりピエロ",
-          "artist": "40mP feat. 初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/0969ec93c468fcf2.json"
     },
     {
       "rank": 362,

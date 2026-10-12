@@ -1,16 +1,106 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "all",
   "type": "songs",
   "page": 196,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52857,
+  "totalCount": 52870,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9751,
+      "id": "5af6ae969a51648c",
+      "name": "~ イージーゲーム feat. 和ぬか",
+      "secondary": "natsumi",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "a0dlQrRJSbA",
+          "videoTitle": "【 #歌 / Singing Stream 】ラジオ代わりの夜歌枠📻🎶久々に歌おうかなって😈💝【 #音門るき / VEE 】",
+          "channelName": "Ruki Otokado 音門るき [VEE]",
+          "publishedAt": "2026-09-25T14:48:54.463Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/a0dlQrRJSbA/hqdefault.jpg",
+          "sourcePath": "sources/a0/a0dlQrRJSbA.json",
+          "time": "0:55:48",
+          "seconds": 3348,
+          "songTitle": "イージーゲーム(feat. 和ぬか)",
+          "artist": "natsumi"
+        },
+        {
+          "videoId": "jWvRm_v0JwE",
+          "videoTitle": "【歌枠】のりプロのぴろぱるさんと歌枠ッ！？Singing Stream【にじさんじ/町田ちま】",
+          "channelName": "町田ちま【にじさんじ】",
+          "publishedAt": "2026-08-28T13:50:13.758Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jWvRm_v0JwE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAalZmbkfGQlVeF4cBFLP9kjk6tfQ",
+          "sourcePath": "sources/jW/jWvRm_v0JwE.json",
+          "time": "1:03:54",
+          "seconds": 3834,
+          "songTitle": "~ イージーゲーム feat. 和ぬか",
+          "artist": "natsumi"
+        }
+      ],
+      "detailPath": "entities/songs/5af6ae969a51648c.json"
+    },
+    {
+      "rank": 9752,
+      "id": "2d40cc52b519586c",
+      "name": "～　うら飯紺汰",
+      "secondary": "きつね",
+      "channelId": "UC8VlcljjGFb4-Ny2Heb0-ew",
+      "channelHandle": "@urameshi_conta",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Bg69h3IwtGQ",
+          "videoTitle": "【 #アニマルV歌枠リレー 】狐のキョンシー！癒しの歌声をお届けします🎤🩵【 #うら飯紺汰 #vtuber #vsinger 】",
+          "channelName": "うら飯 紺汰 - Conta Urameshi -",
+          "publishedAt": "2026-10-04T13:22:07.222Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Bg69h3IwtGQ/hqdefault.jpg",
+          "sourcePath": "sources/Bg/Bg69h3IwtGQ.json",
+          "time": "0:21:30",
+          "seconds": 1290,
+          "songTitle": "～　うら飯紺汰",
+          "artist": "きつね"
+        },
+        {
+          "videoId": "f44mhDzxuTY",
+          "videoTitle": "【 #アニマルV歌枠リレー 】開会式🎤可愛いアニマルVさん達をご紹介します🐹✨【じゃんがりあん】",
+          "channelName": "じゃんがりあん 🐹🍶 Jyangarian Ch.",
+          "publishedAt": "2026-10-04T09:00:36.798Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/f44mhDzxuTY/hqdefault.jpg",
+          "sourcePath": "sources/f4/f44mhDzxuTY.json",
+          "time": "0:21:30",
+          "seconds": 1290,
+          "songTitle": "～　うら飯紺汰",
+          "artist": "きつね"
+        }
+      ],
+      "detailPath": "entities/songs/2d40cc52b519586c.json"
+    },
+    {
+      "rank": 9753,
       "id": "ed091fe612995c3b",
       "name": "～　じゃんがりあん",
       "secondary": "ハムスター",
@@ -55,7 +145,7 @@
       "detailPath": "entities/songs/ed091fe612995c3b.json"
     },
     {
-      "rank": 9752,
+      "rank": 9754,
       "id": "c761c55fff55dbe3",
       "name": "～　すとらてぃあ",
       "secondary": "蝶鹿",
@@ -100,7 +190,7 @@
       "detailPath": "entities/songs/c761c55fff55dbe3.json"
     },
     {
-      "rank": 9753,
+      "rank": 9755,
       "id": "04c2c62c52137b3e",
       "name": "～ セロリ",
       "secondary": "SMAP",
@@ -145,7 +235,7 @@
       "detailPath": "entities/songs/04c2c62c52137b3e.json"
     },
     {
-      "rank": 9754,
+      "rank": 9756,
       "id": "c05b1eb7d87f90d0",
       "name": "～　ブランク・ウリカ",
       "secondary": "にわとり",
@@ -190,7 +280,7 @@
       "detailPath": "entities/songs/c05b1eb7d87f90d0.json"
     },
     {
-      "rank": 9755,
+      "rank": 9757,
       "id": "a5203ba75fd2210b",
       "name": "～ まっがーれ↓スペクタクル",
       "secondary": "小野大輔",
@@ -232,7 +322,7 @@
       "detailPath": "entities/songs/a5203ba75fd2210b.json"
     },
     {
-      "rank": 9756,
+      "rank": 9758,
       "id": "b0bd1bb47c75ebbe",
       "name": "～ ミレナリオ",
       "secondary": "ELISA",
@@ -277,7 +367,7 @@
       "detailPath": "entities/songs/b0bd1bb47c75ebbe.json"
     },
     {
-      "rank": 9757,
+      "rank": 9759,
       "id": "45e82378598c4509",
       "name": "～　らーさま",
       "secondary": "",
@@ -319,7 +409,7 @@
       "detailPath": "entities/songs/45e82378598c4509.json"
     },
     {
-      "rank": 9758,
+      "rank": 9760,
       "id": "361231f6e2c50088",
       "name": "～ 黄昏の賢者",
       "secondary": "Sound Horizon",
@@ -364,7 +454,7 @@
       "detailPath": "entities/songs/361231f6e2c50088.json"
     },
     {
-      "rank": 9759,
+      "rank": 9761,
       "id": "f20c3a2449ac1b60",
       "name": "～ 仮面ライダーBLACK",
       "secondary": "倉田てつを",
@@ -406,7 +496,7 @@
       "detailPath": "entities/songs/f20c3a2449ac1b60.json"
     },
     {
-      "rank": 9760,
+      "rank": 9762,
       "id": "07bad03ba28f96b7",
       "name": "～　開会式",
       "secondary": "狐島琉汰枠",
@@ -448,7 +538,7 @@
       "detailPath": "entities/songs/07bad03ba28f96b7.json"
     },
     {
-      "rank": 9761,
+      "rank": 9763,
       "id": "80866e0e0c0a8b6f",
       "name": "～　鬼霧シアン",
       "secondary": "",
@@ -493,7 +583,7 @@
       "detailPath": "entities/songs/80866e0e0c0a8b6f.json"
     },
     {
-      "rank": 9762,
+      "rank": 9764,
       "id": "ab81e05597a8f7c6",
       "name": "～　琴月蕾愛",
       "secondary": "",
@@ -535,7 +625,7 @@
       "detailPath": "entities/songs/ab81e05597a8f7c6.json"
     },
     {
-      "rank": 9763,
+      "rank": 9765,
       "id": "59efb65b6933b901",
       "name": "～　座敷わらび",
       "secondary": "クアッカワラビー",
@@ -580,7 +670,7 @@
       "detailPath": "entities/songs/59efb65b6933b901.json"
     },
     {
-      "rank": 9764,
+      "rank": 9766,
       "id": "cdcafddac159465f",
       "name": "～　菜鳥ひなた",
       "secondary": "鹿",
@@ -625,7 +715,7 @@
       "detailPath": "entities/songs/cdcafddac159465f.json"
     },
     {
-      "rank": 9765,
+      "rank": 9767,
       "id": "5eb574abf9fdde47",
       "name": "~ 紫波レント",
       "secondary": "JOYSOUND for STREAMER",
@@ -670,7 +760,7 @@
       "detailPath": "entities/songs/5eb574abf9fdde47.json"
     },
     {
-      "rank": 9766,
+      "rank": 9768,
       "id": "9897cf7f6a6eea9f",
       "name": "～ 青春",
       "secondary": "THE HIGH-LOWS",
@@ -715,7 +805,7 @@
       "detailPath": "entities/songs/9897cf7f6a6eea9f.json"
     },
     {
-      "rank": 9767,
+      "rank": 9769,
       "id": "12441ade9df28638",
       "name": "～　蜂屋ひまわり",
       "secondary": "オカメインコ",
@@ -760,7 +850,7 @@
       "detailPath": "entities/songs/12441ade9df28638.json"
     },
     {
-      "rank": 9768,
+      "rank": 9770,
       "id": "44138a33d17420a6",
       "name": "～　魔ノむえる",
       "secondary": "ねこ",
@@ -805,7 +895,7 @@
       "detailPath": "entities/songs/44138a33d17420a6.json"
     },
     {
-      "rank": 9769,
+      "rank": 9771,
       "id": "42a433a7c887a72b",
       "name": "～　夢深める",
       "secondary": "ひつじ",
@@ -850,7 +940,7 @@
       "detailPath": "entities/songs/42a433a7c887a72b.json"
     },
     {
-      "rank": 9770,
+      "rank": 9772,
       "id": "9ef1c04807df5d67",
       "name": "～2026/10",
       "secondary": "5",
@@ -892,7 +982,7 @@
       "detailPath": "entities/songs/9ef1c04807df5d67.json"
     },
     {
-      "rank": 9771,
+      "rank": 9773,
       "id": "205b3c85a4dce8a3",
       "name": "~2026年6月13日",
       "secondary": "土",
@@ -934,7 +1024,7 @@
       "detailPath": "entities/songs/205b3c85a4dce8a3.json"
     },
     {
-      "rank": 9772,
+      "rank": 9774,
       "id": "d2244d8ace35f9b0",
       "name": "~2026年6月23日",
       "secondary": "火",
@@ -976,7 +1066,7 @@
       "detailPath": "entities/songs/d2244d8ace35f9b0.json"
     },
     {
-      "rank": 9773,
+      "rank": 9775,
       "id": "4e0f5e5c60873e97",
       "name": "~2026年7月21日",
       "secondary": "火",
@@ -1018,7 +1108,7 @@
       "detailPath": "entities/songs/4e0f5e5c60873e97.json"
     },
     {
-      "rank": 9774,
+      "rank": 9776,
       "id": "2b9d8e36afe9ee07",
       "name": "~2026年7月7日",
       "secondary": "火",
@@ -1060,7 +1150,7 @@
       "detailPath": "entities/songs/2b9d8e36afe9ee07.json"
     },
     {
-      "rank": 9775,
+      "rank": 9777,
       "id": "d54ba62c0b2367f0",
       "name": "～8",
       "secondary": "7",
@@ -1102,7 +1192,7 @@
       "detailPath": "entities/songs/d54ba62c0b2367f0.json"
     },
     {
-      "rank": 9776,
+      "rank": 9778,
       "id": "a4da6c15f08945c4",
       "name": "～9月6日",
       "secondary": "日",
@@ -1144,7 +1234,7 @@
       "detailPath": "entities/songs/a4da6c15f08945c4.json"
     },
     {
-      "rank": 9777,
+      "rank": 9779,
       "id": "9ab6c4e28aa10af5",
       "name": "～Beauty and the Beast",
       "secondary": "",
@@ -1189,7 +1279,7 @@
       "detailPath": "entities/songs/9ab6c4e28aa10af5.json"
     },
     {
-      "rank": 9778,
+      "rank": 9780,
       "id": "40fca193438e4405",
       "name": "～いい夢見ろよ！～",
       "secondary": "",
@@ -1234,7 +1324,7 @@
       "detailPath": "entities/songs/40fca193438e4405.json"
     },
     {
-      "rank": 9779,
+      "rank": 9781,
       "id": "5308a6210d886280",
       "name": "～が多めです！",
       "secondary": "",
@@ -1276,7 +1366,7 @@
       "detailPath": "entities/songs/5308a6210d886280.json"
     },
     {
-      "rank": 9780,
+      "rank": 9782,
       "id": "d0bd3b6652bec30c",
       "name": "～ダーリン・ブルー",
       "secondary": "luz",
@@ -1322,7 +1412,7 @@
       "detailPath": "entities/songs/d0bd3b6652bec30c.json"
     },
     {
-      "rank": 9781,
+      "rank": 9783,
       "id": "4cbb02843a361a72",
       "name": "～または",
       "secondary": "",
@@ -1364,7 +1454,7 @@
       "detailPath": "entities/songs/4cbb02843a361a72.json"
     },
     {
-      "rank": 9782,
+      "rank": 9784,
       "id": "4fa5a81bf39c8e66",
       "name": "～開店～",
       "secondary": "未記載",
@@ -1410,7 +1500,7 @@
       "detailPath": "entities/songs/4fa5a81bf39c8e66.json"
     },
     {
-      "rank": 9783,
+      "rank": 9785,
       "id": "bfd9a6a7f1e01087",
       "name": "～曇りのち晴れ",
       "secondary": "SIAM SHADE",
@@ -1455,7 +1545,7 @@
       "detailPath": "entities/songs/bfd9a6a7f1e01087.json"
     },
     {
-      "rank": 9784,
+      "rank": 9786,
       "id": "6dc14b637d92a3ae",
       "name": "～満ちてゆく",
       "secondary": "",
@@ -1500,7 +1590,7 @@
       "detailPath": "entities/songs/6dc14b637d92a3ae.json"
     },
     {
-      "rank": 9785,
+      "rank": 9787,
       "id": "b2d90a74574dc73c",
       "name": "⌇アンダー・ザ・シー⌇",
       "secondary": "CV.木村昴",
@@ -1546,7 +1636,7 @@
       "detailPath": "entities/songs/b2d90a74574dc73c.json"
     },
     {
-      "rank": 9786,
+      "rank": 9788,
       "id": "a0352db2112e27b0",
       "name": "⌇パート・オブ・ユア・ワールド⌇",
       "secondary": "CV.早見優",
@@ -1592,7 +1682,7 @@
       "detailPath": "entities/songs/a0352db2112e27b0.json"
     },
     {
-      "rank": 9787,
+      "rank": 9789,
       "id": "9d5a03dd44a6cce7",
       "name": "⌇みずちま海中診療所へようこそ⌇鮫升コモリ",
       "secondary": "未記載",
@@ -1638,7 +1728,7 @@
       "detailPath": "entities/songs/9d5a03dd44a6cce7.json"
     },
     {
-      "rank": 9788,
+      "rank": 9790,
       "id": "d52b9e006aa32d67",
       "name": "⌇初恋サイダー⌇Buono!",
       "secondary": "未記載",
@@ -1684,7 +1774,7 @@
       "detailPath": "entities/songs/d52b9e006aa32d67.json"
     },
     {
-      "rank": 9789,
+      "rank": 9791,
       "id": "892cbfb7a3ad1b05",
       "name": "⌇爆裂愛してる⌇M!LK",
       "secondary": "未記載",
@@ -1730,7 +1820,7 @@
       "detailPath": "entities/songs/892cbfb7a3ad1b05.json"
     },
     {
-      "rank": 9790,
+      "rank": 9792,
       "id": "d09bb6c0b768773d",
       "name": "⌇夢をかなえてドラえもん⌇mao",
       "secondary": "未記載",
@@ -1776,7 +1866,7 @@
       "detailPath": "entities/songs/d09bb6c0b768773d.json"
     },
     {
-      "rank": 9791,
+      "rank": 9793,
       "id": "fd51f42ecb350aa1",
       "name": "⌛ヒカリ",
       "secondary": "堀江由衣",
@@ -1824,7 +1914,7 @@
       "detailPath": "entities/songs/fd51f42ecb350aa1.json"
     },
     {
-      "rank": 9792,
+      "rank": 9794,
       "id": "dedda7510bf057b3",
       "name": "⌛まぼろし 🎤Can",
       "secondary": "goo",
@@ -1870,7 +1960,7 @@
       "detailPath": "entities/songs/dedda7510bf057b3.json"
     },
     {
-      "rank": 9793,
+      "rank": 9795,
       "id": "3623774a8eb65b56",
       "name": "┊愛唄～since 2007～",
       "secondary": "whiteeeen",
@@ -1915,7 +2005,7 @@
       "detailPath": "entities/songs/3623774a8eb65b56.json"
     },
     {
-      "rank": 9794,
+      "rank": 9796,
       "id": "490e8ff68732e066",
       "name": "△",
       "secondary": "パスピエ",
@@ -1963,7 +2053,7 @@
       "detailPath": "entities/songs/490e8ff68732e066.json"
     },
     {
-      "rank": 9795,
+      "rank": 9797,
       "id": "473073f2bccfefb4",
       "name": "⭐クローバー・クラブ",
       "secondary": "ゆうゆ",
@@ -2008,7 +2098,7 @@
       "detailPath": "entities/songs/473073f2bccfefb4.json"
     },
     {
-      "rank": 9796,
+      "rank": 9798,
       "id": "382c87768ada08c0",
       "name": "⭐メグメグ☆ファイアーエンドレスナイト",
       "secondary": "SAM(samfree)",
@@ -2054,7 +2144,7 @@
       "detailPath": "entities/songs/382c87768ada08c0.json"
     },
     {
-      "rank": 9797,
+      "rank": 9799,
       "id": "0772ee87b5ecc259",
       "name": "⭐残響散歌",
       "secondary": "エメ",
@@ -2102,7 +2192,7 @@
       "detailPath": "entities/songs/0772ee87b5ecc259.json"
     },
     {
-      "rank": 9798,
+      "rank": 9800,
       "id": "c4c2ba7cf51436f5",
       "name": "⭐吹雪",
       "secondary": "吹雪(上坂すみれ)",
@@ -2145,101 +2235,6 @@
         }
       ],
       "detailPath": "entities/songs/c4c2ba7cf51436f5.json"
-    },
-    {
-      "rank": 9799,
-      "id": "2eeff9c42bc62a50",
-      "name": "⭐星降る海",
-      "secondary": "Aqu3ra，月見ヤチヨ(cv.早見沙織)-超かぐや姫！",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "-6GPMGxGhkI",
-          "videoTitle": "【 #KARAOKE / #歌枠 】おはよ～！朝ですね～！！【 #vtuber / #Vsinger 】",
-          "channelName": "戌峯 ひぐれ",
-          "publishedAt": "2026-09-12T07:17:53.975Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-6GPMGxGhkI/hqdefault.jpg",
-          "sourcePath": "sources/-6/-6GPMGxGhkI.json",
-          "time": "0:27:35",
-          "seconds": 1655,
-          "songTitle": "⭐星降る海",
-          "artist": "Aqu3ra，月見ヤチヨ(cv.早見沙織)-超かぐや姫！"
-        },
-        {
-          "videoId": "W8YOFb02r4M",
-          "videoTitle": "【 #KARAOKE / #歌枠 】久しぶりのおかえり！って言う 歌枠 だ～！！【 #vtuber / #Vsinger 】",
-          "channelName": "戌峯 ひぐれ",
-          "publishedAt": "2026-07-16T12:50:39.551Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/W8YOFb02r4M/hqdefault.jpg",
-          "sourcePath": "sources/W8/W8YOFb02r4M.json",
-          "time": "0:11:47",
-          "seconds": 707,
-          "songTitle": "⭐星降る海",
-          "artist": "Aqu3ra，月見ヤチヨ(cv.早見沙織)-超かぐや姫！"
-        }
-      ],
-      "detailPath": "entities/songs/2eeff9c42bc62a50.json"
-    },
-    {
-      "rank": 9800,
-      "id": "16647b2d487bb06e",
-      "name": "〇〇〇〇〇",
-      "secondary": "やいり",
-      "channelId": "UC9zLKU6WiRdcKtAh-6o_zmA",
-      "channelHandle": "@ibaramuan",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "oa1OrQDW82g",
-          "videoTitle": "〚 #歌枠 〛朝活歌枠☀ 憂鬱な月曜日に癒しの歌をお届けっ #shorts 〚 #新人vtuber / 白波ななみ 〛",
-          "channelName": "白波ななみ",
-          "publishedAt": "2026-08-24T15:42:12.953Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/oa1OrQDW82g/hqdefault.jpg",
-          "sourcePath": "sources/oa/oa1OrQDW82g.json",
-          "time": "1:02:34",
-          "seconds": 3754,
-          "songTitle": "〇〇〇〇〇",
-          "artist": "やいり"
-        },
-        {
-          "videoId": "5MfDQs8OqkQ",
-          "videoTitle": "【 #歌枠 】明日はライブ！楽しんでこ✊初見さん歓迎【 茨むあん︙Vsinger 】#vtuber #karaoke",
-          "channelName": "Muan ch.茨むあん",
-          "publishedAt": "2026-07-10T19:11:44.454Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5MfDQs8OqkQ/hqdefault.jpg",
-          "sourcePath": "sources/5M/5MfDQs8OqkQ.json",
-          "time": "2:11:08",
-          "seconds": 7868,
-          "songTitle": "〇〇〇〇〇",
-          "artist": "やいり"
-        }
-      ],
-      "detailPath": "entities/songs/16647b2d487bb06e.json"
     }
   ]
 }

@@ -1,148 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T14:54:10.357Z",
+  "generatedAt": "2026-10-12T15:00:51.033Z",
   "range": "7d",
   "type": "songs",
   "page": 64,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3562,
+  "totalCount": 3558,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3151,
-      "id": "f93d8466c46556bf",
-      "name": "奏",
-      "secondary": "スキマスイッチ（ピアノ伴奏Ver.）",
-      "channelId": "UCXJU6BfIN_y4XzESpNLADOg",
-      "channelHandle": "@hakanaumiu",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "S6eq8uq2jrM",
-          "videoTitle": "【 歌枠┊︎初見さんおいで】癒しの歌をお届けします🌙ピアノ伴奏縛り【 #儚羽みう┊︎新人vtubar 】",
-          "channelName": "Miu Ch.儚羽みう",
-          "publishedAt": "2026-10-09T14:12:20.598Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/S6eq8uq2jrM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-zNNCsQVKUak5qctl9aidPXZreA",
-          "sourcePath": "sources/S6/S6eq8uq2jrM.json",
-          "time": "0:12:51",
-          "seconds": 771,
-          "songTitle": "奏",
-          "artist": "スキマスイッチ（ピアノ伴奏Ver.）"
-        }
-      ],
-      "detailPath": "entities/songs/f93d8466c46556bf.json"
-    },
-    {
-      "rank": 3152,
-      "id": "ca414fa3a6f2a765",
-      "name": "想い出がいっぱい",
-      "secondary": "H2O",
-      "channelId": "UCw8U4zbD9Z9uipQKAifnscw",
-      "channelHandle": "@july00719",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "jV1uKfHJ0G4",
-          "videoTitle": "【#歌枠】陽だまりボイスな天使の、心が浄化する美曲歌枠👼📯 #julyの方舟大航海 #vsinger",
-          "channelName": "July -ジュライ- 🌼 Vsinger",
-          "publishedAt": "2026-10-08T16:19:38.321Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jV1uKfHJ0G4/hqdefault.jpg",
-          "sourcePath": "sources/jV/jV1uKfHJ0G4.json",
-          "time": "1:08:19",
-          "seconds": 4099,
-          "songTitle": "想い出がいっぱい",
-          "artist": "H2O"
-        }
-      ],
-      "detailPath": "entities/songs/ca414fa3a6f2a765.json"
-    },
-    {
-      "rank": 3153,
-      "id": "2ebf399f6eefddcf",
-      "name": "相対性インソムニア",
-      "secondary": "神凪アンナ",
-      "channelId": "UCvuAdWg_I8U9kwVGZ4XLvog",
-      "channelHandle": "@KannagiAnna",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "kNxhOLH5zZ8",
-          "videoTitle": "【定期歌枠 第52回 / Karaoke】初見さん大歓迎！！リクエストだけ歌う歌枠！【#神凪アンナ/Re:AcT】",
-          "channelName": "神凪アンナ - Kannagi Anna -",
-          "publishedAt": "2026-10-10T04:59:07.725Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kNxhOLH5zZ8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9UcaP5Ioy_Gr-qnkna_oLZdEozQ",
-          "sourcePath": "sources/kN/kNxhOLH5zZ8.json",
-          "time": "2:47:20",
-          "seconds": 10040,
-          "songTitle": "相対性インソムニア",
-          "artist": "神凪アンナ"
-        }
-      ],
-      "detailPath": "entities/songs/2ebf399f6eefddcf.json"
-    },
-    {
-      "rank": 3154,
-      "id": "edeace591edb0bbd",
-      "name": "草",
-      "secondary": "それでも、あなたの一生の後悔として添い遂げるよ…",
-      "channelId": "UCLe26g9dDVhx-pwscUZ9_kw",
-      "channelHandle": "@nana_shidou",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "j48yWDqtQUQ",
-          "videoTitle": "おしゃべりとメロいうた【歌枠】",
-          "channelName": "紫藤ナナ / nana shidou",
-          "publishedAt": "2026-10-07T11:03:51.066Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/j48yWDqtQUQ/hqdefault.jpg",
-          "sourcePath": "sources/j4/j48yWDqtQUQ.json",
-          "time": "1:38:24",
-          "seconds": 5904,
-          "songTitle": "草",
-          "artist": "それでも、あなたの一生の後悔として添い遂げるよ…"
-        }
-      ],
-      "detailPath": "entities/songs/edeace591edb0bbd.json"
-    },
-    {
-      "rank": 3155,
       "id": "11877c555613679d",
       "name": "側にいて",
       "secondary": "阿部真央",
@@ -175,7 +43,7 @@
       "detailPath": "entities/songs/11877c555613679d.json"
     },
     {
-      "rank": 3156,
+      "rank": 3152,
       "id": "4053b06b4a65608b",
       "name": "卒業生の言葉",
       "secondary": "夜更かしから、しばしの卒業",
@@ -208,7 +76,7 @@
       "detailPath": "entities/songs/4053b06b4a65608b.json"
     },
     {
-      "rank": 3157,
+      "rank": 3153,
       "id": "27d4f30cbf271e17",
       "name": "存在",
       "secondary": "CooRie",
@@ -241,7 +109,7 @@
       "detailPath": "entities/songs/27d4f30cbf271e17.json"
     },
     {
-      "rank": 3158,
+      "rank": 3154,
       "id": "816d4fc6327b73da",
       "name": "太陽",
       "secondary": "ヨルシカ",
@@ -274,7 +142,7 @@
       "detailPath": "entities/songs/816d4fc6327b73da.json"
     },
     {
-      "rank": 3159,
+      "rank": 3155,
       "id": "e9d4f26ad69d958c",
       "name": "太陽の花",
       "secondary": "奥井雅美",
@@ -307,7 +175,7 @@
       "detailPath": "entities/songs/e9d4f26ad69d958c.json"
     },
     {
-      "rank": 3160,
+      "rank": 3156,
       "id": "80f185d16edfa123",
       "name": "太陽曰く燃えよカオス",
       "secondary": "後ろから這いより隊G(阿澄佳奈,松来未祐,大坪由佳)",
@@ -340,7 +208,7 @@
       "detailPath": "entities/songs/80f185d16edfa123.json"
     },
     {
-      "rank": 3161,
+      "rank": 3157,
       "id": "fd70f93e97584eb5",
       "name": "堕天",
       "secondary": "Creepy Nuts",
@@ -373,7 +241,7 @@
       "detailPath": "entities/songs/fd70f93e97584eb5.json"
     },
     {
-      "rank": 3162,
+      "rank": 3158,
       "id": "4f0981502a39b530",
       "name": "打上花火",
       "secondary": "DAOKO×米津玄師 [かな、マネ]",
@@ -406,7 +274,7 @@
       "detailPath": "entities/songs/4f0981502a39b530.json"
     },
     {
-      "rank": 3163,
+      "rank": 3159,
       "id": "1a61b8fe548d9318",
       "name": "待機映像",
       "secondary": "",
@@ -439,7 +307,7 @@
       "detailPath": "entities/songs/1a61b8fe548d9318.json"
     },
     {
-      "rank": 3164,
+      "rank": 3160,
       "id": "fe0c193f6766b917",
       "name": "大きな古時計",
       "secondary": "唱歌 / 96.066点",
@@ -472,7 +340,7 @@
       "detailPath": "entities/songs/fe0c193f6766b917.json"
     },
     {
-      "rank": 3165,
+      "rank": 3161,
       "id": "c4829389870a9e71",
       "name": "大きな古時計",
       "secondary": "唱歌",
@@ -505,7 +373,7 @@
       "detailPath": "entities/songs/c4829389870a9e71.json"
     },
     {
-      "rank": 3166,
+      "rank": 3162,
       "id": "e1b4648e212e4872",
       "name": "大好きだよ",
       "secondary": "大塚愛",
@@ -538,7 +406,7 @@
       "detailPath": "entities/songs/e1b4648e212e4872.json"
     },
     {
-      "rank": 3167,
+      "rank": 3163,
       "id": "7d05ecd0589c1372",
       "name": "大阪LOVER",
       "secondary": "DREAMS COME TRUE",
@@ -571,7 +439,7 @@
       "detailPath": "entities/songs/7d05ecd0589c1372.json"
     },
     {
-      "rank": 3168,
+      "rank": 3164,
       "id": "ec010fda0d58edd4",
       "name": "大人になったら",
       "secondary": "GLIM SPANKY",
@@ -604,7 +472,7 @@
       "detailPath": "entities/songs/ec010fda0d58edd4.json"
     },
     {
-      "rank": 3169,
+      "rank": 3165,
       "id": "c13b95b078528262",
       "name": "大正浪漫",
       "secondary": "YOASOBI",
@@ -637,7 +505,7 @@
       "detailPath": "entities/songs/c13b95b078528262.json"
     },
     {
-      "rank": 3170,
+      "rank": 3166,
       "id": "a12f3f443428af43",
       "name": "大声ダイヤモンド",
       "secondary": "AKB48",
@@ -670,7 +538,7 @@
       "detailPath": "entities/songs/a12f3f443428af43.json"
     },
     {
-      "rank": 3171,
+      "rank": 3167,
       "id": "e90eb90356a8f867",
       "name": "大都会　クリスタルキング　cover",
       "secondary": "",
@@ -703,7 +571,7 @@
       "detailPath": "entities/songs/e90eb90356a8f867.json"
     },
     {
-      "rank": 3172,
+      "rank": 3168,
       "id": "fa5e4e131f03034a",
       "name": "大迷惑",
       "secondary": "ユニコーン",
@@ -736,7 +604,7 @@
       "detailPath": "entities/songs/fa5e4e131f03034a.json"
     },
     {
-      "rank": 3173,
+      "rank": 3169,
       "id": "f1298ff7c39d027d",
       "name": "第ゼロ感",
       "secondary": "10-FEET",
@@ -769,7 +637,7 @@
       "detailPath": "entities/songs/f1298ff7c39d027d.json"
     },
     {
-      "rank": 3174,
+      "rank": 3170,
       "id": "be553713b33128a5",
       "name": "第三の心臓",
       "secondary": "はるまきごはん feat. 初音ミク",
@@ -802,7 +670,7 @@
       "detailPath": "entities/songs/be553713b33128a5.json"
     },
     {
-      "rank": 3175,
+      "rank": 3171,
       "id": "a1200e40ed28c97d",
       "name": "第三の心臓",
       "secondary": "はるまきごはん",
@@ -835,7 +703,7 @@
       "detailPath": "entities/songs/a1200e40ed28c97d.json"
     },
     {
-      "rank": 3176,
+      "rank": 3172,
       "id": "4a8f7ac54405f171",
       "name": "第六感",
       "secondary": "Reol・Giga",
@@ -868,7 +736,7 @@
       "detailPath": "entities/songs/4a8f7ac54405f171.json"
     },
     {
-      "rank": 3177,
+      "rank": 3173,
       "id": "f74eb0e752c917b2",
       "name": "脱法ロック",
       "secondary": "Neru",
@@ -901,7 +769,7 @@
       "detailPath": "entities/songs/f74eb0e752c917b2.json"
     },
     {
-      "rank": 3178,
+      "rank": 3174,
       "id": "28c927a1b34604c3",
       "name": "誰かの願いが叶うころ",
       "secondary": "宇多田ヒカル",
@@ -934,7 +802,7 @@
       "detailPath": "entities/songs/28c927a1b34604c3.json"
     },
     {
-      "rank": 3179,
+      "rank": 3175,
       "id": "75abfc917bfdc7b1",
       "name": "男女",
       "secondary": "太郎",
@@ -967,7 +835,7 @@
       "detailPath": "entities/songs/75abfc917bfdc7b1.json"
     },
     {
-      "rank": 3180,
+      "rank": 3176,
       "id": "e30179e7b1cf6f58",
       "name": "地球ネコ",
       "secondary": "平沢進",
@@ -1000,7 +868,7 @@
       "detailPath": "entities/songs/e30179e7b1cf6f58.json"
     },
     {
-      "rank": 3181,
+      "rank": 3177,
       "id": "5b01e54fcd780b96",
       "name": "地球の空き地",
       "secondary": "はりー",
@@ -1034,7 +902,40 @@
       "detailPath": "entities/songs/5b01e54fcd780b96.json"
     },
     {
-      "rank": 3182,
+      "rank": 3178,
+      "id": "6c76b4684eb80380",
+      "name": "地球最後の告白を",
+      "secondary": "kemu",
+      "channelId": "UCmPnU7_uzjZcRpW71-sA6QA",
+      "channelHandle": "@HimesakiYumeno",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ObJCz72rp28",
+          "videoTitle": "【 #歌枠 】見つけて！！！-Find Me♡- #shorts 【 新人VTuber / #姫咲ゆめの 】",
+          "channelName": "姫咲ゆめの - Himesaki Yumeno - / vortex Artist",
+          "publishedAt": "2026-10-08T18:04:30.759Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ObJCz72rp28/hqdefault.jpg",
+          "sourcePath": "sources/Ob/ObJCz72rp28.json",
+          "time": "1:23:45",
+          "seconds": 5025,
+          "songTitle": "地球最後の告白を",
+          "artist": "kemu"
+        }
+      ],
+      "detailPath": "entities/songs/6c76b4684eb80380.json"
+    },
+    {
+      "rank": 3179,
       "id": "a7fcdbec03240eb4",
       "name": "地球最後の告白を",
       "secondary": "kemu feat. GUMI",
@@ -1067,7 +968,7 @@
       "detailPath": "entities/songs/a7fcdbec03240eb4.json"
     },
     {
-      "rank": 3183,
+      "rank": 3180,
       "id": "3fe9a17dfcf13e43",
       "name": "地獄先生",
       "secondary": "相対性理論",
@@ -1100,7 +1001,7 @@
       "detailPath": "entities/songs/3fe9a17dfcf13e43.json"
     },
     {
-      "rank": 3184,
+      "rank": 3181,
       "id": "9b6bd964ad1d12c3",
       "name": "竹取オーバーナイトセンセーション",
       "secondary": "HoneyWorks feat.鏡音リン,鏡音レン",
@@ -1133,7 +1034,7 @@
       "detailPath": "entities/songs/9b6bd964ad1d12c3.json"
     },
     {
-      "rank": 3185,
+      "rank": 3182,
       "id": "ae8f56aa3a994bb7",
       "name": "昼鳶",
       "secondary": "ヨルシカ",
@@ -1166,7 +1067,7 @@
       "detailPath": "entities/songs/ae8f56aa3a994bb7.json"
     },
     {
-      "rank": 3186,
+      "rank": 3183,
       "id": "f6f1088b0da159fd",
       "name": "朝が来るまで",
       "secondary": "三ツ星ルナちゃん",
@@ -1199,7 +1100,7 @@
       "detailPath": "entities/songs/f6f1088b0da159fd.json"
     },
     {
-      "rank": 3187,
+      "rank": 3184,
       "id": "9b4165e68ea32fd2",
       "name": "朝ノ瑠璃 × 東京13零式 × GEKIROCK CLOTHING アパレルコラボアイテム予約受付中",
       "secondary": "",
@@ -1232,7 +1133,7 @@
       "detailPath": "entities/songs/9b4165e68ea32fd2.json"
     },
     {
-      "rank": 3188,
+      "rank": 3185,
       "id": "b77a69711fa2d487",
       "name": "朝までハロウィン",
       "secondary": "Sound Horizon",
@@ -1265,7 +1166,7 @@
       "detailPath": "entities/songs/b77a69711fa2d487.json"
     },
     {
-      "rank": 3189,
+      "rank": 3186,
       "id": "a2c7c5448b868601",
       "name": "蝶",
       "secondary": "",
@@ -1298,7 +1199,7 @@
       "detailPath": "entities/songs/a2c7c5448b868601.json"
     },
     {
-      "rank": 3190,
+      "rank": 3187,
       "id": "062df420941ca038",
       "name": "超特急逃走中",
       "secondary": "=LOVE",
@@ -1331,7 +1232,7 @@
       "detailPath": "entities/songs/062df420941ca038.json"
     },
     {
-      "rank": 3191,
+      "rank": 3188,
       "id": "b5416bca6ba5ed1c",
       "name": "長い夢",
       "secondary": "YUKI",
@@ -1364,7 +1265,7 @@
       "detailPath": "entities/songs/b5416bca6ba5ed1c.json"
     },
     {
-      "rank": 3192,
+      "rank": 3189,
       "id": "d7610901d3dfc40b",
       "name": "鳥籠の少年",
       "secondary": "CRフィーバー機動戦士Zガンダム",
@@ -1397,7 +1298,7 @@
       "detailPath": "entities/songs/d7610901d3dfc40b.json"
     },
     {
-      "rank": 3193,
+      "rank": 3190,
       "id": "3ccde33f52272dfc",
       "name": "津軽海峡・冬景色",
       "secondary": "石川さゆり",
@@ -1430,7 +1331,7 @@
       "detailPath": "entities/songs/3ccde33f52272dfc.json"
     },
     {
-      "rank": 3194,
+      "rank": 3191,
       "id": "7bbafba956607948",
       "name": "追憶メリーゴーランド",
       "secondary": "onelifecrew",
@@ -1463,7 +1364,7 @@
       "detailPath": "entities/songs/7bbafba956607948.json"
     },
     {
-      "rank": 3195,
+      "rank": 3192,
       "id": "a802f6380d6e6149",
       "name": "追光者",
       "secondary": "岑寧兒",
@@ -1496,7 +1397,7 @@
       "detailPath": "entities/songs/a802f6380d6e6149.json"
     },
     {
-      "rank": 3196,
+      "rank": 3193,
       "id": "3f71594def070dcd",
       "name": "低血ボルト",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1529,7 +1430,7 @@
       "detailPath": "entities/songs/3f71594def070dcd.json"
     },
     {
-      "rank": 3197,
+      "rank": 3194,
       "id": "71eb12305228905a",
       "name": "帝国少女",
       "secondary": "R Sound Design feat.初音ミク ※JOYSOUND",
@@ -1562,7 +1463,7 @@
       "detailPath": "entities/songs/71eb12305228905a.json"
     },
     {
-      "rank": 3198,
+      "rank": 3195,
       "id": "b9c651ae83f64b62",
       "name": "帝都に死す",
       "secondary": "",
@@ -1595,7 +1496,7 @@
       "detailPath": "entities/songs/b9c651ae83f64b62.json"
     },
     {
-      "rank": 3199,
+      "rank": 3196,
       "id": "6160819e6541a891",
       "name": "泥中に咲く",
       "secondary": "ウォルピスカーター",
@@ -1628,7 +1529,7 @@
       "detailPath": "entities/songs/6160819e6541a891.json"
     },
     {
-      "rank": 3200,
+      "rank": 3197,
       "id": "999adeb27081717e",
       "name": "天ノ弱",
       "secondary": "",
@@ -1659,6 +1560,106 @@
         }
       ],
       "detailPath": "entities/songs/999adeb27081717e.json"
+    },
+    {
+      "rank": 3198,
+      "id": "360fe16a71df40fc",
+      "name": "天ノ弱",
+      "secondary": "164",
+      "channelId": "UCjv4bfP_67WLuPheS-Z8Ekg",
+      "channelHandle": "@%E6%B5%A0Mizuki",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "hv8WjN5IkJ8",
+          "videoTitle": "【歌枠】週三晚上輕鬆唱唱🎵🦊水曜は楽な気持ちで歌っていく！✨#初見歓迎🎤【浠Mizuki Karaoke】",
+          "channelName": "浠Mizuki Channel",
+          "publishedAt": "2026-10-07T16:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hv8WjN5IkJ8/hqdefault.jpg",
+          "sourcePath": "sources/hv/hv8WjN5IkJ8.json",
+          "time": "1:33:47",
+          "seconds": 5627,
+          "songTitle": "天ノ弱",
+          "artist": "164"
+        }
+      ],
+      "detailPath": "entities/songs/360fe16a71df40fc.json"
+    },
+    {
+      "rank": 3199,
+      "id": "b268ae7497deb9b2",
+      "name": "天使にふれたよ！",
+      "secondary": "放課後ティータイム",
+      "channelId": "UCGKNbtDv8OTa8559buDu-Gw",
+      "channelHandle": "@otodama_hibiku",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "1:09:00",
+          "seconds": 4140,
+          "songTitle": "天使にふれたよ！",
+          "artist": "放課後ティータイム"
+        }
+      ],
+      "detailPath": "entities/songs/b268ae7497deb9b2.json"
+    },
+    {
+      "rank": 3200,
+      "id": "a55a9ad49a630e4a",
+      "name": "天晴レ紅白歌",
+      "secondary": "",
+      "channelId": "UC-bPlI8YYuijqdmYd9o1L8A",
+      "channelHandle": "@%E3%82%A2%E3%82%AB%E3%83%8E%E3%83%93%E3%83%A3%E3%82%AF%E3%82%A2_AkanoByakua",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dKD326kpDas",
+          "videoTitle": "【#歌枠 】初見さん大歓迎！チケット耐久！東京・群馬・大阪10月3件ライブ出演！【 #アカノビャクア】#アカノート #vsinger #karaoke",
+          "channelName": "アカノ☆ビャクア AkanoByakua",
+          "publishedAt": "2026-10-07T16:57:47.501Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dKD326kpDas/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDl9kdM2MHRAOF9HVzaHlQctlSFQg",
+          "sourcePath": "sources/dK/dKD326kpDas.json",
+          "time": "0:37:43",
+          "seconds": 2263,
+          "songTitle": "天晴レ紅白歌",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/a55a9ad49a630e4a.json"
     }
   ]
 }
