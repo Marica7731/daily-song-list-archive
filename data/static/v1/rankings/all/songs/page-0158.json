@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 158,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7851,
+      "id": "6789253c6d302b53",
+      "name": "UNDEAD",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "840QTaX6gN0",
+          "videoTitle": "【#歌枠】いつも久々なんですよねぇ！【猫原いおり】#shorts",
+          "channelName": "猫原いおり",
+          "publishedAt": "2026-09-15T05:43:56.739Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/840QTaX6gN0/hqdefault.jpg",
+          "sourcePath": "sources/84/840QTaX6gN0.json",
+          "time": "0:19:53",
+          "seconds": 1193,
+          "songTitle": "UNDEAD",
+          "artist": ""
+        },
+        {
+          "videoId": "enFbLtt-chw",
+          "videoTitle": "【 #耐久配信 】同接80人&高評価200耐久🔥達成で嬉しい告知✨【 #子鞠まゆ #個人勢Vtuber #歌枠 #KARAOKE 】",
+          "channelName": "子鞠まゆ-KomariMayu",
+          "publishedAt": "2026-09-09T18:14:12.932Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/enFbLtt-chw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4Q8S_dN6bZGXMx7mX8xAs4zrJFA",
+          "sourcePath": "sources/en/enFbLtt-chw.json",
+          "time": "4:34:43",
+          "seconds": 16483,
+          "songTitle": "UNDEAD",
+          "artist": ""
+        },
+        {
+          "videoId": "jtPlznJ648I",
+          "videoTitle": "【歌枠】日曜だけの特別 ≀ 一週間おつかれさま🫧水底からきこえる極上の歌声≀ Singing Stream【VTuber/配信中】",
+          "channelName": "Yohira ch. 渉海よひら",
+          "publishedAt": "2026-09-06T12:52:32.259Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jtPlznJ648I/hqdefault.jpg",
+          "sourcePath": "sources/jt/jtPlznJ648I.json",
+          "time": "2:00:22",
+          "seconds": 7222,
+          "songTitle": "UNDEAD",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/6789253c6d302b53.json"
+    },
+    {
+      "rank": 7852,
       "id": "982c00c0fd00f11d",
       "name": "Undying Love",
       "secondary": "KOTOKO",
@@ -67,7 +124,7 @@
       "detailPath": "entities/songs/982c00c0fd00f11d.json"
     },
     {
-      "rank": 7852,
+      "rank": 7853,
       "id": "c1fa9286efb505d0",
       "name": "UNISONIA",
       "secondary": "TRUE",
@@ -124,7 +181,7 @@
       "detailPath": "entities/songs/c1fa9286efb505d0.json"
     },
     {
-      "rank": 7853,
+      "rank": 7854,
       "id": "5436f1ee088e3b98",
       "name": "unravel",
       "secondary": "TK from 凛として時雨 ※JOYSOUND",
@@ -181,7 +238,7 @@
       "detailPath": "entities/songs/5436f1ee088e3b98.json"
     },
     {
-      "rank": 7854,
+      "rank": 7855,
       "id": "be510c1b84e43e08",
       "name": "unsteady",
       "secondary": "林原めぐみ",
@@ -239,7 +296,7 @@
       "detailPath": "entities/songs/be510c1b84e43e08.json"
     },
     {
-      "rank": 7855,
+      "rank": 7856,
       "id": "817b8bd63179de9f",
       "name": "Untitled world",
       "secondary": "ReoNa",
@@ -297,7 +354,7 @@
       "detailPath": "entities/songs/817b8bd63179de9f.json"
     },
     {
-      "rank": 7856,
+      "rank": 7857,
       "id": "96a06048e278b2dd",
       "name": "Velocity of sound",
       "secondary": "MOMO",
@@ -354,7 +411,7 @@
       "detailPath": "entities/songs/96a06048e278b2dd.json"
     },
     {
-      "rank": 7857,
+      "rank": 7858,
       "id": "bd69bfc495621532",
       "name": "Venus",
       "secondary": "タッキー&翼",
@@ -413,7 +470,7 @@
       "detailPath": "entities/songs/bd69bfc495621532.json"
     },
     {
-      "rank": 7858,
+      "rank": 7859,
       "id": "8d89b1396647e6ae",
       "name": "Vermillion",
       "secondary": "石川智晶",
@@ -470,7 +527,7 @@
       "detailPath": "entities/songs/8d89b1396647e6ae.json"
     },
     {
-      "rank": 7859,
+      "rank": 7860,
       "id": "9e90fdd193f19400",
       "name": "vivi",
       "secondary": "",
@@ -528,7 +585,7 @@
       "detailPath": "entities/songs/9e90fdd193f19400.json"
     },
     {
-      "rank": 7860,
+      "rank": 7861,
       "id": "9a6d3c7d524da974",
       "name": "vivi(+5key)",
       "secondary": "米津玄師",
@@ -586,7 +643,7 @@
       "detailPath": "entities/songs/9a6d3c7d524da974.json"
     },
     {
-      "rank": 7861,
+      "rank": 7862,
       "id": "d3c765b1af05760c",
       "name": "Vivid colors",
       "secondary": "L'Arc〜en〜Ciel",
@@ -645,7 +702,7 @@
       "detailPath": "entities/songs/d3c765b1af05760c.json"
     },
     {
-      "rank": 7862,
+      "rank": 7863,
       "id": "e10170853ba3f865",
       "name": "Vivop",
       "secondary": "Empty old City",
@@ -702,7 +759,7 @@
       "detailPath": "entities/songs/e10170853ba3f865.json"
     },
     {
-      "rank": 7863,
+      "rank": 7864,
       "id": "8fd8a55414049fa0",
       "name": "VOICE",
       "secondary": "Perfume",
@@ -759,7 +816,7 @@
       "detailPath": "entities/songs/8fd8a55414049fa0.json"
     },
     {
-      "rank": 7864,
+      "rank": 7865,
       "id": "c1c3e7e4147b76ec",
       "name": "VORACITY",
       "secondary": "MYTH & ROID",
@@ -818,7 +875,7 @@
       "detailPath": "entities/songs/c1c3e7e4147b76ec.json"
     },
     {
-      "rank": 7865,
+      "rank": 7866,
       "id": "ab07c1a56adcba09",
       "name": "VORTEX",
       "secondary": "the GazettE",
@@ -875,7 +932,7 @@
       "detailPath": "entities/songs/ab07c1a56adcba09.json"
     },
     {
-      "rank": 7866,
+      "rank": 7867,
       "id": "6b18b0443517b8de",
       "name": "VS",
       "secondary": "ポルノグラフィティ",
@@ -932,7 +989,7 @@
       "detailPath": "entities/songs/6b18b0443517b8de.json"
     },
     {
-      "rank": 7867,
+      "rank": 7868,
       "id": "df9909b933e93357",
       "name": "W-Infinity",
       "secondary": "三重野瞳 with 影山ヒロノブ",
@@ -989,7 +1046,7 @@
       "detailPath": "entities/songs/df9909b933e93357.json"
     },
     {
-      "rank": 7868,
+      "rank": 7869,
       "id": "39770958409fc2b7",
       "name": "Wannabe",
       "secondary": "Spice Girls",
@@ -1048,7 +1105,7 @@
       "detailPath": "entities/songs/39770958409fc2b7.json"
     },
     {
-      "rank": 7869,
+      "rank": 7870,
       "id": "a9c5bdd5aef330f3",
       "name": "Wasted Nights",
       "secondary": "ONE OK ROCK",
@@ -1107,7 +1164,7 @@
       "detailPath": "entities/songs/a9c5bdd5aef330f3.json"
     },
     {
-      "rank": 7870,
+      "rank": 7871,
       "id": "8fa4e2f32c866d8a",
       "name": "Week End",
       "secondary": "星野源",
@@ -1168,7 +1225,7 @@
       "detailPath": "entities/songs/8fa4e2f32c866d8a.json"
     },
     {
-      "rank": 7871,
+      "rank": 7872,
       "id": "177a116abc9d68ac",
       "name": "week-old",
       "secondary": "",
@@ -1225,7 +1282,7 @@
       "detailPath": "entities/songs/177a116abc9d68ac.json"
     },
     {
-      "rank": 7872,
+      "rank": 7873,
       "id": "c58da0211c3118dd",
       "name": "Week!",
       "secondary": "Do As Infinity",
@@ -1285,7 +1342,7 @@
       "detailPath": "entities/songs/c58da0211c3118dd.json"
     },
     {
-      "rank": 7873,
+      "rank": 7874,
       "id": "9014828b69d6e356",
       "name": "Weight of the World",
       "secondary": "壊レタ世界ノ歌",
@@ -1345,7 +1402,7 @@
       "detailPath": "entities/songs/9014828b69d6e356.json"
     },
     {
-      "rank": 7874,
+      "rank": 7875,
       "id": "313744d80712c274",
       "name": "Weight of the World／壊レタ世界ノ歌",
       "secondary": "NieR:Automata",
@@ -1403,7 +1460,7 @@
       "detailPath": "entities/songs/313744d80712c274.json"
     },
     {
-      "rank": 7875,
+      "rank": 7876,
       "id": "d49db72ba32fb712",
       "name": "What 'bout my star? @Formo",
       "secondary": "ランカ・リー＝中島愛, シェリル・ノーム starring May'n",
@@ -1461,7 +1518,7 @@
       "detailPath": "entities/songs/d49db72ba32fb712.json"
     },
     {
-      "rank": 7876,
+      "rank": 7877,
       "id": "43f4a27921f4141b",
       "name": "When We Were Young",
       "secondary": "Adele",
@@ -1518,7 +1575,7 @@
       "detailPath": "entities/songs/43f4a27921f4141b.json"
     },
     {
-      "rank": 7877,
+      "rank": 7878,
       "id": "903f54a2edf88a8d",
       "name": "When You’re Gone",
       "secondary": "Avril Lavigne",
@@ -1575,7 +1632,7 @@
       "detailPath": "entities/songs/903f54a2edf88a8d.json"
     },
     {
-      "rank": 7878,
+      "rank": 7879,
       "id": "cb7bec5dfaed082b",
       "name": "Wherever you are (ONE OK ROCK)",
       "secondary": "",
@@ -1632,7 +1689,7 @@
       "detailPath": "entities/songs/cb7bec5dfaed082b.json"
     },
     {
-      "rank": 7879,
+      "rank": 7880,
       "id": "99f6f46bbddbc4d5",
       "name": "White Light",
       "secondary": "Superfly",
@@ -1692,7 +1749,7 @@
       "detailPath": "entities/songs/99f6f46bbddbc4d5.json"
     },
     {
-      "rank": 7880,
+      "rank": 7881,
       "id": "6a6559f8ba07047e",
       "name": "White Promise",
       "secondary": "なゆごろう",
@@ -1749,7 +1806,7 @@
       "detailPath": "entities/songs/6a6559f8ba07047e.json"
     },
     {
-      "rank": 7881,
+      "rank": 7882,
       "id": "ba0aeaf3c850524b",
       "name": "WILL",
       "secondary": "",
@@ -1806,7 +1863,7 @@
       "detailPath": "entities/songs/ba0aeaf3c850524b.json"
     },
     {
-      "rank": 7882,
+      "rank": 7883,
       "id": "c726475e3a14e446",
       "name": "Wink",
       "secondary": "Azari",
@@ -1863,7 +1920,7 @@
       "detailPath": "entities/songs/c726475e3a14e446.json"
     },
     {
-      "rank": 7883,
+      "rank": 7884,
       "id": "ce1fa86b061d1483",
       "name": "Winners",
       "secondary": "G・GRIP",
@@ -1921,7 +1978,7 @@
       "detailPath": "entities/songs/ce1fa86b061d1483.json"
     },
     {
-      "rank": 7884,
+      "rank": 7885,
       "id": "30cee91f20e0325a",
       "name": "WINNERS FOREVER ～勝利者よ～",
       "secondary": "機動戦士Vガンダム",
@@ -1980,7 +2037,7 @@
       "detailPath": "entities/songs/30cee91f20e0325a.json"
     },
     {
-      "rank": 7885,
+      "rank": 7886,
       "id": "c2a084cfe82e64c9",
       "name": "WINNERS FOREVER〜勝利者よ〜",
       "secondary": "infix",
@@ -2037,7 +2094,7 @@
       "detailPath": "entities/songs/c2a084cfe82e64c9.json"
     },
     {
-      "rank": 7886,
+      "rank": 7887,
       "id": "4d50fa5719078136",
       "name": "Wishing On The Same Star",
       "secondary": "安室奈美恵",
@@ -2096,7 +2153,7 @@
       "detailPath": "entities/songs/4d50fa5719078136.json"
     },
     {
-      "rank": 7887,
+      "rank": 7888,
       "id": "d5a96388b6b05003",
       "name": "Wishing Umbrella",
       "secondary": "しぐれうい",
@@ -2153,7 +2210,7 @@
       "detailPath": "entities/songs/d5a96388b6b05003.json"
     },
     {
-      "rank": 7888,
+      "rank": 7889,
       "id": "6488d49e9dd61fc0",
       "name": "Witch Hunt",
       "secondary": "Azari",
@@ -2212,7 +2269,7 @@
       "detailPath": "entities/songs/6488d49e9dd61fc0.json"
     },
     {
-      "rank": 7889,
+      "rank": 7890,
       "id": "060589a4c4cba799",
       "name": "Without You",
       "secondary": "仮屋和奏 starring 神代あみ",
@@ -2269,7 +2326,7 @@
       "detailPath": "entities/songs/060589a4c4cba799.json"
     },
     {
-      "rank": 7890,
+      "rank": 7891,
       "id": "0fef30ce42df49e2",
       "name": "Won ( *3*) Chu KissMe !",
       "secondary": "SAKURA*TRICK",
@@ -2330,7 +2387,7 @@
       "detailPath": "entities/songs/0fef30ce42df49e2.json"
     },
     {
-      "rank": 7891,
+      "rank": 7892,
       "id": "99d95396d1aff1a6",
       "name": "Wonder zone",
       "secondary": "μ's",
@@ -2387,7 +2444,7 @@
       "detailPath": "entities/songs/99d95396d1aff1a6.json"
     },
     {
-      "rank": 7892,
+      "rank": 7893,
       "id": "771ed55a0b0aa4c1",
       "name": "wonderland",
       "secondary": "Aimer",
@@ -2441,7 +2498,7 @@
       "detailPath": "entities/songs/771ed55a0b0aa4c1.json"
     },
     {
-      "rank": 7893,
+      "rank": 7894,
       "id": "08e589b97582c821",
       "name": "wondermole",
       "secondary": "tacica",
@@ -2498,7 +2555,7 @@
       "detailPath": "entities/songs/08e589b97582c821.json"
     },
     {
-      "rank": 7894,
+      "rank": 7895,
       "id": "8a30cf5f6c78230e",
       "name": "WOODEN DOLL",
       "secondary": "米津玄師",
@@ -2556,7 +2613,7 @@
       "detailPath": "entities/songs/8a30cf5f6c78230e.json"
     },
     {
-      "rank": 7895,
+      "rank": 7896,
       "id": "c3accb029908e2e3",
       "name": "words",
       "secondary": "Aimer",
@@ -2613,7 +2670,7 @@
       "detailPath": "entities/songs/c3accb029908e2e3.json"
     },
     {
-      "rank": 7896,
+      "rank": 7897,
       "id": "641eb99b4fd8613b",
       "name": "WOW WAR TONIGHT",
       "secondary": "H Jungle with t",
@@ -2673,7 +2730,7 @@
       "detailPath": "entities/songs/641eb99b4fd8613b.json"
     },
     {
-      "rank": 7897,
+      "rank": 7898,
       "id": "529bf16d156100f7",
       "name": "X X X",
       "secondary": "L'Arc～en～Ciel",
@@ -2730,7 +2787,7 @@
       "detailPath": "entities/songs/529bf16d156100f7.json"
     },
     {
-      "rank": 7898,
+      "rank": 7899,
       "id": "8f8284569cfa8338",
       "name": "X（Twitter）:https",
       "secondary": "x.com/mkm_no_Oguchi",
@@ -2784,7 +2841,7 @@
       "detailPath": "entities/songs/8f8284569cfa8338.json"
     },
     {
-      "rank": 7899,
+      "rank": 7900,
       "id": "3c2d912ee9595aca",
       "name": "XY&Z",
       "secondary": "松本梨香",
@@ -2842,63 +2899,6 @@
         }
       ],
       "detailPath": "entities/songs/3c2d912ee9595aca.json"
-    },
-    {
-      "rank": 7900,
-      "id": "dbb4da1094f9d1c7",
-      "name": "YELL",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "0QAmDXvOQpI",
-          "videoTitle": "【 #届けわたしの声歌枠リレー 】きみの笑顔が宝物💎✨ あなたの心に届く歌声を…🎤🌊【 #歌枠 / #せあlive 】",
-          "channelName": "海色せあ / Sea Miiro",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0QAmDXvOQpI/hqdefault.jpg",
-          "sourcePath": "sources/0Q/0QAmDXvOQpI.json",
-          "time": "0:18:53",
-          "seconds": 1133,
-          "songTitle": "YELL",
-          "artist": ""
-        },
-        {
-          "videoId": "nhny5_GuF7Q",
-          "videoTitle": "【#Karaoke/#歌枠】目指せ！4100人！！【うくな/#vtuber 】#shorts",
-          "channelName": "ukuna ch.うくな",
-          "publishedAt": "2026-09-07T10:18:42.394Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nhny5_GuF7Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTjJ9gAEH80rmM94t_hhN59ykcpg",
-          "sourcePath": "sources/nh/nhny5_GuF7Q.json",
-          "time": "0:25:27",
-          "seconds": 1527,
-          "songTitle": "YELL",
-          "artist": ""
-        },
-        {
-          "videoId": "J1MJ_On3uWQ",
-          "videoTitle": "【歌枠】チャンネル登録2400名耐久🔥達成本当にどうもありがとう！！ #shorts #XXYT",
-          "channelName": "心呼 / xoxo",
-          "publishedAt": "2026-08-28T18:39:55.570Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/J1MJ_On3uWQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDe8g7Dy88oOpfBtkfSWK9MTozcIA",
-          "sourcePath": "sources/J1/J1MJ_On3uWQ.json",
-          "time": "1:34:04",
-          "seconds": 5644,
-          "songTitle": "YELL",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/dbb4da1094f9d1c7.json"
     }
   ]
 }

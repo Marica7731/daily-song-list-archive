@@ -1,16 +1,103 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 280,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 13951,
+      "id": "4d7aa2ada58624b0",
+      "name": "気ままな天使たち",
+      "secondary": "わたてん☆5",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Nq-khzM1SvU",
+          "videoTitle": "【雑談歌枠】初見さん、ROMさん大歓迎 ୨୧ ˖* 元気になれる配信♡【#にっこりわたち / #新人vtuber 】",
+          "channelName": "にっこりわたち^^*",
+          "publishedAt": "2026-10-09T13:21:04.054Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Nq-khzM1SvU/hqdefault.jpg",
+          "sourcePath": "sources/Nq/Nq-khzM1SvU.json",
+          "time": "3:31:03",
+          "seconds": 12663,
+          "songTitle": "気ままな天使たち",
+          "artist": "わたてん☆5"
+        },
+        {
+          "videoId": "xhTcjKAm8PY",
+          "videoTitle": "【#歌枠 #karaoke 】ゆるっと９月の最初に歌枠してこ？【9/3】【#Vtuber #個人勢vtuber 】",
+          "channelName": "水篠澪の魔法channel",
+          "publishedAt": "2026-09-03T15:32:08.933Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xhTcjKAm8PY/hqdefault.jpg",
+          "sourcePath": "sources/xh/xhTcjKAm8PY.json",
+          "time": "1:16:46",
+          "seconds": 4606,
+          "songTitle": "気ままな天使たち",
+          "artist": "わたてん☆5"
+        }
+      ],
+      "detailPath": "entities/songs/4d7aa2ada58624b0.json"
+    },
+    {
+      "rank": 13952,
+      "id": "4f2c8351edefa794",
+      "name": "気持ち華やぐこの場所に",
+      "secondary": "",
+      "channelId": "UCYsbFbgaokGeOoLXFUYHJHw",
+      "channelHandle": "@fujimiki",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vSBcok0ousQ",
+          "videoTitle": "【アコギ弾き語りライブ】弾き語りLive Bar MK2（2026.9.26）",
+          "channelName": "ふじみき",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vSBcok0ousQ/hqdefault.jpg",
+          "sourcePath": "sources/vS/vSBcok0ousQ.json",
+          "time": "0:26:29",
+          "seconds": 1589,
+          "songTitle": "気持ち華やぐこの場所に",
+          "artist": ""
+        },
+        {
+          "videoId": "MPlbguQIqU0",
+          "videoTitle": "【アコギ弾き語りライブ】NETAGOYA（音太小屋）（2026.8.22）",
+          "channelName": "ふじみき",
+          "publishedAt": "2026-08-22T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MPlbguQIqU0/hqdefault.jpg",
+          "sourcePath": "sources/MP/MPlbguQIqU0.json",
+          "time": "0:23:04",
+          "seconds": 1384,
+          "songTitle": "気持ち華やぐこの場所に",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/4f2c8351edefa794.json"
+    },
+    {
+      "rank": 13953,
       "id": "6d60a3d890acc467",
       "name": "気分上々↑↑",
       "secondary": "",
@@ -55,7 +142,7 @@
       "detailPath": "entities/songs/6d60a3d890acc467.json"
     },
     {
-      "rank": 13952,
+      "rank": 13954,
       "id": "e6b000d718ddab9d",
       "name": "気分爽快",
       "secondary": "森高千里",
@@ -101,7 +188,7 @@
       "detailPath": "entities/songs/e6b000d718ddab9d.json"
     },
     {
-      "rank": 13953,
+      "rank": 13955,
       "id": "f60776e3975243f9",
       "name": "祈々燈花-kikitouka",
       "secondary": "天音彩",
@@ -146,7 +233,7 @@
       "detailPath": "entities/songs/f60776e3975243f9.json"
     },
     {
-      "rank": 13954,
+      "rank": 13956,
       "id": "ce253bed43459691",
       "name": "季候風",
       "secondary": "王菲",
@@ -193,7 +280,7 @@
       "detailPath": "entities/songs/ce253bed43459691.json"
     },
     {
-      "rank": 13955,
+      "rank": 13957,
       "id": "f83179cc3799d59b",
       "name": "季節は次々死んでいく",
       "secondary": "",
@@ -238,7 +325,7 @@
       "detailPath": "entities/songs/f83179cc3799d59b.json"
     },
     {
-      "rank": 13956,
+      "rank": 13958,
       "id": "e4981508861b6865",
       "name": "季節は次々死んでいく・seasons die one after another",
       "secondary": "amazarashi",
@@ -285,7 +372,7 @@
       "detailPath": "entities/songs/e4981508861b6865.json"
     },
     {
-      "rank": 13957,
+      "rank": 13959,
       "id": "ae5703d6370cf21e",
       "name": "記憶の海",
       "secondary": "yozuca*",
@@ -332,7 +419,7 @@
       "detailPath": "entities/songs/ae5703d6370cf21e.json"
     },
     {
-      "rank": 13958,
+      "rank": 13960,
       "id": "f82f163bdd5d3fea",
       "name": "記憶の森",
       "secondary": "FictionJunction",
@@ -380,7 +467,7 @@
       "detailPath": "entities/songs/f82f163bdd5d3fea.json"
     },
     {
-      "rank": 13959,
+      "rank": 13961,
       "id": "379f6226a6258db3",
       "name": "記憶の水槽",
       "secondary": "キタニタツヤ",
@@ -425,7 +512,7 @@
       "detailPath": "entities/songs/379f6226a6258db3.json"
     },
     {
-      "rank": 13960,
+      "rank": 13962,
       "id": "79b4a051a8e3aac0",
       "name": "貴方の恋人になりたい",
       "secondary": "",
@@ -470,7 +557,7 @@
       "detailPath": "entities/songs/79b4a051a8e3aac0.json"
     },
     {
-      "rank": 13961,
+      "rank": 13963,
       "id": "4555bd01bd002b78",
       "name": "起死回生STORY",
       "secondary": "THE ORAL CIGARETTES",
@@ -517,7 +604,7 @@
       "detailPath": "entities/songs/4555bd01bd002b78.json"
     },
     {
-      "rank": 13962,
+      "rank": 13964,
       "id": "7cc4e78cf7ec9913",
       "name": "起死回生ストーリー",
       "secondary": "THE ORAL CIGARETTES",
@@ -564,7 +651,7 @@
       "detailPath": "entities/songs/7cc4e78cf7ec9913.json"
     },
     {
-      "rank": 13963,
+      "rank": 13965,
       "id": "99ff7c35e58d3cb9",
       "name": "輝いた季節へ旅立とう",
       "secondary": "松田聖子",
@@ -609,7 +696,7 @@
       "detailPath": "entities/songs/99ff7c35e58d3cb9.json"
     },
     {
-      "rank": 13964,
+      "rank": 13966,
       "id": "434b7bf9f49025f7",
       "name": "輝きは君の中に",
       "secondary": "",
@@ -651,7 +738,7 @@
       "detailPath": "entities/songs/434b7bf9f49025f7.json"
     },
     {
-      "rank": 13965,
+      "rank": 13967,
       "id": "ea66c0b7f22a500d",
       "name": "輝く夜の静寂には",
       "secondary": "Kalafina",
@@ -699,7 +786,7 @@
       "detailPath": "entities/songs/ea66c0b7f22a500d.json"
     },
     {
-      "rank": 13966,
+      "rank": 13968,
       "id": "d63a1ceb3149a2c2",
       "name": "鬼の宴",
       "secondary": "未記載",
@@ -745,7 +832,7 @@
       "detailPath": "entities/songs/d63a1ceb3149a2c2.json"
     },
     {
-      "rank": 13967,
+      "rank": 13969,
       "id": "10b04e83dfc7ba1f",
       "name": "鬼の居ぬ間に",
       "secondary": "羽生まゐご",
@@ -790,7 +877,7 @@
       "detailPath": "entities/songs/10b04e83dfc7ba1f.json"
     },
     {
-      "rank": 13968,
+      "rank": 13970,
       "id": "72c3ebe05a70bf2c",
       "name": "鬼帝の剣",
       "secondary": "ALI PROJECT",
@@ -834,7 +921,7 @@
       "detailPath": "entities/songs/72c3ebe05a70bf2c.json"
     },
     {
-      "rank": 13969,
+      "rank": 13971,
       "id": "bf93302f32a892eb",
       "name": "偽りのオレンジ",
       "secondary": "LAST ALLIANCE",
@@ -882,7 +969,7 @@
       "detailPath": "entities/songs/bf93302f32a892eb.json"
     },
     {
-      "rank": 13970,
+      "rank": 13972,
       "id": "95c989eee905a2c9",
       "name": "戯言スピーカー",
       "secondary": "ねこぼーろ feat.初音ミク",
@@ -930,7 +1017,7 @@
       "detailPath": "entities/songs/95c989eee905a2c9.json"
     },
     {
-      "rank": 13971,
+      "rank": 13973,
       "id": "83f147e55b4e79a7",
       "name": "吉原ラメント",
       "secondary": "亜沙 feat 重音テト（2013年）",
@@ -976,7 +1063,7 @@
       "detailPath": "entities/songs/83f147e55b4e79a7.json"
     },
     {
-      "rank": 13972,
+      "rank": 13974,
       "id": "be87fedbfed372fa",
       "name": "吉原ラメント",
       "secondary": "ボカロ",
@@ -1024,7 +1111,7 @@
       "detailPath": "entities/songs/be87fedbfed372fa.json"
     },
     {
-      "rank": 13973,
+      "rank": 13975,
       "id": "48a369fa673dde08",
       "name": "吉原ラメント",
       "secondary": "亜沙 ,重音テト",
@@ -1069,7 +1156,7 @@
       "detailPath": "entities/songs/48a369fa673dde08.json"
     },
     {
-      "rank": 13974,
+      "rank": 13976,
       "id": "19effa16c4e0c1b9",
       "name": "逆光",
       "secondary": "未記載",
@@ -1115,7 +1202,7 @@
       "detailPath": "entities/songs/19effa16c4e0c1b9.json"
     },
     {
-      "rank": 13975,
+      "rank": 13977,
       "id": "61cc8cb584e590e2",
       "name": "逆光",
       "secondary": "ウタ",
@@ -1160,7 +1247,7 @@
       "detailPath": "entities/songs/61cc8cb584e590e2.json"
     },
     {
-      "rank": 13976,
+      "rank": 13978,
       "id": "d86facadbd442cf2",
       "name": "逆光",
       "secondary": "坂本真綾",
@@ -1205,7 +1292,7 @@
       "detailPath": "entities/songs/d86facadbd442cf2.json"
     },
     {
-      "rank": 13977,
+      "rank": 13979,
       "id": "8b25adbedeb2d68c",
       "name": "逆光 - replica",
       "secondary": "Vaundy",
@@ -1253,7 +1340,7 @@
       "detailPath": "entities/songs/8b25adbedeb2d68c.json"
     },
     {
-      "rank": 13978,
+      "rank": 13980,
       "id": "61989c5442a66d15",
       "name": "逆光のフリューゲル",
       "secondary": "ツヴァイウィング（風鳴翼 CV:水樹奈々・天羽奏 CV:高山みなみ）",
@@ -1298,7 +1385,7 @@
       "detailPath": "entities/songs/61989c5442a66d15.json"
     },
     {
-      "rank": 13979,
+      "rank": 13981,
       "id": "72ab6c373f864281",
       "name": "逆転劇",
       "secondary": "月詠み",
@@ -1344,7 +1431,7 @@
       "detailPath": "entities/songs/72ab6c373f864281.json"
     },
     {
-      "rank": 13980,
+      "rank": 13982,
       "id": "a07a35a6c8c8e477",
       "name": "逆様",
       "secondary": "ポルカドットスティングレイ",
@@ -1389,7 +1476,7 @@
       "detailPath": "entities/songs/a07a35a6c8c8e477.json"
     },
     {
-      "rank": 13981,
+      "rank": 13983,
       "id": "0befdf4906c02eea",
       "name": "逆様ブリッジ",
       "secondary": "スネオヘアー",
@@ -1434,7 +1521,7 @@
       "detailPath": "entities/songs/0befdf4906c02eea.json"
     },
     {
-      "rank": 13982,
+      "rank": 13984,
       "id": "dc864c37b3de7ddd",
       "name": "休日",
       "secondary": "",
@@ -1479,7 +1566,7 @@
       "detailPath": "entities/songs/dc864c37b3de7ddd.json"
     },
     {
-      "rank": 13983,
+      "rank": 13985,
       "id": "66fabf0540fe0448",
       "name": "宮尾みおたろう",
       "secondary": "",
@@ -1521,7 +1608,7 @@
       "detailPath": "entities/songs/66fabf0540fe0448.json"
     },
     {
-      "rank": 13984,
+      "rank": 13986,
       "id": "7f341e4672dd57ec",
       "name": "宮本ウォルス",
       "secondary": "Miyamoto Wols",
@@ -1563,7 +1650,7 @@
       "detailPath": "entities/songs/7f341e4672dd57ec.json"
     },
     {
-      "rank": 13985,
+      "rank": 13987,
       "id": "40b72d0646651f41",
       "name": "救心",
       "secondary": "相対性理論",
@@ -1607,7 +1694,7 @@
       "detailPath": "entities/songs/40b72d0646651f41.json"
     },
     {
-      "rank": 13986,
+      "rank": 13988,
       "id": "d9f2c510cde0d0ce",
       "name": "求救的勇氣",
       "secondary": "陳蕾",
@@ -1652,7 +1739,7 @@
       "detailPath": "entities/songs/d9f2c510cde0d0ce.json"
     },
     {
-      "rank": 13987,
+      "rank": 13989,
       "id": "60b0e9cb5b1747fd",
       "name": "球根",
       "secondary": "THE YELLOW MONKEY",
@@ -1697,7 +1784,7 @@
       "detailPath": "entities/songs/60b0e9cb5b1747fd.json"
     },
     {
-      "rank": 13988,
+      "rank": 13990,
       "id": "fe274e42db738f19",
       "name": "究極超人あ～るのうた",
       "secondary": "究極超人あ～る",
@@ -1742,7 +1829,7 @@
       "detailPath": "entities/songs/fe274e42db738f19.json"
     },
     {
-      "rank": 13989,
+      "rank": 13991,
       "id": "48733407b1d5f7e6",
       "name": "給我一點時間",
       "secondary": "蛋堡Soft Lipa",
@@ -1789,7 +1876,7 @@
       "detailPath": "entities/songs/48733407b1d5f7e6.json"
     },
     {
-      "rank": 13990,
+      "rank": 13992,
       "id": "2226189f35c1cc08",
       "name": "許婚っきゅん",
       "secondary": "あの",
@@ -1835,7 +1922,7 @@
       "detailPath": "entities/songs/2226189f35c1cc08.json"
     },
     {
-      "rank": 13991,
+      "rank": 13993,
       "id": "8709dccd1fc27508",
       "name": "魚",
       "secondary": "陳綺貞",
@@ -1880,7 +1967,7 @@
       "detailPath": "entities/songs/8709dccd1fc27508.json"
     },
     {
-      "rank": 13992,
+      "rank": 13994,
       "id": "efb6ad5d44cf969f",
       "name": "魚仔",
       "secondary": "盧廣仲",
@@ -1927,7 +2014,7 @@
       "detailPath": "entities/songs/efb6ad5d44cf969f.json"
     },
     {
-      "rank": 13993,
+      "rank": 13995,
       "id": "44a4262baef8ccde",
       "name": "京都ダ菓子屋センソー",
       "secondary": "みきとP",
@@ -1972,7 +2059,7 @@
       "detailPath": "entities/songs/44a4262baef8ccde.json"
     },
     {
-      "rank": 13994,
+      "rank": 13996,
       "id": "f612d2ff56fd9df9",
       "name": "共感覚おばけ",
       "secondary": "ササノマリイ",
@@ -2020,7 +2107,7 @@
       "detailPath": "entities/songs/f612d2ff56fd9df9.json"
     },
     {
-      "rank": 13995,
+      "rank": 13997,
       "id": "b2c299476b2dab0b",
       "name": "共犯",
       "secondary": "椿屋四重奏",
@@ -2068,7 +2155,7 @@
       "detailPath": "entities/songs/b2c299476b2dab0b.json"
     },
     {
-      "rank": 13996,
+      "rank": 13998,
       "id": "cb095f364e14f871",
       "name": "共犯者",
       "secondary": "カラスヤサボウ",
@@ -2113,7 +2200,7 @@
       "detailPath": "entities/songs/cb095f364e14f871.json"
     },
     {
-      "rank": 13997,
+      "rank": 13999,
       "id": "b85a0ef334663919",
       "name": "叫べ",
       "secondary": "RADWIMPS",
@@ -2158,7 +2245,7 @@
       "detailPath": "entities/songs/b85a0ef334663919.json"
     },
     {
-      "rank": 13998,
+      "rank": 14000,
       "id": "dfde5f63e1f2e34b",
       "name": "強引niマイyeah〜",
       "secondary": "絶望少女達(風浦可符香・木津千里・木村カエレ・日塔奈美)",
@@ -2203,97 +2290,6 @@
         }
       ],
       "detailPath": "entities/songs/dfde5f63e1f2e34b.json"
-    },
-    {
-      "rank": 13999,
-      "id": "add3a8a53e99f156",
-      "name": "強風オールバック",
-      "secondary": "未記載",
-      "channelId": "UCr7239VjpEoWOhaKgwsiPVQ",
-      "channelHandle": "@Himeno_neu",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "8WuK5wSuoas",
-          "videoTitle": "【歌枠】歌枠だ〜〜〜！！【冬陽リッカ/Vtuber】メンギフNGでお願いします",
-          "channelName": "冬陽リッカ_Fuyubi Rikka",
-          "publishedAt": "2026-08-15T17:27:01.548Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8WuK5wSuoas/hqdefault.jpg",
-          "sourcePath": "sources/8W/8WuK5wSuoas.json",
-          "time": "0:34:44",
-          "seconds": 2084,
-          "songTitle": "強風オールバック",
-          "artist": "未記載"
-        },
-        {
-          "videoId": "u1jAe9Wpqko",
-          "videoTitle": "【歌枠】颱風天來聽我唱歌!!!! | 姬乃 Himeno ｜Singing Stream #初見歓迎 #降落歡迎 #高評價",
-          "channelName": "姬乃 Himeno",
-          "publishedAt": "2026-07-11T08:33:03.734Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/u1jAe9Wpqko/hqdefault.jpg",
-          "sourcePath": "sources/u1/u1jAe9Wpqko.json",
-          "time": "0:19:24",
-          "seconds": 1164,
-          "songTitle": "強風オールバック",
-          "artist": "未記載"
-        }
-      ],
-      "detailPath": "entities/songs/add3a8a53e99f156.json"
-    },
-    {
-      "rank": 14000,
-      "id": "45be3c02e38d74f8",
-      "name": "怯",
-      "secondary": "容祖兒",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "uPJFnsK5s0A",
-          "videoTitle": "【#歌枠 𝙆𝙖𝙧𝙖𝙤𝙠𝙚】90後回憶殺 #衛蘭 #楊千嬅 🎵🎶🍡JP/HK/EN/ZH OK｜魅音モモキュ．毛毛球",
-          "channelName": "魅音モモキュ / 毛毛球 Ch.",
-          "publishedAt": "2026-09-13T17:03:11.179Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/uPJFnsK5s0A/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDFP6Lzu1yJHeYO_jUSYTvdUHPVnQ",
-          "sourcePath": "sources/uP/uPJFnsK5s0A.json",
-          "time": "1:46:31",
-          "seconds": 6391,
-          "songTitle": "怯",
-          "artist": "容祖兒"
-        },
-        {
-          "videoId": "9r5ukd76iSw",
-          "videoTitle": "【#歌枠】循環地愛我～今天要練成FULL-COMBO!!🍓🎶#KARAOKE #vtuber #shorts【金魚ひりHKVTUBER】",
-          "channelName": "金魚ひり- HiRi -",
-          "publishedAt": "2026-08-25T15:06:00.389Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9r5ukd76iSw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCFI5VpoQJBwC1hbMWuzfZkwRf6fQ",
-          "sourcePath": "sources/9r/9r5ukd76iSw.json",
-          "time": "1:31:10",
-          "seconds": 5470,
-          "songTitle": "怯",
-          "artist": "容祖兒"
-        }
-      ],
-      "detailPath": "entities/songs/45be3c02e38d74f8.json"
     }
   ]
 }

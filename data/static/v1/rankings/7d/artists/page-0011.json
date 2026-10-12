@@ -1,61 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "7d",
   "type": "artists",
   "page": 11,
   "pageSize": 50,
   "pageCount": 35,
-  "totalCount": 1745,
+  "totalCount": 1744,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 501,
-      "id": "fbaba73ffeea6929",
-      "name": "月島きらり starring 久住小春（モーニング娘。）",
-      "secondary": "",
-      "channelId": "UC3xQCiEPSkco54WhuiDcngw",
-      "channelHandle": "@YOSHIKA-Ch",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "wuUKmErOD8Y",
-          "videoTitle": "【#歌枠 】初見さん歓迎中！もうすぐハロウィンだ…！ #shorts #vtuber #vsinger",
-          "channelName": "YOSHIKA⁂Ch.",
-          "publishedAt": "2026-10-09T17:24:32.864Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wuUKmErOD8Y/hqdefault.jpg",
-          "sourcePath": "sources/wu/wuUKmErOD8Y.json",
-          "time": "0:02:00",
-          "seconds": 120,
-          "songTitle": "バラライカ",
-          "artist": "月島きらり starring 久住小春（モーニング娘。）"
-        },
-        {
-          "videoId": "lR5MrvP3R0s",
-          "videoTitle": "【#歌枠 】初見さん歓迎中！みんな集まれ～！ #shorts #vtuber #vsinger",
-          "channelName": "YOSHIKA⁂Ch.",
-          "publishedAt": "2026-10-08T17:29:38.321Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/lR5MrvP3R0s/hqdefault.jpg",
-          "sourcePath": "sources/lR/lR5MrvP3R0s.json",
-          "time": "0:02:50",
-          "seconds": 170,
-          "songTitle": "バラライカ",
-          "artist": "月島きらり starring 久住小春（モーニング娘。）"
-        }
-      ],
-      "detailPath": "entities/artists/fbaba73ffeea6929.json"
-    },
-    {
-      "rank": 502,
       "id": "5a52d10e80e82572",
       "name": "工藤静香",
       "secondary": "",
@@ -100,7 +55,7 @@
       "detailPath": "entities/artists/5a52d10e80e82572.json"
     },
     {
-      "rank": 503,
+      "rank": 502,
       "id": "b46e9da17d96ba86",
       "name": "鋼の錬金術師",
       "secondary": "",
@@ -145,7 +100,7 @@
       "detailPath": "entities/artists/b46e9da17d96ba86.json"
     },
     {
-      "rank": 504,
+      "rank": 503,
       "id": "654c1eadb95f5a69",
       "name": "高橋ひろ",
       "secondary": "",
@@ -190,7 +145,7 @@
       "detailPath": "entities/artists/654c1eadb95f5a69.json"
     },
     {
-      "rank": 505,
+      "rank": 504,
       "id": "0cd0d3b4fed7ad42",
       "name": "高橋瞳",
       "secondary": "",
@@ -235,7 +190,7 @@
       "detailPath": "entities/artists/0cd0d3b4fed7ad42.json"
     },
     {
-      "rank": 506,
+      "rank": 505,
       "id": "84bd6e5c2bd65cda",
       "name": "今井ゆうぞう、はいだしょうこ",
       "secondary": "",
@@ -280,7 +235,7 @@
       "detailPath": "entities/artists/84bd6e5c2bd65cda.json"
     },
     {
-      "rank": 507,
+      "rank": 506,
       "id": "11bad463cbde125c",
       "name": "今井美樹",
       "secondary": "",
@@ -325,7 +280,7 @@
       "detailPath": "entities/artists/11bad463cbde125c.json"
     },
     {
-      "rank": 508,
+      "rank": 507,
       "id": "4e3c69932583042c",
       "name": "今野友加里",
       "secondary": "",
@@ -370,7 +325,7 @@
       "detailPath": "entities/artists/4e3c69932583042c.json"
     },
     {
-      "rank": 509,
+      "rank": 508,
       "id": "181e8d79d2c17e24",
       "name": "佐藤朱美",
       "secondary": "",
@@ -415,7 +370,7 @@
       "detailPath": "entities/artists/181e8d79d2c17e24.json"
     },
     {
-      "rank": 510,
+      "rank": 509,
       "id": "9c564bdbacfea81b",
       "name": "山下達郎",
       "secondary": "",
@@ -461,7 +416,7 @@
       "detailPath": "entities/artists/9c564bdbacfea81b.json"
     },
     {
-      "rank": 511,
+      "rank": 510,
       "id": "865b6b94f91f93f2",
       "name": "獅子志司",
       "secondary": "",
@@ -506,7 +461,7 @@
       "detailPath": "entities/artists/865b6b94f91f93f2.json"
     },
     {
-      "rank": 512,
+      "rank": 511,
       "id": "3658c0728354bd13",
       "name": "紫今",
       "secondary": "",
@@ -551,7 +506,7 @@
       "detailPath": "entities/artists/3658c0728354bd13.json"
     },
     {
-      "rank": 513,
+      "rank": 512,
       "id": "fd2982c7874dee46",
       "name": "篠原涼子",
       "secondary": "",
@@ -596,7 +551,7 @@
       "detailPath": "entities/artists/fd2982c7874dee46.json"
     },
     {
-      "rank": 514,
+      "rank": 513,
       "id": "d17c085bd7fd0c33",
       "name": "修二と彰",
       "secondary": "",
@@ -641,7 +596,7 @@
       "detailPath": "entities/artists/d17c085bd7fd0c33.json"
     },
     {
-      "rank": 515,
+      "rank": 514,
       "id": "6fdf0a3a9a2b1736",
       "name": "春奈るな",
       "secondary": "",
@@ -686,7 +641,7 @@
       "detailPath": "entities/artists/6fdf0a3a9a2b1736.json"
     },
     {
-      "rank": 516,
+      "rank": 515,
       "id": "52f622de26e02115",
       "name": "初音ミク",
       "secondary": "",
@@ -731,7 +686,7 @@
       "detailPath": "entities/artists/52f622de26e02115.json"
     },
     {
-      "rank": 517,
+      "rank": 516,
       "id": "fe347b7513cd4aab",
       "name": "小泉今日子",
       "secondary": "",
@@ -776,7 +731,7 @@
       "detailPath": "entities/artists/fe347b7513cd4aab.json"
     },
     {
-      "rank": 518,
+      "rank": 517,
       "id": "2499df210b8ccc2a",
       "name": "小倉唯",
       "secondary": "",
@@ -821,7 +776,7 @@
       "detailPath": "entities/artists/2499df210b8ccc2a.json"
     },
     {
-      "rank": 519,
+      "rank": 518,
       "id": "70e2d6fb365383cc",
       "name": "小田和正",
       "secondary": "",
@@ -866,7 +821,7 @@
       "detailPath": "entities/artists/70e2d6fb365383cc.json"
     },
     {
-      "rank": 520,
+      "rank": 519,
       "id": "6f854dbe22368ef8",
       "name": "小林明子",
       "secondary": "",
@@ -911,7 +866,7 @@
       "detailPath": "entities/artists/6f854dbe22368ef8.json"
     },
     {
-      "rank": 521,
+      "rank": 520,
       "id": "c516ca8ca838f5f6",
       "name": "松浦亜弥",
       "secondary": "",
@@ -956,7 +911,7 @@
       "detailPath": "entities/artists/c516ca8ca838f5f6.json"
     },
     {
-      "rank": 522,
+      "rank": 521,
       "id": "c3bf4d4ef5f25516",
       "name": "松下優也",
       "secondary": "",
@@ -1001,7 +956,7 @@
       "detailPath": "entities/artists/c3bf4d4ef5f25516.json"
     },
     {
-      "rank": 523,
+      "rank": 522,
       "id": "679146d31c08cd2c",
       "name": "新垣結衣",
       "secondary": "",
@@ -1046,7 +1001,7 @@
       "detailPath": "entities/artists/679146d31c08cd2c.json"
     },
     {
-      "rank": 524,
+      "rank": 523,
       "id": "d7f2ff28cbfa386c",
       "name": "森口博子",
       "secondary": "",
@@ -1091,7 +1046,7 @@
       "detailPath": "entities/artists/d7f2ff28cbfa386c.json"
     },
     {
-      "rank": 525,
+      "rank": 524,
       "id": "1c936ca3246bde1e",
       "name": "神はサイコロを振らない",
       "secondary": "",
@@ -1137,7 +1092,7 @@
       "detailPath": "entities/artists/1c936ca3246bde1e.json"
     },
     {
-      "rank": 526,
+      "rank": 525,
       "id": "6fc57709dbf66b43",
       "name": "水瀬いのり",
       "secondary": "",
@@ -1182,7 +1137,7 @@
       "detailPath": "entities/artists/6fc57709dbf66b43.json"
     },
     {
-      "rank": 527,
+      "rank": 526,
       "id": "6b4f484b84e6e314",
       "name": "水曜日のカンパネラ",
       "secondary": "",
@@ -1227,7 +1182,7 @@
       "detailPath": "entities/artists/6b4f484b84e6e314.json"
     },
     {
-      "rank": 528,
+      "rank": 527,
       "id": "bdd5058e7880a806",
       "name": "西川貴教 with t.komuro",
       "secondary": "",
@@ -1272,7 +1227,7 @@
       "detailPath": "entities/artists/bdd5058e7880a806.json"
     },
     {
-      "rank": 529,
+      "rank": 528,
       "id": "ea0ea1f4e28efde8",
       "name": "赤い鳥",
       "secondary": "",
@@ -1318,7 +1273,7 @@
       "detailPath": "entities/artists/ea0ea1f4e28efde8.json"
     },
     {
-      "rank": 530,
+      "rank": 529,
       "id": "285ad7d991a2537b",
       "name": "川崎鷹也",
       "secondary": "",
@@ -1363,7 +1318,7 @@
       "detailPath": "entities/artists/285ad7d991a2537b.json"
     },
     {
-      "rank": 531,
+      "rank": 530,
       "id": "24596dfd55816510",
       "name": "川田まみ",
       "secondary": "",
@@ -1408,7 +1363,7 @@
       "detailPath": "entities/artists/24596dfd55816510.json"
     },
     {
-      "rank": 532,
+      "rank": 531,
       "id": "19895b4b4a3301ec",
       "name": "想太",
       "secondary": "",
@@ -1453,7 +1408,7 @@
       "detailPath": "entities/artists/19895b4b4a3301ec.json"
     },
     {
-      "rank": 533,
+      "rank": 532,
       "id": "a1f6b3d6aa30ea68",
       "name": "太田裕美",
       "secondary": "",
@@ -1498,7 +1453,7 @@
       "detailPath": "entities/artists/a1f6b3d6aa30ea68.json"
     },
     {
-      "rank": 534,
+      "rank": 533,
       "id": "8c32ed070c25b336",
       "name": "泰葉",
       "secondary": "",
@@ -1543,7 +1498,7 @@
       "detailPath": "entities/artists/8c32ed070c25b336.json"
     },
     {
-      "rank": 535,
+      "rank": 534,
       "id": "d224b3fbf9833c6e",
       "name": "茶太",
       "secondary": "",
@@ -1586,6 +1541,51 @@
         }
       ],
       "detailPath": "entities/artists/d224b3fbf9833c6e.json"
+    },
+    {
+      "rank": 535,
+      "id": "3e710c8dd77fc942",
+      "name": "中島愛",
+      "secondary": "",
+      "channelId": "UCd6Wtb_F8H1O3AYKDziJFeg",
+      "channelHandle": "@nanahachi-kyu",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "F6deKXIIW_k",
+          "videoTitle": "【#歌枠】ちょ～～っと豪華になった歌枠！【ナナハチキュウ】",
+          "channelName": "ナナハチキュウ / Nanahachi Ch.",
+          "publishedAt": "2026-10-06T15:04:46.568Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/F6deKXIIW_k/hqdefault.jpg",
+          "sourcePath": "sources/F6/F6deKXIIW_k.json",
+          "time": "1:03:52",
+          "seconds": 3832,
+          "songTitle": "ライオン/May'n",
+          "artist": "中島愛"
+        },
+        {
+          "videoId": "Nh8_xZsSsMk",
+          "videoTitle": "【歌枠】ボカロ、アニソン、J-POPごちゃまぜ歌枠！ #歌枠 #新人Vtuber #月凪ミナモ",
+          "channelName": "月凪ミナモ / Tsukinagi Minamo",
+          "publishedAt": "2026-10-06T14:28:06.554Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Nh8_xZsSsMk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqnVP3ETsf8xEwe_PA7Q1a1MibSQ",
+          "sourcePath": "sources/Nh/Nh8_xZsSsMk.json",
+          "time": "0:16:56",
+          "seconds": 1016,
+          "songTitle": "ライオン/ May'n",
+          "artist": "中島愛"
+        }
+      ],
+      "detailPath": "entities/artists/3e710c8dd77fc942.json"
     },
     {
       "rank": 536,

@@ -1,130 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "30d",
   "type": "songs",
   "page": 21,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27687,
+  "totalCount": 27652,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1001,
-      "id": "9f9a739df6ce511f",
-      "name": "私が明日死ぬなら",
-      "secondary": "キタニタツヤ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 12,
-      "videoCount": 12,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iR-bmTxULq8",
-          "videoTitle": "【 歌枠 | #karaoke 】30曲ノンストップ歌枠【深影 / RK Music】#ghostreaming",
-          "channelName": "深影",
-          "publishedAt": "2026-10-05T18:57:49.939Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iR-bmTxULq8/hqdefault.jpg",
-          "sourcePath": "sources/iR/iR-bmTxULq8.json",
-          "time": "0:36:13",
-          "seconds": 2173,
-          "songTitle": "私が明日死ぬなら",
-          "artist": "キタニタツヤ"
-        },
-        {
-          "videoId": "a3cr8ssiIv0",
-          "videoTitle": "【 歌枠/KARAOKE 】歌が上手くなる方法？自分の歌を好きなることだよ #歌枠 #shorts",
-          "channelName": "Sumeragi Hakuren CH | 皇 白蓮",
-          "publishedAt": "2026-10-04T16:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/a3cr8ssiIv0/hqdefault.jpg",
-          "sourcePath": "sources/a3/a3cr8ssiIv0.json",
-          "time": "0:04:30",
-          "seconds": 270,
-          "songTitle": "私が明日死ぬなら",
-          "artist": "キタニタツヤ"
-        },
-        {
-          "videoId": "cWl8agdrxjQ",
-          "videoTitle": "【歌枠/Karaoke 】週末のド深夜歌枠！夜更かしさんいらっしゃい！🦊歌うの大好きVtuber 【#新人vtuber #hajime】",
-          "channelName": "飲酒じめさん【hajime】",
-          "publishedAt": "2026-10-02T18:45:24.135Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cWl8agdrxjQ/hqdefault.jpg",
-          "sourcePath": "sources/cW/cWl8agdrxjQ.json",
-          "time": "0:39:37",
-          "seconds": 2377,
-          "songTitle": "私が明日死ぬなら",
-          "artist": "キタニタツヤ"
-        }
-      ],
-      "detailPath": "entities/songs/9f9a739df6ce511f.json"
-    },
-    {
-      "rank": 1002,
-      "id": "25dea8107cc8c2d5",
-      "name": "雫",
-      "secondary": "スキマスイッチ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 12,
-      "videoCount": 12,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vC0cWSM_dOg",
-          "videoTitle": "【 #歌枠/#朝活 】グルメトークで即終了？！高評価150チャレンジ歌枠✨🤍ROMさんも初見さんも大歓迎です！🌼【#羽ノ音ここね/#vtuber】",
-          "channelName": "・*♢CoCoLuce♢*・",
-          "publishedAt": "2026-10-04T03:09:50.919Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vC0cWSM_dOg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARIYpSUKRritb6arzTDoSeZyM08A",
-          "sourcePath": "sources/vC/vC0cWSM_dOg.json",
-          "time": "0:54:18",
-          "seconds": 3258,
-          "songTitle": "雫",
-          "artist": "スキマスイッチ"
-        },
-        {
-          "videoId": "Fw6LYBOavdE",
-          "videoTitle": "【歌雑枠📻定期 】毎週✧土曜の深夜ラジオ🌙✨葉山と夜更かし【 ＃葉山翠 / Vtuber / ＃Short 】中低音女子/ ボカロ/アニソン / 初見歓迎",
-          "channelName": "H.Midori Ch🍃葉山翠",
-          "publishedAt": "2026-10-03T17:57:48.324Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Fw6LYBOavdE/hqdefault.jpg",
-          "sourcePath": "sources/Fw/Fw6LYBOavdE.json",
-          "time": "2:19:28",
-          "seconds": 8368,
-          "songTitle": "雫",
-          "artist": "スキマスイッチ"
-        },
-        {
-          "videoId": "cNUxFaZN3Ac",
-          "videoTitle": "【 歌枠 】そこの君、ちょっと疲れてない？ singing stream【 新人vtuber/五木つかさ 】",
-          "channelName": "五木つかさ -Itsuki Tsukasa -",
-          "publishedAt": "2026-10-02T10:40:16.406Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cNUxFaZN3Ac/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQCq94jh31u3vNUn6azoXVJC3o_Q",
-          "sourcePath": "sources/cN/cNUxFaZN3Ac.json",
-          "time": "0:17:04",
-          "seconds": 1024,
-          "songTitle": "雫",
-          "artist": "スキマスイッチ"
-        }
-      ],
-      "detailPath": "entities/songs/25dea8107cc8c2d5.json"
-    },
-    {
-      "rank": 1003,
       "id": "83f780202af25326",
       "name": "春ひさぎ",
       "secondary": "ヨルシカ",
@@ -181,7 +67,7 @@
       "detailPath": "entities/songs/83f780202af25326.json"
     },
     {
-      "rank": 1004,
+      "rank": 1002,
       "id": "4cd9654999866edb",
       "name": "純潔パラドックス",
       "secondary": "水樹奈々",
@@ -238,7 +124,7 @@
       "detailPath": "entities/songs/4cd9654999866edb.json"
     },
     {
-      "rank": 1005,
+      "rank": 1003,
       "id": "912964319246199d",
       "name": "心という名の不可解",
       "secondary": "Ado",
@@ -295,7 +181,7 @@
       "detailPath": "entities/songs/912964319246199d.json"
     },
     {
-      "rank": 1006,
+      "rank": 1004,
       "id": "57d454633dd973c3",
       "name": "世界が終るまでは･･･",
       "secondary": "WANDS",
@@ -352,7 +238,7 @@
       "detailPath": "entities/songs/57d454633dd973c3.json"
     },
     {
-      "rank": 1007,
+      "rank": 1005,
       "id": "816d4fc6327b73da",
       "name": "太陽",
       "secondary": "ヨルシカ",
@@ -410,7 +296,7 @@
       "detailPath": "entities/songs/816d4fc6327b73da.json"
     },
     {
-      "rank": 1008,
+      "rank": 1006,
       "id": "ae8f56aa3a994bb7",
       "name": "昼鳶",
       "secondary": "ヨルシカ",
@@ -468,7 +354,7 @@
       "detailPath": "entities/songs/ae8f56aa3a994bb7.json"
     },
     {
-      "rank": 1009,
+      "rank": 1007,
       "id": "19c407e620d21f31",
       "name": "奈落の花",
       "secondary": "島みや えい子",
@@ -525,7 +411,7 @@
       "detailPath": "entities/songs/19c407e620d21f31.json"
     },
     {
-      "rank": 1010,
+      "rank": 1008,
       "id": "f65a037bb83dd590",
       "name": "謎",
       "secondary": "小松未歩",
@@ -582,7 +468,7 @@
       "detailPath": "entities/songs/f65a037bb83dd590.json"
     },
     {
-      "rank": 1011,
+      "rank": 1009,
       "id": "6dded5b904474cf1",
       "name": "爆弾魔",
       "secondary": "ヨルシカ",
@@ -640,7 +526,7 @@
       "detailPath": "entities/songs/6dded5b904474cf1.json"
     },
     {
-      "rank": 1012,
+      "rank": 1010,
       "id": "6e7a546bb2e00d58",
       "name": "不可幸力",
       "secondary": "Vaundy",
@@ -697,7 +583,7 @@
       "detailPath": "entities/songs/6e7a546bb2e00d58.json"
     },
     {
-      "rank": 1013,
+      "rank": 1011,
       "id": "72160388424bf8c1",
       "name": "風のゆくえ",
       "secondary": "Ado",
@@ -754,7 +640,7 @@
       "detailPath": "entities/songs/72160388424bf8c1.json"
     },
     {
-      "rank": 1014,
+      "rank": 1012,
       "id": "756c350479ca0531",
       "name": "平行線",
       "secondary": "さユり",
@@ -811,7 +697,7 @@
       "detailPath": "entities/songs/756c350479ca0531.json"
     },
     {
-      "rank": 1015,
+      "rank": 1013,
       "id": "570d29aa25899b5c",
       "name": "忘れじの言の葉",
       "secondary": "",
@@ -869,7 +755,7 @@
       "detailPath": "entities/songs/570d29aa25899b5c.json"
     },
     {
-      "rank": 1016,
+      "rank": 1014,
       "id": "7524d7a705fdf169",
       "name": "紡ぐ",
       "secondary": "とた",
@@ -926,7 +812,7 @@
       "detailPath": "entities/songs/7524d7a705fdf169.json"
     },
     {
-      "rank": 1017,
+      "rank": 1015,
       "id": "3a7142557588fb66",
       "name": "欲望に満ちた青年団",
       "secondary": "ONE OK ROCK",
@@ -983,7 +869,7 @@
       "detailPath": "entities/songs/3a7142557588fb66.json"
     },
     {
-      "rank": 1018,
+      "rank": 1016,
       "id": "a979cd9265ff25c7",
       "name": "蕾",
       "secondary": "コブクロ",
@@ -1041,7 +927,7 @@
       "detailPath": "entities/songs/a979cd9265ff25c7.json"
     },
     {
-      "rank": 1019,
+      "rank": 1017,
       "id": "9abdff472cec719d",
       "name": "贖罪",
       "secondary": "傘村トータ",
@@ -1099,7 +985,7 @@
       "detailPath": "entities/songs/9abdff472cec719d.json"
     },
     {
-      "rank": 1020,
+      "rank": 1018,
       "id": "aec81cb03eb0effc",
       "name": "あの子コンプレックス",
       "secondary": "=LOVE",
@@ -1156,7 +1042,7 @@
       "detailPath": "entities/songs/aec81cb03eb0effc.json"
     },
     {
-      "rank": 1021,
+      "rank": 1019,
       "id": "7018b68b1d651eae",
       "name": "ルミナス",
       "secondary": "ClariS",
@@ -1213,7 +1099,7 @@
       "detailPath": "entities/songs/7018b68b1d651eae.json"
     },
     {
-      "rank": 1022,
+      "rank": 1020,
       "id": "dfaf5ea152cd4584",
       "name": "栄光の架橋",
       "secondary": "ゆず",
@@ -1270,7 +1156,7 @@
       "detailPath": "entities/songs/dfaf5ea152cd4584.json"
     },
     {
-      "rank": 1023,
+      "rank": 1021,
       "id": "c5bf05da4ffed23d",
       "name": "夜に駆ける",
       "secondary": "",
@@ -1327,7 +1213,7 @@
       "detailPath": "entities/songs/c5bf05da4ffed23d.json"
     },
     {
-      "rank": 1024,
+      "rank": 1022,
       "id": "22d82193dbced03b",
       "name": "〜 もってけ!セーラーふく",
       "secondary": "泉こなた(平野綾)・柊かがみ(加藤英美里)・柊つかさ(福原香織)・高良みゆき(遠藤綾)",
@@ -1384,7 +1270,7 @@
       "detailPath": "entities/songs/22d82193dbced03b.json"
     },
     {
-      "rank": 1025,
+      "rank": 1023,
       "id": "c4169d92819ab716",
       "name": "《私とワルツを》",
       "secondary": "鬼束ちひろ",
@@ -1441,7 +1327,7 @@
       "detailPath": "entities/songs/c4169d92819ab716.json"
     },
     {
-      "rank": 1026,
+      "rank": 1024,
       "id": "781933f3f4f32a45",
       "name": "～ 異邦人 シルクロードのテーマ",
       "secondary": "久保田早紀",
@@ -1498,7 +1384,7 @@
       "detailPath": "entities/songs/781933f3f4f32a45.json"
     },
     {
-      "rank": 1027,
+      "rank": 1025,
       "id": "b551e679870fc355",
       "name": "ADAMAS",
       "secondary": "LiSA",
@@ -1555,7 +1441,7 @@
       "detailPath": "entities/songs/b551e679870fc355.json"
     },
     {
-      "rank": 1028,
+      "rank": 1026,
       "id": "3d05a67495a9996c",
       "name": "brave heart",
       "secondary": "宮崎 歩",
@@ -1612,7 +1498,7 @@
       "detailPath": "entities/songs/3d05a67495a9996c.json"
     },
     {
-      "rank": 1029,
+      "rank": 1027,
       "id": "7a6785e81ce6869b",
       "name": "Can You Keep A Secret?",
       "secondary": "宇多田 ヒカル",
@@ -1669,7 +1555,7 @@
       "detailPath": "entities/songs/7a6785e81ce6869b.json"
     },
     {
-      "rank": 1030,
+      "rank": 1028,
       "id": "2c0171ad917451cb",
       "name": "CHAINSAW BLOOD",
       "secondary": "Vaundy",
@@ -1727,7 +1613,7 @@
       "detailPath": "entities/songs/2c0171ad917451cb.json"
     },
     {
-      "rank": 1031,
+      "rank": 1029,
       "id": "aed26bd7de4dd75b",
       "name": "CORE PRIDE",
       "secondary": "UVERworld",
@@ -1784,7 +1670,7 @@
       "detailPath": "entities/songs/aed26bd7de4dd75b.json"
     },
     {
-      "rank": 1032,
+      "rank": 1030,
       "id": "46f6ea72252c7821",
       "name": "flos",
       "secondary": "R Sound Design feat. 初音ミク",
@@ -1842,7 +1728,64 @@
       "detailPath": "entities/songs/46f6ea72252c7821.json"
     },
     {
-      "rank": 1033,
+      "rank": 1031,
+      "id": "e2ce02a02e744b31",
+      "name": "give it back",
+      "secondary": "Cö shu Nie",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 11,
+      "videoCount": 11,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "RriKIUxlelY",
+          "videoTitle": "【 #歌枠 】今日を噛み締める。 - 黄昏ラヂオ。#21｜singing 歌雑【 Vsinger #ひさぎの羽休み】KARAOKE",
+          "channelName": "無々ひさぎ - Hisagi Nana -",
+          "publishedAt": "2026-10-10T09:03:50.179Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RriKIUxlelY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2uUdah7UMqun_7x0uwXSqgzMZ3A",
+          "sourcePath": "sources/Rr/RriKIUxlelY.json",
+          "time": "1:12:41",
+          "seconds": 4361,
+          "songTitle": "give it back",
+          "artist": "Cö shu Nie"
+        },
+        {
+          "videoId": "TMy5nmjanyM",
+          "videoTitle": "【#歌枠 |#朝活 ☀️】学校前に元気に(？)歌う！！！早起きに付き合って〜〜‪🥱･°‬",
+          "channelName": "-sumica-澄花",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TMy5nmjanyM/hqdefault.jpg",
+          "sourcePath": "sources/TM/TMy5nmjanyM.json",
+          "time": "0:56:41",
+          "seconds": 3401,
+          "songTitle": "give it back",
+          "artist": "Cö shu Nie"
+        },
+        {
+          "videoId": "QMCRk9v0oto",
+          "videoTitle": "【＃歌枠 / #karaoke 】ノンストップカラオケ🎤【＃もんたりうむ /初見さんも大歓迎♪】",
+          "channelName": "木乃芽もん太🦭Konome Monta💭",
+          "publishedAt": "2026-09-23T05:41:15.489Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QMCRk9v0oto/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMXFbpucyymNS2Rucb1v0phBJBwQ",
+          "sourcePath": "sources/QM/QMCRk9v0oto.json",
+          "time": "0:51:40",
+          "seconds": 3100,
+          "songTitle": "give it back",
+          "artist": "Cö shu Nie"
+        }
+      ],
+      "detailPath": "entities/songs/e2ce02a02e744b31.json"
+    },
+    {
+      "rank": 1032,
       "id": "3ce05a9d105b758c",
       "name": "God knows",
       "secondary": "",
@@ -1899,7 +1842,7 @@
       "detailPath": "entities/songs/3ce05a9d105b758c.json"
     },
     {
-      "rank": 1034,
+      "rank": 1033,
       "id": "91129b68723f0a93",
       "name": "Grip!",
       "secondary": "Every Little Thing",
@@ -1954,6 +1897,64 @@
         }
       ],
       "detailPath": "entities/songs/91129b68723f0a93.json"
+    },
+    {
+      "rank": 1034,
+      "id": "1df328d7042867cd",
+      "name": "Ham",
+      "secondary": "ずっと真夜中でいいのに。",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 11,
+      "videoCount": 11,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "shtv2FbPF-w",
+          "videoTitle": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+          "channelName": "UNIT B (Pre-Debut) - mekPark",
+          "publishedAt": "2026-10-12T11:18:44.700Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/shtv2FbPF-w/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr0u_Z1c7Ca2yZHb-3yHxNK83_Nw",
+          "sourcePath": "sources/sh/shtv2FbPF-w.json",
+          "time": "1:16:10",
+          "seconds": 4570,
+          "songTitle": "Ham",
+          "artist": "ずっと真夜中でいいのに。"
+        },
+        {
+          "videoId": "npP59mVpZR8",
+          "videoTitle": "【🌇歌枠】初見さん歓迎!! ︴明日は初めてのライブがあるらしいですよ！【Karaoke】 #shorts",
+          "channelName": "狐宵いなり - Inari Koyoi -",
+          "publishedAt": "2026-10-10T09:03:50.179Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/npP59mVpZR8/hqdefault.jpg",
+          "sourcePath": "sources/np/npP59mVpZR8.json",
+          "time": "0:57:09",
+          "seconds": 3429,
+          "songTitle": "Ham",
+          "artist": "ずっと真夜中でいいのに。"
+        },
+        {
+          "videoId": "x2FpKQXtHIs",
+          "videoTitle": "【#歌枠￤#KARAOKE 】思いを込めて。【#新人Vtuber #vsinger #夜は紺色】",
+          "channelName": "夜紺 火花 / Yakon Hibana",
+          "publishedAt": "2026-09-30T14:11:06.635Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/x2FpKQXtHIs/hqdefault.jpg",
+          "sourcePath": "sources/x2/x2FpKQXtHIs.json",
+          "time": "2:37:54",
+          "seconds": 9474,
+          "songTitle": "Ham",
+          "artist": "ずっと真夜中でいいのに。"
+        }
+      ],
+      "detailPath": "entities/songs/1df328d7042867cd.json"
     },
     {
       "rank": 1035,

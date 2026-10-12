@@ -1,16 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 94,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 4651,
+      "id": "d8be98727494eafa",
+      "name": "優しい雨",
+      "secondary": "小泉今日子",
+      "channelId": "UCwS7xvdBtL3P2V4-Su_fwhA",
+      "channelHandle": "@%E4%B8%89%E3%83%84%E6%98%9F%E3%83%AB%E3%83%8A%E3%81%A1%E3%82%83%E3%82%93",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "yhMxCAtUQcw",
+          "videoTitle": "【 #歌枠 ⋮ 元メジャー歌手Vtuber 】初見さん10人耐久！坂本真綾 様多め＋ アニソン #リクエストok ( English / 繁體中文 / Español / 한국어 Lyrics )",
+          "channelName": "Aromaの音楽",
+          "publishedAt": "2026-10-03T19:57:48.324Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/yhMxCAtUQcw/hqdefault.jpg",
+          "sourcePath": "sources/yh/yhMxCAtUQcw.json",
+          "time": "4:33:51",
+          "seconds": 16431,
+          "songTitle": "優しい雨",
+          "artist": "小泉今日子"
+        },
+        {
+          "videoId": "MpcGz3chlGI",
+          "videoTitle": "【#懐メロ歌枠 #らんちぅ寿希】「ただいま」を聞かせて！2時間ノンストップ歌枠！70、80、90年代のヒット曲をお届け【#Vtuber #KARAOKE】",
+          "channelName": "らんちぅ寿希Live",
+          "publishedAt": "2026-09-16T10:53:28.881Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MpcGz3chlGI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpLA2845mLGKag1mk-PdwX3fjIDg",
+          "sourcePath": "sources/Mp/MpcGz3chlGI.json",
+          "time": "0:13:04",
+          "seconds": 784,
+          "songTitle": "優しい雨",
+          "artist": "小泉今日子"
+        },
+        {
+          "videoId": "H13xcEZHSAg",
+          "videoTitle": "【 #歌枠 ⋮ 元メジャー歌手Vtuber 】Japanese Songs！🥂✨ #初見さん大歓迎 ( English / 繁體中文 / Español / 한국어 Lyrics )",
+          "channelName": "Aromaの音楽",
+          "publishedAt": "2026-09-09T18:40:36.206Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/H13xcEZHSAg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0KFcKMvxJ00E_2P_o8wGAc7C0Yg",
+          "sourcePath": "sources/H1/H13xcEZHSAg.json",
+          "time": "1:04:02",
+          "seconds": 3842,
+          "songTitle": "優しい雨",
+          "artist": "小泉今日子"
+        }
+      ],
+      "detailPath": "entities/songs/d8be98727494eafa.json"
+    },
+    {
+      "rank": 4652,
       "id": "aa109258d4aade79",
       "name": "遊喜にあ",
       "secondary": "",
@@ -64,7 +125,7 @@
       "detailPath": "entities/songs/aa109258d4aade79.json"
     },
     {
-      "rank": 4652,
+      "rank": 4653,
       "id": "b218bec3b0aeede7",
       "name": "容姿端麗な嘘",
       "secondary": "THE ORAL CIGARETTES",
@@ -124,7 +185,7 @@
       "detailPath": "entities/songs/b218bec3b0aeede7.json"
     },
     {
-      "rank": 4653,
+      "rank": 4654,
       "id": "553c263aa12f917f",
       "name": "踊り子",
       "secondary": "村下孝蔵",
@@ -184,7 +245,7 @@
       "detailPath": "entities/songs/553c263aa12f917f.json"
     },
     {
-      "rank": 4654,
+      "rank": 4655,
       "id": "f4850987bbef60ff",
       "name": "翼をください",
       "secondary": "桜高軽音部",
@@ -244,7 +305,7 @@
       "detailPath": "entities/songs/f4850987bbef60ff.json"
     },
     {
-      "rank": 4655,
+      "rank": 4656,
       "id": "81280494102c5868",
       "name": "雷音",
       "secondary": "ジン",
@@ -304,7 +365,7 @@
       "detailPath": "entities/songs/81280494102c5868.json"
     },
     {
-      "rank": 4656,
+      "rank": 4657,
       "id": "d587cadcf6a07f24",
       "name": "卵とじ",
       "secondary": "倉橋ヨエコ",
@@ -364,7 +425,7 @@
       "detailPath": "entities/songs/d587cadcf6a07f24.json"
     },
     {
-      "rank": 4657,
+      "rank": 4658,
       "id": "f621beb9b7e573e2",
       "name": "裏表ラバーズ",
       "secondary": "wowaka feat.初音ミク",
@@ -424,7 +485,7 @@
       "detailPath": "entities/songs/f621beb9b7e573e2.json"
     },
     {
-      "rank": 4658,
+      "rank": 4659,
       "id": "81fad2288d985e53",
       "name": "立ち上がリーヨ",
       "secondary": "T-Pistonz",
@@ -485,7 +546,7 @@
       "detailPath": "entities/songs/81fad2288d985e53.json"
     },
     {
-      "rank": 4659,
+      "rank": 4660,
       "id": "edd830c6c1001fca",
       "name": "林檎売りの泡沫少女",
       "secondary": "yukkedoluce feat. GUMI",
@@ -545,7 +606,7 @@
       "detailPath": "entities/songs/edd830c6c1001fca.json"
     },
     {
-      "rank": 4660,
+      "rank": 4661,
       "id": "00c4c0cf79d72720",
       "name": "鱗（うろこ）",
       "secondary": "秦基博",
@@ -605,7 +666,7 @@
       "detailPath": "entities/songs/00c4c0cf79d72720.json"
     },
     {
-      "rank": 4661,
+      "rank": 4662,
       "id": "0c768f5a6134fd55",
       "name": "涙がキラリ☆",
       "secondary": "スピッツ",
@@ -666,7 +727,7 @@
       "detailPath": "entities/songs/0c768f5a6134fd55.json"
     },
     {
-      "rank": 4662,
+      "rank": 4663,
       "id": "52fc3931f054b5c3",
       "name": "涙そうそう",
       "secondary": "",
@@ -723,7 +784,7 @@
       "detailPath": "entities/songs/52fc3931f054b5c3.json"
     },
     {
-      "rank": 4663,
+      "rank": 4664,
       "id": "3c0bea2721ad2660",
       "name": "恋",
       "secondary": "back number",
@@ -784,7 +845,7 @@
       "detailPath": "entities/songs/3c0bea2721ad2660.json"
     },
     {
-      "rank": 4664,
+      "rank": 4665,
       "id": "289a9fca7370db71",
       "name": "恋",
       "secondary": "奥華子",
@@ -841,7 +902,7 @@
       "detailPath": "entities/songs/289a9fca7370db71.json"
     },
     {
-      "rank": 4665,
+      "rank": 4666,
       "id": "9d32af2a50560813",
       "name": "恋する",
       "secondary": "SHISHAMO",
@@ -901,7 +962,7 @@
       "detailPath": "entities/songs/9d32af2a50560813.json"
     },
     {
-      "rank": 4666,
+      "rank": 4667,
       "id": "455d5eb4e53a82c2",
       "name": "恋文",
       "secondary": "やなぎなぎ",
@@ -960,7 +1021,7 @@
       "detailPath": "entities/songs/455d5eb4e53a82c2.json"
     },
     {
-      "rank": 4667,
+      "rank": 4668,
       "id": "5654ec1fa3b65ba0",
       "name": "蝋人形の館",
       "secondary": "聖飢魔II",
@@ -1020,7 +1081,7 @@
       "detailPath": "entities/songs/5654ec1fa3b65ba0.json"
     },
     {
-      "rank": 4668,
+      "rank": 4669,
       "id": "379d1deb3ad05f12",
       "name": "惑星ループ",
       "secondary": "ナユタン星人 feat. 初音ミク",
@@ -1080,7 +1141,7 @@
       "detailPath": "entities/songs/379d1deb3ad05f12.json"
     },
     {
-      "rank": 4669,
+      "rank": 4670,
       "id": "e004143d761fbe87",
       "name": "彗星",
       "secondary": "星街すいせい",
@@ -1137,66 +1198,6 @@
         }
       ],
       "detailPath": "entities/songs/e004143d761fbe87.json"
-    },
-    {
-      "rank": 4670,
-      "id": "9cf2f3e69934ea82",
-      "name": "檄！帝国華撃団",
-      "secondary": "横山智佐",
-      "channelId": "UCwPyvHGH9fidXrHMD3bWXRA",
-      "channelHandle": "@itk_tks",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7LxGt8ekQs8",
-          "videoTitle": "【#歌枠】朝活歌枠🌅約2時間の寝坊女神でございます。。【#MUS1CA/#Vsinger】",
-          "channelName": "MUS1CA",
-          "publishedAt": "2026-09-27T05:02:34.908Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7LxGt8ekQs8/hqdefault.jpg",
-          "sourcePath": "sources/7L/7LxGt8ekQs8.json",
-          "time": "0:18:07",
-          "seconds": 1087,
-          "songTitle": "檄！帝国華撃団",
-          "artist": "横山智佐"
-        },
-        {
-          "videoId": "uZ45InRcLwI",
-          "videoTitle": "【歌枠】高評価70いくまで終われません🎤✨久しぶりにいっぱい歌う！【#阿古屋ぱぁる / VTuber】",
-          "channelName": "阿古屋ぱぁる / Akoya Paaru",
-          "publishedAt": "2026-09-20T15:36:59.534Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/uZ45InRcLwI/hqdefault.jpg",
-          "sourcePath": "sources/uZ/uZ45InRcLwI.json",
-          "time": "2:36:05",
-          "seconds": 9365,
-          "songTitle": "檄！帝国華撃団",
-          "artist": "横山智佐"
-        },
-        {
-          "videoId": "MWUjyD4mt54",
-          "videoTitle": "【#歌枠 】聴くだけで疲れが吹き飛ぶ歌枠！【#海月シェル /vtuber 】",
-          "channelName": "海月シェル Shell Ch.",
-          "publishedAt": "2026-09-16T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MWUjyD4mt54/hqdefault.jpg",
-          "sourcePath": "sources/MW/MWUjyD4mt54.json",
-          "time": "0:24:57",
-          "seconds": 1497,
-          "songTitle": "檄！帝国華撃団",
-          "artist": "横山智佐"
-        }
-      ],
-      "detailPath": "entities/songs/9cf2f3e69934ea82.json"
     },
     {
       "rank": 4671,

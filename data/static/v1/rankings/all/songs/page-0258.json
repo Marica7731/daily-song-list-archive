@@ -1,16 +1,104 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 258,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 12851,
+      "id": "4957402d9b31f8af",
+      "name": "ハートを磨くっきゃない",
+      "secondary": "TOKIO",
+      "channelId": "UC3tOmGJANHE4J5ALfyVRqsg",
+      "channelHandle": "@soreyukeyumeko",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "cj5WIfdhi9Q",
+          "videoTitle": "【#歌枠】昭和平成自信曲！男子の歌枠・第13回 15曲【#男性Vtuber/#karaoke/#懐メロ】",
+          "channelName": "ほりぽに / horiponi",
+          "publishedAt": "2026-09-06T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cj5WIfdhi9Q/hqdefault.jpg",
+          "sourcePath": "sources/cj/cj5WIfdhi9Q.json",
+          "time": "0:18:32",
+          "seconds": 1112,
+          "songTitle": "ハートを磨くっきゃない",
+          "artist": "TOKIO"
+        },
+        {
+          "videoId": "PEMfvRYCpUI",
+          "videoTitle": "【#歌枠】初見さんみつけて🔰寝る前にすこしだけ歌の練習をするヨン🎤弾幕してね💕その２ #新人vtuber",
+          "channelName": "それゆけゆめこ / GOGO Yumeko",
+          "publishedAt": "2026-08-04T01:03:21.219Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PEMfvRYCpUI/hqdefault.jpg",
+          "sourcePath": "sources/PE/PEMfvRYCpUI.json",
+          "time": "0:19:54",
+          "seconds": 1194,
+          "songTitle": "ハートを磨くっきゃない",
+          "artist": "TOKIO"
+        }
+      ],
+      "detailPath": "entities/songs/4957402d9b31f8af.json"
+    },
+    {
+      "rank": 12852,
+      "id": "915bba769917b774",
+      "name": "ハート型ウイルス",
+      "secondary": "AKB48",
+      "channelId": "UC0Qp3yYXP6yahSG28jEOKng",
+      "channelHandle": "@Momoruri_Seiran",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "YDlZP13QP1k",
+          "videoTitle": "【歌枠】お昼下がりのお歌！休憩や作業のおともにごゆっくり！【Vtuber/天乃るあ】",
+          "channelName": "天乃るあ / Amano Lua",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/YDlZP13QP1k/hqdefault.jpg",
+          "sourcePath": "sources/YD/YDlZP13QP1k.json",
+          "time": "2:59:02",
+          "seconds": 10742,
+          "songTitle": "ハート型ウイルス",
+          "artist": "AKB48"
+        },
+        {
+          "videoId": "fgWy9hXCSXI",
+          "videoTitle": "〘 #歌枠 〙Vtuberのライブに来ませんか？🐦チケット3枚目標で歌う💙 karaoke / singing stream〘 百瑠璃せいらん / #Vtuber 〙",
+          "channelName": "百瑠璃せいらん / MomoruriSeiran CH.",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fgWy9hXCSXI/hqdefault.jpg",
+          "sourcePath": "sources/fg/fgWy9hXCSXI.json",
+          "time": "0:49:37",
+          "seconds": 2977,
+          "songTitle": "ハート型ウイルス",
+          "artist": "AKB48"
+        }
+      ],
+      "detailPath": "entities/songs/915bba769917b774.json"
+    },
+    {
+      "rank": 12853,
       "id": "b58cc9c8ffd9f0e5",
       "name": "バーバヤーガ",
       "secondary": "煮ル果実",
@@ -55,7 +143,7 @@
       "detailPath": "entities/songs/b58cc9c8ffd9f0e5.json"
     },
     {
-      "rank": 12852,
+      "rank": 12854,
       "id": "d8e41b3dbafaa32d",
       "name": "パーペキヒーロー",
       "secondary": "",
@@ -100,7 +188,7 @@
       "detailPath": "entities/songs/d8e41b3dbafaa32d.json"
     },
     {
-      "rank": 12853,
+      "rank": 12855,
       "id": "d7c1e351a0848383",
       "name": "パーリーカニくん",
       "secondary": "",
@@ -142,7 +230,7 @@
       "detailPath": "entities/songs/d7c1e351a0848383.json"
     },
     {
-      "rank": 12854,
+      "rank": 12856,
       "id": "874e8f47bb446a97",
       "name": "バイ・マイ・サイ",
       "secondary": "RADWIMPS",
@@ -187,7 +275,7 @@
       "detailPath": "entities/songs/874e8f47bb446a97.json"
     },
     {
-      "rank": 12855,
+      "rank": 12857,
       "id": "7da21115d1c1a9af",
       "name": "ハイ！問題作",
       "secondary": "UVERworld",
@@ -235,7 +323,7 @@
       "detailPath": "entities/songs/7da21115d1c1a9af.json"
     },
     {
-      "rank": 12856,
+      "rank": 12858,
       "id": "725970c2aa2367b0",
       "name": "ハイスクール・ララバイ",
       "secondary": "イモ欽トリオ",
@@ -280,7 +368,7 @@
       "detailPath": "entities/songs/725970c2aa2367b0.json"
     },
     {
-      "rank": 12857,
+      "rank": 12859,
       "id": "17329b2628c43c89",
       "name": "ハイタッチ!",
       "secondary": "サトシ(松本梨香)&ヒカリ(豊口めぐみ)",
@@ -327,7 +415,7 @@
       "detailPath": "entities/songs/17329b2628c43c89.json"
     },
     {
-      "rank": 12858,
+      "rank": 12860,
       "id": "5582ec3624e70b7b",
       "name": "ハイドアンド・シーク",
       "secondary": "19's Sound Factory ※JOYSOUND",
@@ -374,7 +462,7 @@
       "detailPath": "entities/songs/5582ec3624e70b7b.json"
     },
     {
-      "rank": 12859,
+      "rank": 12861,
       "id": "867ea25b94a34c25",
       "name": "ハイドアンド・シーク",
       "secondary": "未記載",
@@ -420,7 +508,7 @@
       "detailPath": "entities/songs/867ea25b94a34c25.json"
     },
     {
-      "rank": 12860,
+      "rank": 12862,
       "id": "ef486e1fee2d3b91",
       "name": "ハイドアンド・シーク ~Piano~",
       "secondary": "19's Sound Factory",
@@ -462,7 +550,7 @@
       "detailPath": "entities/songs/ef486e1fee2d3b91.json"
     },
     {
-      "rank": 12861,
+      "rank": 12863,
       "id": "4cbc6a0788108667",
       "name": "バイバイ",
       "secondary": "7!! ※JOYSOUND",
@@ -507,7 +595,7 @@
       "detailPath": "entities/songs/4cbc6a0788108667.json"
     },
     {
-      "rank": 12862,
+      "rank": 12864,
       "id": "ca120363325e567a",
       "name": "ハイファイレイヴァー",
       "secondary": "",
@@ -552,7 +640,7 @@
       "detailPath": "entities/songs/ca120363325e567a.json"
     },
     {
-      "rank": 12863,
+      "rank": 12865,
       "id": "5e8c830b62a1da68",
       "name": "ハイブリッドレインボウ",
       "secondary": "BUMP OF CHICKEN",
@@ -597,7 +685,7 @@
       "detailPath": "entities/songs/5e8c830b62a1da68.json"
     },
     {
-      "rank": 12864,
+      "rank": 12866,
       "id": "0b197be65d213ec0",
       "name": "はいよろこんで",
       "secondary": "",
@@ -642,7 +730,7 @@
       "detailPath": "entities/songs/0b197be65d213ec0.json"
     },
     {
-      "rank": 12865,
+      "rank": 12867,
       "id": "8c31b8ac219cbc71",
       "name": "パイロキネシス",
       "secondary": "saiB",
@@ -687,7 +775,7 @@
       "detailPath": "entities/songs/8c31b8ac219cbc71.json"
     },
     {
-      "rank": 12866,
+      "rank": 12868,
       "id": "fc15d72ad2e72d77",
       "name": "はゔぁ",
       "secondary": "ずっと真夜中でいいのに。",
@@ -735,7 +823,7 @@
       "detailPath": "entities/songs/fc15d72ad2e72d77.json"
     },
     {
-      "rank": 12867,
+      "rank": 12869,
       "id": "86e9e100f7301f5d",
       "name": "ばかみたい",
       "secondary": "桐生一馬(黒田崇矢)",
@@ -779,7 +867,7 @@
       "detailPath": "entities/songs/86e9e100f7301f5d.json"
     },
     {
-      "rank": 12868,
+      "rank": 12870,
       "id": "5a7cc3da535d68df",
       "name": "ばかみたい",
       "secondary": "桐生一馬（CV.黒田崇矢）",
@@ -824,7 +912,7 @@
       "detailPath": "entities/songs/5a7cc3da535d68df.json"
     },
     {
-      "rank": 12869,
+      "rank": 12871,
       "id": "b5c98c8a13cd29bc",
       "name": "バクチ・ダンサー",
       "secondary": "",
@@ -866,7 +954,7 @@
       "detailPath": "entities/songs/b5c98c8a13cd29bc.json"
     },
     {
-      "rank": 12870,
+      "rank": 12872,
       "id": "0a1490a56af45011",
       "name": "バグッバイ",
       "secondary": "RADWIMPS",
@@ -911,7 +999,7 @@
       "detailPath": "entities/songs/0a1490a56af45011.json"
     },
     {
-      "rank": 12871,
+      "rank": 12873,
       "id": "d023e720b55a4fef",
       "name": "バケツのおひさんつかまえた",
       "secondary": "じゃりン子チエ",
@@ -956,7 +1044,7 @@
       "detailPath": "entities/songs/d023e720b55a4fef.json"
     },
     {
-      "rank": 12872,
+      "rank": 12874,
       "id": "1aed1cdc171a0fd6",
       "name": "はじまりの国",
       "secondary": "People In The Box",
@@ -1002,7 +1090,7 @@
       "detailPath": "entities/songs/1aed1cdc171a0fd6.json"
     },
     {
-      "rank": 12873,
+      "rank": 12875,
       "id": "e1f139dee96e178c",
       "name": "はじめてのかくめい！",
       "secondary": "DIALOGUE＋",
@@ -1049,7 +1137,7 @@
       "detailPath": "entities/songs/e1f139dee96e178c.json"
     },
     {
-      "rank": 12874,
+      "rank": 12876,
       "id": "3223a9413a76e601",
       "name": "はじめに",
       "secondary": "",
@@ -1091,7 +1179,7 @@
       "detailPath": "entities/songs/3223a9413a76e601.json"
     },
     {
-      "rank": 12875,
+      "rank": 12877,
       "id": "809177aa93d60d40",
       "name": "パジャマパーティーズのうた\tパジャマパーティーズ",
       "secondary": "2024年2月",
@@ -1136,7 +1224,7 @@
       "detailPath": "entities/songs/809177aa93d60d40.json"
     },
     {
-      "rank": 12876,
+      "rank": 12878,
       "id": "077a81194aac0272",
       "name": "パステルカラー",
       "secondary": "",
@@ -1178,7 +1266,7 @@
       "detailPath": "entities/songs/077a81194aac0272.json"
     },
     {
-      "rank": 12877,
+      "rank": 12879,
       "id": "28ace01dc124878f",
       "name": "パズル",
       "secondary": "クワガタP feat. 初音ミク",
@@ -1224,7 +1312,7 @@
       "detailPath": "entities/songs/28ace01dc124878f.json"
     },
     {
-      "rank": 12878,
+      "rank": 12880,
       "id": "764a17ef669b0fee",
       "name": "バスロマンス",
       "secondary": "チャットモンチー",
@@ -1269,7 +1357,7 @@
       "detailPath": "entities/songs/764a17ef669b0fee.json"
     },
     {
-      "rank": 12879,
+      "rank": 12881,
       "id": "555f14d3378843af",
       "name": "バチモリーナ",
       "secondary": "iON!",
@@ -1314,7 +1402,7 @@
       "detailPath": "entities/songs/555f14d3378843af.json"
     },
     {
-      "rank": 12880,
+      "rank": 12882,
       "id": "a4a92fd46e7ee4c6",
       "name": "バッド･ダンス･ホール",
       "secondary": "ぱなまん",
@@ -1359,7 +1447,7 @@
       "detailPath": "entities/songs/a4a92fd46e7ee4c6.json"
     },
     {
-      "rank": 12881,
+      "rank": 12883,
       "id": "3ab16bf894fbcf32",
       "name": "バッドフォーミー",
       "secondary": "Official髭男dism",
@@ -1404,7 +1492,7 @@
       "detailPath": "entities/songs/3ab16bf894fbcf32.json"
     },
     {
-      "rank": 12882,
+      "rank": 12884,
       "id": "e931b31b9cebfc06",
       "name": "バッハの旋律を夜に聴いたせいです",
       "secondary": "サカナクション",
@@ -1449,7 +1537,7 @@
       "detailPath": "entities/songs/e931b31b9cebfc06.json"
     },
     {
-      "rank": 12883,
+      "rank": 12885,
       "id": "2529fdb137dfafea",
       "name": "はっぴぃ にゅう にゃあ",
       "secondary": "芹沢文乃(伊藤かな恵)&梅ノ森千世(井口裕香)&霧谷希(竹達彩奈)",
@@ -1494,7 +1582,7 @@
       "detailPath": "entities/songs/2529fdb137dfafea.json"
     },
     {
-      "rank": 12884,
+      "rank": 12886,
       "id": "909d214897a62e1c",
       "name": "はっぴぃ にゅう にゃあ",
       "secondary": "",
@@ -1539,7 +1627,7 @@
       "detailPath": "entities/songs/909d214897a62e1c.json"
     },
     {
-      "rank": 12885,
+      "rank": 12887,
       "id": "9c8b7f1731778dcd",
       "name": "ハッピー・ジャムジャム",
       "secondary": "しまじろう、みみりん、とりっぴい、らむりん",
@@ -1584,7 +1672,7 @@
       "detailPath": "entities/songs/9c8b7f1731778dcd.json"
     },
     {
-      "rank": 12886,
+      "rank": 12888,
       "id": "2792f976149ccf8d",
       "name": "ハッピー☆マテリアル",
       "secondary": "魔法先生ネギま！",
@@ -1630,7 +1718,7 @@
       "detailPath": "entities/songs/2792f976149ccf8d.json"
     },
     {
-      "rank": 12887,
+      "rank": 12889,
       "id": "ad09522c5e6dcd70",
       "name": "ハッピー☆彡",
       "secondary": "月島きらり starring 久住小春",
@@ -1675,7 +1763,7 @@
       "detailPath": "entities/songs/ad09522c5e6dcd70.json"
     },
     {
-      "rank": 12888,
+      "rank": 12890,
       "id": "6de7a3cdf9a660c6",
       "name": "ハッピーエンド",
       "secondary": "",
@@ -1720,7 +1808,7 @@
       "detailPath": "entities/songs/6de7a3cdf9a660c6.json"
     },
     {
-      "rank": 12889,
+      "rank": 12891,
       "id": "d60aa7750db331de",
       "name": "ハッピーエンド",
       "secondary": "back numberｻﾝ",
@@ -1766,7 +1854,7 @@
       "detailPath": "entities/songs/d60aa7750db331de.json"
     },
     {
-      "rank": 12890,
+      "rank": 12892,
       "id": "10ba645967db1d16",
       "name": "ハッピーサマーウェディング",
       "secondary": "",
@@ -1811,7 +1899,7 @@
       "detailPath": "entities/songs/10ba645967db1d16.json"
     },
     {
-      "rank": 12891,
+      "rank": 12893,
       "id": "19612bd6957a63f0",
       "name": "ハッピーサマーウエディング",
       "secondary": "モーニング娘。",
@@ -1859,7 +1947,7 @@
       "detailPath": "entities/songs/19612bd6957a63f0.json"
     },
     {
-      "rank": 12892,
+      "rank": 12894,
       "id": "4eaa0de25bce1493",
       "name": "ハッピーシンセサイザ",
       "secondary": "EasyPop",
@@ -1905,7 +1993,7 @@
       "detailPath": "entities/songs/4eaa0de25bce1493.json"
     },
     {
-      "rank": 12893,
+      "rank": 12895,
       "id": "d2b9fa03e17eee30",
       "name": "ハッピーシンセサイザ／EasyPop",
       "secondary": "",
@@ -1950,7 +2038,7 @@
       "detailPath": "entities/songs/d2b9fa03e17eee30.json"
     },
     {
-      "rank": 12894,
+      "rank": 12896,
       "id": "ea48a52ebed35575",
       "name": "ハッピーシンセサイザー",
       "secondary": "EasyPop feat.巡音ルカ・GUMI",
@@ -1995,7 +2083,7 @@
       "detailPath": "entities/songs/ea48a52ebed35575.json"
     },
     {
-      "rank": 12895,
+      "rank": 12897,
       "id": "180655db5cb21a43",
       "name": "ハッピーマテリアル",
       "secondary": "松下唯",
@@ -2043,7 +2131,7 @@
       "detailPath": "entities/songs/180655db5cb21a43.json"
     },
     {
-      "rank": 12896,
+      "rank": 12898,
       "id": "691e2feaf51d132c",
       "name": "ハッピーミルフィーユ",
       "secondary": "初星学園 (篠澤 広・十王星南・姫崎莉波)",
@@ -2088,7 +2176,7 @@
       "detailPath": "entities/songs/691e2feaf51d132c.json"
     },
     {
-      "rank": 12897,
+      "rank": 12899,
       "id": "b5355d2580826874",
       "name": "ハッピーミルフィーユ",
       "secondary": "",
@@ -2133,7 +2221,7 @@
       "detailPath": "entities/songs/b5355d2580826874.json"
     },
     {
-      "rank": 12898,
+      "rank": 12900,
       "id": "34651287550fb5bb",
       "name": "バトルフロンティア",
       "secondary": "",
@@ -2173,94 +2261,6 @@
         }
       ],
       "detailPath": "entities/songs/34651287550fb5bb.json"
-    },
-    {
-      "rank": 12899,
-      "id": "665f82482424e99d",
-      "name": "はなごろも",
-      "secondary": "Hanagoromo",
-      "channelId": "UColUk0xcCTpCW32p3da0pTA",
-      "channelHandle": "@wols_Miyamoto",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "e4OTdQGX528",
-          "videoTitle": "【 #テンアゲサマーフェス】ほとばしれ！燃えあがれ！熱さと共にGO!!!GO!!!GO!!!【 #宮本ウォルス】歌枠/KARAOKE/男性VTuber/Vsinger",
-          "channelName": "宮本ウォルス / Virtual塾講",
-          "publishedAt": "2026-08-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/e4OTdQGX528/hqdefault.jpg",
-          "sourcePath": "sources/e4/e4OTdQGX528.json",
-          "time": "0:15:30",
-          "seconds": 930,
-          "songTitle": "はなごろも",
-          "artist": "Hanagoromo"
-        },
-        {
-          "videoId": "jDjnhzhhAXA",
-          "videoTitle": "【#テンアゲサマーフェス】最後まで全力で盛り上がれるよなぁ！！？！？【#依琉海ネイロ/歌枠/VTuber】",
-          "channelName": "依琉海ネイロ / illumineiro ch.",
-          "publishedAt": "2026-08-23T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jDjnhzhhAXA/hqdefault.jpg",
-          "sourcePath": "sources/jD/jDjnhzhhAXA.json",
-          "time": "0:15:30",
-          "seconds": 930,
-          "songTitle": "はなごろも",
-          "artist": "Hanagoromo"
-        }
-      ],
-      "detailPath": "entities/songs/665f82482424e99d.json"
-    },
-    {
-      "rank": 12900,
-      "id": "b40fe8c81d058b28",
-      "name": "はなまるっ！満点スマイル♪",
-      "secondary": "サンリオピューロランド",
-      "channelId": "UCP4g36UtLmGuqEUUIPLa1fg",
-      "channelHandle": "@KarasumaPyoco",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "7Z4vyel29a8",
-          "videoTitle": "【#サンリオ楽曲歌枠リレー】はなまるおばけちゃんたちのお誕生日全力でおいわいするぞ！【烏丸ぴょこ/#ぶいぱい】",
-          "channelName": "烏丸ぴょこ / Karasuma Pyoco",
-          "publishedAt": "2026-08-14T11:30:28.383Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7Z4vyel29a8/hqdefault.jpg",
-          "sourcePath": "sources/7Z/7Z4vyel29a8.json",
-          "time": "0:03:10",
-          "seconds": 190,
-          "songTitle": "はなまるっ！満点スマイル♪",
-          "artist": "サンリオピューロランド"
-        },
-        {
-          "videoId": "0-g5eRYDipg",
-          "videoTitle": "【#サンリオ楽曲歌枠リレー】KAWAIIお歌いっぱいうたう🐰✨【ソフィア・ヴァレンタイン/にじさんじ】",
-          "channelName": "ソフィア・ヴァレンタイン / Sophia Valentine【にじさんじ】",
-          "publishedAt": "2026-08-14T07:22:41.953Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0-g5eRYDipg/hqdefault.jpg",
-          "sourcePath": "sources/0-/0-g5eRYDipg.json",
-          "time": "0:07:14",
-          "seconds": 434,
-          "songTitle": "はなまるっ！満点スマイル♪",
-          "artist": "サンリオピューロランド"
-        }
-      ],
-      "detailPath": "entities/songs/b40fe8c81d058b28.json"
     }
   ]
 }

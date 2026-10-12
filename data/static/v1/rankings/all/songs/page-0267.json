@@ -1,16 +1,108 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 267,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 13301,
+      "id": "1c80f8fa2acbd379",
+      "name": "メグメグ☆ファイアーエンドレスナイト",
+      "secondary": "samfree ft. GUMI",
+      "channelId": "UCXyAitTabBsoRclTn_Gq-eA",
+      "channelHandle": "@xxhacucoxx_Celestial",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "zGFbukaBe10",
+          "videoTitle": "✞ 歌枠だよ ꙳ ✞ 月底唱唱歌 ̖́- 要月底惹 , 要回直播聽白比 ↑↑↑ 唱歌 🎤♡ *. ┊ Square Live 白白虹",
+          "channelName": "xxhacucoxx ch. 白白虹",
+          "publishedAt": "2026-09-29T18:40:05.685Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zGFbukaBe10/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAA4SopZ4u0f5rMgUSbMXRx1jHgBg",
+          "sourcePath": "sources/zG/zGFbukaBe10.json",
+          "time": "0:47:05",
+          "seconds": 2825,
+          "songTitle": "メグメグ☆ファイアーエンドレスナイト",
+          "artist": "samfree ft. GUMI"
+        },
+        {
+          "videoId": "6mM6qM1sOzY",
+          "videoTitle": "✞ 歌枠だよ ° ✞ 想了這麼久還是決定唱歌 ... 明天鬼門開，挑戰一下家裡 __ 的權威 *.👻 ┊ Square Live 白白虹",
+          "channelName": "xxhacucoxx ch. 白白虹",
+          "publishedAt": "2026-08-12T17:50:56.835Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6mM6qM1sOzY/hqdefault.jpg",
+          "sourcePath": "sources/6m/6mM6qM1sOzY.json",
+          "time": "0:54:23",
+          "seconds": 3263,
+          "songTitle": "メグメグ☆ファイアーエンドレスナイト",
+          "artist": "samfree ft. GUMI"
+        }
+      ],
+      "detailPath": "entities/songs/1c80f8fa2acbd379.json"
+    },
+    {
+      "rank": 13302,
+      "id": "54e5099f3e07f5d7",
+      "name": "メグメル 〜cuckool mix 2007〜",
+      "secondary": "eufonius",
+      "channelId": "UCLIEOGtrywxsLztMPPKtfkA",
+      "channelHandle": "@RaraTakanashi",
+      "channelUrl": "https://www.youtube.com/@RaraTakanashi",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "歌"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "MgTDODXSAas",
+          "videoTitle": "【 歌枠┆KARAOKE 】eufoniusさん楽曲限定歌枠！心をこめて歌います ✧︎ 【VTuber】",
+          "channelName": "Rara Channel",
+          "publishedAt": "2024-10-05T22:33:45.607Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/MgTDODXSAas/maxresdefault.jpg?v=6641e621",
+          "sourcePath": "sources/Mg/MgTDODXSAas.json",
+          "time": "1:24:23",
+          "seconds": 5063,
+          "songTitle": "メグメル 〜cuckool mix 2007〜",
+          "artist": "eufonius"
+        },
+        {
+          "videoId": "Gri7OREcUKQ",
+          "videoTitle": "【 歌枠 / sing 】美少女ゲームソング歌枠します！！【Vtuber】",
+          "channelName": "Rara Channel",
+          "publishedAt": "2023-10-07T01:15:17.362Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Gri7OREcUKQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQWjxW5DsRWb1Y8KLgp__YHw-m3A",
+          "sourcePath": "sources/Gr/Gri7OREcUKQ.json",
+          "time": "0:44:46",
+          "seconds": 2686,
+          "songTitle": "メグメル 〜cuckool mix 2007〜",
+          "artist": "eufonius"
+        }
+      ],
+      "detailPath": "entities/songs/54e5099f3e07f5d7.json"
+    },
+    {
+      "rank": 13303,
       "id": "3cb6d3eb0e919460",
       "name": "めぐりあい",
       "secondary": "GACKT",
@@ -57,7 +149,7 @@
       "detailPath": "entities/songs/3cb6d3eb0e919460.json"
     },
     {
-      "rank": 13302,
+      "rank": 13304,
       "id": "5303871c596b79b2",
       "name": "メクルメ",
       "secondary": "",
@@ -102,7 +194,7 @@
       "detailPath": "entities/songs/5303871c596b79b2.json"
     },
     {
-      "rank": 13303,
+      "rank": 13305,
       "id": "c88c41353569764f",
       "name": "メクルメ",
       "secondary": "篠澤広(川村玲奈)",
@@ -147,7 +239,7 @@
       "detailPath": "entities/songs/c88c41353569764f.json"
     },
     {
-      "rank": 13304,
+      "rank": 13306,
       "id": "2e5a2f51712bfb97",
       "name": "メサイア",
       "secondary": "MEJIBRAY",
@@ -192,7 +284,7 @@
       "detailPath": "entities/songs/2e5a2f51712bfb97.json"
     },
     {
-      "rank": 13305,
+      "rank": 13307,
       "id": "3a255540491695b6",
       "name": "めざせポケモンマスター",
       "secondary": "サトシ(CV:松本梨香)",
@@ -237,7 +329,7 @@
       "detailPath": "entities/songs/3a255540491695b6.json"
     },
     {
-      "rank": 13306,
+      "rank": 13308,
       "id": "06aaebc7ee35f67a",
       "name": "めざせポケモンマスター",
       "secondary": "ポケットモンスター",
@@ -282,7 +374,7 @@
       "detailPath": "entities/songs/06aaebc7ee35f67a.json"
     },
     {
-      "rank": 13307,
+      "rank": 13309,
       "id": "1fb45bffbdb016d6",
       "name": "めざせポケモンマスター",
       "secondary": "松本梨香 ※JOYSOUND",
@@ -327,7 +419,7 @@
       "detailPath": "entities/songs/1fb45bffbdb016d6.json"
     },
     {
-      "rank": 13308,
+      "rank": 13310,
       "id": "9250d5f720356136",
       "name": "メズマライザー",
       "secondary": "",
@@ -372,7 +464,7 @@
       "detailPath": "entities/songs/9250d5f720356136.json"
     },
     {
-      "rank": 13309,
+      "rank": 13311,
       "id": "7d249dedc4155af6",
       "name": "めだかの学校",
       "secondary": "童謡",
@@ -417,7 +509,7 @@
       "detailPath": "entities/songs/7d249dedc4155af6.json"
     },
     {
-      "rank": 13310,
+      "rank": 13312,
       "id": "136a3f370d58efb6",
       "name": "めっちゃパイレーツ",
       "secondary": "かずき山盛り",
@@ -463,7 +555,7 @@
       "detailPath": "entities/songs/136a3f370d58efb6.json"
     },
     {
-      "rank": 13311,
+      "rank": 13313,
       "id": "ed75ca625e929204",
       "name": "メトロノーム",
       "secondary": "",
@@ -508,7 +600,7 @@
       "detailPath": "entities/songs/ed75ca625e929204.json"
     },
     {
-      "rank": 13312,
+      "rank": 13314,
       "id": "17fcc7fef83ab958",
       "name": "メトロポリタン",
       "secondary": "なきごと",
@@ -554,7 +646,7 @@
       "detailPath": "entities/songs/17fcc7fef83ab958.json"
     },
     {
-      "rank": 13313,
+      "rank": 13315,
       "id": "66407797a4b3808c",
       "name": "メトロポリタン美術館",
       "secondary": "大貫妙子",
@@ -600,7 +692,7 @@
       "detailPath": "entities/songs/66407797a4b3808c.json"
     },
     {
-      "rank": 13314,
+      "rank": 13316,
       "id": "7ed0247658a360fe",
       "name": "めにしゅき♡ラッシュっしゅ！",
       "secondary": "",
@@ -645,7 +737,7 @@
       "detailPath": "entities/songs/7ed0247658a360fe.json"
     },
     {
-      "rank": 13315,
+      "rank": 13317,
       "id": "ab880a7f85568981",
       "name": "メニメニマニマニ",
       "secondary": "高宮なすの",
@@ -690,7 +782,7 @@
       "detailPath": "entities/songs/ab880a7f85568981.json"
     },
     {
-      "rank": 13316,
+      "rank": 13318,
       "id": "38af1b2e70286ee4",
       "name": "メビウス",
       "secondary": "",
@@ -735,7 +827,7 @@
       "detailPath": "entities/songs/38af1b2e70286ee4.json"
     },
     {
-      "rank": 13317,
+      "rank": 13319,
       "id": "84fa4a10d58be65a",
       "name": "メフィスト",
       "secondary": "",
@@ -777,7 +869,7 @@
       "detailPath": "entities/songs/84fa4a10d58be65a.json"
     },
     {
-      "rank": 13318,
+      "rank": 13320,
       "id": "e3e01c9863eac666",
       "name": "メフィスト",
       "secondary": "嬢王蜂",
@@ -822,7 +914,7 @@
       "detailPath": "entities/songs/e3e01c9863eac666.json"
     },
     {
-      "rank": 13319,
+      "rank": 13321,
       "id": "388a53226c315556",
       "name": "メフィスト(【推しの子】)",
       "secondary": "女王蜂",
@@ -867,7 +959,7 @@
       "detailPath": "entities/songs/388a53226c315556.json"
     },
     {
-      "rank": 13320,
+      "rank": 13322,
       "id": "54015fed99449640",
       "name": "メメント・モリ",
       "secondary": "大森元貴",
@@ -912,7 +1004,7 @@
       "detailPath": "entities/songs/54015fed99449640.json"
     },
     {
-      "rank": 13321,
+      "rank": 13323,
       "id": "813df702708425e1",
       "name": "メランコリー",
       "secondary": "サイダーガール",
@@ -958,7 +1050,7 @@
       "detailPath": "entities/songs/813df702708425e1.json"
     },
     {
-      "rank": 13322,
+      "rank": 13324,
       "id": "2d82881761bfbd0a",
       "name": "メランコリック",
       "secondary": "Junky feat.鏡音リン ※JOYSOUND",
@@ -1005,7 +1097,7 @@
       "detailPath": "entities/songs/2d82881761bfbd0a.json"
     },
     {
-      "rank": 13323,
+      "rank": 13325,
       "id": "7c4106a7487b5757",
       "name": "メランコリック",
       "secondary": "/【鏡音リン】",
@@ -1050,7 +1142,7 @@
       "detailPath": "entities/songs/7c4106a7487b5757.json"
     },
     {
-      "rank": 13324,
+      "rank": 13326,
       "id": "ae8fd358899fc5ad",
       "name": "メリージェーン",
       "secondary": "つのだ☆ひろ",
@@ -1095,7 +1187,7 @@
       "detailPath": "entities/songs/ae8fd358899fc5ad.json"
     },
     {
-      "rank": 13325,
+      "rank": 13327,
       "id": "44a8425ecdaeff7c",
       "name": "メリクリ",
       "secondary": "",
@@ -1140,7 +1232,7 @@
       "detailPath": "entities/songs/44a8425ecdaeff7c.json"
     },
     {
-      "rank": 13326,
+      "rank": 13328,
       "id": "33ca07848a9f3462",
       "name": "メリケンサックに特攻です",
       "secondary": "DOKONJOFINGER",
@@ -1185,7 +1277,7 @@
       "detailPath": "entities/songs/33ca07848a9f3462.json"
     },
     {
-      "rank": 13327,
+      "rank": 13329,
       "id": "ef5f5da9b4d4f2c5",
       "name": "メリッサ",
       "secondary": "ポルノグラフィティ // 鋼の錬金術師",
@@ -1233,7 +1325,7 @@
       "detailPath": "entities/songs/ef5f5da9b4d4f2c5.json"
     },
     {
-      "rank": 13328,
+      "rank": 13330,
       "id": "064e16a2297242c6",
       "name": "メリッサ",
       "secondary": "未記載",
@@ -1279,7 +1371,7 @@
       "detailPath": "entities/songs/064e16a2297242c6.json"
     },
     {
-      "rank": 13329,
+      "rank": 13331,
       "id": "fbbf78dbb5f5aa50",
       "name": "メリッサ",
       "secondary": "鋼の錬金術師",
@@ -1324,7 +1416,7 @@
       "detailPath": "entities/songs/fbbf78dbb5f5aa50.json"
     },
     {
-      "rank": 13330,
+      "rank": 13332,
       "id": "9b917ee6ffd567e6",
       "name": "メリッサ/ポルノグラフィティ",
       "secondary": "鋼の錬金術師",
@@ -1369,7 +1461,7 @@
       "detailPath": "entities/songs/9b917ee6ffd567e6.json"
     },
     {
-      "rank": 13331,
+      "rank": 13333,
       "id": "3a30cf14d3469735",
       "name": "メリメイキング 〜凸凹な毎日と、あいかわらずな僕ら〜",
       "secondary": "アンティック-珈琲店",
@@ -1417,7 +1509,7 @@
       "detailPath": "entities/songs/3a30cf14d3469735.json"
     },
     {
-      "rank": 13332,
+      "rank": 13334,
       "id": "886c03f2b8c05225",
       "name": "メリュー",
       "secondary": "n-buna feat.初音ミク ※JOYSOUND",
@@ -1462,7 +1554,7 @@
       "detailPath": "entities/songs/886c03f2b8c05225.json"
     },
     {
-      "rank": 13333,
+      "rank": 13335,
       "id": "1c2afa9ddb8352d2",
       "name": "メリュー",
       "secondary": "",
@@ -1507,7 +1599,7 @@
       "detailPath": "entities/songs/1c2afa9ddb8352d2.json"
     },
     {
-      "rank": 13334,
+      "rank": 13336,
       "id": "ab62c4b613a9b75b",
       "name": "メルト",
       "secondary": "supercell〈2007〉",
@@ -1554,7 +1646,7 @@
       "detailPath": "entities/songs/ab62c4b613a9b75b.json"
     },
     {
-      "rank": 13335,
+      "rank": 13337,
       "id": "d7adcd1a589bd28f",
       "name": "メルト",
       "secondary": "ボカロP",
@@ -1602,7 +1694,7 @@
       "detailPath": "entities/songs/d7adcd1a589bd28f.json"
     },
     {
-      "rank": 13336,
+      "rank": 13338,
       "id": "cbe22e796eb808a0",
       "name": "メルト",
       "secondary": "Supercell 様",
@@ -1647,7 +1739,7 @@
       "detailPath": "entities/songs/cbe22e796eb808a0.json"
     },
     {
-      "rank": 13337,
+      "rank": 13339,
       "id": "c2892f5043c16331",
       "name": "メルト",
       "secondary": "Melt ryo feat. 初音ミク / ryo feat. Hatsune Miku",
@@ -1692,7 +1784,7 @@
       "detailPath": "entities/songs/c2892f5043c16331.json"
     },
     {
-      "rank": 13338,
+      "rank": 13340,
       "id": "e8b470acde084f33",
       "name": "メルト",
       "secondary": "初音ミク",
@@ -1737,7 +1829,7 @@
       "detailPath": "entities/songs/e8b470acde084f33.json"
     },
     {
-      "rank": 13339,
+      "rank": 13341,
       "id": "27eab02f21de861f",
       "name": "メルト CPK! Remix (かぐや ver.)",
       "secondary": "ryo (supercell),かぐや(CV.夏吉ゆうこ)",
@@ -1782,7 +1874,7 @@
       "detailPath": "entities/songs/27eab02f21de861f.json"
     },
     {
-      "rank": 13340,
+      "rank": 13342,
       "id": "65fb43beda25b2e7",
       "name": "メルヘンデビュー！",
       "secondary": "安部菜々(三宅麻理恵)",
@@ -1830,7 +1922,7 @@
       "detailPath": "entities/songs/65fb43beda25b2e7.json"
     },
     {
-      "rank": 13341,
+      "rank": 13343,
       "id": "4e6fea4bd36b4b88",
       "name": "メルヘンデビュー！",
       "secondary": "安部菜々（CV:三宅麻理恵）",
@@ -1875,7 +1967,7 @@
       "detailPath": "entities/songs/4e6fea4bd36b4b88.json"
     },
     {
-      "rank": 13342,
+      "rank": 13344,
       "id": "7eaca4f147c0e1f9",
       "name": "メロウ",
       "secondary": "椎名林檎",
@@ -1920,7 +2012,7 @@
       "detailPath": "entities/songs/7eaca4f147c0e1f9.json"
     },
     {
-      "rank": 13343,
+      "rank": 13345,
       "id": "1cb1b70874f42cc0",
       "name": "メロスのように -LONELY WAY",
       "secondary": "蒼き流星SPTレイズナー",
@@ -1965,7 +2057,7 @@
       "detailPath": "entities/songs/1cb1b70874f42cc0.json"
     },
     {
-      "rank": 13344,
+      "rank": 13346,
       "id": "d148707ee85503b2",
       "name": "メロディー",
       "secondary": "玉置浩二ｻﾝ",
@@ -2011,7 +2103,7 @@
       "detailPath": "entities/songs/d148707ee85503b2.json"
     },
     {
-      "rank": 13345,
+      "rank": 13347,
       "id": "18fe72e985b9cd35",
       "name": "メロンソーダ",
       "secondary": "aiko",
@@ -2056,7 +2148,7 @@
       "detailPath": "entities/songs/18fe72e985b9cd35.json"
     },
     {
-      "rank": 13346,
+      "rank": 13348,
       "id": "728d32e3fa2f5ce7",
       "name": "メンタルチェーンソー",
       "secondary": "P丸様。",
@@ -2101,7 +2193,7 @@
       "detailPath": "entities/songs/728d32e3fa2f5ce7.json"
     },
     {
-      "rank": 13347,
+      "rank": 13349,
       "id": "77db512c7a3ea610",
       "name": "メンタルチェンソー",
       "secondary": "",
@@ -2146,7 +2238,7 @@
       "detailPath": "entities/songs/77db512c7a3ea610.json"
     },
     {
-      "rank": 13348,
+      "rank": 13350,
       "id": "d1935066b8497c49",
       "name": "メンタルチェンソー",
       "secondary": "かいりきベア",
@@ -2189,99 +2281,6 @@
         }
       ],
       "detailPath": "entities/songs/d1935066b8497c49.json"
-    },
-    {
-      "rank": 13349,
-      "id": "77237e0526e07fb2",
-      "name": "めんどくさいや",
-      "secondary": "瀬名航",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "p2JQxAkHqjQ",
-          "videoTitle": "【歌枠】初見さん大歓迎！真夜中に溶け込むような歌声をあなたに【XIDEN/RK Music】#karaoke",
-          "channelName": "XIDEN",
-          "publishedAt": "2026-09-16T18:20:41.425Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/p2JQxAkHqjQ/hqdefault.jpg",
-          "sourcePath": "sources/p2/p2JQxAkHqjQ.json",
-          "time": "1:29:43",
-          "seconds": 5383,
-          "songTitle": "めんどくさいや",
-          "artist": "瀬名航"
-        },
-        {
-          "videoId": "8Bz0MDVhCf4",
-          "videoTitle": "【#歌枠/Karaoke】火曜日の✨歌枠ワクワク【#リリーパッド/#vtuber】#Shorts #VSinger",
-          "channelName": "リリーパッドLilypad",
-          "publishedAt": "2026-07-14T23:57:32.690Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/8Bz0MDVhCf4/hqdefault.jpg",
-          "sourcePath": "sources/8B/8Bz0MDVhCf4.json",
-          "time": "1:52:56",
-          "seconds": 6776,
-          "songTitle": "めんどくさいや",
-          "artist": "瀬名航"
-        }
-      ],
-      "detailPath": "entities/songs/77237e0526e07fb2.json"
-    },
-    {
-      "rank": 13350,
-      "id": "a0df7f7b1c79209a",
-      "name": "め組のひと",
-      "secondary": "鈴木雅之",
-      "channelId": "UCxpmipyCaJ07EHwKlrIKHkA",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "today"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "_6ZRDyvsUpo",
-          "videoTitle": "【 #歌枠┆#Karaoke 】高評価300耐久(＋達成時告知！)👍Aiming for 300 likes (+will announce when hit!)【 #なれたん┆#Vsinger 】",
-          "channelName": "なれたん Naraetan Ch.",
-          "publishedAt": "2026-07-24T14:41:20.005Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_6ZRDyvsUpo/hqdefault.jpg",
-          "sourcePath": "sources/_6/_6ZRDyvsUpo.json",
-          "time": "3:53:58",
-          "seconds": 14038,
-          "songTitle": "め組のひと",
-          "artist": "鈴木雅之"
-        },
-        {
-          "videoId": "ZoORmHRAnKY",
-          "videoTitle": "【歌枠】日曜日は歌で疲れを吹き飛ばす！【 鴉紋ゆうく/Vtuber 】",
-          "channelName": "鴉紋ゆうく / Amon Yuuku",
-          "publishedAt": "2026-07-12T14:12:35.597Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZoORmHRAnKY/hqdefault.jpg",
-          "sourcePath": "sources/Zo/ZoORmHRAnKY.json",
-          "time": "0:58:16",
-          "seconds": 3496,
-          "songTitle": "め組のひと",
-          "artist": "鈴木雅之"
-        }
-      ],
-      "detailPath": "entities/songs/a0df7f7b1c79209a.json"
     }
   ]
 }

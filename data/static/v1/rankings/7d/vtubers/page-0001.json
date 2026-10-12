@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "7d",
   "type": "vtubers",
   "page": 1,
@@ -68,64 +68,6 @@
     },
     {
       "rank": 2,
-      "id": "91e99bae4b9612fc",
-      "name": "音魂ヒビク / Otodama Hibiku",
-      "secondary": "",
-      "channelId": "UCGKNbtDv8OTa8559buDu-Gw",
-      "channelHandle": "@otodama_hibiku",
-      "channelUrl": "",
-      "occurrenceCount": 79,
-      "videoCount": 6,
-      "songCount": 74,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "iRuynqpvJL0",
-          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-12T09:45:02.567Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
-          "sourcePath": "sources/iR/iRuynqpvJL0.json",
-          "time": "0:07:20",
-          "seconds": 440,
-          "songTitle": "蕾",
-          "artist": "コブクロ"
-        },
-        {
-          "videoId": "KWqw4s_yOIA",
-          "videoTitle": "【#歌枠】週末癒しの弾き語り / Singing stream【 #vtuber 】",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-09T18:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/KWqw4s_yOIA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdnv_b5-lMZ05zRj99M8AV9-KRCA",
-          "sourcePath": "sources/KW/KWqw4s_yOIA.json",
-          "time": "0:04:14",
-          "seconds": 254,
-          "songTitle": "ギブス",
-          "artist": "椎名林檎"
-        },
-        {
-          "videoId": "K1-tWs1Tchg",
-          "videoTitle": "〖歌枠〗リクエスト拾う！Chill弾き語り🎸〖Vsinger〗",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-08T15:47:12.988Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/K1-tWs1Tchg/hqdefault.jpg",
-          "sourcePath": "sources/K1/K1-tWs1Tchg.json",
-          "time": "0:17:24",
-          "seconds": 1044,
-          "songTitle": "FLY ME TO THE MOON",
-          "artist": "クレア"
-        }
-      ],
-      "detailPath": "entities/vtubers/91e99bae4b9612fc.json"
-    },
-    {
-      "rank": 3,
       "id": "49d5762392ebbe53",
       "name": "飲酒じめさん【hajime】",
       "secondary": "",
@@ -182,7 +124,7 @@
       "detailPath": "entities/vtubers/49d5762392ebbe53.json"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "b40a387d7c3f8931",
       "name": "coconoema ch.心祈エマ",
       "secondary": "",
@@ -215,7 +157,7 @@
       "detailPath": "entities/vtubers/b40a387d7c3f8931.json"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "e753c8a42873da48",
       "name": "RUKI Ch. 凰牙るき",
       "secondary": "",
@@ -272,7 +214,7 @@
       "detailPath": "entities/vtubers/e753c8a42873da48.json"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "b971cb43e6d48128",
       "name": "深影",
       "secondary": "",
@@ -327,6 +269,64 @@
         }
       ],
       "detailPath": "entities/vtubers/b971cb43e6d48128.json"
+    },
+    {
+      "rank": 6,
+      "id": "91e99bae4b9612fc",
+      "name": "音魂ヒビク / Otodama Hibiku",
+      "secondary": "",
+      "channelId": "UCGKNbtDv8OTa8559buDu-Gw",
+      "channelHandle": "@otodama_hibiku",
+      "channelUrl": "",
+      "occurrenceCount": 68,
+      "videoCount": 5,
+      "songCount": 63,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "iRuynqpvJL0",
+          "videoTitle": "〖歌枠〗初見歓迎🎵夕方癒しの弾き語り Singing Stream〖Vtuber/Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-12T09:45:02.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/iRuynqpvJL0/hqdefault.jpg",
+          "sourcePath": "sources/iR/iRuynqpvJL0.json",
+          "time": "0:07:20",
+          "seconds": 440,
+          "songTitle": "蕾",
+          "artist": "コブクロ"
+        },
+        {
+          "videoId": "KWqw4s_yOIA",
+          "videoTitle": "【#歌枠】週末癒しの弾き語り / Singing stream【 #vtuber 】",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-09T18:24:54.011Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KWqw4s_yOIA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdnv_b5-lMZ05zRj99M8AV9-KRCA",
+          "sourcePath": "sources/KW/KWqw4s_yOIA.json",
+          "time": "0:04:14",
+          "seconds": 254,
+          "songTitle": "ギブス",
+          "artist": "椎名林檎"
+        },
+        {
+          "videoId": "K1-tWs1Tchg",
+          "videoTitle": "〖歌枠〗リクエスト拾う！Chill弾き語り🎸〖Vsinger〗",
+          "channelName": "音魂ヒビク / Otodama Hibiku",
+          "publishedAt": "2026-10-08T15:47:12.988Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/K1-tWs1Tchg/hqdefault.jpg",
+          "sourcePath": "sources/K1/K1-tWs1Tchg.json",
+          "time": "0:17:24",
+          "seconds": 1044,
+          "songTitle": "FLY ME TO THE MOON",
+          "artist": "クレア"
+        }
+      ],
+      "detailPath": "entities/vtubers/91e99bae4b9612fc.json"
     },
     {
       "rank": 7,

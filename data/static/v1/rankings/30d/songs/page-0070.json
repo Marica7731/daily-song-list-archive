@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "30d",
   "type": "songs",
   "page": 70,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27687,
+  "totalCount": 27652,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 3451,
+      "id": "76a68babfbc68bd8",
+      "name": "Feeling",
+      "secondary": "Mrs. GREEN APPLE",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "psZChUMvwbc",
+          "videoTitle": "【#歌枠 #karaoke】ミセス縛り❄️✨アルバム「POPS(Mrs. GREEN APPLE)」販売記念【Vtuber/沫雪ゆうり】#shorts #初見さん大歓迎",
+          "channelName": "沫雪ゆうり Yuri_awayuki",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/psZChUMvwbc/hqdefault.jpg",
+          "sourcePath": "sources/ps/psZChUMvwbc.json",
+          "time": "2:45:26",
+          "seconds": 9926,
+          "songTitle": "Feeling",
+          "artist": "Mrs. GREEN APPLE"
+        },
+        {
+          "videoId": "Tz23CHtz_oE",
+          "videoTitle": "【 歌枠┋KARAOKE 】リクエストOK🙆🏻‍♀️ 初見さん大歓迎な1時間歌枠🎙️【 #sorasolive┋ミソラソラ 】",
+          "channelName": "ミソラソラ - Misorasora",
+          "publishedAt": "2026-09-29T10:42:09.439Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Tz23CHtz_oE/hqdefault.jpg",
+          "sourcePath": "sources/Tz/Tz23CHtz_oE.json",
+          "time": "0:54:32",
+          "seconds": 3272,
+          "songTitle": "Feeling",
+          "artist": "Mrs. GREEN APPLE"
+        },
+        {
+          "videoId": "xHX_za9_gfc",
+          "videoTitle": "【 #歌枠 】 男性ボーカル🕊大好きな曲を詰め込みます！！！￤#みおんえあ【 #vsinger / #karaoke 】",
+          "channelName": "MIONch.蒼羽未音",
+          "publishedAt": "2026-09-25T14:07:10.639Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xHX_za9_gfc/hqdefault.jpg",
+          "sourcePath": "sources/xH/xHX_za9_gfc.json",
+          "time": "1:08:02",
+          "seconds": 4082,
+          "songTitle": "Feeling",
+          "artist": "Mrs. GREEN APPLE"
+        }
+      ],
+      "detailPath": "entities/songs/76a68babfbc68bd8.json"
+    },
+    {
+      "rank": 3452,
       "id": "370c22b5c438278d",
       "name": "Fields of hope",
       "secondary": "ラクス・クライン（田中理恵）",
@@ -67,7 +124,7 @@
       "detailPath": "entities/songs/370c22b5c438278d.json"
     },
     {
-      "rank": 3452,
+      "rank": 3453,
       "id": "08f4a859ea71fa2a",
       "name": "Fighting My Way",
       "secondary": "花海咲季",
@@ -124,7 +181,7 @@
       "detailPath": "entities/songs/08f4a859ea71fa2a.json"
     },
     {
-      "rank": 3453,
+      "rank": 3454,
       "id": "c725e0a2b42e3677",
       "name": "Fire◎Flower",
       "secondary": "absorb",
@@ -178,7 +235,7 @@
       "detailPath": "entities/songs/c725e0a2b42e3677.json"
     },
     {
-      "rank": 3454,
+      "rank": 3455,
       "id": "532a5bab6d693853",
       "name": "First Love",
       "secondary": "",
@@ -235,7 +292,7 @@
       "detailPath": "entities/songs/532a5bab6d693853.json"
     },
     {
-      "rank": 3455,
+      "rank": 3456,
       "id": "66aeaade107b3c91",
       "name": "flower",
       "secondary": "L'Arc〜en〜Ciel",
@@ -292,7 +349,7 @@
       "detailPath": "entities/songs/66aeaade107b3c91.json"
     },
     {
-      "rank": 3456,
+      "rank": 3457,
       "id": "1c354c1abea2fb2e",
       "name": "Flowerwall",
       "secondary": "米津玄師",
@@ -350,7 +407,7 @@
       "detailPath": "entities/songs/1c354c1abea2fb2e.json"
     },
     {
-      "rank": 3457,
+      "rank": 3458,
       "id": "0472154494940c31",
       "name": "Fly Me to the Moon",
       "secondary": "Kaye Ballard",
@@ -407,7 +464,7 @@
       "detailPath": "entities/songs/0472154494940c31.json"
     },
     {
-      "rank": 3458,
+      "rank": 3459,
       "id": "f7942844767b47ac",
       "name": "Fly Me to the Moon",
       "secondary": "Frank Sinatra",
@@ -464,7 +521,7 @@
       "detailPath": "entities/songs/f7942844767b47ac.json"
     },
     {
-      "rank": 3459,
+      "rank": 3460,
       "id": "9a01476b1123ab13",
       "name": "Flyer!",
       "secondary": "Chinozo",
@@ -521,7 +578,7 @@
       "detailPath": "entities/songs/9a01476b1123ab13.json"
     },
     {
-      "rank": 3460,
+      "rank": 3461,
       "id": "7a5687a9d4b66f02",
       "name": "FOR REAL",
       "secondary": "徳山秀典",
@@ -578,7 +635,7 @@
       "detailPath": "entities/songs/7a5687a9d4b66f02.json"
     },
     {
-      "rank": 3461,
+      "rank": 3462,
       "id": "e7859ba217da3f65",
       "name": "For フルーツバスケット",
       "secondary": "岡崎律子 ／ フルーツバスケット(2001年)",
@@ -632,7 +689,7 @@
       "detailPath": "entities/songs/e7859ba217da3f65.json"
     },
     {
-      "rank": 3462,
+      "rank": 3463,
       "id": "f066e9ec9d960818",
       "name": "Forever Love",
       "secondary": "X Japan",
@@ -689,7 +746,7 @@
       "detailPath": "entities/songs/f066e9ec9d960818.json"
     },
     {
-      "rank": 3463,
+      "rank": 3464,
       "id": "d106a0ae5ea702aa",
       "name": "ft",
       "secondary": "FUNKIST",
@@ -746,7 +803,7 @@
       "detailPath": "entities/songs/d106a0ae5ea702aa.json"
     },
     {
-      "rank": 3464,
+      "rank": 3465,
       "id": "e4323df86a2b141d",
       "name": "Get Wild",
       "secondary": "TM NETWORK(TMN)",
@@ -803,7 +860,7 @@
       "detailPath": "entities/songs/e4323df86a2b141d.json"
     },
     {
-      "rank": 3465,
+      "rank": 3466,
       "id": "abdc55dc42ff4e73",
       "name": "Gift",
       "secondary": "坂本真綾",
@@ -860,7 +917,7 @@
       "detailPath": "entities/songs/abdc55dc42ff4e73.json"
     },
     {
-      "rank": 3466,
+      "rank": 3467,
       "id": "a2afa7026a625740",
       "name": "GIFT",
       "secondary": "Mr.Children",
@@ -917,7 +974,7 @@
       "detailPath": "entities/songs/a2afa7026a625740.json"
     },
     {
-      "rank": 3467,
+      "rank": 3468,
       "id": "e5da6dc5626d5cba",
       "name": "Ginger",
       "secondary": "TOMOO",
@@ -975,7 +1032,7 @@
       "detailPath": "entities/songs/e5da6dc5626d5cba.json"
     },
     {
-      "rank": 3468,
+      "rank": 3469,
       "id": "8c3599a0b35c000c",
       "name": "Girl",
       "secondary": "秦基博",
@@ -1032,7 +1089,7 @@
       "detailPath": "entities/songs/8c3599a0b35c000c.json"
     },
     {
-      "rank": 3469,
+      "rank": 3470,
       "id": "a5256f152d7c3fcb",
       "name": "GLORIA",
       "secondary": "YUI",
@@ -1089,7 +1146,7 @@
       "detailPath": "entities/songs/a5256f152d7c3fcb.json"
     },
     {
-      "rank": 3470,
+      "rank": 3471,
       "id": "8d96ce93cd840a25",
       "name": "God knows",
       "secondary": "涼宮ハルヒ(C.V.平野綾) ※JOYSOUND",
@@ -1146,7 +1203,7 @@
       "detailPath": "entities/songs/8d96ce93cd840a25.json"
     },
     {
-      "rank": 3471,
+      "rank": 3472,
       "id": "7e4699679f4d0cf8",
       "name": "Golden",
       "secondary": "HUNTR/X",
@@ -1204,7 +1261,7 @@
       "detailPath": "entities/songs/7e4699679f4d0cf8.json"
     },
     {
-      "rank": 3472,
+      "rank": 3473,
       "id": "21ae1d2facb27981",
       "name": "gONE",
       "secondary": "鬱P",
@@ -1261,7 +1318,7 @@
       "detailPath": "entities/songs/21ae1d2facb27981.json"
     },
     {
-      "rank": 3473,
+      "rank": 3474,
       "id": "080f7d785c023b31",
       "name": "Good Morning World!",
       "secondary": "BURNOUT SYNDROMES",
@@ -1316,63 +1373,6 @@
         }
       ],
       "detailPath": "entities/songs/080f7d785c023b31.json"
-    },
-    {
-      "rank": 3474,
-      "id": "d93df875769fcf6f",
-      "name": "Goodbye Happiness",
-      "secondary": "宇多田ヒカル",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "bb7sarMrEDk",
-          "videoTitle": "🏮 実写 歌枠｜おはようございます♪連休明けの朝活歌枠ですっ #shorts #Vtuber ∞ 響架",
-          "channelName": "Kyoka Ch. -響架-",
-          "publishedAt": "2026-09-24T01:47:21.602Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bb7sarMrEDk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApoihylAAvp4j65bdUZnJ84Gyl0Q",
-          "sourcePath": "sources/bb/bb7sarMrEDk.json",
-          "time": "0:41:09",
-          "seconds": 2469,
-          "songTitle": "Goodbye Happiness",
-          "artist": "宇多田ヒカル"
-        },
-        {
-          "videoId": "g2FbufVnCjs",
-          "videoTitle": "【#歌枠｜#初見さん大歓迎】１週間おつかれさま！【#やくも立つ ｜#vsinger ｜#karaoke 】",
-          "channelName": "八雲うつろ(YakumoUtsuro)",
-          "publishedAt": "2026-09-13T11:06:34.776Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/g2FbufVnCjs/hqdefault.jpg",
-          "sourcePath": "sources/g2/g2FbufVnCjs.json",
-          "time": "3:13:50",
-          "seconds": 11630,
-          "songTitle": "Goodbye Happiness",
-          "artist": "宇多田ヒカル"
-        },
-        {
-          "videoId": "dqRLPrddgUE",
-          "videoTitle": "【 歌枠 / Karaoke 】なつめの元気をあげる！心に響く歌枠はここ！🏠🌤️【 初見さん歓迎 】",
-          "channelName": "なつかしちゃん",
-          "publishedAt": "2026-09-12T15:07:05.434Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/dqRLPrddgUE/hqdefault.jpg",
-          "sourcePath": "sources/dq/dqRLPrddgUE.json",
-          "time": "1:04:01",
-          "seconds": 3841,
-          "songTitle": "Goodbye Happiness",
-          "artist": "宇多田ヒカル"
-        }
-      ],
-      "detailPath": "entities/songs/d93df875769fcf6f.json"
     },
     {
       "rank": 3475,
@@ -2715,6 +2715,63 @@
     },
     {
       "rank": 3499,
+      "id": "8a741a5e88e08ad5",
+      "name": "if",
+      "secondary": "DA PUMP",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "FEDu5xJ2a-I",
+          "videoTitle": "⋮ #歌枠 No.141 ⋮ メジャーデビューVsingerによるカッコいい曲！この歌声聴いてください✧ #NEPHLA",
+          "channelName": "NEPHLA",
+          "publishedAt": "2026-10-05T14:43:46.809Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/FEDu5xJ2a-I/hqdefault.jpg",
+          "sourcePath": "sources/FE/FEDu5xJ2a-I.json",
+          "time": "0:36:46",
+          "seconds": 2206,
+          "songTitle": "if",
+          "artist": "DA PUMP"
+        },
+        {
+          "videoId": "bcekJnzhgvw",
+          "videoTitle": "【 #歌枠 二星ぼに】P-Fes直前歌枠！歌って気合いを入れるぞ～【 #vtuber #singing 】",
+          "channelName": "二星ぼに / BONI",
+          "publishedAt": "2026-09-25T11:21:45.724Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bcekJnzhgvw/hqdefault.jpg",
+          "sourcePath": "sources/bc/bcekJnzhgvw.json",
+          "time": "1:50:12",
+          "seconds": 6612,
+          "songTitle": "if…",
+          "artist": "DA PUMP"
+        },
+        {
+          "videoId": "RVmACXbwWmM",
+          "videoTitle": "[歌回 | Singing Stream | 歌枠] I owe you guys for my bday",
+          "channelName": "Ajisa Orten",
+          "publishedAt": "2026-09-16T10:53:50.175Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/RVmACXbwWmM/hqdefault.jpg",
+          "sourcePath": "sources/RV/RVmACXbwWmM.json",
+          "time": "0:38:18",
+          "seconds": 2298,
+          "songTitle": "if",
+          "artist": "DA PUMP"
+        }
+      ],
+      "detailPath": "entities/songs/8a741a5e88e08ad5.json"
+    },
+    {
+      "rank": 3500,
       "id": "30b692c62a7482aa",
       "name": "IGNITE(ソードアート・オンラインII ファントム・バレット編)",
       "secondary": "藍井エイル",
@@ -2769,63 +2826,6 @@
         }
       ],
       "detailPath": "entities/songs/30b692c62a7482aa.json"
-    },
-    {
-      "rank": 3500,
-      "id": "f41c4ae6524c4fd7",
-      "name": "IN MY DREAM",
-      "secondary": "真行寺恵里",
-      "channelId": "UC56conDojpK-aPtomS2ckFA",
-      "channelHandle": "@NanaruMashiro",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "9dWhC18f-bI",
-          "videoTitle": "【#歌枠 】初見さん大歓迎！達成で告知！激熱アニソン中心！同接100人目標！【 #アカノビャクア】#アカノート #vsinger #karaoke",
-          "channelName": "アカノ☆ビャクア AkanoByakua",
-          "publishedAt": "2026-10-03T17:58:22.698Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/9dWhC18f-bI/hqdefault.jpg",
-          "sourcePath": "sources/9d/9dWhC18f-bI.json",
-          "time": "3:00:14",
-          "seconds": 10814,
-          "songTitle": "IN MY DREAM",
-          "artist": "真行寺恵里"
-        },
-        {
-          "videoId": "7NIHaQVxS54",
-          "videoTitle": "【#歌枠 】初見さん大歓迎！リベンジ！絶唱の高評価300耐久歌枠🔥【 #アカノビャクア】#アカノート #vsinger #karaoke",
-          "channelName": "アカノ☆ビャクア AkanoByakua",
-          "publishedAt": "2026-09-26T18:48:54.683Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/7NIHaQVxS54/hqdefault.jpg",
-          "sourcePath": "sources/7N/7NIHaQVxS54.json",
-          "time": "2:08:00",
-          "seconds": 7680,
-          "songTitle": "IN MY DREAM",
-          "artist": "真行寺恵里"
-        },
-        {
-          "videoId": "-a-cVdm0IXg",
-          "videoTitle": "〖#歌枠〗ロボットアニメ歌枠だああああ！！！！〖 #真城ななる/ #Vtuber 〗",
-          "channelName": "Nanaru Mashiro Ch. 真城ななる 🏰🕊",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-a-cVdm0IXg/hqdefault.jpg",
-          "sourcePath": "sources/-a/-a-cVdm0IXg.json",
-          "time": "3:08:08",
-          "seconds": 11288,
-          "songTitle": "IN MY DREAM",
-          "artist": "真行寺恵里"
-        }
-      ],
-      "detailPath": "entities/songs/f41c4ae6524c4fd7.json"
     }
   ]
 }

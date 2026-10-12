@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 233,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 11601,
+      "id": "b75b47be3a016962",
+      "name": "W/X/Y",
+      "secondary": "Tani Yuuki(ﾘｸｴｽﾄ)",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "GDJh69SiwkY",
+          "videoTitle": "【 歌枠/Karaoke 】今日も一日おつかれちゃん！月曜歌枠【 男性VTuber 】",
+          "channelName": "御崎陽炎",
+          "publishedAt": "2026-10-05T14:18:51.498Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/GDJh69SiwkY/hqdefault.jpg",
+          "sourcePath": "sources/GD/GDJh69SiwkY.json",
+          "time": "1:06:53",
+          "seconds": 4013,
+          "songTitle": "W/X/Y",
+          "artist": "Tani Yuuki(ﾘｸｴｽﾄ)"
+        },
+        {
+          "videoId": "cAFP0jndQ8M",
+          "videoTitle": "【 歌枠/Karaoke 】暑い夏を乗り切ろう！ちょろり雑談歌枠やっていくよ【 新人vtuber 】",
+          "channelName": "御崎陽炎",
+          "publishedAt": "2026-08-31T14:33:35.016Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cAFP0jndQ8M/hqdefault.jpg",
+          "sourcePath": "sources/cA/cAFP0jndQ8M.json",
+          "time": "1:01:28",
+          "seconds": 3688,
+          "songTitle": "W/X/Y",
+          "artist": "Tani Yuuki(ﾘｸｴｽﾄ)"
+        }
+      ],
+      "detailPath": "entities/songs/b75b47be3a016962.json"
+    },
+    {
+      "rank": 11602,
       "id": "610fe45176e4702a",
       "name": "Waiting For Love",
       "secondary": "Avicii",
@@ -58,7 +103,7 @@
       "detailPath": "entities/songs/610fe45176e4702a.json"
     },
     {
-      "rank": 11602,
+      "rank": 11603,
       "id": "4dc3f6fe9ec95d9d",
       "name": "Wake up!!",
       "secondary": "未記載",
@@ -104,7 +149,7 @@
       "detailPath": "entities/songs/4dc3f6fe9ec95d9d.json"
     },
     {
-      "rank": 11603,
+      "rank": 11604,
       "id": "c0916596891538ca",
       "name": "Walking with you",
       "secondary": "",
@@ -149,7 +194,7 @@
       "detailPath": "entities/songs/c0916596891538ca.json"
     },
     {
-      "rank": 11604,
+      "rank": 11605,
       "id": "ec42d82e217e1d5c",
       "name": "Wanna Bee",
       "secondary": "nekome",
@@ -194,7 +239,7 @@
       "detailPath": "entities/songs/ec42d82e217e1d5c.json"
     },
     {
-      "rank": 11605,
+      "rank": 11606,
       "id": "67a601d04b72873a",
       "name": "Wasureji no Kotonoha",
       "secondary": "Kiwako Ashimine",
@@ -239,7 +284,7 @@
       "detailPath": "entities/songs/67a601d04b72873a.json"
     },
     {
-      "rank": 11606,
+      "rank": 11607,
       "id": "666496c3b90f0201",
       "name": "Watch Me",
       "secondary": "未記載",
@@ -285,7 +330,7 @@
       "detailPath": "entities/songs/666496c3b90f0201.json"
     },
     {
-      "rank": 11607,
+      "rank": 11608,
       "id": "c4c38ace9f68f209",
       "name": "Watch Me",
       "secondary": "",
@@ -330,7 +375,7 @@
       "detailPath": "entities/songs/c4c38ace9f68f209.json"
     },
     {
-      "rank": 11608,
+      "rank": 11609,
       "id": "c3e2aff18687bbe4",
       "name": "WAVE",
       "secondary": "niki feat.Lily",
@@ -375,7 +420,7 @@
       "detailPath": "entities/songs/c3e2aff18687bbe4.json"
     },
     {
-      "rank": 11609,
+      "rank": 11610,
       "id": "9eae39ad235706d2",
       "name": "WAVE",
       "secondary": "niki feat.鏡音リン",
@@ -423,7 +468,7 @@
       "detailPath": "entities/songs/9eae39ad235706d2.json"
     },
     {
-      "rank": 11610,
+      "rank": 11611,
       "id": "a9d4c1cc254222ed",
       "name": "WAVE",
       "secondary": "",
@@ -468,7 +513,7 @@
       "detailPath": "entities/songs/a9d4c1cc254222ed.json"
     },
     {
-      "rank": 11611,
+      "rank": 11612,
       "id": "933f471cab7cfaa5",
       "name": "Way Back Home",
       "secondary": "SHAUN",
@@ -516,7 +561,7 @@
       "detailPath": "entities/songs/933f471cab7cfaa5.json"
     },
     {
-      "rank": 11612,
+      "rank": 11613,
       "id": "98ecce81c74dabc8",
       "name": "WAになっておどろう",
       "secondary": "",
@@ -561,7 +606,7 @@
       "detailPath": "entities/songs/98ecce81c74dabc8.json"
     },
     {
-      "rank": 11613,
+      "rank": 11614,
       "id": "b925dd7438f20c54",
       "name": "We Are",
       "secondary": "ONE OK ROCK",
@@ -606,7 +651,7 @@
       "detailPath": "entities/songs/b925dd7438f20c54.json"
     },
     {
-      "rank": 11614,
+      "rank": 11615,
       "id": "d94db7464ae7cbef",
       "name": "Weaker",
       "secondary": "神崎エルザ starring ReoNa",
@@ -654,7 +699,7 @@
       "detailPath": "entities/songs/d94db7464ae7cbef.json"
     },
     {
-      "rank": 11615,
+      "rank": 11616,
       "id": "cdee13fde68863dd",
       "name": "Web of Night",
       "secondary": "T.M.Revolution",
@@ -700,7 +745,7 @@
       "detailPath": "entities/songs/cdee13fde68863dd.json"
     },
     {
-      "rank": 11616,
+      "rank": 11617,
       "id": "7154426411bc4c25",
       "name": "Week End",
       "secondary": "星野源 (2015) フジテレビ「めざましどようび」テーマソング",
@@ -748,7 +793,7 @@
       "detailPath": "entities/songs/7154426411bc4c25.json"
     },
     {
-      "rank": 11617,
+      "rank": 11618,
       "id": "9290789255c06237",
       "name": "Weekend Milk",
       "secondary": "",
@@ -793,7 +838,7 @@
       "detailPath": "entities/songs/9290789255c06237.json"
     },
     {
-      "rank": 11618,
+      "rank": 11619,
       "id": "670ce727c7874035",
       "name": "Weight of the World/壊レタ世界ノ歌",
       "secondary": "河野万里奈",
@@ -840,7 +885,7 @@
       "detailPath": "entities/songs/670ce727c7874035.json"
     },
     {
-      "rank": 11619,
+      "rank": 11620,
       "id": "b0fe3b077cc674cb",
       "name": "Welcome To My FanClub’s Night!",
       "secondary": "シェリル•ノーム",
@@ -886,7 +931,7 @@
       "detailPath": "entities/songs/b0fe3b077cc674cb.json"
     },
     {
-      "rank": 11620,
+      "rank": 11621,
       "id": "d819fdf14b45e8cd",
       "name": "Welcome to あざとさワールド",
       "secondary": "i☆Ris",
@@ -931,7 +976,7 @@
       "detailPath": "entities/songs/d819fdf14b45e8cd.json"
     },
     {
-      "rank": 11621,
+      "rank": 11622,
       "id": "4f10df91a25cd924",
       "name": "Welcome!!DISCOけもけもけ",
       "secondary": "コックリさん(小野大輔)、狗神(櫻井孝宏)、信楽(中田譲治)",
@@ -976,7 +1021,7 @@
       "detailPath": "entities/songs/4f10df91a25cd924.json"
     },
     {
-      "rank": 11622,
+      "rank": 11623,
       "id": "bc38df0086581385",
       "name": "What 'bout my star? (Sheryl On Stage)",
       "secondary": "シェリル・ノーム starring May'n",
@@ -1021,7 +1066,7 @@
       "detailPath": "entities/songs/bc38df0086581385.json"
     },
     {
-      "rank": 11623,
+      "rank": 11624,
       "id": "0880b1bed380372f",
       "name": "When She Loved Me",
       "secondary": "Jessie [CV: Sarah McLachlan]",
@@ -1068,7 +1113,7 @@
       "detailPath": "entities/songs/0880b1bed380372f.json"
     },
     {
-      "rank": 11624,
+      "rank": 11625,
       "id": "7a11e76ceeef130b",
       "name": "when the party's over",
       "secondary": "Billie Eilish",
@@ -1116,7 +1161,7 @@
       "detailPath": "entities/songs/7a11e76ceeef130b.json"
     },
     {
-      "rank": 11625,
+      "rank": 11626,
       "id": "d23382c08db6f17c",
       "name": "when they cry",
       "secondary": "片霧烈火",
@@ -1161,7 +1206,7 @@
       "detailPath": "entities/songs/d23382c08db6f17c.json"
     },
     {
-      "rank": 11626,
+      "rank": 11627,
       "id": "e674e5058782edc4",
       "name": "When You Wish Upon a Star",
       "secondary": "Jiminy Cricket [CV: Cliff Edwards]",
@@ -1206,7 +1251,7 @@
       "detailPath": "entities/songs/e674e5058782edc4.json"
     },
     {
-      "rank": 11627,
+      "rank": 11628,
       "id": "b86be0e125950662",
       "name": "Whereever You Are",
       "secondary": "ONE OK ROCK",
@@ -1254,7 +1299,7 @@
       "detailPath": "entities/songs/b86be0e125950662.json"
     },
     {
-      "rank": 11628,
+      "rank": 11629,
       "id": "880ad545ae6d37fc",
       "name": "Whisper Whisper Whisper",
       "secondary": "Azari",
@@ -1299,7 +1344,7 @@
       "detailPath": "entities/songs/880ad545ae6d37fc.json"
     },
     {
-      "rank": 11629,
+      "rank": 11630,
       "id": "7298652a8156e34f",
       "name": "white frost",
       "secondary": "日食なつこ",
@@ -1344,7 +1389,7 @@
       "detailPath": "entities/songs/7298652a8156e34f.json"
     },
     {
-      "rank": 11630,
+      "rank": 11631,
       "id": "3c9d5c5d4da7d0c7",
       "name": "Who killed U.N.Owen",
       "secondary": "Liz Triangle",
@@ -1389,7 +1434,7 @@
       "detailPath": "entities/songs/3c9d5c5d4da7d0c7.json"
     },
     {
-      "rank": 11631,
+      "rank": 11632,
       "id": "3bb63dbffc18326f",
       "name": "why",
       "secondary": "平井堅",
@@ -1436,7 +1481,7 @@
       "detailPath": "entities/songs/3bb63dbffc18326f.json"
     },
     {
-      "rank": 11632,
+      "rank": 11633,
       "id": "78c1ededb0ce3da3",
       "name": "why, or why not",
       "secondary": "大嶋啓之 feat. 片霧烈火",
@@ -1481,7 +1526,7 @@
       "detailPath": "entities/songs/78c1ededb0ce3da3.json"
     },
     {
-      "rank": 11633,
+      "rank": 11634,
       "id": "4bc90b1f146c7894",
       "name": "WILD CHALLENGER",
       "secondary": "JINDOU",
@@ -1526,7 +1571,7 @@
       "detailPath": "entities/songs/4bc90b1f146c7894.json"
     },
     {
-      "rank": 11634,
+      "rank": 11635,
       "id": "9e6bff28991de2cd",
       "name": "WILL",
       "secondary": "仙界伝 封神演義",
@@ -1571,7 +1616,7 @@
       "detailPath": "entities/songs/9e6bff28991de2cd.json"
     },
     {
-      "rank": 11635,
+      "rank": 11636,
       "id": "9898c2b536fe50f4",
       "name": "Wind and Wander",
       "secondary": "川田まみ",
@@ -1616,7 +1661,7 @@
       "detailPath": "entities/songs/9898c2b536fe50f4.json"
     },
     {
-      "rank": 11636,
+      "rank": 11637,
       "id": "defa4b9df123f8f3",
       "name": "WING LOVE",
       "secondary": "夢戦士ウイングマン",
@@ -1661,7 +1706,7 @@
       "detailPath": "entities/songs/defa4b9df123f8f3.json"
     },
     {
-      "rank": 11637,
+      "rank": 11638,
       "id": "85da024131783512",
       "name": "winning the soul",
       "secondary": "Tokai Teio (CV: Machico)",
@@ -1708,7 +1753,7 @@
       "detailPath": "entities/songs/85da024131783512.json"
     },
     {
-      "rank": 11638,
+      "rank": 11639,
       "id": "a4c675f74c6740e9",
       "name": "winning the soul",
       "secondary": "トウカイテイオー(Machico)",
@@ -1753,7 +1798,7 @@
       "detailPath": "entities/songs/a4c675f74c6740e9.json"
     },
     {
-      "rank": 11639,
+      "rank": 11640,
       "id": "3c7057ff72ca483a",
       "name": "winning the soul",
       "secondary": "トウカイテイオー",
@@ -1798,7 +1843,7 @@
       "detailPath": "entities/songs/3c7057ff72ca483a.json"
     },
     {
-      "rank": 11640,
+      "rank": 11641,
       "id": "cf361218c57312fb",
       "name": "Winter Blossom",
       "secondary": "美風藍(蒼井翔太)",
@@ -1843,7 +1888,7 @@
       "detailPath": "entities/songs/cf361218c57312fb.json"
     },
     {
-      "rank": 11641,
+      "rank": 11642,
       "id": "d9350fc67d8b21df",
       "name": "WISH",
       "secondary": "嵐",
@@ -1888,7 +1933,7 @@
       "detailPath": "entities/songs/d9350fc67d8b21df.json"
     },
     {
-      "rank": 11642,
+      "rank": 11643,
       "id": "6ad4f965a3806539",
       "name": "Wisper Wisper Wisper",
       "secondary": "Azari",
@@ -1933,7 +1978,7 @@
       "detailPath": "entities/songs/6ad4f965a3806539.json"
     },
     {
-      "rank": 11643,
+      "rank": 11644,
       "id": "7b90391ff52f5f01",
       "name": "Without You",
       "secondary": "X JAPAN",
@@ -1975,7 +2020,7 @@
       "detailPath": "entities/songs/7b90391ff52f5f01.json"
     },
     {
-      "rank": 11644,
+      "rank": 11645,
       "id": "5e633814f95093a5",
       "name": "Without You",
       "secondary": "神代あみ",
@@ -2020,7 +2065,7 @@
       "detailPath": "entities/songs/5e633814f95093a5.json"
     },
     {
-      "rank": 11645,
+      "rank": 11646,
       "id": "3ecdd1036038841b",
       "name": "WOLF",
       "secondary": "バルーン × ヒトリエ",
@@ -2065,7 +2110,7 @@
       "detailPath": "entities/songs/3ecdd1036038841b.json"
     },
     {
-      "rank": 11646,
+      "rank": 11647,
       "id": "ca58f6e22830346d",
       "name": "WON'T BE LONG",
       "secondary": "バブルガム・ブラザーズ",
@@ -2112,7 +2157,7 @@
       "detailPath": "entities/songs/ca58f6e22830346d.json"
     },
     {
-      "rank": 11647,
+      "rank": 11648,
       "id": "d294d43cb7101cfd",
       "name": "Wonderful Tonight",
       "secondary": "Eric Clapton",
@@ -2157,7 +2202,7 @@
       "detailPath": "entities/songs/d294d43cb7101cfd.json"
     },
     {
-      "rank": 11648,
+      "rank": 11649,
       "id": "0558fa1f75ce64fe",
       "name": "Wonderland",
       "secondary": "iri",
@@ -2203,7 +2248,7 @@
       "detailPath": "entities/songs/0558fa1f75ce64fe.json"
     },
     {
-      "rank": 11649,
+      "rank": 11650,
       "id": "d87c3c35daa11eef",
       "name": "WORD OF THE VOICE",
       "secondary": "FLOW",
@@ -2246,51 +2291,6 @@
         }
       ],
       "detailPath": "entities/songs/d87c3c35daa11eef.json"
-    },
-    {
-      "rank": 11650,
-      "id": "a1632785f2377e58",
-      "name": "Words of the Moon",
-      "secondary": "アネリ・フローレンス 🐍オリジナル曲",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "FM1MsBJjCCc",
-          "videoTitle": "【#vtuber 】３周年前夜カウントダウン歌枠【#初見歓迎 】#歌枠",
-          "channelName": "アネリ・フローレンス_Anery Florence",
-          "publishedAt": "2026-09-06T15:49:34.496Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/FM1MsBJjCCc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHzohv0CTzWeA0f3i3axCqwBg8kg",
-          "sourcePath": "sources/FM/FM1MsBJjCCc.json",
-          "time": "1:55:42",
-          "seconds": 6942,
-          "songTitle": "Words of the Moon",
-          "artist": "アネリ・フローレンス 🐍オリジナル曲"
-        },
-        {
-          "videoId": "1rPYQElzCaI",
-          "videoTitle": "【#vtuber 】歌枠！9月だね！！【#初見歓迎 】#歌枠",
-          "channelName": "アネリ・フローレンス_Anery Florence",
-          "publishedAt": "2026-09-01T06:37:20.947Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/1rPYQElzCaI/hqdefault.jpg",
-          "sourcePath": "sources/1r/1rPYQElzCaI.json",
-          "time": "1:51:55",
-          "seconds": 6715,
-          "songTitle": "Words of the Moon",
-          "artist": "アネリ・フローレンス 🐍オリジナル曲"
-        }
-      ],
-      "detailPath": "entities/songs/a1632785f2377e58.json"
     }
   ]
 }

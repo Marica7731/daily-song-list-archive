@@ -1,61 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "7d",
   "type": "songs",
   "page": 9,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3558,
+  "totalCount": 3553,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 401,
-      "id": "edfa0d9320f4eda9",
-      "name": "Bunny Girl",
-      "secondary": "AKASAKI",
-      "channelId": "UCx8TAQNBAHvzqHw9obUlCAQ",
-      "channelHandle": "@AzatoAkama",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "AkTC14YKdg8",
-          "videoTitle": "【歌枠】深夜にちょいと歌うよ【水上蒼太/ゆにれいど！】",
-          "channelName": "水上蒼太 / Souta Mizukami",
-          "publishedAt": "2026-10-09T17:24:54.011Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AkTC14YKdg8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHsZifxCXXXpgY4PTqsfJeN4LduA",
-          "sourcePath": "sources/Ak/AkTC14YKdg8.json",
-          "time": "0:11:50",
-          "seconds": 710,
-          "songTitle": "Bunny Girl",
-          "artist": "AKASAKI"
-        },
-        {
-          "videoId": "QROspTNU9gE",
-          "videoTitle": "【 #歌枠 】同接240名様達成ありがとう！耐久✨ 作業BGMや睡眠導入に💭 歌枠＆雑談！ ボカロ・アニソン等の静か目曲🎶 #karaoke 【#vsinger #赤魔アザト #Vtuber 】",
-          "channelName": "Azato Ch. 赤魔アザト",
-          "publishedAt": "2026-10-07T21:46:41.526Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QROspTNU9gE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCiKRL2Xf3RCNim3MPTN-FhuXNEwg",
-          "sourcePath": "sources/QR/QROspTNU9gE.json",
-          "time": "2:58:51",
-          "seconds": 10731,
-          "songTitle": "Bunny Girl",
-          "artist": "AKASAKI"
-        }
-      ],
-      "detailPath": "entities/songs/edfa0d9320f4eda9.json"
-    },
-    {
-      "rank": 402,
       "id": "0fe0f68d19609a94",
       "name": "BunnyGirl",
       "secondary": "",
@@ -100,7 +55,7 @@
       "detailPath": "entities/songs/0fe0f68d19609a94.json"
     },
     {
-      "rank": 403,
+      "rank": 402,
       "id": "9a7e379c794546b4",
       "name": "Caramel Pain",
       "secondary": "星街すいせい",
@@ -145,7 +100,7 @@
       "detailPath": "entities/songs/9a7e379c794546b4.json"
     },
     {
-      "rank": 404,
+      "rank": 403,
       "id": "10ea1bd9af7de4a7",
       "name": "Catch You Catch Me",
       "secondary": "グミ",
@@ -190,7 +145,7 @@
       "detailPath": "entities/songs/10ea1bd9af7de4a7.json"
     },
     {
-      "rank": 405,
+      "rank": 404,
       "id": "fe78a8de393ba289",
       "name": "CH4NGE",
       "secondary": "Giga feat. 可不",
@@ -235,7 +190,7 @@
       "detailPath": "entities/songs/fe78a8de393ba289.json"
     },
     {
-      "rank": 406,
+      "rank": 405,
       "id": "61e94ef5463539b6",
       "name": "Crow Song",
       "secondary": "Girls Dead Monster",
@@ -280,7 +235,7 @@
       "detailPath": "entities/songs/61e94ef5463539b6.json"
     },
     {
-      "rank": 407,
+      "rank": 406,
       "id": "38fc6cc34f0b2689",
       "name": "DAYS of DASH",
       "secondary": "鈴木このみ",
@@ -325,7 +280,7 @@
       "detailPath": "entities/songs/38fc6cc34f0b2689.json"
     },
     {
-      "rank": 408,
+      "rank": 407,
       "id": "08d0c7fa3f39d216",
       "name": "DISCOTHEQUE",
       "secondary": "水樹奈々",
@@ -370,7 +325,7 @@
       "detailPath": "entities/songs/08d0c7fa3f39d216.json"
     },
     {
-      "rank": 409,
+      "rank": 408,
       "id": "86148651c39eac44",
       "name": "Don't Know Why",
       "secondary": "Norah Jones",
@@ -416,7 +371,7 @@
       "detailPath": "entities/songs/86148651c39eac44.json"
     },
     {
-      "rank": 410,
+      "rank": 409,
       "id": "7248283efb866461",
       "name": "Ex-Otogibanashi",
       "secondary": "かぐや(夏吉ゆうこ)、月見ヤチヨ(早見沙織)",
@@ -461,7 +416,7 @@
       "detailPath": "entities/songs/7248283efb866461.json"
     },
     {
-      "rank": 411,
+      "rank": 410,
       "id": "9b6f443ca92ee4f2",
       "name": "Falco-ファルコ",
       "secondary": "島谷ひとみ",
@@ -506,7 +461,7 @@
       "detailPath": "entities/songs/9b6f443ca92ee4f2.json"
     },
     {
-      "rank": 412,
+      "rank": 411,
       "id": "f5814f6a7b06601a",
       "name": "Fantastic future",
       "secondary": "田村ゆかり",
@@ -551,7 +506,7 @@
       "detailPath": "entities/songs/f5814f6a7b06601a.json"
     },
     {
-      "rank": 413,
+      "rank": 412,
       "id": "be04d0f6f785cdf8",
       "name": "Fighting My Way",
       "secondary": "花海咲季(長月あおい)",
@@ -596,7 +551,7 @@
       "detailPath": "entities/songs/be04d0f6f785cdf8.json"
     },
     {
-      "rank": 414,
+      "rank": 413,
       "id": "bc731be6187b6ea5",
       "name": "Flavor Of Life",
       "secondary": "宇多田ヒカル",
@@ -642,7 +597,7 @@
       "detailPath": "entities/songs/bc731be6187b6ea5.json"
     },
     {
-      "rank": 415,
+      "rank": 414,
       "id": "5e2fda5eb7220e34",
       "name": "FLY HIGH!!",
       "secondary": "BURNOUT SYNDROMES",
@@ -687,7 +642,7 @@
       "detailPath": "entities/songs/5e2fda5eb7220e34.json"
     },
     {
-      "rank": 416,
+      "rank": 415,
       "id": "b48261c3abd8b872",
       "name": "FREEDOM",
       "secondary": "西川貴教 with t.komuro",
@@ -732,7 +687,7 @@
       "detailPath": "entities/songs/b48261c3abd8b872.json"
     },
     {
-      "rank": 417,
+      "rank": 416,
       "id": "d78ab81ddab6e1bc",
       "name": "from the edge",
       "secondary": "FictionJunction feat.LiSA",
@@ -777,7 +732,7 @@
       "detailPath": "entities/songs/d78ab81ddab6e1bc.json"
     },
     {
-      "rank": 418,
+      "rank": 417,
       "id": "07d2b95cfdf0d0cb",
       "name": "from Y to Y",
       "secondary": "ジミーサムP",
@@ -822,7 +777,7 @@
       "detailPath": "entities/songs/07d2b95cfdf0d0cb.json"
     },
     {
-      "rank": 419,
+      "rank": 418,
       "id": "7bc8470a2e48d3e4",
       "name": "GLAMOROUS SKY",
       "secondary": "中島美嘉",
@@ -867,7 +822,7 @@
       "detailPath": "entities/songs/7bc8470a2e48d3e4.json"
     },
     {
-      "rank": 420,
+      "rank": 419,
       "id": "ec119b3b6cd2eb29",
       "name": "God knows",
       "secondary": "涼宮ハルヒ",
@@ -912,7 +867,7 @@
       "detailPath": "entities/songs/ec119b3b6cd2eb29.json"
     },
     {
-      "rank": 421,
+      "rank": 420,
       "id": "f064f2f92c10b934",
       "name": "God Knows…",
       "secondary": "涼宮ハルヒ（CV:平野綾）",
@@ -957,7 +912,7 @@
       "detailPath": "entities/songs/f064f2f92c10b934.json"
     },
     {
-      "rank": 422,
+      "rank": 421,
       "id": "b098fcc647137bc3",
       "name": "Habit",
       "secondary": "SEKAI NO OWARI",
@@ -1002,7 +957,7 @@
       "detailPath": "entities/songs/b098fcc647137bc3.json"
     },
     {
-      "rank": 423,
+      "rank": 422,
       "id": "1df328d7042867cd",
       "name": "Ham",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1048,7 +1003,7 @@
       "detailPath": "entities/songs/1df328d7042867cd.json"
     },
     {
-      "rank": 424,
+      "rank": 423,
       "id": "c51b8b23627658d6",
       "name": "HANABI",
       "secondary": "いきものがかり",
@@ -1093,7 +1048,7 @@
       "detailPath": "entities/songs/c51b8b23627658d6.json"
     },
     {
-      "rank": 425,
+      "rank": 424,
       "id": "3f2f6e71511fc5da",
       "name": "heavenly days",
       "secondary": "新垣結衣",
@@ -1138,7 +1093,7 @@
       "detailPath": "entities/songs/3f2f6e71511fc5da.json"
     },
     {
-      "rank": 426,
+      "rank": 425,
       "id": "043b5387dcdbd65b",
       "name": "Hello,Again〜昔からある場所〜",
       "secondary": "My Little Lover",
@@ -1183,7 +1138,7 @@
       "detailPath": "entities/songs/043b5387dcdbd65b.json"
     },
     {
-      "rank": 427,
+      "rank": 426,
       "id": "f8db36e96b92d436",
       "name": "Home Sweet Home",
       "secondary": "YUKI",
@@ -1228,7 +1183,7 @@
       "detailPath": "entities/songs/f8db36e96b92d436.json"
     },
     {
-      "rank": 428,
+      "rank": 427,
       "id": "3a92652b1c6094a9",
       "name": "https",
       "secondary": "livepocket.jp/e/70146",
@@ -1273,7 +1228,7 @@
       "detailPath": "entities/songs/3a92652b1c6094a9.json"
     },
     {
-      "rank": 429,
+      "rank": 428,
       "id": "1e6baafae0b21c35",
       "name": "I LOVE",
       "secondary": "Official髭男dism",
@@ -1318,7 +1273,7 @@
       "detailPath": "entities/songs/1e6baafae0b21c35.json"
     },
     {
-      "rank": 430,
+      "rank": 429,
       "id": "fbf220800e694110",
       "name": "I wanna see you",
       "secondary": "阿部真央",
@@ -1363,7 +1318,7 @@
       "detailPath": "entities/songs/fbf220800e694110.json"
     },
     {
-      "rank": 431,
+      "rank": 430,
       "id": "4a037c4f25267cc5",
       "name": "I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた",
       "secondary": "宝鐘マリン",
@@ -1408,7 +1363,7 @@
       "detailPath": "entities/songs/4a037c4f25267cc5.json"
     },
     {
-      "rank": 432,
+      "rank": 431,
       "id": "10a040cd8cab3fce",
       "name": "INNOCENCE",
       "secondary": "藍井エイル",
@@ -1453,7 +1408,7 @@
       "detailPath": "entities/songs/10a040cd8cab3fce.json"
     },
     {
-      "rank": 433,
+      "rank": 432,
       "id": "a971533666209fe4",
       "name": "inside you",
       "secondary": "milet",
@@ -1498,7 +1453,7 @@
       "detailPath": "entities/songs/a971533666209fe4.json"
     },
     {
-      "rank": 434,
+      "rank": 433,
       "id": "39bd81741a94b05d",
       "name": "irony",
       "secondary": "ClariS",
@@ -1543,7 +1498,7 @@
       "detailPath": "entities/songs/39bd81741a94b05d.json"
     },
     {
-      "rank": 435,
+      "rank": 434,
       "id": "8edac3ab5c330ac9",
       "name": "Just Be Friends",
       "secondary": "Dixie Flatline",
@@ -1589,7 +1544,7 @@
       "detailPath": "entities/songs/8edac3ab5c330ac9.json"
     },
     {
-      "rank": 436,
+      "rank": 435,
       "id": "da564a4b86a84530",
       "name": "Just Be Friends",
       "secondary": "Dixie Flatline feat. 巡音ルカ",
@@ -1634,7 +1589,7 @@
       "detailPath": "entities/songs/da564a4b86a84530.json"
     },
     {
-      "rank": 437,
+      "rank": 436,
       "id": "e7110abbe0cab37a",
       "name": "K",
       "secondary": "BUMP OF CHICKEN",
@@ -1679,7 +1634,7 @@
       "detailPath": "entities/songs/e7110abbe0cab37a.json"
     },
     {
-      "rank": 438,
+      "rank": 437,
       "id": "0932b5d43f46d419",
       "name": "LOVE & ROLL",
       "secondary": "supercell",
@@ -1724,7 +1679,7 @@
       "detailPath": "entities/songs/0932b5d43f46d419.json"
     },
     {
-      "rank": 439,
+      "rank": 438,
       "id": "0b4dd30bea4e57e6",
       "name": "LOVE PHANTOM",
       "secondary": "B'z",
@@ -1769,7 +1724,7 @@
       "detailPath": "entities/songs/0b4dd30bea4e57e6.json"
     },
     {
-      "rank": 440,
+      "rank": 439,
       "id": "9b909185459985c3",
       "name": "Lovers",
       "secondary": "Sumika",
@@ -1814,7 +1769,7 @@
       "detailPath": "entities/songs/9b909185459985c3.json"
     },
     {
-      "rank": 441,
+      "rank": 440,
       "id": "534b6e5ecbf63f8d",
       "name": "LOVEマシーン",
       "secondary": "モーニング娘。",
@@ -1859,7 +1814,7 @@
       "detailPath": "entities/songs/534b6e5ecbf63f8d.json"
     },
     {
-      "rank": 442,
+      "rank": 441,
       "id": "adf8588980f734d8",
       "name": "Luna say maybe",
       "secondary": "月村手毬(小鹿なお)",
@@ -1904,7 +1859,7 @@
       "detailPath": "entities/songs/adf8588980f734d8.json"
     },
     {
-      "rank": 443,
+      "rank": 442,
       "id": "e70b399384d944ff",
       "name": "melt bitter",
       "secondary": "さとうもか",
@@ -1950,7 +1905,7 @@
       "detailPath": "entities/songs/e70b399384d944ff.json"
     },
     {
-      "rank": 444,
+      "rank": 443,
       "id": "b75788aa47c40b30",
       "name": "Meteor-ミーティア",
       "secondary": "T.M.Revolution",
@@ -1995,7 +1950,7 @@
       "detailPath": "entities/songs/b75788aa47c40b30.json"
     },
     {
-      "rank": 445,
+      "rank": 444,
       "id": "5abb152637bdb0b3",
       "name": "MIRACLE SHOPPING〜ドン・キホーテのテーマ〜",
       "secondary": "田中マイミ",
@@ -2040,7 +1995,7 @@
       "detailPath": "entities/songs/5abb152637bdb0b3.json"
     },
     {
-      "rank": 446,
+      "rank": 445,
       "id": "b5dc57f7a8c80de4",
       "name": "Missing",
       "secondary": "ELLEGARDEN",
@@ -2085,7 +2040,7 @@
       "detailPath": "entities/songs/b5dc57f7a8c80de4.json"
     },
     {
-      "rank": 447,
+      "rank": 446,
       "id": "ae085e187fe1a7de",
       "name": "Mrs.Pumpkinの滑稽な夢",
       "secondary": "ハチ",
@@ -2130,7 +2085,7 @@
       "detailPath": "entities/songs/ae085e187fe1a7de.json"
     },
     {
-      "rank": 448,
+      "rank": 447,
       "id": "91ba6a6d5a083c24",
       "name": "My Soul,Your Beats!",
       "secondary": "Lia",
@@ -2175,7 +2130,7 @@
       "detailPath": "entities/songs/91ba6a6d5a083c24.json"
     },
     {
-      "rank": 449,
+      "rank": 448,
       "id": "65f932cd978fee3e",
       "name": "napori",
       "secondary": "Vaundy",
@@ -2221,7 +2176,7 @@
       "detailPath": "entities/songs/65f932cd978fee3e.json"
     },
     {
-      "rank": 450,
+      "rank": 449,
       "id": "54e1c7f71ca6704f",
       "name": "NIGHT DANCER",
       "secondary": "imase",
@@ -2264,6 +2219,51 @@
         }
       ],
       "detailPath": "entities/songs/54e1c7f71ca6704f.json"
+    },
+    {
+      "rank": 450,
+      "id": "12481c0e526e3bf5",
+      "name": "ninelie",
+      "secondary": "Aimer with chelly(EGOIST)",
+      "channelId": "UC5zO6IFsWSUHMYgJMv81XKg",
+      "channelHandle": "@shingames7857",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "uUIqYFEmh6Y",
+          "videoTitle": "【 #歌枠 】突如始まるCH8.5万人耐久歌枠⚡ギャップの歌声見つけて⚡お知らせあり 歌雑 【 yayamugi 】 #karaoke #vtuber",
+          "channelName": "稍 麦 - yayamugi -",
+          "publishedAt": "2026-10-07T18:43:43.576Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/uUIqYFEmh6Y/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBt_2twaIBxLSTt49V1fJ_Qflrz4Q",
+          "sourcePath": "sources/uU/uUIqYFEmh6Y.json",
+          "time": "0:28:59",
+          "seconds": 1739,
+          "songTitle": "ninelie",
+          "artist": "Aimer with chelly(EGOIST)"
+        },
+        {
+          "videoId": "mawaS5UbE7M",
+          "videoTitle": "【#歌枠】昼からまったり歌枠！ #うたうよしん #karaoke #vsinger",
+          "channelName": "shin",
+          "publishedAt": "2026-10-06T09:07:06.252Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mawaS5UbE7M/hqdefault.jpg",
+          "sourcePath": "sources/ma/mawaS5UbE7M.json",
+          "time": "0:58:32",
+          "seconds": 3512,
+          "songTitle": "ninelie",
+          "artist": "Aimer with chelly(EGOIST)"
+        }
+      ],
+      "detailPath": "entities/songs/12481c0e526e3bf5.json"
     }
   ]
 }

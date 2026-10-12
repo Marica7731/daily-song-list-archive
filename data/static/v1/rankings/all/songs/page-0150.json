@@ -1,16 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 150,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 7451,
+      "id": "0368605045c65b17",
+      "name": "Hajimete no Koi ga Owaru Toki",
+      "secondary": "supercell feat. Hatsune Miku",
+      "channelId": "UCSH2LgTRhPCsaVPW_emgDJg",
+      "channelHandle": "@SuzukazeShitora",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "xmvKMuzTAXE",
+          "videoTitle": "【歌枠】深淵組は今日で解散！10月からは個人勢！気持ちを込めて歌います。あなたの魂を揺らすVsinger―【VTuber/配信中】",
+          "channelName": "Shitora ch. 涼風しとら",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xmvKMuzTAXE/hqdefault.jpg",
+          "sourcePath": "sources/xm/xmvKMuzTAXE.json",
+          "time": "2:37:07",
+          "seconds": 9427,
+          "songTitle": "Hajimete no Koi ga Owaru Toki",
+          "artist": "supercell feat. Hatsune Miku"
+        },
+        {
+          "videoId": "O4RUOp9n8RQ",
+          "videoTitle": "【歌枠】明日はぶいかふぇ！あなたの魂を揺らすVsinger✨【VTuber/配信中】",
+          "channelName": "Shitora ch. 涼風しとら",
+          "publishedAt": "2026-09-04T11:17:33.662Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/O4RUOp9n8RQ/hqdefault.jpg",
+          "sourcePath": "sources/O4/O4RUOp9n8RQ.json",
+          "time": "0:27:18",
+          "seconds": 1638,
+          "songTitle": "Hajimete no Koi ga Owaru Toki",
+          "artist": "supercell feat. Hatsune Miku"
+        },
+        {
+          "videoId": "d5Xed-O9gIM",
+          "videoTitle": "🐥【縦型歌枠】おうち3D✨1曲聴いていって！ SINGING STREAM【VTuber/配信中】#縦型配信 #shorts #vtuber",
+          "channelName": "Shitora ch. 涼風しとら",
+          "publishedAt": "2026-07-03T07:35:47.693Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/d5Xed-O9gIM/hqdefault.jpg",
+          "sourcePath": "sources/d5/d5Xed-O9gIM.json",
+          "time": "0:57:19",
+          "seconds": 3439,
+          "songTitle": "Hajimete no Koi ga Owaru Toki",
+          "artist": "supercell feat. Hatsune Miku"
+        }
+      ],
+      "detailPath": "entities/songs/0368605045c65b17.json"
+    },
+    {
+      "rank": 7452,
       "id": "a1ca38610dc9b783",
       "name": "Hallelujah",
       "secondary": "Leonard Cohen",
@@ -70,7 +128,7 @@
       "detailPath": "entities/songs/a1ca38610dc9b783.json"
     },
     {
-      "rank": 7452,
+      "rank": 7453,
       "id": "72aa3014b6ab1968",
       "name": "Hanabi",
       "secondary": "aiko",
@@ -130,7 +188,7 @@
       "detailPath": "entities/songs/72aa3014b6ab1968.json"
     },
     {
-      "rank": 7453,
+      "rank": 7454,
       "id": "547fa45a251df19a",
       "name": "HANABI",
       "secondary": "",
@@ -187,7 +245,7 @@
       "detailPath": "entities/songs/547fa45a251df19a.json"
     },
     {
-      "rank": 7454,
+      "rank": 7455,
       "id": "6f84516b0fb4f920",
       "name": "hanataba",
       "secondary": "milet",
@@ -247,7 +305,7 @@
       "detailPath": "entities/songs/6f84516b0fb4f920.json"
     },
     {
-      "rank": 7455,
+      "rank": 7456,
       "id": "bc9ac0ba8d03475d",
       "name": "Hand in Hand",
       "secondary": "kz(livetune)",
@@ -307,7 +365,7 @@
       "detailPath": "entities/songs/bc9ac0ba8d03475d.json"
     },
     {
-      "rank": 7456,
+      "rank": 7457,
       "id": "a9f6c475425f6548",
       "name": "Happy Smile Again",
       "secondary": "いきものがかり",
@@ -364,7 +422,7 @@
       "detailPath": "entities/songs/a9f6c475425f6548.json"
     },
     {
-      "rank": 7457,
+      "rank": 7458,
       "id": "98d65645be55a422",
       "name": "Harenchi",
       "secondary": "CHANMINA",
@@ -423,7 +481,7 @@
       "detailPath": "entities/songs/98d65645be55a422.json"
     },
     {
-      "rank": 7458,
+      "rank": 7459,
       "id": "882dc75df44b98c7",
       "name": "HATENA",
       "secondary": "PENGUIN RESEARCH",
@@ -480,7 +538,7 @@
       "detailPath": "entities/songs/882dc75df44b98c7.json"
     },
     {
-      "rank": 7459,
+      "rank": 7460,
       "id": "cced35f45415120c",
       "name": "Heal the World",
       "secondary": "Michael Jackson",
@@ -537,7 +595,7 @@
       "detailPath": "entities/songs/cced35f45415120c.json"
     },
     {
-      "rank": 7460,
+      "rank": 7461,
       "id": "9043b9aa7c0b6e04",
       "name": "Heart Attack",
       "secondary": "Demi Lovato",
@@ -595,7 +653,7 @@
       "detailPath": "entities/songs/9043b9aa7c0b6e04.json"
     },
     {
-      "rank": 7461,
+      "rank": 7462,
       "id": "3ef020f4e1505987",
       "name": "Heart To Heart",
       "secondary": "中山愛梨沙",
@@ -652,7 +710,7 @@
       "detailPath": "entities/songs/3ef020f4e1505987.json"
     },
     {
-      "rank": 7462,
+      "rank": 7463,
       "id": "0d1fbacf9aa9af64",
       "name": "HEART TO HEART",
       "secondary": "彩子",
@@ -711,7 +769,7 @@
       "detailPath": "entities/songs/0d1fbacf9aa9af64.json"
     },
     {
-      "rank": 7463,
+      "rank": 7464,
       "id": "abf3c201c0a7c571",
       "name": "Heartful Song",
       "secondary": "ほしな歌唄（CV:水樹奈々）",
@@ -769,7 +827,7 @@
       "detailPath": "entities/songs/abf3c201c0a7c571.json"
     },
     {
-      "rank": 7464,
+      "rank": 7465,
       "id": "74ff99437e951d09",
       "name": "HEAVEN'S DRIVE",
       "secondary": "L'Arc-en-Ciel",
@@ -829,7 +887,7 @@
       "detailPath": "entities/songs/74ff99437e951d09.json"
     },
     {
-      "rank": 7465,
+      "rank": 7466,
       "id": "8a852d1a0a6e7848",
       "name": "Hello",
       "secondary": "How Are You - Hoehoe-P",
@@ -889,7 +947,7 @@
       "detailPath": "entities/songs/8a852d1a0a6e7848.json"
     },
     {
-      "rank": 7466,
+      "rank": 7467,
       "id": "60dfaed9e566eaf0",
       "name": "HELLO",
       "secondary": "YUI",
@@ -950,7 +1008,7 @@
       "detailPath": "entities/songs/60dfaed9e566eaf0.json"
     },
     {
-      "rank": 7467,
+      "rank": 7468,
       "id": "d8b57bdd413a42ef",
       "name": "Hello, my friend",
       "secondary": "松任谷由実",
@@ -1007,7 +1065,7 @@
       "detailPath": "entities/songs/d8b57bdd413a42ef.json"
     },
     {
-      "rank": 7468,
+      "rank": 7469,
       "id": "3079470e534c59a4",
       "name": "Hello,shooting-star",
       "secondary": "moumoon",
@@ -1065,7 +1123,7 @@
       "detailPath": "entities/songs/3079470e534c59a4.json"
     },
     {
-      "rank": 7469,
+      "rank": 7470,
       "id": "85ea4846a28474c2",
       "name": "Help me,ERINNNNNN!!",
       "secondary": "",
@@ -1122,7 +1180,7 @@
       "detailPath": "entities/songs/85ea4846a28474c2.json"
     },
     {
-      "rank": 7470,
+      "rank": 7471,
       "id": "fc5a61ec27c7a209",
       "name": "HELP!!",
       "secondary": "こぼ・かなえる",
@@ -1179,7 +1237,7 @@
       "detailPath": "entities/songs/fc5a61ec27c7a209.json"
     },
     {
-      "rank": 7471,
+      "rank": 7472,
       "id": "50605193fd477408",
       "name": "Helpless",
       "secondary": "Hamilton",
@@ -1238,7 +1296,7 @@
       "detailPath": "entities/songs/50605193fd477408.json"
     },
     {
-      "rank": 7472,
+      "rank": 7473,
       "id": "37255aef82b86554",
       "name": "Hero",
       "secondary": "Mariah Carey",
@@ -1297,7 +1355,7 @@
       "detailPath": "entities/songs/37255aef82b86554.json"
     },
     {
-      "rank": 7473,
+      "rank": 7474,
       "id": "693c17f377d0c52a",
       "name": "HERO",
       "secondary": "Mr.Children",
@@ -1354,7 +1412,7 @@
       "detailPath": "entities/songs/693c17f377d0c52a.json"
     },
     {
-      "rank": 7474,
+      "rank": 7475,
       "id": "666a5f0c4b61cd7f",
       "name": "HERO～希望の歌～",
       "secondary": "FLOW",
@@ -1411,7 +1469,7 @@
       "detailPath": "entities/songs/666a5f0c4b61cd7f.json"
     },
     {
-      "rank": 7475,
+      "rank": 7476,
       "id": "8ff20019d4530b9c",
       "name": "Hey my friend",
       "secondary": "Tommy heavenly⁶",
@@ -1469,7 +1527,7 @@
       "detailPath": "entities/songs/8ff20019d4530b9c.json"
     },
     {
-      "rank": 7476,
+      "rank": 7477,
       "id": "aaea289ed4b78b03",
       "name": "Hi FiVE!",
       "secondary": "LiSA",
@@ -1527,7 +1585,7 @@
       "detailPath": "entities/songs/aaea289ed4b78b03.json"
     },
     {
-      "rank": 7477,
+      "rank": 7478,
       "id": "58456fbf11f1e04e",
       "name": "High Free Spirits",
       "secondary": "TrySail",
@@ -1585,7 +1643,7 @@
       "detailPath": "entities/songs/58456fbf11f1e04e.json"
     },
     {
-      "rank": 7478,
+      "rank": 7479,
       "id": "721dd3ff8492c2e7",
       "name": "Hitorigotsu",
       "secondary": "Hachiware CV: Makoto Tanaka",
@@ -1643,7 +1701,7 @@
       "detailPath": "entities/songs/721dd3ff8492c2e7.json"
     },
     {
-      "rank": 7479,
+      "rank": 7480,
       "id": "61a7cdb098b30d7e",
       "name": "HOLLOW HUNGER",
       "secondary": "OxT",
@@ -1703,7 +1761,7 @@
       "detailPath": "entities/songs/61a7cdb098b30d7e.json"
     },
     {
-      "rank": 7480,
+      "rank": 7481,
       "id": "aad331666ba6eadf",
       "name": "Honey",
       "secondary": "chihiro",
@@ -1757,7 +1815,7 @@
       "detailPath": "entities/songs/aad331666ba6eadf.json"
     },
     {
-      "rank": 7481,
+      "rank": 7482,
       "id": "b0ff9d34c2b1410a",
       "name": "Hope Song",
       "secondary": "焔魔るり",
@@ -1817,7 +1875,7 @@
       "detailPath": "entities/songs/b0ff9d34c2b1410a.json"
     },
     {
-      "rank": 7482,
+      "rank": 7483,
       "id": "395f3828c589736c",
       "name": "Hoshizora no Etude (Etude of the Starry Sky)",
       "secondary": "Nanashi Inc",
@@ -1877,7 +1935,7 @@
       "detailPath": "entities/songs/395f3828c589736c.json"
     },
     {
-      "rank": 7483,
+      "rank": 7484,
       "id": "961e812e1ee04794",
       "name": "HOT LIMIT",
       "secondary": "T.M.Revolution ※JOYSOUND",
@@ -1937,7 +1995,7 @@
       "detailPath": "entities/songs/961e812e1ee04794.json"
     },
     {
-      "rank": 7484,
+      "rank": 7485,
       "id": "b7c2e5230ce574cf",
       "name": "HOT LIMIT (T.M.Revolution )",
       "secondary": "",
@@ -1994,7 +2052,7 @@
       "detailPath": "entities/songs/b7c2e5230ce574cf.json"
     },
     {
-      "rank": 7485,
+      "rank": 7486,
       "id": "6fd156a03d7007ad",
       "name": "How crazy",
       "secondary": "YUI",
@@ -2052,7 +2110,7 @@
       "detailPath": "entities/songs/6fd156a03d7007ad.json"
     },
     {
-      "rank": 7486,
+      "rank": 7487,
       "id": "c52109e9885e2698",
       "name": "https",
       "secondary": "noristry.bitfan.id/schedules",
@@ -2106,7 +2164,7 @@
       "detailPath": "entities/songs/c52109e9885e2698.json"
     },
     {
-      "rank": 7487,
+      "rank": 7488,
       "id": "1c7507f039a81af8",
       "name": "https",
       "secondary": "www.youtube.com/live/1L_ZD5vQ",
@@ -2160,7 +2218,7 @@
       "detailPath": "entities/songs/1c7507f039a81af8.json"
     },
     {
-      "rank": 7488,
+      "rank": 7489,
       "id": "0f13b73e93c394ec",
       "name": "https",
       "secondary": "youtube.com/live/TVxNghIrd4I?",
@@ -2214,7 +2272,7 @@
       "detailPath": "entities/songs/0f13b73e93c394ec.json"
     },
     {
-      "rank": 7489,
+      "rank": 7490,
       "id": "e157a48727af29bb",
       "name": "https",
       "secondary": "youtube.com/live/D_dOF9hWgH8?",
@@ -2268,7 +2326,7 @@
       "detailPath": "entities/songs/e157a48727af29bb.json"
     },
     {
-      "rank": 7490,
+      "rank": 7491,
       "id": "8906e60916443c84",
       "name": "https",
       "secondary": "youtube.com/live/9BP8fMDOfS0?",
@@ -2322,7 +2380,7 @@
       "detailPath": "entities/songs/8906e60916443c84.json"
     },
     {
-      "rank": 7491,
+      "rank": 7492,
       "id": "861eaebfca731ec8",
       "name": "https",
       "secondary": "youtube.com/live/DnzvEx8rj2c",
@@ -2376,7 +2434,7 @@
       "detailPath": "entities/songs/861eaebfca731ec8.json"
     },
     {
-      "rank": 7492,
+      "rank": 7493,
       "id": "b8a681cc13333e70",
       "name": "https",
       "secondary": "youtube.com/live/K82N2z99rlQ?",
@@ -2430,7 +2488,7 @@
       "detailPath": "entities/songs/b8a681cc13333e70.json"
     },
     {
-      "rank": 7493,
+      "rank": 7494,
       "id": "f0017c957708900d",
       "name": "https",
       "secondary": "youtube.com/live/Kanv-Vu3OJc?",
@@ -2484,7 +2542,7 @@
       "detailPath": "entities/songs/f0017c957708900d.json"
     },
     {
-      "rank": 7494,
+      "rank": 7495,
       "id": "9d1dc000aedd30ae",
       "name": "https",
       "secondary": "www.youtube.com/live/z4PnJR6KzgU",
@@ -2538,7 +2596,7 @@
       "detailPath": "entities/songs/9d1dc000aedd30ae.json"
     },
     {
-      "rank": 7495,
+      "rank": 7496,
       "id": "bdcc7d3753e76b11",
       "name": "https",
       "secondary": "youtube.com/live/LPVe64iP6pk?",
@@ -2592,7 +2650,7 @@
       "detailPath": "entities/songs/bdcc7d3753e76b11.json"
     },
     {
-      "rank": 7496,
+      "rank": 7497,
       "id": "2e84f7789800b100",
       "name": "https",
       "secondary": "youtube.com/live/n6NPzFvhPYQ",
@@ -2649,7 +2707,7 @@
       "detailPath": "entities/songs/2e84f7789800b100.json"
     },
     {
-      "rank": 7497,
+      "rank": 7498,
       "id": "3a92652b1c6094a9",
       "name": "https",
       "secondary": "livepocket.jp/e/70146",
@@ -2706,7 +2764,7 @@
       "detailPath": "entities/songs/3a92652b1c6094a9.json"
     },
     {
-      "rank": 7498,
+      "rank": 7499,
       "id": "2684310aeaab3e5b",
       "name": "I",
       "secondary": "未記載",
@@ -2763,7 +2821,7 @@
       "detailPath": "entities/songs/2684310aeaab3e5b.json"
     },
     {
-      "rank": 7499,
+      "rank": 7500,
       "id": "9f213aabc47c5dd4",
       "name": "I",
       "secondary": "",
@@ -2815,63 +2873,6 @@
         }
       ],
       "detailPath": "entities/songs/9f213aabc47c5dd4.json"
-    },
-    {
-      "rank": 7500,
-      "id": "b03f81c9db2a4ec7",
-      "name": "I beg you",
-      "secondary": "Aimer ※JOYSOUND",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "csR-y6ApJZc",
-          "videoTitle": "【歌枠】 チケット3枚目標！初見さんも大歓迎！ 【#虎蝶奏】",
-          "channelName": "虎蝶 奏 / Kocho Kanade",
-          "publishedAt": "2026-09-27T06:45:05.016Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/csR-y6ApJZc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCaKiBmjvNSZuzmBRLXOyn9BnyQWQ&usqp=CBQ",
-          "sourcePath": "sources/cs/csR-y6ApJZc.json",
-          "time": "2:17:16",
-          "seconds": 8236,
-          "songTitle": "I beg you",
-          "artist": "Aimer ※JOYSOUND"
-        },
-        {
-          "videoId": "jMC3888chyg",
-          "videoTitle": "【歌枠】 ちょっとずつ上手くなるはず！の歌枠 【#虎蝶奏】",
-          "channelName": "虎蝶 奏 / Kocho Kanade",
-          "publishedAt": "2026-09-10T14:25:27.356Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jMC3888chyg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpF1qly8-xwtjddh55DqFF9JXAvg",
-          "sourcePath": "sources/jM/jMC3888chyg.json",
-          "time": "1:07:25",
-          "seconds": 4045,
-          "songTitle": "I beg you",
-          "artist": "Aimer ※JOYSOUND"
-        },
-        {
-          "videoId": "SWMmEVLSJcE",
-          "videoTitle": "【 #縦型 #歌枠 】アイスが美味しくてお腹を壊しそう【 #朧夜そな / #Vtuber #Vsinger 】",
-          "channelName": "朧夜そな / Oboroyo Sona",
-          "publishedAt": "2026-09-01T13:45:12.599Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SWMmEVLSJcE/hqdefault.jpg",
-          "sourcePath": "sources/SW/SWMmEVLSJcE.json",
-          "time": "0:51:33",
-          "seconds": 3093,
-          "songTitle": "I beg you",
-          "artist": "Aimer ※JOYSOUND"
-        }
-      ],
-      "detailPath": "entities/songs/b03f81c9db2a4ec7.json"
     }
   ]
 }

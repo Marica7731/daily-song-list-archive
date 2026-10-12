@@ -1,16 +1,109 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 279,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 13901,
+      "id": "cab9d2686e5c5704",
+      "name": "楽園",
+      "secondary": "nonoc",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "KQAxC-YW2x4",
+          "videoTitle": "【#時と奏でるありすのお茶会歌枠リレー】誕生日のありすちゃんを探検隊ツアーにご招待！！【 #みなとたんけん日記 /湊海咲】 #vtuber",
+          "channelName": "💼湊海咲-Minato Misaki-🦈",
+          "publishedAt": "2026-09-13T07:03:11.179Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/KQAxC-YW2x4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCzOiou2FjpQ4OrOXs4oTq-yNngA",
+          "sourcePath": "sources/KQ/KQAxC-YW2x4.json",
+          "time": "0:18:02",
+          "seconds": 1082,
+          "songTitle": "楽園",
+          "artist": "nonoc"
+        },
+        {
+          "videoId": "ka_oqCt0aO4",
+          "videoTitle": "【#KARAOKE /#歌枠】神曲のオンパレードだよな、ラノベって！【みなとたんけん日記/湊海咲】",
+          "channelName": "💼湊海咲-Minato Misaki-🦈",
+          "publishedAt": "2026-09-11T07:22:31.342Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ka_oqCt0aO4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0kfHRgZzcX6EqvYOoC8oI5e0Vmw",
+          "sourcePath": "sources/ka/ka_oqCt0aO4.json",
+          "time": "1:59:28",
+          "seconds": 7168,
+          "songTitle": "楽園",
+          "artist": "nonoc"
+        }
+      ],
+      "detailPath": "entities/songs/cab9d2686e5c5704.json"
+    },
+    {
+      "rank": 13902,
+      "id": "0f64b32ae58c41ea",
+      "name": "楽園の戒律",
+      "secondary": "月深ツキ(オリジナル楽曲)",
+      "channelId": "UC-Jg7D3KSMxGDaIrV-PiWHQ",
+      "channelHandle": "@Tsukimi_Tsuki",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "LmUhSsblF5k",
+          "videoTitle": "【#歌枠/KARAOKE】ダークネス歌枠🌹闇・仄暗さ・幻想【#月深ツキ】",
+          "channelName": "月深ツキ -Tsukimi Tsuki-",
+          "publishedAt": "2026-10-04T13:31:07.155Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LmUhSsblF5k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuyrv_nHRKNbKjqH7DIouz_BkhVA",
+          "sourcePath": "sources/Lm/LmUhSsblF5k.json",
+          "time": "1:19:24",
+          "seconds": 4764,
+          "songTitle": "楽園の戒律",
+          "artist": "月深ツキ(オリジナル楽曲)"
+        },
+        {
+          "videoId": "oCVRXQg_bZQ",
+          "videoTitle": "【#白髪赤眼V歌枠リレー】赤と白をイメージする曲を熱くエモーショナルに！【#月深ツキ】",
+          "channelName": "月深ツキ -Tsukimi Tsuki-",
+          "publishedAt": "2026-08-09T12:05:15.685Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oCVRXQg_bZQ/hqdefault.jpg",
+          "sourcePath": "sources/oC/oCVRXQg_bZQ.json",
+          "time": "0:07:17",
+          "seconds": 437,
+          "songTitle": "楽園の戒律",
+          "artist": "月深ツキ(オリジナル楽曲)"
+        }
+      ],
+      "detailPath": "entities/songs/0f64b32ae58c41ea.json"
+    },
+    {
+      "rank": 13903,
       "id": "669fed4b36f3d726",
       "name": "割れたリンゴ",
       "secondary": "渡辺早季(種田梨沙)",
@@ -55,7 +148,7 @@
       "detailPath": "entities/songs/669fed4b36f3d726.json"
     },
     {
-      "rank": 13902,
+      "rank": 13904,
       "id": "375cedf8e8407fa5",
       "name": "割れたリンゴ",
       "secondary": "渡辺早季（CV:種田梨沙）",
@@ -99,7 +192,7 @@
       "detailPath": "entities/songs/375cedf8e8407fa5.json"
     },
     {
-      "rank": 13903,
+      "rank": 13905,
       "id": "e38da368ffe60a34",
       "name": "渇いた叫び",
       "secondary": "",
@@ -144,7 +237,7 @@
       "detailPath": "entities/songs/e38da368ffe60a34.json"
     },
     {
-      "rank": 13904,
+      "rank": 13906,
       "id": "bcd5a10b63fe3d2e",
       "name": "葛飾ラプソディー",
       "secondary": "こち亀",
@@ -190,7 +283,7 @@
       "detailPath": "entities/songs/bcd5a10b63fe3d2e.json"
     },
     {
-      "rank": 13905,
+      "rank": 13907,
       "id": "71c98cdcd975f6f0",
       "name": "葛飾ラプソディー",
       "secondary": "",
@@ -235,7 +328,7 @@
       "detailPath": "entities/songs/71c98cdcd975f6f0.json"
     },
     {
-      "rank": 13906,
+      "rank": 13908,
       "id": "e02c9f37d4112895",
       "name": "葛飾ラプソディー ～ヤムヤムversion～",
       "secondary": "Yum! Yum! ORANGE",
@@ -281,7 +374,7 @@
       "detailPath": "entities/songs/e02c9f37d4112895.json"
     },
     {
-      "rank": 13907,
+      "rank": 13909,
       "id": "f0d54bedb715abe1",
       "name": "鞄の中、心の中",
       "secondary": "藍坊主",
@@ -327,7 +420,7 @@
       "detailPath": "entities/songs/f0d54bedb715abe1.json"
     },
     {
-      "rank": 13908,
+      "rank": 13910,
       "id": "d79bd15226ff2c38",
       "name": "噛み噛み助かる",
       "secondary": "",
@@ -372,7 +465,7 @@
       "detailPath": "entities/songs/d79bd15226ff2c38.json"
     },
     {
-      "rank": 13909,
+      "rank": 13911,
       "id": "703a25fc46cc2033",
       "name": "乾涸びたバスひとつ",
       "secondary": "米津玄師",
@@ -419,7 +512,7 @@
       "detailPath": "entities/songs/703a25fc46cc2033.json"
     },
     {
-      "rank": 13910,
+      "rank": 13912,
       "id": "40403096b688dae7",
       "name": "寒いね",
       "secondary": "アンジュルム",
@@ -464,7 +557,7 @@
       "detailPath": "entities/songs/40403096b688dae7.json"
     },
     {
-      "rank": 13911,
+      "rank": 13913,
       "id": "d5bd2c6867b0c711",
       "name": "寒い夜だから",
       "secondary": "TRF",
@@ -509,7 +602,7 @@
       "detailPath": "entities/songs/d5bd2c6867b0c711.json"
     },
     {
-      "rank": 13912,
+      "rank": 13914,
       "id": "6b31476a033831dd",
       "name": "勘冴えて悔しいわ",
       "secondary": "",
@@ -554,7 +647,7 @@
       "detailPath": "entities/songs/6b31476a033831dd.json"
     },
     {
-      "rank": 13913,
+      "rank": 13915,
       "id": "17c43df2ae4934af",
       "name": "完全感覚Dreamer",
       "secondary": "未記載",
@@ -600,7 +693,7 @@
       "detailPath": "entities/songs/17c43df2ae4934af.json"
     },
     {
-      "rank": 13914,
+      "rank": 13916,
       "id": "812c19442e3e9a24",
       "name": "感應",
       "secondary": "泳兒",
@@ -648,7 +741,7 @@
       "detailPath": "entities/songs/812c19442e3e9a24.json"
     },
     {
-      "rank": 13915,
+      "rank": 13917,
       "id": "e9e06a7c88838750",
       "name": "漢の喧嘩 美しく",
       "secondary": "大西洋平",
@@ -694,7 +787,7 @@
       "detailPath": "entities/songs/e9e06a7c88838750.json"
     },
     {
-      "rank": 13916,
+      "rank": 13918,
       "id": "71409168bf8bf12f",
       "name": "環 - cycle",
       "secondary": "糸奇はな",
@@ -739,7 +832,7 @@
       "detailPath": "entities/songs/71409168bf8bf12f.json"
     },
     {
-      "rank": 13917,
+      "rank": 13919,
       "id": "25fda503dd306a1a",
       "name": "甘々吟味",
       "secondary": "なきごと",
@@ -784,7 +877,7 @@
       "detailPath": "entities/songs/25fda503dd306a1a.json"
     },
     {
-      "rank": 13918,
+      "rank": 13920,
       "id": "1a7a345f8e7e231e",
       "name": "甘えんな",
       "secondary": "Juice=Juice",
@@ -829,7 +922,7 @@
       "detailPath": "entities/songs/1a7a345f8e7e231e.json"
     },
     {
-      "rank": 13919,
+      "rank": 13921,
       "id": "1c41e5889255a819",
       "name": "甘ったる",
       "secondary": "なきそ",
@@ -877,7 +970,7 @@
       "detailPath": "entities/songs/1c41e5889255a819.json"
     },
     {
-      "rank": 13920,
+      "rank": 13922,
       "id": "e6858a975df9def5",
       "name": "甘噛みでおねがい",
       "secondary": "ピノキオピー",
@@ -919,7 +1012,7 @@
       "detailPath": "entities/songs/e6858a975df9def5.json"
     },
     {
-      "rank": 13921,
+      "rank": 13923,
       "id": "f2f71f919934f76b",
       "name": "間抜けなニムロド",
       "secondary": "amazarashi",
@@ -967,7 +1060,7 @@
       "detailPath": "entities/songs/f2f71f919934f76b.json"
     },
     {
-      "rank": 13922,
+      "rank": 13924,
       "id": "31eeb39a0cf60e9e",
       "name": "丸の内サディスティック",
       "secondary": "椎名林檎ｻﾝ",
@@ -1013,7 +1106,7 @@
       "detailPath": "entities/songs/31eeb39a0cf60e9e.json"
     },
     {
-      "rank": 13923,
+      "rank": 13925,
       "id": "112a4b66555cc6f2",
       "name": "丸ノ内サディスティック",
       "secondary": "椎名林檎 ※JOYSOUND",
@@ -1058,7 +1151,7 @@
       "detailPath": "entities/songs/112a4b66555cc6f2.json"
     },
     {
-      "rank": 13924,
+      "rank": 13926,
       "id": "b501b074bbb01ec2",
       "name": "丸の内サディステック",
       "secondary": "椎名林檎",
@@ -1107,7 +1200,7 @@
       "detailPath": "entities/songs/b501b074bbb01ec2.json"
     },
     {
-      "rank": 13925,
+      "rank": 13927,
       "id": "3aa3774fc611813c",
       "name": "丸の内サデスティック",
       "secondary": "椎名林檎",
@@ -1155,7 +1248,7 @@
       "detailPath": "entities/songs/3aa3774fc611813c.json"
     },
     {
-      "rank": 13926,
+      "rank": 13928,
       "id": "c770cbaa399bd44c",
       "name": "丸の内ミゼラブル",
       "secondary": "Royz",
@@ -1200,7 +1293,7 @@
       "detailPath": "entities/songs/c770cbaa399bd44c.json"
     },
     {
-      "rank": 13927,
+      "rank": 13929,
       "id": "af021bcf87242bd0",
       "name": "眼差し",
       "secondary": "ロクデナシ",
@@ -1245,7 +1338,7 @@
       "detailPath": "entities/songs/af021bcf87242bd0.json"
     },
     {
-      "rank": 13928,
+      "rank": 13930,
       "id": "622344c41274b562",
       "name": "頑張ったっていいんじゃない",
       "secondary": "大原櫻子",
@@ -1291,7 +1384,7 @@
       "detailPath": "entities/songs/622344c41274b562.json"
     },
     {
-      "rank": 13929,
+      "rank": 13931,
       "id": "802913dc8dcb1bd6",
       "name": "顔でかーい",
       "secondary": "Funta",
@@ -1337,7 +1430,7 @@
       "detailPath": "entities/songs/802913dc8dcb1bd6.json"
     },
     {
-      "rank": 13930,
+      "rank": 13932,
       "id": "3ffb2f244e34beea",
       "name": "願い",
       "secondary": "玉置浩二",
@@ -1383,7 +1476,7 @@
       "detailPath": "entities/songs/3ffb2f244e34beea.json"
     },
     {
-      "rank": 13931,
+      "rank": 13933,
       "id": "0951f69d1a7c02fc",
       "name": "願い",
       "secondary": "Sumika",
@@ -1428,7 +1521,7 @@
       "detailPath": "entities/songs/0951f69d1a7c02fc.json"
     },
     {
-      "rank": 13932,
+      "rank": 13934,
       "id": "a9db210836f54cb4",
       "name": "喜劇",
       "secondary": "",
@@ -1473,7 +1566,7 @@
       "detailPath": "entities/songs/a9db210836f54cb4.json"
     },
     {
-      "rank": 13933,
+      "rank": 13935,
       "id": "a8d053ddb4cfb76c",
       "name": "奇跡",
       "secondary": "シュノーケル",
@@ -1519,7 +1612,7 @@
       "detailPath": "entities/songs/a8d053ddb4cfb76c.json"
     },
     {
-      "rank": 13934,
+      "rank": 13936,
       "id": "be3524a4e763ec9a",
       "name": "奇跡の海",
       "secondary": "ロードス島戦記-英雄騎士伝",
@@ -1567,7 +1660,7 @@
       "detailPath": "entities/songs/be3524a4e763ec9a.json"
     },
     {
-      "rank": 13935,
+      "rank": 13937,
       "id": "b305e8293cf4b3bc",
       "name": "奇天烈ポエマー",
       "secondary": "有栖川誉(CV:豊永利行)",
@@ -1613,7 +1706,7 @@
       "detailPath": "entities/songs/b305e8293cf4b3bc.json"
     },
     {
-      "rank": 13936,
+      "rank": 13938,
       "id": "006ddece66ebdafe",
       "name": "寄り酔い",
       "secondary": "",
@@ -1658,7 +1751,7 @@
       "detailPath": "entities/songs/006ddece66ebdafe.json"
     },
     {
-      "rank": 13937,
+      "rank": 13939,
       "id": "46f4d90549f661cc",
       "name": "希望のカケラ",
       "secondary": "",
@@ -1700,7 +1793,7 @@
       "detailPath": "entities/songs/46f4d90549f661cc.json"
     },
     {
-      "rank": 13938,
+      "rank": 13940,
       "id": "b8e34f04d8d08daf",
       "name": "机さする",
       "secondary": "青木遥 2026年",
@@ -1742,7 +1835,7 @@
       "detailPath": "entities/songs/b8e34f04d8d08daf.json"
     },
     {
-      "rank": 13939,
+      "rank": 13941,
       "id": "26f38c431d57b5b8",
       "name": "機材トラブル",
       "secondary": "",
@@ -1784,7 +1877,7 @@
       "detailPath": "entities/songs/26f38c431d57b5b8.json"
     },
     {
-      "rank": 13940,
+      "rank": 13942,
       "id": "c902398ee294dba5",
       "name": "帰り道",
       "secondary": "におP",
@@ -1829,7 +1922,7 @@
       "detailPath": "entities/songs/c902398ee294dba5.json"
     },
     {
-      "rank": 13941,
+      "rank": 13943,
       "id": "2421f8cfbc439706",
       "name": "帰り道",
       "secondary": "まにこ",
@@ -1874,7 +1967,7 @@
       "detailPath": "entities/songs/2421f8cfbc439706.json"
     },
     {
-      "rank": 13942,
+      "rank": 13944,
       "id": "ec4ce2cb51b5cb81",
       "name": "帰れない二人",
       "secondary": "井上陽水",
@@ -1916,7 +2009,7 @@
       "detailPath": "entities/songs/ec4ce2cb51b5cb81.json"
     },
     {
-      "rank": 13943,
+      "rank": 13945,
       "id": "88bc435ffe4c875b",
       "name": "気まぐれプリンセス",
       "secondary": "モーニング娘。",
@@ -1961,7 +2054,7 @@
       "detailPath": "entities/songs/88bc435ffe4c875b.json"
     },
     {
-      "rank": 13944,
+      "rank": 13946,
       "id": "4a87e69a1eea2418",
       "name": "気まぐれメルシィ",
       "secondary": "八王子Pの曲 feat.初音ミク",
@@ -2009,7 +2102,7 @@
       "detailPath": "entities/songs/4a87e69a1eea2418.json"
     },
     {
-      "rank": 13945,
+      "rank": 13947,
       "id": "771683b5fa42f8a3",
       "name": "気まぐれメルシィ feat.初音ミク",
       "secondary": "八王子P",
@@ -2056,7 +2149,7 @@
       "detailPath": "entities/songs/771683b5fa42f8a3.json"
     },
     {
-      "rank": 13946,
+      "rank": 13948,
       "id": "e83b5ed06d728946",
       "name": "気まぐれロマンチック",
       "secondary": "いきものがかり",
@@ -2101,7 +2194,7 @@
       "detailPath": "entities/songs/e83b5ed06d728946.json"
     },
     {
-      "rank": 13947,
+      "rank": 13949,
       "id": "77784d7df4513b92",
       "name": "気まぐれロマンティック",
       "secondary": "いきものがかり(水野良樹,山下穂尊)",
@@ -2148,7 +2241,7 @@
       "detailPath": "entities/songs/77784d7df4513b92.json"
     },
     {
-      "rank": 13948,
+      "rank": 13950,
       "id": "4744a2185749bcfc",
       "name": "気まぐれロマンティック",
       "secondary": "いきものがかり ※JOYSOUND",
@@ -2191,93 +2284,6 @@
         }
       ],
       "detailPath": "entities/songs/4744a2185749bcfc.json"
-    },
-    {
-      "rank": 13949,
-      "id": "4d7aa2ada58624b0",
-      "name": "気ままな天使たち",
-      "secondary": "わたてん☆5",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Nq-khzM1SvU",
-          "videoTitle": "【雑談歌枠】初見さん、ROMさん大歓迎 ୨୧ ˖* 元気になれる配信♡【#にっこりわたち / #新人vtuber 】",
-          "channelName": "にっこりわたち^^*",
-          "publishedAt": "2026-10-09T13:21:04.054Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Nq-khzM1SvU/hqdefault.jpg",
-          "sourcePath": "sources/Nq/Nq-khzM1SvU.json",
-          "time": "3:31:03",
-          "seconds": 12663,
-          "songTitle": "気ままな天使たち",
-          "artist": "わたてん☆5"
-        },
-        {
-          "videoId": "xhTcjKAm8PY",
-          "videoTitle": "【#歌枠 #karaoke 】ゆるっと９月の最初に歌枠してこ？【9/3】【#Vtuber #個人勢vtuber 】",
-          "channelName": "水篠澪の魔法channel",
-          "publishedAt": "2026-09-03T15:32:08.933Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xhTcjKAm8PY/hqdefault.jpg",
-          "sourcePath": "sources/xh/xhTcjKAm8PY.json",
-          "time": "1:16:46",
-          "seconds": 4606,
-          "songTitle": "気ままな天使たち",
-          "artist": "わたてん☆5"
-        }
-      ],
-      "detailPath": "entities/songs/4d7aa2ada58624b0.json"
-    },
-    {
-      "rank": 13950,
-      "id": "4f2c8351edefa794",
-      "name": "気持ち華やぐこの場所に",
-      "secondary": "",
-      "channelId": "UCYsbFbgaokGeOoLXFUYHJHw",
-      "channelHandle": "@fujimiki",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vSBcok0ousQ",
-          "videoTitle": "【アコギ弾き語りライブ】弾き語りLive Bar MK2（2026.9.26）",
-          "channelName": "ふじみき",
-          "publishedAt": "2026-09-26T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vSBcok0ousQ/hqdefault.jpg",
-          "sourcePath": "sources/vS/vSBcok0ousQ.json",
-          "time": "0:26:29",
-          "seconds": 1589,
-          "songTitle": "気持ち華やぐこの場所に",
-          "artist": ""
-        },
-        {
-          "videoId": "MPlbguQIqU0",
-          "videoTitle": "【アコギ弾き語りライブ】NETAGOYA（音太小屋）（2026.8.22）",
-          "channelName": "ふじみき",
-          "publishedAt": "2026-08-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MPlbguQIqU0/hqdefault.jpg",
-          "sourcePath": "sources/MP/MPlbguQIqU0.json",
-          "time": "0:23:04",
-          "seconds": 1384,
-          "songTitle": "気持ち華やぐこの場所に",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/4f2c8351edefa794.json"
     }
   ]
 }

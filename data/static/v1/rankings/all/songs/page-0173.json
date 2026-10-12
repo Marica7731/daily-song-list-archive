@@ -1,16 +1,77 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 173,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 8601,
+      "id": "914026c69ee8c6b0",
+      "name": "ゆめゆめ",
+      "secondary": "DECO*27",
+      "channelId": "UCzQGJ0vkewz8WJXWkuhIJWw",
+      "channelHandle": "@nito_t_t",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "ncxWsUcL2yE",
+          "videoTitle": "【#弾き語り/노래뱅】夕暮れとアコギ❄君と私！【261006】",
+          "channelName": "氷晶もね",
+          "publishedAt": "2026-10-07T10:59:28.089Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ncxWsUcL2yE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcx3u9S3YAXZdRL_zMh0b3KhTVAg",
+          "sourcePath": "sources/nc/ncxWsUcL2yE.json",
+          "time": "1:13:42",
+          "seconds": 4422,
+          "songTitle": "ゆめゆめ",
+          "artist": "DECO*27"
+        },
+        {
+          "videoId": "nvIxAJ2v9rE",
+          "videoTitle": "【#歌枠 】ボカロ縛り歌枠！古のボカロって何年から古なんだろう～！【#vtuber #新人vtuber 】",
+          "channelName": "詩乃すぴか-うたのすぴか Utano Supica",
+          "publishedAt": "2026-10-02T13:51:11.612Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/nvIxAJ2v9rE/hqdefault.jpg",
+          "sourcePath": "sources/nv/nvIxAJ2v9rE.json",
+          "time": "1:58:34",
+          "seconds": 7114,
+          "songTitle": "ゆめゆめ",
+          "artist": "DECO*27"
+        },
+        {
+          "videoId": "JOLN316OCxU",
+          "videoTitle": "【#歌枠】うたうぽよ【＃karaoke┊︎#個人VTuber┊︎#新人VTuber┊︎#仁斗】【カラオケJOYSOUND for STREAMER】",
+          "channelName": "仁斗_nito",
+          "publishedAt": "2026-07-15T08:35:17.954Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JOLN316OCxU/hqdefault.jpg",
+          "sourcePath": "sources/JO/JOLN316OCxU.json",
+          "time": "0:49:50",
+          "seconds": 2990,
+          "songTitle": "ゆめゆめ",
+          "artist": "DECO*27"
+        }
+      ],
+      "detailPath": "entities/songs/914026c69ee8c6b0.json"
+    },
+    {
+      "rank": 8602,
       "id": "3bff2ea42a5f4ce7",
       "name": "ユメヲカケル!",
       "secondary": "",
@@ -67,7 +128,7 @@
       "detailPath": "entities/songs/3bff2ea42a5f4ce7.json"
     },
     {
-      "rank": 8602,
+      "rank": 8603,
       "id": "fd5a5843367bdba0",
       "name": "ようこそジャパリパークへ",
       "secondary": "未記載",
@@ -125,7 +186,7 @@
       "detailPath": "entities/songs/fd5a5843367bdba0.json"
     },
     {
-      "rank": 8603,
+      "rank": 8604,
       "id": "9954e899f8fca0a5",
       "name": "よくばり",
       "secondary": "Ayase feat. 初音ミク",
@@ -185,7 +246,7 @@
       "detailPath": "entities/songs/9954e899f8fca0a5.json"
     },
     {
-      "rank": 8604,
+      "rank": 8605,
       "id": "fab43b9f3b268693",
       "name": "ヨヒラ",
       "secondary": "n-buna",
@@ -242,7 +303,7 @@
       "detailPath": "entities/songs/fab43b9f3b268693.json"
     },
     {
-      "rank": 8605,
+      "rank": 8606,
       "id": "4216debeb16d01e6",
       "name": "ヨワネハキ",
       "secondary": "MAISONdes feat. 和ぬか, asmi",
@@ -301,7 +362,7 @@
       "detailPath": "entities/songs/4216debeb16d01e6.json"
     },
     {
-      "rank": 8606,
+      "rank": 8607,
       "id": "2794cbdf86767868",
       "name": "ヨンジュウナナ",
       "secondary": "りぶ",
@@ -358,7 +419,7 @@
       "detailPath": "entities/songs/2794cbdf86767868.json"
     },
     {
-      "rank": 8607,
+      "rank": 8608,
       "id": "999f2f86dd5682b1",
       "name": "ライオン",
       "secondary": "シェリル・ノーム(May'n), ランカ・リー(中島愛)",
@@ -415,7 +476,7 @@
       "detailPath": "entities/songs/999f2f86dd5682b1.json"
     },
     {
-      "rank": 8608,
+      "rank": 8609,
       "id": "9f9e0393b1ba4eb8",
       "name": "ライオン",
       "secondary": "May'n/中島愛 ※JOYSOUND",
@@ -472,7 +533,7 @@
       "detailPath": "entities/songs/9f9e0393b1ba4eb8.json"
     },
     {
-      "rank": 8609,
+      "rank": 8610,
       "id": "bb065a6331a1b4ad",
       "name": "ライラック",
       "secondary": "忘却バッテリー",
@@ -529,7 +590,7 @@
       "detailPath": "entities/songs/bb065a6331a1b4ad.json"
     },
     {
-      "rank": 8610,
+      "rank": 8611,
       "id": "d0c91b5d5f8be0f6",
       "name": "ラヴィ",
       "secondary": "すりぃ feat.鏡音リン",
@@ -588,7 +649,7 @@
       "detailPath": "entities/songs/d0c91b5d5f8be0f6.json"
     },
     {
-      "rank": 8611,
+      "rank": 8612,
       "id": "beb5014d5b7a63ba",
       "name": "ラヴィ",
       "secondary": "未記載",
@@ -647,7 +708,7 @@
       "detailPath": "entities/songs/beb5014d5b7a63ba.json"
     },
     {
-      "rank": 8612,
+      "rank": 8613,
       "id": "9bf5257c703ab8f8",
       "name": "ラストダンス",
       "secondary": "Eve",
@@ -707,7 +768,7 @@
       "detailPath": "entities/songs/9bf5257c703ab8f8.json"
     },
     {
-      "rank": 8613,
+      "rank": 8614,
       "id": "54436ad1d1290205",
       "name": "ラッキーカラー",
       "secondary": "あいみょん",
@@ -765,7 +826,7 @@
       "detailPath": "entities/songs/54436ad1d1290205.json"
     },
     {
-      "rank": 8614,
+      "rank": 8615,
       "id": "92a6b075a7e44799",
       "name": "ラビィ",
       "secondary": "すりぃ",
@@ -822,7 +883,7 @@
       "detailPath": "entities/songs/92a6b075a7e44799.json"
     },
     {
-      "rank": 8615,
+      "rank": 8616,
       "id": "c0858bb65f97d323",
       "name": "ラピスのお人形",
       "secondary": "ヰ世界情緒",
@@ -882,7 +943,7 @@
       "detailPath": "entities/songs/c0858bb65f97d323.json"
     },
     {
-      "rank": 8616,
+      "rank": 8617,
       "id": "8ca7be00641084e3",
       "name": "ラピスラズリ",
       "secondary": "",
@@ -939,7 +1000,7 @@
       "detailPath": "entities/songs/8ca7be00641084e3.json"
     },
     {
-      "rank": 8617,
+      "rank": 8618,
       "id": "2da758e03a91f541",
       "name": "ラピスラズリ",
       "secondary": "藍井エイル(Eir,加藤裕介)",
@@ -996,7 +1057,7 @@
       "detailPath": "entities/songs/2da758e03a91f541.json"
     },
     {
-      "rank": 8618,
+      "rank": 8619,
       "id": "71413f7ae0b82df2",
       "name": "ラビュー・ラビュー",
       "secondary": "ポルノグラフィティ",
@@ -1054,7 +1115,7 @@
       "detailPath": "entities/songs/71413f7ae0b82df2.json"
     },
     {
-      "rank": 8619,
+      "rank": 8620,
       "id": "0061c401cb80da59",
       "name": "ラブカ？",
       "secondary": "柊キライ feat.v flower",
@@ -1113,7 +1174,7 @@
       "detailPath": "entities/songs/0061c401cb80da59.json"
     },
     {
-      "rank": 8620,
+      "rank": 8621,
       "id": "23f69b1f0feefd60",
       "name": "ラプラスショコラ",
       "secondary": "Kai feat. 初音ミク",
@@ -1172,7 +1233,7 @@
       "detailPath": "entities/songs/23f69b1f0feefd60.json"
     },
     {
-      "rank": 8621,
+      "rank": 8622,
       "id": "27dfe782a4b2dbbb",
       "name": "ラプラスショコラ",
       "secondary": "",
@@ -1229,7 +1290,7 @@
       "detailPath": "entities/songs/27dfe782a4b2dbbb.json"
     },
     {
-      "rank": 8622,
+      "rank": 8623,
       "id": "36314c8993111a5d",
       "name": "ラプンツェル",
       "secondary": "未記載",
@@ -1287,7 +1348,7 @@
       "detailPath": "entities/songs/36314c8993111a5d.json"
     },
     {
-      "rank": 8623,
+      "rank": 8624,
       "id": "86fc693b004a7004",
       "name": "ラムのラブソング",
       "secondary": "うる星やつら",
@@ -1345,7 +1406,7 @@
       "detailPath": "entities/songs/86fc693b004a7004.json"
     },
     {
-      "rank": 8624,
+      "rank": 8625,
       "id": "270b010b126afd1d",
       "name": "ラムのラブソング",
       "secondary": "",
@@ -1402,7 +1463,7 @@
       "detailPath": "entities/songs/270b010b126afd1d.json"
     },
     {
-      "rank": 8625,
+      "rank": 8626,
       "id": "3e1d29890ed3b18b",
       "name": "ランデヴー",
       "secondary": "シャイトープ",
@@ -1462,7 +1523,7 @@
       "detailPath": "entities/songs/3e1d29890ed3b18b.json"
     },
     {
-      "rank": 8626,
+      "rank": 8627,
       "id": "59cbd6d52304ab39",
       "name": "リグレット",
       "secondary": "sumika",
@@ -1522,7 +1583,7 @@
       "detailPath": "entities/songs/59cbd6d52304ab39.json"
     },
     {
-      "rank": 8627,
+      "rank": 8628,
       "id": "43872c117e0074d8",
       "name": "リスキーゲーム",
       "secondary": "White Flame",
@@ -1579,7 +1640,7 @@
       "detailPath": "entities/songs/43872c117e0074d8.json"
     },
     {
-      "rank": 8628,
+      "rank": 8629,
       "id": "f10680e0589c20b9",
       "name": "リトルグッバイ",
       "secondary": "ROCKY CHACK",
@@ -1639,7 +1700,7 @@
       "detailPath": "entities/songs/f10680e0589c20b9.json"
     },
     {
-      "rank": 8629,
+      "rank": 8630,
       "id": "40ddc2c1447b70e9",
       "name": "リバーサイド・ホテル",
       "secondary": "井上陽水",
@@ -1697,7 +1758,7 @@
       "detailPath": "entities/songs/40ddc2c1447b70e9.json"
     },
     {
-      "rank": 8630,
+      "rank": 8631,
       "id": "445969c3d1bec969",
       "name": "リフレイン",
       "secondary": "榊原ゆい",
@@ -1754,7 +1815,7 @@
       "detailPath": "entities/songs/445969c3d1bec969.json"
     },
     {
-      "rank": 8631,
+      "rank": 8632,
       "id": "86f26519c90969c1",
       "name": "リフレクション",
       "secondary": "",
@@ -1808,7 +1869,7 @@
       "detailPath": "entities/songs/86f26519c90969c1.json"
     },
     {
-      "rank": 8632,
+      "rank": 8633,
       "id": "b93e08801eb7ebcb",
       "name": "リメンバー・ミー",
       "secondary": "石橋陽彩",
@@ -1866,7 +1927,7 @@
       "detailPath": "entities/songs/b93e08801eb7ebcb.json"
     },
     {
-      "rank": 8633,
+      "rank": 8634,
       "id": "a279297e6836302a",
       "name": "リモコン",
       "secondary": "じーざすP",
@@ -1925,7 +1986,7 @@
       "detailPath": "entities/songs/a279297e6836302a.json"
     },
     {
-      "rank": 8634,
+      "rank": 8635,
       "id": "9e620782e90e63ec",
       "name": "リライト",
       "secondary": "アジアン・カンフー・ジェネレーション",
@@ -1985,7 +2046,7 @@
       "detailPath": "entities/songs/9e620782e90e63ec.json"
     },
     {
-      "rank": 8635,
+      "rank": 8636,
       "id": "298c1f61646816af",
       "name": "リリィ",
       "secondary": "BUMP OF CHICKEN",
@@ -2044,7 +2105,7 @@
       "detailPath": "entities/songs/298c1f61646816af.json"
     },
     {
-      "rank": 8636,
+      "rank": 8637,
       "id": "da0aad5f3338a176",
       "name": "リリック",
       "secondary": "TOKIO",
@@ -2102,7 +2163,7 @@
       "detailPath": "entities/songs/da0aad5f3338a176.json"
     },
     {
-      "rank": 8637,
+      "rank": 8638,
       "id": "c64d515396646ebd",
       "name": "リンちゃんなう！",
       "secondary": "オワタP",
@@ -2159,7 +2220,7 @@
       "detailPath": "entities/songs/c64d515396646ebd.json"
     },
     {
-      "rank": 8638,
+      "rank": 8639,
       "id": "bd1ef310e56d53bd",
       "name": "リンネ",
       "secondary": "",
@@ -2216,7 +2277,7 @@
       "detailPath": "entities/songs/bd1ef310e56d53bd.json"
     },
     {
-      "rank": 8639,
+      "rank": 8640,
       "id": "40f30c8fc753496a",
       "name": "ルージュの伝言",
       "secondary": "松任谷由美",
@@ -2277,7 +2338,7 @@
       "detailPath": "entities/songs/40f30c8fc753496a.json"
     },
     {
-      "rank": 8640,
+      "rank": 8641,
       "id": "1cae40f9d88ec1f1",
       "name": "ルーム No.4",
       "secondary": "",
@@ -2334,7 +2395,7 @@
       "detailPath": "entities/songs/1cae40f9d88ec1f1.json"
     },
     {
-      "rank": 8641,
+      "rank": 8642,
       "id": "64d90c97ce11ab62",
       "name": "ルカルカ★ナイトフィーバー",
       "secondary": "samfree ※JOYSOUND",
@@ -2391,7 +2452,7 @@
       "detailPath": "entities/songs/64d90c97ce11ab62.json"
     },
     {
-      "rank": 8642,
+      "rank": 8643,
       "id": "9808bdd423a9ad3e",
       "name": "ルカルカ☆ナイトフィーバー",
       "secondary": "鹿乃",
@@ -2450,7 +2511,7 @@
       "detailPath": "entities/songs/9808bdd423a9ad3e.json"
     },
     {
-      "rank": 8643,
+      "rank": 8644,
       "id": "8b8f7970a548f133",
       "name": "ルシファー",
       "secondary": "¿?shimon",
@@ -2507,7 +2568,7 @@
       "detailPath": "entities/songs/8b8f7970a548f133.json"
     },
     {
-      "rank": 8644,
+      "rank": 8645,
       "id": "ddad5d3b87ffa793",
       "name": "ルネサンス",
       "secondary": "相対性理論",
@@ -2564,7 +2625,7 @@
       "detailPath": "entities/songs/ddad5d3b87ffa793.json"
     },
     {
-      "rank": 8645,
+      "rank": 8646,
       "id": "05a3105b994ca4f8",
       "name": "ルパン・ザ・ファイヤー",
       "secondary": "SEAMO",
@@ -2621,7 +2682,7 @@
       "detailPath": "entities/songs/05a3105b994ca4f8.json"
     },
     {
-      "rank": 8646,
+      "rank": 8647,
       "id": "4bff20283f27af9d",
       "name": "ルパン三世のテーマ",
       "secondary": "水木一郎",
@@ -2679,7 +2740,7 @@
       "detailPath": "entities/songs/4bff20283f27af9d.json"
     },
     {
-      "rank": 8647,
+      "rank": 8648,
       "id": "3fc98a41ad06def9",
       "name": "ルパン三世のテーマ",
       "secondary": "",
@@ -2736,7 +2797,7 @@
       "detailPath": "entities/songs/3fc98a41ad06def9.json"
     },
     {
-      "rank": 8648,
+      "rank": 8649,
       "id": "43fddeab49e4fa07",
       "name": "ルマ",
       "secondary": "",
@@ -2793,7 +2854,7 @@
       "detailPath": "entities/songs/43fddeab49e4fa07.json"
     },
     {
-      "rank": 8649,
+      "rank": 8650,
       "id": "7aa92d8baa7e44d7",
       "name": "ルンがピカッと光ったら",
       "secondary": "",
@@ -2848,66 +2909,6 @@
         }
       ],
       "detailPath": "entities/songs/7aa92d8baa7e44d7.json"
-    },
-    {
-      "rank": 8650,
-      "id": "a8515f0844c02e4f",
-      "name": "ルンに花咲く恋もある",
-      "secondary": "ワルキューレ",
-      "channelId": "UCf4FRQpYUnujY7gcY2DvkKg",
-      "channelHandle": "@XXX-XXX33",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "B3SY2GA8mas",
-          "videoTitle": "【＃歌枠 / #karaoke 】歌いたいんだよおおおおおおお！！📣【＃もんたりうむ /初見さんも大歓迎♪】",
-          "channelName": "木乃芽もん太🦭Konome Monta💭",
-          "publishedAt": "2026-10-01T12:38:19.775Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/B3SY2GA8mas/hqdefault.jpg",
-          "sourcePath": "sources/B3/B3SY2GA8mas.json",
-          "time": "0:57:35",
-          "seconds": 3455,
-          "songTitle": "ルンに花咲く恋もある",
-          "artist": "ワルキューレ"
-        },
-        {
-          "videoId": "Gctx2Rbb_S0",
-          "videoTitle": "【歌枠】ののあの歌を聴けーっ！マクロスオンリーで盛り上がろう！【#生ののあらいぶ / #KARAOKE】",
-          "channelName": "NONOA Ch.華美雲ののあ",
-          "publishedAt": "2026-09-29T12:28:59.948Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Gctx2Rbb_S0/hqdefault.jpg",
-          "sourcePath": "sources/Gc/Gctx2Rbb_S0.json",
-          "time": "0:48:35",
-          "seconds": 2915,
-          "songTitle": "ルンに花咲く恋もある",
-          "artist": "ワルキューレ"
-        },
-        {
-          "videoId": "_GJBEzRBvtI",
-          "videoTitle": "【弾き語り】超武技暗黒弾語り",
-          "channelName": "XXX",
-          "publishedAt": "2026-08-09T11:44:01.687Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/_GJBEzRBvtI/hqdefault.jpg",
-          "sourcePath": "sources/_G/_GJBEzRBvtI.json",
-          "time": "0:37:21",
-          "seconds": 2241,
-          "songTitle": "ルンに花咲く恋もある",
-          "artist": "ワルキューレ"
-        }
-      ],
-      "detailPath": "entities/songs/a8515f0844c02e4f.json"
     }
   ]
 }

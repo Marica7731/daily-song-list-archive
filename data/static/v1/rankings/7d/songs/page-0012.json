@@ -1,62 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "7d",
   "type": "songs",
   "page": 12,
   "pageSize": 50,
   "pageCount": 72,
-  "totalCount": 3558,
+  "totalCount": 3553,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 551,
-      "id": "34860a19d90c534b",
-      "name": "どんなときも",
-      "secondary": "槇原敬之",
-      "channelId": "UCn5eQ2WeifRnGPXJTn3jfDg",
-      "channelHandle": "@yanaikaname",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "zsoT-lQqmvk",
-          "videoTitle": "【 #歌枠 / KARAOKE 】4時間以内に同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
-          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
-          "publishedAt": "2026-10-10T01:21:46.516Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/zsoT-lQqmvk/hqdefault.jpg",
-          "sourcePath": "sources/zs/zsoT-lQqmvk.json",
-          "time": "1:24:11",
-          "seconds": 5051,
-          "songTitle": "どんなときも",
-          "artist": "槇原敬之"
-        },
-        {
-          "videoId": "XZMqEbFidzc",
-          "videoTitle": "【弾き語り】ゆったり過ごす夜｜疲れた心を癒すBGM",
-          "channelName": "柳井鹿目 - かなめは弾き語る📻",
-          "publishedAt": "2026-10-08T15:46:12.988Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XZMqEbFidzc/hqdefault.jpg",
-          "sourcePath": "sources/XZ/XZMqEbFidzc.json",
-          "time": "0:11:25",
-          "seconds": 685,
-          "songTitle": "どんなときも",
-          "artist": "槇原敬之"
-        }
-      ],
-      "detailPath": "entities/songs/34860a19d90c534b.json"
-    },
-    {
-      "rank": 552,
       "id": "47fc0953a4b68c63",
       "name": "ないない",
       "secondary": "ReoNa",
@@ -101,7 +55,7 @@
       "detailPath": "entities/songs/47fc0953a4b68c63.json"
     },
     {
-      "rank": 553,
+      "rank": 552,
       "id": "6438da772d982b6a",
       "name": "なぜ?謎?!ANSWER",
       "secondary": "熊田茜音＆増井優花",
@@ -146,7 +100,7 @@
       "detailPath": "entities/songs/6438da772d982b6a.json"
     },
     {
-      "rank": 554,
+      "rank": 553,
       "id": "5876ec4ccd3469b3",
       "name": "なんでもないや",
       "secondary": "RADWIMPS",
@@ -191,7 +145,7 @@
       "detailPath": "entities/songs/5876ec4ccd3469b3.json"
     },
     {
-      "rank": 555,
+      "rank": 554,
       "id": "f7c0cf56ce8325fa",
       "name": "なんもねえ",
       "secondary": "忘れらんねえよ",
@@ -236,7 +190,7 @@
       "detailPath": "entities/songs/f7c0cf56ce8325fa.json"
     },
     {
-      "rank": 556,
+      "rank": 555,
       "id": "15b4083edce29240",
       "name": "パジャマパーティーズのうた",
       "secondary": "パジャマパーティーズ",
@@ -281,7 +235,7 @@
       "detailPath": "entities/songs/15b4083edce29240.json"
     },
     {
-      "rank": 557,
+      "rank": 556,
       "id": "9ac0988eea813074",
       "name": "ハッピーエンド",
       "secondary": "back number",
@@ -326,7 +280,7 @@
       "detailPath": "entities/songs/9ac0988eea813074.json"
     },
     {
-      "rank": 558,
+      "rank": 557,
       "id": "49b3e2e37cb46eb8",
       "name": "パプリカ",
       "secondary": "米津玄師",
@@ -371,7 +325,7 @@
       "detailPath": "entities/songs/49b3e2e37cb46eb8.json"
     },
     {
-      "rank": 559,
+      "rank": 558,
       "id": "b8904a3af87d774b",
       "name": "バラライカ",
       "secondary": "月島きらり starring 久住小春（モーニング娘。）",
@@ -416,7 +370,7 @@
       "detailPath": "entities/songs/b8904a3af87d774b.json"
     },
     {
-      "rank": 560,
+      "rank": 559,
       "id": "715156607232cac9",
       "name": "ハレ晴レユカイ",
       "secondary": "涼宮ハルヒ(平野綾)・長門有希(茅原実里)・朝比奈みくる(後藤邑子)",
@@ -461,7 +415,7 @@
       "detailPath": "entities/songs/715156607232cac9.json"
     },
     {
-      "rank": 561,
+      "rank": 560,
       "id": "ac64a30c7a109044",
       "name": "ビードロ模様",
       "secondary": "やなぎなぎ",
@@ -506,7 +460,7 @@
       "detailPath": "entities/songs/ac64a30c7a109044.json"
     },
     {
-      "rank": 562,
+      "rank": 561,
       "id": "edd18b92dd7171da",
       "name": "ヒカリへ",
       "secondary": "miwa",
@@ -551,7 +505,7 @@
       "detailPath": "entities/songs/edd18b92dd7171da.json"
     },
     {
-      "rank": 563,
+      "rank": 562,
       "id": "f94fc6cdb95ba788",
       "name": "ひとりごつ",
       "secondary": "ハチワレ",
@@ -597,7 +551,7 @@
       "detailPath": "entities/songs/f94fc6cdb95ba788.json"
     },
     {
-      "rank": 564,
+      "rank": 563,
       "id": "88398f95757f9939",
       "name": "ヒトリゴト",
       "secondary": "ClariS",
@@ -642,7 +596,7 @@
       "detailPath": "entities/songs/88398f95757f9939.json"
     },
     {
-      "rank": 565,
+      "rank": 564,
       "id": "cfd47422e10c3906",
       "name": "ヒメムラサキ",
       "secondary": "水樹奈々",
@@ -687,7 +641,7 @@
       "detailPath": "entities/songs/cfd47422e10c3906.json"
     },
     {
-      "rank": 566,
+      "rank": 565,
       "id": "b52f4b38bb27b6a0",
       "name": "ファンサ",
       "secondary": "mona",
@@ -732,7 +686,7 @@
       "detailPath": "entities/songs/b52f4b38bb27b6a0.json"
     },
     {
-      "rank": 567,
+      "rank": 566,
       "id": "e2b031bc125450bc",
       "name": "ファンサ",
       "secondary": "夏川椎菜",
@@ -777,7 +731,7 @@
       "detailPath": "entities/songs/e2b031bc125450bc.json"
     },
     {
-      "rank": 568,
+      "rank": 567,
       "id": "4a3794c4310cd8d8",
       "name": "ファンサ",
       "secondary": "HoneyWorks",
@@ -822,7 +776,7 @@
       "detailPath": "entities/songs/4a3794c4310cd8d8.json"
     },
     {
-      "rank": 569,
+      "rank": 568,
       "id": "f163689d31c1af96",
       "name": "ふたりごと",
       "secondary": "RADWIMPS",
@@ -867,7 +821,7 @@
       "detailPath": "entities/songs/f163689d31c1af96.json"
     },
     {
-      "rank": 570,
+      "rank": 569,
       "id": "bb525d6c435832d5",
       "name": "フライディ・チャイナタウン",
       "secondary": "泰葉",
@@ -912,7 +866,7 @@
       "detailPath": "entities/songs/bb525d6c435832d5.json"
     },
     {
-      "rank": 571,
+      "rank": 570,
       "id": "36c1d7cfb2b8ab88",
       "name": "プライド革命",
       "secondary": "CHiCO with HoneyWorks",
@@ -957,7 +911,7 @@
       "detailPath": "entities/songs/36c1d7cfb2b8ab88.json"
     },
     {
-      "rank": 572,
+      "rank": 571,
       "id": "0fed8c704f1d873e",
       "name": "ブレーメン",
       "secondary": "ヨルシカ",
@@ -1002,7 +956,7 @@
       "detailPath": "entities/songs/0fed8c704f1d873e.json"
     },
     {
-      "rank": 573,
+      "rank": 572,
       "id": "1018bcb33a5e400d",
       "name": "ベノム",
       "secondary": "かいりきベア",
@@ -1047,7 +1001,7 @@
       "detailPath": "entities/songs/1018bcb33a5e400d.json"
     },
     {
-      "rank": 574,
+      "rank": 573,
       "id": "e21224ec91980a1f",
       "name": "へび",
       "secondary": "ヨルシカ",
@@ -1092,7 +1046,7 @@
       "detailPath": "entities/songs/e21224ec91980a1f.json"
     },
     {
-      "rank": 575,
+      "rank": 574,
       "id": "f1a2306688df6795",
       "name": "ヘミソフィア",
       "secondary": "坂本真綾",
@@ -1137,7 +1091,7 @@
       "detailPath": "entities/songs/f1a2306688df6795.json"
     },
     {
-      "rank": 576,
+      "rank": 575,
       "id": "81a836b5458dae04",
       "name": "ぼなぺてぃーと♡S",
       "secondary": "ブレンド・A",
@@ -1182,7 +1136,7 @@
       "detailPath": "entities/songs/81a836b5458dae04.json"
     },
     {
-      "rank": 577,
+      "rank": 576,
       "id": "2787b0592c407a79",
       "name": "ほろよい",
       "secondary": "kojikoji",
@@ -1228,7 +1182,7 @@
       "detailPath": "entities/songs/2787b0592c407a79.json"
     },
     {
-      "rank": 578,
+      "rank": 577,
       "id": "3bf773cbdcfbb1ea",
       "name": "マジLOVE1000％",
       "secondary": "ST☆RISH",
@@ -1273,7 +1227,7 @@
       "detailPath": "entities/songs/3bf773cbdcfbb1ea.json"
     },
     {
-      "rank": 579,
+      "rank": 578,
       "id": "02f00da757343007",
       "name": "まで販売",
       "secondary": "",
@@ -1318,7 +1272,7 @@
       "detailPath": "entities/songs/02f00da757343007.json"
     },
     {
-      "rank": 580,
+      "rank": 579,
       "id": "5bd1afea3deca203",
       "name": "メランコリーキッチン",
       "secondary": "米津玄師",
@@ -1363,7 +1317,7 @@
       "detailPath": "entities/songs/5bd1afea3deca203.json"
     },
     {
-      "rank": 581,
+      "rank": 580,
       "id": "19f0bf860e59f710",
       "name": "メリクリ",
       "secondary": "BoA",
@@ -1408,7 +1362,7 @@
       "detailPath": "entities/songs/19f0bf860e59f710.json"
     },
     {
-      "rank": 582,
+      "rank": 581,
       "id": "bceee74a4ed738cb",
       "name": "メリッサ",
       "secondary": "",
@@ -1453,7 +1407,7 @@
       "detailPath": "entities/songs/bceee74a4ed738cb.json"
     },
     {
-      "rank": 583,
+      "rank": 582,
       "id": "e667ef3f81ad2787",
       "name": "メリッサ",
       "secondary": "ポルノグラフィティ",
@@ -1499,7 +1453,7 @@
       "detailPath": "entities/songs/e667ef3f81ad2787.json"
     },
     {
-      "rank": 584,
+      "rank": 583,
       "id": "4458044c9de79a22",
       "name": "モザイクカケラ",
       "secondary": "SunSet Swish",
@@ -1544,7 +1498,7 @@
       "detailPath": "entities/songs/4458044c9de79a22.json"
     },
     {
-      "rank": 585,
+      "rank": 584,
       "id": "8059664cbe6577d4",
       "name": "ユメセカイ",
       "secondary": "戸松遥",
@@ -1589,7 +1543,7 @@
       "detailPath": "entities/songs/8059664cbe6577d4.json"
     },
     {
-      "rank": 586,
+      "rank": 585,
       "id": "626df1b28ffdb320",
       "name": "ユメ語るよりユメ歌おう",
       "secondary": "Aqours",
@@ -1634,7 +1588,7 @@
       "detailPath": "entities/songs/626df1b28ffdb320.json"
     },
     {
-      "rank": 587,
+      "rank": 586,
       "id": "df484d77ab9c4581",
       "name": "ユラユラ",
       "secondary": "あいみょん",
@@ -1679,7 +1633,7 @@
       "detailPath": "entities/songs/df484d77ab9c4581.json"
     },
     {
-      "rank": 588,
+      "rank": 587,
       "id": "3a03517182563617",
       "name": "ようこそジャパリパークへ",
       "secondary": "どうぶつビスケッツ",
@@ -1724,7 +1678,7 @@
       "detailPath": "entities/songs/3a03517182563617.json"
     },
     {
-      "rank": 589,
+      "rank": 588,
       "id": "2055e4193397f67d",
       "name": "ライオン",
       "secondary": "May'n/中島愛",
@@ -1769,7 +1723,7 @@
       "detailPath": "entities/songs/2055e4193397f67d.json"
     },
     {
-      "rank": 590,
+      "rank": 589,
       "id": "76a8348ddb17da6c",
       "name": "ライオン/May'n",
       "secondary": "中島愛",
@@ -1814,7 +1768,7 @@
       "detailPath": "entities/songs/76a8348ddb17da6c.json"
     },
     {
-      "rank": 591,
+      "rank": 590,
       "id": "3daf9fa9dea8507b",
       "name": "ライラック",
       "secondary": "",
@@ -1859,7 +1813,7 @@
       "detailPath": "entities/songs/3daf9fa9dea8507b.json"
     },
     {
-      "rank": 592,
+      "rank": 591,
       "id": "60bfa754bf097cc9",
       "name": "ラヴ・イズ・オーヴァー",
       "secondary": "欧陽菲菲",
@@ -1904,7 +1858,7 @@
       "detailPath": "entities/songs/60bfa754bf097cc9.json"
     },
     {
-      "rank": 593,
+      "rank": 592,
       "id": "b2fba9088ddaf04c",
       "name": "らしさ",
       "secondary": "SUPER BEAVER",
@@ -1949,7 +1903,7 @@
       "detailPath": "entities/songs/b2fba9088ddaf04c.json"
     },
     {
-      "rank": 594,
+      "rank": 593,
       "id": "f7e5d280cb9e4c9e",
       "name": "ラビットホール",
       "secondary": "DECO*27",
@@ -1994,7 +1948,7 @@
       "detailPath": "entities/songs/f7e5d280cb9e4c9e.json"
     },
     {
-      "rank": 595,
+      "rank": 594,
       "id": "5de74bf2d60c0957",
       "name": "ラブ・ストーリーは突然に",
       "secondary": "小田和正",
@@ -2039,7 +1993,7 @@
       "detailPath": "entities/songs/5de74bf2d60c0957.json"
     },
     {
-      "rank": 596,
+      "rank": 595,
       "id": "8a8750f92bd853c2",
       "name": "ラフ・メイカー",
       "secondary": "BUMP OF CHICKEN",
@@ -2085,7 +2039,7 @@
       "detailPath": "entities/songs/8a8750f92bd853c2.json"
     },
     {
-      "rank": 597,
+      "rank": 596,
       "id": "2fa420d9d5fdd41c",
       "name": "ラブカ？",
       "secondary": "柊キライ",
@@ -2130,7 +2084,7 @@
       "detailPath": "entities/songs/2fa420d9d5fdd41c.json"
     },
     {
-      "rank": 598,
+      "rank": 597,
       "id": "b09f5f1eaa544c38",
       "name": "ラブソングに襲われる",
       "secondary": "=LOVE",
@@ -2175,7 +2129,7 @@
       "detailPath": "entities/songs/b09f5f1eaa544c38.json"
     },
     {
-      "rank": 599,
+      "rank": 598,
       "id": "b272718227cfb04a",
       "name": "ルージュの伝言",
       "secondary": "荒井由実",
@@ -2221,7 +2175,7 @@
       "detailPath": "entities/songs/b272718227cfb04a.json"
     },
     {
-      "rank": 600,
+      "rank": 599,
       "id": "f908906af3e171b5",
       "name": "ルカルカ★ナイトフィーバー",
       "secondary": "samfree",
@@ -2265,6 +2219,51 @@
         }
       ],
       "detailPath": "entities/songs/f908906af3e171b5.json"
+    },
+    {
+      "rank": 600,
+      "id": "018af87e45eb3050",
+      "name": "レイン",
+      "secondary": "シド",
+      "channelId": "UC4t5SieTiT20alR4OQDybtg",
+      "channelHandle": "@Yasumi_Ch",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "dzGK6e4cxfA",
+          "videoTitle": "【#耐久歌枠】こんな時間に２３３００人耐久！？達成するまで終われないみたい。【#MUZU/個人VTuber】",
+          "channelName": "MUZU‐むずちゃんねる‐【Vtuber】",
+          "publishedAt": "2026-10-12T03:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/dzGK6e4cxfA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAoR1K4zKHISW-UDnuYl-TfbH5XwA",
+          "sourcePath": "sources/dz/dzGK6e4cxfA.json",
+          "time": "2:04:24",
+          "seconds": 7464,
+          "songTitle": "レイン",
+          "artist": "シド *"
+        },
+        {
+          "videoId": "hYO0-LrNVLM",
+          "videoTitle": "【歌枠】うれしくたのしくおうたのじかん【やすみ/Vtuber】",
+          "channelName": "やすみ / Yasumi",
+          "publishedAt": "2026-10-11T19:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/hYO0-LrNVLM/hqdefault.jpg",
+          "sourcePath": "sources/hY/hYO0-LrNVLM.json",
+          "time": "1:49:57",
+          "seconds": 6597,
+          "songTitle": "レイン",
+          "artist": "シド"
+        }
+      ],
+      "detailPath": "entities/songs/018af87e45eb3050.json"
     }
   ]
 }

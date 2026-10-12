@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 202,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 10051,
+      "id": "6a70b999a56e830f",
+      "name": "Be cool!",
+      "secondary": "野猿",
+      "channelId": "UCG2pEoZldUJx-92etZL3VVg",
+      "channelHandle": "@horiponi",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "F0-JHl_0Daw",
+          "videoTitle": "[泥酔縦型歌枠】連休ですやん飲みますなん適度に歌上手いですやん【男性Vtuber】",
+          "channelName": "キャプテン・ジョーさん / Captain Joe-san",
+          "publishedAt": "2026-09-20T08:31:30.869Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/F0-JHl_0Daw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAG-pVu-g9oVE1lDOmbM1GAiZBQwQ",
+          "sourcePath": "sources/F0/F0-JHl_0Daw.json",
+          "time": "1:57:14",
+          "seconds": 7034,
+          "songTitle": "Be cool!",
+          "artist": "野猿"
+        },
+        {
+          "videoId": "cj5WIfdhi9Q",
+          "videoTitle": "【#歌枠】昭和平成自信曲！男子の歌枠・第13回 15曲【#男性Vtuber/#karaoke/#懐メロ】",
+          "channelName": "ほりぽに / horiponi",
+          "publishedAt": "2026-09-06T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cj5WIfdhi9Q/hqdefault.jpg",
+          "sourcePath": "sources/cj/cj5WIfdhi9Q.json",
+          "time": "0:39:49",
+          "seconds": 2389,
+          "songTitle": "Be cool!",
+          "artist": "野猿"
+        }
+      ],
+      "detailPath": "entities/songs/6a70b999a56e830f.json"
+    },
+    {
+      "rank": 10052,
       "id": "bbb8ad137aabcf7a",
       "name": "Be My Angel",
       "secondary": "榎本温子",
@@ -58,7 +103,7 @@
       "detailPath": "entities/songs/bbb8ad137aabcf7a.json"
     },
     {
-      "rank": 10052,
+      "rank": 10053,
       "id": "3d60a19784785f01",
       "name": "Be My Last",
       "secondary": "宇多田ヒカル",
@@ -106,7 +151,7 @@
       "detailPath": "entities/songs/3d60a19784785f01.json"
     },
     {
-      "rank": 10053,
+      "rank": 10054,
       "id": "06eb721f1b5896ef",
       "name": "Be My Princess",
       "secondary": "Special for Princess!",
@@ -151,7 +196,7 @@
       "detailPath": "entities/songs/06eb721f1b5896ef.json"
     },
     {
-      "rank": 10054,
+      "rank": 10055,
       "id": "7cde733e64685baa",
       "name": "Be Selfish",
       "secondary": "＝LOVE",
@@ -199,7 +244,7 @@
       "detailPath": "entities/songs/7cde733e64685baa.json"
     },
     {
-      "rank": 10055,
+      "rank": 10056,
       "id": "0450d688129552ca",
       "name": "Be Somewhere",
       "secondary": "",
@@ -244,7 +289,7 @@
       "detailPath": "entities/songs/0450d688129552ca.json"
     },
     {
-      "rank": 10056,
+      "rank": 10057,
       "id": "ceb6db8839428fb4",
       "name": "BE TOGETHER",
       "secondary": "鈴木あみ",
@@ -290,7 +335,7 @@
       "detailPath": "entities/songs/ceb6db8839428fb4.json"
     },
     {
-      "rank": 10057,
+      "rank": 10058,
       "id": "182f15760369a9af",
       "name": "BEAUTIFUL DREAMER",
       "secondary": "GLAY",
@@ -335,7 +380,7 @@
       "detailPath": "entities/songs/182f15760369a9af.json"
     },
     {
-      "rank": 10058,
+      "rank": 10059,
       "id": "a721f9debb42ed39",
       "name": "Beautiful Fin",
       "secondary": "Spitz",
@@ -381,7 +426,7 @@
       "detailPath": "entities/songs/a721f9debb42ed39.json"
     },
     {
-      "rank": 10059,
+      "rank": 10060,
       "id": "41c0bd5b2a973ea0",
       "name": "Beautiful Love",
       "secondary": "美風藍(蒼井翔太)、聖川真斗(鈴村健一)、来栖翔(下野紘)",
@@ -426,7 +471,7 @@
       "detailPath": "entities/songs/41c0bd5b2a973ea0.json"
     },
     {
-      "rank": 10060,
+      "rank": 10061,
       "id": "a106aadf912741ac",
       "name": "Beautiful Things",
       "secondary": "Benson Boone",
@@ -473,7 +518,7 @@
       "detailPath": "entities/songs/a106aadf912741ac.json"
     },
     {
-      "rank": 10061,
+      "rank": 10062,
       "id": "f7a0a05a623863c6",
       "name": "Beautiful Wish",
       "secondary": "星羅(喜多村英梨)",
@@ -519,7 +564,7 @@
       "detailPath": "entities/songs/f7a0a05a623863c6.json"
     },
     {
-      "rank": 10062,
+      "rank": 10063,
       "id": "f0136cf6f8335594",
       "name": "Beautiful world",
       "secondary": "Hikaru Utada",
@@ -564,7 +609,7 @@
       "detailPath": "entities/songs/f0136cf6f8335594.json"
     },
     {
-      "rank": 10063,
+      "rank": 10064,
       "id": "ab5684e01c4cdd51",
       "name": "Beautiful World",
       "secondary": "未記載",
@@ -610,7 +655,7 @@
       "detailPath": "entities/songs/ab5684e01c4cdd51.json"
     },
     {
-      "rank": 10064,
+      "rank": 10065,
       "id": "97163f3aed5b8d8e",
       "name": "Beautiful World『ヱヴァンゲリヲン新劇場版:序』",
       "secondary": "宇多田ヒカル",
@@ -655,7 +700,7 @@
       "detailPath": "entities/songs/97163f3aed5b8d8e.json"
     },
     {
-      "rank": 10065,
+      "rank": 10066,
       "id": "5943944808e969c1",
       "name": "Beauty And A Beat",
       "secondary": "Justin Beiber & Nicki Minaj",
@@ -702,7 +747,7 @@
       "detailPath": "entities/songs/5943944808e969c1.json"
     },
     {
-      "rank": 10066,
+      "rank": 10067,
       "id": "4afcbb2b375c5f67",
       "name": "Before Dawn",
       "secondary": "えるるん",
@@ -747,7 +792,7 @@
       "detailPath": "entities/songs/4afcbb2b375c5f67.json"
     },
     {
-      "rank": 10067,
+      "rank": 10068,
       "id": "583e849bbbba2839",
       "name": "Begin Again",
       "secondary": "Taylor Swift",
@@ -795,7 +840,7 @@
       "detailPath": "entities/songs/583e849bbbba2839.json"
     },
     {
-      "rank": 10068,
+      "rank": 10069,
       "id": "ad1444fd3170030a",
       "name": "believe",
       "secondary": "Kalafina",
@@ -842,7 +887,7 @@
       "detailPath": "entities/songs/ad1444fd3170030a.json"
     },
     {
-      "rank": 10069,
+      "rank": 10070,
       "id": "df3143cbf8284361",
       "name": "Believe",
       "secondary": "未記載",
@@ -887,7 +932,7 @@
       "detailPath": "entities/songs/df3143cbf8284361.json"
     },
     {
-      "rank": 10070,
+      "rank": 10071,
       "id": "a4160f541752d6ce",
       "name": "Believe",
       "secondary": "童謡",
@@ -935,7 +980,7 @@
       "detailPath": "entities/songs/a4160f541752d6ce.json"
     },
     {
-      "rank": 10071,
+      "rank": 10072,
       "id": "514f410d0c94a5da",
       "name": "BELIEVE",
       "secondary": "エンジェルスハーモニー",
@@ -981,7 +1026,7 @@
       "detailPath": "entities/songs/514f410d0c94a5da.json"
     },
     {
-      "rank": 10072,
+      "rank": 10073,
       "id": "1c0f27745bddf87f",
       "name": "Believe in myself",
       "secondary": "LiSA",
@@ -1029,7 +1074,7 @@
       "detailPath": "entities/songs/1c0f27745bddf87f.json"
     },
     {
-      "rank": 10073,
+      "rank": 10074,
       "id": "2406f120d7201c98",
       "name": "Believer",
       "secondary": "Imagine Dragons",
@@ -1074,7 +1119,7 @@
       "detailPath": "entities/songs/2406f120d7201c98.json"
     },
     {
-      "rank": 10074,
+      "rank": 10075,
       "id": "ce63571486c43f21",
       "name": "Bellyache",
       "secondary": "Billie Eilish",
@@ -1123,7 +1168,7 @@
       "detailPath": "entities/songs/ce63571486c43f21.json"
     },
     {
-      "rank": 10075,
+      "rank": 10076,
       "id": "aac0e7320e75ca66",
       "name": "Best Friend",
       "secondary": "Kiroro ※JOYSOUND",
@@ -1168,7 +1213,7 @@
       "detailPath": "entities/songs/aac0e7320e75ca66.json"
     },
     {
-      "rank": 10076,
+      "rank": 10077,
       "id": "a9802950dcd47fb9",
       "name": "Best Part",
       "secondary": "Daniel Caesar & H.E.R",
@@ -1214,7 +1259,7 @@
       "detailPath": "entities/songs/a9802950dcd47fb9.json"
     },
     {
-      "rank": 10077,
+      "rank": 10078,
       "id": "c0b928723890ebc1",
       "name": "BEYOND",
       "secondary": "安月名莉子",
@@ -1259,7 +1304,7 @@
       "detailPath": "entities/songs/c0b928723890ebc1.json"
     },
     {
-      "rank": 10078,
+      "rank": 10079,
       "id": "6adf78b07a5b9a8a",
       "name": "Beyond the way",
       "secondary": "ギガP",
@@ -1304,7 +1349,7 @@
       "detailPath": "entities/songs/6adf78b07a5b9a8a.json"
     },
     {
-      "rank": 10079,
+      "rank": 10080,
       "id": "8b0762420c7716d9",
       "name": "Beyond the way",
       "secondary": "",
@@ -1349,7 +1394,7 @@
       "detailPath": "entities/songs/8b0762420c7716d9.json"
     },
     {
-      "rank": 10080,
+      "rank": 10081,
       "id": "22c801bc7b347d63",
       "name": "Beyond the way",
       "secondary": "Giga feat. Miku・Rin・Len",
@@ -1394,7 +1439,7 @@
       "detailPath": "entities/songs/22c801bc7b347d63.json"
     },
     {
-      "rank": 10081,
+      "rank": 10082,
       "id": "7011555f8b08d5d4",
       "name": "BGM",
       "secondary": "",
@@ -1436,7 +1481,7 @@
       "detailPath": "entities/songs/7011555f8b08d5d4.json"
     },
     {
-      "rank": 10082,
+      "rank": 10083,
       "id": "959f44e56d7d859f",
       "name": "Bible",
       "secondary": "GLAY",
@@ -1478,7 +1523,7 @@
       "detailPath": "entities/songs/959f44e56d7d859f.json"
     },
     {
-      "rank": 10083,
+      "rank": 10084,
       "id": "8c06e07eab2a07ef",
       "name": "Billie Eilish",
       "secondary": "BIRDS OF A FEATHER",
@@ -1523,7 +1568,7 @@
       "detailPath": "entities/songs/8c06e07eab2a07ef.json"
     },
     {
-      "rank": 10084,
+      "rank": 10085,
       "id": "17d2412222f4f7e8",
       "name": "Billie Jean",
       "secondary": "Michael jackson💫二星まさくん",
@@ -1571,7 +1616,7 @@
       "detailPath": "entities/songs/17d2412222f4f7e8.json"
     },
     {
-      "rank": 10085,
+      "rank": 10086,
       "id": "207117ef4e5e5112",
       "name": "birth",
       "secondary": "Acid Black Cherry",
@@ -1616,7 +1661,7 @@
       "detailPath": "entities/songs/207117ef4e5e5112.json"
     },
     {
-      "rank": 10086,
+      "rank": 10087,
       "id": "00120ee53e95ae1b",
       "name": "Birth",
       "secondary": "奥井雅美",
@@ -1661,7 +1706,7 @@
       "detailPath": "entities/songs/00120ee53e95ae1b.json"
     },
     {
-      "rank": 10087,
+      "rank": 10088,
       "id": "6d2aedf7a3beb512",
       "name": "Bishoujo Muzai ♡ Pirates",
       "secondary": "Houshou Marine",
@@ -1706,7 +1751,7 @@
       "detailPath": "entities/songs/6d2aedf7a3beb512.json"
     },
     {
-      "rank": 10088,
+      "rank": 10089,
       "id": "0d68e4a48d8f47c1",
       "name": "bitter",
       "secondary": "keeno feat. 初音ミク",
@@ -1754,7 +1799,7 @@
       "detailPath": "entities/songs/0d68e4a48d8f47c1.json"
     },
     {
-      "rank": 10089,
+      "rank": 10090,
       "id": "c4c2143b0adc6bda",
       "name": "BL",
       "secondary": "女王蜂",
@@ -1799,7 +1844,7 @@
       "detailPath": "entities/songs/c4c2143b0adc6bda.json"
     },
     {
-      "rank": 10090,
+      "rank": 10091,
       "id": "ea959ae873c560bf",
       "name": "Black Rail",
       "secondary": "MY FIRST STORY",
@@ -1844,7 +1889,7 @@
       "detailPath": "entities/songs/ea959ae873c560bf.json"
     },
     {
-      "rank": 10091,
+      "rank": 10092,
       "id": "bf04587f66bc4cc1",
       "name": "BLACK SHOUT",
       "secondary": "Roselia",
@@ -1890,7 +1935,7 @@
       "detailPath": "entities/songs/bf04587f66bc4cc1.json"
     },
     {
-      "rank": 10092,
+      "rank": 10093,
       "id": "87b7d2dcc3359603",
       "name": "BLAZE",
       "secondary": "キンヤ",
@@ -1935,7 +1980,7 @@
       "detailPath": "entities/songs/87b7d2dcc3359603.json"
     },
     {
-      "rank": 10093,
+      "rank": 10094,
       "id": "85d2689cdb252b7d",
       "name": "BLINDING HOPE",
       "secondary": "the GazettE",
@@ -1980,7 +2025,7 @@
       "detailPath": "entities/songs/85d2689cdb252b7d.json"
     },
     {
-      "rank": 10094,
+      "rank": 10095,
       "id": "b24ec8e9e05a2712",
       "name": "Bling-Bang-Bang-Born",
       "secondary": "Creepy Nuts ／ マッシュル－MASHLE－(2024年)",
@@ -2022,7 +2067,7 @@
       "detailPath": "entities/songs/b24ec8e9e05a2712.json"
     },
     {
-      "rank": 10095,
+      "rank": 10096,
       "id": "eebc6e74fde37982",
       "name": "Blood",
       "secondary": "Azari",
@@ -2067,7 +2112,7 @@
       "detailPath": "entities/songs/eebc6e74fde37982.json"
     },
     {
-      "rank": 10096,
+      "rank": 10097,
       "id": "39811e4c54e3edc4",
       "name": "BLOOD QUEEN",
       "secondary": "美郷あき",
@@ -2115,7 +2160,7 @@
       "detailPath": "entities/songs/39811e4c54e3edc4.json"
     },
     {
-      "rank": 10097,
+      "rank": 10098,
       "id": "eede8772056e98f7",
       "name": "Bloody Power Fame",
       "secondary": "coldrain",
@@ -2162,7 +2207,7 @@
       "detailPath": "entities/songs/eede8772056e98f7.json"
     },
     {
-      "rank": 10098,
+      "rank": 10099,
       "id": "d268c77035b210be",
       "name": "Blooming♡Blooming",
       "secondary": "るか from AIKATSU☆STARS!",
@@ -2207,7 +2252,7 @@
       "detailPath": "entities/songs/d268c77035b210be.json"
     },
     {
-      "rank": 10099,
+      "rank": 10100,
       "id": "04c4809c65a1984e",
       "name": "BLOWIN'",
       "secondary": "B'z",
@@ -2250,53 +2295,6 @@
         }
       ],
       "detailPath": "entities/songs/04c4809c65a1984e.json"
-    },
-    {
-      "rank": 10100,
-      "id": "b77bfaff20fb5e67",
-      "name": "blue",
-      "secondary": "164",
-      "channelId": "UCDGT7_iad9LaNO6jrmukKFg",
-      "channelHandle": "@NatsushiroKuma",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "LuF8L7vlTfQ",
-          "videoTitle": "【#歌枠 #singingstream 】定期歌枠今週から金曜日だよ～🧸Chill Singing Stream! #kumastream",
-          "channelName": "夏白くぅま",
-          "publishedAt": "2026-09-25T02:58:43.998Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/LuF8L7vlTfQ/hqdefault.jpg",
-          "sourcePath": "sources/Lu/LuF8L7vlTfQ.json",
-          "time": "2:20:07",
-          "seconds": 8407,
-          "songTitle": "blue",
-          "artist": "164"
-        },
-        {
-          "videoId": "wjBiI-V6fTQ",
-          "videoTitle": "【#歌枠 #singingstream 】土曜の朝のBGMはいかがですか？ 🧸 Do you need a J-pop BGM? Chill Singing Stream #kumastream",
-          "channelName": "夏白くぅま",
-          "publishedAt": "2026-08-08T02:40:35.306Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/wjBiI-V6fTQ/hqdefault.jpg",
-          "sourcePath": "sources/wj/wjBiI-V6fTQ.json",
-          "time": "2:12:14",
-          "seconds": 7934,
-          "songTitle": "blue",
-          "artist": "164"
-        }
-      ],
-      "detailPath": "entities/songs/b77bfaff20fb5e67.json"
     }
   ]
 }

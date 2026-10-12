@@ -1,16 +1,109 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 293,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 14601,
+      "id": "19b8eec3bc301e0f",
+      "name": "人として軸がぶれている",
+      "secondary": "さよなら絶望先生",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "xW4a3_3XMj0",
+          "videoTitle": "【アニソン歌枠 第602回】🎵リクOK🎵昭和・平成・令和のアニソンのごった煮はいかがですか？Let's sing ANIME music【うさ丸】",
+          "channelName": "うさ丸 usamaru",
+          "publishedAt": "2026-09-26T16:56:22.711Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/xW4a3_3XMj0/hqdefault.jpg",
+          "sourcePath": "sources/xW/xW4a3_3XMj0.json",
+          "time": "0:32:22",
+          "seconds": 1942,
+          "songTitle": "人として軸がぶれている",
+          "artist": "さよなら絶望先生"
+        },
+        {
+          "videoId": "VmwLagKp_Ro",
+          "videoTitle": "【アニソン歌枠 第578回】昭和・平成・令和のアニソンのごった煮はいかがですか？Let's sing ANIME music【うさ丸】",
+          "channelName": "うさ丸 usamaru",
+          "publishedAt": "2026-08-27T16:50:13.758Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VmwLagKp_Ro/hqdefault.jpg",
+          "sourcePath": "sources/Vm/VmwLagKp_Ro.json",
+          "time": "0:51:39",
+          "seconds": 3099,
+          "songTitle": "人として軸がぶれている",
+          "artist": "さよなら絶望先生"
+        }
+      ],
+      "detailPath": "entities/songs/19b8eec3bc301e0f.json"
+    },
+    {
+      "rank": 14602,
+      "id": "1bf17c7fe76b36a5",
+      "name": "人魚",
+      "secondary": "NOKKO",
+      "channelId": "UCK1WG3mmyfwQTjInGguaV2w",
+      "channelHandle": "@amane_iro",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "28kIrY2SJoY",
+          "videoTitle": "【#懐メロ歌枠 #らんちぅ寿希】「ただいま」を聞かせて！2時間ノンストップ歌枠！70、80、90年代のヒット曲をお届け【#Vtuber #KARAOKE】",
+          "channelName": "らんちぅ寿希Live",
+          "publishedAt": "2026-09-07T10:18:42.394Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/28kIrY2SJoY/hqdefault.jpg",
+          "sourcePath": "sources/28/28kIrY2SJoY.json",
+          "time": "0:54:58",
+          "seconds": 3298,
+          "songTitle": "人魚",
+          "artist": "NOKKO"
+        },
+        {
+          "videoId": "9JlD1Q13uRQ",
+          "videoTitle": "【定期歌枠/karaoke】今日は歌詞動画つきで豪華な歌枠だぞおお！ 初見さん歓迎✨",
+          "channelName": "天音 彩🫧Amane Iro",
+          "publishedAt": "2026-08-10T17:13:07.377Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9JlD1Q13uRQ/hqdefault.jpg",
+          "sourcePath": "sources/9J/9JlD1Q13uRQ.json",
+          "time": "2:32:11",
+          "seconds": 9131,
+          "songTitle": "人魚",
+          "artist": "NOKKO"
+        }
+      ],
+      "detailPath": "entities/songs/1bf17c7fe76b36a5.json"
+    },
+    {
+      "rank": 14603,
       "id": "705ab6ba4e6f0ade",
       "name": "人魚 -Piano Ver",
       "secondary": "ポルカドットスティングレイ",
@@ -56,7 +149,7 @@
       "detailPath": "entities/songs/705ab6ba4e6f0ade.json"
     },
     {
-      "rank": 14602,
+      "rank": 14604,
       "id": "f2c6a41471755ea0",
       "name": "人質",
       "secondary": "張惠妹",
@@ -101,7 +194,7 @@
       "detailPath": "entities/songs/f2c6a41471755ea0.json"
     },
     {
-      "rank": 14603,
+      "rank": 14605,
       "id": "2f4e2ba3ab2479b3",
       "name": "人生♡",
       "secondary": "コレサワ",
@@ -149,7 +242,7 @@
       "detailPath": "entities/songs/2f4e2ba3ab2479b3.json"
     },
     {
-      "rank": 14604,
+      "rank": 14606,
       "id": "f0ff6d7bcd69d6c2",
       "name": "人生は夢だらけ",
       "secondary": "未記載",
@@ -193,7 +286,7 @@
       "detailPath": "entities/songs/f0ff6d7bcd69d6c2.json"
     },
     {
-      "rank": 14605,
+      "rank": 14607,
       "id": "1e64e676de74a5a1",
       "name": "人生リセットボタン",
       "secondary": "Kemu feat. GUMI",
@@ -241,7 +334,7 @@
       "detailPath": "entities/songs/1e64e676de74a5a1.json"
     },
     {
-      "rank": 14606,
+      "rank": 14608,
       "id": "99b68a7a7be0fa81",
       "name": "推し変なんて許さない!",
       "secondary": "HoneyWorks",
@@ -288,7 +381,7 @@
       "detailPath": "entities/songs/99b68a7a7be0fa81.json"
     },
     {
-      "rank": 14607,
+      "rank": 14609,
       "id": "a353c164770ddb8e",
       "name": "水の証",
       "secondary": "",
@@ -333,7 +426,7 @@
       "detailPath": "entities/songs/a353c164770ddb8e.json"
     },
     {
-      "rank": 14608,
+      "rank": 14610,
       "id": "71c51a084aa91796",
       "name": "水の星へ愛をこめて",
       "secondary": "機動戦士Ζガンダム",
@@ -378,7 +471,7 @@
       "detailPath": "entities/songs/71c51a084aa91796.json"
     },
     {
-      "rank": 14609,
+      "rank": 14611,
       "id": "cf079f58f97c8b3a",
       "name": "水星",
       "secondary": "ラブリーサマーちゃん",
@@ -425,7 +518,7 @@
       "detailPath": "entities/songs/cf079f58f97c8b3a.json"
     },
     {
-      "rank": 14610,
+      "rank": 14612,
       "id": "712a4531bcc4a073",
       "name": "水中メガネ",
       "secondary": "Chappie",
@@ -470,7 +563,7 @@
       "detailPath": "entities/songs/712a4531bcc4a073.json"
     },
     {
-      "rank": 14611,
+      "rank": 14613,
       "id": "8780f16b9f893618",
       "name": "水滴",
       "secondary": "めいちゃん",
@@ -515,7 +608,7 @@
       "detailPath": "entities/songs/8780f16b9f893618.json"
     },
     {
-      "rank": 14612,
+      "rank": 14614,
       "id": "49acdb2d792bef1a",
       "name": "睡公主",
       "secondary": "鄧紫棋",
@@ -563,7 +656,7 @@
       "detailPath": "entities/songs/49acdb2d792bef1a.json"
     },
     {
-      "rank": 14613,
+      "rank": 14615,
       "id": "33a5351b140e6037",
       "name": "睡蓮花",
       "secondary": "",
@@ -608,7 +701,7 @@
       "detailPath": "entities/songs/33a5351b140e6037.json"
     },
     {
-      "rank": 14614,
+      "rank": 14616,
       "id": "a442db79314ef704",
       "name": "世界がひとつになるまで",
       "secondary": "Ya-Ya-yah",
@@ -656,7 +749,7 @@
       "detailPath": "entities/songs/a442db79314ef704.json"
     },
     {
-      "rank": 14615,
+      "rank": 14617,
       "id": "f813d6434f2d72a3",
       "name": "世界でいちばん熱い夏",
       "secondary": "",
@@ -701,7 +794,7 @@
       "detailPath": "entities/songs/f813d6434f2d72a3.json"
     },
     {
-      "rank": 14616,
+      "rank": 14618,
       "id": "f2f343aebac79145",
       "name": "世界で一番幸せな死に方",
       "secondary": "故歌",
@@ -748,7 +841,7 @@
       "detailPath": "entities/songs/f2f343aebac79145.json"
     },
     {
-      "rank": 14617,
+      "rank": 14619,
       "id": "5fd481e87cd31469",
       "name": "世界で一番早く朝が来る場所",
       "secondary": "七海るちあ(中田あすみ)・宝生波音(寺門仁美)・洞院リナ(浅野まゆみ)",
@@ -793,7 +886,7 @@
       "detailPath": "entities/songs/5fd481e87cd31469.json"
     },
     {
-      "rank": 14618,
+      "rank": 14620,
       "id": "e17e7d801fcaf3e9",
       "name": "世界には愛しかない",
       "secondary": "欅坂46",
@@ -838,7 +931,7 @@
       "detailPath": "entities/songs/e17e7d801fcaf3e9.json"
     },
     {
-      "rank": 14619,
+      "rank": 14621,
       "id": "f88cbed1b3da4024",
       "name": "世界のつづき",
       "secondary": "ウタ",
@@ -883,7 +976,7 @@
       "detailPath": "entities/songs/f88cbed1b3da4024.json"
     },
     {
-      "rank": 14620,
+      "rank": 14622,
       "id": "0652d70e7482d754",
       "name": "世界のつづき (ウタ from ONE PIECE FILM RED)",
       "secondary": "Ado",
@@ -928,7 +1021,7 @@
       "detailPath": "entities/songs/0652d70e7482d754.json"
     },
     {
-      "rank": 14621,
+      "rank": 14623,
       "id": "0a9c86a9a8a23292",
       "name": "世界の約束",
       "secondary": "未記載",
@@ -973,7 +1066,7 @@
       "detailPath": "entities/songs/0a9c86a9a8a23292.json"
     },
     {
-      "rank": 14622,
+      "rank": 14624,
       "id": "b6bb97d347abcc36",
       "name": "世界の約束",
       "secondary": "倍賞千恵子さん",
@@ -1019,7 +1112,7 @@
       "detailPath": "entities/songs/b6bb97d347abcc36.json"
     },
     {
-      "rank": 14623,
+      "rank": 14625,
       "id": "3177e85f60bbc5f4",
       "name": "世界の約束",
       "secondary": "",
@@ -1064,7 +1157,7 @@
       "detailPath": "entities/songs/3177e85f60bbc5f4.json"
     },
     {
-      "rank": 14624,
+      "rank": 14626,
       "id": "ff28f834f5d8901e",
       "name": "世界の約束〈Sekai no Yakusoku〉",
       "secondary": "倍賞千恵子",
@@ -1109,7 +1202,7 @@
       "detailPath": "entities/songs/ff28f834f5d8901e.json"
     },
     {
-      "rank": 14625,
+      "rank": 14627,
       "id": "16bf93732644b3e3",
       "name": "世界はそれを愛と呼ぶんだぜ",
       "secondary": "未記載",
@@ -1155,7 +1248,7 @@
       "detailPath": "entities/songs/16bf93732644b3e3.json"
     },
     {
-      "rank": 14626,
+      "rank": 14628,
       "id": "78dbe49ccfc54610",
       "name": "世界は二人のために",
       "secondary": "佐良直美",
@@ -1200,7 +1293,7 @@
       "detailPath": "entities/songs/78dbe49ccfc54610.json"
     },
     {
-      "rank": 14627,
+      "rank": 14629,
       "id": "21b125e94dc73d64",
       "name": "世界は恋に落ちている",
       "secondary": "CHiCO with HoneyWorks/アニメ「アオハライド」OP/2014",
@@ -1246,7 +1339,7 @@
       "detailPath": "entities/songs/21b125e94dc73d64.json"
     },
     {
-      "rank": 14628,
+      "rank": 14630,
       "id": "51c122783dfc47c8",
       "name": "世界は恋に落ちている",
       "secondary": "CHICOHoneyWorks",
@@ -1291,7 +1384,7 @@
       "detailPath": "entities/songs/51c122783dfc47c8.json"
     },
     {
-      "rank": 14629,
+      "rank": 14631,
       "id": "705c8d5627109037",
       "name": "世界一かわいい私",
       "secondary": "藤田ことね(飯田ヒカル) / HoneyWorks",
@@ -1336,7 +1429,7 @@
       "detailPath": "entities/songs/705c8d5627109037.json"
     },
     {
-      "rank": 14630,
+      "rank": 14632,
       "id": "6ba334a30fde02c2",
       "name": "世界寿命と最後の一日",
       "secondary": "スズム feat. GUMI",
@@ -1382,7 +1475,7 @@
       "detailPath": "entities/songs/6ba334a30fde02c2.json"
     },
     {
-      "rank": 14631,
+      "rank": 14633,
       "id": "e2afed83eb59a170",
       "name": "世田谷ナイトサファリ",
       "secondary": "",
@@ -1427,7 +1520,7 @@
       "detailPath": "entities/songs/e2afed83eb59a170.json"
     },
     {
-      "rank": 14632,
+      "rank": 14634,
       "id": "b63c38dc585fe1b4",
       "name": "瀬戸の花嫁",
       "secondary": "小柳ルミ子",
@@ -1472,7 +1565,7 @@
       "detailPath": "entities/songs/b63c38dc585fe1b4.json"
     },
     {
-      "rank": 14633,
+      "rank": 14635,
       "id": "7a975f7b3d892f00",
       "name": "制服と太陽",
       "secondary": "欅坂46",
@@ -1517,7 +1610,7 @@
       "detailPath": "entities/songs/7a975f7b3d892f00.json"
     },
     {
-      "rank": 14634,
+      "rank": 14636,
       "id": "3fa8f40f6d8271c0",
       "name": "制服のマネキン",
       "secondary": "乃木坂46",
@@ -1562,7 +1655,7 @@
       "detailPath": "entities/songs/3fa8f40f6d8271c0.json"
     },
     {
-      "rank": 14635,
+      "rank": 14637,
       "id": "6092abd91937925c",
       "name": "星が泳ぐ",
       "secondary": "マカロニえんぴつ",
@@ -1608,7 +1701,7 @@
       "detailPath": "entities/songs/6092abd91937925c.json"
     },
     {
-      "rank": 14636,
+      "rank": 14638,
       "id": "f517da15dfc95f77",
       "name": "星が降るユメ",
       "secondary": "藍井エイル",
@@ -1655,7 +1748,7 @@
       "detailPath": "entities/songs/f517da15dfc95f77.json"
     },
     {
-      "rank": 14637,
+      "rank": 14639,
       "id": "6662951d99b9feaf",
       "name": "星が瞬く夜に",
       "secondary": "BiSH",
@@ -1701,7 +1794,7 @@
       "detailPath": "entities/songs/6662951d99b9feaf.json"
     },
     {
-      "rank": 14638,
+      "rank": 14640,
       "id": "a2f13cf59904777f",
       "name": "星に願いを",
       "secondary": "ディズニー",
@@ -1746,7 +1839,7 @@
       "detailPath": "entities/songs/a2f13cf59904777f.json"
     },
     {
-      "rank": 14639,
+      "rank": 14641,
       "id": "2e37e4e3bab21d98",
       "name": "星のかがやきよ",
       "secondary": "ZARD",
@@ -1791,7 +1884,7 @@
       "detailPath": "entities/songs/2e37e4e3bab21d98.json"
     },
     {
-      "rank": 14640,
+      "rank": 14642,
       "id": "869c929e44eecfc0",
       "name": "星のように…",
       "secondary": "MISIA",
@@ -1836,7 +1929,7 @@
       "detailPath": "entities/songs/869c929e44eecfc0.json"
     },
     {
-      "rank": 14641,
+      "rank": 14643,
       "id": "859038d89157418b",
       "name": "星へ伸ばす手",
       "secondary": "苺咲べりぃ",
@@ -1884,7 +1977,7 @@
       "detailPath": "entities/songs/859038d89157418b.json"
     },
     {
-      "rank": 14642,
+      "rank": 14644,
       "id": "f9ccb67923714ac4",
       "name": "星めぐりの歌",
       "secondary": "宮沢賢治",
@@ -1929,7 +2022,7 @@
       "detailPath": "entities/songs/f9ccb67923714ac4.json"
     },
     {
-      "rank": 14643,
+      "rank": 14645,
       "id": "59188f93d2307408",
       "name": "星を編む",
       "secondary": "seiza",
@@ -1977,7 +2070,7 @@
       "detailPath": "entities/songs/59188f93d2307408.json"
     },
     {
-      "rank": 14644,
+      "rank": 14646,
       "id": "6543999d6002715f",
       "name": "星間飛行",
       "secondary": "ランカ・リー=中島愛 ※JOYSOUND",
@@ -2025,7 +2118,7 @@
       "detailPath": "entities/songs/6543999d6002715f.json"
     },
     {
-      "rank": 14645,
+      "rank": 14647,
       "id": "b1074b80dc695e30",
       "name": "星間飛行〈Seikan Hikou〉",
       "secondary": "ランカ・リー（cv:中島愛）",
@@ -2073,7 +2166,7 @@
       "detailPath": "entities/songs/b1074b80dc695e30.json"
     },
     {
-      "rank": 14646,
+      "rank": 14648,
       "id": "4ba520a9e26483d7",
       "name": "星空のBelieve",
       "secondary": "鮎川麻弥",
@@ -2115,7 +2208,7 @@
       "detailPath": "entities/songs/4ba520a9e26483d7.json"
     },
     {
-      "rank": 14647,
+      "rank": 14649,
       "id": "88a9dc5383df9d11",
       "name": "星空のワルツ",
       "secondary": "栗林みな実",
@@ -2160,7 +2253,7 @@
       "detailPath": "entities/songs/88a9dc5383df9d11.json"
     },
     {
-      "rank": 14648,
+      "rank": 14650,
       "id": "253e084af0da67a5",
       "name": "星空へ架かる橋",
       "secondary": "のみこ",
@@ -2203,102 +2296,6 @@
         }
       ],
       "detailPath": "entities/songs/253e084af0da67a5.json"
-    },
-    {
-      "rank": 14649,
-      "id": "599ff6097d2aa0c1",
-      "name": "星屑のインターリュード",
-      "secondary": "fhána",
-      "channelId": "UCqIigA_sooj8-efCTyqpWxA",
-      "channelHandle": "@hide_ch",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "5ciPoeLagNM",
-          "videoTitle": "【歌枠&ギター練習252日目】カレーは甘口派【弾き語り/ひで/個人勢VTuber】",
-          "channelName": "ひでチャンネル",
-          "publishedAt": "2026-09-05T17:13:38.386Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5ciPoeLagNM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAInSkC4G9WtBNmf5AiR6WhcJV3aQ",
-          "sourcePath": "sources/5c/5ciPoeLagNM.json",
-          "time": "3:55:31",
-          "seconds": 14131,
-          "songTitle": "星屑のインターリュード",
-          "artist": "fhána"
-        },
-        {
-          "videoId": "IDyg2Y0sTms",
-          "videoTitle": "【歌枠＆ギター練習231日目】昼前には寝るはず J-Rock・アニソン・J-POP etc...【弾き語り/エレキギター/ひで】",
-          "channelName": "ひでチャンネル",
-          "publishedAt": "2026-07-31T03:35:47.817Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/IDyg2Y0sTms/hqdefault.jpg",
-          "sourcePath": "sources/ID/IDyg2Y0sTms.json",
-          "time": "2:37:19",
-          "seconds": 9439,
-          "songTitle": "星屑のインターリュード",
-          "artist": "fhána"
-        }
-      ],
-      "detailPath": "entities/songs/599ff6097d2aa0c1.json"
-    },
-    {
-      "rank": 14650,
-      "id": "924c6ffc682ed147",
-      "name": "星屑のインターリュード",
-      "secondary": "fhana",
-      "channelId": "UCe_8qM8Wk4cU5oD3WO07gZg",
-      "channelHandle": "@Shairu.ch_0801",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "nND4B3my0oE",
-          "videoTitle": "【歌枠】即終了あり！：アニソン縛りで歌う🎤✨️#新人VTuber #歌枠",
-          "channelName": "鏡愛しゅくり",
-          "publishedAt": "2026-09-22T09:57:08.104Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nND4B3my0oE/hqdefault.jpg",
-          "sourcePath": "sources/nN/nND4B3my0oE.json",
-          "time": "0:57:57",
-          "seconds": 3477,
-          "songTitle": "星屑のインターリュード",
-          "artist": "fhana"
-        },
-        {
-          "videoId": "kMBVfeP3x8E",
-          "videoTitle": "【#歌枠/#karaoke 】スパチャ読みとお歌～！！会いに来てね😊✨【#個人勢vtuber/しゃいる】",
-          "channelName": "Shairu.chしゃいる",
-          "publishedAt": "2026-08-03T16:39:57.879Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kMBVfeP3x8E/hqdefault.jpg",
-          "sourcePath": "sources/kM/kMBVfeP3x8E.json",
-          "time": "1:09:05",
-          "seconds": 4145,
-          "songTitle": "星屑のインターリュード",
-          "artist": "fhana"
-        }
-      ],
-      "detailPath": "entities/songs/924c6ffc682ed147.json"
     }
   ]
 }

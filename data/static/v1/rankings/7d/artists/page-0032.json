@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "7d",
   "type": "artists",
   "page": 32,
   "pageSize": 50,
   "pageCount": 35,
-  "totalCount": 1745,
+  "totalCount": 1744,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1431,39 +1431,6 @@
     },
     {
       "rank": 1594,
-      "id": "e837b9130ae6e919",
-      "name": "中嶋義実・ヤングフレッシュ",
-      "secondary": "",
-      "channelId": "UCGKNbtDv8OTa8559buDu-Gw",
-      "channelHandle": "@otodama_hibiku",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "cmKUpepUuy8",
-          "videoTitle": "〖歌枠〗まったり癒しの弾き語り〖Vsinger〗",
-          "channelName": "音魂ヒビク / Otodama Hibiku",
-          "publishedAt": "2026-10-05T15:01:27.494Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/cmKUpepUuy8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQ0thGskhB1M4er55Ky22XRZX2Rw",
-          "sourcePath": "sources/cm/cmKUpepUuy8.json",
-          "time": "1:14:22",
-          "seconds": 4462,
-          "songTitle": "にんげんっていいな",
-          "artist": "中嶋義実・ヤングフレッシュ"
-        }
-      ],
-      "detailPath": "entities/artists/e837b9130ae6e919.json"
-    },
-    {
-      "rank": 1595,
       "id": "f84e83c938d32281",
       "name": "張惠妹",
       "secondary": "",
@@ -1496,7 +1463,7 @@
       "detailPath": "entities/artists/f84e83c938d32281.json"
     },
     {
-      "rank": 1596,
+      "rank": 1595,
       "id": "b2fee3d772efe780",
       "name": "張齊山",
       "secondary": "",
@@ -1529,7 +1496,7 @@
       "detailPath": "entities/artists/b2fee3d772efe780.json"
     },
     {
-      "rank": 1597,
+      "rank": 1596,
       "id": "eccea2b66fc67a91",
       "name": "蝶々P feat.GUMI",
       "secondary": "",
@@ -1562,7 +1529,7 @@
       "detailPath": "entities/artists/eccea2b66fc67a91.json"
     },
     {
-      "rank": 1598,
+      "rank": 1597,
       "id": "d0e8f08c60124857",
       "name": "蝶々P feat.GUMI ※JOYSOUND",
       "secondary": "",
@@ -1595,7 +1562,7 @@
       "detailPath": "entities/artists/d0e8f08c60124857.json"
     },
     {
-      "rank": 1599,
+      "rank": 1598,
       "id": "b03a4c1ce4dfd4d1",
       "name": "蝶々P feat.初音ミクAppend (DARK) [マネ]",
       "secondary": "",
@@ -1628,7 +1595,7 @@
       "detailPath": "entities/artists/b03a4c1ce4dfd4d1.json"
     },
     {
-      "rank": 1600,
+      "rank": 1599,
       "id": "68cda87ce6f95b70",
       "name": "蝶々P ft. GUMI / JS",
       "secondary": "",
@@ -1659,6 +1626,39 @@
         }
       ],
       "detailPath": "entities/artists/68cda87ce6f95b70.json"
+    },
+    {
+      "rank": 1600,
+      "id": "48e2427a33010984",
+      "name": "超かぐや姫！",
+      "secondary": "",
+      "channelId": "UCQXpzDLjP1vad1Sxb37o1hA",
+      "channelHandle": "@bonobon_game",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "HHDnkPj37SI",
+          "videoTitle": "【歌枠/Singing】高評価100目指して！聴き心地のいい深夜歌枠♪アニソン多め！ #vtuber",
+          "channelName": "ぼのぼん",
+          "publishedAt": "2026-10-07T17:46:41.526Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/HHDnkPj37SI/hqdefault.jpg",
+          "sourcePath": "sources/HH/HHDnkPj37SI.json",
+          "time": "0:11:20",
+          "seconds": 680,
+          "songTitle": "星降る海",
+          "artist": "超かぐや姫！"
+        }
+      ],
+      "detailPath": "entities/artists/48e2427a33010984.json"
     }
   ]
 }

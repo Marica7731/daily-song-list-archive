@@ -1,16 +1,58 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 312,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 15551,
+      "id": "352286afcb9dfa0d",
+      "name": "櫂",
+      "secondary": "",
+      "channelId": "UCoOPu8WqToJ4jHbBXY6NPrA",
+      "channelHandle": "@wadatsumi_yohira",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "JWFCtxxEGCA",
+          "videoTitle": "【歌枠】最多同時観測者数ありがㇳ┊夢からもう帰れない🪼◦° 心が浄化される魅惑の歌声┊Singing Stream【VTuber/配信中】",
+          "channelName": "Yohira ch. 渉海よひら",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JWFCtxxEGCA/hqdefault.jpg",
+          "sourcePath": "sources/JW/JWFCtxxEGCA.json",
+          "time": "0:15:05",
+          "seconds": 905,
+          "songTitle": "櫂",
+          "artist": ""
+        },
+        {
+          "videoId": "LeAz50z8_sA",
+          "videoTitle": "【歌枠】Vack-ON!! 感想回┊夢からもう帰れない🪼◦° 海底から響く魅惑の歌声┊Singing Stream【VTuber/配信中】",
+          "channelName": "Yohira ch. 渉海よひら",
+          "publishedAt": "2026-09-24T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LeAz50z8_sA/hqdefault.jpg",
+          "sourcePath": "sources/Le/LeAz50z8_sA.json",
+          "time": "1:27:45",
+          "seconds": 5265,
+          "songTitle": "櫂",
+          "artist": ""
+        }
+      ],
+      "detailPath": "entities/songs/352286afcb9dfa0d.json"
+    },
+    {
+      "rank": 15552,
       "id": "2e399208ec95e8db",
       "name": "沒那麼簡單",
       "secondary": "黃小琥",
@@ -55,7 +97,7 @@
       "detailPath": "entities/songs/2e399208ec95e8db.json"
     },
     {
-      "rank": 15552,
+      "rank": 15553,
       "id": "c5824a05c8d41e53",
       "name": "琥珀の夢",
       "secondary": "ブランク・ウリカ",
@@ -100,7 +142,7 @@
       "detailPath": "entities/songs/c5824a05c8d41e53.json"
     },
     {
-      "rank": 15553,
+      "rank": 15554,
       "id": "0b9e850b5f7ced93",
       "name": "琥珀の揺りかご",
       "secondary": "米倉千尋",
@@ -145,7 +187,7 @@
       "detailPath": "entities/songs/0b9e850b5f7ced93.json"
     },
     {
-      "rank": 15554,
+      "rank": 15555,
       "id": "9a14fa1d9d827584",
       "name": "睨めっ娘",
       "secondary": "",
@@ -191,7 +233,7 @@
       "detailPath": "entities/songs/9a14fa1d9d827584.json"
     },
     {
-      "rank": 15555,
+      "rank": 15556,
       "id": "fc9667169e4efa4c",
       "name": "磔刑の聖女",
       "secondary": "Sound Horizon",
@@ -239,7 +281,7 @@
       "detailPath": "entities/songs/fc9667169e4efa4c.json"
     },
     {
-      "rank": 15556,
+      "rank": 15557,
       "id": "04915b8b65619303",
       "name": "穢れ亡き夢",
       "secondary": "Asriel",
@@ -286,7 +328,7 @@
       "detailPath": "entities/songs/04915b8b65619303.json"
     },
     {
-      "rank": 15557,
+      "rank": 15558,
       "id": "fa964b28bec0dc45",
       "name": "綺麗事",
       "secondary": "",
@@ -331,7 +373,7 @@
       "detailPath": "entities/songs/fa964b28bec0dc45.json"
     },
     {
-      "rank": 15558,
+      "rank": 15559,
       "id": "d53d196c860c6c19",
       "name": "總會有人",
       "secondary": "向思思",
@@ -376,7 +418,7 @@
       "detailPath": "entities/songs/d53d196c860c6c19.json"
     },
     {
-      "rank": 15559,
+      "rank": 15560,
       "id": "5a962ec41c987088",
       "name": "翳りゆく部屋",
       "secondary": "荒井由実",
@@ -421,7 +463,7 @@
       "detailPath": "entities/songs/5a962ec41c987088.json"
     },
     {
-      "rank": 15560,
+      "rank": 15561,
       "id": "67a5f6a54ab12499",
       "name": "耿耿於懷",
       "secondary": "麥浚龍",
@@ -466,7 +508,7 @@
       "detailPath": "entities/songs/67a5f6a54ab12499.json"
     },
     {
-      "rank": 15561,
+      "rank": 15562,
       "id": "a020be237a7e627d",
       "name": "聽海",
       "secondary": "張惠妹",
@@ -511,7 +553,7 @@
       "detailPath": "entities/songs/a020be237a7e627d.json"
     },
     {
-      "rank": 15562,
+      "rank": 15563,
       "id": "e1c57b185fe5487f",
       "name": "茉子の日常",
       "secondary": "小鳥居夕花",
@@ -556,7 +598,7 @@
       "detailPath": "entities/songs/e1c57b185fe5487f.json"
     },
     {
-      "rank": 15563,
+      "rank": 15564,
       "id": "cd0d0c24e2b01685",
       "name": "薔薇獄乙女",
       "secondary": "ALI PROJECT",
@@ -601,7 +643,7 @@
       "detailPath": "entities/songs/cd0d0c24e2b01685.json"
     },
     {
-      "rank": 15564,
+      "rank": 15565,
       "id": "66b92e868b11de06",
       "name": "蜚蜚",
       "secondary": "陳僖儀",
@@ -646,7 +688,7 @@
       "detailPath": "entities/songs/66b92e868b11de06.json"
     },
     {
-      "rank": 15565,
+      "rank": 15566,
       "id": "aa5335c7cae783b1",
       "name": "贖罪",
       "secondary": "傘村トータ feat. VOCALOIDs",
@@ -691,7 +733,7 @@
       "detailPath": "entities/songs/aa5335c7cae783b1.json"
     },
     {
-      "rank": 15566,
+      "rank": 15567,
       "id": "902312215a29a64c",
       "name": "醉赤壁",
       "secondary": "林俊傑",
@@ -736,7 +778,7 @@
       "detailPath": "entities/songs/902312215a29a64c.json"
     },
     {
-      "rank": 15567,
+      "rank": 15568,
       "id": "37494ce8faf4a36c",
       "name": "飄洋過海來看你",
       "secondary": "金智娟",
@@ -781,7 +823,7 @@
       "detailPath": "entities/songs/37494ce8faf4a36c.json"
     },
     {
-      "rank": 15568,
+      "rank": 15569,
       "id": "5ec6b706f52a1581",
       "name": "鯱",
       "secondary": "鳥羽一郎",
@@ -828,7 +870,7 @@
       "detailPath": "entities/songs/5ec6b706f52a1581.json"
     },
     {
-      "rank": 15569,
+      "rank": 15570,
       "id": "72e28a394bba4f57",
       "name": "你把我灌醉 (鄧紫棋編曲版)",
       "secondary": "原唱:黃大煒 (第一次)",
@@ -873,7 +915,7 @@
       "detailPath": "entities/songs/72e28a394bba4f57.json"
     },
     {
-      "rank": 15570,
+      "rank": 15571,
       "id": "a354eb457d305301",
       "name": "你把我灌醉 (鄧紫棋編曲版)",
       "secondary": "原唱:黃大煒 (第二次)",
@@ -918,7 +960,7 @@
       "detailPath": "entities/songs/a354eb457d305301.json"
     },
     {
-      "rank": 15571,
+      "rank": 15572,
       "id": "d01f52b970b403af",
       "name": "你把我灌醉 (鄧紫棋編曲版)",
       "secondary": "原唱:黃大煒 (第三次)",
@@ -963,7 +1005,7 @@
       "detailPath": "entities/songs/d01f52b970b403af.json"
     },
     {
-      "rank": 15572,
+      "rank": 15573,
       "id": "02343b7a4f9e39f7",
       "name": "你把我灌醉 (鄧紫棋編曲版)",
       "secondary": "原唱:黃大煒 (第四次)",
@@ -1008,7 +1050,7 @@
       "detailPath": "entities/songs/02343b7a4f9e39f7.json"
     },
     {
-      "rank": 15573,
+      "rank": 15574,
       "id": "b2f218d370d1fbef",
       "name": "你不必那麼堅強",
       "secondary": "貝克小姐",
@@ -1053,7 +1095,7 @@
       "detailPath": "entities/songs/b2f218d370d1fbef.json"
     },
     {
-      "rank": 15574,
+      "rank": 15575,
       "id": "ef2660b5e405e053",
       "name": "你啊你啊",
       "secondary": "魏如萱",
@@ -1098,7 +1140,7 @@
       "detailPath": "entities/songs/ef2660b5e405e053.json"
     },
     {
-      "rank": 15575,
+      "rank": 15576,
       "id": "cfc53c41acf8b77c",
       "name": "噓",
       "secondary": "未記載",
@@ -1144,7 +1186,7 @@
       "detailPath": "entities/songs/cfc53c41acf8b77c.json"
     },
     {
-      "rank": 15576,
+      "rank": 15577,
       "id": "37b35fb1140aff47",
       "name": "晚餐歌",
       "secondary": "",
@@ -1189,7 +1231,7 @@
       "detailPath": "entities/songs/37b35fb1140aff47.json"
     },
     {
-      "rank": 15577,
+      "rank": 15578,
       "id": "e0fc37cfb824642d",
       "name": "緣份的天空",
       "secondary": "湯寶如",
@@ -1236,7 +1278,7 @@
       "detailPath": "entities/songs/e0fc37cfb824642d.json"
     },
     {
-      "rank": 15578,
+      "rank": 15579,
       "id": "2c0ba6d4f5f831e3",
       "name": "蠟人形の館",
       "secondary": "聖飢魔Ⅱ",
@@ -1281,7 +1323,7 @@
       "detailPath": "entities/songs/2c0ba6d4f5f831e3.json"
     },
     {
-      "rank": 15579,
+      "rank": 15580,
       "id": "83812b5012a14acd",
       "name": "黃色",
       "secondary": "back number",
@@ -1326,7 +1368,7 @@
       "detailPath": "entities/songs/83812b5012a14acd.json"
     },
     {
-      "rank": 15580,
+      "rank": 15581,
       "id": "c3f9acb26430d233",
       "name": "π",
       "secondary": "RADWIMPS",
@@ -1372,7 +1414,7 @@
       "detailPath": "entities/songs/c3f9acb26430d233.json"
     },
     {
-      "rank": 15581,
+      "rank": 15582,
       "id": "e935b8c0d63c31b0",
       "name": "연애서큘레이션(恋愛サーキュレーション)",
       "secondary": "하나자와 카나(花澤香菜)",
@@ -1417,7 +1459,7 @@
       "detailPath": "entities/songs/e935b8c0d63c31b0.json"
     },
     {
-      "rank": 15582,
+      "rank": 15583,
       "id": "43093c090b927ef0",
       "name": "화사 (HWASA)",
       "secondary": "Good Goodbye",
@@ -1462,7 +1504,7 @@
       "detailPath": "entities/songs/43093c090b927ef0.json"
     },
     {
-      "rank": 15583,
+      "rank": 15584,
       "id": "082ba2cabfb40a87",
       "name": "ㄅㄆㄇ注音歌",
       "secondary": "",
@@ -1507,7 +1549,7 @@
       "detailPath": "entities/songs/082ba2cabfb40a87.json"
     },
     {
-      "rank": 15584,
+      "rank": 15585,
       "id": "ce48ed5d1638791b",
       "name": "(-5)",
       "secondary": "",
@@ -1537,7 +1579,7 @@
       "detailPath": "entities/songs/ce48ed5d1638791b.json"
     },
     {
-      "rank": 15585,
+      "rank": 15586,
       "id": "c3d9be8b2ef4bf15",
       "name": "(タイトル未定)",
       "secondary": "リリア･クロリス",
@@ -1570,7 +1612,7 @@
       "detailPath": "entities/songs/c3d9be8b2ef4bf15.json"
     },
     {
-      "rank": 15586,
+      "rank": 15587,
       "id": "95666d69505c4b13",
       "name": "【初】1",
       "secondary": "3の純情な感情",
@@ -1603,7 +1645,7 @@
       "detailPath": "entities/songs/95666d69505c4b13.json"
     },
     {
-      "rank": 15587,
+      "rank": 15588,
       "id": "4fc68a8b6a41cb95",
       "name": "～",
       "secondary": "2部",
@@ -1633,7 +1675,7 @@
       "detailPath": "entities/songs/4fc68a8b6a41cb95.json"
     },
     {
-      "rank": 15588,
+      "rank": 15589,
       "id": "c1b487490c19a9e5",
       "name": "△♪シャイニング パワー",
       "secondary": "Berryz工房",
@@ -1663,7 +1705,7 @@
       "detailPath": "entities/songs/c1b487490c19a9e5.json"
     },
     {
-      "rank": 15589,
+      "rank": 15590,
       "id": "46e6d00aaba25c1e",
       "name": "ー「🐯セリフ」",
       "secondary": "",
@@ -1693,7 +1735,7 @@
       "detailPath": "entities/songs/46e6d00aaba25c1e.json"
     },
     {
-      "rank": 15590,
+      "rank": 15591,
       "id": "71ea8bf266a4e7b4",
       "name": "1/2",
       "secondary": "川本真琴(中断)",
@@ -1726,7 +1768,7 @@
       "detailPath": "entities/songs/71ea8bf266a4e7b4.json"
     },
     {
-      "rank": 15591,
+      "rank": 15592,
       "id": "ceaaaf6763fa9f14",
       "name": "10",
       "secondary": "日",
@@ -1759,7 +1801,7 @@
       "detailPath": "entities/songs/ceaaaf6763fa9f14.json"
     },
     {
-      "rank": 15592,
+      "rank": 15593,
       "id": "dc7ccdf3f126875c",
       "name": "1487",
       "secondary": "",
@@ -1789,7 +1831,7 @@
       "detailPath": "entities/songs/dc7ccdf3f126875c.json"
     },
     {
-      "rank": 15593,
+      "rank": 15594,
       "id": "e3ad092cb8dce722",
       "name": "40mP",
       "secondary": "瞬間、シンフォニー。",
@@ -1822,7 +1864,7 @@
       "detailPath": "entities/songs/e3ad092cb8dce722.json"
     },
     {
-      "rank": 15594,
+      "rank": 15595,
       "id": "fe68009ddc238a78",
       "name": "Alice in 冷蔵庫",
       "secondary": "Orangestar",
@@ -1856,7 +1898,7 @@
       "detailPath": "entities/songs/fe68009ddc238a78.json"
     },
     {
-      "rank": 15595,
+      "rank": 15596,
       "id": "ec2a65616bd3dedc",
       "name": "Amore",
       "secondary": "『きみが死ぬまで恋をしたい』ReoNa",
@@ -1889,7 +1931,7 @@
       "detailPath": "entities/songs/ec2a65616bd3dedc.json"
     },
     {
-      "rank": 15596,
+      "rank": 15597,
       "id": "05295e02b833ee78",
       "name": "Blue Christmas(Elvis Presley)",
       "secondary": "",
@@ -1922,7 +1964,7 @@
       "detailPath": "entities/songs/05295e02b833ee78.json"
     },
     {
-      "rank": 15597,
+      "rank": 15598,
       "id": "3f6c90c2e07ea649",
       "name": "Crowds",
       "secondary": "WHITE ASH ガッチャマン",
@@ -1955,7 +1997,7 @@
       "detailPath": "entities/songs/3f6c90c2e07ea649.json"
     },
     {
-      "rank": 15598,
+      "rank": 15599,
       "id": "7dedc5c64a4daa4a",
       "name": "daze",
       "secondary": "MARIA",
@@ -1988,7 +2030,7 @@
       "detailPath": "entities/songs/7dedc5c64a4daa4a.json"
     },
     {
-      "rank": 15599,
+      "rank": 15600,
       "id": "9fd68b10c278ff1c",
       "name": "Declaration! Imperial Combat Revue",
       "secondary": "Sakura Shingyouji (CV:Chisa Yokoyama)",
@@ -2019,39 +2061,6 @@
         }
       ],
       "detailPath": "entities/songs/9fd68b10c278ff1c.json"
-    },
-    {
-      "rank": 15600,
-      "id": "40192a2364540d8b",
-      "name": "DECO*27",
-      "secondary": "弱虫モンブラン",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "EhArOIVCbv4",
-          "videoTitle": "【 歌枠 】✨めったにやらない歌を歌う会✨【#vtuber #星刻ねる 】",
-          "channelName": "星刻ねる",
-          "publishedAt": "2026-09-12T09:07:05.434Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EhArOIVCbv4/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBogRov-kUmippaU1zjG4bFlNmLyg",
-          "sourcePath": "sources/Eh/EhArOIVCbv4.json",
-          "time": "0:13:35",
-          "seconds": 815,
-          "songTitle": "DECO*27",
-          "artist": "弱虫モンブラン"
-        }
-      ],
-      "detailPath": "entities/songs/40192a2364540d8b.json"
     }
   ]
 }

@@ -1,16 +1,117 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "artists",
   "page": 312,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20021,
+  "totalCount": 20024,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 15551,
+      "id": "3c1db9132ffecad7",
+      "name": "音田正則（86.273点）",
+      "secondary": "",
+      "channelId": "UC0bVMTZaN40OaLzgzyWsqAw",
+      "channelHandle": "@TukuneDuck",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "p4M3egDZ4eU",
+          "videoTitle": "【 #CSP歌枠バトル 】CSP歌枠バトル開始！初日のログボ歌枠🌙🦆 【#つきのおと】",
+          "channelName": "月音-TUKUNE-",
+          "publishedAt": "2026-08-11T17:52:14.931Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p4M3egDZ4eU/hqdefault.jpg",
+          "sourcePath": "sources/p4/p4M3egDZ4eU.json",
+          "time": "0:27:53",
+          "seconds": 1673,
+          "songTitle": "fake face dance music",
+          "artist": "音田正則（86.273点）"
+        }
+      ],
+      "detailPath": "entities/artists/3c1db9132ffecad7.json"
+    },
+    {
+      "rank": 15552,
+      "id": "52ee74a40766bb9d",
+      "name": "音入ってなかったあああああああああ！！！",
+      "secondary": "",
+      "channelId": "UCmieQQu9_852Kt7r2AOOzrA",
+      "channelHandle": "@%E3%82%A2%E3%83%80%E3%83%A0AdamChannel",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "today"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "cjJCvp5H6hE",
+          "videoTitle": "【歌枠】夏休み突入！歌で暑さを乗り切ろう！【新人Vtuber】",
+          "channelName": "アダム / Adam Channel 〈〉〈〉〈〉",
+          "publishedAt": "2026-07-23T08:19:48.410Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/cjJCvp5H6hE/hqdefault.jpg",
+          "sourcePath": "sources/cj/cjJCvp5H6hE.json",
+          "time": "0:48:21",
+          "seconds": 2901,
+          "songTitle": "不思議　アカペラver",
+          "artist": "音入ってなかったあああああああああ！！！"
+        }
+      ],
+      "detailPath": "entities/artists/52ee74a40766bb9d.json"
+    },
+    {
+      "rank": 15553,
+      "id": "5874869aaac6216a",
+      "name": "音乃瀬奏＆一条莉々華",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "qUaYRV2kupA",
+          "videoTitle": "【 歌枠 】奇襲！何歌おうかな～【音乃瀬奏】#ReGLOSS",
+          "channelName": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+          "publishedAt": "2026-09-18T14:09:15.567Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qUaYRV2kupA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARVtMnOnB0E4xg9UxTK0N2oPLXMg",
+          "sourcePath": "sources/qU/qUaYRV2kupA.json",
+          "time": "0:24:46",
+          "seconds": 1486,
+          "songTitle": "iCONiC",
+          "artist": "音乃瀬奏＆一条莉々華"
+        }
+      ],
+      "detailPath": "entities/artists/5874869aaac6216a.json"
+    },
+    {
+      "rank": 15554,
       "id": "e10e9f7d30cca52e",
       "name": "音乃瀨奏",
       "secondary": "",
@@ -43,7 +144,7 @@
       "detailPath": "entities/artists/e10e9f7d30cca52e.json"
     },
     {
-      "rank": 15552,
+      "rank": 15555,
       "id": "cf1487d193c9b636",
       "name": "音無小鳥",
       "secondary": "",
@@ -73,7 +174,7 @@
       "detailPath": "entities/artists/cf1487d193c9b636.json"
     },
     {
-      "rank": 15553,
+      "rank": 15556,
       "id": "41b9dd7d6d9649f0",
       "name": "音無小鳥(CV:滝田樹里)",
       "secondary": "",
@@ -107,7 +208,7 @@
       "detailPath": "entities/artists/41b9dd7d6d9649f0.json"
     },
     {
-      "rank": 15554,
+      "rank": 15557,
       "id": "7939d6c921ae024f",
       "name": "音無小鳥(滝田樹里)",
       "secondary": "",
@@ -140,7 +241,7 @@
       "detailPath": "entities/artists/7939d6c921ae024f.json"
     },
     {
-      "rank": 15555,
+      "rank": 15558,
       "id": "20492c88ba0125ea",
       "name": "音来内麗",
       "secondary": "",
@@ -173,7 +274,7 @@
       "detailPath": "entities/artists/20492c88ba0125ea.json"
     },
     {
-      "rank": 15556,
+      "rank": 15559,
       "id": "394119082a495de6",
       "name": "音量チェック ! !",
       "secondary": "",
@@ -203,7 +304,7 @@
       "detailPath": "entities/artists/394119082a495de6.json"
     },
     {
-      "rank": 15557,
+      "rank": 15560,
       "id": "7dec5096a9f00a69",
       "name": "音量バランスどうですか ?",
       "secondary": "",
@@ -236,7 +337,7 @@
       "detailPath": "entities/artists/7dec5096a9f00a69.json"
     },
     {
-      "rank": 15558,
+      "rank": 15561,
       "id": "09d18c98ff67855d",
       "name": "音量確認",
       "secondary": "",
@@ -269,7 +370,7 @@
       "detailPath": "entities/artists/09d18c98ff67855d.json"
     },
     {
-      "rank": 15559,
+      "rank": 15562,
       "id": "063ca985ce55c323",
       "name": "音量微注意",
       "secondary": "",
@@ -302,7 +403,7 @@
       "detailPath": "entities/artists/063ca985ce55c323.json"
     },
     {
-      "rank": 15560,
+      "rank": 15563,
       "id": "e2228d024487b003",
       "name": "下セカ",
       "secondary": "",
@@ -335,7 +436,7 @@
       "detailPath": "entities/artists/e2228d024487b003.json"
     },
     {
-      "rank": 15561,
+      "rank": 15564,
       "id": "4d01e8960512fbc4",
       "name": "下村 陽子",
       "secondary": "",
@@ -365,7 +466,7 @@
       "detailPath": "entities/artists/4d01e8960512fbc4.json"
     },
     {
-      "rank": 15562,
+      "rank": 15565,
       "id": "915b278c6042bd1e",
       "name": "下町兄弟",
       "secondary": "",
@@ -398,7 +499,7 @@
       "detailPath": "entities/artists/915b278c6042bd1e.json"
     },
     {
-      "rank": 15563,
+      "rank": 15566,
       "id": "3eed6d396b2105a2",
       "name": "化け猫 - Tatsuya Kitani",
       "secondary": "",
@@ -432,7 +533,7 @@
       "detailPath": "entities/artists/3eed6d396b2105a2.json"
     },
     {
-      "rank": 15564,
+      "rank": 15567,
       "id": "d02959d822f9e1a0",
       "name": "化け猫＋アイドルという謎の組み合わせでみんなを混乱させたかったニコ太郎",
       "secondary": "",
@@ -466,7 +567,7 @@
       "detailPath": "entities/artists/d02959d822f9e1a0.json"
     },
     {
-      "rank": 15565,
+      "rank": 15568,
       "id": "090a407f9f4b9f2f",
       "name": "仮装狂騒曲",
       "secondary": "",
@@ -499,7 +600,7 @@
       "detailPath": "entities/artists/090a407f9f4b9f2f.json"
     },
     {
-      "rank": 15566,
+      "rank": 15569,
       "id": "c9d0380b1cf7de10",
       "name": "仮面ライダーAGITO",
       "secondary": "",
@@ -532,7 +633,7 @@
       "detailPath": "entities/artists/c9d0380b1cf7de10.json"
     },
     {
-      "rank": 15567,
+      "rank": 15570,
       "id": "8c6e5f3f62f7a2a9",
       "name": "仮面ライダーBLACK RX",
       "secondary": "",
@@ -565,7 +666,7 @@
       "detailPath": "entities/artists/8c6e5f3f62f7a2a9.json"
     },
     {
-      "rank": 15568,
+      "rank": 15571,
       "id": "c1b8651fef403155",
       "name": "仮面ライダーW",
       "secondary": "",
@@ -599,7 +700,7 @@
       "detailPath": "entities/artists/c1b8651fef403155.json"
     },
     {
-      "rank": 15569,
+      "rank": 15572,
       "id": "d7772fd849d755fc",
       "name": "仮面ライダーＸ",
       "secondary": "",
@@ -632,7 +733,7 @@
       "detailPath": "entities/artists/d7772fd849d755fc.json"
     },
     {
-      "rank": 15570,
+      "rank": 15573,
       "id": "e1523ec15b8ffaad",
       "name": "仮面ライダーエグゼイド",
       "secondary": "",
@@ -665,7 +766,7 @@
       "detailPath": "entities/artists/e1523ec15b8ffaad.json"
     },
     {
-      "rank": 15571,
+      "rank": 15574,
       "id": "8e275d456dfdbb96",
       "name": "仮面ライダーガヴ",
       "secondary": "",
@@ -698,7 +799,7 @@
       "detailPath": "entities/artists/8e275d456dfdbb96.json"
     },
     {
-      "rank": 15572,
+      "rank": 15575,
       "id": "6f31b0d156823366",
       "name": "仮面ライダーガッチャード",
       "secondary": "",
@@ -731,7 +832,7 @@
       "detailPath": "entities/artists/6f31b0d156823366.json"
     },
     {
-      "rank": 15573,
+      "rank": 15576,
       "id": "54bb4e591fa583af",
       "name": "仮面ライダーカブト",
       "secondary": "",
@@ -764,7 +865,7 @@
       "detailPath": "entities/artists/54bb4e591fa583af.json"
     },
     {
-      "rank": 15574,
+      "rank": 15577,
       "id": "4e3d8f7a9c9e2a91",
       "name": "仮面ライダーギーツ",
       "secondary": "",
@@ -797,7 +898,7 @@
       "detailPath": "entities/artists/4e3d8f7a9c9e2a91.json"
     },
     {
-      "rank": 15575,
+      "rank": 15578,
       "id": "833cbf36f3d83561",
       "name": "仮面ライダークウガ",
       "secondary": "",
@@ -830,7 +931,7 @@
       "detailPath": "entities/artists/833cbf36f3d83561.json"
     },
     {
-      "rank": 15576,
+      "rank": 15579,
       "id": "e2b8f7bb6350d98e",
       "name": "仮面ライダーセイバー",
       "secondary": "",
@@ -863,7 +964,7 @@
       "detailPath": "entities/artists/e2b8f7bb6350d98e.json"
     },
     {
-      "rank": 15577,
+      "rank": 15580,
       "id": "2763d6a304037bf0",
       "name": "仮面ライダーゼロワン",
       "secondary": "",
@@ -896,7 +997,7 @@
       "detailPath": "entities/artists/2763d6a304037bf0.json"
     },
     {
-      "rank": 15578,
+      "rank": 15581,
       "id": "24631a625df6d284",
       "name": "仮面ライダービルド",
       "secondary": "",
@@ -930,7 +1031,7 @@
       "detailPath": "entities/artists/24631a625df6d284.json"
     },
     {
-      "rank": 15579,
+      "rank": 15582,
       "id": "a1e5bf3cd1b47fb0",
       "name": "仮面ライダーリバイス",
       "secondary": "",
@@ -963,7 +1064,7 @@
       "detailPath": "entities/artists/a1e5bf3cd1b47fb0.json"
     },
     {
-      "rank": 15580,
+      "rank": 15583,
       "id": "50cac7851ccc7ec6",
       "name": "仮面ライダー龍騎",
       "secondary": "",
@@ -996,7 +1097,7 @@
       "detailPath": "entities/artists/50cac7851ccc7ec6.json"
     },
     {
-      "rank": 15581,
+      "rank": 15584,
       "id": "de6af4d6ae57c545",
       "name": "何なら明日も配信しちゃおうかなって",
       "secondary": "",
@@ -1029,7 +1130,7 @@
       "detailPath": "entities/artists/de6af4d6ae57c545.json"
     },
     {
-      "rank": 15582,
+      "rank": 15585,
       "id": "804659b939d3ef1d",
       "name": "何も言えなくて...夏",
       "secondary": "",
@@ -1063,7 +1164,7 @@
       "detailPath": "entities/artists/804659b939d3ef1d.json"
     },
     {
-      "rank": 15583,
+      "rank": 15586,
       "id": "7b09e35501b477ae",
       "name": "何故か一番上手い",
       "secondary": "",
@@ -1096,7 +1197,7 @@
       "detailPath": "entities/artists/7b09e35501b477ae.json"
     },
     {
-      "rank": 15584,
+      "rank": 15587,
       "id": "eb14097884780c0a",
       "name": "佳山明生",
       "secondary": "",
@@ -1129,7 +1230,7 @@
       "detailPath": "entities/artists/eb14097884780c0a.json"
     },
     {
-      "rank": 15585,
+      "rank": 15588,
       "id": "2901e975bc2462a6",
       "name": "加賀(cv井口裕香)",
       "secondary": "",
@@ -1163,7 +1264,7 @@
       "detailPath": "entities/artists/2901e975bc2462a6.json"
     },
     {
-      "rank": 15586,
+      "rank": 15589,
       "id": "c5d824b969408ef1",
       "name": "加賀美ハヤト",
       "secondary": "",
@@ -1193,7 +1294,7 @@
       "detailPath": "entities/artists/c5d824b969408ef1.json"
     },
     {
-      "rank": 15587,
+      "rank": 15590,
       "id": "7e03f4ccadbd5f66",
       "name": "加藤ミリア",
       "secondary": "",
@@ -1227,7 +1328,7 @@
       "detailPath": "entities/artists/7e03f4ccadbd5f66.json"
     },
     {
-      "rank": 15588,
+      "rank": 15591,
       "id": "0c2e6d0f65258842",
       "name": "加藤ミリヤ(ｱｶﾍﾟﾗ)",
       "secondary": "",
@@ -1260,7 +1361,7 @@
       "detailPath": "entities/artists/0c2e6d0f65258842.json"
     },
     {
-      "rank": 15589,
+      "rank": 15592,
       "id": "59f9b9a5b9f8b0fe",
       "name": "加藤英美里 (八九寺真宵) 「化物語 まよいマイマイ」",
       "secondary": "",
@@ -1290,7 +1391,7 @@
       "detailPath": "entities/artists/59f9b9a5b9f8b0fe.json"
     },
     {
-      "rank": 15590,
+      "rank": 15593,
       "id": "c52da1d274bc1fdc",
       "name": "加藤登紀子 (ジブリ『紅の豚』より)",
       "secondary": "",
@@ -1320,7 +1421,7 @@
       "detailPath": "entities/artists/c52da1d274bc1fdc.json"
     },
     {
-      "rank": 15591,
+      "rank": 15594,
       "id": "db0c471ae002b0d6",
       "name": "加藤登紀子・紅の豚",
       "secondary": "",
@@ -1352,7 +1453,7 @@
       "detailPath": "entities/artists/db0c471ae002b0d6.json"
     },
     {
-      "rank": 15592,
+      "rank": 15595,
       "id": "c89ed09ea83f7263",
       "name": "加猫のか",
       "secondary": "",
@@ -1385,7 +1486,7 @@
       "detailPath": "entities/artists/c89ed09ea83f7263.json"
     },
     {
-      "rank": 15593,
+      "rank": 15596,
       "id": "9d3601ba525b9e66",
       "name": "可愛いすぎた",
       "secondary": "",
@@ -1418,7 +1519,7 @@
       "detailPath": "entities/artists/9d3601ba525b9e66.json"
     },
     {
-      "rank": 15594,
+      "rank": 15597,
       "id": "b57fe105e92a7f36",
       "name": "可愛いぺけ。",
       "secondary": "",
@@ -1451,7 +1552,7 @@
       "detailPath": "entities/artists/b57fe105e92a7f36.json"
     },
     {
-      "rank": 15595,
+      "rank": 15598,
       "id": "6e646af1b51fd574",
       "name": "可愛い曲縛り",
       "secondary": "",
@@ -1484,7 +1585,7 @@
       "detailPath": "entities/artists/6e646af1b51fd574.json"
     },
     {
-      "rank": 15596,
+      "rank": 15599,
       "id": "1521bd4c8ddf2390",
       "name": "可愛くてごめん",
       "secondary": "",
@@ -1517,7 +1618,7 @@
       "detailPath": "entities/artists/1521bd4c8ddf2390.json"
     },
     {
-      "rank": 15597,
+      "rank": 15600,
       "id": "788d1c4fe3f578ef",
       "name": "可愛く盛り上げていきます ! !",
       "secondary": "",
@@ -1548,105 +1649,6 @@
         }
       ],
       "detailPath": "entities/artists/788d1c4fe3f578ef.json"
-    },
-    {
-      "rank": 15598,
-      "id": "71d87c4e8825da26",
-      "name": "可愛小劇場",
-      "secondary": "",
-      "channelId": "UCOBsuL1u08iXAHTKJmsoMzw",
-      "channelHandle": "@Cetro.Timaeus",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "gcGpBK6zLII",
-          "videoTitle": "//歌枠// 新的夥伴來了!! | 賽特珞 Cetro",
-          "channelName": "Cetro Ch. 賽特珞",
-          "publishedAt": "2026-10-07T16:31:17.025Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/gcGpBK6zLII/hqdefault.jpg",
-          "sourcePath": "sources/gc/gcGpBK6zLII.json",
-          "time": "1:11:16",
-          "seconds": 4276,
-          "songTitle": "生氣氣特珞",
-          "artist": "可愛小劇場"
-        }
-      ],
-      "detailPath": "entities/artists/71d87c4e8825da26.json"
-    },
-    {
-      "rank": 15599,
-      "id": "271df83c5be58b6c",
-      "name": "可苦可樂 (コブクロ)",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "n668CeDQbfU",
-          "videoTitle": "【歌枠】幽哉詩音｜我坐在馬桶上2小時？那是在跟好朋友溫習感情！【犬神幽乃詩／芥川組】#初見歡迎 #降落歡迎 #歌枠 #singingstream #karaoke",
-          "channelName": "Inugami ch. 犬神幽乃詩",
-          "publishedAt": "2026-09-01T07:48:16.106Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/n668CeDQbfU/hqdefault.jpg",
-          "sourcePath": "sources/n6/n668CeDQbfU.json",
-          "time": "1:30:22",
-          "seconds": 5422,
-          "songTitle": "蕾（つぼみ）",
-          "artist": "可苦可樂 (コブクロ)"
-        }
-      ],
-      "detailPath": "entities/artists/271df83c5be58b6c.json"
-    },
-    {
-      "rank": 15600,
-      "id": "1a591dcc5c086ecc",
-      "name": "可不",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "onQ5NOT_BHE",
-          "videoTitle": "【 #Karaoke┆#歌枠 】Dark Songs Karaoke ✧ ダークな曲歌う【 VTuber / #凛々咲 #Ririsya 】",
-          "channelName": "凛々咲 / Ririsya",
-          "publishedAt": "2026-09-14T07:53:27.606Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/onQ5NOT_BHE/hqdefault.jpg",
-          "sourcePath": "sources/on/onQ5NOT_BHE.json",
-          "time": "1:54:03",
-          "seconds": 6843,
-          "songTitle": "プロポーズ",
-          "artist": "可不"
-        }
-      ],
-      "detailPath": "entities/artists/1a591dcc5c086ecc.json"
     }
   ]
 }

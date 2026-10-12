@@ -1,16 +1,61 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 219,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 10901,
+      "id": "d53e1c1da20bf516",
+      "name": "Melodic Storm",
+      "secondary": "ストレイテナー",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "n3ppfAClc_w",
+          "videoTitle": "お酒飲みながらアコギ弾く【弾き語り配信】",
+          "channelName": "ヤヅキ / やづけん",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/n3ppfAClc_w/hqdefault.jpg",
+          "sourcePath": "sources/n3/n3ppfAClc_w.json",
+          "time": "1:05:56",
+          "seconds": 3956,
+          "songTitle": "Melodic Storm",
+          "artist": "ストレイテナー"
+        },
+        {
+          "videoId": "NnFCe7PlJAA",
+          "videoTitle": "【#縦型 / #歌枠 】ぽんぽこぽん！歌いたい曲を歌います🎙️2時間歌枠【#新人Vtuber / #文福しゃのめ 】",
+          "channelName": "文福しゃのめ",
+          "publishedAt": "2026-08-29T06:39:55.570Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/NnFCe7PlJAA/hqdefault.jpg",
+          "sourcePath": "sources/Nn/NnFCe7PlJAA.json",
+          "time": "0:56:04",
+          "seconds": 3364,
+          "songTitle": "Melodic Storm",
+          "artist": "ストレイテナー"
+        }
+      ],
+      "detailPath": "entities/songs/d53e1c1da20bf516.json"
+    },
+    {
+      "rank": 10902,
       "id": "e320d100ab0a1776",
       "name": "Melty Magic",
       "secondary": "picco",
@@ -55,7 +100,7 @@
       "detailPath": "entities/songs/e320d100ab0a1776.json"
     },
     {
-      "rank": 10902,
+      "rank": 10903,
       "id": "2e2e2cf0cd22e774",
       "name": "member",
       "secondary": "FLOW",
@@ -100,7 +145,7 @@
       "detailPath": "entities/songs/2e2e2cf0cd22e774.json"
     },
     {
-      "rank": 10903,
+      "rank": 10904,
       "id": "74e29e27489c6ce4",
       "name": "Memeshikute",
       "secondary": "Golden Bomber",
@@ -147,7 +192,7 @@
       "detailPath": "entities/songs/74e29e27489c6ce4.json"
     },
     {
-      "rank": 10904,
+      "rank": 10905,
       "id": "37ace06742599f25",
       "name": "memeしい",
       "secondary": "青栗鼠",
@@ -192,7 +237,7 @@
       "detailPath": "entities/songs/37ace06742599f25.json"
     },
     {
-      "rank": 10905,
+      "rank": 10906,
       "id": "4448800540e9d980",
       "name": "Memoria",
       "secondary": "Duca",
@@ -237,7 +282,7 @@
       "detailPath": "entities/songs/4448800540e9d980.json"
     },
     {
-      "rank": 10906,
+      "rank": 10907,
       "id": "e4ac39d1e96ebc53",
       "name": "memories",
       "secondary": "大槻マキ,大槻真希(大槻マキ,大槻真希,森純太)",
@@ -285,7 +330,7 @@
       "detailPath": "entities/songs/e4ac39d1e96ebc53.json"
     },
     {
-      "rank": 10907,
+      "rank": 10908,
       "id": "54b2ef25a4544e4a",
       "name": "Memories",
       "secondary": "Maroon 5",
@@ -330,7 +375,7 @@
       "detailPath": "entities/songs/54b2ef25a4544e4a.json"
     },
     {
-      "rank": 10908,
+      "rank": 10909,
       "id": "da1e01a2b833e516",
       "name": "memory of snow",
       "secondary": "fripSide",
@@ -375,7 +420,7 @@
       "detailPath": "entities/songs/da1e01a2b833e516.json"
     },
     {
-      "rank": 10909,
+      "rank": 10910,
       "id": "b98aaefd10bf5843",
       "name": "MEN OF DESTINY",
       "secondary": "",
@@ -420,7 +465,7 @@
       "detailPath": "entities/songs/b98aaefd10bf5843.json"
     },
     {
-      "rank": 10910,
+      "rank": 10911,
       "id": "58a8ff5154a8b628",
       "name": "Mera!",
       "secondary": "緑黄色社会",
@@ -468,7 +513,7 @@
       "detailPath": "entities/songs/58a8ff5154a8b628.json"
     },
     {
-      "rank": 10911,
+      "rank": 10912,
       "id": "944a97badcd726b4",
       "name": "message",
       "secondary": "fripSide",
@@ -513,7 +558,7 @@
       "detailPath": "entities/songs/944a97badcd726b4.json"
     },
     {
-      "rank": 10912,
+      "rank": 10913,
       "id": "d55d729b15fe84b3",
       "name": "Message of Rouge",
       "secondary": "Yumi Matsutōya",
@@ -559,7 +604,7 @@
       "detailPath": "entities/songs/d55d729b15fe84b3.json"
     },
     {
-      "rank": 10913,
+      "rank": 10914,
       "id": "fcb7145a4338c5eb",
       "name": "Metamorphose",
       "secondary": "Asriel",
@@ -604,7 +649,7 @@
       "detailPath": "entities/songs/fcb7145a4338c5eb.json"
     },
     {
-      "rank": 10914,
+      "rank": 10915,
       "id": "91803457c1f425b8",
       "name": "METEOR",
       "secondary": "オリジナル曲",
@@ -646,7 +691,7 @@
       "detailPath": "entities/songs/91803457c1f425b8.json"
     },
     {
-      "rank": 10915,
+      "rank": 10916,
       "id": "76e3067a65860cbb",
       "name": "Meteor - ミーティア",
       "secondary": "T.M.Revolution ※JOYSOUND",
@@ -691,7 +736,7 @@
       "detailPath": "entities/songs/76e3067a65860cbb.json"
     },
     {
-      "rank": 10916,
+      "rank": 10917,
       "id": "b783b7e927d57389",
       "name": "Metronome",
       "secondary": "Kenshi Yonezu",
@@ -736,7 +781,7 @@
       "detailPath": "entities/songs/b783b7e927d57389.json"
     },
     {
-      "rank": 10917,
+      "rank": 10918,
       "id": "ecf8b58aed3db1b1",
       "name": "Michiteyuku (Overflowing)",
       "secondary": "Kaze Fujii",
@@ -784,7 +829,7 @@
       "detailPath": "entities/songs/ecf8b58aed3db1b1.json"
     },
     {
-      "rank": 10918,
+      "rank": 10919,
       "id": "23e2045eba3340ef",
       "name": "MIDNIGHT BLUE",
       "secondary": "林原めぐみ",
@@ -829,7 +874,7 @@
       "detailPath": "entities/songs/23e2045eba3340ef.json"
     },
     {
-      "rank": 10919,
+      "rank": 10920,
       "id": "875369ab3ab25592",
       "name": "midnight sparkling（Rearrange ver.）",
       "secondary": "NEPHLA",
@@ -875,7 +920,7 @@
       "detailPath": "entities/songs/875369ab3ab25592.json"
     },
     {
-      "rank": 10920,
+      "rank": 10921,
       "id": "9c9ead5c00ecce26",
       "name": "Midnight Sun",
       "secondary": "Zara Larsson",
@@ -920,7 +965,7 @@
       "detailPath": "entities/songs/9c9ead5c00ecce26.json"
     },
     {
-      "rank": 10921,
+      "rank": 10922,
       "id": "ca141f475e33e062",
       "name": "Mighty Heart ～ある日のケンカ、いつもの恋心～",
       "secondary": "KOTOKO",
@@ -965,7 +1010,7 @@
       "detailPath": "entities/songs/ca141f475e33e062.json"
     },
     {
-      "rank": 10922,
+      "rank": 10923,
       "id": "c69eda4f18b3b415",
       "name": "Mighty Long Fall",
       "secondary": "ONE OK ROCK",
@@ -1010,7 +1055,7 @@
       "detailPath": "entities/songs/c69eda4f18b3b415.json"
     },
     {
-      "rank": 10923,
+      "rank": 10924,
       "id": "a17eb4499fc7e9a4",
       "name": "Mii助参上",
       "secondary": "準備仕事 (約3分)",
@@ -1055,7 +1100,7 @@
       "detailPath": "entities/songs/a17eb4499fc7e9a4.json"
     },
     {
-      "rank": 10924,
+      "rank": 10925,
       "id": "99b4ca26aca51ead",
       "name": "MILABO",
       "secondary": "ZUTOMAYO",
@@ -1100,7 +1145,7 @@
       "detailPath": "entities/songs/99b4ca26aca51ead.json"
     },
     {
-      "rank": 10925,
+      "rank": 10926,
       "id": "3ffdf737df55929c",
       "name": "milk boy",
       "secondary": "",
@@ -1145,7 +1190,7 @@
       "detailPath": "entities/songs/3ffdf737df55929c.json"
     },
     {
-      "rank": 10926,
+      "rank": 10927,
       "id": "8de278fb559533d2",
       "name": "milk tea",
       "secondary": "福山 雅治",
@@ -1190,7 +1235,7 @@
       "detailPath": "entities/songs/8de278fb559533d2.json"
     },
     {
-      "rank": 10927,
+      "rank": 10928,
       "id": "0e3149f1e39e9ee0",
       "name": "Million Clouds",
       "secondary": "坂本真綾",
@@ -1235,7 +1280,7 @@
       "detailPath": "entities/songs/0e3149f1e39e9ee0.json"
     },
     {
-      "rank": 10928,
+      "rank": 10929,
       "id": "3ab9833f741a8428",
       "name": "Million Films",
       "secondary": "コブクロ",
@@ -1281,7 +1326,7 @@
       "detailPath": "entities/songs/3ab9833f741a8428.json"
     },
     {
-      "rank": 10929,
+      "rank": 10930,
       "id": "9dd98473f941e514",
       "name": "mimizuqu",
       "secondary": "sasakure.UK 様",
@@ -1323,7 +1368,7 @@
       "detailPath": "entities/songs/9dd98473f941e514.json"
     },
     {
-      "rank": 10930,
+      "rank": 10931,
       "id": "b626688713b48af1",
       "name": "mind as Judgement",
       "secondary": "Faylan",
@@ -1371,7 +1416,7 @@
       "detailPath": "entities/songs/b626688713b48af1.json"
     },
     {
-      "rank": 10931,
+      "rank": 10932,
       "id": "33f8fb7e606e533d",
       "name": "Mine or Yours",
       "secondary": "宇多田ヒカル",
@@ -1419,7 +1464,7 @@
       "detailPath": "entities/songs/33f8fb7e606e533d.json"
     },
     {
-      "rank": 10932,
+      "rank": 10933,
       "id": "dfba9820fcb4469a",
       "name": "Minstrel",
       "secondary": "Resonecia",
@@ -1464,7 +1509,7 @@
       "detailPath": "entities/songs/dfba9820fcb4469a.json"
     },
     {
-      "rank": 10933,
+      "rank": 10934,
       "id": "efc02fbc7ea4d37b",
       "name": "Miracle Heart!!",
       "secondary": "大島はるな",
@@ -1509,7 +1554,7 @@
       "detailPath": "entities/songs/efc02fbc7ea4d37b.json"
     },
     {
-      "rank": 10934,
+      "rank": 10935,
       "id": "cf4cd28b92514f4f",
       "name": "Miree",
       "secondary": "Suchmos",
@@ -1556,7 +1601,7 @@
       "detailPath": "entities/songs/cf4cd28b92514f4f.json"
     },
     {
-      "rank": 10935,
+      "rank": 10936,
       "id": "d6ad0392b85e31f0",
       "name": "Miss MOONLIGHT",
       "secondary": "黒夢",
@@ -1601,7 +1646,7 @@
       "detailPath": "entities/songs/d6ad0392b85e31f0.json"
     },
     {
-      "rank": 10936,
+      "rank": 10937,
       "id": "0277fd6b90fa5faa",
       "name": "Missing",
       "secondary": "夢乃ゆき",
@@ -1646,7 +1691,7 @@
       "detailPath": "entities/songs/0277fd6b90fa5faa.json"
     },
     {
-      "rank": 10937,
+      "rank": 10938,
       "id": "0f1035cdb6f303ca",
       "name": "Missing Promise",
       "secondary": "鈴木このみ",
@@ -1691,7 +1736,7 @@
       "detailPath": "entities/songs/0f1035cdb6f303ca.json"
     },
     {
-      "rank": 10938,
+      "rank": 10939,
       "id": "a361d783b8c21300",
       "name": "mix juiceのいうとおり",
       "secondary": "UNISON SQUARE GARDEN",
@@ -1736,7 +1781,7 @@
       "detailPath": "entities/songs/a361d783b8c21300.json"
     },
     {
-      "rank": 10939,
+      "rank": 10940,
       "id": "6b68cfe346823168",
       "name": "Mizerable",
       "secondary": "Gackt",
@@ -1781,7 +1826,7 @@
       "detailPath": "entities/songs/6b68cfe346823168.json"
     },
     {
-      "rank": 10940,
+      "rank": 10941,
       "id": "ba5f3e320185d467",
       "name": "modify Youth",
       "secondary": "Kurayamisaka, せだい",
@@ -1827,7 +1872,7 @@
       "detailPath": "entities/songs/ba5f3e320185d467.json"
     },
     {
-      "rank": 10941,
+      "rank": 10942,
       "id": "077766ccf97811b0",
       "name": "MOMENT RING",
       "secondary": "μ's",
@@ -1875,7 +1920,7 @@
       "detailPath": "entities/songs/077766ccf97811b0.json"
     },
     {
-      "rank": 10942,
+      "rank": 10943,
       "id": "488e632173d2925d",
       "name": "Momiji",
       "secondary": "朱音りん",
@@ -1920,7 +1965,7 @@
       "detailPath": "entities/songs/488e632173d2925d.json"
     },
     {
-      "rank": 10943,
+      "rank": 10944,
       "id": "2efd0702acd88f9e",
       "name": "Monitoring",
       "secondary": "DECO*27",
@@ -1968,7 +2013,7 @@
       "detailPath": "entities/songs/2efd0702acd88f9e.json"
     },
     {
-      "rank": 10944,
+      "rank": 10945,
       "id": "e893ce54826684be",
       "name": "Monochrome no Kiss",
       "secondary": "SID",
@@ -2013,7 +2058,7 @@
       "detailPath": "entities/songs/e893ce54826684be.json"
     },
     {
-      "rank": 10945,
+      "rank": 10946,
       "id": "5b71d82313b61ac5",
       "name": "MONTERO",
       "secondary": "Lil Nas X",
@@ -2061,7 +2106,7 @@
       "detailPath": "entities/songs/5b71d82313b61ac5.json"
     },
     {
-      "rank": 10946,
+      "rank": 10947,
       "id": "9c0ea01f6f6b6241",
       "name": "MOON",
       "secondary": "REBECCA",
@@ -2107,7 +2152,7 @@
       "detailPath": "entities/songs/9c0ea01f6f6b6241.json"
     },
     {
-      "rank": 10947,
+      "rank": 10948,
       "id": "e4f7bb8498e5b7b6",
       "name": "Moon Resonance",
       "secondary": "水魚みぃむ x 曇音ルカ",
@@ -2152,7 +2197,7 @@
       "detailPath": "entities/songs/e4f7bb8498e5b7b6.json"
     },
     {
-      "rank": 10948,
+      "rank": 10949,
       "id": "4d4485b6b62d0b70",
       "name": "Moon River",
       "secondary": "",
@@ -2197,7 +2242,7 @@
       "detailPath": "entities/songs/4d4485b6b62d0b70.json"
     },
     {
-      "rank": 10949,
+      "rank": 10950,
       "id": "83c166c1a5182fdf",
       "name": "moonfesta～ムーンフェスタ～",
       "secondary": "Kalafina",
@@ -2240,54 +2285,6 @@
         }
       ],
       "detailPath": "entities/songs/83c166c1a5182fdf.json"
-    },
-    {
-      "rank": 10950,
-      "id": "763be5cbe11d83d8",
-      "name": "moonlight",
-      "secondary": "黒咲ルシア",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit_today_snapshot",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "YaMFjXgSPQU",
-          "videoTitle": "【#歌枠/karaoke】帰宅中に1曲聴いていきませんか？初見さんROM大歓迎♪ワンマンライブチケット発売中！【黒咲ルシア/#Vsinger】",
-          "channelName": "黒咲ルシア / LUCIA CHANNEL",
-          "publishedAt": "2026-10-09T11:46:31.230Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YaMFjXgSPQU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAx6Dchwxz3o7cOYxa0kuakC6ge2w",
-          "sourcePath": "sources/Ya/YaMFjXgSPQU.json",
-          "time": "1:37:08",
-          "seconds": 5828,
-          "songTitle": "moonlight",
-          "artist": "黒咲ルシア"
-        },
-        {
-          "videoId": "4O6x-hfzHO0",
-          "videoTitle": "【#歌枠/karaoke】まったりいかが？バラード中心歌枠【黒咲ルシア/#Vsinger】",
-          "channelName": "黒咲ルシア / LUCIA CHANNEL",
-          "publishedAt": "2026-07-12T15:59:20.390Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/4O6x-hfzHO0/hqdefault.jpg",
-          "sourcePath": "sources/4O/4O6x-hfzHO0.json",
-          "time": "1:46:32",
-          "seconds": 6392,
-          "songTitle": "moonlight",
-          "artist": "黒咲ルシア"
-        }
-      ],
-      "detailPath": "entities/songs/763be5cbe11d83d8.json"
     }
   ]
 }

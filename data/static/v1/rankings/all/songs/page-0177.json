@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 177,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 8801,
+      "id": "e0ad32c46b30b348",
+      "name": "我也",
+      "secondary": "厄倫蒂兒",
+      "channelId": "UCwzpXmWAFEVKH3VzwvSlY_w",
+      "channelHandle": "@EarendelXDFP",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "XlfnaTGgpPU",
+          "videoTitle": "【伴睡歌回】今天的雨能不能也順便把「我不夠好」沖走？今日の雨が、「私はまだ足りない」って気持ちも流してくれたらいいのに ░ 睡眠導入歌枠｜Singing Stream 厄倫蒂兒𝑬𝒂𝒓𝒆𝒏𝒅𝒆𝒍 ✦",
+          "channelName": "Earendel ch.エアレンデル",
+          "publishedAt": "2026-10-05T16:35:46.109Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XlfnaTGgpPU/hqdefault.jpg",
+          "sourcePath": "sources/Xl/XlfnaTGgpPU.json",
+          "time": "1:33:25",
+          "seconds": 5605,
+          "songTitle": "我也",
+          "artist": "厄倫蒂兒"
+        },
+        {
+          "videoId": "CWGenqi0ljY",
+          "videoTitle": "【伴睡歌回】你也是嗎？長大後連「最近好嗎？」都越來越難回答。大人になるほど、「最近どう？」に答えられなくなる。 ░ 睡眠導入歌枠｜Singing Stream 厄倫蒂兒𝑬𝒂𝒓𝒆𝒏𝒅𝒆𝒍 ✦",
+          "channelName": "Earendel ch.エアレンデル",
+          "publishedAt": "2026-09-28T16:55:45.212Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/CWGenqi0ljY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDS55HOfBfz7JU0wmQF--1j-o8QpA",
+          "sourcePath": "sources/CW/CWGenqi0ljY.json",
+          "time": "1:33:25",
+          "seconds": 5605,
+          "songTitle": "我也",
+          "artist": "厄倫蒂兒"
+        },
+        {
+          "videoId": "LeuwrXGOy7k",
+          "videoTitle": "【伴睡歌回】煙火只開幾秒，我們卻記得了整個夏天。🎆花火は一瞬なのに、ひと夏のことをずっと覚えている。🎆 ░ 睡眠導入歌枠｜Singing Stream",
+          "channelName": "Earendel ch.エアレンデル",
+          "publishedAt": "2026-09-07T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/LeuwrXGOy7k/hqdefault.jpg",
+          "sourcePath": "sources/Le/LeuwrXGOy7k.json",
+          "time": "2:15:45",
+          "seconds": 8145,
+          "songTitle": "我也",
+          "artist": "厄倫蒂兒"
+        }
+      ],
+      "detailPath": "entities/songs/e0ad32c46b30b348.json"
+    },
+    {
+      "rank": 8802,
       "id": "b945203bb6c80947",
       "name": "会いたい",
       "secondary": "シグナルP",
@@ -70,7 +127,7 @@
       "detailPath": "entities/songs/b945203bb6c80947.json"
     },
     {
-      "rank": 8802,
+      "rank": 8803,
       "id": "ccf234572c2af8f7",
       "name": "会いたい",
       "secondary": "",
@@ -127,7 +184,7 @@
       "detailPath": "entities/songs/ccf234572c2af8f7.json"
     },
     {
-      "rank": 8803,
+      "rank": 8804,
       "id": "0b20ded6ca58aa6b",
       "name": "会いたくて　会いたくて",
       "secondary": "",
@@ -184,7 +241,7 @@
       "detailPath": "entities/songs/0b20ded6ca58aa6b.json"
     },
     {
-      "rank": 8804,
+      "rank": 8805,
       "id": "38bd86ec5f5592a7",
       "name": "会場:Sound Bar Freja",
       "secondary": "大阪府",
@@ -241,7 +298,7 @@
       "detailPath": "entities/songs/38bd86ec5f5592a7.json"
     },
     {
-      "rank": 8805,
+      "rank": 8806,
       "id": "e94abb20343dfbf8",
       "name": "解読不能",
       "secondary": "ジン",
@@ -298,7 +355,7 @@
       "detailPath": "entities/songs/e94abb20343dfbf8.json"
     },
     {
-      "rank": 8806,
+      "rank": 8807,
       "id": "29924489329e7229",
       "name": "解氷",
       "secondary": "ナツノセ",
@@ -359,7 +416,7 @@
       "detailPath": "entities/songs/29924489329e7229.json"
     },
     {
-      "rank": 8807,
+      "rank": 8808,
       "id": "1e89e37103932b0e",
       "name": "回る空うさぎ",
       "secondary": "Orangestar 様",
@@ -416,7 +473,7 @@
       "detailPath": "entities/songs/1e89e37103932b0e.json"
     },
     {
-      "rank": 8808,
+      "rank": 8809,
       "id": "6d4f9d5b70abfd85",
       "name": "回る空うさぎ",
       "secondary": "初音ミク",
@@ -473,7 +530,7 @@
       "detailPath": "entities/songs/6d4f9d5b70abfd85.json"
     },
     {
-      "rank": 8809,
+      "rank": 8810,
       "id": "4930a2553ef6fbb1",
       "name": "壊レタ世界ノ歌",
       "secondary": "岡部啓一 feat. 河野万里奈",
@@ -533,7 +590,7 @@
       "detailPath": "entities/songs/4930a2553ef6fbb1.json"
     },
     {
-      "rank": 8810,
+      "rank": 8811,
       "id": "1e904a69159a28b3",
       "name": "快晴",
       "secondary": "まにこ(オリジナル・フル",
@@ -590,7 +647,7 @@
       "detailPath": "entities/songs/1e904a69159a28b3.json"
     },
     {
-      "rank": 8811,
+      "rank": 8812,
       "id": "50763aa51c822ce4",
       "name": "怪獣",
       "secondary": "未記載",
@@ -647,7 +704,7 @@
       "detailPath": "entities/songs/50763aa51c822ce4.json"
     },
     {
-      "rank": 8812,
+      "rank": 8813,
       "id": "0bc5938f02a6deaa",
       "name": "怪獣の花唄",
       "secondary": "Vaundyさん",
@@ -705,7 +762,7 @@
       "detailPath": "entities/songs/0bc5938f02a6deaa.json"
     },
     {
-      "rank": 8813,
+      "rank": 8814,
       "id": "c717439addb24c33",
       "name": "怪獣の花歌",
       "secondary": "Vaundy",
@@ -765,7 +822,7 @@
       "detailPath": "entities/songs/c717439addb24c33.json"
     },
     {
-      "rank": 8814,
+      "rank": 8815,
       "id": "6a6983d991bedde9",
       "name": "怪獣の花歌",
       "secondary": "",
@@ -822,7 +879,7 @@
       "detailPath": "entities/songs/6a6983d991bedde9.json"
     },
     {
-      "rank": 8815,
+      "rank": 8816,
       "id": "b04b99ac817d7381",
       "name": "怪獣の腕の中",
       "secondary": "きのこ帝国",
@@ -878,7 +935,7 @@
       "detailPath": "entities/songs/b04b99ac817d7381.json"
     },
     {
-      "rank": 8816,
+      "rank": 8817,
       "id": "ace389e0f9fc0064",
       "name": "海と花束",
       "secondary": "きのこ帝国",
@@ -936,7 +993,7 @@
       "detailPath": "entities/songs/ace389e0f9fc0064.json"
     },
     {
-      "rank": 8817,
+      "rank": 8818,
       "id": "5102f4a9e36b24e2",
       "name": "海と山椒魚",
       "secondary": "米津玄師",
@@ -997,7 +1054,7 @@
       "detailPath": "entities/songs/5102f4a9e36b24e2.json"
     },
     {
-      "rank": 8818,
+      "rank": 8819,
       "id": "bf582eb0698f58ca",
       "name": "海のまにまに",
       "secondary": "YOASOBI",
@@ -1056,7 +1113,7 @@
       "detailPath": "entities/songs/bf582eb0698f58ca.json"
     },
     {
-      "rank": 8819,
+      "rank": 8820,
       "id": "239016639f90916c",
       "name": "海の幽霊",
       "secondary": "未記載",
@@ -1114,7 +1171,7 @@
       "detailPath": "entities/songs/239016639f90916c.json"
     },
     {
-      "rank": 8820,
+      "rank": 8821,
       "id": "7b62bf67bbe5912b",
       "name": "海馬成長痛",
       "secondary": "ずっと真夜中でいいのに",
@@ -1174,7 +1231,7 @@
       "detailPath": "entities/songs/7b62bf67bbe5912b.json"
     },
     {
-      "rank": 8821,
+      "rank": 8822,
       "id": "2bf407138a9d57f8",
       "name": "灰色と青",
       "secondary": "",
@@ -1231,7 +1288,7 @@
       "detailPath": "entities/songs/2bf407138a9d57f8.json"
     },
     {
-      "rank": 8822,
+      "rank": 8823,
       "id": "2100ec7da136d635",
       "name": "開演",
       "secondary": "未記載",
@@ -1289,7 +1346,7 @@
       "detailPath": "entities/songs/2100ec7da136d635.json"
     },
     {
-      "rank": 8823,
+      "rank": 8824,
       "id": "4a7a90f9fd55d359",
       "name": "開会式:19:30～",
       "secondary": "",
@@ -1343,7 +1400,7 @@
       "detailPath": "entities/songs/4a7a90f9fd55d359.json"
     },
     {
-      "rank": 8824,
+      "rank": 8825,
       "id": "0ee0586fc04a1b94",
       "name": "開心果",
       "secondary": "sica",
@@ -1403,7 +1460,7 @@
       "detailPath": "entities/songs/0ee0586fc04a1b94.json"
     },
     {
-      "rank": 8825,
+      "rank": 8826,
       "id": "4ece438ea4147fda",
       "name": "崖の上のポニョ",
       "secondary": "藤岡藤巻・大橋のぞみ",
@@ -1463,7 +1520,7 @@
       "detailPath": "entities/songs/4ece438ea4147fda.json"
     },
     {
-      "rank": 8826,
+      "rank": 8827,
       "id": "cb5859605c15f80c",
       "name": "格子の心臓",
       "secondary": "西沢さんP",
@@ -1521,7 +1578,7 @@
       "detailPath": "entities/songs/cb5859605c15f80c.json"
     },
     {
-      "rank": 8827,
+      "rank": 8828,
       "id": "196d01ded7fe8076",
       "name": "革命デュアリズム",
       "secondary": "未記載",
@@ -1579,7 +1636,7 @@
       "detailPath": "entities/songs/196d01ded7fe8076.json"
     },
     {
-      "rank": 8828,
+      "rank": 8829,
       "id": "e1281ac0b26f01a2",
       "name": "学級崩壊",
       "secondary": "相対性理論",
@@ -1639,7 +1696,7 @@
       "detailPath": "entities/songs/e1281ac0b26f01a2.json"
     },
     {
-      "rank": 8829,
+      "rank": 8830,
       "id": "f13c5a5e47b6f930",
       "name": "楽園都市",
       "secondary": "オーイシマサヨシ",
@@ -1699,7 +1756,7 @@
       "detailPath": "entities/songs/f13c5a5e47b6f930.json"
     },
     {
-      "rank": 8830,
+      "rank": 8831,
       "id": "c6365644574c5f06",
       "name": "乾杯",
       "secondary": "長渕剛",
@@ -1759,7 +1816,7 @@
       "detailPath": "entities/songs/c6365644574c5f06.json"
     },
     {
-      "rank": 8831,
+      "rank": 8832,
       "id": "d44743389bcb60da",
       "name": "完全感覚Dreamer",
       "secondary": "",
@@ -1816,7 +1873,7 @@
       "detailPath": "entities/songs/d44743389bcb60da.json"
     },
     {
-      "rank": 8832,
+      "rank": 8833,
       "id": "9c5e537d8cdbae7f",
       "name": "感電",
       "secondary": "",
@@ -1873,7 +1930,7 @@
       "detailPath": "entities/songs/9c5e537d8cdbae7f.json"
     },
     {
-      "rank": 8833,
+      "rank": 8834,
       "id": "f21e4238f7aca9e7",
       "name": "管制塔",
       "secondary": "Galileo Galilei",
@@ -1932,7 +1989,7 @@
       "detailPath": "entities/songs/f21e4238f7aca9e7.json"
     },
     {
-      "rank": 8834,
+      "rank": 8835,
       "id": "3b0719bd3a3fa6e3",
       "name": "関白宣言",
       "secondary": "さだまさし",
@@ -1991,7 +2048,7 @@
       "detailPath": "entities/songs/3b0719bd3a3fa6e3.json"
     },
     {
-      "rank": 8835,
+      "rank": 8836,
       "id": "de54f81612bc01d5",
       "name": "丸の内サディスティック",
       "secondary": "未記載",
@@ -2048,7 +2105,7 @@
       "detailPath": "entities/songs/de54f81612bc01d5.json"
     },
     {
-      "rank": 8836,
+      "rank": 8837,
       "id": "d78267b6d7f494b6",
       "name": "願いの詩",
       "secondary": "コブクロ",
@@ -2106,7 +2163,7 @@
       "detailPath": "entities/songs/d78267b6d7f494b6.json"
     },
     {
-      "rank": 8837,
+      "rank": 8838,
       "id": "569f82524570ddb6",
       "name": "奇跡",
       "secondary": "amazarashi",
@@ -2166,7 +2223,7 @@
       "detailPath": "entities/songs/569f82524570ddb6.json"
     },
     {
-      "rank": 8838,
+      "rank": 8839,
       "id": "567d1f74b70d819e",
       "name": "奇跡を望むなら・・・",
       "secondary": "JUJU",
@@ -2225,7 +2282,7 @@
       "detailPath": "entities/songs/567d1f74b70d819e.json"
     },
     {
-      "rank": 8839,
+      "rank": 8840,
       "id": "94a4cb6be7d588c1",
       "name": "希望峰",
       "secondary": "Strawberry JAM",
@@ -2285,7 +2342,7 @@
       "detailPath": "entities/songs/94a4cb6be7d588c1.json"
     },
     {
-      "rank": 8840,
+      "rank": 8841,
       "id": "59de5b5f98961563",
       "name": "幾億光年",
       "secondary": "",
@@ -2342,7 +2399,7 @@
       "detailPath": "entities/songs/59de5b5f98961563.json"
     },
     {
-      "rank": 8841,
+      "rank": 8842,
       "id": "494287b550bbe95a",
       "name": "帰り道",
       "secondary": "加藤英美里",
@@ -2401,7 +2458,7 @@
       "detailPath": "entities/songs/494287b550bbe95a.json"
     },
     {
-      "rank": 8842,
+      "rank": 8843,
       "id": "b3a5f035aa1eb21b",
       "name": "帰還",
       "secondary": "西沢幸奏",
@@ -2458,7 +2515,7 @@
       "detailPath": "entities/songs/b3a5f035aa1eb21b.json"
     },
     {
-      "rank": 8843,
+      "rank": 8844,
       "id": "28d8b86a499ebb48",
       "name": "気まぐれメルシィ",
       "secondary": "",
@@ -2515,7 +2572,7 @@
       "detailPath": "entities/songs/28d8b86a499ebb48.json"
     },
     {
-      "rank": 8844,
+      "rank": 8845,
       "id": "96feb7ea5c758018",
       "name": "祈っているだけ",
       "secondary": "Neru",
@@ -2575,7 +2632,7 @@
       "detailPath": "entities/songs/96feb7ea5c758018.json"
     },
     {
-      "rank": 8845,
+      "rank": 8846,
       "id": "494bc8fd1af041a0",
       "name": "季節は次々死んでいく",
       "secondary": "未記載",
@@ -2632,7 +2689,7 @@
       "detailPath": "entities/songs/494bc8fd1af041a0.json"
     },
     {
-      "rank": 8846,
+      "rank": 8847,
       "id": "6b2eef0e3889825b",
       "name": "記憶の水槽",
       "secondary": "こんにちは谷田さん",
@@ -2689,7 +2746,7 @@
       "detailPath": "entities/songs/6b2eef0e3889825b.json"
     },
     {
-      "rank": 8847,
+      "rank": 8848,
       "id": "e52bc6a3cd2d1d35",
       "name": "貴方解剖純愛歌〜死ね〜",
       "secondary": "",
@@ -2746,7 +2803,7 @@
       "detailPath": "entities/songs/e52bc6a3cd2d1d35.json"
     },
     {
-      "rank": 8848,
+      "rank": 8849,
       "id": "adfad123fbd63e31",
       "name": "輝く未来",
       "secondary": "畠中洋＆小此木麻里",
@@ -2806,7 +2863,7 @@
       "detailPath": "entities/songs/adfad123fbd63e31.json"
     },
     {
-      "rank": 8849,
+      "rank": 8850,
       "id": "3a9eb420e054b7b8",
       "name": "鬼",
       "secondary": "吉澤嘉代子",
@@ -2861,66 +2918,6 @@
         }
       ],
       "detailPath": "entities/songs/3a9eb420e054b7b8.json"
-    },
-    {
-      "rank": 8850,
-      "id": "55c33e6c8ef9ea02",
-      "name": "鬼ごっこ",
-      "secondary": "春野",
-      "channelId": "UCjRSnkjZzsKeDwKOb6cUMIQ",
-      "channelHandle": "@%E3%81%82%E3%82%93%E3%81%9D%E3%81%AB%E3%81%83ch",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "BUe8tBI2ZaM",
-          "videoTitle": "夏休み明けの、歌枠 #majinai_ihi",
-          "channelName": "咒井イヒ / Ihi Majinai",
-          "publishedAt": "2026-09-24T13:34:34.985Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/BUe8tBI2ZaM/hqdefault.jpg",
-          "sourcePath": "sources/BU/BUe8tBI2ZaM.json",
-          "time": "0:29:36",
-          "seconds": 1776,
-          "songTitle": "鬼ごっこ",
-          "artist": "春野"
-        },
-        {
-          "videoId": "homvBLbJvWo",
-          "videoTitle": "【弾き語り歌枠】ぴかぴかのクラシックギターで弾き語り歌枠しますぇ/singing stream/sing with a guitar/Vsinger/新人Vtuber/ギター",
-          "channelName": "木下ちぷる / Chipuru Ch",
-          "publishedAt": "2026-09-08T13:22:58.132Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/homvBLbJvWo/hqdefault.jpg",
-          "sourcePath": "sources/ho/homvBLbJvWo.json",
-          "time": "1:29:23",
-          "seconds": 5363,
-          "songTitle": "鬼ごっこ",
-          "artist": "春野"
-        },
-        {
-          "videoId": "NfdGCgfDoRA",
-          "videoTitle": "【 #縦型 #弾き語り ║#252 】米津玄師とかボカロ！土曜の夜は～定期弾き語り٩( ᐛ )و/初見さんもBGMに聞いてって～ #shorts",
-          "channelName": "あんそにぃ٩( ᐛ )وDesigner / Streamer",
-          "publishedAt": "2026-07-12T15:27:41.476Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/NfdGCgfDoRA/hqdefault.jpg",
-          "sourcePath": "sources/Nf/NfdGCgfDoRA.json",
-          "time": "2:06:03",
-          "seconds": 7563,
-          "songTitle": "鬼ごっこ",
-          "artist": "春野"
-        }
-      ],
-      "detailPath": "entities/songs/55c33e6c8ef9ea02.json"
     }
   ]
 }

@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 33,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1601,
+      "id": "1584e2cb3ba0900b",
+      "name": "WHITE REFLECTION",
+      "secondary": "TWO-MIX",
+      "channelId": "UC7cZJOAJZD1W4aOfqnRgWiA",
+      "channelHandle": "@MunMosh",
+      "channelUrl": "",
+      "occurrenceCount": 17,
+      "videoCount": 17,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "p1Uzj316slc",
+          "videoTitle": "【#歌枠 】まったり懐メロ歌う！初見さんもお気軽に！【#海月シェル /vtuber 】",
+          "channelName": "海月シェル Shell Ch.",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/p1Uzj316slc/hqdefault.jpg",
+          "sourcePath": "sources/p1/p1Uzj316slc.json",
+          "time": "2:16:06",
+          "seconds": 8166,
+          "songTitle": "WHITE REFLECTION",
+          "artist": "TWO-MIX"
+        },
+        {
+          "videoId": "wxy3COp8ysY",
+          "videoTitle": "【#歌枠】JOYSOUND 初見さん大歓迎！のんびりアニソンボカロソング色々歌枠♪【#vtuber #アニソン #karaoke #縦型配信 #shorts #月香翠 #ボカロ】",
+          "channelName": "月香翠",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/wxy3COp8ysY/hqdefault.jpg",
+          "sourcePath": "sources/wx/wxy3COp8ysY.json",
+          "time": "0:46:39",
+          "seconds": 2799,
+          "songTitle": "WHITE REFLECTION",
+          "artist": "TWO-MIX"
+        },
+        {
+          "videoId": "qsNFyrG9LNw",
+          "videoTitle": "【歌枠同接60名目標 】ロボアニメ有名神曲縛り！ガンダム/エヴァ/マクロスetc..【#火挟あかり/#エアプロ 】#猫又生配信 #vtuber #歌枠 #singing #karaoke #耐久",
+          "channelName": "akari Ch. 火挟あかり【エアプロ】",
+          "publishedAt": "2026-09-18T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/qsNFyrG9LNw/hqdefault.jpg",
+          "sourcePath": "sources/qs/qsNFyrG9LNw.json",
+          "time": "3:40:13",
+          "seconds": 13213,
+          "songTitle": "WHITE REFLECTION",
+          "artist": "TWO-MIX"
+        }
+      ],
+      "detailPath": "entities/songs/1584e2cb3ba0900b.json"
+    },
+    {
+      "rank": 1602,
       "id": "d52bc1810eeef096",
       "name": "アニマル",
       "secondary": "DECO*27",
@@ -70,7 +130,7 @@
       "detailPath": "entities/songs/d52bc1810eeef096.json"
     },
     {
-      "rank": 1602,
+      "rank": 1603,
       "id": "50903fc970b6ac5f",
       "name": "アンハッピーリフレイン",
       "secondary": "wowaka",
@@ -130,7 +190,7 @@
       "detailPath": "entities/songs/50903fc970b6ac5f.json"
     },
     {
-      "rank": 1603,
+      "rank": 1604,
       "id": "ee12c31467579090",
       "name": "ウイスキーが、お好きでしょ",
       "secondary": "石川さゆり",
@@ -190,7 +250,7 @@
       "detailPath": "entities/songs/ee12c31467579090.json"
     },
     {
-      "rank": 1604,
+      "rank": 1605,
       "id": "a28b2f8d33a86ad8",
       "name": "うるわしきひと",
       "secondary": "いきものがかり",
@@ -249,7 +309,7 @@
       "detailPath": "entities/songs/a28b2f8d33a86ad8.json"
     },
     {
-      "rank": 1605,
+      "rank": 1606,
       "id": "4cf53bda30671edb",
       "name": "エゴロック",
       "secondary": "すりぃ feat.鏡音レン",
@@ -309,7 +369,7 @@
       "detailPath": "entities/songs/4cf53bda30671edb.json"
     },
     {
-      "rank": 1606,
+      "rank": 1607,
       "id": "f36b7ca7ecb2e2b9",
       "name": "おジャ魔女カーニバル！！",
       "secondary": "",
@@ -367,7 +427,7 @@
       "detailPath": "entities/songs/f36b7ca7ecb2e2b9.json"
     },
     {
-      "rank": 1607,
+      "rank": 1608,
       "id": "8942787bfa74f68a",
       "name": "オルターエゴ",
       "secondary": "Misumi",
@@ -426,7 +486,7 @@
       "detailPath": "entities/songs/8942787bfa74f68a.json"
     },
     {
-      "rank": 1608,
+      "rank": 1609,
       "id": "ce77162a1c7256d7",
       "name": "カプチーノ",
       "secondary": "椎名林檎",
@@ -486,7 +546,7 @@
       "detailPath": "entities/songs/ce77162a1c7256d7.json"
     },
     {
-      "rank": 1609,
+      "rank": 1610,
       "id": "5c0fc4fc00789324",
       "name": "サウダージ",
       "secondary": "",
@@ -544,7 +604,7 @@
       "detailPath": "entities/songs/5c0fc4fc00789324.json"
     },
     {
-      "rank": 1610,
+      "rank": 1611,
       "id": "c4fbe76bcf69f2e7",
       "name": "さようなら、花泥棒さん",
       "secondary": "メル feat. 初音ミク",
@@ -604,7 +664,7 @@
       "detailPath": "entities/songs/c4fbe76bcf69f2e7.json"
     },
     {
-      "rank": 1611,
+      "rank": 1612,
       "id": "3ecbb8b4a6aa0974",
       "name": "シャカビーチ 〜Laka Laka La〜",
       "secondary": "UVERworld",
@@ -664,7 +724,7 @@
       "detailPath": "entities/songs/3ecbb8b4a6aa0974.json"
     },
     {
-      "rank": 1612,
+      "rank": 1613,
       "id": "b5611b0a6aa638ae",
       "name": "シュガー",
       "secondary": "オリジナル曲",
@@ -724,7 +784,7 @@
       "detailPath": "entities/songs/b5611b0a6aa638ae.json"
     },
     {
-      "rank": 1613,
+      "rank": 1614,
       "id": "96772bf842ec48d7",
       "name": "ジョジョ ～その血の運命～",
       "secondary": "富永TOMMY弘明",
@@ -784,7 +844,7 @@
       "detailPath": "entities/songs/96772bf842ec48d7.json"
     },
     {
-      "rank": 1614,
+      "rank": 1615,
       "id": "df1ff294e10a64f0",
       "name": "シルエット",
       "secondary": "",
@@ -841,7 +901,7 @@
       "detailPath": "entities/songs/df1ff294e10a64f0.json"
     },
     {
-      "rank": 1615,
+      "rank": 1616,
       "id": "be2a7a849d6f28d0",
       "name": "スターライト",
       "secondary": "amazarashi",
@@ -902,7 +962,7 @@
       "detailPath": "entities/songs/be2a7a849d6f28d0.json"
     },
     {
-      "rank": 1616,
+      "rank": 1617,
       "id": "2de41555a5b8ae23",
       "name": "ただ君に晴れ",
       "secondary": "未記載",
@@ -960,7 +1020,7 @@
       "detailPath": "entities/songs/2de41555a5b8ae23.json"
     },
     {
-      "rank": 1617,
+      "rank": 1618,
       "id": "141d66b588ddc9e4",
       "name": "ドーナツホール",
       "secondary": "米津玄師",
@@ -1021,7 +1081,7 @@
       "detailPath": "entities/songs/141d66b588ddc9e4.json"
     },
     {
-      "rank": 1618,
+      "rank": 1619,
       "id": "425bfae629ec1fb7",
       "name": "トンツカタンタン",
       "secondary": "クレイジーウォウウォ!!",
@@ -1081,7 +1141,7 @@
       "detailPath": "entities/songs/425bfae629ec1fb7.json"
     },
     {
-      "rank": 1619,
+      "rank": 1620,
       "id": "d0f441fcb9bff2b6",
       "name": "ナハトムジーク",
       "secondary": "Mrs. GREEN APPLE",
@@ -1142,7 +1202,7 @@
       "detailPath": "entities/songs/d0f441fcb9bff2b6.json"
     },
     {
-      "rank": 1620,
+      "rank": 1621,
       "id": "cdaacce6dfc0d170",
       "name": "なんでもないや",
       "secondary": "上白石萌音",
@@ -1203,7 +1263,7 @@
       "detailPath": "entities/songs/cdaacce6dfc0d170.json"
     },
     {
-      "rank": 1621,
+      "rank": 1622,
       "id": "1a22486a63b6b0e9",
       "name": "バクチ・ダンサー",
       "secondary": "DOES",
@@ -1263,7 +1323,7 @@
       "detailPath": "entities/songs/1a22486a63b6b0e9.json"
     },
     {
-      "rank": 1622,
+      "rank": 1623,
       "id": "3520d3cb5fce1e98",
       "name": "はなびら",
       "secondary": "奥華子",
@@ -1324,7 +1384,7 @@
       "detailPath": "entities/songs/3520d3cb5fce1e98.json"
     },
     {
-      "rank": 1623,
+      "rank": 1624,
       "id": "c298fea1d1444b1e",
       "name": "ファンサ",
       "secondary": "mona（CV.夏川椎菜）",
@@ -1384,7 +1444,7 @@
       "detailPath": "entities/songs/c298fea1d1444b1e.json"
     },
     {
-      "rank": 1624,
+      "rank": 1625,
       "id": "f782c3688d746dbb",
       "name": "プラネタリウム",
       "secondary": "",
@@ -1442,7 +1502,7 @@
       "detailPath": "entities/songs/f782c3688d746dbb.json"
     },
     {
-      "rank": 1625,
+      "rank": 1626,
       "id": "f68b41464b6beeab",
       "name": "ブルーアンビエンス",
       "secondary": "Mrs. GREEN APPLE",
@@ -1502,7 +1562,7 @@
       "detailPath": "entities/songs/f68b41464b6beeab.json"
     },
     {
-      "rank": 1626,
+      "rank": 1627,
       "id": "dffc3d31cf72e573",
       "name": "フロントメモリー",
       "secondary": "神聖かまってちゃん",
@@ -1563,7 +1623,7 @@
       "detailPath": "entities/songs/dffc3d31cf72e573.json"
     },
     {
-      "rank": 1627,
+      "rank": 1628,
       "id": "bd5382378ee44da1",
       "name": "ふわふわ♪",
       "secondary": "牧野由依",
@@ -1623,7 +1683,7 @@
       "detailPath": "entities/songs/bd5382378ee44da1.json"
     },
     {
-      "rank": 1628,
+      "rank": 1629,
       "id": "81a836b5458dae04",
       "name": "ぼなぺてぃーと♡S",
       "secondary": "ブレンド・A",
@@ -1684,7 +1744,7 @@
       "detailPath": "entities/songs/81a836b5458dae04.json"
     },
     {
-      "rank": 1629,
+      "rank": 1630,
       "id": "6b1d3451dc5efe2f",
       "name": "もらい泣き",
       "secondary": "一青窈",
@@ -1744,7 +1804,7 @@
       "detailPath": "entities/songs/6b1d3451dc5efe2f.json"
     },
     {
-      "rank": 1630,
+      "rank": 1631,
       "id": "083d5b20c79434ee",
       "name": "ユキトキ",
       "secondary": "やなぎなぎ",
@@ -1804,7 +1864,7 @@
       "detailPath": "entities/songs/083d5b20c79434ee.json"
     },
     {
-      "rank": 1631,
+      "rank": 1632,
       "id": "7a3eedd352dd948f",
       "name": "リバーシブル・キャンペーン",
       "secondary": "DECO*27",
@@ -1864,7 +1924,7 @@
       "detailPath": "entities/songs/7a3eedd352dd948f.json"
     },
     {
-      "rank": 1632,
+      "rank": 1633,
       "id": "e736582740138306",
       "name": "ロストマン",
       "secondary": "BUMP OF CHICKEN",
@@ -1924,7 +1984,7 @@
       "detailPath": "entities/songs/e736582740138306.json"
     },
     {
-      "rank": 1633,
+      "rank": 1634,
       "id": "b0ff173823479770",
       "name": "ロメオ",
       "secondary": "LIP×LIP",
@@ -1984,7 +2044,7 @@
       "detailPath": "entities/songs/b0ff173823479770.json"
     },
     {
-      "rank": 1634,
+      "rank": 1635,
       "id": "4f0470beebb71772",
       "name": "ワールズエンド・ダンスホール",
       "secondary": "wowaka",
@@ -2044,7 +2104,7 @@
       "detailPath": "entities/songs/4f0470beebb71772.json"
     },
     {
-      "rank": 1635,
+      "rank": 1636,
       "id": "91929cde479a7721",
       "name": "ワタリドリ",
       "secondary": "Alexandros",
@@ -2104,7 +2164,7 @@
       "detailPath": "entities/songs/91929cde479a7721.json"
     },
     {
-      "rank": 1636,
+      "rank": 1637,
       "id": "4e5ee359c39b9cf7",
       "name": "ワンルーム・オール・ザット・ジャズ",
       "secondary": "DATEKEN",
@@ -2164,7 +2224,7 @@
       "detailPath": "entities/songs/4e5ee359c39b9cf7.json"
     },
     {
-      "rank": 1637,
+      "rank": 1638,
       "id": "148df2b3f4566ff2",
       "name": "一二三",
       "secondary": "Penthouse",
@@ -2225,7 +2285,7 @@
       "detailPath": "entities/songs/148df2b3f4566ff2.json"
     },
     {
-      "rank": 1638,
+      "rank": 1639,
       "id": "5741bbf3aae86333",
       "name": "可愛くてごめん",
       "secondary": "",
@@ -2282,7 +2342,7 @@
       "detailPath": "entities/songs/5741bbf3aae86333.json"
     },
     {
-      "rank": 1639,
+      "rank": 1640,
       "id": "1980cd790b7bea7e",
       "name": "夏祭り",
       "secondary": "",
@@ -2339,7 +2399,7 @@
       "detailPath": "entities/songs/1980cd790b7bea7e.json"
     },
     {
-      "rank": 1640,
+      "rank": 1641,
       "id": "c209488df4fb9f17",
       "name": "花も騒めく",
       "secondary": "ヨルシカ",
@@ -2399,7 +2459,7 @@
       "detailPath": "entities/songs/c209488df4fb9f17.json"
     },
     {
-      "rank": 1641,
+      "rank": 1642,
       "id": "ac1de9b586079803",
       "name": "回る空うさぎ",
       "secondary": "",
@@ -2457,7 +2517,7 @@
       "detailPath": "entities/songs/ac1de9b586079803.json"
     },
     {
-      "rank": 1642,
+      "rank": 1643,
       "id": "38ccdb0a49ef87fc",
       "name": "回レ!雪月花",
       "secondary": "歌組雪月花",
@@ -2517,7 +2577,7 @@
       "detailPath": "entities/songs/38ccdb0a49ef87fc.json"
     },
     {
-      "rank": 1643,
+      "rank": 1644,
       "id": "002d9c6277a31a6f",
       "name": "灰色と青（＋菅田将暉）",
       "secondary": "米津玄師",
@@ -2577,7 +2637,7 @@
       "detailPath": "entities/songs/002d9c6277a31a6f.json"
     },
     {
-      "rank": 1644,
+      "rank": 1645,
       "id": "10ff52d1471247ab",
       "name": "願い事ひとつだけ",
       "secondary": "小松未歩",
@@ -2637,7 +2697,7 @@
       "detailPath": "entities/songs/10ff52d1471247ab.json"
     },
     {
-      "rank": 1645,
+      "rank": 1646,
       "id": "404bfd5710d90992",
       "name": "帰りたくなったよ",
       "secondary": "いきものがかり",
@@ -2698,7 +2758,7 @@
       "detailPath": "entities/songs/404bfd5710d90992.json"
     },
     {
-      "rank": 1646,
+      "rank": 1647,
       "id": "6749f027c78e9d97",
       "name": "帰ろう",
       "secondary": "藤井風",
@@ -2758,7 +2818,7 @@
       "detailPath": "entities/songs/6749f027c78e9d97.json"
     },
     {
-      "rank": 1647,
+      "rank": 1648,
       "id": "3d9bf6c8fa3729ae",
       "name": "空奏列車",
       "secondary": "Orangestar",
@@ -2819,7 +2879,7 @@
       "detailPath": "entities/songs/3d9bf6c8fa3729ae.json"
     },
     {
-      "rank": 1648,
+      "rank": 1649,
       "id": "3b730a77fbf6346e",
       "name": "君がいるだけで",
       "secondary": "米米CLUB",
@@ -2880,7 +2940,7 @@
       "detailPath": "entities/songs/3b730a77fbf6346e.json"
     },
     {
-      "rank": 1649,
+      "rank": 1650,
       "id": "f10e65c276b00d37",
       "name": "君の為のキミノウタ",
       "secondary": "川崎鷹也",
@@ -2939,65 +2999,6 @@
         }
       ],
       "detailPath": "entities/songs/f10e65c276b00d37.json"
-    },
-    {
-      "rank": 1650,
-      "id": "4c91bc09266f79a5",
-      "name": "黒猫 〜Adult Black Cat 〜",
-      "secondary": "Acid Black Cherry",
-      "channelId": "UCTHLfkyjv9ZA_W3Q9B5mMAQ",
-      "channelHandle": "@rou_hatsuki",
-      "channelUrl": "",
-      "occurrenceCount": 17,
-      "videoCount": 17,
-      "songCount": 1,
-      "keywords": [
-        "month",
-        "mygit今日快照",
-        "today",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "UoV-Mmiv15g",
-          "videoTitle": "【 #歌枠 】 見つけてほしい！ 【 戌月れん/Vsinger 】#vtuber #karaoke",
-          "channelName": "Ren.ch戌月れん",
-          "publishedAt": "2026-10-09T16:27:29.159Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/UoV-Mmiv15g/hqdefault.jpg",
-          "sourcePath": "sources/Uo/UoV-Mmiv15g.json",
-          "time": "0:31:15",
-          "seconds": 1875,
-          "songTitle": "黒猫 ～Adult Black Cat～",
-          "artist": "Acid Black Cherry"
-        },
-        {
-          "videoId": "Q1vA4yFBOKA",
-          "videoTitle": "【歌枠】Acid Black Cherryばっか歌う枠【#朝ノ瑠璃】",
-          "channelName": "朝ノ姉妹ぷろじぇくと",
-          "publishedAt": "2026-10-06T14:31:07.546Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Q1vA4yFBOKA/hqdefault.jpg",
-          "sourcePath": "sources/Q1/Q1vA4yFBOKA.json",
-          "time": "0:32:40",
-          "seconds": 1960,
-          "songTitle": "黒猫 〜Adult Black Cat〜",
-          "artist": "Acid Black Cherry"
-        },
-        {
-          "videoId": "QiJHGUdRJDc",
-          "videoTitle": "【#Request歌枠リレー #歌枠】音楽で繋ぐ歌枠リレー❢❢元気を届けるぞぉぉ❢❢🦊/ JOYSOUND for STREAMER",
-          "channelName": "月詠命こん",
-          "publishedAt": "2026-10-02T13:49:58.576Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/QiJHGUdRJDc/hqdefault.jpg",
-          "sourcePath": "sources/Qi/QiJHGUdRJDc.json",
-          "time": "0:01:02",
-          "seconds": 62,
-          "songTitle": "黒猫 ～Adult Black Cat～",
-          "artist": "Acid Black Cherry"
-        }
-      ],
-      "detailPath": "entities/songs/4c91bc09266f79a5.json"
     }
   ]
 }

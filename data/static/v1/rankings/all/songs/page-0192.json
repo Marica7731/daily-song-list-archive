@@ -1,16 +1,76 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "all",
   "type": "songs",
   "page": 192,
   "pageSize": 50,
   "pageCount": 1058,
-  "totalCount": 52870,
+  "totalCount": 52875,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 9551,
+      "id": "b74f54c86fed6b86",
+      "name": "恋! ハレイション THE WAR",
+      "secondary": "ワルキューレ",
+      "channelId": "UC23wkiGKkM6RJGTYmcoSpzg",
+      "channelHandle": "@RuraCh.",
+      "channelUrl": "",
+      "occurrenceCount": 3,
+      "videoCount": 3,
+      "songCount": 1,
+      "keywords": [
+        "month",
+        "mygit_today_snapshot",
+        "mygit今日快照",
+        "today",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "JivCQIsoRRo",
+          "videoTitle": "9/3 11:00【 歌枠/ 縦型】アニソン歌い魔ス！【 レヴィ・アタン 】 #shorts",
+          "channelName": "レヴィ・アタン",
+          "publishedAt": "2026-09-04T04:17:33.662Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JivCQIsoRRo/hqdefault.jpg",
+          "sourcePath": "sources/Ji/JivCQIsoRRo.json",
+          "time": "0:26:07",
+          "seconds": 1567,
+          "songTitle": "恋! ハレイション THE WAR",
+          "artist": "ワルキューレ"
+        },
+        {
+          "videoId": "VCZEnf9F2u8",
+          "videoTitle": "【#歌枠】勝利のまったり歌枠❣❣❣",
+          "channelName": "姫宮ちぅ",
+          "publishedAt": "2026-08-08T22:01:14.920Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VCZEnf9F2u8/hqdefault.jpg",
+          "sourcePath": "sources/VC/VCZEnf9F2u8.json",
+          "time": "3:01:37",
+          "seconds": 10897,
+          "songTitle": "恋！ハレイション THE WAR",
+          "artist": "ワルキューレ"
+        },
+        {
+          "videoId": "v5y262cyM8M",
+          "videoTitle": "【#歌枠 / KARAOKE 】新衣装ではじめての歌枠！新衣装に合う曲、選んでみるっ【#朱音るら / #vsinger 】",
+          "channelName": "Rura Ch. 朱音るら",
+          "publishedAt": "2026-08-01T08:55:32.788Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/v5y262cyM8M/hqdefault.jpg",
+          "sourcePath": "sources/v5/v5y262cyM8M.json",
+          "time": "1:54:38",
+          "seconds": 6878,
+          "songTitle": "恋! ハレイション THE WAR",
+          "artist": "ワルキューレ"
+        }
+      ],
+      "detailPath": "entities/songs/b74f54c86fed6b86.json"
+    },
+    {
+      "rank": 9552,
       "id": "c547f824678d2569",
       "name": "恋しさと せつなさと 心強さと",
       "secondary": "",
@@ -67,7 +127,7 @@
       "detailPath": "entities/songs/c547f824678d2569.json"
     },
     {
-      "rank": 9552,
+      "rank": 9553,
       "id": "b334e5f3b11e3afd",
       "name": "恋するみたいなキャラメリゼ",
       "secondary": "",
@@ -124,7 +184,7 @@
       "detailPath": "entities/songs/b334e5f3b11e3afd.json"
     },
     {
-      "rank": 9553,
+      "rank": 9554,
       "id": "943ec0185a64eb99",
       "name": "恋だろ",
       "secondary": "wacciｻﾝ",
@@ -183,7 +243,7 @@
       "detailPath": "entities/songs/943ec0185a64eb99.json"
     },
     {
-      "rank": 9554,
+      "rank": 9555,
       "id": "86733cb5110e3b96",
       "name": "恋に落ちて",
       "secondary": "藤田麻衣子",
@@ -243,7 +303,7 @@
       "detailPath": "entities/songs/86733cb5110e3b96.json"
     },
     {
-      "rank": 9555,
+      "rank": 9556,
       "id": "1ccfa410d71ce92b",
       "name": "恋に落ちて-Fall in love",
       "secondary": "小林明子",
@@ -300,7 +360,7 @@
       "detailPath": "entities/songs/1ccfa410d71ce92b.json"
     },
     {
-      "rank": 9556,
+      "rank": 9557,
       "id": "873437a8c736a1ef",
       "name": "恋のミクル伝説",
       "secondary": "朝比奈みくる(CV:後藤邑子)",
@@ -358,7 +418,7 @@
       "detailPath": "entities/songs/873437a8c736a1ef.json"
     },
     {
-      "rank": 9557,
+      "rank": 9558,
       "id": "fc255de40b005333",
       "name": "恋の奴隷",
       "secondary": "奥村チヨ",
@@ -415,7 +475,7 @@
       "detailPath": "entities/songs/fc255de40b005333.json"
     },
     {
-      "rank": 9558,
+      "rank": 9559,
       "id": "80403f6d2a8d6748",
       "name": "恋の魔法",
       "secondary": "西沢さんP",
@@ -474,7 +534,7 @@
       "detailPath": "entities/songs/80403f6d2a8d6748.json"
     },
     {
-      "rank": 9559,
+      "rank": 9560,
       "id": "3644467935c95f80",
       "name": "恋は戦争",
       "secondary": "supercell feat. 初音ミク",
@@ -533,7 +593,7 @@
       "detailPath": "entities/songs/3644467935c95f80.json"
     },
     {
-      "rank": 9560,
+      "rank": 9561,
       "id": "998d99c37d050fb1",
       "name": "恋は渾沌の隷也",
       "secondary": "後ろから這いより隊",
@@ -590,7 +650,7 @@
       "detailPath": "entities/songs/998d99c37d050fb1.json"
     },
     {
-      "rank": 9561,
+      "rank": 9562,
       "id": "43f17fe3c642c7cd",
       "name": "恋をしたから",
       "secondary": "あいみょん",
@@ -648,7 +708,7 @@
       "detailPath": "entities/songs/43f17fe3c642c7cd.json"
     },
     {
-      "rank": 9562,
+      "rank": 9563,
       "id": "61e8f509fd95ebc2",
       "name": "恋愛フィロソフィア",
       "secondary": "黒うさP feat. 初音ミク",
@@ -705,7 +765,7 @@
       "detailPath": "entities/songs/61e8f509fd95ebc2.json"
     },
     {
-      "rank": 9563,
+      "rank": 9564,
       "id": "b28d9cba37aef278",
       "name": "恋愛裁判",
       "secondary": "未記載",
@@ -763,7 +823,7 @@
       "detailPath": "entities/songs/b28d9cba37aef278.json"
     },
     {
-      "rank": 9564,
+      "rank": 9565,
       "id": "30cf363b6a226efb",
       "name": "恋愛裁判",
       "secondary": "40㍍P",
@@ -821,7 +881,7 @@
       "detailPath": "entities/songs/30cf363b6a226efb.json"
     },
     {
-      "rank": 9565,
+      "rank": 9566,
       "id": "ce3d7b548ac4e069",
       "name": "恋一夜",
       "secondary": "工藤静香",
@@ -881,7 +941,7 @@
       "detailPath": "entities/songs/ce3d7b548ac4e069.json"
     },
     {
-      "rank": 9566,
+      "rank": 9567,
       "id": "0f267288d1a563d1",
       "name": "恋音と雨空",
       "secondary": "",
@@ -938,7 +998,7 @@
       "detailPath": "entities/songs/0f267288d1a563d1.json"
     },
     {
-      "rank": 9567,
+      "rank": 9568,
       "id": "9a0dd39073129def",
       "name": "恋空予報",
       "secondary": "koyori",
@@ -995,7 +1055,7 @@
       "detailPath": "entities/songs/9a0dd39073129def.json"
     },
     {
-      "rank": 9568,
+      "rank": 9569,
       "id": "82386e22fe322bc4",
       "name": "恋空予報",
       "secondary": "koyori(電ポルP) feat.GUMI",
@@ -1054,7 +1114,7 @@
       "detailPath": "entities/songs/82386e22fe322bc4.json"
     },
     {
-      "rank": 9569,
+      "rank": 9570,
       "id": "f5899fb820c6d1d9",
       "name": "恋空予報",
       "secondary": "電ポルP feat.GUMI",
@@ -1111,7 +1171,7 @@
       "detailPath": "entities/songs/f5899fb820c6d1d9.json"
     },
     {
-      "rank": 9570,
+      "rank": 9571,
       "id": "84e6b6498a9c8385",
       "name": "恋人よ",
       "secondary": "五輪真弓",
@@ -1168,7 +1228,7 @@
       "detailPath": "entities/songs/84e6b6498a9c8385.json"
     },
     {
-      "rank": 9571,
+      "rank": 9572,
       "id": "9d995f9a21238b22",
       "name": "恋想花火",
       "secondary": "水樹奈々",
@@ -1228,7 +1288,7 @@
       "detailPath": "entities/songs/9d995f9a21238b22.json"
     },
     {
-      "rank": 9572,
+      "rank": 9573,
       "id": "21192393827efd05",
       "name": "六兆年と一夜物語",
       "secondary": "ピアノ伴奏Ver.",
@@ -1287,7 +1347,7 @@
       "detailPath": "entities/songs/21192393827efd05.json"
     },
     {
-      "rank": 9573,
+      "rank": 9574,
       "id": "e9211621f210b4a8",
       "name": "惑星ループ",
       "secondary": "未記載",
@@ -1345,7 +1405,7 @@
       "detailPath": "entities/songs/e9211621f210b4a8.json"
     },
     {
-      "rank": 9574,
+      "rank": 9575,
       "id": "584cdbe8ff885864",
       "name": "惑星ループ",
       "secondary": "Eve feat.ナユタン星人",
@@ -1402,7 +1462,7 @@
       "detailPath": "entities/songs/584cdbe8ff885864.json"
     },
     {
-      "rank": 9575,
+      "rank": 9576,
       "id": "c39b2c978a591b85",
       "name": "惑星ループ",
       "secondary": "ナユタン星人 feat . Eve",
@@ -1459,7 +1519,7 @@
       "detailPath": "entities/songs/c39b2c978a591b85.json"
     },
     {
-      "rank": 9576,
+      "rank": 9577,
       "id": "e6da7388d54b7e4f",
       "name": "來自我自己",
       "secondary": "Control T",
@@ -1516,7 +1576,7 @@
       "detailPath": "entities/songs/e6da7388d54b7e4f.json"
     },
     {
-      "rank": 9577,
+      "rank": 9578,
       "id": "836861d23e46b788",
       "name": "傀儡阿修羅",
       "secondary": "柊マグネタイト",
@@ -1573,7 +1633,7 @@
       "detailPath": "entities/songs/836861d23e46b788.json"
     },
     {
-      "rank": 9578,
+      "rank": 9579,
       "id": "f9783c75eb9d3686",
       "name": "卍出演者卍",
       "secondary": "敬称略",
@@ -1627,7 +1687,7 @@
       "detailPath": "entities/songs/f9783c75eb9d3686.json"
     },
     {
-      "rank": 9579,
+      "rank": 9580,
       "id": "0d793ca7331f9c4f",
       "name": "彗星ハネムーン",
       "secondary": "ナユタン星人 feat. 初音ミク",
@@ -1687,7 +1747,7 @@
       "detailPath": "entities/songs/0d793ca7331f9c4f.json"
     },
     {
-      "rank": 9580,
+      "rank": 9581,
       "id": "9a68d224f001bf7e",
       "name": "彗星ハネムーン",
       "secondary": "",
@@ -1744,7 +1804,7 @@
       "detailPath": "entities/songs/9a68d224f001bf7e.json"
     },
     {
-      "rank": 9581,
+      "rank": 9582,
       "id": "bd04c46676a87eea",
       "name": "慟哭ノ雨",
       "secondary": "GRANRODEO",
@@ -1804,7 +1864,7 @@
       "detailPath": "entities/songs/bd04c46676a87eea.json"
     },
     {
-      "rank": 9582,
+      "rank": 9583,
       "id": "908fe2b0280116d6",
       "name": "曖昧劣情Lover",
       "secondary": "",
@@ -1861,7 +1921,7 @@
       "detailPath": "entities/songs/908fe2b0280116d6.json"
     },
     {
-      "rank": 9583,
+      "rank": 9584,
       "id": "3b2bf4102bdd968d",
       "name": "朧月",
       "secondary": "まふまふ",
@@ -1920,7 +1980,7 @@
       "detailPath": "entities/songs/3b2bf4102bdd968d.json"
     },
     {
-      "rank": 9584,
+      "rank": 9585,
       "id": "4ea027db7c93eb6f",
       "name": "朧月夜～祈り",
       "secondary": "中島美嘉",
@@ -1980,7 +2040,7 @@
       "detailPath": "entities/songs/4ea027db7c93eb6f.json"
     },
     {
-      "rank": 9585,
+      "rank": 9586,
       "id": "8a15b0c23d8a475a",
       "name": "栞",
       "secondary": "",
@@ -2037,7 +2097,7 @@
       "detailPath": "entities/songs/8a15b0c23d8a475a.json"
     },
     {
-      "rank": 9586,
+      "rank": 9587,
       "id": "62e9663be3290cd2",
       "name": "橙ゲノム",
       "secondary": "つなまる",
@@ -2097,7 +2157,7 @@
       "detailPath": "entities/songs/62e9663be3290cd2.json"
     },
     {
-      "rank": 9587,
+      "rank": 9588,
       "id": "dbb2df3dd5c1d070",
       "name": "檄！帝国華撃団",
       "secondary": "横山智佐･帝国歌劇団",
@@ -2157,7 +2217,7 @@
       "detailPath": "entities/songs/dbb2df3dd5c1d070.json"
     },
     {
-      "rank": 9588,
+      "rank": 9589,
       "id": "2577f9b76cc66c1b",
       "name": "檄!帝国華撃団",
       "secondary": "真宮寺さくら",
@@ -2217,7 +2277,7 @@
       "detailPath": "entities/songs/2577f9b76cc66c1b.json"
     },
     {
-      "rank": 9589,
+      "rank": 9590,
       "id": "eb6aecc3a998a31d",
       "name": "澪音の世界",
       "secondary": "Sound Horizon",
@@ -2274,7 +2334,7 @@
       "detailPath": "entities/songs/eb6aecc3a998a31d.json"
     },
     {
-      "rank": 9590,
+      "rank": 9591,
       "id": "5b260b4785f13792",
       "name": "炙愛",
       "secondary": "陳忻玥",
@@ -2331,7 +2391,7 @@
       "detailPath": "entities/songs/5b260b4785f13792.json"
     },
     {
-      "rank": 9591,
+      "rank": 9592,
       "id": "a8ae3b175f562b2b",
       "name": "眩暈",
       "secondary": "シド",
@@ -2391,7 +2451,7 @@
       "detailPath": "entities/songs/a8ae3b175f562b2b.json"
     },
     {
-      "rank": 9592,
+      "rank": 9593,
       "id": "b8c50d4b6fee1a26",
       "name": "穹乃すい",
       "secondary": "",
@@ -2445,7 +2505,7 @@
       "detailPath": "entities/songs/b8c50d4b6fee1a26.json"
     },
     {
-      "rank": 9593,
+      "rank": 9594,
       "id": "d85ae0c57a41e952",
       "name": "籠家てる",
       "secondary": "",
@@ -2502,7 +2562,7 @@
       "detailPath": "entities/songs/d85ae0c57a41e952.json"
     },
     {
-      "rank": 9594,
+      "rank": 9595,
       "id": "5727fb0a1069c020",
       "name": "綺麗",
       "secondary": "吉澤嘉代子",
@@ -2560,7 +2620,7 @@
       "detailPath": "entities/songs/5727fb0a1069c020.json"
     },
     {
-      "rank": 9595,
+      "rank": 9596,
       "id": "323cbc919d4c0069",
       "name": "蜃気楼",
       "secondary": "炭酸水",
@@ -2618,7 +2678,7 @@
       "detailPath": "entities/songs/323cbc919d4c0069.json"
     },
     {
-      "rank": 9596,
+      "rank": 9597,
       "id": "d2fdcf038fb89542",
       "name": "贖罪 piano ver",
       "secondary": "傘村トータ",
@@ -2678,7 +2738,7 @@
       "detailPath": "entities/songs/d2fdcf038fb89542.json"
     },
     {
-      "rank": 9597,
+      "rank": 9598,
       "id": "763ceb0fe71ff55c",
       "name": "跪いて足をお嘗め",
       "secondary": "ALI PROJECT",
@@ -2736,7 +2796,7 @@
       "detailPath": "entities/songs/763ceb0fe71ff55c.json"
     },
     {
-      "rank": 9598,
+      "rank": 9599,
       "id": "b0b567561cefa04c",
       "name": "霽れを待つ",
       "secondary": "Orangestar feat.初音ミク",
@@ -2796,7 +2856,7 @@
       "detailPath": "entities/songs/b0b567561cefa04c.json"
     },
     {
-      "rank": 9599,
+      "rank": 9600,
       "id": "6691c44d7195eb50",
       "name": "黑玻璃",
       "secondary": "洪嘉豪",
@@ -2851,63 +2911,6 @@
         }
       ],
       "detailPath": "entities/songs/6691c44d7195eb50.json"
-    },
-    {
-      "rank": 9600,
-      "id": "49288e64a68af5c0",
-      "name": "𓈒𓏸 堺Tick-Tuck",
-      "secondary": "",
-      "channelId": "UCSc6nXaJsiHlTNAjylMYV_g",
-      "channelHandle": "@Tena_Kashy",
-      "channelUrl": "",
-      "occurrenceCount": 3,
-      "videoCount": 3,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "fCO6_FqnXvg",
-          "videoTitle": "【#縦型歌枠】毎日配信チャレンジ！ライブ前なのでたくさん歌わせて～ #3【#香椎テナ】",
-          "channelName": "香椎テナ / Kashy Tena",
-          "publishedAt": "2026-10-04T13:10:21.180Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/fCO6_FqnXvg/hqdefault.jpg",
-          "sourcePath": "sources/fC/fCO6_FqnXvg.json",
-          "time": "0:13:30",
-          "seconds": 810,
-          "songTitle": "𓈒𓏸 堺Tick-Tuck",
-          "artist": ""
-        },
-        {
-          "videoId": "5rURz1u_XAM",
-          "videoTitle": "【#縦型歌枠】毎日配信チャレンジ！ライブ前なのでたくさん歌わせて～ #2【#香椎テナ】",
-          "channelName": "香椎テナ / Kashy Tena",
-          "publishedAt": "2026-10-03T12:46:36.798Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5rURz1u_XAM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCEPK2URaXVPDHa2veBm-tj0ICFbw",
-          "sourcePath": "sources/5r/5rURz1u_XAM.json",
-          "time": "0:13:30",
-          "seconds": 810,
-          "songTitle": "𓈒𓏸 堺Tick-Tuck",
-          "artist": ""
-        },
-        {
-          "videoId": "kuVwZ-qEIRs",
-          "videoTitle": "【#縦型歌枠】毎日配信チャレンジ！ライブ前なのでたくさん歌わせて～ #1【#香椎テナ】",
-          "channelName": "香椎テナ / Kashy Tena",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/kuVwZ-qEIRs/hqdefault.jpg",
-          "sourcePath": "sources/ku/kuVwZ-qEIRs.json",
-          "time": "0:13:30",
-          "seconds": 810,
-          "songTitle": "𓈒𓏸 堺Tick-Tuck",
-          "artist": ""
-        }
-      ],
-      "detailPath": "entities/songs/49288e64a68af5c0.json"
     }
   ]
 }

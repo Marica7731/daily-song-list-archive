@@ -1,16 +1,73 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "30d",
   "type": "songs",
   "page": 32,
   "pageSize": 50,
   "pageCount": 554,
-  "totalCount": 27687,
+  "totalCount": 27652,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1551,
+      "id": "cdcc88bb94012ee8",
+      "name": "evolution",
+      "secondary": "浜崎あゆみ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 8,
+      "videoCount": 7,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Ih5y757BzNw",
+          "videoTitle": "【 #新人VTuber 】見つけてくれてありがとう！【 #歌枠 / #karaoke 】",
+          "channelName": "杣菜つくも / Somana ch.",
+          "publishedAt": "2026-10-05T15:28:25.696Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Ih5y757BzNw/hqdefault.jpg",
+          "sourcePath": "sources/Ih/Ih5y757BzNw.json",
+          "time": "0:52:54",
+          "seconds": 3174,
+          "songTitle": "evolution",
+          "artist": "浜崎あゆみ"
+        },
+        {
+          "videoId": "S_u0f1Yaq5g",
+          "videoTitle": "【歌枠】沼りにきませんか？平成懐メロがすごくすきです！【#生ののあらいぶ / #KARAOKE】aikoさん、大塚愛さん、サザンオールスターズさん、ミスチルさん、ayuさん",
+          "channelName": "NONOA Ch.華美雲ののあ",
+          "publishedAt": "2026-10-02T11:33:48.595Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/S_u0f1Yaq5g/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB8wBKeLt1LjboBqBXftaj94gAcCw",
+          "sourcePath": "sources/S_/S_u0f1Yaq5g.json",
+          "time": "1:39:18",
+          "seconds": 5958,
+          "songTitle": "evolution",
+          "artist": "浜崎あゆみ"
+        },
+        {
+          "videoId": "Zv1zxozhfqM",
+          "videoTitle": "【 歌枠 】懐かしの歌で盛り上がるよん 30代40代50代来てね 三ツ星ルナちゃん",
+          "channelName": "歌う 三ツ星ルナちゃん",
+          "publishedAt": "2026-10-01T12:14:17.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Zv1zxozhfqM/hqdefault.jpg",
+          "sourcePath": "sources/Zv/Zv1zxozhfqM.json",
+          "time": "2:26:26",
+          "seconds": 8786,
+          "songTitle": "evolution",
+          "artist": "浜崎あゆみ"
+        }
+      ],
+      "detailPath": "entities/songs/cdcc88bb94012ee8.json"
+    },
+    {
+      "rank": 1552,
       "id": "5c0decbf394de957",
       "name": "Re:Re",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -67,7 +124,7 @@
       "detailPath": "entities/songs/5c0decbf394de957.json"
     },
     {
-      "rank": 1552,
+      "rank": 1553,
       "id": "86057481c5c7822a",
       "name": "オレンジ",
       "secondary": "",
@@ -124,7 +181,7 @@
       "detailPath": "entities/songs/86057481c5c7822a.json"
     },
     {
-      "rank": 1553,
+      "rank": 1554,
       "id": "6ee68b0992805382",
       "name": "ターゲット～赤い衝撃～",
       "secondary": "和田光司",
@@ -181,7 +238,7 @@
       "detailPath": "entities/songs/6ee68b0992805382.json"
     },
     {
-      "rank": 1554,
+      "rank": 1555,
       "id": "29599268ab5668c9",
       "name": "ドレミファロンド",
       "secondary": "",
@@ -238,7 +295,7 @@
       "detailPath": "entities/songs/29599268ab5668c9.json"
     },
     {
-      "rank": 1555,
+      "rank": 1556,
       "id": "07a65bc6a0ab8163",
       "name": "睡蓮花",
       "secondary": "湘南乃風",
@@ -295,7 +352,7 @@
       "detailPath": "entities/songs/07a65bc6a0ab8163.json"
     },
     {
-      "rank": 1556,
+      "rank": 1557,
       "id": "dcab2b464be9f432",
       "name": "〜 ハッピー☆マテリアル",
       "secondary": "麻帆良学園中等部2-A",
@@ -352,7 +409,7 @@
       "detailPath": "entities/songs/dcab2b464be9f432.json"
     },
     {
-      "rank": 1557,
+      "rank": 1558,
       "id": "43abc42eb1c6211f",
       "name": "〜 泪のムコウ",
       "secondary": "ステレオポニー",
@@ -409,7 +466,7 @@
       "detailPath": "entities/songs/43abc42eb1c6211f.json"
     },
     {
-      "rank": 1558,
+      "rank": 1559,
       "id": "f28e472deaab67b2",
       "name": "《ひだまりの詩》",
       "secondary": "Le Couple",
@@ -466,7 +523,7 @@
       "detailPath": "entities/songs/f28e472deaab67b2.json"
     },
     {
-      "rank": 1559,
+      "rank": 1560,
       "id": "ed63e875b2442f11",
       "name": "*〜アスタリスク〜",
       "secondary": "ORANGERANGE",
@@ -523,7 +580,7 @@
       "detailPath": "entities/songs/ed63e875b2442f11.json"
     },
     {
-      "rank": 1560,
+      "rank": 1561,
       "id": "93c95dd57ea08e47",
       "name": "～ 糸街つむぎ",
       "secondary": "",
@@ -580,7 +637,7 @@
       "detailPath": "entities/songs/93c95dd57ea08e47.json"
     },
     {
-      "rank": 1561,
+      "rank": 1562,
       "id": "91eaafeefa8421f6",
       "name": "┆ うい麦畑でつかまえて",
       "secondary": "しぐれうい",
@@ -637,7 +694,7 @@
       "detailPath": "entities/songs/91eaafeefa8421f6.json"
     },
     {
-      "rank": 1562,
+      "rank": 1563,
       "id": "b7f03ab136419eb1",
       "name": "┆ 怪盗",
       "secondary": "back number",
@@ -695,7 +752,7 @@
       "detailPath": "entities/songs/b7f03ab136419eb1.json"
     },
     {
-      "rank": 1563,
+      "rank": 1564,
       "id": "0089e476077db701",
       "name": "05410-（ん）",
       "secondary": "RADWIMPS",
@@ -753,7 +810,7 @@
       "detailPath": "entities/songs/0089e476077db701.json"
     },
     {
-      "rank": 1564,
+      "rank": 1565,
       "id": "b4a5b0e27e90eee5",
       "name": "1925",
       "secondary": "とみー",
@@ -810,7 +867,7 @@
       "detailPath": "entities/songs/b4a5b0e27e90eee5.json"
     },
     {
-      "rank": 1565,
+      "rank": 1566,
       "id": "564bfd2f82c425b9",
       "name": "8.32",
       "secondary": "*Luna",
@@ -867,7 +924,7 @@
       "detailPath": "entities/songs/564bfd2f82c425b9.json"
     },
     {
-      "rank": 1566,
+      "rank": 1567,
       "id": "d89d59254268c193",
       "name": "Ash Like Snow",
       "secondary": "the brilliant green",
@@ -922,63 +979,6 @@
         }
       ],
       "detailPath": "entities/songs/d89d59254268c193.json"
-    },
-    {
-      "rank": 1567,
-      "id": "891b09f3095f0382",
-      "name": "Bad Apple!!",
-      "secondary": "nomico",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 7,
-      "videoCount": 7,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "2xZ5dXOoGIY",
-          "videoTitle": "＃歌枠 #singing ✨眠気に打ちかて👼✨ゆるっと歌うぞ🌸#新人vtuber #vtuber ＃雑談 ＃アニソン #ボカロ #vsinger #縦型 #japan #talk #縦型配信",
-          "channelName": "漣 悠葵 / Sazanami Yuki",
-          "publishedAt": "2026-10-04T13:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2xZ5dXOoGIY/hqdefault.jpg",
-          "sourcePath": "sources/2x/2xZ5dXOoGIY.json",
-          "time": "1:12:07",
-          "seconds": 4327,
-          "songTitle": "Bad Apple!!",
-          "artist": "nomico"
-        },
-        {
-          "videoId": "t0gin9wiC8w",
-          "videoTitle": "【 #歌枠 】 おいで！ 【 戌月れん/Vsinger 】#vtuber #karaoke",
-          "channelName": "Ren.ch戌月れん",
-          "publishedAt": "2026-10-03T10:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/t0gin9wiC8w/hqdefault.jpg",
-          "sourcePath": "sources/t0/t0gin9wiC8w.json",
-          "time": "0:35:36",
-          "seconds": 2136,
-          "songTitle": "Bad Apple!!",
-          "artist": "nomico"
-        },
-        {
-          "videoId": "XaedWUeSIsk",
-          "videoTitle": "高評価50目指して！フリーダムに＃歌枠 #singing !✨初見さん歓迎🌸#新人vtuber #vtuber ＃雑談 ＃アニソン #ボカロ #vsinger #japan #talk #縦型配信",
-          "channelName": "漣 悠葵 / Sazanami Yuki",
-          "publishedAt": "2026-09-29T15:43:10.608Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XaedWUeSIsk/hqdefault.jpg",
-          "sourcePath": "sources/Xa/XaedWUeSIsk.json",
-          "time": "3:03:45",
-          "seconds": 11025,
-          "songTitle": "Bad Apple!!",
-          "artist": "nomico"
-        }
-      ],
-      "detailPath": "entities/songs/891b09f3095f0382.json"
     },
     {
       "rank": 1568,

@@ -1,73 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:00:51.033Z",
+  "generatedAt": "2026-10-12T15:08:20.926Z",
   "range": "7d",
   "type": "artists",
   "page": 4,
   "pageSize": 50,
   "pageCount": 35,
-  "totalCount": 1745,
+  "totalCount": 1744,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 151,
-      "id": "7439fbd722afdbfd",
-      "name": "@etrachannel",
-      "secondary": "",
-      "channelId": "UC7wZb5INldbGweowOhBIs8Q",
-      "channelHandle": "@akari0415",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "6LDC7E-sLz0",
-          "videoTitle": "【#あおぎりゆうぎり歌枠リレー】盛り上がっていこう！！",
-          "channelName": "石狩あかり/あおぎり高校",
-          "publishedAt": "2026-10-10T12:30:16.226Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6LDC7E-sLz0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDglT3xACZVMz6yygxJhGgS-5HNWA",
-          "sourcePath": "sources/6L/6LDC7E-sLz0.json",
-          "time": "0:20:00",
-          "seconds": 1200,
-          "songTitle": "エトラ",
-          "artist": "@etrachannel"
-        },
-        {
-          "videoId": "RlnvnOq1wKs",
-          "videoTitle": "【 #あおぎりゆうぎり歌枠リレー 】ごきげんよう、それではお聴きください【 宮霧りりい／ゆうぎり高校 】",
-          "channelName": "宮霧りりい - ゆうぎり高校",
-          "publishedAt": "2026-10-10T12:11:16.226Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/RlnvnOq1wKs/hqdefault.jpg",
-          "sourcePath": "sources/Rl/RlnvnOq1wKs.json",
-          "time": "0:20:00",
-          "seconds": 1200,
-          "songTitle": "エトラ",
-          "artist": "@etrachannel"
-        },
-        {
-          "videoId": "xi4QDoyyhZU",
-          "videoTitle": "久しぶりに歌って盛り上がるぞ～！【 #あおぎりゆうぎり歌枠リレー 】",
-          "channelName": "エトラ / étraチャンネル",
-          "publishedAt": "2026-10-10T11:31:28.221Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/xi4QDoyyhZU/hqdefault.jpg",
-          "sourcePath": "sources/xi/xi4QDoyyhZU.json",
-          "time": "0:20:00",
-          "seconds": 1200,
-          "songTitle": "エトラ",
-          "artist": "@etrachannel"
-        }
-      ],
-      "detailPath": "entities/artists/7439fbd722afdbfd.json"
-    },
-    {
-      "rank": 152,
       "id": "ce5c0ff2f567d6f5",
       "name": "@miyakirilily",
       "secondary": "",
@@ -124,7 +67,7 @@
       "detailPath": "entities/artists/ce5c0ff2f567d6f5.json"
     },
     {
-      "rank": 153,
+      "rank": 152,
       "id": "2a8427b8d4fbbe2e",
       "name": "@moemi_chan",
       "secondary": "",
@@ -181,7 +124,7 @@
       "detailPath": "entities/artists/2a8427b8d4fbbe2e.json"
     },
     {
-      "rank": 154,
+      "rank": 153,
       "id": "618ab8e9fea1b99e",
       "name": "N-buna",
       "secondary": "",
@@ -239,7 +182,7 @@
       "detailPath": "entities/artists/618ab8e9fea1b99e.json"
     },
     {
-      "rank": 155,
+      "rank": 154,
       "id": "c371a64b0307e6d6",
       "name": "Neru",
       "secondary": "",
@@ -297,7 +240,7 @@
       "detailPath": "entities/artists/c371a64b0307e6d6.json"
     },
     {
-      "rank": 156,
+      "rank": 155,
       "id": "9f0234769899e8b7",
       "name": "くじら",
       "secondary": "",
@@ -354,7 +297,7 @@
       "detailPath": "entities/artists/9f0234769899e8b7.json"
     },
     {
-      "rank": 157,
+      "rank": 156,
       "id": "8ba961bf1462f841",
       "name": "ナユタン星人",
       "secondary": "",
@@ -411,7 +354,7 @@
       "detailPath": "entities/artists/8ba961bf1462f841.json"
     },
     {
-      "rank": 158,
+      "rank": 157,
       "id": "e4b36cf999905a68",
       "name": "みきとP feat. 初音ミク",
       "secondary": "",
@@ -468,7 +411,7 @@
       "detailPath": "entities/artists/e4b36cf999905a68.json"
     },
     {
-      "rank": 159,
+      "rank": 158,
       "id": "dee8a1c1d1263603",
       "name": "ゆうゆ",
       "secondary": "",
@@ -525,7 +468,7 @@
       "detailPath": "entities/artists/dee8a1c1d1263603.json"
     },
     {
-      "rank": 160,
+      "rank": 159,
       "id": "39605b109bf57ff4",
       "name": "井上陽水",
       "secondary": "",
@@ -583,7 +526,7 @@
       "detailPath": "entities/artists/39605b109bf57ff4.json"
     },
     {
-      "rank": 161,
+      "rank": 160,
       "id": "12517d466ecb131b",
       "name": "一青窈",
       "secondary": "",
@@ -641,7 +584,7 @@
       "detailPath": "entities/artists/12517d466ecb131b.json"
     },
     {
-      "rank": 162,
+      "rank": 161,
       "id": "0434eabb07b85c55",
       "name": "鬼束ちひろ",
       "secondary": "",
@@ -698,7 +641,7 @@
       "detailPath": "entities/artists/0434eabb07b85c55.json"
     },
     {
-      "rank": 163,
+      "rank": 162,
       "id": "730657a54ddcbb9a",
       "name": "Creepy Nuts",
       "secondary": "",
@@ -755,7 +698,7 @@
       "detailPath": "entities/artists/730657a54ddcbb9a.json"
     },
     {
-      "rank": 164,
+      "rank": 163,
       "id": "e31d78b5e43a3e7c",
       "name": "SMAP",
       "secondary": "",
@@ -812,7 +755,7 @@
       "detailPath": "entities/artists/e31d78b5e43a3e7c.json"
     },
     {
-      "rank": 165,
+      "rank": 164,
       "id": "46d28e3786580337",
       "name": "Uru",
       "secondary": "",
@@ -869,7 +812,7 @@
       "detailPath": "entities/artists/46d28e3786580337.json"
     },
     {
-      "rank": 166,
+      "rank": 165,
       "id": "49d69f4780c7a787",
       "name": "ハムちゃんず",
       "secondary": "",
@@ -926,7 +869,7 @@
       "detailPath": "entities/artists/49d69f4780c7a787.json"
     },
     {
-      "rank": 167,
+      "rank": 166,
       "id": "31802a1847a0a867",
       "name": "石川さゆり",
       "secondary": "",
@@ -983,7 +926,7 @@
       "detailPath": "entities/artists/31802a1847a0a867.json"
     },
     {
-      "rank": 168,
+      "rank": 167,
       "id": "42b377a38be15360",
       "name": "Aqours",
       "secondary": "",
@@ -1040,7 +983,7 @@
       "detailPath": "entities/artists/42b377a38be15360.json"
     },
     {
-      "rank": 169,
+      "rank": 168,
       "id": "7f526daf097cb5b0",
       "name": "SUPER BEAVER",
       "secondary": "",
@@ -1097,7 +1040,7 @@
       "detailPath": "entities/artists/7f526daf097cb5b0.json"
     },
     {
-      "rank": 170,
+      "rank": 169,
       "id": "ebb2edddca746209",
       "name": "きのこ帝国",
       "secondary": "",
@@ -1153,6 +1096,63 @@
         }
       ],
       "detailPath": "entities/artists/ebb2edddca746209.json"
+    },
+    {
+      "rank": 170,
+      "id": "ce3f4612667d44ec",
+      "name": "平井堅",
+      "secondary": "",
+      "channelId": "UCuCpmeDxrwzx1A5gPNGce2w",
+      "channelHandle": "@sota_sotation",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 4,
+      "songCount": 6,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "TbuTnYYHe6s",
+          "videoTitle": "【 #歌枠 】初見大歓迎💡デビュー1ヵ月！CH登録4000人✨初耐久歌枠！【 #新人Vtuber｜ #白叉ねむ 】",
+          "channelName": "白叉ねむ / Shiramata Nemu",
+          "publishedAt": "2026-10-11T20:33:25.233Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/TbuTnYYHe6s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIUGXJrMCjk2bz5ybJ0K-vncuilQ",
+          "sourcePath": "sources/Tb/TbuTnYYHe6s.json",
+          "time": "8:48:25",
+          "seconds": 31705,
+          "songTitle": "瞳をとじて",
+          "artist": "平井堅"
+        },
+        {
+          "videoId": "zsoT-lQqmvk",
+          "videoTitle": "【 #歌枠 / KARAOKE 】4時間以内に同接120人チャレンジ歌枠！！ROM、初見さん大歓迎◎【 #新人vtuber / #Vsinger /#天ノ羽うゆ 】",
+          "channelName": "天ノ羽うゆ / Amanou_uyu ch.",
+          "publishedAt": "2026-10-10T01:21:46.516Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zsoT-lQqmvk/hqdefault.jpg",
+          "sourcePath": "sources/zs/zsoT-lQqmvk.json",
+          "time": "1:56:20",
+          "seconds": 6980,
+          "songTitle": "大きな古時計",
+          "artist": "平井堅"
+        },
+        {
+          "videoId": "5Q7vi_bb8tc",
+          "videoTitle": "【#歌枠￤#KARAOKE 】一曲入魂。【#新人Vtuber #vsinger #夜は紺色】",
+          "channelName": "夜紺 火花 / Yakon Hibana",
+          "publishedAt": "2026-10-07T15:06:49.511Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/5Q7vi_bb8tc/hqdefault.jpg",
+          "sourcePath": "sources/5Q/5Q7vi_bb8tc.json",
+          "time": "3:53:21",
+          "seconds": 14001,
+          "songTitle": "怪物さん feat.あいみょん",
+          "artist": "平井 堅"
+        }
+      ],
+      "detailPath": "entities/artists/ce3f4612667d44ec.json"
     },
     {
       "rank": 171,
