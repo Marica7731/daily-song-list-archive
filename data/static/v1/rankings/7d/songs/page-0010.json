@@ -1,106 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "7d",
   "type": "songs",
   "page": 10,
   "pageSize": 50,
   "pageCount": 73,
-  "totalCount": 3615,
+  "totalCount": 3605,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 451,
-      "id": "0b4dd30bea4e57e6",
-      "name": "LOVE PHANTOM",
-      "secondary": "B'z",
-      "channelId": "UC2f11iZvrPBtA_S1LE2soeA",
-      "channelHandle": "@SidenLime",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "vv_2_-B2lCc",
-          "videoTitle": "【 定期#歌枠 】30秒でもいいから聴いてって😊初見さん、ROM専の方も大歓迎！！！コメント待ってます！ #vsinger",
-          "channelName": "天音",
-          "publishedAt": "2026-10-08T15:40:41.566Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/vv_2_-B2lCc/hqdefault.jpg",
-          "sourcePath": "sources/vv/vv_2_-B2lCc.json",
-          "time": "2:13:49",
-          "seconds": 8029,
-          "songTitle": "LOVE PHANTOM",
-          "artist": "B'z"
-        },
-        {
-          "videoId": "ZvYj1_mwKRg",
-          "videoTitle": "〘 #歌枠 / #singing 〙ライム復活のリハビリ歌枠！#karaoke 〘 紫電ライム /Varium 〙",
-          "channelName": "Lime Ch. 紫電ライム",
-          "publishedAt": "2026-10-07T15:06:49.511Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ZvYj1_mwKRg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXNp0RSSbEjpm-H5NAiEi9jai5_Q",
-          "sourcePath": "sources/Zv/ZvYj1_mwKRg.json",
-          "time": "1:32:11",
-          "seconds": 5531,
-          "songTitle": "LOVE PHANTOM",
-          "artist": "B'z"
-        }
-      ],
-      "detailPath": "entities/songs/0b4dd30bea4e57e6.json"
-    },
-    {
-      "rank": 452,
-      "id": "9b909185459985c3",
-      "name": "Lovers",
-      "secondary": "Sumika",
-      "channelId": "UCXRlIK3Cw_TJIQC5kSJJQMg",
-      "channelHandle": "@InuiToko",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "sACzCi8Iqj4",
-          "videoTitle": "【朝活/歌枠/雑談】憂鬱な月曜日の朝に癒しを。「行ってきます」大歓迎！┊#初見さん大歓迎",
-          "channelName": "ねぴん / Nepin ch.",
-          "publishedAt": "2026-10-12T00:33:25.233Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/sACzCi8Iqj4/hqdefault.jpg",
-          "sourcePath": "sources/sA/sACzCi8Iqj4.json",
-          "time": "1:48:31",
-          "seconds": 6511,
-          "songTitle": "Lovers",
-          "artist": "sumika"
-        },
-        {
-          "videoId": "lnGKYBESlog",
-          "videoTitle": "【歌枠】2nd Mini Album発売記念歌枠！！【戌亥とこ/にじさんじ】",
-          "channelName": "戌亥とこ -Inui Toko-",
-          "publishedAt": "2026-10-07T11:02:51.066Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/lnGKYBESlog/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRhewVPX7LhbZaSzK59o8pkBrvgg",
-          "sourcePath": "sources/ln/lnGKYBESlog.json",
-          "time": "0:41:05",
-          "seconds": 2465,
-          "songTitle": "Lovers",
-          "artist": "Sumika"
-        }
-      ],
-      "detailPath": "entities/songs/9b909185459985c3.json"
-    },
-    {
-      "rank": 453,
       "id": "534b6e5ecbf63f8d",
       "name": "LOVEマシーン",
       "secondary": "モーニング娘。",
@@ -145,7 +55,7 @@
       "detailPath": "entities/songs/534b6e5ecbf63f8d.json"
     },
     {
-      "rank": 454,
+      "rank": 452,
       "id": "adf8588980f734d8",
       "name": "Luna say maybe",
       "secondary": "月村手毬(小鹿なお)",
@@ -190,7 +100,7 @@
       "detailPath": "entities/songs/adf8588980f734d8.json"
     },
     {
-      "rank": 455,
+      "rank": 453,
       "id": "e70b399384d944ff",
       "name": "melt bitter",
       "secondary": "さとうもか",
@@ -236,7 +146,7 @@
       "detailPath": "entities/songs/e70b399384d944ff.json"
     },
     {
-      "rank": 456,
+      "rank": 454,
       "id": "b75788aa47c40b30",
       "name": "Meteor-ミーティア",
       "secondary": "T.M.Revolution",
@@ -281,7 +191,7 @@
       "detailPath": "entities/songs/b75788aa47c40b30.json"
     },
     {
-      "rank": 457,
+      "rank": 455,
       "id": "5abb152637bdb0b3",
       "name": "MIRACLE SHOPPING〜ドン・キホーテのテーマ〜",
       "secondary": "田中マイミ",
@@ -326,7 +236,7 @@
       "detailPath": "entities/songs/5abb152637bdb0b3.json"
     },
     {
-      "rank": 458,
+      "rank": 456,
       "id": "b5dc57f7a8c80de4",
       "name": "Missing",
       "secondary": "ELLEGARDEN",
@@ -371,7 +281,7 @@
       "detailPath": "entities/songs/b5dc57f7a8c80de4.json"
     },
     {
-      "rank": 459,
+      "rank": 457,
       "id": "ae085e187fe1a7de",
       "name": "Mrs.Pumpkinの滑稽な夢",
       "secondary": "ハチ",
@@ -416,7 +326,7 @@
       "detailPath": "entities/songs/ae085e187fe1a7de.json"
     },
     {
-      "rank": 460,
+      "rank": 458,
       "id": "91ba6a6d5a083c24",
       "name": "My Soul,Your Beats!",
       "secondary": "Lia",
@@ -461,7 +371,7 @@
       "detailPath": "entities/songs/91ba6a6d5a083c24.json"
     },
     {
-      "rank": 461,
+      "rank": 459,
       "id": "65f932cd978fee3e",
       "name": "napori",
       "secondary": "Vaundy",
@@ -507,7 +417,7 @@
       "detailPath": "entities/songs/65f932cd978fee3e.json"
     },
     {
-      "rank": 462,
+      "rank": 460,
       "id": "54e1c7f71ca6704f",
       "name": "NIGHT DANCER",
       "secondary": "imase",
@@ -552,7 +462,7 @@
       "detailPath": "entities/songs/54e1c7f71ca6704f.json"
     },
     {
-      "rank": 463,
+      "rank": 461,
       "id": "12481c0e526e3bf5",
       "name": "ninelie",
       "secondary": "Aimer with chelly(EGOIST)",
@@ -597,7 +507,7 @@
       "detailPath": "entities/songs/12481c0e526e3bf5.json"
     },
     {
-      "rank": 464,
+      "rank": 462,
       "id": "acba81eab8e2164f",
       "name": "nowhere",
       "secondary": "FictionJunction YUUKA",
@@ -642,7 +552,7 @@
       "detailPath": "entities/songs/acba81eab8e2164f.json"
     },
     {
-      "rank": 465,
+      "rank": 463,
       "id": "a1317952b8e4b7b0",
       "name": "O2",
       "secondary": "ORANGERANGE",
@@ -687,7 +597,7 @@
       "detailPath": "entities/songs/a1317952b8e4b7b0.json"
     },
     {
-      "rank": 466,
+      "rank": 464,
       "id": "0fa67f9bc39a3f68",
       "name": "only my railgun",
       "secondary": "FripSide",
@@ -732,7 +642,7 @@
       "detailPath": "entities/songs/0fa67f9bc39a3f68.json"
     },
     {
-      "rank": 467,
+      "rank": 465,
       "id": "8d8f03567d6969b6",
       "name": "Overfly",
       "secondary": "春奈るな",
@@ -777,7 +687,7 @@
       "detailPath": "entities/songs/8d8f03567d6969b6.json"
     },
     {
-      "rank": 468,
+      "rank": 466,
       "id": "4d9536063acb81f0",
       "name": "Oz",
       "secondary": "yama",
@@ -823,7 +733,7 @@
       "detailPath": "entities/songs/4d9536063acb81f0.json"
     },
     {
-      "rank": 469,
+      "rank": 467,
       "id": "1e22cd2be08c5ce2",
       "name": "paradisus paradoxum",
       "secondary": "MYTH & ROID",
@@ -868,7 +778,7 @@
       "detailPath": "entities/songs/1e22cd2be08c5ce2.json"
     },
     {
-      "rank": 470,
+      "rank": 468,
       "id": "303d50545eaf01ba",
       "name": "Perfect",
       "secondary": "Ed Sheeran",
@@ -914,7 +824,7 @@
       "detailPath": "entities/songs/303d50545eaf01ba.json"
     },
     {
-      "rank": 471,
+      "rank": 469,
       "id": "9e4e4c48c50cfe4a",
       "name": "Plazma",
       "secondary": "米津玄師",
@@ -959,7 +869,7 @@
       "detailPath": "entities/songs/9e4e4c48c50cfe4a.json"
     },
     {
-      "rank": 472,
+      "rank": 470,
       "id": "4c602a2dd62c00df",
       "name": "Precious",
       "secondary": "伊藤由奈",
@@ -1004,7 +914,7 @@
       "detailPath": "entities/songs/4c602a2dd62c00df.json"
     },
     {
-      "rank": 473,
+      "rank": 471,
       "id": "6ed113335d7cd0c5",
       "name": "PRIDE",
       "secondary": "今井美樹",
@@ -1049,53 +959,7 @@
       "detailPath": "entities/songs/6ed113335d7cd0c5.json"
     },
     {
-      "rank": 474,
-      "id": "843fe2345286b6e4",
-      "name": "rain stops,good-bye",
-      "secondary": "におP feat.初音ミク",
-      "channelId": "UCZwsOhl_T0k2Sgf7S3JReNQ",
-      "channelHandle": "@NekotoKanami",
-      "channelUrl": "",
-      "occurrenceCount": 2,
-      "videoCount": 2,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "v7I-wa587Uo",
-          "videoTitle": "【 弾き語り 】ぽろぽろギターで寝かしつけ.ᐟ 【 歌枠 】 #菜鳥ひなた",
-          "channelName": "菜鳥ひなた / Hinata Natori",
-          "publishedAt": "2026-10-09T16:15:03.391Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/v7I-wa587Uo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5zuCjFBPVNIzL6ig1ipDsfOAyrg",
-          "sourcePath": "sources/v7/v7I-wa587Uo.json",
-          "time": "1:11:24",
-          "seconds": 4284,
-          "songTitle": "rain stops, good-bye",
-          "artist": "におP feat.初音ミク"
-        },
-        {
-          "videoId": "jtX6uIpPIwY",
-          "videoTitle": "【歌枠】ボカロ縛りで歌ってみる！聴きに来てね【音琴かなみ/VTuber 】",
-          "channelName": "音琴かなみ Kanami ch.",
-          "publishedAt": "2026-10-05T14:00:50.452Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/jtX6uIpPIwY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCskG6c_hzia1UV5h3qQ2jkBKwNhg&usqp=CBQ",
-          "sourcePath": "sources/jt/jtX6uIpPIwY.json",
-          "time": "0:21:32",
-          "seconds": 1292,
-          "songTitle": "rain stops,good-bye",
-          "artist": "におP feat.初音ミク"
-        }
-      ],
-      "detailPath": "entities/songs/843fe2345286b6e4.json"
-    },
-    {
-      "rank": 475,
+      "rank": 472,
       "id": "030478e409036244",
       "name": "ray 超かぐや姫！Version",
       "secondary": "かぐや (cv.夏吉ゆうこ)&月見ヤチヨ (cv.早見沙織)",
@@ -1140,7 +1004,7 @@
       "detailPath": "entities/songs/030478e409036244.json"
     },
     {
-      "rank": 476,
+      "rank": 473,
       "id": "00367ab042894639",
       "name": "READY STEADY GO",
       "secondary": "L'Arc-en-Ciel",
@@ -1185,7 +1049,7 @@
       "detailPath": "entities/songs/00367ab042894639.json"
     },
     {
-      "rank": 477,
+      "rank": 474,
       "id": "ba551f62ef4ae478",
       "name": "Realize",
       "secondary": "玉置成実",
@@ -1230,7 +1094,7 @@
       "detailPath": "entities/songs/ba551f62ef4ae478.json"
     },
     {
-      "rank": 478,
+      "rank": 475,
       "id": "467634d4b0c6612b",
       "name": "Redo",
       "secondary": "鈴木このみ",
@@ -1275,7 +1139,7 @@
       "detailPath": "entities/songs/467634d4b0c6612b.json"
     },
     {
-      "rank": 479,
+      "rank": 476,
       "id": "2a7f5c1d448b7a69",
       "name": "RHYTHM EMOTION",
       "secondary": "TWO-MIX",
@@ -1320,7 +1184,7 @@
       "detailPath": "entities/songs/2a7f5c1d448b7a69.json"
     },
     {
-      "rank": 480,
+      "rank": 477,
       "id": "e3e6107227b018fe",
       "name": "SEASONS",
       "secondary": "浜崎あゆみ",
@@ -1365,7 +1229,7 @@
       "detailPath": "entities/songs/e3e6107227b018fe.json"
     },
     {
-      "rank": 481,
+      "rank": 478,
       "id": "ae468b0b398ed130",
       "name": "Shining ray",
       "secondary": "Janne Da Arc",
@@ -1410,7 +1274,7 @@
       "detailPath": "entities/songs/ae468b0b398ed130.json"
     },
     {
-      "rank": 482,
+      "rank": 479,
       "id": "b306753dba3487c2",
       "name": "Silent Bible",
       "secondary": "水樹奈々",
@@ -1455,7 +1319,7 @@
       "detailPath": "entities/songs/b306753dba3487c2.json"
     },
     {
-      "rank": 483,
+      "rank": 480,
       "id": "aa4ca79c6f121fc2",
       "name": "slash",
       "secondary": "yama",
@@ -1500,7 +1364,7 @@
       "detailPath": "entities/songs/aa4ca79c6f121fc2.json"
     },
     {
-      "rank": 484,
+      "rank": 481,
       "id": "caf60ed749179de7",
       "name": "Soup",
       "secondary": "藤原さくら",
@@ -1545,7 +1409,7 @@
       "detailPath": "entities/songs/caf60ed749179de7.json"
     },
     {
-      "rank": 485,
+      "rank": 482,
       "id": "cbaa71948c571f3a",
       "name": "SPIRIT",
       "secondary": "PAMELAH",
@@ -1590,7 +1454,7 @@
       "detailPath": "entities/songs/cbaa71948c571f3a.json"
     },
     {
-      "rank": 486,
+      "rank": 483,
       "id": "d12d8d99d52e2e4f",
       "name": "SUNNY DAY SONG",
       "secondary": "μ's",
@@ -1635,7 +1499,7 @@
       "detailPath": "entities/songs/d12d8d99d52e2e4f.json"
     },
     {
-      "rank": 487,
+      "rank": 484,
       "id": "36dd301f5d9a9ad4",
       "name": "SWEET MEMORIES",
       "secondary": "松田聖子",
@@ -1681,7 +1545,7 @@
       "detailPath": "entities/songs/36dd301f5d9a9ad4.json"
     },
     {
-      "rank": 488,
+      "rank": 485,
       "id": "e9e95a60f2a28b1c",
       "name": "TAIDADA",
       "secondary": "ずっと真夜中でいいのに。",
@@ -1726,7 +1590,7 @@
       "detailPath": "entities/songs/e9e95a60f2a28b1c.json"
     },
     {
-      "rank": 489,
+      "rank": 486,
       "id": "35b606ebacc188bb",
       "name": "The Imperial March",
       "secondary": "John Williams",
@@ -1771,7 +1635,7 @@
       "detailPath": "entities/songs/35b606ebacc188bb.json"
     },
     {
-      "rank": 490,
+      "rank": 487,
       "id": "cba424af271a32ab",
       "name": "Time after time～花舞う街で～",
       "secondary": "倉木麻衣",
@@ -1816,7 +1680,7 @@
       "detailPath": "entities/songs/cba424af271a32ab.json"
     },
     {
-      "rank": 491,
+      "rank": 488,
       "id": "971b581e7ed2cc15",
       "name": "TOMORROW",
       "secondary": "岡本真夜",
@@ -1861,7 +1725,7 @@
       "detailPath": "entities/songs/971b581e7ed2cc15.json"
     },
     {
-      "rank": 492,
+      "rank": 489,
       "id": "9058e5d1a3b7ab53",
       "name": "U&I",
       "secondary": "放課後ティータイム",
@@ -1907,7 +1771,7 @@
       "detailPath": "entities/songs/9058e5d1a3b7ab53.json"
     },
     {
-      "rank": 493,
+      "rank": 490,
       "id": "cf2b866296141d65",
       "name": "Ultra Soul",
       "secondary": "B'z",
@@ -1952,7 +1816,7 @@
       "detailPath": "entities/songs/cf2b866296141d65.json"
     },
     {
-      "rank": 494,
+      "rank": 491,
       "id": "5b864304d3313e1d",
       "name": "veil",
       "secondary": "須田景凪",
@@ -1997,7 +1861,7 @@
       "detailPath": "entities/songs/5b864304d3313e1d.json"
     },
     {
-      "rank": 495,
+      "rank": 492,
       "id": "647b60825a5942bc",
       "name": "Voyage",
       "secondary": "浜崎あゆみ",
@@ -2042,7 +1906,7 @@
       "detailPath": "entities/songs/647b60825a5942bc.json"
     },
     {
-      "rank": 496,
+      "rank": 493,
       "id": "ade6b9bb197e010e",
       "name": "WE GOTTA POWER",
       "secondary": "ドラゴンボールZ",
@@ -2087,7 +1951,7 @@
       "detailPath": "entities/songs/ade6b9bb197e010e.json"
     },
     {
-      "rank": 497,
+      "rank": 494,
       "id": "aa325f639634d279",
       "name": "Wherever you are",
       "secondary": "ONEOKROCK",
@@ -2132,7 +1996,7 @@
       "detailPath": "entities/songs/aa325f639634d279.json"
     },
     {
-      "rank": 498,
+      "rank": 495,
       "id": "a4d043be82e4a770",
       "name": "Who",
       "secondary": "浜崎あゆみ",
@@ -2177,7 +2041,7 @@
       "detailPath": "entities/songs/a4d043be82e4a770.json"
     },
     {
-      "rank": 499,
+      "rank": 496,
       "id": "f8aae3f5ec487110",
       "name": "Wishing",
       "secondary": "レム(水瀬いのり)",
@@ -2222,7 +2086,7 @@
       "detailPath": "entities/songs/f8aae3f5ec487110.json"
     },
     {
-      "rank": 500,
+      "rank": 497,
       "id": "49b978fb956815bb",
       "name": "アイ",
       "secondary": "秦基博",
@@ -2265,6 +2129,141 @@
         }
       ],
       "detailPath": "entities/songs/49b978fb956815bb.json"
+    },
+    {
+      "rank": 498,
+      "id": "f03d8ff56f09d85d",
+      "name": "アイデンティティ",
+      "secondary": "Kanaria",
+      "channelId": "UCEI7joTb4sjoZ2uusDwuxYA",
+      "channelHandle": "@%E3%82%8C%E3%82%82%E3%81%AD%E3%81%A1",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "PigXOJ-kSGA",
+          "videoTitle": "【#歌枠 】一曲聴いていきませんか🎶木曜定期歌枠🍂初見さん、ROM歓迎🌟リクエストOK◎🐿️🎤✨️【#Singing #karaoke 】",
+          "channelName": "冬星おそら / Osora",
+          "publishedAt": "2026-10-08T14:23:52.975Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/PigXOJ-kSGA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5_biNYpjIBQMPdvxpys9DAIa-8w",
+          "sourcePath": "sources/Pi/PigXOJ-kSGA.json",
+          "time": "1:01:17",
+          "seconds": 3677,
+          "songTitle": "アイデンティティ",
+          "artist": "kanaria"
+        },
+        {
+          "videoId": "QudBZe069ik",
+          "videoTitle": "〖 歌枠 〗 うただよ🎧🤎",
+          "channelName": "れもね",
+          "publishedAt": "2026-10-05T16:28:25.696Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/QudBZe069ik/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUABovOX_wMOCMzCidYGGODqBCDgqAE=&rs=AOn4CLDpJeaBxN9mLJEtlCG_fFsFrYG86A&usqp=CBU",
+          "sourcePath": "sources/Qu/QudBZe069ik.json",
+          "time": "0:36:54",
+          "seconds": 2214,
+          "songTitle": "アイデンティティ",
+          "artist": "Kanaria"
+        }
+      ],
+      "detailPath": "entities/songs/f03d8ff56f09d85d.json"
+    },
+    {
+      "rank": 499,
+      "id": "88b8a6f005c59e1f",
+      "name": "アイのシナリオ",
+      "secondary": "CHiCO with HoneyWorks",
+      "channelId": "UCJABeTIKrhExlG6tBTov_ZA",
+      "channelHandle": "@blanc_ulica",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "VMbOY7mANNg",
+          "videoTitle": "【歌枠┊KARAOKE】あなたへ捧ぐ、黄昏のアニソン・J-POP🌇【Vsinger Vtuber┊御神楽すずめ】",
+          "channelName": "御神楽すずめ / Mikagura Suzume",
+          "publishedAt": "2026-10-07T11:26:30.246Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/VMbOY7mANNg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8kjsC1MNP44iHmRxjNf_cH0fvvQ",
+          "sourcePath": "sources/VM/VMbOY7mANNg.json",
+          "time": "1:46:08",
+          "seconds": 6368,
+          "songTitle": "アイのシナリオ",
+          "artist": "CHiCO with HoneyWorks"
+        },
+        {
+          "videoId": "Cyc1EVdRsOc",
+          "videoTitle": "【#歌枠 & 雑談】カフェで少し休憩していきませんか？【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
+          "channelName": "ブランク・ウリカ - Blanc Ulica -",
+          "publishedAt": "2026-10-05T17:18:51.498Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Cyc1EVdRsOc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDoIAe_mbZKqhO2UDvj2KAsFhDNXg",
+          "sourcePath": "sources/Cy/Cyc1EVdRsOc.json",
+          "time": "2:03:16",
+          "seconds": 7396,
+          "songTitle": "アイのシナリオ",
+          "artist": "CHiCO with HoneyWorks"
+        }
+      ],
+      "detailPath": "entities/songs/88b8a6f005c59e1f.json"
+    },
+    {
+      "rank": 500,
+      "id": "183cc893c77edd7d",
+      "name": "アイロニ",
+      "secondary": "すこっぷ feat. 初音ミク",
+      "channelId": "UCJABeTIKrhExlG6tBTov_ZA",
+      "channelHandle": "@blanc_ulica",
+      "channelUrl": "",
+      "occurrenceCount": 2,
+      "videoCount": 2,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "mDYtuiAFapM",
+          "videoTitle": "【朝活 / 歌枠】朝活勢にも、そろそろ私の歌を知ってほしい。｜初見歓迎",
+          "channelName": "星瑠璃メロウ / Hoshiruri Mellow",
+          "publishedAt": "2026-10-07T01:30:41.841Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/mDYtuiAFapM/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2tEhbEXgZSbAU84w2BigKBCIP4w&usqp=CBQ",
+          "sourcePath": "sources/mD/mDYtuiAFapM.json",
+          "time": "0:23:49",
+          "seconds": 1429,
+          "songTitle": "アイロニ",
+          "artist": "すこっぷ feat.初音ミク"
+        },
+        {
+          "videoId": "Cyc1EVdRsOc",
+          "videoTitle": "【#歌枠 & 雑談】カフェで少し休憩していきませんか？【個人Vtuber / ブランク・ウリカ 】 #karaoke #shorts",
+          "channelName": "ブランク・ウリカ - Blanc Ulica -",
+          "publishedAt": "2026-10-05T17:18:51.498Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Cyc1EVdRsOc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDoIAe_mbZKqhO2UDvj2KAsFhDNXg",
+          "sourcePath": "sources/Cy/Cyc1EVdRsOc.json",
+          "time": "2:52:43",
+          "seconds": 10363,
+          "songTitle": "アイロニ",
+          "artist": "すこっぷ feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/183cc893c77edd7d.json"
     }
   ]
 }

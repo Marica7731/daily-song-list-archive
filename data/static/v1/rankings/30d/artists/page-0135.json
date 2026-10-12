@@ -1,109 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "30d",
   "type": "artists",
   "page": 135,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10871,
+  "totalCount": 10857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 6701,
-      "id": "3f4a6160f7e8e95d",
-      "name": "イカロス(早見沙織)",
-      "secondary": "",
-      "channelId": "UC7AnwQOyB8x8p4FHRn02i_Q",
-      "channelHandle": "@Ryumi-Satone",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "XT0zI0LT7fQ",
-          "videoTitle": "#歌枠 🍀気ままにカラオケ🍀 #里音流美 #アニソン #ボカロ #Vtuber",
-          "channelName": "里音 流美 games",
-          "publishedAt": "2026-09-30T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/XT0zI0LT7fQ/hqdefault.jpg",
-          "sourcePath": "sources/XT/XT0zI0LT7fQ.json",
-          "time": "2:48:27",
-          "seconds": 10107,
-          "songTitle": "fallen down",
-          "artist": "イカロス(早見沙織)"
-        }
-      ],
-      "detailPath": "entities/artists/3f4a6160f7e8e95d.json"
-    },
-    {
-      "rank": 6702,
-      "id": "37f1f429db9a1146",
-      "name": "いきなりスタート",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "rIajhE5KWhs",
-          "videoTitle": "【歌枠/朝活】低音にゃんこの朝からお歌練習！‪🔆‬おはよ〜と一緒にゆっくりしていってね☕️♩【#Vtuber / karaoke / 猫凪すいま 】",
-          "channelName": "猫凪すいま / Suima ch.",
-          "publishedAt": "2026-10-01T03:14:17.681Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rIajhE5KWhs/hqdefault.jpg",
-          "sourcePath": "sources/rI/rIajhE5KWhs.json",
-          "time": "1:31:15",
-          "seconds": 5475,
-          "songTitle": "純情スカート",
-          "artist": "いきなりスタート"
-        }
-      ],
-      "detailPath": "entities/artists/37f1f429db9a1146.json"
-    },
-    {
-      "rank": 6703,
-      "id": "766e05754b22ef5f",
-      "name": "いきものがかり (2008)（NARUTO ナルト 疾風伝 OP）",
-      "secondary": "",
-      "channelId": "UC0Qp3yYXP6yahSG28jEOKng",
-      "channelHandle": "@Momoruri_Seiran",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "Tv30LcTDL2o",
-          "videoTitle": "〘 #歌枠 〙初見さん大歓迎🐦同接100名様＆3Dライブチケット3枚目標💙 karaoke / singing stream〘 百瑠璃せいらん / #Vtuber 〙",
-          "channelName": "百瑠璃せいらん / MomoruriSeiran CH.",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/Tv30LcTDL2o/hqdefault.jpg",
-          "sourcePath": "sources/Tv/Tv30LcTDL2o.json",
-          "time": "1:21:05",
-          "seconds": 4865,
-          "songTitle": "ブルーバード",
-          "artist": "いきものがかり (2008)（NARUTO ナルト 疾風伝 OP）"
-        }
-      ],
-      "detailPath": "entities/artists/766e05754b22ef5f.json"
-    },
-    {
-      "rank": 6704,
       "id": "d15411847c3724f2",
       "name": "いきものがかり (2008)（セレブと貧乏太郎 主題歌）",
       "secondary": "",
@@ -133,7 +40,7 @@
       "detailPath": "entities/artists/d15411847c3724f2.json"
     },
     {
-      "rank": 6705,
+      "rank": 6702,
       "id": "0fab543d24649433",
       "name": "いきものがかり (アカペラでちょっとだけ)",
       "secondary": "",
@@ -166,7 +73,7 @@
       "detailPath": "entities/artists/0fab543d24649433.json"
     },
     {
-      "rank": 6706,
+      "rank": 6703,
       "id": "2bac507c501e4c90",
       "name": "いきものがかり (セレブと貧乏太郎 他)",
       "secondary": "",
@@ -199,7 +106,7 @@
       "detailPath": "entities/artists/2bac507c501e4c90.json"
     },
     {
-      "rank": 6707,
+      "rank": 6704,
       "id": "024f10e3f0729556",
       "name": "いきものがかり (歌唱)",
       "secondary": "",
@@ -232,7 +139,7 @@
       "detailPath": "entities/artists/024f10e3f0729556.json"
     },
     {
-      "rank": 6708,
+      "rank": 6705,
       "id": "453e2039971e881d",
       "name": "いきものがかり [かな]",
       "secondary": "",
@@ -265,7 +172,7 @@
       "detailPath": "entities/artists/453e2039971e881d.json"
     },
     {
-      "rank": 6709,
+      "rank": 6706,
       "id": "085299a097155202",
       "name": "いきものがかり ／ NARUTO－ナルト－疾風伝(2009年)",
       "secondary": "",
@@ -295,7 +202,7 @@
       "detailPath": "entities/artists/085299a097155202.json"
     },
     {
-      "rank": 6710,
+      "rank": 6707,
       "id": "d9e16c0730a84e65",
       "name": "いきものがかり ／ NHK連続テレビ小説 ゲゲゲの女房(2010年)",
       "secondary": "",
@@ -325,7 +232,7 @@
       "detailPath": "entities/artists/d9e16c0730a84e65.json"
     },
     {
-      "rank": 6711,
+      "rank": 6708,
       "id": "863f738a7472f22e",
       "name": "いきものがかり ／ 名探偵コナン 11人目のストライカー(2012年)",
       "secondary": "",
@@ -355,7 +262,7 @@
       "detailPath": "entities/artists/863f738a7472f22e.json"
     },
     {
-      "rank": 6712,
+      "rank": 6709,
       "id": "e6101295c1c2d083",
       "name": "いきものがかり 七つの大罪より",
       "secondary": "",
@@ -385,7 +292,7 @@
       "detailPath": "entities/artists/e6101295c1c2d083.json"
     },
     {
-      "rank": 6713,
+      "rank": 6710,
       "id": "dbc422b6713f3c2d",
       "name": "いきものがかり(2009) / CM ポッキー",
       "secondary": "",
@@ -418,7 +325,7 @@
       "detailPath": "entities/artists/dbc422b6713f3c2d.json"
     },
     {
-      "rank": 6714,
+      "rank": 6711,
       "id": "d5a3d7ac51147dc5",
       "name": "いきものがかり(サビ以外気弱Ver.)",
       "secondary": "",
@@ -451,7 +358,7 @@
       "detailPath": "entities/artists/d5a3d7ac51147dc5.json"
     },
     {
-      "rank": 6715,
+      "rank": 6712,
       "id": "e04ff80490c74fc5",
       "name": "いきものがかり（合唱ver）",
       "secondary": "",
@@ -481,7 +388,7 @@
       "detailPath": "entities/artists/e04ff80490c74fc5.json"
     },
     {
-      "rank": 6716,
+      "rank": 6713,
       "id": "bd53c1fe771f96ee",
       "name": "いきものがかり(練習中)",
       "secondary": "",
@@ -514,7 +421,7 @@
       "detailPath": "entities/artists/bd53c1fe771f96ee.json"
     },
     {
-      "rank": 6717,
+      "rank": 6714,
       "id": "9a3b1dbf3a6330a2",
       "name": "イクシード",
       "secondary": "",
@@ -547,7 +454,7 @@
       "detailPath": "entities/artists/9a3b1dbf3a6330a2.json"
     },
     {
-      "rank": 6718,
+      "rank": 6715,
       "id": "b790b85ef54ebbec",
       "name": "イクシオンサーガDT Ixion Saga DT",
       "secondary": "",
@@ -580,7 +487,7 @@
       "detailPath": "entities/artists/b790b85ef54ebbec.json"
     },
     {
-      "rank": 6719,
+      "rank": 6716,
       "id": "802409136f6d8110",
       "name": "いくぜさんギター",
       "secondary": "",
@@ -613,7 +520,7 @@
       "detailPath": "entities/artists/802409136f6d8110.json"
     },
     {
-      "rank": 6720,
+      "rank": 6717,
       "id": "393ed3e91499dc87",
       "name": "イクマあきら",
       "secondary": "",
@@ -643,7 +550,7 @@
       "detailPath": "entities/artists/393ed3e91499dc87.json"
     },
     {
-      "rank": 6721,
+      "rank": 6718,
       "id": "ae4bfda0a583058a",
       "name": "いけたけし",
       "secondary": "",
@@ -673,7 +580,7 @@
       "detailPath": "entities/artists/ae4bfda0a583058a.json"
     },
     {
-      "rank": 6722,
+      "rank": 6719,
       "id": "fff2c84417d0bc55",
       "name": "イザーク・ジュール（関智一）",
       "secondary": "",
@@ -706,7 +613,7 @@
       "detailPath": "entities/artists/fff2c84417d0bc55.json"
     },
     {
-      "rank": 6723,
+      "rank": 6720,
       "id": "2c5dc4dab9ddb23b",
       "name": "いさじ with 阿部ダンサーズ",
       "secondary": "",
@@ -739,7 +646,7 @@
       "detailPath": "entities/artists/2c5dc4dab9ddb23b.json"
     },
     {
-      "rank": 6724,
+      "rank": 6721,
       "id": "c78be0923ff777fe",
       "name": "イサミ・アオ (CV:鈴木崚汰)、ルイス・スミス (CV:阿座上洋平)",
       "secondary": "",
@@ -769,7 +676,7 @@
       "detailPath": "entities/artists/c78be0923ff777fe.json"
     },
     {
-      "rank": 6725,
+      "rank": 6722,
       "id": "fbca005697c12da5",
       "name": "イジアエンジニア",
       "secondary": "",
@@ -802,7 +709,7 @@
       "detailPath": "entities/artists/fbca005697c12da5.json"
     },
     {
-      "rank": 6726,
+      "rank": 6723,
       "id": "d8908f142f164bd8",
       "name": "いずれか菖蒲か杜若",
       "secondary": "",
@@ -835,7 +742,7 @@
       "detailPath": "entities/artists/d8908f142f164bd8.json"
     },
     {
-      "rank": 6727,
+      "rank": 6724,
       "id": "1a105be092ddeb53",
       "name": "いただきバベル",
       "secondary": "",
@@ -865,7 +772,7 @@
       "detailPath": "entities/artists/1a105be092ddeb53.json"
     },
     {
-      "rank": 6728,
+      "rank": 6725,
       "id": "3dfbe9139b089421",
       "name": "いってらっしゃーい !",
       "secondary": "",
@@ -895,7 +802,7 @@
       "detailPath": "entities/artists/3dfbe9139b089421.json"
     },
     {
-      "rank": 6729,
+      "rank": 6726,
       "id": "61c880e90da4d5b8",
       "name": "いつもここから",
       "secondary": "",
@@ -925,7 +832,7 @@
       "detailPath": "entities/artists/61c880e90da4d5b8.json"
     },
     {
-      "rank": 6730,
+      "rank": 6727,
       "id": "b2b27365ac19bed4",
       "name": "いなほ",
       "secondary": "",
@@ -958,7 +865,7 @@
       "detailPath": "entities/artists/b2b27365ac19bed4.json"
     },
     {
-      "rank": 6731,
+      "rank": 6728,
       "id": "e531d203ead259ba",
       "name": "いなまつり",
       "secondary": "",
@@ -991,7 +898,7 @@
       "detailPath": "entities/artists/e531d203ead259ba.json"
     },
     {
-      "rank": 6732,
+      "rank": 6729,
       "id": "cb23d379a71f03cb",
       "name": "イナメトオル",
       "secondary": "",
@@ -1021,7 +928,7 @@
       "detailPath": "entities/artists/cb23d379a71f03cb.json"
     },
     {
-      "rank": 6733,
+      "rank": 6730,
       "id": "ec267408e9814cd1",
       "name": "いのバト",
       "secondary": "",
@@ -1054,7 +961,7 @@
       "detailPath": "entities/artists/ec267408e9814cd1.json"
     },
     {
-      "rank": 6734,
+      "rank": 6731,
       "id": "67c16f489dd9cdaa",
       "name": "いばらの王 King of Thorn",
       "secondary": "",
@@ -1087,7 +994,7 @@
       "detailPath": "entities/artists/67c16f489dd9cdaa.json"
     },
     {
-      "rank": 6735,
+      "rank": 6732,
       "id": "7a30df761b7ceda3",
       "name": "いよわ feat. 星界",
       "secondary": "",
@@ -1120,7 +1027,7 @@
       "detailPath": "entities/artists/7a30df761b7ceda3.json"
     },
     {
-      "rank": 6736,
+      "rank": 6733,
       "id": "8655b706c5b29d14",
       "name": "いよわ feat.可不(KAFU) ※JOYSOUND",
       "secondary": "",
@@ -1153,7 +1060,7 @@
       "detailPath": "entities/artists/8655b706c5b29d14.json"
     },
     {
-      "rank": 6737,
+      "rank": 6734,
       "id": "0b5c4bde84315db6",
       "name": "いよわ feat.初音ミク（living millenniu",
       "secondary": "",
@@ -1183,7 +1090,7 @@
       "detailPath": "entities/artists/0b5c4bde84315db6.json"
     },
     {
-      "rank": 6738,
+      "rank": 6735,
       "id": "79d5a448525d4429",
       "name": "いよわ feat.初音ミク（The Peachy Key / Iy",
       "secondary": "",
@@ -1213,7 +1120,7 @@
       "detailPath": "entities/artists/79d5a448525d4429.json"
     },
     {
-      "rank": 6739,
+      "rank": 6736,
       "id": "72846dc2fe28b61b",
       "name": "イラスト】@Rookg_1800",
       "secondary": "",
@@ -1243,7 +1150,7 @@
       "detailPath": "entities/artists/72846dc2fe28b61b.json"
     },
     {
-      "rank": 6740,
+      "rank": 6737,
       "id": "368d350e33b3e83f",
       "name": "イルミネーションスターズ",
       "secondary": "",
@@ -1276,7 +1183,7 @@
       "detailPath": "entities/artists/368d350e33b3e83f.json"
     },
     {
-      "rank": 6741,
+      "rank": 6738,
       "id": "969f8cdfcdc9a047",
       "name": "いろみね",
       "secondary": "",
@@ -1306,7 +1213,7 @@
       "detailPath": "entities/artists/969f8cdfcdc9a047.json"
     },
     {
-      "rank": 6742,
+      "rank": 6739,
       "id": "662d5317ce7fa7cf",
       "name": "イントロ",
       "secondary": "",
@@ -1336,7 +1243,7 @@
       "detailPath": "entities/artists/662d5317ce7fa7cf.json"
     },
     {
-      "rank": 6743,
+      "rank": 6740,
       "id": "90a7b8be946ef37b",
       "name": "う～み",
       "secondary": "",
@@ -1366,7 +1273,7 @@
       "detailPath": "entities/artists/90a7b8be946ef37b.json"
     },
     {
-      "rank": 6744,
+      "rank": 6741,
       "id": "2ce6af0bc4441517",
       "name": "ヴァージンVS",
       "secondary": "",
@@ -1396,7 +1303,7 @@
       "detailPath": "entities/artists/2ce6af0bc4441517.json"
     },
     {
-      "rank": 6745,
+      "rank": 6742,
       "id": "809bf7b49cc29b01",
       "name": "ヴァルキリードライヴ",
       "secondary": "",
@@ -1426,7 +1333,7 @@
       "detailPath": "entities/artists/809bf7b49cc29b01.json"
     },
     {
-      "rank": 6746,
+      "rank": 6743,
       "id": "4aa5b9cf6611bef2",
       "name": "ヴァンパイア feat. 初音ミク",
       "secondary": "",
@@ -1456,7 +1363,7 @@
       "detailPath": "entities/artists/4aa5b9cf6611bef2.json"
     },
     {
-      "rank": 6747,
+      "rank": 6744,
       "id": "797e29733bb07a59",
       "name": "ウィッチクラフトワークス",
       "secondary": "",
@@ -1489,7 +1396,7 @@
       "detailPath": "entities/artists/797e29733bb07a59.json"
     },
     {
-      "rank": 6748,
+      "rank": 6745,
       "id": "4fa33d726975c2eb",
       "name": "ヴィレッジ・シンガーズ",
       "secondary": "",
@@ -1522,7 +1429,7 @@
       "detailPath": "entities/artists/4fa33d726975c2eb.json"
     },
     {
-      "rank": 6749,
+      "rank": 6746,
       "id": "1dc9fd7ed08bf9f7",
       "name": "ウォーターボーイズ",
       "secondary": "",
@@ -1555,7 +1462,7 @@
       "detailPath": "entities/artists/1dc9fd7ed08bf9f7.json"
     },
     {
-      "rank": 6750,
+      "rank": 6747,
       "id": "a693981c111c052e",
       "name": "ｳｷｯとする発表あり",
       "secondary": "",
@@ -1586,6 +1493,99 @@
         }
       ],
       "detailPath": "entities/artists/a693981c111c052e.json"
+    },
+    {
+      "rank": 6748,
+      "id": "21c2e791a4c1dc08",
+      "name": "うさぎ",
+      "secondary": "",
+      "channelId": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "channelHandle": "@NatsuiroMatsuri",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "vbSzq1qClNE",
+          "videoTitle": "【歌枠】リレーに紛れる１期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
+          "channelName": "Matsuri Channel 夏色まつり",
+          "publishedAt": "2026-10-04T14:08:07.155Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vbSzq1qClNE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxTg7E94rHPVYYKlh0GttaNdBoLg",
+          "sourcePath": "sources/vb/vbSzq1qClNE.json",
+          "time": "0:52:14",
+          "seconds": 3134,
+          "songTitle": "(08)うさぎラップ",
+          "artist": "うさぎ"
+        }
+      ],
+      "detailPath": "entities/artists/21c2e791a4c1dc08.json"
+    },
+    {
+      "rank": 6749,
+      "id": "ca7200823142f77b",
+      "name": "うさぎ (小澤亜李)、モモンガ (井口裕香)、人魚 (大木咲絵子、七瀬彩夏)",
+      "secondary": "",
+      "channelId": "UC6SbFlqvhVWRbfKpHgTNLpQ",
+      "channelHandle": "@malstrom",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "OyQAbz-kLkA",
+          "videoTitle": "【歌枠】久しぶりに晴れた日の深夜歌枠【#VTuber メルシュ-Malstrøm-】",
+          "channelName": "メルシュ -Malstrøm- / mals ch.",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OyQAbz-kLkA/hqdefault.jpg",
+          "sourcePath": "sources/Oy/OyQAbz-kLkA.json",
+          "time": "0:27:25",
+          "seconds": 1645,
+          "songTitle": "うさぎラップ（リズム感のある者たちver.）",
+          "artist": "うさぎ (小澤亜李)、モモンガ (井口裕香)、人魚 (大木咲絵子、七瀬彩夏)"
+        }
+      ],
+      "detailPath": "entities/artists/ca7200823142f77b.json"
+    },
+    {
+      "rank": 6750,
+      "id": "16e3727d9b01c572",
+      "name": "うさぎ (小澤亜李)、人魚 (大木咲絵子、七瀬彩夏)",
+      "secondary": "",
+      "channelId": "UC6SbFlqvhVWRbfKpHgTNLpQ",
+      "channelHandle": "@malstrom",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "OyQAbz-kLkA",
+          "videoTitle": "【歌枠】久しぶりに晴れた日の深夜歌枠【#VTuber メルシュ-Malstrøm-】",
+          "channelName": "メルシュ -Malstrøm- / mals ch.",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/OyQAbz-kLkA/hqdefault.jpg",
+          "sourcePath": "sources/Oy/OyQAbz-kLkA.json",
+          "time": "0:26:16",
+          "seconds": 1576,
+          "songTitle": "うさぎラップ（ソロver.）",
+          "artist": "うさぎ (小澤亜李)、人魚 (大木咲絵子、七瀬彩夏)"
+        }
+      ],
+      "detailPath": "entities/artists/16e3727d9b01c572.json"
     }
   ]
 }

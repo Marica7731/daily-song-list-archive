@@ -1,82 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "7d",
   "type": "vtubers",
   "page": 5,
   "pageSize": 50,
   "pageCount": 7,
-  "totalCount": 325,
+  "totalCount": 323,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 201,
-      "id": "00afefeffbd527ba",
-      "name": "織姫はるか / Orihime Haruka",
-      "secondary": "",
-      "channelId": "UCiWyzF3HlJMufJnRqmYGWtQ",
-      "channelHandle": "@haruka_orihime",
-      "channelUrl": "",
-      "occurrenceCount": 11,
-      "videoCount": 1,
-      "songCount": 11,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "6g6UNKRDP_k",
-          "videoTitle": "【歌枠】初見さん歓迎だよ！おやすみの人寝てってね！【#織姫はるか/#vtuber 】",
-          "channelName": "織姫はるか / Orihime Haruka",
-          "publishedAt": "2026-10-09T19:24:47.734Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/6g6UNKRDP_k/hqdefault.jpg",
-          "sourcePath": "sources/6g/6g6UNKRDP_k.json",
-          "time": "0:08:39",
-          "seconds": 519,
-          "songTitle": "I remember you",
-          "artist": "00:08:39"
-        }
-      ],
-      "detailPath": "entities/vtubers/00afefeffbd527ba.json"
-    },
-    {
-      "rank": 202,
-      "id": "45b50d59a3a1017a",
-      "name": "夢眠ゆらめ -Yumemi Yurame-",
-      "secondary": "",
-      "channelId": "UC7H4hx8nEq2SYhKhzBLv3nA",
-      "channelHandle": "@y_yurame",
-      "channelUrl": "",
-      "occurrenceCount": 11,
-      "videoCount": 1,
-      "songCount": 11,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "-gMBG-ZyJnk",
-          "videoTitle": "【 #歌枠 】同接50人達成で巡る！47都道府県ツアー💛中国地方編Day４【 #ゆらいぶ 】",
-          "channelName": "夢眠ゆらめ -Yumemi Yurame-",
-          "publishedAt": "2026-10-12T08:43:17.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/-gMBG-ZyJnk/hqdefault.jpg",
-          "sourcePath": "sources/-g/-gMBG-ZyJnk.json",
-          "time": "0:13:28",
-          "seconds": 808,
-          "songTitle": "soldier game",
-          "artist": "西木野真姫(Pile)、園田海未(三森すずこ)、絢瀬絵里(南條愛乃)"
-        }
-      ],
-      "detailPath": "entities/vtubers/45b50d59a3a1017a.json"
-    },
-    {
-      "rank": 203,
       "id": "f8527c1d4490c49d",
       "name": "無々ひさぎ - Hisagi Nana -",
       "secondary": "",
@@ -109,7 +43,7 @@
       "detailPath": "entities/vtubers/f8527c1d4490c49d.json"
     },
     {
-      "rank": 204,
+      "rank": 202,
       "id": "ad79edecc3d6dfaf",
       "name": "AZKi Channel",
       "secondary": "",
@@ -142,7 +76,7 @@
       "detailPath": "entities/vtubers/ad79edecc3d6dfaf.json"
     },
     {
-      "rank": 205,
+      "rank": 203,
       "id": "b3e83d61df92ec93",
       "name": "Rara Channel / 小鳥遊らら",
       "secondary": "",
@@ -175,7 +109,7 @@
       "detailPath": "entities/vtubers/b3e83d61df92ec93.json"
     },
     {
-      "rank": 206,
+      "rank": 204,
       "id": "387c1bd58d8a9c0c",
       "name": "ナナハチキュウ / Nanahachi Ch.",
       "secondary": "",
@@ -208,7 +142,7 @@
       "detailPath": "entities/vtubers/387c1bd58d8a9c0c.json"
     },
     {
-      "rank": 207,
+      "rank": 205,
       "id": "cb0a0ce7553dc756",
       "name": "ふぇりしあ / Felicia Ch",
       "secondary": "",
@@ -241,7 +175,7 @@
       "detailPath": "entities/vtubers/cb0a0ce7553dc756.json"
     },
     {
-      "rank": 208,
+      "rank": 206,
       "id": "9930ea7cf3d9a761",
       "name": "宇宙真央 / Uchu Mao",
       "secondary": "",
@@ -274,7 +208,7 @@
       "detailPath": "entities/vtubers/9930ea7cf3d9a761.json"
     },
     {
-      "rank": 209,
+      "rank": 207,
       "id": "7cf00574a5332bfd",
       "name": "海凪みみ minagimimi",
       "secondary": "",
@@ -307,7 +241,7 @@
       "detailPath": "entities/vtubers/7cf00574a5332bfd.json"
     },
     {
-      "rank": 210,
+      "rank": 208,
       "id": "f6c9abf58f9d6102",
       "name": "甘従ひよ / Amatsugu Hiyo",
       "secondary": "",
@@ -340,7 +274,7 @@
       "detailPath": "entities/vtubers/f6c9abf58f9d6102.json"
     },
     {
-      "rank": 211,
+      "rank": 209,
       "id": "0eb5e196f41cdc82",
       "name": "月城アオイ - Aoi Ch.【Vsinger】",
       "secondary": "",
@@ -373,7 +307,7 @@
       "detailPath": "entities/vtubers/0eb5e196f41cdc82.json"
     },
     {
-      "rank": 212,
+      "rank": 210,
       "id": "ab02ec97eda3ca01",
       "name": "宵月れゆり / Yoiragi Reyuri",
       "secondary": "",
@@ -406,7 +340,7 @@
       "detailPath": "entities/vtubers/ab02ec97eda3ca01.json"
     },
     {
-      "rank": 213,
+      "rank": 211,
       "id": "4d4b6641e9503a5a",
       "name": "早乙女あずきAzuki Saotome",
       "secondary": "",
@@ -439,7 +373,7 @@
       "detailPath": "entities/vtubers/4d4b6641e9503a5a.json"
     },
     {
-      "rank": 214,
+      "rank": 212,
       "id": "7f6ec978dc9ed278",
       "name": "猫撫こぜに / Nekonade Kozeni",
       "secondary": "",
@@ -472,7 +406,7 @@
       "detailPath": "entities/vtubers/7f6ec978dc9ed278.json"
     },
     {
-      "rank": 215,
+      "rank": 213,
       "id": "89970366fb514dd1",
       "name": "年輪菓子",
       "secondary": "",
@@ -505,7 +439,7 @@
       "detailPath": "entities/vtubers/89970366fb514dd1.json"
     },
     {
-      "rank": 216,
+      "rank": 214,
       "id": "0a8f4ae0f16f9198",
       "name": "百瑠璃せいらん / MomoruriSeiran CH.",
       "secondary": "",
@@ -538,7 +472,7 @@
       "detailPath": "entities/vtubers/0a8f4ae0f16f9198.json"
     },
     {
-      "rank": 217,
+      "rank": 215,
       "id": "3c0a7b648237a3a9",
       "name": "碧乃らる",
       "secondary": "",
@@ -571,7 +505,40 @@
       "detailPath": "entities/vtubers/3c0a7b648237a3a9.json"
     },
     {
-      "rank": 218,
+      "rank": 216,
+      "id": "f826040e0bf2778f",
+      "name": "魔ノむえる -Mano Mueru-",
+      "secondary": "",
+      "channelId": "UCFqVAFANOHm17UVy8sWkhqw",
+      "channelHandle": "@manomueru",
+      "channelUrl": "",
+      "occurrenceCount": 10,
+      "videoCount": 1,
+      "songCount": 10,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "zsHjZraF_jY",
+          "videoTitle": "〖 #歌枠￤KARAOKE 〗アニソン￤JPOP LIVE前日の短め歌枠✨ギャップボイスで歌います.ᐟ #まのちらいぶ 〖 #vsinger ￤#魔ノむえる 〗",
+          "channelName": "魔ノむえる -Mano Mueru-",
+          "publishedAt": "2026-10-10T11:26:28.221Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/zsHjZraF_jY/hqdefault.jpg",
+          "sourcePath": "sources/zs/zsHjZraF_jY.json",
+          "time": "0:15:02",
+          "seconds": 902,
+          "songTitle": "シルエット",
+          "artist": "KANA-BOON"
+        }
+      ],
+      "detailPath": "entities/vtubers/f826040e0bf2778f.json"
+    },
+    {
+      "rank": 217,
       "id": "c107a6c6690bbe7e",
       "name": "幽音しの Shino Channel - ななしいんく",
       "secondary": "",
@@ -604,7 +571,7 @@
       "detailPath": "entities/vtubers/c107a6c6690bbe7e.json"
     },
     {
-      "rank": 219,
+      "rank": 218,
       "id": "09358087df71ade5",
       "name": "琥珀ひなた",
       "secondary": "",
@@ -637,7 +604,7 @@
       "detailPath": "entities/vtubers/09358087df71ade5.json"
     },
     {
-      "rank": 220,
+      "rank": 219,
       "id": "573642055de16f0e",
       "name": "かなでch. 白鼬かなで(Hakuyuu Kanade)",
       "secondary": "",
@@ -670,7 +637,7 @@
       "detailPath": "entities/vtubers/573642055de16f0e.json"
     },
     {
-      "rank": 221,
+      "rank": 220,
       "id": "ac93d5553aab7d19",
       "name": "錦 煙梨【KonEnri】",
       "secondary": "",
@@ -703,7 +670,7 @@
       "detailPath": "entities/vtubers/ac93d5553aab7d19.json"
     },
     {
-      "rank": 222,
+      "rank": 221,
       "id": "382cdf08992d3650",
       "name": "水瀬 凪/MINASE Nagi",
       "secondary": "",
@@ -736,7 +703,7 @@
       "detailPath": "entities/vtubers/382cdf08992d3650.json"
     },
     {
-      "rank": 223,
+      "rank": 222,
       "id": "84acb602dc734f23",
       "name": "帝釈天ゆみお - Taishakuten Yumio -",
       "secondary": "",
@@ -769,7 +736,7 @@
       "detailPath": "entities/vtubers/84acb602dc734f23.json"
     },
     {
-      "rank": 224,
+      "rank": 223,
       "id": "43c046ef42c98ed3",
       "name": "眠雲ツクリ / NemukumoTsukuri",
       "secondary": "",
@@ -802,7 +769,7 @@
       "detailPath": "entities/vtubers/43c046ef42c98ed3.json"
     },
     {
-      "rank": 225,
+      "rank": 224,
       "id": "e58e290da0b13835",
       "name": "戌亥とこ -Inui Toko-",
       "secondary": "",
@@ -835,7 +802,7 @@
       "detailPath": "entities/vtubers/e58e290da0b13835.json"
     },
     {
-      "rank": 226,
+      "rank": 225,
       "id": "244bd7bdaaf9821b",
       "name": "礒貝真琴 -Makoto Isogai-",
       "secondary": "",
@@ -868,7 +835,7 @@
       "detailPath": "entities/vtubers/244bd7bdaaf9821b.json"
     },
     {
-      "rank": 227,
+      "rank": 226,
       "id": "2b8a1a72b7ed0ada",
       "name": "宮守ゆり",
       "secondary": "",
@@ -913,7 +880,7 @@
       "detailPath": "entities/vtubers/2b8a1a72b7ed0ada.json"
     },
     {
-      "rank": 228,
+      "rank": 227,
       "id": "b5ee0de9712e524f",
       "name": "jum ch. じゅむ",
       "secondary": "",
@@ -946,7 +913,7 @@
       "detailPath": "entities/vtubers/b5ee0de9712e524f.json"
     },
     {
-      "rank": 229,
+      "rank": 228,
       "id": "65b98ef54985531a",
       "name": "NUROJUNK",
       "secondary": "",
@@ -979,7 +946,7 @@
       "detailPath": "entities/vtubers/65b98ef54985531a.json"
     },
     {
-      "rank": 230,
+      "rank": 229,
       "id": "1cc09bfa41482d07",
       "name": "すとらてぃあ-Stratia",
       "secondary": "",
@@ -1012,7 +979,7 @@
       "detailPath": "entities/vtubers/1cc09bfa41482d07.json"
     },
     {
-      "rank": 231,
+      "rank": 230,
       "id": "389199a16469ac37",
       "name": "ミナミイズミ / IZUMI MINAMI",
       "secondary": "",
@@ -1045,7 +1012,7 @@
       "detailPath": "entities/vtubers/389199a16469ac37.json"
     },
     {
-      "rank": 232,
+      "rank": 231,
       "id": "08385316e81466e4",
       "name": "朱の唄 Akane's Lullaby",
       "secondary": "",
@@ -1078,7 +1045,7 @@
       "detailPath": "entities/vtubers/08385316e81466e4.json"
     },
     {
-      "rank": 233,
+      "rank": 232,
       "id": "dc0f0b4651f8b509",
       "name": "鐘輝かう kaneki caw",
       "secondary": "",
@@ -1111,7 +1078,7 @@
       "detailPath": "entities/vtubers/dc0f0b4651f8b509.json"
     },
     {
-      "rank": 234,
+      "rank": 233,
       "id": "89b56bc82dc5d54d",
       "name": "寝子やん -ﾛｯｸﾝ猫Vsinger-",
       "secondary": "",
@@ -1144,7 +1111,7 @@
       "detailPath": "entities/vtubers/89b56bc82dc5d54d.json"
     },
     {
-      "rank": 235,
+      "rank": 234,
       "id": "ec5855a762093fc7",
       "name": "燈明寺かぐら - Tomyoji Kagura -",
       "secondary": "",
@@ -1177,40 +1144,7 @@
       "detailPath": "entities/vtubers/ec5855a762093fc7.json"
     },
     {
-      "rank": 236,
-      "id": "1c60e1b96c6e88e4",
-      "name": "日裏クロ / Hiura Kuro",
-      "secondary": "",
-      "channelId": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "channelHandle": "@HiuraKuro0914",
-      "channelUrl": "",
-      "occurrenceCount": 8,
-      "videoCount": 1,
-      "songCount": 8,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "5lebECo6TiY",
-          "videoTitle": "【歌枠】仮装はしなかったけど新しい歌唱法を習得しました【日裏クロ / ネオポルテ】",
-          "channelName": "日裏クロ / Hiura Kuro",
-          "publishedAt": "2026-10-05T14:00:50.452Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/5lebECo6TiY/hqdefault.jpg",
-          "sourcePath": "sources/5l/5lebECo6TiY.json",
-          "time": "0:07:18",
-          "seconds": 438,
-          "songTitle": "ブレインロッド",
-          "artist": "東京真中"
-        }
-      ],
-      "detailPath": "entities/vtubers/1c60e1b96c6e88e4.json"
-    },
-    {
-      "rank": 237,
+      "rank": 235,
       "id": "229b79febfaf41f5",
       "name": "儚音ルイ Hakana Rui",
       "secondary": "",
@@ -1243,7 +1177,7 @@
       "detailPath": "entities/vtubers/229b79febfaf41f5.json"
     },
     {
-      "rank": 238,
+      "rank": 236,
       "id": "8e66a5dc4de9a909",
       "name": "訛音屋 / Kaonya",
       "secondary": "",
@@ -1276,7 +1210,7 @@
       "detailPath": "entities/vtubers/8e66a5dc4de9a909.json"
     },
     {
-      "rank": 239,
+      "rank": 237,
       "id": "310fe063847d2b48",
       "name": "July -ジュライ- 🌼 Vsinger",
       "secondary": "",
@@ -1309,7 +1243,7 @@
       "detailPath": "entities/vtubers/310fe063847d2b48.json"
     },
     {
-      "rank": 240,
+      "rank": 238,
       "id": "cd5f76e09931797f",
       "name": "Shiyu Ch. しゆ。",
       "secondary": "",
@@ -1342,7 +1276,7 @@
       "detailPath": "entities/vtubers/cd5f76e09931797f.json"
     },
     {
-      "rank": 241,
+      "rank": 239,
       "id": "31a9523de306880a",
       "name": "エトラ / étraチャンネル",
       "secondary": "",
@@ -1375,7 +1309,7 @@
       "detailPath": "entities/vtubers/31a9523de306880a.json"
     },
     {
-      "rank": 242,
+      "rank": 240,
       "id": "60a0211381cfc993",
       "name": "おばけなの / Obake Nano ch",
       "secondary": "",
@@ -1408,7 +1342,7 @@
       "detailPath": "entities/vtubers/60a0211381cfc993.json"
     },
     {
-      "rank": 243,
+      "rank": 241,
       "id": "38fe4645ae783caf",
       "name": "まんまる manmaru ch.",
       "secondary": "",
@@ -1441,7 +1375,7 @@
       "detailPath": "entities/vtubers/38fe4645ae783caf.json"
     },
     {
-      "rank": 244,
+      "rank": 242,
       "id": "93b2dc7014428a81",
       "name": "花和カヌレ",
       "secondary": "",
@@ -1474,7 +1408,7 @@
       "detailPath": "entities/vtubers/93b2dc7014428a81.json"
     },
     {
-      "rank": 245,
+      "rank": 243,
       "id": "c1bb668681bc84c4",
       "name": "宮霧りりい - ゆうぎり高校",
       "secondary": "",
@@ -1507,7 +1441,7 @@
       "detailPath": "entities/vtubers/c1bb668681bc84c4.json"
     },
     {
-      "rank": 246,
+      "rank": 244,
       "id": "15fed04cd29639e6",
       "name": "玖染しあ / Kuzen Sia【とーぶい】",
       "secondary": "",
@@ -1540,7 +1474,7 @@
       "detailPath": "entities/vtubers/15fed04cd29639e6.json"
     },
     {
-      "rank": 247,
+      "rank": 245,
       "id": "39de4607975b6e8e",
       "name": "皇 美緒奈 / MIONA SUMERAGI",
       "secondary": "",
@@ -1573,7 +1507,7 @@
       "detailPath": "entities/vtubers/39de4607975b6e8e.json"
     },
     {
-      "rank": 248,
+      "rank": 246,
       "id": "1e4944eb48ac95c4",
       "name": "篠崎シャノン / ゆうぎり高校",
       "secondary": "",
@@ -1606,7 +1540,7 @@
       "detailPath": "entities/vtubers/1e4944eb48ac95c4.json"
     },
     {
-      "rank": 249,
+      "rank": 247,
       "id": "65a60cb83ad04bb6",
       "name": "石狩あかり/あおぎり高校",
       "secondary": "",
@@ -1639,7 +1573,7 @@
       "detailPath": "entities/vtubers/65a60cb83ad04bb6.json"
     },
     {
-      "rank": 250,
+      "rank": 248,
       "id": "a35192ca2249fd5b",
       "name": "天草フラン / Amakusa Fran",
       "secondary": "",
@@ -1670,6 +1604,72 @@
         }
       ],
       "detailPath": "entities/vtubers/a35192ca2249fd5b.json"
+    },
+    {
+      "rank": 249,
+      "id": "5e1c00d589a8b2b8",
+      "name": "天羅洲テラス / ゆうぎり高校",
+      "secondary": "",
+      "channelId": "UCpgG-Ff5fSId2zoRW4O5dsw",
+      "channelHandle": "@AmarasuTerasu",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 1,
+      "songCount": 7,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "9tdTk2L3Rug",
+          "videoTitle": "【#あおぎりゆうぎり歌枠リレー】唯一のアクティブ元気枠いきます！！！【ゆうぎり高校】",
+          "channelName": "天羅洲テラス / ゆうぎり高校",
+          "publishedAt": "2026-10-10T11:02:02.622Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/9tdTk2L3Rug/hqdefault.jpg",
+          "sourcePath": "sources/9t/9tdTk2L3Rug.json",
+          "time": "0:18:30",
+          "seconds": 1110,
+          "songTitle": "開会式 (シャノンch)",
+          "artist": "@shinozakishanon"
+        }
+      ],
+      "detailPath": "entities/vtubers/5e1c00d589a8b2b8.json"
+    },
+    {
+      "rank": 250,
+      "id": "fa57683cf6835501",
+      "name": "萌実ちゃんねる / あおぎり高校",
+      "secondary": "",
+      "channelId": "UCIwHOJn_3QjBTwQ_gNj7WRA",
+      "channelHandle": "@Moemi_chan",
+      "channelUrl": "",
+      "occurrenceCount": 7,
+      "videoCount": 1,
+      "songCount": 7,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "4CSicycGrEg",
+          "videoTitle": "【#あおぎりゆうぎり歌枠リレー】J-POPもアニソンもボカロも好きですよ！！【#萌実】",
+          "channelName": "萌実ちゃんねる / あおぎり高校",
+          "publishedAt": "2026-10-10T10:37:02.622Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/4CSicycGrEg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrTqR7U4JEryxdSNzVeNW8IU1crg",
+          "sourcePath": "sources/4C/4CSicycGrEg.json",
+          "time": "0:18:30",
+          "seconds": 1110,
+          "songTitle": "開会式 (シャノンch)",
+          "artist": "@shinozakishanon"
+        }
+      ],
+      "detailPath": "entities/vtubers/fa57683cf6835501.json"
     }
   ]
 }

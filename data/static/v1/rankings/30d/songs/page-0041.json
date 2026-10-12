@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "30d",
   "type": "songs",
   "page": 41,
   "pageSize": 50,
-  "pageCount": 555,
-  "totalCount": 27721,
+  "pageCount": 554,
+  "totalCount": 27690,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1440,6 +1440,64 @@
     },
     {
       "rank": 2026,
+      "id": "404bfd5710d90992",
+      "name": "帰りたくなったよ",
+      "secondary": "いきものがかり",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 6,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "rJUioH_Rptw",
+          "videoTitle": "【弾き語り】ゆったり弾き語りの可能性、あり【すずみりん/＃新人vtuber】",
+          "channelName": "すずみりん",
+          "publishedAt": "2026-10-04T13:59:46.358Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rJUioH_Rptw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmPbIzeNElw45aEjiV3taUDQoFiw",
+          "sourcePath": "sources/rJ/rJUioH_Rptw.json",
+          "time": "0:55:17",
+          "seconds": 3317,
+          "songTitle": "帰りたくなったよ",
+          "artist": "いきものがかり"
+        },
+        {
+          "videoId": "aT_xvL94sC0",
+          "videoTitle": "【歌枠/Chill】おやすみ前の微睡ちるタイム【紫霄/#紫霄のまにまに】",
+          "channelName": "紫霄 / xiseu",
+          "publishedAt": "2026-10-03T16:26:23.378Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/aT_xvL94sC0/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJ0-Ci9iOv5w2urrz1-94UHGillg",
+          "sourcePath": "sources/aT/aT_xvL94sC0.json",
+          "time": "0:10:05",
+          "seconds": 605,
+          "songTitle": "帰りたくなったよ",
+          "artist": "いきものがかり"
+        },
+        {
+          "videoId": "X8KNgKhk8VA",
+          "videoTitle": "【深夜歌枠】久しぶりに歌枠します✨【ホロライブ FLOW GLOW 響咲リオナ】",
+          "channelName": "Riona Ch. 響咲リオナ - FLOW GLOW",
+          "publishedAt": "2026-09-20T14:53:54.430Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/X8KNgKhk8VA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBEn6Be0vaxgTPtnepANxmbKw6yGw",
+          "sourcePath": "sources/X8/X8KNgKhk8VA.json",
+          "time": "0:36:12",
+          "seconds": 2172,
+          "songTitle": "帰りたくなったよ",
+          "artist": "いきものがかり"
+        }
+      ],
+      "detailPath": "entities/songs/404bfd5710d90992.json"
+    },
+    {
+      "rank": 2027,
       "id": "080d8ea145be0a2c",
       "name": "帰り道",
       "secondary": "八九寺真宵(加藤英美里)",
@@ -1496,7 +1554,7 @@
       "detailPath": "entities/songs/080d8ea145be0a2c.json"
     },
     {
-      "rank": 2027,
+      "rank": 2028,
       "id": "ed84ecab7ef14fdd",
       "name": "輝きは君の中に",
       "secondary": "鈴木結女",
@@ -1553,7 +1611,7 @@
       "detailPath": "entities/songs/ed84ecab7ef14fdd.json"
     },
     {
-      "rank": 2028,
+      "rank": 2029,
       "id": "31672264beb38810",
       "name": "宮霧りりい",
       "secondary": "@miyakirilily",
@@ -1610,7 +1668,7 @@
       "detailPath": "entities/songs/31672264beb38810.json"
     },
     {
-      "rank": 2029,
+      "rank": 2030,
       "id": "8f831154beee29f8",
       "name": "去り際のロマンティクス",
       "secondary": "See-Saw",
@@ -1667,7 +1725,7 @@
       "detailPath": "entities/songs/8f831154beee29f8.json"
     },
     {
-      "rank": 2030,
+      "rank": 2031,
       "id": "431ef4aea5073188",
       "name": "強盗と花束",
       "secondary": "ヨルシカ",
@@ -1724,7 +1782,7 @@
       "detailPath": "entities/songs/431ef4aea5073188.json"
     },
     {
-      "rank": 2031,
+      "rank": 2032,
       "id": "a8223d53033c17e5",
       "name": "狭心症",
       "secondary": "RADWIMPS",
@@ -1781,7 +1839,7 @@
       "detailPath": "entities/songs/a8223d53033c17e5.json"
     },
     {
-      "rank": 2032,
+      "rank": 2033,
       "id": "7bde5a6ca0b39918",
       "name": "金曜日のおはよう",
       "secondary": "",
@@ -1839,7 +1897,7 @@
       "detailPath": "entities/songs/7bde5a6ca0b39918.json"
     },
     {
-      "rank": 2033,
+      "rank": 2034,
       "id": "d611229a935c3547",
       "name": "銀色飛行船",
       "secondary": "supercell",
@@ -1896,7 +1954,7 @@
       "detailPath": "entities/songs/d611229a935c3547.json"
     },
     {
-      "rank": 2034,
+      "rank": 2035,
       "id": "1ef4a106de537d1e",
       "name": "空色デイズ",
       "secondary": "",
@@ -1953,7 +2011,7 @@
       "detailPath": "entities/songs/1ef4a106de537d1e.json"
     },
     {
-      "rank": 2035,
+      "rank": 2036,
       "id": "e36ffa61f936c5a7",
       "name": "君がいない夏",
       "secondary": "DEEN",
@@ -2010,7 +2068,7 @@
       "detailPath": "entities/songs/e36ffa61f936c5a7.json"
     },
     {
-      "rank": 2036,
+      "rank": 2037,
       "id": "76ab7bf9dc40d44b",
       "name": "君が手を伸ばす先に",
       "secondary": "藤田麻衣子",
@@ -2067,7 +2125,7 @@
       "detailPath": "entities/songs/76ab7bf9dc40d44b.json"
     },
     {
-      "rank": 2037,
+      "rank": 2038,
       "id": "fe2e0e0c80335eda",
       "name": "君の街まで",
       "secondary": "ASIAN KUNG-FU GENERATION",
@@ -2124,7 +2182,7 @@
       "detailPath": "entities/songs/fe2e0e0c80335eda.json"
     },
     {
-      "rank": 2038,
+      "rank": 2039,
       "id": "58a822d169ddd814",
       "name": "君色に染まる",
       "secondary": "西沢さんP",
@@ -2182,7 +2240,7 @@
       "detailPath": "entities/songs/58a822d169ddd814.json"
     },
     {
-      "rank": 2039,
+      "rank": 2040,
       "id": "e5762b57e6ca941b",
       "name": "結ンデ開イテ羅刹ト骸",
       "secondary": "ハチ",
@@ -2239,7 +2297,7 @@
       "detailPath": "entities/songs/e5762b57e6ca941b.json"
     },
     {
-      "rank": 2040,
+      "rank": 2041,
       "id": "3252eaf30543727b",
       "name": "月の逆襲",
       "secondary": "クリープハイプ",
@@ -2296,7 +2354,7 @@
       "detailPath": "entities/songs/3252eaf30543727b.json"
     },
     {
-      "rank": 2041,
+      "rank": 2042,
       "id": "f9f8ad269388757c",
       "name": "見上げてごらん夜の星を",
       "secondary": "坂本九",
@@ -2353,7 +2411,7 @@
       "detailPath": "entities/songs/f9f8ad269388757c.json"
     },
     {
-      "rank": 2042,
+      "rank": 2043,
       "id": "e3c390d746871358",
       "name": "現状ディストラクション",
       "secondary": "SPYAIR",
@@ -2410,7 +2468,7 @@
       "detailPath": "entities/songs/e3c390d746871358.json"
     },
     {
-      "rank": 2043,
+      "rank": 2044,
       "id": "731d96839e61193e",
       "name": "語り継ぐこと",
       "secondary": "元ちとせ",
@@ -2467,7 +2525,7 @@
       "detailPath": "entities/songs/731d96839e61193e.json"
     },
     {
-      "rank": 2044,
+      "rank": 2045,
       "id": "5b46a09cdf5d2c28",
       "name": "好きだから",
       "secondary": "『ユイカ』",
@@ -2524,7 +2582,7 @@
       "detailPath": "entities/songs/5b46a09cdf5d2c28.json"
     },
     {
-      "rank": 2045,
+      "rank": 2046,
       "id": "99adc01d75d2302b",
       "name": "紅一葉",
       "secondary": "White Flame",
@@ -2581,7 +2639,7 @@
       "detailPath": "entities/songs/99adc01d75d2302b.json"
     },
     {
-      "rank": 2046,
+      "rank": 2047,
       "id": "3aef45e456cd3f7b",
       "name": "高架線",
       "secondary": "ELLEGARDEN",
@@ -2638,7 +2696,7 @@
       "detailPath": "entities/songs/3aef45e456cd3f7b.json"
     },
     {
-      "rank": 2047,
+      "rank": 2048,
       "id": "48d7c288e1bf7f4a",
       "name": "告白",
       "secondary": "内緒のピアス",
@@ -2695,7 +2753,7 @@
       "detailPath": "entities/songs/48d7c288e1bf7f4a.json"
     },
     {
-      "rank": 2048,
+      "rank": 2049,
       "id": "c12df1ca21663cf1",
       "name": "告白日和、です!",
       "secondary": "南ことり(内田 彩)・小泉花陽(久保ユリカ)",
@@ -2752,7 +2810,7 @@
       "detailPath": "entities/songs/c12df1ca21663cf1.json"
     },
     {
-      "rank": 2049,
+      "rank": 2050,
       "id": "93fb06ccab4b6723",
       "name": "今はいいんだよ",
       "secondary": "MIMI feat. 可不",
@@ -2807,63 +2865,6 @@
         }
       ],
       "detailPath": "entities/songs/93fb06ccab4b6723.json"
-    },
-    {
-      "rank": 2050,
-      "id": "0da2c74ef34dc590",
-      "name": "再教育",
-      "secondary": "Neru",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 6,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "O6M1KUa2VkM",
-          "videoTitle": "【 #歌枠 】 ５万人まで４２７人！初見さん来てー！ 【 戌月れん/Vsinger 】#vtuber #karaoke",
-          "channelName": "Ren.ch戌月れん",
-          "publishedAt": "2026-10-07T09:08:11.663Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/O6M1KUa2VkM/hqdefault.jpg",
-          "sourcePath": "sources/O6/O6M1KUa2VkM.json",
-          "time": "1:04:50",
-          "seconds": 3890,
-          "songTitle": "再教育",
-          "artist": "Neru"
-        },
-        {
-          "videoId": "MLWA5F4swUk",
-          "videoTitle": "【 #歌枠 】一週間がんばりました。【鈴木沙透/パレデミア学園】",
-          "channelName": "鈴木 沙透 / Suzuki Sato",
-          "publishedAt": "2026-10-02T17:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/MLWA5F4swUk/hqdefault.jpg",
-          "sourcePath": "sources/ML/MLWA5F4swUk.json",
-          "time": "0:40:10",
-          "seconds": 2410,
-          "songTitle": "再教育",
-          "artist": "Neru"
-        },
-        {
-          "videoId": "0DZq-M8Iwvs",
-          "videoTitle": "【歌枠 / 縦型】１曲聴いてけ！初見歓迎！ #きょこのーと #shorts",
-          "channelName": "ききょこ",
-          "publishedAt": "2026-09-22T11:32:27.386Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/0DZq-M8Iwvs/hqdefault.jpg",
-          "sourcePath": "sources/0D/0DZq-M8Iwvs.json",
-          "time": "1:25:50",
-          "seconds": 5150,
-          "songTitle": "再教育",
-          "artist": "Neru"
-        }
-      ],
-      "detailPath": "entities/songs/0da2c74ef34dc590.json"
     }
   ]
 }

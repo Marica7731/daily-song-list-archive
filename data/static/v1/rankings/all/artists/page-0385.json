@@ -1,16 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "all",
   "type": "artists",
   "page": 385,
   "pageSize": 50,
   "pageCount": 401,
-  "totalCount": 20002,
+  "totalCount": 20003,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 19201,
+      "id": "59198d2939db1f98",
+      "name": "冒頭の練習を入念にする",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "buubSLkf3q0",
+          "videoTitle": "【#歌枠】たまごによる、お歌配信/音葉ネル🌱#新人VTuber",
+          "channelName": "音葉ネル🌱Neru Otoha",
+          "publishedAt": "2026-09-13T15:02:52.759Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/buubSLkf3q0/hqdefault.jpg",
+          "sourcePath": "sources/bu/buubSLkf3q0.json",
+          "time": "0:47:34",
+          "seconds": 2854,
+          "songTitle": "アゲハ蝶",
+          "artist": "冒頭の練習を入念にする"
+        }
+      ],
+      "detailPath": "entities/artists/59198d2939db1f98.json"
+    },
+    {
+      "rank": 19202,
       "id": "42ffcbf54d0239b1",
       "name": "紡ぐ",
       "secondary": "",
@@ -42,7 +75,7 @@
       "detailPath": "entities/artists/42ffcbf54d0239b1.json"
     },
     {
-      "rank": 19202,
+      "rank": 19203,
       "id": "9a1c941ff0a3d834",
       "name": "北宇治カルテット",
       "secondary": "",
@@ -72,7 +105,7 @@
       "detailPath": "entities/artists/9a1c941ff0a3d834.json"
     },
     {
-      "rank": 19203,
+      "rank": 19204,
       "id": "f442b26d7f24d5d2",
       "name": "北出菜奈 (鋼の錬金術師)",
       "secondary": "",
@@ -105,7 +138,7 @@
       "detailPath": "entities/artists/f442b26d7f24d5d2.json"
     },
     {
-      "rank": 19204,
+      "rank": 19205,
       "id": "f32ffcfafd8dbee7",
       "name": "北条そふぃ",
       "secondary": "",
@@ -139,7 +172,7 @@
       "detailPath": "entities/artists/f32ffcfafd8dbee7.json"
     },
     {
-      "rank": 19205,
+      "rank": 19206,
       "id": "697c113b45451d5c",
       "name": "北川理恵 / GO!プリンセスプリキュア",
       "secondary": "",
@@ -172,7 +205,7 @@
       "detailPath": "entities/artists/697c113b45451d5c.json"
     },
     {
-      "rank": 19206,
+      "rank": 19207,
       "id": "13e48d5de91b5afd",
       "name": "北川理恵 / 魔法つかいプリキュア!",
       "secondary": "",
@@ -205,7 +238,7 @@
       "detailPath": "entities/artists/13e48d5de91b5afd.json"
     },
     {
-      "rank": 19207,
+      "rank": 19208,
       "id": "4c7df8d0096bf164",
       "name": "北沢志保(CV:雨宮 天)",
       "secondary": "",
@@ -238,7 +271,7 @@
       "detailPath": "entities/artists/4c7df8d0096bf164.json"
     },
     {
-      "rank": 19208,
+      "rank": 19209,
       "id": "3d3be97f45715ada",
       "name": "北斗の拳 Fist of the North Star",
       "secondary": "",
@@ -271,7 +304,7 @@
       "detailPath": "entities/artists/3d3be97f45715ada.json"
     },
     {
-      "rank": 19209,
+      "rank": 19210,
       "id": "2b65fea04b7080b5",
       "name": "僕はこの瞳で嘘をつく",
       "secondary": "",
@@ -301,7 +334,7 @@
       "detailPath": "entities/artists/2b65fea04b7080b5.json"
     },
     {
-      "rank": 19210,
+      "rank": 19211,
       "id": "8b87786d0b851db5",
       "name": "僕は友達が少ない",
       "secondary": "",
@@ -331,7 +364,7 @@
       "detailPath": "entities/artists/8b87786d0b851db5.json"
     },
     {
-      "rank": 19211,
+      "rank": 19212,
       "id": "2249f7409e25d8d5",
       "name": "僕らの星座",
       "secondary": "",
@@ -365,7 +398,7 @@
       "detailPath": "entities/artists/2249f7409e25d8d5.json"
     },
     {
-      "rank": 19212,
+      "rank": 19213,
       "id": "8aa04a5dcd9af987",
       "name": "撲殺天使ドクロちゃん",
       "secondary": "",
@@ -398,7 +431,7 @@
       "detailPath": "entities/artists/8aa04a5dcd9af987.json"
     },
     {
-      "rank": 19213,
+      "rank": 19214,
       "id": "e4e617758ae96c36",
       "name": "牧野 由依 / 95.758点",
       "secondary": "",
@@ -431,7 +464,7 @@
       "detailPath": "entities/artists/e4e617758ae96c36.json"
     },
     {
-      "rank": 19214,
+      "rank": 19215,
       "id": "7f3b9c30c7fd3767",
       "name": "牧野アンナ",
       "secondary": "",
@@ -464,7 +497,7 @@
       "detailPath": "entities/artists/7f3b9c30c7fd3767.json"
     },
     {
-      "rank": 19215,
+      "rank": 19216,
       "id": "cf718d8b6f9187d0",
       "name": "牧野由依 / JS",
       "secondary": "",
@@ -497,7 +530,7 @@
       "detailPath": "entities/artists/cf718d8b6f9187d0.json"
     },
     {
-      "rank": 19216,
+      "rank": 19217,
       "id": "f165b041b7b5a704",
       "name": "牧野由依（90.754点）",
       "secondary": "",
@@ -531,7 +564,7 @@
       "detailPath": "entities/artists/f165b041b7b5a704.json"
     },
     {
-      "rank": 19217,
+      "rank": 19218,
       "id": "bd89a3489d5efeff",
       "name": "堀絢子",
       "secondary": "",
@@ -561,7 +594,7 @@
       "detailPath": "entities/artists/bd89a3489d5efeff.json"
     },
     {
-      "rank": 19218,
+      "rank": 19219,
       "id": "991409d77765c6c1",
       "name": "堀光一路",
       "secondary": "",
@@ -595,7 +628,7 @@
       "detailPath": "entities/artists/991409d77765c6c1.json"
     },
     {
-      "rank": 19219,
+      "rank": 19220,
       "id": "d8d5874db997f297",
       "name": "堀光一路 ／ 機動戦士ガンダム(1979年)",
       "secondary": "",
@@ -628,7 +661,7 @@
       "detailPath": "entities/artists/d8d5874db997f297.json"
     },
     {
-      "rank": 19220,
+      "rank": 19221,
       "id": "b05b69e2f3a0c5dc",
       "name": "堀江晶太（甘楽ミキ）",
       "secondary": "",
@@ -662,7 +695,7 @@
       "detailPath": "entities/artists/b05b69e2f3a0c5dc.json"
     },
     {
-      "rank": 19221,
+      "rank": 19222,
       "id": "912577e60fab807d",
       "name": "堀江美都子 ／ NHKみんなのうた(1975年)",
       "secondary": "",
@@ -695,7 +728,7 @@
       "detailPath": "entities/artists/912577e60fab807d.json"
     },
     {
-      "rank": 19222,
+      "rank": 19223,
       "id": "df1e02338488872f",
       "name": "堀江美都子・ザ・チャープス",
       "secondary": "",
@@ -729,7 +762,7 @@
       "detailPath": "entities/artists/df1e02338488872f.json"
     },
     {
-      "rank": 19223,
+      "rank": 19224,
       "id": "f4ea9f5be710e709",
       "name": "堀江美都子、ザ・チャーブス",
       "secondary": "",
@@ -762,7 +795,7 @@
       "detailPath": "entities/artists/f4ea9f5be710e709.json"
     },
     {
-      "rank": 19224,
+      "rank": 19225,
       "id": "af78cea3a80994da",
       "name": "堀江由衣 (2008)（とらドラ！ ED）",
       "secondary": "",
@@ -792,7 +825,7 @@
       "detailPath": "entities/artists/af78cea3a80994da.json"
     },
     {
-      "rank": 19225,
+      "rank": 19226,
       "id": "744f4f964f8e765d",
       "name": "堀江由衣 (2013)（ゴールデンタイム OP）",
       "secondary": "",
@@ -822,7 +855,7 @@
       "detailPath": "entities/artists/744f4f964f8e765d.json"
     },
     {
-      "rank": 19226,
+      "rank": 19227,
       "id": "3f3175c1512dab9c",
       "name": "堀江由衣 (スクールランブル)",
       "secondary": "",
@@ -855,7 +888,7 @@
       "detailPath": "entities/artists/3f3175c1512dab9c.json"
     },
     {
-      "rank": 19227,
+      "rank": 19228,
       "id": "1b361f52b60d5a61",
       "name": "堀奈生&彩菜",
       "secondary": "",
@@ -888,7 +921,7 @@
       "detailPath": "entities/artists/1b361f52b60d5a61.json"
     },
     {
-      "rank": 19228,
+      "rank": 19229,
       "id": "9344594508599d4a",
       "name": "本の寄贈",
       "secondary": "",
@@ -921,7 +954,7 @@
       "detailPath": "entities/artists/9344594508599d4a.json"
     },
     {
-      "rank": 19229,
+      "rank": 19230,
       "id": "214108afc268a07e",
       "name": "本家:古川本舗",
       "secondary": "",
@@ -954,7 +987,7 @@
       "detailPath": "entities/artists/214108afc268a07e.json"
     },
     {
-      "rank": 19230,
+      "rank": 19231,
       "id": "7664240712b13d85",
       "name": "本家視聴〜",
       "secondary": "",
@@ -987,7 +1020,7 @@
       "detailPath": "entities/artists/7664240712b13d85.json"
     },
     {
-      "rank": 19231,
+      "rank": 19232,
       "id": "864c1027e398c698",
       "name": "本間ひまわり",
       "secondary": "",
@@ -1020,7 +1053,7 @@
       "detailPath": "entities/artists/864c1027e398c698.json"
     },
     {
-      "rank": 19232,
+      "rank": 19233,
       "id": "1ef175e9521d2e25",
       "name": "本気",
       "secondary": "",
@@ -1053,7 +1086,7 @@
       "detailPath": "entities/artists/1ef175e9521d2e25.json"
     },
     {
-      "rank": 19233,
+      "rank": 19234,
       "id": "f6131d8a3807110a",
       "name": "本橋依央利",
       "secondary": "",
@@ -1086,7 +1119,7 @@
       "detailPath": "entities/artists/f6131d8a3807110a.json"
     },
     {
-      "rank": 19234,
+      "rank": 19235,
       "id": "3e0a23998cb594a0",
       "name": "本橋依央利（福原かつみ）",
       "secondary": "",
@@ -1119,7 +1152,7 @@
       "detailPath": "entities/artists/3e0a23998cb594a0.json"
     },
     {
-      "rank": 19235,
+      "rank": 19236,
       "id": "1b72c85315ec4cf1",
       "name": "本好きの下剋上 司書になるためには手段を選んでいられません",
       "secondary": "",
@@ -1153,7 +1186,7 @@
       "detailPath": "entities/artists/1b72c85315ec4cf1.json"
     },
     {
-      "rank": 19236,
+      "rank": 19237,
       "id": "a12c5fcb68ea9e00",
       "name": "本題",
       "secondary": "",
@@ -1186,7 +1219,7 @@
       "detailPath": "entities/artists/a12c5fcb68ea9e00.json"
     },
     {
-      "rank": 19237,
+      "rank": 19238,
       "id": "7daf00493fae699e",
       "name": "本田晃弘/ウマ娘",
       "secondary": "",
@@ -1219,7 +1252,7 @@
       "detailPath": "entities/artists/7daf00493fae699e.json"
     },
     {
-      "rank": 19238,
+      "rank": 19239,
       "id": "2d11b883b2cedd70",
       "name": "本田美奈子 (明日のナージャ)",
       "secondary": "",
@@ -1252,7 +1285,7 @@
       "detailPath": "entities/artists/2d11b883b2cedd70.json"
     },
     {
-      "rank": 19239,
+      "rank": 19240,
       "id": "ebab888158eabd15",
       "name": "本田美奈子（アニメ『魔法騎士レイアース』ED）",
       "secondary": "",
@@ -1285,7 +1318,7 @@
       "detailPath": "entities/artists/ebab888158eabd15.json"
     },
     {
-      "rank": 19240,
+      "rank": 19241,
       "id": "8ced271d0629c666",
       "name": "本田未央 (原紗友里)",
       "secondary": "",
@@ -1318,7 +1351,7 @@
       "detailPath": "entities/artists/8ced271d0629c666.json"
     },
     {
-      "rank": 19241,
+      "rank": 19242,
       "id": "49e0e0c7741a0297",
       "name": "本日のチャレンジ枠",
       "secondary": "",
@@ -1351,7 +1384,7 @@
       "detailPath": "entities/artists/49e0e0c7741a0297.json"
     },
     {
-      "rank": 19242,
+      "rank": 19243,
       "id": "a8c2a794e9f5e366",
       "name": "本日の個人的ベストソング",
       "secondary": "",
@@ -1384,7 +1417,7 @@
       "detailPath": "entities/artists/a8c2a794e9f5e366.json"
     },
     {
-      "rank": 19243,
+      "rank": 19244,
       "id": "eef2136856414772",
       "name": "本日最後の一曲",
       "secondary": "",
@@ -1417,7 +1450,7 @@
       "detailPath": "entities/artists/eef2136856414772.json"
     },
     {
-      "rank": 19244,
+      "rank": 19245,
       "id": "e2d50d0f540ab8db",
       "name": "本日二度目",
       "secondary": "",
@@ -1450,7 +1483,7 @@
       "detailPath": "entities/artists/e2d50d0f540ab8db.json"
     },
     {
-      "rank": 19245,
+      "rank": 19246,
       "id": "ce880e3a3f6231e4",
       "name": "本能を呼び覚ますダークな世界観",
       "secondary": "",
@@ -1483,7 +1516,7 @@
       "detailPath": "entities/artists/ce880e3a3f6231e4.json"
     },
     {
-      "rank": 19246,
+      "rank": 19247,
       "id": "0974cf1794c7ffae",
       "name": "本編",
       "secondary": "",
@@ -1517,7 +1550,7 @@
       "detailPath": "entities/artists/0974cf1794c7ffae.json"
     },
     {
-      "rank": 19247,
+      "rank": 19248,
       "id": "4f222488ea1abf23",
       "name": "本名陽子 (ジブリ『耳をすませば』より)",
       "secondary": "",
@@ -1547,7 +1580,7 @@
       "detailPath": "entities/artists/4f222488ea1abf23.json"
     },
     {
-      "rank": 19248,
+      "rank": 19249,
       "id": "a019718f8c12d2e3",
       "name": "本名陽子 （初）",
       "secondary": "",
@@ -1577,7 +1610,7 @@
       "detailPath": "entities/artists/a019718f8c12d2e3.json"
     },
     {
-      "rank": 19249,
+      "rank": 19250,
       "id": "7ba897b53a63225e",
       "name": "本名陽子 ／ 耳をすませば(1995年)",
       "secondary": "",
@@ -1609,36 +1642,6 @@
         }
       ],
       "detailPath": "entities/artists/7ba897b53a63225e.json"
-    },
-    {
-      "rank": 19250,
-      "id": "19632b18b6edc3e6",
-      "name": "本名陽子（カラオケ@DIVA様 • 【カラオケ練習用】カントリーロード／本名陽子｜[Videoke] \"Whisper ... ）",
-      "secondary": "",
-      "channelId": "UCmqV8wKcZmTVWvs8WsjMrCA",
-      "channelHandle": "@osoranananika",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "e9nEu6idkUk",
-          "videoTitle": "【#歌枠 】楽しく歌うよ！木曜定期歌枠🎶初見さん、ROM歓迎🌟初見さんリクエストOK◎🐿️🎤✨️【#Singing #karaoke 】",
-          "channelName": "冬星おそら / Osora",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/e9nEu6idkUk/hqdefault.jpg",
-          "sourcePath": "sources/e9/e9nEu6idkUk.json",
-          "time": "0:15:33",
-          "seconds": 933,
-          "songTitle": "カントリーロード",
-          "artist": "本名陽子（カラオケ@DIVA様 • 【カラオケ練習用】カントリーロード／本名陽子｜[Videoke] \"Whisper ... ）"
-        }
-      ],
-      "detailPath": "entities/artists/19632b18b6edc3e6.json"
     }
   ]
 }

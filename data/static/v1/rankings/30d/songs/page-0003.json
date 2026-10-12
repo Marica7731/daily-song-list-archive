@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "30d",
   "type": "songs",
   "page": 3,
   "pageSize": 50,
-  "pageCount": 555,
-  "totalCount": 27721,
+  "pageCount": 554,
+  "totalCount": 27690,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -1510,64 +1510,6 @@
     },
     {
       "rank": 127,
-      "id": "4eade7ee9eb90b08",
-      "name": "チェリー",
-      "secondary": "スピッツ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 53,
-      "videoCount": 53,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "SKfSkj_5qck",
-          "videoTitle": "【#歌枠】✨🎤10月10日の定期お歌雑談！初見さんも大歓迎🎵【#新人Vtuber/日波さゆ/#shorts 】",
-          "channelName": "日波 さゆ(Nichinami Sayu)",
-          "publishedAt": "2026-10-10T09:37:02.622Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/SKfSkj_5qck/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoVlRHl27Jvh600gTCyoDfEuUEbQ",
-          "sourcePath": "sources/SK/SKfSkj_5qck.json",
-          "time": "1:52:33",
-          "seconds": 6753,
-          "songTitle": "チェリー",
-          "artist": "スピッツ"
-        },
-        {
-          "videoId": "2Yt3vsVuADE",
-          "videoTitle": "【 vtuber 弾き語り】癒しの睡眠導入歌枠🐑ピアノ弾き語り🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-          "channelName": "アイリナ・ゼファリオ【StellArt.】",
-          "publishedAt": "2026-10-07T16:07:08.296Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/2Yt3vsVuADE/hqdefault.jpg",
-          "sourcePath": "sources/2Y/2Yt3vsVuADE.json",
-          "time": "0:44:07",
-          "seconds": 2647,
-          "songTitle": "チェリー",
-          "artist": "スピッツ"
-        },
-        {
-          "videoId": "tOD_O0-wI0c",
-          "videoTitle": "【歌枠/karaoke】高評価111&同接30人目標！！1曲聴いていって～～！ 久遠なつめ【#9on_air 】 #vtuber",
-          "channelName": "久遠なつめ natsume channel",
-          "publishedAt": "2026-10-06T15:28:06.554Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/tOD_O0-wI0c/hqdefault.jpg",
-          "sourcePath": "sources/tO/tOD_O0-wI0c.json",
-          "time": "2:49:34",
-          "seconds": 10174,
-          "songTitle": "チェリー",
-          "artist": "スピッツ"
-        }
-      ],
-      "detailPath": "entities/songs/4eade7ee9eb90b08.json"
-    },
-    {
-      "rank": 128,
       "id": "7a503995c14e5cf3",
       "name": "ブリキノダンス",
       "secondary": "日向電工",
@@ -1624,7 +1566,7 @@
       "detailPath": "entities/songs/7a503995c14e5cf3.json"
     },
     {
-      "rank": 129,
+      "rank": 128,
       "id": "3d31a43ce71b3c6b",
       "name": "深海少女",
       "secondary": "ゆうゆ",
@@ -1681,7 +1623,7 @@
       "detailPath": "entities/songs/3d31a43ce71b3c6b.json"
     },
     {
-      "rank": 130,
+      "rank": 129,
       "id": "83e77082aa78ebd6",
       "name": "爆裂愛してる",
       "secondary": "M!LK",
@@ -1738,7 +1680,7 @@
       "detailPath": "entities/songs/83e77082aa78ebd6.json"
     },
     {
-      "rank": 131,
+      "rank": 130,
       "id": "21880d441c805558",
       "name": "抜錨",
       "secondary": "ナナホシ管弦楽団",
@@ -1795,7 +1737,7 @@
       "detailPath": "entities/songs/21880d441c805558.json"
     },
     {
-      "rank": 132,
+      "rank": 131,
       "id": "745cb6a86feb2077",
       "name": "again",
       "secondary": "YUI",
@@ -1853,7 +1795,7 @@
       "detailPath": "entities/songs/745cb6a86feb2077.json"
     },
     {
-      "rank": 133,
+      "rank": 132,
       "id": "cae572bc7ba1ccf8",
       "name": "ANIMA",
       "secondary": "ReoNa",
@@ -1910,7 +1852,7 @@
       "detailPath": "entities/songs/cae572bc7ba1ccf8.json"
     },
     {
-      "rank": 134,
+      "rank": 133,
       "id": "a5df4072bd818a1b",
       "name": "CHE.R.RY",
       "secondary": "YUI",
@@ -1966,6 +1908,64 @@
         }
       ],
       "detailPath": "entities/songs/a5df4072bd818a1b.json"
+    },
+    {
+      "rank": 134,
+      "id": "4eade7ee9eb90b08",
+      "name": "チェリー",
+      "secondary": "スピッツ",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 52,
+      "videoCount": 52,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "SKfSkj_5qck",
+          "videoTitle": "【#歌枠】✨🎤10月10日の定期お歌雑談！初見さんも大歓迎🎵【#新人Vtuber/日波さゆ/#shorts 】",
+          "channelName": "日波 さゆ(Nichinami Sayu)",
+          "publishedAt": "2026-10-10T09:37:02.622Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/SKfSkj_5qck/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoVlRHl27Jvh600gTCyoDfEuUEbQ",
+          "sourcePath": "sources/SK/SKfSkj_5qck.json",
+          "time": "1:52:33",
+          "seconds": 6753,
+          "songTitle": "チェリー",
+          "artist": "スピッツ"
+        },
+        {
+          "videoId": "2Yt3vsVuADE",
+          "videoTitle": "【 vtuber 弾き語り】癒しの睡眠導入歌枠🐑ピアノ弾き語り🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+          "channelName": "アイリナ・ゼファリオ【StellArt.】",
+          "publishedAt": "2026-10-07T16:07:08.296Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2Yt3vsVuADE/hqdefault.jpg",
+          "sourcePath": "sources/2Y/2Yt3vsVuADE.json",
+          "time": "0:44:07",
+          "seconds": 2647,
+          "songTitle": "チェリー",
+          "artist": "スピッツ"
+        },
+        {
+          "videoId": "tOD_O0-wI0c",
+          "videoTitle": "【歌枠/karaoke】高評価111&同接30人目標！！1曲聴いていって～～！ 久遠なつめ【#9on_air 】 #vtuber",
+          "channelName": "久遠なつめ natsume channel",
+          "publishedAt": "2026-10-06T15:28:06.554Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/tOD_O0-wI0c/hqdefault.jpg",
+          "sourcePath": "sources/tO/tOD_O0-wI0c.json",
+          "time": "2:49:34",
+          "seconds": 10174,
+          "songTitle": "チェリー",
+          "artist": "スピッツ"
+        }
+      ],
+      "detailPath": "entities/songs/4eade7ee9eb90b08.json"
     },
     {
       "rank": 135,

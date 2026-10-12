@@ -1,79 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "30d",
   "type": "artists",
   "page": 106,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10871,
+  "totalCount": 10857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 5251,
-      "id": "0181a1be0ccadbb5",
-      "name": "Kanaria feat.GUMI、初音ミク",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "AYWPw059PWc",
-          "videoTitle": "【#歌枠】初見さん◎土曜日のお昼は低音女子の歌を聞いて過ごしませんか？【#VTuber / 赤石グラナ】",
-          "channelName": "赤石グラナ",
-          "publishedAt": "2026-09-26T06:51:35.306Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/AYWPw059PWc/hqdefault.jpg",
-          "sourcePath": "sources/AY/AYWPw059PWc.json",
-          "time": "2:03:08",
-          "seconds": 7388,
-          "songTitle": "アイデンティティ",
-          "artist": "Kanaria feat.GUMI、初音ミク"
-        }
-      ],
-      "detailPath": "entities/artists/0181a1be0ccadbb5.json"
-    },
-    {
-      "rank": 5252,
-      "id": "0200eb5afaf77f7d",
-      "name": "Kanaria ジョイマン",
-      "secondary": "",
-      "channelId": "UCADToVydCrYAYGwFvIwlR4A",
-      "channelHandle": "@R_is_VTuber",
-      "channelUrl": "",
-      "occurrenceCount": 1,
-      "videoCount": 1,
-      "songCount": 1,
-      "keywords": [],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "h-4YSIMShO4",
-          "videoTitle": "【#歌枠】コメント数50につき1曲歌う歌枠 #VTuber",
-          "channelName": "あーるくん / R is Vtuber",
-          "publishedAt": "2026-09-29T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/h-4YSIMShO4/hqdefault.jpg",
-          "sourcePath": "sources/h-/h-4YSIMShO4.json",
-          "time": "0:46:31",
-          "seconds": 2791,
-          "songTitle": "アイデンティティ",
-          "artist": "Kanaria ジョイマン"
-        }
-      ],
-      "detailPath": "entities/artists/0200eb5afaf77f7d.json"
-    },
-    {
-      "rank": 5253,
       "id": "9c02f9cf3baabd61",
       "name": "Kanaria（※チャレンジ）",
       "secondary": "",
@@ -103,7 +40,7 @@
       "detailPath": "entities/artists/9c02f9cf3baabd61.json"
     },
     {
-      "rank": 5254,
+      "rank": 5252,
       "id": "f22bdfa90afbcfb0",
       "name": "Kaneki Caw",
       "secondary": "",
@@ -136,7 +73,7 @@
       "detailPath": "entities/artists/f22bdfa90afbcfb0.json"
     },
     {
-      "rank": 5255,
+      "rank": 5253,
       "id": "adb2a23825bbbf6a",
       "name": "Kansha Kangeki Ame Arashi 嵐 / ARASHI",
       "secondary": "",
@@ -169,7 +106,7 @@
       "detailPath": "entities/artists/adb2a23825bbbf6a.json"
     },
     {
-      "rank": 5256,
+      "rank": 5254,
       "id": "1782ea131bb4f95c",
       "name": "Kanzaki Iori feat. Hatsune Miku",
       "secondary": "",
@@ -199,7 +136,7 @@
       "detailPath": "entities/artists/1782ea131bb4f95c.json"
     },
     {
-      "rank": 5257,
+      "rank": 5255,
       "id": "3875f951e8c700d6",
       "name": "kaoling",
       "secondary": "",
@@ -232,7 +169,7 @@
       "detailPath": "entities/artists/3875f951e8c700d6.json"
     },
     {
-      "rank": 5258,
+      "rank": 5256,
       "id": "29bc108e4de7535d",
       "name": "Kaoru Amane",
       "secondary": "",
@@ -265,7 +202,7 @@
       "detailPath": "entities/artists/29bc108e4de7535d.json"
     },
     {
-      "rank": 5259,
+      "rank": 5257,
       "id": "c002de52dd2fcd08",
       "name": "Karasuyasabou",
       "secondary": "",
@@ -298,7 +235,7 @@
       "detailPath": "entities/artists/c002de52dd2fcd08.json"
     },
     {
-      "rank": 5260,
+      "rank": 5258,
       "id": "8da834178ca0ea58",
       "name": "karuta 『Angel Beats!』挿入歌",
       "secondary": "",
@@ -331,7 +268,7 @@
       "detailPath": "entities/artists/8da834178ca0ea58.json"
     },
     {
-      "rank": 5261,
+      "rank": 5259,
       "id": "12203510528ecb83",
       "name": "Kasabuta 千綿ヒデノリ / Hidenori Chiwata",
       "secondary": "",
@@ -364,7 +301,7 @@
       "detailPath": "entities/artists/12203510528ecb83.json"
     },
     {
-      "rank": 5262,
+      "rank": 5260,
       "id": "90894fc3c4e7d5bf",
       "name": "Kashii Moimi ft.KAFU",
       "secondary": "",
@@ -397,7 +334,7 @@
       "detailPath": "entities/artists/90894fc3c4e7d5bf.json"
     },
     {
-      "rank": 5263,
+      "rank": 5261,
       "id": "a3ea727aaadc5abd",
       "name": "KASUMI",
       "secondary": "",
@@ -430,7 +367,7 @@
       "detailPath": "entities/artists/a3ea727aaadc5abd.json"
     },
     {
-      "rank": 5264,
+      "rank": 5262,
       "id": "4bf5c27246932dc1",
       "name": "Katamari",
       "secondary": "",
@@ -463,7 +400,7 @@
       "detailPath": "entities/artists/4bf5c27246932dc1.json"
     },
     {
-      "rank": 5265,
+      "rank": 5263,
       "id": "fd53863e469e1adb",
       "name": "Katame no Willie THE PINBALLS / THE PINBALLS",
       "secondary": "",
@@ -496,7 +433,7 @@
       "detailPath": "entities/artists/fd53863e469e1adb.json"
     },
     {
-      "rank": 5266,
+      "rank": 5264,
       "id": "17e452ffbb0dbf63",
       "name": "Katsuhiko Kurosu",
       "secondary": "",
@@ -529,7 +466,7 @@
       "detailPath": "entities/artists/17e452ffbb0dbf63.json"
     },
     {
-      "rank": 5267,
+      "rank": 5265,
       "id": "9c8e34e414417af6",
       "name": "Katsushika Rhapsody 堂島孝平 / Kohei Dojima",
       "secondary": "",
@@ -562,7 +499,7 @@
       "detailPath": "entities/artists/9c8e34e414417af6.json"
     },
     {
-      "rank": 5268,
+      "rank": 5266,
       "id": "707a4f5fd93cf22c",
       "name": "Katy Perry ft. Juicy J",
       "secondary": "",
@@ -595,7 +532,7 @@
       "detailPath": "entities/artists/707a4f5fd93cf22c.json"
     },
     {
-      "rank": 5269,
+      "rank": 5267,
       "id": "d10b00ca11a93a08",
       "name": "Kawaikute Gomen",
       "secondary": "",
@@ -628,7 +565,7 @@
       "detailPath": "entities/artists/d10b00ca11a93a08.json"
     },
     {
-      "rank": 5270,
+      "rank": 5268,
       "id": "b009c263fcc17ca4",
       "name": "Kaze Fujii",
       "secondary": "",
@@ -661,7 +598,7 @@
       "detailPath": "entities/artists/b009c263fcc17ca4.json"
     },
     {
-      "rank": 5271,
+      "rank": 5269,
       "id": "e529a546cc9313f5",
       "name": "Kaze ni Naru つじあやの / Ayano Tsuji",
       "secondary": "",
@@ -694,7 +631,7 @@
       "detailPath": "entities/artists/e529a546cc9313f5.json"
     },
     {
-      "rank": 5272,
+      "rank": 5270,
       "id": "9f6a358b723ff868",
       "name": "KDDI CMソング",
       "secondary": "",
@@ -727,7 +664,7 @@
       "detailPath": "entities/artists/9f6a358b723ff868.json"
     },
     {
-      "rank": 5273,
+      "rank": 5271,
       "id": "ba2e4b3f67d6d102",
       "name": "keeno acoustic ver",
       "secondary": "",
@@ -760,7 +697,7 @@
       "detailPath": "entities/artists/ba2e4b3f67d6d102.json"
     },
     {
-      "rank": 5274,
+      "rank": 5272,
       "id": "45077875dade996d",
       "name": "keeno ft. Hatsune Miku",
       "secondary": "",
@@ -793,7 +730,7 @@
       "detailPath": "entities/artists/45077875dade996d.json"
     },
     {
-      "rank": 5275,
+      "rank": 5273,
       "id": "e40df5c4a7bebfda",
       "name": "keeno 様",
       "secondary": "",
@@ -823,7 +760,7 @@
       "detailPath": "entities/artists/e40df5c4a7bebfda.json"
     },
     {
-      "rank": 5276,
+      "rank": 5274,
       "id": "df7ddbfee78315a6",
       "name": "keeno,25時、ナイトコードで。 (2024) ゲーム「プロジェクトセカイ カラフルステージ！ feat.初音ミク」",
       "secondary": "",
@@ -856,7 +793,7 @@
       "detailPath": "entities/artists/df7ddbfee78315a6.json"
     },
     {
-      "rank": 5277,
+      "rank": 5275,
       "id": "5c09dba5a593de32",
       "name": "keeno(途中まで)",
       "secondary": "",
@@ -889,7 +826,7 @@
       "detailPath": "entities/artists/5c09dba5a593de32.json"
     },
     {
-      "rank": 5278,
+      "rank": 5276,
       "id": "73ba7d0ce71a0e86",
       "name": "Keep us warm aba",
       "secondary": "",
@@ -922,7 +859,7 @@
       "detailPath": "entities/artists/73ba7d0ce71a0e86.json"
     },
     {
-      "rank": 5279,
+      "rank": 5277,
       "id": "9bbf9da7dddf7222",
       "name": "KEI (KEI)",
       "secondary": "",
@@ -955,7 +892,7 @@
       "detailPath": "entities/artists/9bbf9da7dddf7222.json"
     },
     {
-      "rank": 5280,
+      "rank": 5278,
       "id": "4c6fdda9d4f25653",
       "name": "KEI ft. Hatsune Miku",
       "secondary": "",
@@ -988,7 +925,7 @@
       "detailPath": "entities/artists/4c6fdda9d4f25653.json"
     },
     {
-      "rank": 5281,
+      "rank": 5279,
       "id": "51af6957c3f6623c",
       "name": "KEISUKE",
       "secondary": "",
@@ -1021,7 +958,7 @@
       "detailPath": "entities/artists/51af6957c3f6623c.json"
     },
     {
-      "rank": 5282,
+      "rank": 5280,
       "id": "11c506f6b176ee1b",
       "name": "Kelly Clarkson",
       "secondary": "",
@@ -1051,7 +988,7 @@
       "detailPath": "entities/artists/11c506f6b176ee1b.json"
     },
     {
-      "rank": 5283,
+      "rank": 5281,
       "id": "f7751d4cfc8173d3",
       "name": "KELUN",
       "secondary": "",
@@ -1084,7 +1021,7 @@
       "detailPath": "entities/artists/f7751d4cfc8173d3.json"
     },
     {
-      "rank": 5284,
+      "rank": 5282,
       "id": "244b232a59f1007e",
       "name": "kemu feat. GUMI,鏡音リン",
       "secondary": "",
@@ -1117,7 +1054,7 @@
       "detailPath": "entities/artists/244b232a59f1007e.json"
     },
     {
-      "rank": 5285,
+      "rank": 5283,
       "id": "37cf3f91b5d96826",
       "name": "kemu feat. GUMI,鏡音リン [かな、マネ]",
       "secondary": "",
@@ -1150,7 +1087,7 @@
       "detailPath": "entities/artists/37cf3f91b5d96826.json"
     },
     {
-      "rank": 5286,
+      "rank": 5284,
       "id": "86f0b98ea1e28e9e",
       "name": "kemu feat.IA 2012年",
       "secondary": "",
@@ -1180,7 +1117,7 @@
       "detailPath": "entities/artists/86f0b98ea1e28e9e.json"
     },
     {
-      "rank": 5287,
+      "rank": 5285,
       "id": "c9a78772255db689",
       "name": "KEMU VOXX feat. GUMI",
       "secondary": "",
@@ -1213,7 +1150,7 @@
       "detailPath": "entities/artists/c9a78772255db689.json"
     },
     {
-      "rank": 5288,
+      "rank": 5286,
       "id": "5ee2667a63f58a61",
       "name": "kemu 様",
       "secondary": "",
@@ -1243,7 +1180,7 @@
       "detailPath": "entities/artists/5ee2667a63f58a61.json"
     },
     {
-      "rank": 5289,
+      "rank": 5287,
       "id": "4b21179fda48bd1b",
       "name": "kemu,堀江晶太,中村イネ",
       "secondary": "",
@@ -1273,7 +1210,7 @@
       "detailPath": "entities/artists/4b21179fda48bd1b.json"
     },
     {
-      "rank": 5290,
+      "rank": 5288,
       "id": "3db3896465d9c6eb",
       "name": "kemu（ワンコーラス）",
       "secondary": "",
@@ -1306,7 +1243,7 @@
       "detailPath": "entities/artists/3db3896465d9c6eb.json"
     },
     {
-      "rank": 5291,
+      "rank": 5289,
       "id": "ae75c257cca38cc7",
       "name": "Kenji Ozawa featuring SchaDaraParr",
       "secondary": "",
@@ -1339,7 +1276,7 @@
       "detailPath": "entities/artists/ae75c257cca38cc7.json"
     },
     {
-      "rank": 5292,
+      "rank": 5290,
       "id": "18d87a73856865a2",
       "name": "Kenshi Yonezu, Hikaru Utada",
       "secondary": "",
@@ -1372,7 +1309,7 @@
       "detailPath": "entities/artists/18d87a73856865a2.json"
     },
     {
-      "rank": 5293,
+      "rank": 5291,
       "id": "4310cd13a3b32efd",
       "name": "Kenshi Yonezu, Masaki Suda",
       "secondary": "",
@@ -1405,7 +1342,7 @@
       "detailPath": "entities/artists/4310cd13a3b32efd.json"
     },
     {
-      "rank": 5294,
+      "rank": 5292,
       "id": "0e7861061a7965ec",
       "name": "Kenta Sato",
       "secondary": "",
@@ -1435,7 +1372,7 @@
       "detailPath": "entities/artists/0e7861061a7965ec.json"
     },
     {
-      "rank": 5295,
+      "rank": 5293,
       "id": "2cddbd350e80d35a",
       "name": "Kesha",
       "secondary": "",
@@ -1468,7 +1405,7 @@
       "detailPath": "entities/artists/2cddbd350e80d35a.json"
     },
     {
-      "rank": 5296,
+      "rank": 5294,
       "id": "b3aae96b42670514",
       "name": "Kessoku Band",
       "secondary": "",
@@ -1501,7 +1438,7 @@
       "detailPath": "entities/artists/b3aae96b42670514.json"
     },
     {
-      "rank": 5297,
+      "rank": 5295,
       "id": "1efff9536fbcb5b2",
       "name": "Khezu love",
       "secondary": "",
@@ -1534,7 +1471,7 @@
       "detailPath": "entities/artists/1efff9536fbcb5b2.json"
     },
     {
-      "rank": 5298,
+      "rank": 5296,
       "id": "3082ddce998c23ce",
       "name": "ki-you",
       "secondary": "",
@@ -1567,7 +1504,7 @@
       "detailPath": "entities/artists/3082ddce998c23ce.json"
     },
     {
-      "rank": 5299,
+      "rank": 5297,
       "id": "46a8f5c2fb5ef36d",
       "name": "ki-you feat. りむる",
       "secondary": "",
@@ -1597,7 +1534,7 @@
       "detailPath": "entities/artists/46a8f5c2fb5ef36d.json"
     },
     {
-      "rank": 5300,
+      "rank": 5298,
       "id": "cba2377e236dea6c",
       "name": "KICK BACK 米津玄師 / Kenshi Yonezu",
       "secondary": "",
@@ -1628,6 +1565,72 @@
         }
       ],
       "detailPath": "entities/artists/cba2377e236dea6c.json"
+    },
+    {
+      "rank": 5299,
+      "id": "637b5ccf40c837ea",
+      "name": "kiki vivi lily",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "DVqzj4_Dzwc",
+          "videoTitle": "【#歌枠】予定がなくなったので うたいます。 #vrchat #vrchatmusic",
+          "channelName": "こか ちぃさ",
+          "publishedAt": "2026-09-23T05:12:59.656Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/DVqzj4_Dzwc/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAItOccYQNMbZaGMSAnpxK4gLdO5g",
+          "sourcePath": "sources/DV/DVqzj4_Dzwc.json",
+          "time": "1:16:58",
+          "seconds": 4618,
+          "songTitle": "80denier",
+          "artist": "kiki vivi lily"
+        }
+      ],
+      "detailPath": "entities/artists/637b5ccf40c837ea.json"
+    },
+    {
+      "rank": 5300,
+      "id": "895b15d30730d27c",
+      "name": "Kimagure Romantic いきものがかり / Ikimonogakari",
+      "secondary": "",
+      "channelId": "UCn96OplCt4OcK7uj9yxS_cw",
+      "channelHandle": "@kaixyui",
+      "channelUrl": "",
+      "occurrenceCount": 1,
+      "videoCount": 1,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "91OdueaGwYQ",
+          "videoTitle": "【#歌枠】初見さんリクエスト歓迎！ JPOP、アニソン、平成から昭和まで色々歌うよ【解 #VTuber】",
+          "channelName": "解 -Kai-",
+          "publishedAt": "2026-10-07T11:21:22.431Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/91OdueaGwYQ/hqdefault.jpg",
+          "sourcePath": "sources/91/91OdueaGwYQ.json",
+          "time": "0:25:21",
+          "seconds": 1521,
+          "songTitle": "気まぐれロマンティック",
+          "artist": "Kimagure Romantic いきものがかり / Ikimonogakari"
+        }
+      ],
+      "detailPath": "entities/artists/895b15d30730d27c.json"
     }
   ]
 }

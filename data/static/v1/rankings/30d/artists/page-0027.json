@@ -1,74 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "30d",
   "type": "artists",
   "page": 27,
   "pageSize": 50,
   "pageCount": 218,
-  "totalCount": 10871,
+  "totalCount": 10857,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
       "rank": 1301,
-      "id": "f9a935a22119ad3d",
-      "name": "カネコアヤノ",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 5,
-      "songCount": 6,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "ReLiBPP5y0Y",
-          "videoTitle": "【#歌枠】初見さん歓迎◎弾き語り1曲聞いていく？？🎸【INARI / 新人VTuber】#shorts #vtuber #vsinger",
-          "channelName": "INARI",
-          "publishedAt": "2026-09-23T10:32:27.386Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/ReLiBPP5y0Y/hqdefault.jpg",
-          "sourcePath": "sources/Re/ReLiBPP5y0Y.json",
-          "time": "0:14:25",
-          "seconds": 865,
-          "songTitle": "光の方へ",
-          "artist": "カネコアヤノ"
-        },
-        {
-          "videoId": "mSRiUOWnk0o",
-          "videoTitle": "【 弾き語り／歌枠 】VackOn！本番前日まだ間に合う‼チケット5枚耐久歌枠！#Vsinger #からくりんね Singing Stream",
-          "channelName": "からくりんね-KarakuRinne",
-          "publishedAt": "2026-09-22T13:30:37.501Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/mSRiUOWnk0o/hqdefault.jpg",
-          "sourcePath": "sources/mS/mSRiUOWnk0o.json",
-          "time": "1:26:08",
-          "seconds": 5168,
-          "songTitle": "さびしくない",
-          "artist": "カネコアヤノ"
-        },
-        {
-          "videoId": "W2jfNprUwa8",
-          "videoTitle": "【弾き語り】久しぶりに歌える…？と思ったら元通りだった",
-          "channelName": "ファニ / FANI",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/W2jfNprUwa8/hqdefault.jpg",
-          "sourcePath": "sources/W2/W2jfNprUwa8.json",
-          "time": "0:02:29",
-          "seconds": 149,
-          "songTitle": "やさしいギター",
-          "artist": "カネコアヤノ"
-        }
-      ],
-      "detailPath": "entities/artists/f9a935a22119ad3d.json"
-    },
-    {
-      "rank": 1302,
       "id": "7ed905cc1aee32c5",
       "name": "さとう",
       "secondary": "",
@@ -125,7 +67,7 @@
       "detailPath": "entities/artists/7ed905cc1aee32c5.json"
     },
     {
-      "rank": 1303,
+      "rank": 1302,
       "id": "1c057c0a76a89842",
       "name": "ナイトメア",
       "secondary": "",
@@ -182,7 +124,7 @@
       "detailPath": "entities/artists/1c057c0a76a89842.json"
     },
     {
-      "rank": 1304,
+      "rank": 1303,
       "id": "c808c70703b0ea82",
       "name": "なにわ男子",
       "secondary": "",
@@ -240,7 +182,7 @@
       "detailPath": "entities/artists/c808c70703b0ea82.json"
     },
     {
-      "rank": 1305,
+      "rank": 1304,
       "id": "94b395042fc42dea",
       "name": "ひらぎ",
       "secondary": "",
@@ -297,7 +239,7 @@
       "detailPath": "entities/artists/94b395042fc42dea.json"
     },
     {
-      "rank": 1306,
+      "rank": 1305,
       "id": "c6e62f44f4864bd5",
       "name": "ワルキューレ ※JOYSOUND",
       "secondary": "",
@@ -354,7 +296,7 @@
       "detailPath": "entities/artists/c6e62f44f4864bd5.json"
     },
     {
-      "rank": 1307,
+      "rank": 1306,
       "id": "133a4805cb6611f5",
       "name": "宇野ゆう子",
       "secondary": "",
@@ -412,7 +354,7 @@
       "detailPath": "entities/artists/133a4805cb6611f5.json"
     },
     {
-      "rank": 1308,
+      "rank": 1307,
       "id": "b4fec3e7b334fd2f",
       "name": "花海咲季",
       "secondary": "",
@@ -469,7 +411,7 @@
       "detailPath": "entities/artists/b4fec3e7b334fd2f.json"
     },
     {
-      "rank": 1309,
+      "rank": 1308,
       "id": "b46e9da17d96ba86",
       "name": "鋼の錬金術師",
       "secondary": "",
@@ -526,7 +468,7 @@
       "detailPath": "entities/artists/b46e9da17d96ba86.json"
     },
     {
-      "rank": 1310,
+      "rank": 1309,
       "id": "82dc6fa46aa81fca",
       "name": "高橋洋子 ※JOYSOUND",
       "secondary": "",
@@ -583,7 +525,7 @@
       "detailPath": "entities/artists/82dc6fa46aa81fca.json"
     },
     {
-      "rank": 1311,
+      "rank": 1310,
       "id": "dbfc54f4387fbefa",
       "name": "美郷あき",
       "secondary": "",
@@ -643,7 +585,7 @@
       "detailPath": "entities/artists/dbfc54f4387fbefa.json"
     },
     {
-      "rank": 1312,
+      "rank": 1311,
       "id": "6966052cc3221631",
       "name": "風",
       "secondary": "",
@@ -700,7 +642,7 @@
       "detailPath": "entities/artists/6966052cc3221631.json"
     },
     {
-      "rank": 1313,
+      "rank": 1312,
       "id": "34a45842b9a9be20",
       "name": "24",
       "secondary": "",
@@ -754,65 +696,7 @@
       "detailPath": "entities/artists/34a45842b9a9be20.json"
     },
     {
-      "rank": 1314,
-      "id": "d340d21a98227cbd",
-      "name": "40mP feat.Hatsune Miku",
-      "secondary": "",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 6,
-      "videoCount": 4,
-      "songCount": 5,
-      "keywords": [
-        "mygit今日快照",
-        "弾き語り",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "K1Uei9w8EzU",
-          "videoTitle": "【 #弾き語り 】初見さん10名様に出会いたい！深夜の弾き語り【 #323みすみ 】#Vtuber",
-          "channelName": "323(みすみ) -Misumi-",
-          "publishedAt": "2026-10-02T17:41:29.813Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/K1Uei9w8EzU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNFLpbl-ItFegVO26mag6PCnNv-g",
-          "sourcePath": "sources/K1/K1Uei9w8EzU.json",
-          "time": "0:48:04",
-          "seconds": 2884,
-          "songTitle": "Love Trial",
-          "artist": "40mP feat.Hatsune Miku"
-        },
-        {
-          "videoId": "EyMzFkoZnAU",
-          "videoTitle": "【 #弾き語り】ライブで出会ったきみへ。夜の癒し歌枠 初見さん大歓迎【 #323みすみ 】#Vtuber",
-          "channelName": "323(みすみ) -Misumi-",
-          "publishedAt": "2026-09-27T19:03:05.009Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/EyMzFkoZnAU/hqdefault.jpg",
-          "sourcePath": "sources/Ey/EyMzFkoZnAU.json",
-          "time": "2:24:26",
-          "seconds": 8666,
-          "songTitle": "Amaoto Noizu",
-          "artist": "40mP feat.Hatsune Miku"
-        },
-        {
-          "videoId": "bFQLxgzEBhI",
-          "videoTitle": "【歌枠】今週もおつかれさま！あなたの魂を揺らすVsinger―【VTuber/配信中】",
-          "channelName": "Shitora ch. 涼風しとら",
-          "publishedAt": "2026-09-25T00:00:00.000Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/bFQLxgzEBhI/hqdefault.jpg",
-          "sourcePath": "sources/bF/bFQLxgzEBhI.json",
-          "time": "1:50:30",
-          "seconds": 6630,
-          "songTitle": "Karakuri Pierrot",
-          "artist": "40mP feat. Hatsune Miku"
-        }
-      ],
-      "detailPath": "entities/artists/d340d21a98227cbd.json"
-    },
-    {
-      "rank": 1315,
+      "rank": 1313,
       "id": "5e5cba66efc6a6b9",
       "name": "BLEACH",
       "secondary": "",
@@ -869,7 +753,7 @@
       "detailPath": "entities/artists/5e5cba66efc6a6b9.json"
     },
     {
-      "rank": 1316,
+      "rank": 1314,
       "id": "10048a60b51dc817",
       "name": "DYES IWASAKI",
       "secondary": "",
@@ -926,7 +810,7 @@
       "detailPath": "entities/artists/10048a60b51dc817.json"
     },
     {
-      "rank": 1317,
+      "rank": 1315,
       "id": "91ff411bf41669b7",
       "name": "Islet feat.倚水",
       "secondary": "",
@@ -983,7 +867,7 @@
       "detailPath": "entities/artists/91ff411bf41669b7.json"
     },
     {
-      "rank": 1318,
+      "rank": 1316,
       "id": "8a3c21f0c640c3d8",
       "name": "maroon 5",
       "secondary": "",
@@ -1040,7 +924,7 @@
       "detailPath": "entities/artists/8a3c21f0c640c3d8.json"
     },
     {
-      "rank": 1319,
+      "rank": 1317,
       "id": "d3bcd2ea27afb231",
       "name": "Neko Hacker",
       "secondary": "",
@@ -1097,7 +981,7 @@
       "detailPath": "entities/artists/d3bcd2ea27afb231.json"
     },
     {
-      "rank": 1320,
+      "rank": 1318,
       "id": "ef7f7cb086d96985",
       "name": "NIGHTMARE",
       "secondary": "",
@@ -1154,7 +1038,7 @@
       "detailPath": "entities/artists/ef7f7cb086d96985.json"
     },
     {
-      "rank": 1321,
+      "rank": 1319,
       "id": "b3b292b4febb1e97",
       "name": "Pay money To my Pain",
       "secondary": "",
@@ -1211,7 +1095,7 @@
       "detailPath": "entities/artists/b3b292b4febb1e97.json"
     },
     {
-      "rank": 1322,
+      "rank": 1320,
       "id": "6cb0e3ea4606554d",
       "name": "Sheena Ringo",
       "secondary": "",
@@ -1269,7 +1153,7 @@
       "detailPath": "entities/artists/6cb0e3ea4606554d.json"
     },
     {
-      "rank": 1323,
+      "rank": 1321,
       "id": "b69fb7d38f8dcfb5",
       "name": "SPLAY",
       "secondary": "",
@@ -1327,7 +1211,7 @@
       "detailPath": "entities/artists/b69fb7d38f8dcfb5.json"
     },
     {
-      "rank": 1324,
+      "rank": 1322,
       "id": "bc2e3a4d64823b7c",
       "name": "Varium",
       "secondary": "",
@@ -1384,7 +1268,7 @@
       "detailPath": "entities/artists/bc2e3a4d64823b7c.json"
     },
     {
-      "rank": 1325,
+      "rank": 1323,
       "id": "f3e789d68b69b303",
       "name": "ViViD",
       "secondary": "",
@@ -1441,7 +1325,7 @@
       "detailPath": "entities/artists/f3e789d68b69b303.json"
     },
     {
-      "rank": 1326,
+      "rank": 1324,
       "id": "abdf91e1ce1c97cd",
       "name": "つばきファクトリー",
       "secondary": "",
@@ -1498,7 +1382,7 @@
       "detailPath": "entities/artists/abdf91e1ce1c97cd.json"
     },
     {
-      "rank": 1327,
+      "rank": 1325,
       "id": "c26ad20623c18eb4",
       "name": "るか・もな・みきfrom AIKATSU☆STARS!",
       "secondary": "",
@@ -1555,7 +1439,7 @@
       "detailPath": "entities/artists/c26ad20623c18eb4.json"
     },
     {
-      "rank": 1328,
+      "rank": 1326,
       "id": "1ed11e0d2785c53a",
       "name": "化物語",
       "secondary": "",
@@ -1612,7 +1496,7 @@
       "detailPath": "entities/artists/1ed11e0d2785c53a.json"
     },
     {
-      "rank": 1329,
+      "rank": 1327,
       "id": "9fb10a17df40f597",
       "name": "機動戦士ガンダム 水星の魔女",
       "secondary": "",
@@ -1669,7 +1553,7 @@
       "detailPath": "entities/artists/9fb10a17df40f597.json"
     },
     {
-      "rank": 1330,
+      "rank": 1328,
       "id": "ce3e327b4b810b76",
       "name": "鎖那",
       "secondary": "",
@@ -1727,7 +1611,7 @@
       "detailPath": "entities/artists/ce3e327b4b810b76.json"
     },
     {
-      "rank": 1331,
+      "rank": 1329,
       "id": "bfe03cf42181493c",
       "name": "風車ひまり",
       "secondary": "",
@@ -1781,7 +1665,7 @@
       "detailPath": "entities/artists/bfe03cf42181493c.json"
     },
     {
-      "rank": 1332,
+      "rank": 1330,
       "id": "1b4dc16d91b3a82a",
       "name": "涼宮ハルヒの憂鬱",
       "secondary": "",
@@ -1838,7 +1722,7 @@
       "detailPath": "entities/artists/1b4dc16d91b3a82a.json"
     },
     {
-      "rank": 1333,
+      "rank": 1331,
       "id": "36f18a353df28a59",
       "name": "衞蘭",
       "secondary": "",
@@ -1895,7 +1779,7 @@
       "detailPath": "entities/artists/36f18a353df28a59.json"
     },
     {
-      "rank": 1334,
+      "rank": 1332,
       "id": "876f0d0f5ca71209",
       "name": "25",
       "secondary": "",
@@ -1949,7 +1833,7 @@
       "detailPath": "entities/artists/876f0d0f5ca71209.json"
     },
     {
-      "rank": 1335,
+      "rank": 1333,
       "id": "a49d420dbba75a4b",
       "name": "Alpha Betta",
       "secondary": "",
@@ -2006,7 +1890,7 @@
       "detailPath": "entities/artists/a49d420dbba75a4b.json"
     },
     {
-      "rank": 1336,
+      "rank": 1334,
       "id": "3512c4322f568d58",
       "name": "FLANICA",
       "secondary": "",
@@ -2063,7 +1947,7 @@
       "detailPath": "entities/artists/3512c4322f568d58.json"
     },
     {
-      "rank": 1337,
+      "rank": 1335,
       "id": "f05888ffa8ebf916",
       "name": "Seiko Matsuda",
       "secondary": "",
@@ -2121,7 +2005,7 @@
       "detailPath": "entities/artists/f05888ffa8ebf916.json"
     },
     {
-      "rank": 1338,
+      "rank": 1336,
       "id": "e9e155fd92719891",
       "name": "Tia",
       "secondary": "",
@@ -2178,7 +2062,7 @@
       "detailPath": "entities/artists/e9e155fd92719891.json"
     },
     {
-      "rank": 1339,
+      "rank": 1337,
       "id": "22c22afda9813f35",
       "name": "えるるん",
       "secondary": "",
@@ -2236,7 +2120,7 @@
       "detailPath": "entities/artists/22c22afda9813f35.json"
     },
     {
-      "rank": 1340,
+      "rank": 1338,
       "id": "b361f457d341ff4d",
       "name": "リズム感のある者たちver.",
       "secondary": "",
@@ -2293,7 +2177,7 @@
       "detailPath": "entities/artists/b361f457d341ff4d.json"
     },
     {
-      "rank": 1341,
+      "rank": 1339,
       "id": "010e89afa21b616d",
       "name": "ロマニードットアイオー 🔷",
       "secondary": "",
@@ -2350,7 +2234,7 @@
       "detailPath": "entities/artists/010e89afa21b616d.json"
     },
     {
-      "rank": 1342,
+      "rank": 1340,
       "id": "3966fdee9f0bdabf",
       "name": "鬼滅の刃",
       "secondary": "",
@@ -2407,7 +2291,7 @@
       "detailPath": "entities/artists/3966fdee9f0bdabf.json"
     },
     {
-      "rank": 1343,
+      "rank": 1341,
       "id": "4f544e766ac966bc",
       "name": "黒咲ルシア",
       "secondary": "",
@@ -2464,7 +2348,7 @@
       "detailPath": "entities/artists/4f544e766ac966bc.json"
     },
     {
-      "rank": 1344,
+      "rank": 1342,
       "id": "394c35556a01d409",
       "name": "主催",
       "secondary": "",
@@ -2518,7 +2402,7 @@
       "detailPath": "entities/artists/394c35556a01d409.json"
     },
     {
-      "rank": 1345,
+      "rank": 1343,
       "id": "e9e661f62195770f",
       "name": "白噛ましゅー",
       "secondary": "",
@@ -2575,7 +2459,7 @@
       "detailPath": "entities/artists/e9e661f62195770f.json"
     },
     {
-      "rank": 1346,
+      "rank": 1344,
       "id": "2bec19fdc0a24b79",
       "name": "People In The Box",
       "secondary": "",
@@ -2617,7 +2501,7 @@
       "detailPath": "entities/artists/2bec19fdc0a24b79.json"
     },
     {
-      "rank": 1347,
+      "rank": 1345,
       "id": "bec15c358e4cdb86",
       "name": "いきものがかり(水野良樹)",
       "secondary": "",
@@ -2662,7 +2546,7 @@
       "detailPath": "entities/artists/bec15c358e4cdb86.json"
     },
     {
-      "rank": 1348,
+      "rank": 1346,
       "id": "eee7e0aa03699ef8",
       "name": "ウィキッド",
       "secondary": "",
@@ -2707,7 +2591,7 @@
       "detailPath": "entities/artists/eee7e0aa03699ef8.json"
     },
     {
-      "rank": 1349,
+      "rank": 1347,
       "id": "813d53c38b1803b2",
       "name": "彩華すゞり",
       "secondary": "",
@@ -2752,7 +2636,7 @@
       "detailPath": "entities/artists/813d53c38b1803b2.json"
     },
     {
-      "rank": 1350,
+      "rank": 1348,
       "id": "28ac5a0bdf3bf89d",
       "name": "西野カナ ※JOYSOUND",
       "secondary": "",
@@ -2795,6 +2679,69 @@
         }
       ],
       "detailPath": "entities/artists/28ac5a0bdf3bf89d.json"
+    },
+    {
+      "rank": 1349,
+      "id": "3dec66e4f9f92302",
+      "name": "1993",
+      "secondary": "",
+      "channelId": "UCYrD0KT-1UZTZhNGd129Nxw",
+      "channelHandle": "@MIFUYU2113",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 1,
+      "songCount": 6,
+      "keywords": [],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "o2FsMGTTpdA",
+          "videoTitle": "#歌枠 ❅ エヘン虫に勝って懐かしい曲歌いたい！ ❅ #深冬",
+          "channelName": "深冬 -mifuyu-",
+          "publishedAt": "2026-09-26T00:00:00.000Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/o2FsMGTTpdA/hqdefault.jpg",
+          "sourcePath": "sources/o2/o2FsMGTTpdA.json",
+          "time": "0:04:38",
+          "seconds": 278,
+          "songTitle": "会いたい 沢田知可子",
+          "artist": "1993"
+        }
+      ],
+      "detailPath": "entities/artists/3dec66e4f9f92302.json"
+    },
+    {
+      "rank": 1350,
+      "id": "fd60bb5785cc8f7f",
+      "name": "アーバンギャルド",
+      "secondary": "",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 6,
+      "videoCount": 1,
+      "songCount": 6,
+      "keywords": [
+        "mygit今日快照",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "oycgTlJPsnE",
+          "videoTitle": "【日曜定期歌枠】世界が終ろうとあなたを逃がさない大暗黒｜KARAOKE【七原帝子】#vtuber #歌枠 #vsinger",
+          "channelName": "TBB:帝子ボンボンちゃんねる (TBB:Teikobonbon ch)",
+          "publishedAt": "2026-09-13T11:10:49.575Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oycgTlJPsnE/hqdefault.jpg",
+          "sourcePath": "sources/oy/oycgTlJPsnE.json",
+          "time": "2:34:32",
+          "seconds": 9272,
+          "songTitle": "ノンフィクションソング",
+          "artist": "アーバンギャルド"
+        }
+      ],
+      "detailPath": "entities/artists/fd60bb5785cc8f7f.json"
     }
   ]
 }

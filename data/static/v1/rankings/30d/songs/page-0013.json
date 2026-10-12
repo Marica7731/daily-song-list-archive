@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T13:59:30.716Z",
+  "generatedAt": "2026-10-12T14:06:22.198Z",
   "range": "30d",
   "type": "songs",
   "page": 13,
   "pageSize": 50,
-  "pageCount": 555,
-  "totalCount": 27721,
+  "pageCount": 554,
+  "totalCount": 27690,
   "continuityStart": "2026-06-26T00:07:13.845Z",
   "items": [
     {
@@ -2309,6 +2309,64 @@
     },
     {
       "rank": 641,
+      "id": "cb2adc7653286a4e",
+      "name": "モニタリング",
+      "secondary": "DECO*27 feat. 初音ミク",
+      "channelId": "",
+      "channelHandle": "",
+      "channelUrl": "",
+      "occurrenceCount": 17,
+      "videoCount": 17,
+      "songCount": 1,
+      "keywords": [
+        "mygit今日快照",
+        "弾き語り",
+        "歌枠"
+      ],
+      "collected": false,
+      "collectionId": "",
+      "sourcesPreview": [
+        {
+          "videoId": "Xr5Ye_-NzGg",
+          "videoTitle": "【歌枠 / KARAOKE】2nd原創曲公開直前！🔥 一起唱到首播開始！｜動漫歌・J-POP・廣東歌｜陪你工作 #478｜點歌OK｜廣東話・中文・日本語OK【魔女ルンナ/魔女Runna】",
+          "channelName": "魔女ルンナ I 魔女Runna 🔮🌕 I JP & HKVtuber",
+          "publishedAt": "2026-10-09T13:21:04.054Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Xr5Ye_-NzGg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCNSKHk-IeFXLZ74zRNzrILkVMCzA",
+          "sourcePath": "sources/Xr/Xr5Ye_-NzGg.json",
+          "time": "0:46:26",
+          "seconds": 2786,
+          "songTitle": "モニタリング",
+          "artist": "DECO*27 feat. 初音ミク"
+        },
+        {
+          "videoId": "rJUioH_Rptw",
+          "videoTitle": "【弾き語り】ゆったり弾き語りの可能性、あり【すずみりん/＃新人vtuber】",
+          "channelName": "すずみりん",
+          "publishedAt": "2026-10-04T13:59:46.358Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rJUioH_Rptw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmPbIzeNElw45aEjiV3taUDQoFiw",
+          "sourcePath": "sources/rJ/rJUioH_Rptw.json",
+          "time": "1:22:58",
+          "seconds": 4978,
+          "songTitle": "モニタリング",
+          "artist": "DECO*27 feat. 初音ミク"
+        },
+        {
+          "videoId": "bkJRl4FiEVk",
+          "videoTitle": "#歌枠 ⌇金曜遅めの20時定期歌枠！#73 🐟🎤初見さん大歓迎！singing stream【夢川かなう/リアクト/Vtuber】",
+          "channelName": "夢川かなう - Kanau Yumekawa",
+          "publishedAt": "2026-10-02T13:14:01.681Z",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bkJRl4FiEVk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6-zRHGi8h0f0gZOSIFsoSvC5GDw",
+          "sourcePath": "sources/bk/bkJRl4FiEVk.json",
+          "time": "0:18:03",
+          "seconds": 1083,
+          "songTitle": "モニタリング",
+          "artist": "DECO*27 feat. 初音ミク"
+        }
+      ],
+      "detailPath": "entities/songs/cb2adc7653286a4e.json"
+    },
+    {
+      "rank": 642,
       "id": "07e91a4fe0ef6bc5",
       "name": "ラヴィ",
       "secondary": "すりぃ feat. 鏡音レン",
@@ -2365,7 +2423,7 @@
       "detailPath": "entities/songs/07e91a4fe0ef6bc5.json"
     },
     {
-      "rank": 642,
+      "rank": 643,
       "id": "2fa420d9d5fdd41c",
       "name": "ラブカ？",
       "secondary": "柊キライ",
@@ -2422,7 +2480,7 @@
       "detailPath": "entities/songs/2fa420d9d5fdd41c.json"
     },
     {
-      "rank": 643,
+      "rank": 644,
       "id": "b272718227cfb04a",
       "name": "ルージュの伝言",
       "secondary": "荒井由実",
@@ -2480,7 +2538,7 @@
       "detailPath": "entities/songs/b272718227cfb04a.json"
     },
     {
-      "rank": 644,
+      "rank": 645,
       "id": "b029e8fbf0cfeb54",
       "name": "悪魔の踊り方",
       "secondary": "キタニタツヤ",
@@ -2538,7 +2596,7 @@
       "detailPath": "entities/songs/b029e8fbf0cfeb54.json"
     },
     {
-      "rank": 645,
+      "rank": 646,
       "id": "92ed9c3d111f3e09",
       "name": "花瓶に触れた",
       "secondary": "バルーン",
@@ -2595,7 +2653,7 @@
       "detailPath": "entities/songs/92ed9c3d111f3e09.json"
     },
     {
-      "rank": 646,
+      "rank": 647,
       "id": "1c4fad27588e72ea",
       "name": "感電",
       "secondary": "米津玄師",
@@ -2652,7 +2710,7 @@
       "detailPath": "entities/songs/1c4fad27588e72ea.json"
     },
     {
-      "rank": 647,
+      "rank": 648,
       "id": "863792820aafb98e",
       "name": "幸福論",
       "secondary": "椎名林檎",
@@ -2710,7 +2768,7 @@
       "detailPath": "entities/songs/863792820aafb98e.json"
     },
     {
-      "rank": 648,
+      "rank": 649,
       "id": "ac54bdd074481542",
       "name": "紅",
       "secondary": "X JAPAN",
@@ -2768,7 +2826,7 @@
       "detailPath": "entities/songs/ac54bdd074481542.json"
     },
     {
-      "rank": 649,
+      "rank": 650,
       "id": "8206e040400db0d3",
       "name": "秋桜",
       "secondary": "山口百恵",
@@ -2824,63 +2882,6 @@
         }
       ],
       "detailPath": "entities/songs/8206e040400db0d3.json"
-    },
-    {
-      "rank": 650,
-      "id": "cc392187b0702c6c",
-      "name": "春擬き",
-      "secondary": "やなぎなぎ",
-      "channelId": "",
-      "channelHandle": "",
-      "channelUrl": "",
-      "occurrenceCount": 17,
-      "videoCount": 17,
-      "songCount": 1,
-      "keywords": [
-        "mygit今日快照",
-        "歌枠"
-      ],
-      "collected": false,
-      "collectionId": "",
-      "sourcesPreview": [
-        {
-          "videoId": "rWNuZfEKT_E",
-          "videoTitle": "【歌枠】癒されたい方おいでっ！月曜日のチルタイム🎤🤍初見さん＆作業用BGM大歓迎【 個人Vtuber┊︎#ふぇりしあ 】Karaoke Singing stream",
-          "channelName": "ふぇりしあ / Felicia Ch",
-          "publishedAt": "2026-10-05T14:07:33.015Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/rWNuZfEKT_E/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCEGrjDryag0pcMqc4gwwHzzwihZw",
-          "sourcePath": "sources/rW/rWNuZfEKT_E.json",
-          "time": "0:45:33",
-          "seconds": 2733,
-          "songTitle": "春擬き",
-          "artist": "やなぎなぎ"
-        },
-        {
-          "videoId": "YEipc9KRH4o",
-          "videoTitle": "【#歌枠】お仕事都合で今週は日曜日に歌うことになりました。【#如月ふみ #歌枠】",
-          "channelName": "如月ふみ(kisaragi fumi)",
-          "publishedAt": "2026-10-04T10:22:07.222Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/YEipc9KRH4o/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCLdb8tg24cY3jxgaq9wsBvQirrSA",
-          "sourcePath": "sources/YE/YEipc9KRH4o.json",
-          "time": "0:20:00",
-          "seconds": 1200,
-          "songTitle": "春擬き",
-          "artist": "やなぎなぎ"
-        },
-        {
-          "videoId": "nG1mT-Q8-68",
-          "videoTitle": "【#歌枠 / Karaoke】みんなお久しぶり！歌枠!!【ンニマニティ：神紀美火】 #新人vtuber",
-          "channelName": "神紀美火",
-          "publishedAt": "2026-10-02T14:26:15.499Z",
-          "thumbnailUrl": "https://i.ytimg.com/vi/nG1mT-Q8-68/hqdefault.jpg",
-          "sourcePath": "sources/nG/nG1mT-Q8-68.json",
-          "time": "0:38:56",
-          "seconds": 2336,
-          "songTitle": "春擬き",
-          "artist": "やなぎなぎ"
-        }
-      ],
-      "detailPath": "entities/songs/cc392187b0702c6c.json"
     }
   ]
 }
